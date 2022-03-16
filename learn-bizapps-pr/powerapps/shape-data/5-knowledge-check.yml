@@ -14,7 +14,7 @@ durationInMinutes: 6
 quiz: 
   title: Shape data in a Power Apps canvas app knowledge check  
   questions: 
-  - content: What is the correct syntax for a function in Power Apps where you would like to match records if either formula is true?
+  - content: What is the correct syntax for a function in Power Apps where you would like to match rows if either formula is true?
     choices: 
     - content: Country = "Germany" or Country = "France"
       isCorrect: false
@@ -42,17 +42,17 @@ quiz:
     - content: CalculateColumns
       isCorrect: false 
       explanation: AddColumns is the function that can be used. 
-  - content: If the search string is blank, what records are returned?
+  - content: If the search string is blank, what rows are returned?
     choices: 
-    - content: No records are returned.
+    - content: No rows are returned.
       isCorrect: false
-      explanation: All records are returned. 
-    - content: The last user's search records are returned.
+      explanation: All rows are returned. 
+    - content: The last user's search rows are returned.
       isCorrect: false 
-      explanation: All records are returned. 
-    - content: All records are returned.
+      explanation: All rows are returned. 
+    - content: All rows are returned.
       isCorrect: true
-      explanation: All records are returned. 
-    - content: The app creator must specify in the formula what records to return if the search string is blank. 
+      explanation: All rows are returned. 
+    - content: The app creator must specify in the formula what rows to return if the search string is blank. 
       isCorrect: false 
-      explanation: All records are returned. 
+      explanation: All rows are returned. 

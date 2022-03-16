@@ -71,7 +71,7 @@ The **Ideas** feature of the Community portal is an extension of the **Forum** f
 
 The **Ideas** feature is available on the Community portal, Customer self-service portal, and the Employee self-service portal.
 
-To configure ideas on the Community portal, see [Crowdsource ideas](/dynamics365/customer-engagement/portals/crowdsource-ideas/?azure-portal=true).
+To configure ideas on the Community portal, see [Crowdsource ideas](/powerapps/maker/portals/customer-engagement-apps/crowdsource-ideas).
 
 For an organization to best serve its customers or constituents, it needs to allow an easy feedback mechanism. The **Ideas** feature allows portal visitors to submit a particular suggestion to the organization, which could be for a policy change, a new feature, or a new product or service suggestion. 
 
