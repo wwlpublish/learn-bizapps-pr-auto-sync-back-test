@@ -1,4 +1,4 @@
-You add a chart to a webpage by using the Liquid tag [chart](/powerapps/maker/portals/liquid/portals-table-tags?azure-portal=true#chart). As with any Liquid code, you can add the `chart` tag in the page content inside a content snippet, or you can insert it as part of a web template.
+You add a chart to a webpage by using the Liquid tag [chart](/learn/modules/liquid-template-language/?azure-portal=true). As with any Liquid code, you can add the `chart` tag in the page content inside a content snippet, or you can insert it as part of a web template.
 
 ```twig
 {% chart id:"EE3C733D-5693-DE11-97D4-00155DA3B01E" viewid:"00000000-0000-0000-00AA-000010001006" %}
