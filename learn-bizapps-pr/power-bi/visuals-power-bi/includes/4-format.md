@@ -27,7 +27,7 @@ In the following examples, you will edit the title, change the background, and a
 
 ## Title
 
-You can edit a default title and add a title, if you don't have one. In this example, you will select the column chart visualization and then, in the **Format** pane, scroll down and expand the **Title** section. Edit the current title by adding a space between **Sales** and **Amount**, and then increase the font size to 16 points.
+You can edit a default title and add a title, if you don't have one. In this example, you will select the column chart visualization and then, in the **Format** pane, scroll down and expand the **Title** section. Edit the current title by changing it to **Total Sales by Country**, and then increase the font size to 16 points.
 
 > [!div class="mx-imgBorder"]
 > [![Format the visualization title](../media/4-format-visualization-title-ssm.png)](../media/4-format-visualization-title-ssm.png#lightbox)
