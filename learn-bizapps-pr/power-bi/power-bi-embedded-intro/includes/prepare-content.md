@@ -9,12 +9,12 @@ When you're creating embeddable content for an app, it's good practice to store 
 The embedding identity that's used to embed workspace content must have specific permissions.
 
 > [!NOTE]
-> To learn about workspace permissions for internal and external users, work through the [Set up permissions to embed Power BI content](#todo) module.
+> To learn about workspace permissions for internal and external users, work through the Set up permissions to embed Power BI content module.
 
 When designing a multi-tenant solution, you can achieve the separation of tenants by creating one workspace for each tenant. This design pattern is known as *workspace separation*.
 
 > [!NOTE]
-> To learn about workspace separation, work through the [Automate Power BI solution management](#todo) module.
+> To learn about workspace separation, work through the Automate Power BI solution management module.
 
 Every Power BI workspace is uniquely identified by its **GroupID**. Often, the app config file includes hard-coded references to the workspace GroupIDs. The Power BI REST API has operations to enumerate workspace artifacts to retrieve specific properties for embedding purposes.
 
@@ -25,7 +25,7 @@ A Power BI dataset is an artifact that represents a source of data. It typically
 When the app must restrict data access for specific users, datasets can implement [row-level security (RLS)](/power-bi/admin/service-admin-rls/?azure-portal=true). For example, in embedded reports, the sales representative app users must only view their assigned customers. Conversely, the sales manager app users, who view those same reports, can view all customers.
 
 > [!NOTE]
-> To learn how to restrict data access with RLS, work through the [Enforce data permissions for Power BI embedded analytics](#todo) module.
+> To learn how to restrict data access with RLS, work through the Enforce data permissions for Power BI embedded analytics module.
 
 If the app embeds the Q&A experience, it's a good idea to optimize the dataset for Q&A. This process could involve:
 
@@ -80,7 +80,7 @@ Every dashboard is uniquely identified by its **DashboardID**. The DashboardID i
 
 ## Prepare for Q&A
 
-As described in the [datasets](#todo) article, preparing Q&A for embedding involves optimizing the dataset for Q&A.
+As described in the datasets article, preparing Q&A for embedding involves optimizing the dataset for Q&A.
 
 Consider applying a prepopulated question. That way, Q&A reveals the visual response to the question. It's possible that your app can automatically generate the question based on the user's app interactions. As a result, Q&A can provide a way to present dynamically driven analytics.
 

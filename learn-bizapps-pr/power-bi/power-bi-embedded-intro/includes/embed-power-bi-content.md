@@ -17,7 +17,7 @@ Developers can embed all Power BI content types in their apps, including real-ti
 Power BI reports deliver interactive analytical experiences that are designed to encourage exploration and discovery. A well-designed report allows report consumers to discover answers to a broad array of questions. Because there are many visual types, including AI and custom visuals, and interactive features, Power BI reports are the most common Power BI content type that's embedded in apps.
 
 > [!TIP]
-> To learn how to create compelling Power BI reports, work through the [Design effective reports in Power BI](https://docs.microsoft.com/learn/paths/power-bi-effective/?azure-portal=true) learn path.
+> To learn how to create compelling Power BI reports, work through the [Design effective reports in Power BI](/learn/paths/power-bi-effective/?azure-portal=true) learn path.
 
 When embedded, Power BI reports offer the full functionality that report consumers expect when interacting with them in the Power BI service. Whether it's page navigation, slicers, filtering, drillthrough, bookmarks, or buttons, even when they're interacting on small factor devices like mobile phones. However, embedded Power BI reports aren't always about consumption. Apps can allow users to edit reports or create new ones, too.
 
