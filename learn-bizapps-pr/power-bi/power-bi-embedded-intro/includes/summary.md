@@ -3,4 +3,4 @@ Developers can programmatically embed analytics in their apps to enhance the app
 You can embed any type of Power BI content in apps, including AI visuals, custom visuals, and real-time reports and dashboards. Client APIs allow you to seamlessly integrate the content in a way that makes sense to your app and user expectations.
 
 > [!TIP]
-> If you're interested in developing an app that embeds Power BI content, see [Power BI Developer in a Day course](/developer-online-course/?azure-portal=true). This course includes a self-study kit that guides you through developing an ASP.NET Core MVC app.
+> If you're interested in developing an app that embeds Power BI content, see [Power BI Developer in a Day course](/power-bi/learning-catalog/developer-online-course/?azure-portal=true). This course includes a self-study kit that guides you through developing an ASP.NET Core MVC app.
