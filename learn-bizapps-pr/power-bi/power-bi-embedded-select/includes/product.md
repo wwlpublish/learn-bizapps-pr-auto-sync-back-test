@@ -59,7 +59,7 @@ For more information, see the following articles:
 
 -   [Power BI Embedded](https://azure.microsoft.com/services/power-bi-embedded/?azure-portal=true)
 
--   [Power BI Embedded Generation 2](https://docs.microsoft.com/power-bi/developer/embedded/power-bi-embedded-generation-2/?azure-portal=true)
+-   [Power BI Embedded Generation 2](/power-bi/developer/embedded/power-bi-embedded-generation-2/?azure-portal=true)
 
 ## Product comparison
 
