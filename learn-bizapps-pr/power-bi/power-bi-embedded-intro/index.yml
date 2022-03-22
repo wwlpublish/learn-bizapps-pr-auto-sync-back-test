@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.power-bi-embedded-intro
+metadata:
+ title: Introduction to Power BI embedded analytics
+ description: Learn how developers can programmatically embed analytics in their apps, and about no-code embedding options for simpler requirements.
+ ms.date: 04/10/2022
+ author: heyrob
+ ms.author: robde
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-bi
+title: Introduction to Power BI embedded analytics
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how you can embed any type of Microsoft Power BI content in apps. Embed Power BI reports, specific report visuals, paginated reports, dashboards, specific dashboard tiles, and even the Q&A natural language experience. Moreover, real-time Power BI content will show up-to-date results in an embedding app.
+abstract: |
+    In this module, you will:
+    - Plan for Power BI embedded analytics.
+    - Determine the Power BI content types that you can embed.
+    - Adopt a development methodology to embed Power BI content.
+    - Prepare Power BI content for embedding.
+    - Use no-code embedding techniques.
+prerequisites: Experience developing web apps and creating Power BI workspaces and content
+iconUrl: /learn/achievements/power-bi-embedded-intro.svg
+levels:
+- intermediate
+roles:
+- developer
+- business-analyst
+products:
+- power-platform
+- power-bi
+units:
+- learn-bizapps.power-bi-embedded-intro.introduction
+- learn-bizapps.power-bi-embedded-intro.embed-power-bi-apps
+- learn-bizapps.power-bi-embedded-intro.embed-power-bi-content
+- learn-bizapps.power-bi-embedded-intro.adopt-methodology
+- learn-bizapps.power-bi-embedded-intro.prepare-content
+- learn-bizapps.power-bi-embedded-intro.use-no-code-embedding
+- learn-bizapps.power-bi-embedded-intro.check
+- learn-bizapps.power-bi-embedded-intro.summary
+badge:
+  uid: learn-bizapps.power-bi-embedded-intro.badge
