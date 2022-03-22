@@ -1,4 +1,4 @@
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+<!-- > [!VIDEO https://www.microsoft.com/videoplayer/embed/] -->
 
 Programmatic embedding of Power BI analytics always involves the selection and purchase of a product. The product can be Microsoft Power BI Premium or Microsoft Power BI Embedded. To make the right selection, you first need to determine whether the embedding scenario is for internal or external users.
 
