@@ -46,4 +46,4 @@ With the new connection options, when Julie accesses the flow, it will now only 
 
 ![Screenshot showing the user being prompted for a connection.](../media/julie-sharepoint.png)
 
-Sharing an instant flow by using the run-time option is a great way to let others use the automation that you built without having to give them full ownership access.
+Sharing an instant flow by using the run-only option is a great way to let others use the automation that you built without having to give them full ownership access.
