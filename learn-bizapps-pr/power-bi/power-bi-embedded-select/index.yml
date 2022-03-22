@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-embedded-select 
+metadata: 
+ title: Select a Power BI embedded analytics product
+ description: Learn how to select a Power BI embedded analytics product.
+ ms.date: 04/10/2022  
+ author: heyrob  
+ ms.author: robde  
+ ms.topic: interactive-tutorial  
+ ms.prod: learning-power-bi  
+title: Select a Power BI embedded analytics product
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Programmatic embedding of Power BI analytics always involves the selection and purchase of a product. The product can be Microsoft Power BI Premium or Microsoft Power BI Embedded. To make the right selection, you first need to determine whether the embedding scenario is for internal or external users.
+abstract: |  
+    In this module, you will: 
+    - Select the appropriate embedding scenario.
+    - Select the appropriate Power BI embedded analytics product.
+    -  Manage resource and scale requirements.
+    - Set up a development environment.
+prerequisites: Basic understanding of Power BI embedded analytics and the types of Power BI content that can be embedded in apps.
+iconUrl: /learn/achievements/power-bi-embedded-select.svg  
+levels:  
+- intermediate   
+roles:  
+- developer  
+- business-analyst 
+products: 
+- power-apps 
+- power-bi 
+units: 
+- learn-bizapps.power-bi-embedded-select.introduction 
+- learn-bizapps.power-bi-embedded-select.scenario 
+- learn-bizapps.power-bi-embedded-select.product 
+- learn-bizapps.power-bi-embedded-select.resources-requirements 
+- learn-bizapps.power-bi-embedded-select.development-environment 
+- learn-bizapps.power-bi-embedded-select.check 
+- learn-bizapps.power-bi-embedded-select.summary 
+badge: 
+  uid: learn-bizapps.power-bi-embedded-select.badge 
