@@ -5,7 +5,7 @@ Developers can programmatically embed analytics in their apps to present data as
 It's possible to embed any type of Microsoft Power BI content in apps:
 
 - Power BI reports
-- Specific report visuals
+- Power BI report visuals
 - Paginated reports
 - Dashboards
 - Specific dashboard tiles
