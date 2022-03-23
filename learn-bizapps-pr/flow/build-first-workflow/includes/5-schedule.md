@@ -24,7 +24,7 @@ To create a new schedule flow:
 
 1. Select **Create** to open the Power Automate editor and start building the rest of the flow.
 
-After a schedule flow is triggered, it processes the tasks that are defined in the flow just like any other flow. The following example shows a simple flow to send out a reminder to submit expense reports as a Teams message every Friday. Use the text editing controls in the message window to create hyperlinks to help make finding important resources easier for your users.
+After a scheduled flow is triggered, it processes the tasks that are defined in the flow just like any other flow. The following example shows a simple flow to send out a reminder to submit expense reports as a Teams message every Friday. Use the text editing controls in the message window to create hyperlinks to help make finding important resources easier for your users.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the completed flow for Friday expense reminders.](../media/image-26.png)](../media/image-26.png#lightbox)

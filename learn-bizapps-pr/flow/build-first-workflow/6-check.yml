@@ -4,7 +4,7 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 10/29/2021 
+ ms.date: 03/23/2022 
  author: DaveBeasley 
  ms.author: dbeasley 
  ms.topic: interactive-tutorial 
@@ -13,17 +13,20 @@ durationInMinutes: 3
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: Which application builds Power Automate flows that are stored in a Dataverse for Teams environment?
+  - content: What are the types of workflows that Power Automate can build in Dataverse for Teams?
     choices: 
-    - content: Power Automate for Teams
+    - content: Scheduled flows
       isCorrect: false 
-      explanation: Power Automate for Teams stores flows in the default environment and not in Dataverse for Teams.
-    - content: Power Virtual Agents for Teams
-      isCorrect: false 
-      explanation: Power Virtual Agents for Teams doesn't create flows.
-    - content: Power Apps for Teams
+      explanation: Power Automate can build Scheduled flows as well as Automated flows.
+    - content: Automated and Scheduled flows
       isCorrect: true 
-      explanation: Power Apps for Teams creates flows that are stored in the Dataverse for Teams environment that is associated with a team.
+      explanation: That's right! Power Automate can build workflows that are automated as well as scheduled.
+    - content: Task flows
+      isCorrect: false 
+      explanation: Power Automate builds Scheduled and Automated workflows in Teams.
+    - content: Automated flows
+      isCorrect: false 
+      explanation: Power Automate can build Automated flows as well as Scheduled flows.
   - content: What is the best way to configure a flow to run on Tuesday and Thursday each week?
     choices: 
     - content: Create a scheduled flow, set to repeat each week, and then enable Tuesday and Thursday.

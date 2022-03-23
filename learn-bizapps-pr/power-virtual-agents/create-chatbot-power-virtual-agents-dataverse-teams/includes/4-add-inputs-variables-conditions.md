@@ -1,4 +1,4 @@
-For your **Event Contacts** chatbot, you need to expand the number of countries that have contacts. Instead of listing all countries in the message node, you want to ask the user which country they need contact information for. To accomplish this task, you will use inputs, variables, and conditions.
+For your **Event Contacts** chatbot, you need to expand the number of countries that have contacts. Instead of listing all countries in the message node, you want to ask the user which country they need contact information for. To accomplish this task, you'll use inputs, variables, and conditions.
 
 - **Inputs** - The user's response in the **Ask a question** node.
 
@@ -15,7 +15,7 @@ For your chatbot, you need to delete the current message node because it will be
 
 To add inputs and variables with the question node, follow these steps:
 
-1. Use the mouse to hover over the line that connects the **Trigger Phrases** to the **End** node. Select the plus **+** sign that appears and then select **Ask a question**.
+1. Use the mouse to hover over the upper half of the line that connects the **Trigger Phrases** to the **End** node. Select the **Add node** plus **+** sign that appears and then select **Ask a question**.
     
     > [!div class="mx-imgBorder"]
 	> [![Screenshot of the plus icon and Ask a question feature.](../media/image-12.png)](../media/image-12.png#lightbox)
@@ -24,23 +24,23 @@ To add inputs and variables with the question node, follow these steps:
 
 	  **Ask a question** - Enter the phrase, "I can help with event contacts. Please tell me which country the event is scheduled for."
 	
-	  **Identify** - Select **Multiple choice options**.
+	  **Identify** - Select **Multiple choice options**. The **Identify** field is where you indicate what type of response the chatbot is listening for. Other responses that you can select include a number or a string. You can even have the chatbot detect entities such as state names, phone numbers, or street addresses. To learn more about the different available options, see the links in the Summary unit at the end of this module.
 	
 	  **Options for user** - Enter **USA**, **Canada**, **France**, and **Spain** by selecting **+ New option** between each word.
 
+	  Notice how the question box moves to the right of the screen as your options increase, and the child conditions populate the canvas below the question pane.  To recenter your canvas, you can left click and drag it, you can scroll, or you can use the screen view controls on the lower left of the canvas.  These controls include buttons to increase/decrease magnification, recenter the view, or even bring up a clickable mini map to help you navigate on your bot canvas.
+
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the question node with details populated.](../media/image-13.png)](../media/image-13.png#lightbox)
+	> [![Screenshot of the question node with details populated and the screen view controls on the canvas.](../media/image-13.png)](../media/image-13.png#lightbox)
 
-	The **Identify** field is where you indicate what type of response that the chatbot is listening for. Other responses that you can select include a number or a string. You can even have the chatbot detect entities such as state names, phone numbers, or street addresses. To learn more about the different available options, see the links in the Summary unit at the end of this module.
-
-1. To set the **variable** name, select the text under **Save response as** and replace **Var** with **VarCountry**. Select the **X** to close the **Variable Properties** screen. The variable name stores the user's selection and will be used when the user configures the branching logic under the condition node.
+1. To set the **variable** name, currently shown as **Var (text)**, select the text under **Save response as** and replace **Var** with **VarCountry** in the **Variable properties** fly in menu. Select the **X** to close the **Variable Properties** screen. The variable name stores the user's selection and will be used when the user configures the branching logic under the condition node.
     
     > [!div class="mx-imgBorder"]
 	> [![Screenshot of the Variable Properties screen with Name field.](../media/image-14.png)](../media/image-14.png#lightbox)
 
-Two variables are available by default: **bot.UserDisplayName**, which provides the user's name, and **bot.UserID**, which provides the user's sign-in name. By using **bot.UserDisplayName**, the chatbot can call the user by name, which personalizes the experience. You can use **bot.UserID** to create a condition node to take actions based on which user whom the bot is interacting with.
+Two variables are available by default: **bot.UserDisplayName**, which provides the user's name, and **bot.UserID**, which provides the user's sign in name. By using **bot.UserDisplayName**, the chatbot can call the user by name, which personalizes the experience. You can use **bot.UserID** to create a condition node to take actions based on which user whom the bot is interacting with.
 
-To have the **Event Contacts** chatbot greet the user by name, add a new message node at the chatbot's beginning. When entering information in the message node, select the **{X} insert variable** drop-down menu and select **bot.UserDisplayName**.
+To have the **Event Contacts** chatbot greet the user by name, add a new message node at the chatbot's beginning. Move your canvas so that you can view the Trigger Phrases node and add a node, then select **Show a message**. When entering information in the message node, select the **{X} insert variable** drop-down menu and select **bot.UserDisplayName**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Add message node button with Show a message feature.](../media/image-15.png)](../media/image-15.png#lightbox)

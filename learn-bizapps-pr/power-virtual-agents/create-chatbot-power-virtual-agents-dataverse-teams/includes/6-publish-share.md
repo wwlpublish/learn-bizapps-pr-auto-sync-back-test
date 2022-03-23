@@ -1,8 +1,8 @@
-When the chatbot is ready, it needs to be published so that users can interact with it. Publishing is also required after you have edited the chatbot and you want users to be able to access the latest content. By having a published version, you can make future updates to the chatbot without impacting users.
+When the chatbot is ready, it needs to be published so that users can interact with it. Publishing is also required after you've edited the chatbot and you want users to be able to access the latest content. By having a published version, you can make future updates to the chatbot without impacting users.
 
 The first time that the chatbot is published, only members of the team that the chatbot is associated with can access it. You can direct team members to the chatbot by providing them a link or by adding the chatbot to the **Built by your colleagues** section in Teams.
 
-If the chatbot is for the whole organization, you will submit it for review by your Teams admin. After it has been approved, the chatbot will be accessible to all users and will appear in the **Built by your org** section in Teams.
+If the chatbot is for the whole organization, you'll submit it for review by your Teams admin. After it has been approved, the chatbot will be accessible to all users and will appear in the **Built by your org** section in Teams.
 
 ## Publish the chatbot
 
@@ -17,17 +17,20 @@ To publish the chatbot, follow these steps:
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the Publish latest content message.](../media/image-33.png)](../media/image-33.png#lightbox)
 
-If this is the first time that the chatbot is published, only team members can access it. If the chatbot is only intended for team members, you will need to direct users on how to access it. Select **Share the bot** to select the best method for your situation:
+If this is the first time that the chatbot is published, only team members can access it. If the chatbot is only intended for team members, you'll need to direct users on how to access it. Select **Share the bot** to select the best method for your situation:
 
 -   **Copy link** - Send users a link to the chatbot.
 
--   **Add to Teams** - Add the bot to the **Built by your colleagues** section under Teams Apps.
+-   **Add to a team** - Add the bot to a particular team. With this option selected, anyone in your team will be able to find the bot in the **Built by your colleagues** section in the Teams app store. 
+
+-   **Show in Teams app store** - Make your bot appear in the Teams app store, with options to show to your teammates and shared users, or show to everyone in your org.  
     
 > [!NOTE]
-> Only team members can use the link or see the chatbot that is listed in the **Built by your colleagues** section in Teams.
+> - Only team members can use the link or see the chatbot that is listed in the **Built by your colleagues** section in Teams. 
+>- Publishing to the entire organization requires administrative approval, whereas adding your bot to a team does not require admin involvement.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of Built by your colleagues in Teams.](../media/image-34.png)](../media/image-34.png#lightbox)
+> [![Screenshot of Built by your colleagues highlights on Apps, Built by your colleages, and the bot itself.](../media/image-34.png)](../media/image-34.png#lightbox)
 
 To make the chatbot accessible to the entire organization, continue on to the next section.
 
