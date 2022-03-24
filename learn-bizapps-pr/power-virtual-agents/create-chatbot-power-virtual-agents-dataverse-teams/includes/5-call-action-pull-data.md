@@ -1,4 +1,4 @@
-With the **Call an action** node, chatbots can interact with Power Automate flows. You can use these flows to trigger automated processes or connect with Dataverse for Teams data, SharePoint lists, or other data sources.
+With the **Call an action** node, chatbots can interact with Power Automate flows. You can use these flows to trigger automated processes or connect with Dataverse for Teams data, Microsoft Lists, or other data sources.
 
 For example, the **Event Contacts** chatbot could provide the Sales Project team members from a Dataverse for Teams table. Instead of editing the chatbot when changes are made to this team, you can update the table.
 

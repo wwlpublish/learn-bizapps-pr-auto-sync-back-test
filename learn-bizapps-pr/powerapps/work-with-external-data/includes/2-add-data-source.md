@@ -1,6 +1,6 @@
 To begin, add a data source to your app. In Power Apps, there are multiple ways to add a data source. For example, when you add a gallery or a form to the screen, you can use that interface to choose an existing data source or add a new one. Sometimes you must add a data source for a control to complete an action. For example, adding a data source to a button to send an email.
 
-## Add a tabular data source such as a SharePoint list
+## Add a tabular data source such as a list in Microsoft Lists
 
 Add tabular data sources by following the same steps as in the previous procedure, or from the properties of a control. In this example, you'll add a SharePoint Online list as a data source to your app from a gallery control.
 
@@ -29,7 +29,7 @@ Add tabular data sources by following the same steps as in the previous procedur
 
 1.  Select **Connect**.
 
-You’ve connected to your SharePoint list, and you can display the data in the gallery control.
+You’ve connected to your list in Microsoft Lists, and you can display the data in the gallery control.
 
 ## Add an action data source such as Office 365 Outlook
 
@@ -63,6 +63,6 @@ This formula will do the following.
 | Subject              | "Subject of the email"|             |
 | Body                 | "Body of the email"   |              |
 
-An important concept to understand about data sources is that some data sources, such as SQL Server, utilize stored credentials that are shared by all users of the connector. Others, such as Microsoft Dataverse, SharePoint, and other Office 365 connectors, utilize the user's credentials. For example, every user who works with an app based on data in a SharePoint list needs the appropriate permissions in SharePoint to interact with that data.
+An important concept to understand about data sources is that some data sources, such as SQL Server, utilize stored credentials that are shared by all users of the connector. Others, such as Microsoft Dataverse, SharePoint, and other Office 365 connectors, utilize the user's credentials. For example, every user who works with an app based on data in a list in Microsoft Lists needs the appropriate permissions in SharePoint to interact with that data.
 
 In the next unit of this module, you'll learn more about the gallery control and how to display your data. 

@@ -2,7 +2,7 @@ To connect to Dataverse for Teams data, you need to install Microsoft Power BI D
 
 ## Install Power BI Desktop
 
-Power BI Desktop is a free application that allows you to connect, transform, and visualize your data. It can connect to many data sources, including Microsoft SQL, Excel, SharePoint lists, and Dataverse for Teams tables. Then, Power BI Desktop will transform and clean the data to create interactive reports.
+Power BI Desktop is a free application that allows you to connect, transform, and visualize your data. It can connect to many data sources, including Microsoft SQL, Excel, Microsoft Lists, and Dataverse for Teams tables. Then, Power BI Desktop will transform and clean the data to create interactive reports.
 
 Two ways to install Power BI Desktop are:
 
