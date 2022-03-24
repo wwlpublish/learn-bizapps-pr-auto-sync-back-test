@@ -11,7 +11,7 @@ The embedding identity that's used to embed workspace content must have specific
 > [!NOTE]
 > To learn about workspace permissions for internal and external users, work through the Set up permissions to embed Power BI content module.
 
-When designing a multi-tenant solution, you can achieve the separation of tenants by creating one workspace for each tenant. This design pattern is known as *workspace separation*.
+When designing a multi-tenancy solution, you can achieve the separation of tenants by creating one workspace for each tenant. This design pattern is known as *workspace separation*.
 
 > [!NOTE]
 > To learn about workspace separation, work through the Automate Power BI solution management module.

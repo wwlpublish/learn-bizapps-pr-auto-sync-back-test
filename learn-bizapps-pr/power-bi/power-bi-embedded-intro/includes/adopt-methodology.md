@@ -34,3 +34,5 @@ The client APIs do much more than embed Power BI content. They support many oper
 
 > [!NOTE]
 > To learn about the Power BI client APIs, work through the Integrate content with the Power BI client APIs module.
+
+

@@ -75,7 +75,7 @@ Select **Cancel** to close the code snippet window.
 
 ## Power BI visuals
 
-It's possible to embed a single report visual that's sourced from a Power BI report. However, you can only view and interact with it because it's not possible to edit or create a single visual. Commonly, the app applies filters to the visual to show data in a specific context. For example, the visual could show monthly sales results of the current year for a specific customer.
+It's possible to embed a single report visual that's sourced from a Power BI report. However, you can only view and interact with it. It's not possible to edit or create a single visual. Commonly, the app applies filters to the visual to show data in a specific context. For example, the visual could show monthly sales results of the current year for a specific customer.
 
 In the Power BI embedded analytics playground, in the **Sample** dropdown list, select **Report Visual**.
 
@@ -127,7 +127,7 @@ In the Power BI embedded analytics playground, in the **Sample** dropdown list, 
 > [!div class="mx-imgBorder"]
 > ![Screenshot shows the Sample dropdown list set to Dashboard. The Embedded mode dropdown list is set to View mode and is disabled.](../media/explore-our-apis-dashboard-view-mode.png)
 
-Hover the cursor over states within the map tile, and notice that a tooltip appears.
+Hover the cursor over any state within the map tile, and notice that a tooltip appears.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot shows a dashboard tile that is a map of total units by state. The cursor is hovering over the state of Washington, and a tooltip is open.](../media/explore-our-apis-dashboard-view-mode-tooltip.png)
@@ -141,7 +141,7 @@ In the Power BI embedded analytics playground, in the **Sample** dropdown list, 
 > [!div class="mx-imgBorder"]
 > ![Screenshot shows the Sample dropdown list set to Tile. The Embedded mode dropdown list is set to View mode and is disabled.](../media/explore-our-apis-tile-view-mode.png)
 
-The map tile is embedded, and you can hover the cursor over states to reveal a tooltip.
+The map tile is embedded, and you can hover the cursor over any state to reveal a tooltip.
 
 ## Q&A
 
