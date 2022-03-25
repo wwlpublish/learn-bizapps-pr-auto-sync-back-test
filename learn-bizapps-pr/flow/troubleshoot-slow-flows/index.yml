@@ -11,7 +11,7 @@ metadata:
 title: Troubleshoot slow-running flows in Power Automate
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  Integration of Power Automate flows and SharePoint has resulted in an exponential growth of flows that are triggered by adding, editing, or deleting SharePoint lists or documents. Occasionally, flows fail or are stuck while running. Flows streamline repetitive tasks and paperless processes, so it's important to know how to troubleshoot failures and return flows to successful runs.
+  Integration of Power Automate flows and SharePoint has resulted in an exponential growth of flows that are triggered by adding, editing, or deleting Microsoft Lists or documents. Occasionally, flows fail or are stuck while running. Flows streamline repetitive tasks and paperless processes, so it's important to know how to troubleshoot failures and return flows to successful runs.
 abstract: |  
     In this module, you will: 
     - Discover SharePoint connector limits.

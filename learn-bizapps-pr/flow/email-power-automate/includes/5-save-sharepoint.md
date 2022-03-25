@@ -1,12 +1,12 @@
-Microsoft Power Automate provides tools to help you build flows that monitor incoming emails and then save its metadata to a SharePoint list and its attachment to a document library.
+Microsoft Power Automate provides tools to help you build flows that monitor incoming emails and then save its metadata to Microsoft Lists and its attachment to a document library.
 
-## Save metadata from emails to SharePoint lists
+## Save metadata from emails to Microsoft Lists
 
-Microsoft Outlook has a trigger called **When a new email arrives**, which will be used for this unit's example to monitor incoming emails and save the following metadata to a SharePoint list: **To**, **From**, **Subject**, **Body Preview**, and **CC**. 
+Microsoft Outlook has a trigger called **When a new email arrives**, which will be used for this unit's example to monitor incoming emails and save the following metadata to a list: **To**, **From**, **Subject**, **Body Preview**, and **CC**. 
 
 The data will only be captured if the subject contains the words "Monthly Report."
 
-The following table provides an overview of the column types for the SharePoint list called **Incoming Emails**.
+The following table provides an overview of the column types for the list in Microsoft Lists called **Incoming Emails**.
 
 | **Column** | **Type** | **Required** | **Additional information** |
 |------------|----------|--------------|----------------------------|
@@ -19,7 +19,7 @@ The following table provides an overview of the column types for the SharePoint 
 | Received time | Date and Time | No | Date and time format |
 | Has Attachment | Single line of text | No |
 
-The following screenshot shows the SharePoint list. SharePoint automatically adds the **Created**, **Created By**, **Modified**, and **Modified By** columns.
+The following screenshot shows the list in Microsoft Lists. Lists automatically adds the **Created**, **Created By**, **Modified**, and **Modified By** columns.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the SharePoint Columns list.](../media/5-01-columns.png)](../media/5-01-columns.png#lightbox)
@@ -59,10 +59,10 @@ You can delete the **Send an email** action.
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Send an email action with the ellipsis button selected to reveal the Delete option.](../media/5-08-delete.png)](../media/5-08-delete.png#lightbox)
 
-The flow will monitor the incoming emails to your inbox. If any emails contain the words "Monthly Report" in the **Subject** field, the metadata is captured and saved to the **Incoming Emails** SharePoint list.
+The flow will monitor the incoming emails to your inbox. If any emails contain the words "Monthly Report" in the **Subject** field, the metadata is captured and saved to the **Incoming Emails** list.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the Incoming emails SharePoint list.](../media/5-09-incoming-list.png)](../media/5-09-incoming-list.png#lightbox)
+> [![Screenshot of the Incoming emails list.](../media/5-09-incoming-list.png)](../media/5-09-incoming-list.png#lightbox)
 
 ## Save attachments from emails to SharePoint libraries
 

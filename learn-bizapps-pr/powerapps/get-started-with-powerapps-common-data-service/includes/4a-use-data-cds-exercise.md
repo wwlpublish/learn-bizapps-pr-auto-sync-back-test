@@ -3,8 +3,7 @@
 The current sales process for your company is manual and updates are only provided
 each Friday. To simplify this process, minimize the opportunity for mistakes, and 
 improve visibility, you have decided you want to create a new app to track sales 
-leads and automatically calculate the forecasted revenue. You want to use Common 
-Data Service to store the list of potential customers. 
+leads and automatically calculate the forecasted revenue. You want to Dataverse to store the list of potential customers. 
 
 ## Use Microsoft Dataverse to store data
 

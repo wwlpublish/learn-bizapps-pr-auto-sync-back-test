@@ -43,7 +43,7 @@ You can also use Power Automate to copy files. For example, you can ensure that 
 
 ![Screenshot of a list of the same files in SharePoint.](../media/sharepoint-files.png)
 
-You can monitor what people are saying about your business by creating a flow that runs whenever someone sends a tweet with a certain hashtag. The flow can add details about each tweet to a Facebook post, a SQL Server database, a SharePoint list, or even a Microsoft Excel file that's hosted on OneDrive for Business–-whichever service works for you.
+You can monitor what people are saying about your business by creating a flow that runs whenever someone sends a tweet with a certain hashtag. The flow can add details about each tweet to a Facebook post, a SQL Server database, a Microsoft Lists list, or even a Microsoft Excel file that's hosted on OneDrive for Business–-whichever service works for you.
 
 You can create actions to connect the data you collect to Microsoft Power BI, spot trends in that data, and ask questions about it.
 
@@ -53,7 +53,7 @@ The following example shows a flow that saves tweets with the hashtag #Microsoft
 
 ![Screenshot of the same tweet in an Excel spreadsheet.](../media/excel-tweets.png)
 
-Also, you can automate approval loops for things like vacation requests on a SharePoint list.
+Also, you can automate approval loops for things like vacation requests on a list.
 
 ![Screenshot of a list of vacation requests in SharePoint.](../media/vacation-requests.png)
 

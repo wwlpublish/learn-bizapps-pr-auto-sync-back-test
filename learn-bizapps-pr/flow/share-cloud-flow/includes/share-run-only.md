@@ -20,7 +20,7 @@ On the share panel that is displayed, you can choose to invite one or more users
 
 If your flow uses the SharePoint connector, the **SharePoint** tab will display, where you can select a **Site** and **List** that can run the flow. List users must have edit permissions for the list items to be eligible to run the flow.
 
-:::image type="content" source="../media/sharepoint.png" alt-text="Screenshot showing the share panel where you can set up a SharePoint list user to have permission to run the flow.":::
+:::image type="content" source="../media/sharepoint.png" alt-text="Screenshot showing the share panel where you can set up a Microsoft Lists user to have permission to run the flow.":::
 
 ## Connection options
 

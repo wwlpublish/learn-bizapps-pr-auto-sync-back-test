@@ -45,7 +45,7 @@ On the **Share** page, the **Embedded connections** section shows which connecti
 
 All flow owners have access to these connections, but only for this flow. That access allows them to add more steps to the flow by using these connections without the need to authenticate or create new connections. However, the access doesn't allow them to use the connection outside of the flow.
 
-If Julie edits the flow and then adds a step to send an email by using the Office 365 connector, it's added to the list of connections with Julie as the connection user. If the flow is run, the emails will be sent from Julie and Dave will still be the creator of the SharePoint list item. The connection list will now resemble the following screenshot, which shows the connection that Julie added.
+If Julie edits the flow and then adds a step to send an email by using the Office 365 connector, it's added to the list of connections with Julie as the connection user. If the flow is run, the emails will be sent from Julie and Dave will still be the creator of the list item in Microsoft Lists. The connection list will now resemble the following screenshot, which shows the connection that Julie added.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot showing a connection created by another co-owner.](../media/julie.png)
