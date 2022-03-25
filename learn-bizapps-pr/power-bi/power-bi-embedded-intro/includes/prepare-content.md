@@ -1,6 +1,6 @@
 You can create and manage Power BI content in conventional ways by using Power BI Desktop and the Power BI service. You don't need to create content specifically for embedding. However, you can achieve optimal and more visually pleasing results when you prepare for embedding.
 
-## Workspaces
+## Prepare workspaces
 
 A Power BI workspace is a logical container in the Power BI service for storing related artifacts, such as datasets and reports. It also forms a security boundary.
 
