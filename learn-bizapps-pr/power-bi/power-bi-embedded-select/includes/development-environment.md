@@ -18,7 +18,7 @@ Two main advantages of using a trial tenant are:
 
 Power BI offers a 60-day free trial of the PPU license to individual users. Therefore, you can create a Power BI workspace and publish content that's ready for embedding at no cost.
 
-When embedding by using the *For your customers* scenario, your app needs to generate embed tokens. In a production environment, it can only generate an embed token when the Power BI content resides in a workspace that has its license mode set to **Premium per capacity** or **Embedded**. Those license modes require purchased products. However, you can generate *trial embed tokens* at no cost, if the embedding identity has a Power BI Pro or PPU license.
+When embedding by using the *For your customers* scenario, your app needs to generate embed tokens. In a production environment, it can only generate an embed token when the Power BI content resides in a workspace that has its license mode set to **Premium per capacity** or **Embedded**. Those license modes require purchased products. You can generate *trial embed tokens* at no cost. Remember, if you use a master user account instead of a service principal, it will require a Power BI Pro or PPU license.
 
 > [!NOTE]
 > You can generate only a limited number of trial embed tokens that are strictly for evaluation and development purposes. These tokens aren't permitted to be used by production workloads. To track the usage of trial tokens, use the [Available Features](/rest/api/power-bi/available-features/?azure-portal=true) Power BI REST API operation to determine the usage percentage.
