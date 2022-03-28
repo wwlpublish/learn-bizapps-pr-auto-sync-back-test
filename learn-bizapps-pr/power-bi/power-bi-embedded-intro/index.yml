@@ -29,7 +29,7 @@ summary: |
   Usually, embedding requires a programmatic solution, especially when tight integration exists between the app and the Power BI content. For completeness, this module also describes no-code embedding approaches that could be suited to simpler requirements.
 
   > [!TIP]
-  > Power BI is in a constant state of evolution, so be sure that you keep abreast of new features that are announced in the [Microsoft Power BI Blog](https://powerbi.microsoft.com/blog/?azure-portal=true). You might discover new features and capabilities that you can apply to improve your existing reports.
+  > Power BI is in a constant state of evolution, so be sure that you keep abreast of new features that are announced in the [Microsoft Power BI Blog](https://powerbi.microsoft.com/blog){:target="_blank"}. You might discover new features and capabilities that you can apply to improve your existing reports.
 abstract: |
     In this module, you will:
     - Plan for Power BI embedded analytics.
