@@ -11,6 +11,10 @@ metadata:
   ms.author: juyoo
   ms.topic: interactive-tutorial
   ms.prod: learning-powerapps
+  ms.custom:
+  - team=cloud_advocates
+  ms.contributors:
+  - juyoo-04262021
 abstract: |
   In this module you will:
   - Create a custom connector using Azure API Management
