@@ -2,7 +2,7 @@
 uid: learn-bizapps.power-bi-embedded-integrate
 metadata:
  title: Integrate content with the Power BI client APIs
- description:
+ description: Learn to use Power BI client APIs to develop solutions that respond to subscribable events and interact with Power BI content.
  ms.date: 04/10/2022
  author: heyrob
  ms.author: robde
