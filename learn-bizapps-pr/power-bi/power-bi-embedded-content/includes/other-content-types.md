@@ -25,7 +25,7 @@ You can embed paginated reports by using a configuration object of type `IEmbedC
 
 There's also the `settings` property, which is optional. You can pass an object of type `IPaginatedReportSettings` to specify information about the appearance of the report's parameter panel. Your app can enable and expand open the panel.
 
-To set paginted report parameters, pass them in the embed URL. However, it's not possible to set multi-parameter values. For more information, see [Pass a report parameter in a URL for a paginated report in Power BI](/power-bi/paginated-reports/report-builder-url-pass-parameters/?azure-portal=true).
+To set paginated report parameters, pass them in the embed URL. However, it's not possible to set multi-parameter values. For more information, see [Pass a report parameter in a URL for a paginated report in Power BI](/power-bi/paginated-reports/report-builder-url-pass-parameters/?azure-portal=true).
 
 For a complete description of embedding paginated reports, see [Embed a paginated report](/javascript/api/overview/powerbi/embed-paginated-report/?azure-portal=true).
 

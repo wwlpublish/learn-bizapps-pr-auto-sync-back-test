@@ -68,15 +68,16 @@ Your app must acquire an access token that is output client-side. In addition, y
 > [!TIP]
 > To learn how to acquire access tokens and retrieve Power BI artifact properties, work through the Set up permissions to embed Power BI content module.
 
-The following `script` element contains three variables. The `accessToken` variable stores the server-side generated access token. The `reports` and `datatsets` variables store JSON representations of embeddable artifacts, in this example the artifact types are reports and datasets. Specifically, the variables store artifact ID and embed URL properties that must be available client-side to support embedding. It also includes the **name** property so the app can present artifact names to the user in a friendly way, like in a menu.
+The following `script` element contains three variables. The `accessToken` variable stores the server-side generated access token. The `reports` and `datatsets` variables store JSON representations of embeddable artifacts, in this example, the artifact types are reports and datasets. Specifically, the variables store artifact ID and embed URL properties that must be available client-side to support embedding. It also includes the **name** property so the app can present artifact names to the user in a friendly way, like in a menu.
 
-	```cshtml
-	<script>
-	    var accessToken = "@Model.AccessToken";
-	    var reports = @Html.Raw(Model.ReportsJson)
-	    var datasets = @Html.Raw(Model.DatasetsJson)
-	</script>
-	```
+```cshtml
+<script>
+    var accessToken = "@Model.AccessToken";
+    var reports = @Html.Raw(Model.ReportsJson)
+    var datasets = @Html.Raw(Model.DatasetsJson)
+</script>
+```
+
 ## Set up a configuration object
 
 Your app must create a configuration object to provide all the information required to embed Power BI content. You must set the following five properties of the configuration object:
@@ -93,21 +94,21 @@ Your app must create a configuration object to provide all the information requi
 
 The following code shows how to create a configuration object to embed a Power BI report by using the *For your customers* scenario. `models` is a reference to the client library models, which contain useful enumeration types (enums).
 
-	```javascript
-	// Get models. models contains enums that can be used.
-	models = window['powerbi-client'].models;
-	
-	// Create the embed configuration object.
-	let config = {
-	    tokenType: models.TokenType.Embed,
-	    accessToken: accessToken, // Server-side generated access token
-	    type: 'report',
-	    id: '<Server-side retrieved Report ID>',
-	    embedUrl: '<Server-side retrieved Report embed URL>'
-	};
-	```
+```javascript
+// Get models. models contains enums that can be used.
+models = window['powerbi-client'].models;
 
-There are additional content-specific configuration properties. They are described in units 2 and 3.
+// Create the embed configuration object.
+let config = {
+    tokenType: models.TokenType.Embed,
+    accessToken: accessToken, // Server-side generated access token
+    type: 'report',
+    id: '<Server-side retrieved Report ID>',
+    embedUrl: '<Server-side retrieved Report embed URL>'
+};
+```
+
+There are additional content-specific configuration properties. They're described in units 2 and 3.
 
 ## Embed the Power BI content
 
@@ -134,4 +135,4 @@ let config = {
 // Embed the report in the embedding container.
 report = powerbi.embed(embedContainer, config);
 ```
-In the next unit, you will learn how to embed a Power BI report, which is the most commonly embedded Power BI content type.
+In the next unit, you'll learn how to embed a Power BI report, which is the most commonly embedded Power BI content type.

@@ -18,7 +18,7 @@ Consider using bootstrap when your app's web page first loads. While that happen
 > [!NOTE]
 > It's not possible to use the bootstrap function when embedding paginated reports.
 
-For more information, see [Use bootstrap for better performance](https://docs.microsoft.com/javascript/api/overview/powerbi/bootstrap-better-performance).
+For more information, see [Use bootstrap for better performance](/javascript/api/overview/powerbi/bootstrap-better-performance/?azure-portal=true).
 
 ## Use phased embedding
 
@@ -29,24 +29,23 @@ When the Power BI content to embed is on a different page of your app, there's a
 
 Use the `powerbi.preload(config)` function to pass in a minimal configuration object comprising only the `type` and `embedUrl` properties. The `embedUrl` value should be a base URL, meaning it doesn't need a specific artifact ID. Preloading helps speed up embedding by downloading the scripts required to embed Power BI content before the user navigates to the page.
 
-	```javascript
-	// Building the configuration object
-	let config = {
-	    type: 'report',
-	    embedUrl: 'https://app.powerbi.com/reportEmbed',
-	};
-	
-	let element = powerbi.preload(config);
-	```
+```javascript
+// Building the configuration object
+let config = {
+    type: 'report',
+    embedUrl: 'https://app.powerbi.com/reportEmbed',
+};
+
+let element = powerbi.preload(config);
+```
 
 The `preloaded` event fires when the preload is complete
 
-	```javascript
-	element.on('preloaded', function () {
-	    ...
-	});
-	```
-
+```javascript
+element.on('preloaded', function () {
+    ...
+});
+```
 Use the `powerbi.load(embedContainer, config)` function to dynamically change the settings in the `div` element before the content is displayed. For example, you can use this function to get information about the report pages and then determine which page to show to the user. If you use this function, you must also call the `powerbi.render()` function to show the embedded content.
 
 Together, the `load` and `render` functions achieve the same result as the `embed` function.
@@ -56,7 +55,6 @@ Together, the `load` and `render` functions achieve the same result as the `embe
 
 Although you must use the `load` and `render` functions together, `preload` is independent of them. You can use the `embed` function to show the embedded object after preload. You can also utilize the full-phased procedure by calling `preload`, `load`, and `render`, in that order.
 
-For more information, see [Use phased embedding](https://docs.microsoft.com/en-us/javascript/api/overview/powerbi/phased-embedding).
+For more information, see [Use phased embedding](/javascript/api/overview/powerbi/phased-embedding/?azure-portal=true).
 
-For other optimization topics, see [Best practices for faster performance in Power BI embedded analytics](https://docs.microsoft.com/power-bi/developer/embedded/embedded-performance-best-practices).
-
+For other optimization topics, see [Best practices for faster performance in Power BI embedded analytics](/power-bi/developer/embedded/embedded-performance-best-practices/?azure-portal=true).

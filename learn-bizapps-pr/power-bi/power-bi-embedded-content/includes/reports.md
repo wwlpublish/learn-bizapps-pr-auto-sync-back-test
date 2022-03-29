@@ -59,34 +59,34 @@ To view how the report was embedded, select **Show sample code** in the upper le
 
 In the code snippet window, scan through the code by vertically scrolling from top to bottom. Look for the lines of code that create the configuration object and embed the report (about halfway down).
 
-	```javascript
-	// Create the embed configuration object for the report
-	// For more information see https://go.microsoft.com/fwlink/?linkid=2153590
-	let config = {
-	    type: 'report',
-	    tokenType: models.TokenType.Embed,
-	    accessToken: accessToken,
-	    embedUrl: embedUrl,
-	    id: embedReportId,
-	    permissions: permissions,
-	    settings: {
-	        panes: {
-	            filters: {
-	                visible: true
-	            },
-	            pageNavigation: {
-	                visible: true
-	            }
-	        }
-	    }
-	};
-	
-	// Get a reference to the embedded report HTML element
-	let embedContainer = $('#embedContainer')[0];
-	
-	// Embed the report and display it within the div container.
-	report = powerbi.embed(embedContainer, config);```
-	```
+```javascript
+// Create the embed configuration object for the report
+// For more information see https://go.microsoft.com/fwlink/?linkid=2153590
+let config = {
+    type: 'report',
+    tokenType: models.TokenType.Embed,
+    accessToken: accessToken,
+    embedUrl: embedUrl,
+    id: embedReportId,
+    permissions: permissions,
+    settings: {
+        panes: {
+            filters: {
+                visible: true
+            },
+            pageNavigation: {
+                visible: true
+            }
+        }
+    }
+};
+
+// Get a reference to the embedded report HTML element
+let embedContainer = $('#embedContainer')[0];
+
+// Embed the report and display it within the div container.
+report = powerbi.embed(embedContainer, config);```
+```
 
 Notice that the configuration object sets the filters and page navigation panes to visible.
 
