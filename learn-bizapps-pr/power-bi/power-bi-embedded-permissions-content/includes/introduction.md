@@ -98,7 +98,7 @@ You can consider using a master user account for *development or test* apps. It'
 
 In summary, the following table compares the two embedding identity types.
 
-| | Service principal | Master user account |
+| Item | Service principal | Master user account |
 |-|-------------------|---------------------|
 | Azure AD object type | Service principal | User |
 | Credential management | Use secrets or certificates with periodic rotation | Do frequent password updates |
