@@ -23,7 +23,7 @@ abstract: |
     In this module, you will learn to: 
     - Programmatically embed all types of Power BI content.
     - Optimize the embedding experience.
-prerequisites: Experience developing web apps and creating Power BI workspaces and content, and be familiar with the two embedding scenarios: *For your organization* and *For your customers*.
+prerequisites: Experience developing web apps and creating Power BI workspaces and content, and be familiar with the two embedding scenarios, *For your organization* and *For your customers*.
 iconUrl: /learn/achievements/power-bi-embedded-content.svg  
 levels:  
 - intermediate   
