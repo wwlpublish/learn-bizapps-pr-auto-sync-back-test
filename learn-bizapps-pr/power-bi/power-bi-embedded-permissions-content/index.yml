@@ -18,7 +18,7 @@ summary: |
   Your setup will involve creating an Azure AD app registration to establish an identity for your app. It allows your app to authenticate and acquire access tokens, which are necessary to embed Power BI content.
 
   > [!NOTE]
-  > Power BI is in a constant state of evolution, so be sure that you keep abreast of new features we announce in the [Microsoft Power BI blog](https://powerbi.microsoft.com/blog/). You might discover new features and capabilities that you can apply to improve your existing reports.
+  > Power BI is in a constant state of evolution, so be sure that you keep abreast of new features we announce in the <a href="https://powerbi.microsoft.com/blog/" target ="_blank">Microsoft Power BI blog</a>. You might discover new features and capabilities that you can apply to improve your existing reports.
 abstract: |
     In this module, you will:
     - Plan the authentication flow required to embed Power BI content.
