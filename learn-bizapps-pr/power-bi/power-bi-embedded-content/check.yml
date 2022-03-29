@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-embedded-content.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/10/2022 
+ author: heyrob 
+ ms.author: robde 
+ ms.topic: interactive-tutorial 
+ ms.prod: learning-power-bi 
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Alexandra is a developer at Tailspin Toys who needs to embed a paginated report in an internal business intelligence app. What value should Alexandra pass to the `type` property of the configuration object?
+    choices: 
+    - content: dashboard
+      isCorrect: false
+      explanation: Incorrect. Set the configuration object `type` property to dashboard when embedding a dashboard.
+    - content: report
+      isCorrect: true 
+      explanation: Correct. The configuration object `type` property should be set to report, for Power BI reports or paginated reports.
+    - content: gna
+      isCorrect: false 
+      explanation: Incorrect. Set the configuration object `type` property to qna when embedding the Q&A experience.
+    - content: tile
+      isCorrect: false 
+      explanation: Incorrect. Set the configuration object `type` property to tile when embedding a dashboard tile.
+    - content: visual
+      isCorrect: false 
+      explanation: Incorrect. Set the configuration object `type` property to visual when embedding a visual sourced from a Power BI report.
+  - content: Yuki is a developer at Tailspin Toys. Yuki needs to obtain Power BI report properties to support embedding the reports in an app. Which two properties must Yuki obtain?
+    choices: 
+    - content: `datasetID` and `embedUrl`
+      isCorrect: false
+      explanation: Incorrect. An app cannot embed a Power BI report by using the `datasetID` property.
+    - content: `groupID` and `embedUrl`
+      isCorrect: false 
+      explanation: Incorrect. An app cannot embed a Power BI report by using the `groupID` property, which is the unique identifier for a workspace.
+    - content: `reportID` and `embedUrl`
+      isCorrect: true 
+      explanation: Correct. To embed a report, an app must obtain the `reportID` and `embedUrl` properties.
+    - content: `uniqueID` and `embedUrl`
+      isCorrect: false 
+      explanation: Incorrect. An app cannot embed a Power BI report by using the `uniqueID` property, which is a property of the configuration object that embeds a paginated report.
+  - content: Stanley is a developer at Tailspin Toys who needs to embed a Power BI report in an app. The report can connect to one of many datasets, each with the same schema but which stores data for a different geographic region. Which property of the configuration object should Stanley set to connect to a certain dataset?
+    choices: 
+    - content: `datasetBinding`
+      isCorrect: true 
+      explanation: Correct. The `datasetBinding` property connects an embedded report to a different dataset.
+    - content: `datasetIds`
+      isCorrect: false 
+      explanation: Incorrect. The ‘datasetIds` property applies to a configuration object only when embedding the Q&A experience.
+    - content: `filters`
+      isCorrect: false 
+      explanation: Incorrect. The ‘filters` property sets filter state and cannot connect to a different dataset.
+    - content: `slicers`
+      isCorrect: false 
+      explanation: Incorrect. The ‘slicers` property sets slicer state and cannot connect to a different dataset.
