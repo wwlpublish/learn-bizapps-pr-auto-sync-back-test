@@ -7,11 +7,10 @@ If you're a beginner with Power Automate, this module will get you going. If you
 In this module, you will:
 
 - Learn what Power Automate is and how it can be used
-- Create a flow that automatically saves email attachments
-- Learn how to create a button flow to send yourself a reminder
 - Create a flow that runs on a schedule
-- Create a flow that posts tweets
+- Create a flow that automatically saves email attachments
 - Share a flow that your team can use
+- Troubleshoot flows
 
 ## What is Power Automate?
 
@@ -94,9 +93,9 @@ When you sign in to Power Automate, you'll find these menus:
 - **Solutions**, where you can manage your solutions.
 - **Learn**, where you can find information that will help you quickly ramp up on Power Automate.
 
-For now, let's focus on the **?** menu next to your login, which has these options:
+For now, let's focus on the **?** menu next to your sign-in, which has these options:
 
-- **Documentation** is where our advanced topics reside. If you want to really understand a feature or function, you can do a deep dive here to figure things out.
+- **Documentation** is where our advanced topics reside. If you want to really understand a feature or function, you can do a deep dive here to figure out things.
 - **Learn** has learning paths to guide you through using Power Automate, all the way from beginning techniques to advanced scenarios.
 - **Support** is a great landing place to find help.
 - **Roadmap** is where you can get a glimpse into what will be made in the next product update.
@@ -106,7 +105,7 @@ For now, let's focus on the **?** menu next to your login, which has these optio
 - **Desktop flows** provides an introduction to Power Automate Desktop.
 - **Pricing** can help you choose the right plan for you or your business.
 - **Power Automate Desktop** is where you can download Power Automate Desktop and install it on your machine.
-- **Power Automate for Mobile** provides information about the mobile app and the platforms it is available on.
+- **Power Automate for Mobile** provides information about the mobile app and the platforms it's available on.
 - **Data Gateway** provides an overview of the on-premises data gateway.
 
 ## What's next?

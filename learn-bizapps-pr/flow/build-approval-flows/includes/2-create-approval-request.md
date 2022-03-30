@@ -67,7 +67,7 @@ First, let's create the list.
 1. In the **When a new item is created** trigger, enter the following values:
 
     - **Site Address**: Enter the URL of your team's SharePoint site.
-
+    
     - **List Name**: Select *ContosoTweets*.
 
 1. In the **Start an approval** action, set the **Title** field to *New tweet for *, and then select **Title** from the **Dynamic content** window.

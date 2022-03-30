@@ -15,6 +15,15 @@ Here’s what the Excel table looks like
 
 1. Select **New**, and then select **Scheduled cloud flow**.
 
+    By default you have the option to repeat every 1 minute, however, you have the option to change it and the options available are **Minute**, **Week**, **Day**, **Hour** and **Second**.
+
+    > [!NOTE]
+    > Be mindful of the repeating module you select and how often you would like the flows to run.
+  
+      ![Screenshot of default schedule flow.](../media/default-schedule-flow.png)
+
+      ![Screenshot of default schedule options.](../media/schedule-options.png)
+
 1. Name your flow and under **Run this flow** set the flow to repeat every one Day.
 
 1. Select **Create**.
@@ -58,7 +67,7 @@ Here’s what the Excel table looks like
 
     ![Screenshot of the Dynamic content menu being used to set the first and last names.](../media/mailchimp-names.png)
 
-And there you have it!
+And there you've it!
 
 This flow will now run once a day. It will:
 
