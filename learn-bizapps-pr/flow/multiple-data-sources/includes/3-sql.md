@@ -149,4 +149,3 @@ Now, whenever an item in your list, the source, changes, your flow is triggered.
 
 > [!NOTE]
 > Your flow isn't triggered when an item is deleted from the source. If this scenario is important to you, consider adding a separate column that indicates when an item is no longer needed.
-

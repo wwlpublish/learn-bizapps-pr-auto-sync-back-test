@@ -55,7 +55,7 @@ For more about how to create apps by using Power Apps, see [Create a canvas app 
 
 Customers regularly exchange data between Microsoft Lists and other systems to support business processes. These scenarios become more powerful through the deep integration of Power Automate with Microsoft Lists.
 
-Power Automate allows for automating the exchange of workflows and data between SharePoint and various Microsoft and third-party services. You can create and start flows directly from a list in Microsoft Lists, and store and change that data in SharePoint.
+Power Automate lets you automate the exchange of workflows and data between SharePoint and various Microsoft and third-party services. You can create and start flows directly from a list in Microsoft Lists, and store and change that data in SharePoint.
 
 1. From a list in Microsoft Lists, select **Integrate** on the top toolbar, and then hover your cursor over **Power Automate**.
 
@@ -71,7 +71,16 @@ Power Automate allows for automating the exchange of workflows and data between 
 
 Power Apps lets you connect to, create, and share business apps on any device in minutes. You can build efficient mobile forms and apps directly from Microsoft Lists, without writing a line of code.
 
-Power Apps and Power Automate share a common connector framework that lets you weave in dozens of data sources that are located on premises or in the cloud. These data sources include Microsoft Exchange, Microsoft SQL Server, Microsoft Dataverse, Salesforce, Google, MailChimp, Twitter, and Wunderlist.
+Power Apps and Power Automate share a common connector framework. The framework lets you weave in dozens of data sources that are located on premises or in the cloud. These data sources include:
+
+- Microsoft Exchange
+- Microsoft SQL Server
+- Microsoft Dataverse
+- Salesforce
+- Google
+- MailChimp
+- Twitter
+- Wunderlist
 
 1. From a list in Microsoft Lists, select **Integrate** on the top toolbar, and then hover your cursor over **Power Apps**.
 
