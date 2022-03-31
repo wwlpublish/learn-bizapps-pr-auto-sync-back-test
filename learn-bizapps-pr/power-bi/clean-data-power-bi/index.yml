@@ -3,7 +3,7 @@ uid: learn-bizapps.clean-data-power-bi
 metadata: 
  title: Clean, transform, and load data in Power BI 
  description: Power Query has an incredible amount of features that are dedicated to helping you clean and prepare your data for analysis. You will learn how to simplify a complicated model, change data types, rename objects, and pivot data. You will also learn how to profile columns so that you know which columns have the valuable data that you’re seeking for deeper analytics.
- ms.date: 10/13/2021
+ ms.date: 03/28/2022
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
