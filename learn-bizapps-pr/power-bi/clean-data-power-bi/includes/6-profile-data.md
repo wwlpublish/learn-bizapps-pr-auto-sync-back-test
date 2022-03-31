@@ -62,7 +62,7 @@ want 100 percent of the data to be valid. 
 **Column distribution** shows you the distribution of the data within
 the column and the counts of distinct and unique values, both of which
 can tell you details about the data counts. Distinct
-values are all values in a column, including duplicates and null values,
+values are all the different values in a column, including duplicates and null values,
 while unique values do not include duplicates or
 nulls. Therefore, **distinct** in this table tells you the total count
 of how many values are present, while **unique** tells you how many of
