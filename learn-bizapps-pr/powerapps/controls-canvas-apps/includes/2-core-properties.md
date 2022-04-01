@@ -52,4 +52,4 @@ Controls are one of the biggest components of a Power App because implementation
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the visible property.](../media/visible-property.png)
 
-To view a list of all the controls and their properties, see [Controls and properties in Power Apps](/powerapps/maker/canvas-apps/reference-properties/?azure-portal=true).
+To view a list of all the controls and their properties, see [Controls and properties in Power Apps](/power-apps/maker/canvas-apps/reference-properties/?azure-portal=true).
