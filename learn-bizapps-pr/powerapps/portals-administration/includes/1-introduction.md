@@ -40,7 +40,7 @@ The **Portal Details** area allows makers to alter some key attributes of a Powe
 
 ## Portal actions
 
-The **Portal Actions** section of the portals admin center allows an administrator to configure specific portal settings or perform actions against a configured portal. For more information, see [Power Apps portals admin center](/powerapps/maker/portals/admin/admin-overview/?azure-portal=true).
+The **Portal Actions** section of the portals admin center allows an administrator to configure specific portal settings or perform actions against a configured portal. For more information, see [Power Apps portals admin center](/power-apps/maker/portals/admin/admin-overview/?azure-portal=true).
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Portal Actions section of the admin center.](../media/portal-actions.png)](../media/portal-actions.png#lightbox)
@@ -94,4 +94,4 @@ Every two years, the portal authentication keys need to be updated so that the p
 
 ## Set up IP address restriction
 
-An administrator might want to restrict access to a portal to only a development/testing team or to specific geographic areas. The administrator can specify a list of specific IP4 or IP6 addresses or ranges from which the portal can be assessed. By default, if no IP addresses are specified, the portal will be accessible from anywhere. For more information, see [Restrict portal access by IP address](/powerapps/maker/portals/admin/ip-address-restrict/?azure-portal=true).
+An administrator might want to restrict access to a portal to only a development/testing team or to specific geographic areas. The administrator can specify a list of specific IP4 or IP6 addresses or ranges from which the portal can be assessed. By default, if no IP addresses are specified, the portal will be accessible from anywhere. For more information, see [Restrict portal access by IP address](/power-apps/maker/portals/admin/ip-address-restrict/?azure-portal=true).

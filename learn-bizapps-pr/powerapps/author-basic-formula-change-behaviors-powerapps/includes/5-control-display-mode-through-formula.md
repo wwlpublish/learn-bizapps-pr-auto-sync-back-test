@@ -58,7 +58,7 @@ gives a visual indication that it is not selectable.
 Each Control functions slightly differently, so **DisplayMode**
 for one control may not affect another control the same way. For more
 information about the various controls see
-[Controls and Properties in Power Apps](/powerapps/maker/canvas-apps/reference-properties/?azure-portal=true).
+[Controls and Properties in Power Apps](/power-apps/maker/canvas-apps/reference-properties/?azure-portal=true).
 
 When you add a control to your app, by default the **DisplayMode** is
 set to **DisplayMode.Edit**.

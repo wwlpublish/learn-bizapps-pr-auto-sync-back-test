@@ -52,7 +52,7 @@ The primary source of performance issues in canvas apps are poorly designed data
 
 #### Loading data
 
-Apps will perform poorly when most of the heavy lifting is done on the client and not on the server. Erroneous choice of how to query your data may lead to performance issues. Understanding [delegation](/powerapps/maker/canvas-apps/delegation-overview/?azure-portal=true) in canvas apps is the key to improving you app performance when it comes to data access. Delegation is where the expressiveness of Power Apps formulas meets the need to minimize data moving over the network. In short, Power Apps will delegate the processing of data to the data source, rather than moving the data to the app for processing locally.
+Apps will perform poorly when most of the heavy lifting is done on the client and not on the server. Erroneous choice of how to query your data may lead to performance issues. Understanding [delegation](/power-apps/maker/canvas-apps/delegation-overview/?azure-portal=true) in canvas apps is the key to improving you app performance when it comes to data access. Delegation is where the expressiveness of Power Apps formulas meets the need to minimize data moving over the network. In short, Power Apps will delegate the processing of data to the data source, rather than moving the data to the app for processing locally.
 
 Where this becomes complicated, is because not everything that can be expressed in a Power Apps formula can be delegated to every data source. The Power Apps language mimics Excel's formula language, designed with complete and instant access to a full workbook in memory, with a wide variety of numerical and text manipulation functions. As a result, the Power Apps language is far richer than most data sources can support, including powerful database engines such as SQL Server.
 
@@ -64,7 +64,7 @@ There are some canvas apps features that you would want to consider when optimiz
 
 Another aspect that can affect performance is the number of screens and controls used in your app. Minimizing the number of controls and reducing complexity of the controls used can help boost your app performance. It will improve the performance while authoring the app as well. There are strategies to optimizing the number of controls used in your app. For example, you can use a gallery control instead of a Canvas/Data Cards when the data displayed is uniform or vary only slightly. Gallery can be powerful in reducing complexity, making your app easier to maintain.
 
-There are other optimizations techniques available, make sure that canvas apps developers familiarize themselves with [detailed documentation](/powerapps/maker/canvas-apps/performance-tips/?azure-portal=true).
+There are other optimizations techniques available, make sure that canvas apps developers familiarize themselves with [detailed documentation](/power-apps/maker/canvas-apps/performance-tips/?azure-portal=true).
 
 ### Workflows 
 

@@ -79,6 +79,6 @@ When you are adding an embedded Power BI report, specify if the audience is for 
 > [!NOTE]
 > Power BI sharing requires appropriate licensing to be in place. Licensing requirements depend on the audience and method of sharing.
 
-For more information on setting up Power BI integration, see [Set up Power BI integration](/powerapps/maker/portals/admin/set-up-power-bi-integration/?azure-portal=true).
+For more information on setting up Power BI integration, see [Set up Power BI integration](/power-apps/maker/portals/admin/set-up-power-bi-integration/?azure-portal=true).
 
 For more information on sharing and licensing requirements, see [Share Power BI workspace](/power-bi/service-how-to-collaborate-distribute-dashboards-reports#collaborate-with-coworkers-in-an-app-workspace/?azure-portal=true) and [Share Power BI dashboard and report](/power-bi/service-share-dashboards/?azure-portal=true).

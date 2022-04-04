@@ -20,7 +20,7 @@ the evaluation. The following is an overview of each function.
 -   **IsMatch** -- This function checks a field, property, or variable
     to determine if the result matches the specified pattern. If the pattern is
     a match the function returns true. For details about the various matching patterns, see
-    [IsMatch function in Power Apps](/powerapps/maker/canvas-apps/functions/function-ismatch/?azure-portal=true).
+    [IsMatch function in Power Apps](/power-apps/maker/canvas-apps/functions/function-ismatch/?azure-portal=true).
 
 -   **IsNumeric** -- This function checks a field, property, or variable
     to determine if the result is numeric. If the object is numeric, then the

@@ -4,5 +4,5 @@ Now, you can turn your great idea into an app for your team. This module showed 
 
 For more information, see the following articles:
 
-- [Publish and share your app in Teams](/powerapps/teams/publish-and-share-apps?azure-portal=true#share-an-app).
-- [Data types available in Dataverse](/powerapps/maker/data-platform/types-of-fields/?azure-portal=true).
+- [Publish and share your app in Teams](/power-apps/teams/publish-and-share-apps?azure-portal=true#share-an-app).
+- [Data types available in Dataverse](/power-apps/maker/data-platform/types-of-fields/?azure-portal=true).

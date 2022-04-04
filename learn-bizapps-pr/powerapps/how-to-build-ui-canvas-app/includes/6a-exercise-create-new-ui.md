@@ -1,7 +1,7 @@
 In this unit, you'll generate a new canvas app that you will customize with various pieces of the UI covered in the previous units. This should give you a good idea of the capabilities of UI design in Power Apps.
 
 > [!NOTE]
-> Power Apps requires either an Office 365 license or a free trial. Learn more about your licensing options. [Microsoft products include Microsoft Power Apps and Power Automate.](/powerapps/administrator/pricing-billing-skus/?azure-portal=true
+> Power Apps requires either an Office 365 license or a free trial. Learn more about your licensing options. [Microsoft products include Microsoft Power Apps and Power Automate.](/power-apps/administrator/pricing-billing-skus/?azure-portal=true
 )
 
 

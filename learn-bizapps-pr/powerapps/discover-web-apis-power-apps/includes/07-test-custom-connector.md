@@ -23,4 +23,4 @@ In the last exercise you created a custom connector for your Power Apps app. Now
     :::image type="content" source="../media/07-test-custom-connector-04.png" alt-text="Custom Connector Test Operation - Fail":::
 
 
-[pa pricing]: /powerapps/administrator/pricing-billing-skus
+[pa pricing]: /power-apps/administrator/pricing-billing-skus/?azure-portal=true

@@ -24,6 +24,6 @@ Read privilege is asserted for the target table that is being queried in the cha
 > [!NOTE]
 > Different users might see different resulting charts based on their specific table permissions
 
-Some chart types and some out-of-the-box charts aren't supported. For more information, see [Unsupported charts and chart types](/powerapps/maker/portals/configure/add-chart?azure-portal=true#unsupported-charts-and-chart-types).
+Some chart types and some out-of-the-box charts aren't supported. For more information, see [Unsupported charts and chart types](/power-apps/maker/portals/configure/add-chart?azure-portal=true#unsupported-charts-and-chart-types).
 
-For more information, see [Add a chart created in a model-driven app to a webpage in portal](/powerapps/maker/portals/configure/add-chart/?azure-portal=true).
+For more information, see [Add a chart created in a model-driven app to a webpage in portal](/power-apps/maker/portals/configure/add-chart/?azure-portal=true).

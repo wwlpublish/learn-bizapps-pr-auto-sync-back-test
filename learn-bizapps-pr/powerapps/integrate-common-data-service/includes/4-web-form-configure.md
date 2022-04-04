@@ -37,13 +37,13 @@ The following step types are available: **Load Form/Load Tab**, **Redirect**, an
 
 #### Load Form and Load Tab steps
 
-The **Load Form** and **Load Tab** step types allow the step to act as an table form within the overall web form process. These steps load a model-driven form with a similar set of available options as an table form. For more details about configuring individual **Load Form** and **Load Tab** steps, see [Define a load form and load tab step type](/powerapps/maker/portals/configure/load-form-step/?azure-portal=true).
+The **Load Form** and **Load Tab** step types allow the step to act as an table form within the overall web form process. These steps load a model-driven form with a similar set of available options as an table form. For more details about configuring individual **Load Form** and **Load Tab** steps, see [Define a load form and load tab step type](/power-apps/maker/portals/configure/load-form-step/?azure-portal=true).
 
 Similar to the table form configuration, the related web form metadata rows contain additional behavior modification logic to change or override the functionality of form columns when they are rendered on the portal. You can use the web form metadata to redefine the behavior of individual columns, sections, tabs, subgrids, notes, and timelines.
 
 #### Redirect step
 
-The **Redirect** step type allows for a redirect of the user's browser session to another page in the portal or to an external URL. This step is useful for seamlessly directing the process flow. Configuration is similar to the table form's **On Success** settings. For more information, see [Add a redirect step type](/powerapps/maker/portals/configure/add-redirect-step/?azure-portal=true).
+The **Redirect** step type allows for a redirect of the user's browser session to another page in the portal or to an external URL. This step is useful for seamlessly directing the process flow. Configuration is similar to the table form's **On Success** settings. For more information, see [Add a redirect step type](/power-apps/maker/portals/configure/add-redirect-step/?azure-portal=true).
 
 #### Condition step
 
@@ -52,7 +52,7 @@ The **Condition** step type evaluates an expression. If the expression evaluates
 > [!IMPORTANT]
 > Design-time validation does not exist for expressions. If a specified logical expression is invalid, for example, if it refers to a non-existent table column, the step fails to run and a generic portal error message is displayed to the user. Keep expressions simple and make sure that the syntax and column references are correct.
 
-For more information about configuring **Condition** steps and expression syntax, see [Add a conditional step type](/powerapps/maker/portals/configure/add-conditional-step/?azure-portal=true).
+For more information about configuring **Condition** steps and expression syntax, see [Add a conditional step type](/power-apps/maker/portals/configure/add-conditional-step/?azure-portal=true).
 
 ## Add a web form to your portal
 

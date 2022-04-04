@@ -12,7 +12,7 @@ At the end of these exercises, you'll be able to:
 
 For this exercise, you need to have the following parameters set up in your environment:
 
-- A Power Apps portal that is provisioned. If you do not have a Power Apps portal available, follow the [Create Portal](/powerapps/maker/portals/create-portal/?azure-portal=true) instructions to create one.
+- A Power Apps portal that is provisioned. If you do not have a Power Apps portal available, follow the [Create Portal](/power-apps/maker/portals/create-portal/?azure-portal=true) instructions to create one.
 - Access to the Power Apps maker portal.
 
 ### High-level steps

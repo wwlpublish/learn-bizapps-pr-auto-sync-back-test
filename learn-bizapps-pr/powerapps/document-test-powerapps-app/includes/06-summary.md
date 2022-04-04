@@ -6,6 +6,6 @@ In this module, you learned about different types of testing plans such as user 
 
 >[Power Apps](https://make.powerapps.com/?azure-portal=true)
 
-For more information on delegation, see [Understand delegation in a canvas app](/powerapps/maker/canvas-apps/delegation-overview/?azure-portal=true).
+For more information on delegation, see [Understand delegation in a canvas app](/power-apps/maker/canvas-apps/delegation-overview/?azure-portal=true).
 
-For more information on improving performance, see [Tips and best practices to improve canvas app performance](/powerapps/maker/canvas-apps/performance-tips/?azure-portal=true).
+For more information on improving performance, see [Tips and best practices to improve canvas app performance](/power-apps/maker/canvas-apps/performance-tips/?azure-portal=true).

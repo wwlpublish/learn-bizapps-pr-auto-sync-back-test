@@ -57,4 +57,4 @@ You've created the connector, tested it, and now you'll learn how to use it in a
 You have successfully included the custom connector into your Power Apps app.
 
 
-[pa pricing]: /powerapps/administrator/pricing-billing-skus
+[pa pricing]: /power-apps/administrator/pricing-billing-skus/?azure-portal=true

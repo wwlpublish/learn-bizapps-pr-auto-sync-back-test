@@ -7,7 +7,7 @@ The following table explains some of the options that are available on the **Web
 
 | Field                  | Description                                                  |
 | ---------------------- | ------------------------------------------------------------ |
-| Username               | The username is for local authentication. The password can be reset by running the **Change password for portal contact** task flow: [Change password for a contact in Power Apps portal app](/powerapps/maker/portals/configure/configure-contacts?azure-portal=true#change-password-for-a-contact-in-dynamics-365-portal-app). |
+| Username               | The username is for local authentication. The password can be reset by running the **Change password for portal contact** task flow: [Change password for a contact in Power Apps portal app](/power-apps/maker/portals/configure/configure-contacts?azure-portal=true#change-password-for-a-contact-in-dynamics-365-portal-app). |
 | Email Confirmed        | This flag indicates if the email has been confirmed, that is, a validation code has been emailed to and confirmed by the user. Unless the email is confirmed, it can't be used for password resets or two-factor authentication. If required, it can be set manually by the administrator. |
 | Mobile Phone Confirmed | This field is similar to **Email Confirmed**, except that text (SMS) messaging is used for confirmation and other operations. Messaging providers are not included out of the box, but if an organization has one, the authentication flows can be extended to include SMS as a valid confirmation channel. |
 | Two Factor Enabled     | Defines if two-factor authentication has been enabled for the contact. A confirmed email address is required for two-factor authentication to be used. |
@@ -16,7 +16,7 @@ The following table explains some of the options that are available on the **Web
 | Lockout End Date       | When the contact is locked out, this field defines when it's going to be unlocked automatically. Traditional use of this value is to lock out a contact for a number of minutes (which is controlled in site settings) after a preconfigured number of failed sign-in attempts. |
 | Local Login Disabled   | Defines if the local authentication option is available for the user. Site settings might disable local authentication for all users, in which case, this flag will have no effect. |
 
-For more information, see [Set authentication identity for a portal](/powerapps/maker/portals/configure/set-authentication-identity/?azure-portal=true).
+For more information, see [Set authentication identity for a portal](/power-apps/maker/portals/configure/set-authentication-identity/?azure-portal=true).
 
 ## External identities
 

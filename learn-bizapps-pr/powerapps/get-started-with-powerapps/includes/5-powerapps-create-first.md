@@ -3,7 +3,7 @@ In this unit, you'll generate a mobile app where the data source is a Microsoft 
 Keep in mind that you can use data from many other sources, including Microsoft SharePoint, cloud services like Salesforce, and on-premises sources like Microsoft SQL Server.
 
 > [!NOTE]
-> Power Apps requires either an Office 365 license or a free trial. Learn more about your licensing options. [Microsoft products include Microsoft Power Apps and Power Automate.](/powerapps/administrator/pricing-billing-skus/?azure-portal=true)
+> Power Apps requires either an Office 365 license or a free trial. Learn more about your licensing options. [Microsoft products include Microsoft Power Apps and Power Automate.](/power-apps/administrator/pricing-billing-skus/?azure-portal=true)
 
 Before you begin, watch this video for a brief overview of what to expect when creating your first Power App.
 
