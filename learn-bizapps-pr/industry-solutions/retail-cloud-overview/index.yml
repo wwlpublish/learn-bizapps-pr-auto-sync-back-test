@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-bizapps.retail-cloud-overview
+metadata:
+ title: Microsoft Cloud for Retail overview
+ description: Learn about Microsoft Cloud for Retail and what it can do.
+ ms.date: 04/11/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-mscloud-retail
+title: Microsoft Cloud for Retail overview
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module introduces the Microsoft Cloud for Retail and the capabilities included in each solution package.
+abstract: |
+    In this module, you will:
+    - Learn about current retail trends and demands
+    - Get introduced to Microsoft Cloud for Retail
+    - Explore priority retail scenarios and featured capabilities of the solution
+prerequisites: None
+iconUrl: /learn/achievements/retail-cloud-overview.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+products:
+- mscloud-retail
+- industry-solutions
+units:
+- learn-bizapps.retail-cloud-overview.introduction
+- learn-bizapps.retail-cloud-overview.maximize-value
+- learn-bizapps.retail-cloud-overview.elevate-shopping
+- learn-bizapps.retail-cloud-overview.build-real-time
+- learn-bizapps.retail-cloud-overview.empower-associate
+- learn-bizapps.retail-cloud-overview.security-compliance
+- learn-bizapps.retail-cloud-overview.check
+- learn-bizapps.retail-cloud-overview.summary
+badge:
+  uid: learn-bizapps.retail-cloud-overview.badge
