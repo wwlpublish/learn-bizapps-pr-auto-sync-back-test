@@ -27,7 +27,7 @@ quiz:
     - content: Power BI REST API
       isCorrect: false 
       explanation: Incorrect. The Power BI REST API provides service endpoints for embedding, administration, governance, and user resources. However, it can't manage Power BI Embedded capacities.
-  - content: Nick is a member of a developer team at Tailspin Toys that is developing a multi-tenancy app that embeds Power BI real-time reports. Nick is responsible for developing an onboarding process that automates workspace separation to set up the tenant workspace and content. Which automation library should Nick use to create a workspace?
+  - content: Nick is a member of a developer team at Tailspin Toys that is developing a multi-tenancy app that embeds real-time Power BI reports. Nick is responsible for developing an onboarding process that automates workspace separation to set up the tenant workspace and content. Which automation library should Nick use to create a workspace?
     choices: 
     - content: Microsoft Graph
       isCorrect: false
