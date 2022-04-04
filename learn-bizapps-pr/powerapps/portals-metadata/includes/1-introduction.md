@@ -17,7 +17,7 @@ You will have access to the Portal Management app after you have a portal provis
 This process will launch the Portal Management app and will allow makers to access all metadata and data that defines portal content and behavior.  
 
 > [!TIP]
-> Because the Portal Management app is a standard model-driven app, you can also open it from the [Dynamics 365 Home page](https://home.dynamics.com/?azure-portal=true).
+> Because the Portal Management app is a standard model-driven app, you can also open it from the [Dynamics 365 Home page](https://dynamics.microsoft.com/?azure-portal=true).
 
 ## App overview
 

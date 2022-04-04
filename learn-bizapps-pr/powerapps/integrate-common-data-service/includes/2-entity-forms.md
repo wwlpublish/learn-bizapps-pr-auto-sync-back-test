@@ -27,7 +27,7 @@ Other form options include:
 - Enable CAPTCHA to prevent spamming on forms that are open to anonymous users.
 - Control validation behavior, for example, whether to mark all columns as required regardless of the form setting.
 
-See the [Form options](/powerapps/maker/portals/configure/entity-forms?azure-portal=true#form-options) documentation for a complete list of available options.
+See the [Form options](/power-apps/maker/portals/configure/entity-forms?azure-portal=true#form-options) documentation for a complete list of available options.
 
 ### On success settings
 
@@ -52,9 +52,9 @@ Other actions that you can configure include:
 
 - **Add Attach File** - Several options are available for you to add a file upload control to your form. Configuration is flexible and supports multiple files, storage options, MIME type, and size restrictions (for example, you can restrict uploads to images up to 2 MB in size).
 
-- **Geolocation** - You can configure a table form to display a map control that either displays an existing location as a pin on a map or that allows the user to specify a location. For more information, see [Add Geolocation](/powerapps/maker/portals/configure/add-geolocation/?azure-portal=true).
+- **Geolocation** - You can configure a table form to display a map control that either displays an existing location as a pin on a map or that allows the user to specify a location. For more information, see [Add Geolocation](/power-apps/maker/portals/configure/add-geolocation/?azure-portal=true).
 
-The form's map control requires additional configuration to tell it what the various location columns are, to assign values to them, or to retrieve values from them. For more information, see [Geolocation configuration for table forms](/powerapps/maker/portals/configure/entity-forms?azure-portal=true#geolocation-configuration-for-entity-forms).
+The form's map control requires additional configuration to tell it what the various location columns are, to assign values to them, or to retrieve values from them. For more information, see [Geolocation configuration for table forms](/power-apps/maker/portals/configure/entity-forms?azure-portal=true#geolocation-configuration-for-entity-forms).
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the table form with geolocation enabled.](../media/entity-form-geolocation.png)](../media/entity-form-geolocation.png#lightbox)
@@ -74,7 +74,7 @@ For example, you might have an event page that displays information about an upc
 - Behavior of notes and timeline sections, and whether new rows can be added. This feature is commonly used to allow portal users to enter comments about the row, for example, a case in progress.
 
 > [!TIP]
-> You can find some of the table form documentation in the **Web Forms** section. For example, table form metadata can be located under [Configure web form metadata for portals](/powerapps/maker/portals/configure/configure-web-form-metadata/?azure-portal=true) and [Configure Web form subgrids for portals](/powerapps/maker/portals/configure/configure-web-form-subgrid/?azure-portal=true) documentation pages in the **Web Forms** section.
+> You can find some of the table form documentation in the **Web Forms** section. For example, table form metadata can be located under [Configure web form metadata for portals](/power-apps/maker/portals/configure/configure-web-form-metadata/?azure-portal=true) and [Configure Web form subgrids for portals](/power-apps/maker/portals/configure/configure-web-form-subgrid/?azure-portal=true) documentation pages in the **Web Forms** section.
 
 ## Add a table form to your portal
 

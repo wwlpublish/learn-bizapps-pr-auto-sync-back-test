@@ -31,7 +31,7 @@ When a web link is linked to a webpage, the security and publishing state of the
 
 For example, if a **Partners Only** page requires the user to sign in, it will not be visible in the navigation for anonymous visitors. However, you might want to display the link on the page, regardless of the security, so that anonymous visitors will see the **Partners Only** link but, when they select it, they will be redirected to a sign-in page.
 
-For more information, see [Manage web links](/powerapps/maker/portals/configure/manage-web-links/?azure-portal=true).
+For more information, see [Manage web links](/power-apps/maker/portals/configure/manage-web-links/?azure-portal=true).
 
 ## Other navigation
 

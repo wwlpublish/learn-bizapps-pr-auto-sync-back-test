@@ -26,10 +26,10 @@ answers. Here's a closer look at the differences between each of these controls.
 
 -   **List box** - This control always shows all available choices
     (unlike
-    a [Dropdown](/powerapps/maker/canvas-apps/controls/control-drop-down/?azure-portal=true) control)
+    a [Dropdown](/power-apps/maker/canvas-apps/controls/control-drop-down/?azure-portal=true) control)
     and in which the user can choose more than one item at a time
     (unlike a
-    [Radio](/powerapps/maker/canvas-apps/controls/control-radi/?azure-portal=trueo) control).
+    [Radio](/power-apps/maker/canvas-apps/controls/control-radio/?azure-portal=true) control).
 
 -   **Check box** - A control that the user can select or clear to set
     its value to **true** or **false**. The user can specify a Boolean

@@ -50,7 +50,7 @@ with a mouse.
  the mouse pointer on it.
 
 These are just some of the properties that you could modify. For more details about the properties that you can
-customize, see [Color and Border Properties in Power Apps](/powerapps/maker/canvas-apps/controls/properties-color-border/?azure-portal=true).
+customize, see [Color and Border Properties in Power Apps](/power-apps/maker/canvas-apps/controls/properties-color-border/?azure-portal=true).
 
 Note that each control is independent. This means that if
 you alter the **HoverColor** property of one button control on your screen

@@ -27,7 +27,7 @@ While reuse of forms that are part of a model-driven app is possible, the common
 
 - Portal forms are more concise with less information presented, especially when external audiences are involved.
 - Portal processes are separate from the internal use of a staff-facing, model-driven app (including Dynamics 365 apps). Dedicated portal forms are easier to maintain because any changes in the model-driven apps need to be manually applied to the portal forms, giving you an opportunity to review the requirements and assess usability aspects.
-- Certain limitations exist on the form and columns that are rendering, for example, PCF controls are not rendered. For more information, see [About table forms](/powerapps/maker/portals/configure/entity-forms/?azure-portal=true).
+- Certain limitations exist on the form and columns that are rendering, for example, PCF controls are not rendered. For more information, see [About table forms](/power-apps/maker/portals/configure/entity-forms/?azure-portal=true).
 - Client-side business rules and JavaScript, which are essential parts of a model-driven form, will not run on the portal. It's easy to overlook and might result in unintended consequences. 
 - Special considerations need to be given when you are rendering related records, notes, and a timeline because not all functional aspects are supported (or required) in the portals.
 
@@ -104,9 +104,9 @@ Additional settings define other aspects of form behavior, such as styling, tran
 
 **Add attach file** - A number of options are available to add a file upload control to your form. Configuration is flexible and supports multiple files, storage options, mime type, and size restrictions (for example, you can restrict uploads to images up to 2 MB in size). 
 
-**Geolocation** - A table form can be configured to display a map control to display an existing location as a pin on a map or to provide a user with the ability to specify a location. For more information, see [Add Geolocation](/powerapps/maker/portals/configure/add-geolocation/?azure-portal=true).
+**Geolocation** - A table form can be configured to display a map control to display an existing location as a pin on a map or to provide a user with the ability to specify a location. For more information, see [Add Geolocation](/power-apps/maker/portals/configure/add-geolocation/?azure-portal=true).
 
-The form's map control requires additional configuration to tell it what the various location columns are, to assign values to them, or retrieve values from them. For more information, see [Geolocation configuration for table forms](/powerapps/maker/portals/configure/entity-forms.md?azure-portal=true#geolocation-configuration-for-entity-forms).
+The form's map control requires additional configuration to tell it what the various location columns are, to assign values to them, or retrieve values from them. For more information, see [Geolocation configuration for table forms](/power-apps/maker/portals/configure/entity-forms.md?azure-portal=true#geolocation-configuration-for-entity-forms).
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Table form with geolocation enabled.](../media/3-entity-form-geolocation-ss.png)](../media/3-entity-form-geolocation-ss.png#lightbox)

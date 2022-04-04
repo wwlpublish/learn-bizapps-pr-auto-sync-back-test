@@ -1,4 +1,4 @@
-The simplest way to set a choice or choices column value is to use an [Edit form](/powerapps/maker/canvas-apps/controls/control-form-detail/?azure-portal=true). When you add a choice or choices column to the form, it sets up the field to complete the following tasks:
+The simplest way to set a choice or choices column value is to use an [Edit form](/power-apps/maker/canvas-apps/controls/control-form-detail/?azure-portal=true). When you add a choice or choices column to the form, it sets up the field to complete the following tasks:
 
 - Set up as either a dropdown menu (choice) or a combo box (choices).
 

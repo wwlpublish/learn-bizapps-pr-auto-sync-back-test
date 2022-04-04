@@ -26,9 +26,9 @@ If these requirements are met, that function creates a record in your data sourc
 > - RenameColumns
 > - ShowColumns
 > 
-> For more information, see [AddColumns, DropColumns, RenameColumns, and ShowColumns functions in Power Apps.](/powerapps/maker/canvas-apps/functions/function-table-shaping/?azure-portal=true)
+> For more information, see [AddColumns, DropColumns, RenameColumns, and ShowColumns functions in Power Apps.](/power-apps/maker/canvas-apps/functions/function-table-shaping/?azure-portal=true)
 
-For more information on Collect function and Collections, see [Collect Documentation.](/powerapps/maker/canvas-apps/functions/function-clear-collect-clearcollect/?azure-portal=true)
+For more information on Collect function and Collections, see [Collect Documentation.](/power-apps/maker/canvas-apps/functions/function-clear-collect-clearcollect/?azure-portal=true)
 
 ## Patch and ForAll
 
@@ -48,6 +48,6 @@ This formula would add records to the data source named **DataSourceName**, sett
 
 This example could be further optimized, but it should demonstrate the concept and pieces for dynamically saving your collection to a data source.
 
-For more information on ForAll, see [ForAll Documentation](/powerapps/maker/canvas-apps/functions/function-forall/?azure-portal=true).
+For more information on ForAll, see [ForAll Documentation](/power-apps/maker/canvas-apps/functions/function-forall/?azure-portal=true).
 
-For more information on Patch, see [Patch Documentation](/powerapps/maker/canvas-apps/functions/function-patch/?azure-portal=true).
+For more information on Patch, see [Patch Documentation](/power-apps/maker/canvas-apps/functions/function-patch/?azure-portal=true).

@@ -7,7 +7,7 @@ The decision about which option is more appropriate depends on the target audien
 
 Regardless of the registration configuration, local and external accounts participate equally in the registration workflow. Specifically, users have the option to choose which type of account they want to register.
 
-Registration is enabled by default. The `Authentication/Registration/Enabled` site setting controls overall registration process, and adding this setting with the value of `False` disables all forms of user registration. Any other registration setting is ignored until the registration is enabled. You can use [Enable or disable user registration](/powerapps/maker/portals/configure/set-authentication-identity#enable-or-disable-user-registration/?azure-portal=true) settings to control individual registration options.
+Registration is enabled by default. The `Authentication/Registration/Enabled` site setting controls overall registration process, and adding this setting with the value of `False` disables all forms of user registration. Any other registration setting is ignored until the registration is enabled. You can use [Enable or disable user registration](/power-apps/maker/portals/configure/set-authentication-identity?azure-portal=true#enable-or-disable-user-registration) settings to control individual registration options.
 
 ## Open registration
 
@@ -21,7 +21,7 @@ Invitation-based registration is the process where an existing contact is valida
 
 This registration is useful in the scenarios when contacts are known in advance. It is commonly used to register customers, partners, or employees. Invitation-based registration works in situations where users can be "pre-validated," such as when you've collected contact information from visitors of your exhibition booth.
 
-Invitations contain a number of [Invitation attributes](/powerapps/maker/portals/configure/invite-contacts?azure-portal=true#invitation-attributes) that allow you to:
+Invitations contain a number of [Invitation attributes](/power-apps/maker/portals/configure/invite-contacts?azure-portal=true#invitation-attributes) that allow you to:
 
 - Send single or group invitations. Group invitations use the same invitation code for all invitees and work well with a restriction on the number of invitations to redeem. For example, a promotional email can be sent by a software company, inviting all their users to participate in a beta program, but intake is limited to the first 100 registrations.
 - Specify an expiry date, if desired.
@@ -46,7 +46,7 @@ After the invitation code has been generated, you can distribute it through othe
 
 ### Create Invitation
 
-**Create Invitation** is a unique invitation code that is generated when an **Invitation** record is created. The **Invitation** record can be created manually by selecting the **New** command on the **Invitations** view or by using the **Create Invitation** command on a contact record. For more information, see [Create invitations from the Portal Management app](/powerapps/maker/portals/configure/invite-contacts?azure-portal=true#create-invitations-from-portal-management-app).
+**Create Invitation** is a unique invitation code that is generated when an **Invitation** record is created. The **Invitation** record can be created manually by selecting the **New** command on the **Invitations** view or by using the **Create Invitation** command on a contact record. For more information, see [Create invitations from the Portal Management app](/power-apps/maker/portals/configure/invite-contacts?azure-portal=true#create-invitations-from-portal-management-app).
 
 ### Redeem Invitation
 
@@ -66,4 +66,4 @@ If the user does not select the **I have an existing account** option, they will
 
 After the registration process is complete, depending on the invitation options, the portal user can be associated with the predefined account or an additional workflow can be run.
 
-For more information, see [Invite contacts to your portals](/powerapps/maker/portals/configure/invite-contacts?azure-portal=true#invitation-attributes).
+For more information, see [Invite contacts to your portals](/power-apps/maker/portals/configure/invite-contacts?azure-portal=true#invitation-attributes).

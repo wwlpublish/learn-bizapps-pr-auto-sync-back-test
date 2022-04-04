@@ -13,4 +13,4 @@ See the following links for more information on Power Apps architecture.
 
 - [Create components with Power Apps component framework learning path](/learn/paths/use-power-apps-component-framework/?azure-portal=true)
 
-- [Power Apps guidance documentation](/powerapps/guidance/?azure-portal=true)
+- [Power Apps guidance documentation](/power-apps/guidance/?azure-portal=true)
