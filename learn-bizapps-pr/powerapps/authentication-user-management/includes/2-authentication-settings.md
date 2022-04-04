@@ -1,6 +1,6 @@
 Many authentication options that are supported by Power Apps portals are configured by using site settings. Site settings are stored in the **Site Settings** entity, where each setting is defined as a Name/Value pair.
 
-To view site settings, open the Power Apps portals app by going to [Dynamics 365 Home](https://home.dynamics.com/?azure-portal=true) and selecting **Power Apps portals**. In the app, select **Site Settings** in the navigation panel.
+To view site settings, open the Power Apps portals app by going to [Dynamics 365 Home](https://dynamics.microsoft.com/?azure-portal=true) and selecting **Power Apps portals**. In the app, select **Site Settings** in the navigation panel.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of active site settings for portals.](../media/active-site-settings.png)](../media/active-site-settings.png#lightbox)
