@@ -1,4 +1,4 @@
-As the app developer, one of your first tasks is to register an *Azure AD app*. An Azure AD app establishes an identity for your app and specifies permissions to Power BI REST API resources. Your app can use the Azure AD app to generate Azure AD tokens.
+As the app developer, one of your first tasks is to register an *Azure AD app*. An Azure AD app establishes an identity for your app and specifies permissions to Power BI REST API resources. Your app can use the Azure AD app registration to generate Azure AD tokens.
 
 Each Azure AD app has an *ApplicationID*, which is sometimes referred to as a *ClientID*. It's a globally unique identifier that identifies the app in the Microsoft identity platform. The app uses the ApplicationID when requesting an Azure AD token, so its value should be hard-coded in the app's config file.
 
@@ -36,7 +36,7 @@ An advantage of using Azure portal is that it exposes all supported Power BI ser
 The Azure portal allows granting those permissions for the master user account to avoid Azure AD prompting for consent. What's more, a Global Administrator can grant permissions to all users within the organization to avoid prompts for all app users.
 
 > [!NOTE]
-> It's not necessary to grant permissions when your app's embedding identity is a service principal. That's because Power BI admins must manage its permissions in the Power BI admin portal.
+> It's not necessary to grant permissions when your app's embedding identity is a service principal. That's because Power BI admins manage its permissions in the Power BI admin portal.
 
 However, a disadvantage of using the Azure portal is that developers might find it time consuming and complex.
 
@@ -56,15 +56,15 @@ The tool takes the hard work out of getting set up. It takes only minutes to wor
 
 - Optionally creates a workspace.
 
-- Optionally imports a dataset and report into the workspace. Imports a sample or you can upload a Power BI Desktop (.pbix) file of your choice.
+- Optionally imports a dataset and report into the workspace. You can import a sample report or you can upload a Power BI Desktop (.pbix) file of your choice.
 
 - Grants permissions to avoid Azure AD prompting for consent.
 
 - Returns important configuration values, including the ApplicationID, workspace ID (GroupID), and ReportID.
 
-- Creates a sample ASP.NET app that's written in C# that you can download as a zip file. The app's config file contains all configuration values (described in the previous bullet item) but doesn't include the master user account or its credentials. You must enter those config values.
+- Creates a sample ASP.NET app written in C# that you can download as a zip file. The app's config file contains all configuration values (described in the previous bullet item) but doesn't include the master user account or its credentials. You must enter those config values.
 
-This is great news for you as a novice Power BI embedded analytics developer. First, you can obtain a functional app in minutes. Second, Microsoft developed the sample apps by using current software libraries and good design practices. So you can reverse-engineer them to understand how they work and learn from them. It's up to you whether you choose to continue developing the app. Or start from scratch and develop a new app by applying your new skills.
+This is great news for you as a novice Power BI embedded analytics developer. First, you can obtain a functional app in minutes. Second, Microsoft developed the sample apps by using current software libraries and good design practices. So you can reverse-engineer them to understand how they work and learn from them. It's up to you whether you choose to continue developing the app or to start from scratch and develop a new app by applying your new skills.
 
 ### Develop a PowerShell script
 

@@ -118,7 +118,7 @@ var tokenRequest = new GenerateTokenRequestV2(
 string embedToken = (await client.EmbedToken.GenerateTokenAsync(tokenRequest)).Token;
 ```
 
-The app should output the `embedToken` variable value to the embedding HTML page. Client-side logic can then use the embed token to embed content in an `iframe` element.
+The app should output the `embedToken` variable value to the embedding HTML page. Client-side logic can then use the embed token to embed content in a `div` element.
 
 > [!NOTE]
 > To learn how to embed Power BI content, work through the Embed Power BI content module.
