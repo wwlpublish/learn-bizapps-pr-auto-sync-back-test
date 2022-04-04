@@ -17,7 +17,7 @@ Developers can embed all Power BI content types in their apps, including real-ti
 Power BI reports deliver interactive analytical experiences that are designed to encourage exploration and discovery. A well-designed report allows report consumers to discover answers to a broad array of questions. Because there are many visual types, including AI and custom visuals, and interactive features, Power BI reports are the most common Power BI content type that's embedded in apps.
 
 > [!TIP]
-> To learn how to create compelling Power BI reports, work through the [Design effective reports in Power BI](/learn/paths/power-bi-effective/?azure-portal=true) learn path.
+> To learn how to create compelling Power BI reports, work through the [Design effective reports in Power BI](/learn/paths/power-bi-effective/?azure-portal=true) learning path.
 
 When embedded, Power BI reports offer the full functionality that report consumers expect when interacting with them in the Power BI service. Whether it's page navigation, slicers, filtering, drillthrough, bookmarks, or buttons, even when they're interacting on small factor devices like mobile phones. However, embedded Power BI reports aren't always about consumption. Apps can allow users to edit reports or create new ones, too.
 
@@ -27,15 +27,15 @@ Experience what an embedded report looks like by going to the [Power BI embedded
 
 > [!NOTE]
 > The Power BI embedded analytics playground is a website that helps you learn, explore, and try out Power BI embedded analytics. It includes a developer sandbox for hands-on experiences that use the client APIs with sample Power BI content or your own content. Code snippets and showcases are available for you to explore, too.
-
-For more information, see [What is the Power BI embedded analytics playground?](/power-bi/developer/embedded/power-bi-playground/?azure-portal=true)
+>
+> For more information, see [What is the Power BI embedded analytics playground?](/power-bi/developer/embedded/power-bi-playground/?azure-portal=true)
 
 In the left pane, select **Explore our APIs**.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot shows the left pane with the Explore our APIs option highlighted.](../media/explore-our-apis-left-pane-option.png)
 
-In the right side of the content pane, notice the **Sample** dropdown list and the adjacent **Embedded mode** dropdown list. By default, both dropdown lists are set to display a Power BI report in view mode.
+In the content pane, notice the **Sample** dropdown list and the adjacent **Embedded mode** dropdown list. By default, both dropdown lists are set to display a Power BI report in view mode.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot shows two dropdown lists set to display a Power BI report in view mode.](../media/explore-our-apis-report-view-mode.png)
@@ -60,7 +60,7 @@ In the **Embedded mode** dropdown list, select **Edit mode**.
 > [!div class="mx-imgBorder"]
 > ![Screenshot shows the Embedded mode dropdown list set to Edit mode.](../media/explore-our-apis-report-edit-mode.png)
 
-The embedded report now has a menu bar across the top of the report. It includes the **Save** command, which is located in the far right of the report. Now, it's possible to change the report and (attempt to) save the edited report.
+The embedded report now has an action bar across the top of the report. It includes the **Save** command, which is located in the far right of the report. Now, it's possible to change the report and (attempt to) save the edited report.
 
 > [!NOTE]
 > Attempting to save the report in the Power BI embedded analytics playground will produce an error because it's a sample app.
