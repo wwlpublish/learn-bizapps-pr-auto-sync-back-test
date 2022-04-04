@@ -90,7 +90,7 @@ Often, the status column will contain a detailed HTTP status code that
 will give you a more specific error category. The resulting information
 usually contains a text summary of the status code. You can find more
 details on the different HTTP status code values by going to
-[docs.microsoft.com](https://docs.microsoft.com/dotnet/api/system.net.httpstatuscode?view=net-5.0).
+[docs.microsoft.com](/dotnet/api/system.net.httpstatuscode/?azure-portal=true).
 
 To work toward resolving errors, your best information will come from the
 **Formula**, **Request**, and **Response** tabs in the **Details** area, which is shown when

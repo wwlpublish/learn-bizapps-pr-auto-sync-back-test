@@ -11,6 +11,6 @@ observing and capturing user interaction with the published apps in real time.
 
 For more information, select the following links:
 
--   [Debugging canvas apps with Monitor](https://docs.microsoft.com/power-apps/maker/monitor-canvasapps/?azure-portal=true)
+-   [Debugging canvas apps with Monitor](/power-apps/maker/monitor-canvasapps/?azure-portal=true)
 
--   [Debug a model-driven app with Monitor](https://docs.microsoft.com/power-apps/maker/monitor-modelapps/?azure-portal=true)
+-   [Debug a model-driven app with Monitor](/power-apps/maker/monitor-modelapps/?azure-portal=true)
