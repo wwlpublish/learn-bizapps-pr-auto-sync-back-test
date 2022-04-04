@@ -17,4 +17,4 @@ Enable dark mode, and then select a different theme.
 
 Notice that the theme changes. The app used the `applyTheme` function to apply the theme changes.
 
-For a more detailed explanation, including the access to the code, see [Customize report colors and mode showcase](/javascript/api/overview/powerbi/showcase-themes/?azure-portal=true).
+For a more detailed explanation, including access to the code, see [Customize report colors and mode showcase](/javascript/api/overview/powerbi/showcase-themes/?azure-portal=true).
