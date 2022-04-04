@@ -61,7 +61,8 @@ Your app can use a *service principal* to acquire an Azure AD token. An Azure se
 
 When your app's embedding identity is a service principal, a Power BI tenant admin must first:
 
-- Enable use of service principals
+- Enable use of service principals.
+
 - Register a security group that contains them.
 
 The following image shows the **Developer settings** (found in the tenant settings of the admin portal) where a Power BI admin can enable service principals to use Power BI APIs.
@@ -100,11 +101,11 @@ In summary, the following table compares the two embedding identity types.
 
 | Item | Service principal | Master user account |
 |-|-------------------|---------------------|
-| Azure AD object type | Service principal | User |
-| Credential management | Use secrets or certificates with periodic rotation | Do frequent password updates |
-| Power BI tenant settings | A Power BI admin must allow use of service principals, and we recommend that service principals belong to a dedicated security group | Not applicable |
-| Power BI REST API usage  | Some admin and dataflows operations aren't supported. You can [enable service principal authentication for read-only admin APIs](/power-bi/enterprise/read-only-apis-service-principal-authentication/?azure-portal=true). | All operations are supported |
-| Power BI service sign in | Not supported | Supported |
-| Licensing | Not required | Power BI Pro or PPU |
-| Azure AD recommendation  | Recommended (especially for production apps) | Not recommended (but may be suited to development or test apps) |
-| Additional information | | Can't require MFA; Can't embed paginated reports |
+| **Azure AD object type** | Service principal | User |
+| **Credential management** | Use secrets or certificates with periodic rotation | Do frequent password updates |
+| **Power BI tenant settings** | A Power BI admin must allow use of service principals, and we recommend that service principals belong to a dedicated security group | Not applicable |
+| **Power BI REST API usage**  | Some admin and dataflows operations aren't supported. You can [enable service principal authentication for read-only admin APIs](/power-bi/enterprise/read-only-apis-service-principal-authentication/?azure-portal=true). | All operations are supported |
+| **Power BI service sign in** | Not supported | Supported |
+| **Licensing** | Not required | Power BI Pro or PPU |
+| **Azure AD recommendation**  | Recommended (especially for production apps) | Not recommended (but may be suited to development or test apps) |
+| **Additional information** | | Can't require MFA; Can't embed paginated reports |
