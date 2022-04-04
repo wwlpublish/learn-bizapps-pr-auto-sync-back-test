@@ -10,7 +10,7 @@ The following code shows how to prepare and initialize the `iframe` element for 
 powerbi.bootstrap(embedContainer, { type: 'report' });
 ```
 
-Consider using bootstrap when your app's web page first loads. While that happens, server-side calls retrieve the Power BI content details and access token. When the server-side calls complete, embed the Power BI content.
+Consider using bootstrap when your app's web page first loads. While that happens, server-side calls can retrieve the Power BI content details and access token. When the server-side calls complete, embed the Power BI content.
 
 > [!div class="mx-imgBorder"]
 > ![Diagram of the bootstrap flow described in the previous paragraph.](../media/bootstrap.png)

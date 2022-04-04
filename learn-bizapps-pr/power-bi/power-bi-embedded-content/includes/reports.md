@@ -39,15 +39,15 @@ Experience how your app can embed a Power BI report by going to the [Power BI em
 
 > [!NOTE]
 > The Power BI embedded analytics playground is a website that helps you learn, explore, and try out Power BI embedded analytics. It includes a developer sandbox for hands-on experiences that use the client APIs with sample Power BI content or your own content. Code snippets and showcases are available for you to explore, too.
-
-For more information, see [What is the Power BI embedded analytics playground?](/power-bi/developer/embedded/power-bi-playground/?azure-portal=true)
+>
+>For more information, see [What is the Power BI embedded analytics playground?](/power-bi/developer/embedded/power-bi-playground/?azure-portal=true)
 
 In the left pane, select **Explore our APIs**.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of the the left pane with the Explore our APIs option highlighted.](../media/left-pane-option.png)
 
-In the right side of the content pane, notice the **Sample** dropdown list and the adjacent **Embedded mode** dropdown list. By default, both dropdown lists are set to display a Power BI report in view mode.
+In the content pane, notice the **Sample** dropdown list and the adjacent **Embedded mode** dropdown list. By default, both dropdown lists are set to display a Power BI report in view mode.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of two dropdown lists set to display a Power BI report in view mode.](../media/report-view-mode.png)
@@ -101,7 +101,7 @@ In the Power BI embedded analytics playground, in the **Embedded mode** dropdown
 > [!div class="mx-imgBorder"]
 > ![Screenshot of the Embedded mode dropdown list set to Edit mode.](../media/report-edit-mode.png)
 
-The embedded report now has a menu bar across the top of the report. It includes the **Save** command, which is located in the far right of the report. Now, it's possible to change the report and (attempt to) save the edited report.
+The embedded report now has the action bar across the top of the report. It includes the **Save** command, which is located in the far right of the report. Now, it's possible to change the report and (attempt to) save the edited report.
 
 > [!NOTE]
 > Attempting to save the report in the Power BI embedded analytics playground will produce an error because it's a sample app.
@@ -131,7 +131,7 @@ In the Power BI embedded analytics playground, in the **Embedded mode** dropdown
 > [!div class="mx-imgBorder"]
 > ![Screenshot of the Embedded mode dropdown list set to Create mode.](../media/report-create-mode.png)
 
-The embedded report now has a menu bar across the top of the report. It includes the **File** menu, which is located in the far left of the report. Now, it's possible to (attempt to) save the report.
+The embedded report now has the action bar across the top of the report. It includes the **File** menu, which is located in the far left of the report. Now, it's possible to (attempt to) save the report.
 
 > [!NOTE]
 > Attempting to save the report in the Power BI embedded analytics playground will produce an error because it's a sample app.

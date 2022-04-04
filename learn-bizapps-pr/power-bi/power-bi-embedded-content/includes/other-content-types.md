@@ -62,7 +62,7 @@ You can embed the Q&A experience by using a configuration object of type `ILoadQ
 -   `question` - Optional. The question that your app supplies. The `viewMode` property must be set to `QnaMode.ResultOnly`.
 
 > [!TIP]
-> Encouraging the use of Q&A can help reduce the number of reports and dashboards that you need to develop. Also, you can embed a Q&A visual from a Power BI report. This approach provides the ability to format the visual, and the app can apply filters to the visual.
+> Encouraging the use of Q&A can help reduce the number of reports and dashboards that you need to develop. Also, you can embed a Q&A visual from a Power BI report. This approach provides the ability to format the visual, and the app can apply filters to it.
 
 For a complete description of embedding the Q&A experience, see [Embed a standalone Q&A visual](/javascript/api/overview/powerbi/embed-q-and-a/?azure-portal=true).
 
