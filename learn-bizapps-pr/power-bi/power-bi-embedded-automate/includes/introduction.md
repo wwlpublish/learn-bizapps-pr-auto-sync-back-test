@@ -32,7 +32,7 @@ The following code blocks contribute to the first part of a PowerShell setup scr
 
 1.  Add the service principal to the **Power BI Apps** security group.
 
-The first code block initializes two variables. The `$appDisplayName` variable stores the new Azure AD app name; the `$adSecurityGroupName` variable stores the name of an existing security group. In the Power BI tenant settings, a Power BI admin has already assigned this security group when allowing the user of service principals.
+The first code block initializes two variables. The `$appDisplayName` variable stores the new Azure AD app name; the `$adSecurityGroupName` variable stores the name of an existing security group. In the Power BI tenant settings, a Power BI admin has already assigned this security group when allowing the use of service principals.
 
 ```powershell
 # The new app display name
