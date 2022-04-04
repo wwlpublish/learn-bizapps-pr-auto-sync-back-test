@@ -36,4 +36,4 @@ Return to the saved views, and notice that the Abbas bookmark appears at the bot
 > [!div class="mx-imgBorder"]
 > ![Image highlights the Abbas bookmark in the save views list.](../media/playground-capture-report-views-saved-views-abbas.png)
 
-For a more detailed explanation, including the access to the code, see [Capture report views showcase](/javascript/api/overview/powerbi/showcase-bookmarks/?azure-portal=true).
+For a more detailed explanation, including access to the code, see [Capture report views showcase](/javascript/api/overview/powerbi/showcase-bookmarks/?azure-portal=true).

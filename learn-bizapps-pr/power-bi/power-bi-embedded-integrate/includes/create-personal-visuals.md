@@ -19,10 +19,10 @@ Hover the cursor over the new visual, and then at top right, select the ellipsis
 > [!div class="mx-imgBorder"]
 > ![Image shows the context menu for the new visual. It contains two commands: Change visual and Get insights.](../media/playground-create-personalized-visuals-showcase-open-context-menu.png)
 
-The app used the `updateSettings` function to pass in new settings that defined a command extension. For more information, see [Modify menu commands for a report visual](/javascript/api/overview/powerbi/change-visual-commands/?azure-portal=true).
+The app used the `updateSettings` function to pass in new settings that define a command extension. For more information, see [Modify menu commands for a report visual](/javascript/api/overview/powerbi/change-visual-commands/?azure-portal=true).
 
 Select the **Change visual** command. In the **Create quick visual** window, set up a different visual, and then select **Create**.
 
 Notice that the app replaced the visual with the new setup.
 
-For a more detailed explanation, including the access to the code, see [Quickly create personalized visuals showcase](/javascript/api/overview/powerbi/showcase-visual-creator/?azure-portal=true).
+For a more detailed explanation, including access to the code, see [Quickly create personalized visuals showcase](/javascript/api/overview/powerbi/showcase-visual-creator/?azure-portal=true).

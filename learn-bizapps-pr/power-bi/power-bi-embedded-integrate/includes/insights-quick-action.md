@@ -1,4 +1,4 @@
-You'll now explore the **Go from insights to quick action** showcase. Contoso, a sales company, needs to target sending coupons or discount vouchers to specific customers. This showcase demonstrates how Contoso achieved that by using event handling and visual data export.
+You'll now explore the **Go from insights to quick action** showcase. Contoso, a sales company, needs to target sending coupons or discount vouchers to specific customers. This showcase demonstrates how Contoso achieved that requirement by using event handling and visual data export.
 
 In the playground, in the menu (located at the left), select the Home icon to return to the home page.
 
@@ -33,4 +33,4 @@ The report raised the `buttonClicked` event and the app responded by opening a d
 
 The dialog window allows users to optionally deselect customers and then select either **Send coupon** or **Send discount**. The app is responsible for recording and sending coupons or discount vouchers to the selected customers.
 
-For a more detailed explanation, including the access to the code, see [Go from insights to quick action showcase](/javascript/api/overview/powerbi/showcase-export-events/?azure-portal=true).
+For a more detailed explanation, including access to the code, see [Go from insights to quick action showcase](/javascript/api/overview/powerbi/showcase-export-events/?azure-portal=true).

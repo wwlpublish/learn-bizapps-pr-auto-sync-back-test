@@ -11,7 +11,7 @@ Beyond embedding Power BI content, the client APIs let your app:
 
 - Interact with bookmarks, either applying them or creating new ones.
 
-- Produce dynamic report layouts, which provide control to users to customize the report experience.
+- Produce dynamic report layouts, which provide control so users can customize the report experience.
 
 - Create personalized report visuals.
 
@@ -60,7 +60,7 @@ Review the code fragment added to the code pane. Then, to run the code, on the m
 > [!div class="mx-imgBorder"]
 > ![Image shows the menu bar with the Run menu option highlighted.](../media/developer-sandbox-run-code.png)
 
-The report renders in full screen mode. To exit full screen mode, press **Escape**.
+Notice that the report renders in full screen mode. To exit full screen mode, press **Escape**.
 
 Now you'll programmatically modify the report's date slicer. In the **Embedded Report APIs** pane, expand open the **Filters & Slicers** group.
 
@@ -141,7 +141,7 @@ Here are the layout operations available to explore in the playground.
 > [!div class="mx-imgBorder"]
 > ![Image shows the Layout operations available in the playground. They include Apply custom layout, Check layout, Hide all visual headers, Show all visual headers, and Hide single visual header.](../media/developer-sandbox-layout-operations.png)
 
-At Tailspin Toys, the sales app allows users to define page size, canvas scale, and pages layout. Within the pages layout, it lets them specify a visual layout for each visual. It allows them to show or resize visuals of interest, and hide other visuals.
+At Tailspin Toys, the sales app allows users to define page size, canvas scale, and pages layout. Within the pages layout, it lets them specify a visual layout for each visual. It also allows them to show or resize visuals of interest, and hide other visuals.
 
 A later unit of this module demonstrates how an app can personalize the report layout.
 

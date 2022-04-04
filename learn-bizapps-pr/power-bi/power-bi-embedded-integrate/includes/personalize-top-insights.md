@@ -21,4 +21,4 @@ Next, select the **Choose Layout** button, and then select the first layout opti
 
 Notice how the report page layout changes. Try the other layout options, too. The app used the `updateSettings` function to update a settings object with a modified `customLayout` property.
 
-For a more detailed explanation, including the access to the code, see [Personalize top insights showcase](/javascript/api/overview/powerbi/showcase-layout/?azure-portal=true).
+For a more detailed explanation, including access to the code, see [Personalize top insights showcase](/javascript/api/overview/powerbi/showcase-layout/?azure-portal=true).
