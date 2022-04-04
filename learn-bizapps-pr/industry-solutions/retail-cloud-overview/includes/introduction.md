@@ -7,7 +7,7 @@ Let's see how retail is currently in transition and how Microsoft Cloud for Reta
 With the pandemic and other disruptions in the industry, retailers' priorities are shifting.
 
 > [!div class="mx-imgBorder"]
-> [![Table showing what retailers are focused on and how their technology is holding them back.](../media/priorities.png)](../media/priorities.png#lightbox)
+> ![Table showing what retailers are focused on and how their technology is holding them back.](../media/priorities.png)
 
 > [!NOTE]
 > For more information, see the following resource links (numbers correspond with reference numbers in the preceding screenshot):
@@ -47,7 +47,7 @@ Fortunately, these barriers aren't insurmountable.
 In response to industry's focus on Cloud Services, Microsoft has prioritized developing services specific to the industry. Microsoft Cloud for Retail, built on a foundation of privacy, security, and regulatory compliance across Microsoft and the partner ecosystem.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of Microsoft Cloud for Retail.](../media/cloud-retail.png)](../media/cloud-retail.png#lightbox)
+> ![Screenshot of Microsoft Cloud for Retail.](../media/cloud-retail.png)
 
 Microsoft Cloud for Retail is our collection of proven tools to connect your customers, your people, and most importantly, your data. The Microsoft Cloud for Retail is an industry-specific cloud, that introduces capabilities for retail customers across four key parameters.
 
@@ -66,7 +66,7 @@ And finally and as importantly, every pillar of the Microsoft Cloud for Retail i
 There are 15 capabilities enabled through the four prioritized scenarios as depicted below:
 
 > [!div class="mx-imgBorder"]
-> [![Graphic showing the four scenarios detailed below.](../media/capabilities.png)](../media/capabilities.png#lightbox)
+> ![Graphic showing the four scenarios detailed below.](../media/capabilities.png)
 
 Now, let's take a closer look at the capabilities around the value chain.
 

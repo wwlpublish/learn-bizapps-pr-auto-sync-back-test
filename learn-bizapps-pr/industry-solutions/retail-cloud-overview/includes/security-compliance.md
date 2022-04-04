@@ -1,5 +1,5 @@
 > [!div class="mx-imgBorder"]
-> [![A complex security and compliance landscape with multiple complex environments, consumer data privacy, increased cyber risks, and evolving regulations.](../media/landscape.png)](../media/landscape.png#lightbox)
+> ![A complex security and compliance landscape with multiple complex environments, consumer data privacy, increased cyber risks, and evolving regulations.](../media/landscape.png)
 
 First, let's touch on some of the issues that make security and compliance a unique challenge for the retail industry. Some specifics:
 
@@ -14,8 +14,7 @@ First, let's touch on some of the issues that make security and compliance a uni
 ## Security, identity, and threat protection
 
 > [!div class="mx-imgBorder"]
-> [![Security, identity, and threat protection: Identity and access, encryption, and threat protection.](../media/security.png)](../media/security.png#lightbox)
-
+> ![Security, identity, and threat protection: Identity and access, encryption, and threat protection.](../media/security.png)
 Microsoft helps you protect against the latest threats with intelligent tools to prevent attacks and react quickly to security events
 
 ### Identity and access
@@ -44,7 +43,7 @@ Microsoft helps you protect against the latest threats with intelligent tools to
 ## Regulatory compliance
 
 > [!div class="mx-imgBorder"]
-> [![Regulatory compliance. Take advantage of integrated compliance tools.](../media/compliance.png)](../media/compliance.png#lightbox)
+> ![Regulatory compliance. Take advantage of integrated compliance tools.](../media/compliance.png)
 
 Microsoft offers integrated compliance tools designed for retail, including:
 
@@ -63,7 +62,7 @@ Microsoft offers integrated compliance tools designed for retail, including:
 ## Partner solutions compliance certification
 
 > [!div class="mx-imgBorder"]
-> [![Partner solutions compliance certification.](../media/partner.png)](../media/partner.png#lightbox)
+> ![Partner solutions compliance certification.](../media/partner.png)
 
 The **ISO 27001 and SSAE 18 SOC 2** certifications of our partners will accelerate your risk assessment and ensure end-to-end compliance coverage for the Microsoft Cloud for Retail.
 

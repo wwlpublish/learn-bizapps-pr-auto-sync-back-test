@@ -1,17 +1,17 @@
 > [!div class="mx-imgBorder"]
-> [![There are 40 petabytes of data generated every hour in retail, but it's hard to unlock the value.](../media/customer-touch-points.png)](../media/customer-touch-points.png#lightbox)
+> ![There are 40 petabytes of data generated every hour in retail, but it's hard to unlock the value.](../media/customer-touch-points.png)
 
 > [!NOTE]
 > For more information, see the following resource links (numbers corresponding with reference numbers in the preceding screenshot):
 >
-> 1. Accenture, [How to get more value out of your data in the cloud](https://www.accenture.com/blogs/cloud-computing/how-to-get-more-value-out-of-your-data-in-the-cloud), 2021
+> 1. Accenture, [How to get more value out of your data in the cloud](https://www.accenture.com/blogs/cloud-computing/how-to-get-more-value-out-of-your-data-in-the-cloud/?azure-portal=true), 2021
 
 There are 40 petabytes of data generated every hour in retail, but it's hard to unlock the value. Customer touchpoints aren't talking to each other--they're siloed and disconnected. The same customer who completes a transaction on social media versus in-store may appear as two, three, or four different customers because their data sits in different databases, speaking different languages.
 
 Most retailers are only set up to use a fraction of the data that's available. They lack the tools and technologies to extract business value from unstructured, dark data.
 
 > [!div class="mx-imgBorder"]
-> [![Using retail data models, we're unifying disparate data sources and connecting data silos.](../media/unify-data.png)](../media/unify-data.png#lightbox)
+> ![Using retail data models, we're unifying disparate data sources and connecting data silos.](../media/unify-data.png)
 
 With Microsoft Cloud for Retail, we're using retail data models to bring multiple systems and applications together by providing a shared language for your applications. This simplifies data management and app development by unifying data into common formats and applying consistency across multiple apps and deployments.
 
@@ -28,14 +28,14 @@ What does this offer:
 The Microsoft Cloud for Retail uses a combination of Microsoft Products to address the industry prioritized scenarios focused on maximizing the value of your data. The illustration below reflects the required and recommended capabilities.
 
 > [!div class="mx-imgBorder"]
-> [![Maximize the value of your data, product dependencies.](../media/maximize.png)](../media/maximize.png#lightbox)
+> ![Maximize the value of your data, product dependencies.](../media/maximize.png)
 
 ### Unified customer profile
 
 Unified customer profile is one of the key capabilities of the Microsoft Cloud for Retail. In some ways, it's where the data story comes together. So what does it do? Unified customer profile helps you gain insights across the complete view of a shopper's journey.
 
 > [!div class="mx-imgBorder"]
-> [![Unified customer profile (part 1): Unification and unique enrichment.](../media/unified.png)](../media/unified.png#lightbox)
+> ![Unified customer profile (part 1): Unification and unique enrichment.](../media/unified.png)
 
 With unified customer profile, you can gain a 360-degree perspective of the customer in a clear and intuitive way so that you can provide personalized experiences, reveal important opportunities, prevent potential loss, or churn, and improve customer satisfaction.
 
@@ -52,7 +52,7 @@ It also fosters **unique enrichment**:
 - Use cross-channel behavior to complete the picture of your end-customer
 
 > [!div class="mx-imgBorder"]
-> [![Unified customer profile (part 2): Insights, trust, privacy, and consent.](../media/unified-2.png)](../media/unified-2.png#lightbox)
+> ![Unified customer profile (part 2): Insights, trust, privacy, and consent.](../media/unified-2.png)
 
 Furthermore, unified customer profile also gives you better access to customer **insights**:
 
@@ -71,7 +71,7 @@ Finally, **trust, privacy, and consent** is essential to this capability. You ca
 Shopper and operations analytics helps you unlock omnichannel insights with advanced analytics. With shopper and operations analytics, you can predict customer and operational needs, monitor and understand online engagement, and unify data integration, warehousing, and analytics.
 
 > [!div class="mx-imgBorder"]
-> [![Shopper and operations analytics (part 1): predict customer and operational needs, and unify disparate silos.](../media/shopper.png)](../media/shopper.png#lightbox)
+> ![Shopper and operations analytics (part 1): predict customer and operational needs, and unify disparate silos.](../media/shopper.png)
 
 First, **predict customer and operational needs**:
 
@@ -88,7 +88,7 @@ It also **unifies disparate silos**:
 - Build ETL/ELT processes in a code-free visual environment to easily ingest data from more than 95 native connectors
 
 > [!div class="mx-imgBorder"]
-> [![Shopper and operations analytics (part 2): Monitor and understand engagement.](../media/shopper-2.png)](../media/shopper-2.png#lightbox)
+> ![Shopper and operations analytics (part 2): Monitor and understand engagement.](../media/shopper-2.png)
 
 You can also **monitor and understand engagement**:
 
@@ -105,7 +105,7 @@ Intelligent fraud prevention helps protect your revenue from fraud using AI to i
 With intelligent fraud prevention, you can protect against digital fraud and stop patterns of fraudulent transactions, and identify at-risk business entities and functions.
 
 > [!div class="mx-imgBorder"]
-> [![Intelligent fraud prevention. A I and data-driven account protection, and empowered employees.](../media/fraud.png)](../media/fraud.png#lightbox)
+> ![Intelligent fraud prevention. A I and data-driven account protection, and empowered employees.](../media/fraud.png)
 
 Secure **AI and data-driven account protection**:
 
@@ -128,7 +128,7 @@ Retail media unlocks ad revenue using your 1^st^ party shopper data.
 With retail media, you can unlock high-margin revenue streams, keep messaging consistent, and generate more revenue than ever.
 
 > [!div class="mx-imgBorder"]
-> [![Retail media. Intelligent product promotion.](../media/retail-media.png)](../media/retail-media.png#lightbox)
+> ![Retail media. Intelligent product promotion.](../media/retail-media.png)
 
 With **intelligent product promotion,** you're set. You can:
 

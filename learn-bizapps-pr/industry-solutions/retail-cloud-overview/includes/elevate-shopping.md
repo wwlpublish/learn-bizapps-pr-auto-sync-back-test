@@ -3,7 +3,7 @@
 The Microsoft Cloud for Retail uses a combination of Microsoft Products to address the industry prioritized scenarios focused on elevating the shopping experience. The illustration below reflects the required and recommended capabilities.
 
 > [!div class="mx-imgBorder"]
-> [![Elevate the shopping experience, Product dependencies.](../media/elevate.png)](../media/elevate.png#lightbox)
+> ![Elevate the shopping experience, Product dependencies.](../media/elevate.png)
 
 ### Intelligent stores
 
@@ -12,7 +12,7 @@ Intelligent stores helps you protect your revenue from fraud using AI to identif
 With intelligent stores, you can maximize sales by optimizing in-store customer and product signals.
 
 > [!div class="mx-imgBorder"]
-> [![Intelligent stores: Actionable insights to improve sales and single view into insights.](../media/intelligent-stores.png)](../media/intelligent-stores.png#lightbox)
+> ![Intelligent stores: Actionable insights to improve sales and single view into insights.](../media/intelligent-stores.png)
 
 Use **actionable insights to improve sales**:
 
@@ -33,7 +33,7 @@ Real-time personalization helps you enable personalized recommendations and sear
 With real-time personalization, you can help drive conversion and make it easier for customers to find what they're looking for, and offer more relevant options.
 
 > [!div class="mx-imgBorder"]
-> [![Real-time personalization (part 1): Shop similar looks and descriptions, and real-time recommendations.](../media/personalization.png)](../media/personalization.png#lightbox)
+> ![Real-time personalization (part 1): Shop similar looks and descriptions, and real-time recommendations.](../media/personalization.png)
 
 With real-time personalization, **shop similar looks and similar descriptions**:
 
@@ -50,7 +50,7 @@ Concurrently, offer **real-time recommendations**:
 - Help customers and sellers find products online and in-store with intelligent product search
 
 > [!div class="mx-imgBorder"]
-> [![Real-time personalization (part 2): Hyper-personalized customer journeys, and elevated experiences across all channels.](../media/personalization-2.png)](../media/personalization-2.png#lightbox)
+> ![Real-time personalization (part 2): Hyper-personalized customer journeys, and elevated experiences across all channels.](../media/personalization-2.png)
 
 Real-time personalization also makes way for **hyper-personalized customer journeys**:
 
@@ -71,7 +71,7 @@ Unified commerce can help increase engagement and drive conversions across chann
 With unified commerce, connect operations, enhance and personalize customer experiences, and connect physical and digital storefronts.
 
 > [!div class="mx-imgBorder"]
-> [![Unified commerce: Engage across channels, and predict and personalize to drive conversions.](../media/unified-commerce.png)](../media/unified-commerce.png#lightbox)
+> ![Unified commerce: Engage across channels, and predict and personalize to drive conversions.](../media/unified-commerce.png)
 
 Unified commerce can allow you to **engage across channels**:
 
@@ -94,7 +94,7 @@ Digital advertising solutions can help drive growth, acquire new customers, and 
 With digital advertising solutions, you can optimize your campaigns across channels, find new customers and increase current customer loyalty, and build stronger customer relationships.
 
 > [!div class="mx-imgBorder"]
-> [![Digital advertising solutions: Maximize campaign performance and build smarter customer journeys, and engage customers on their terms.](../media/digital-ads.png)](../media/digital-ads.png#lightbox)
+> ![Digital advertising solutions: Maximize campaign performance and build smarter customer journeys, and engage customers on their terms.](../media/digital-ads.png)
 
 Use digital advertising solutions to **propel growth**:
 
@@ -117,7 +117,7 @@ Seamless customer service can help you utilize intelligent and automated custome
 With seamless customer service, you can eliminate problems before they arise, tailor customer engagements, and free up live agents to manage complex problems.
 
 > [!div class="mx-imgBorder"]
-> [![Seamless customer service (part 1): Offer help anytime with A I powered chatbots, and extend personalized assistance.](../media/service.png)](../media/service.png#lightbox)
+> ![Seamless customer service (part 1): Offer help anytime with A I powered chatbots, and extend personalized assistance.](../media/service.png)
 
 With this capability in your back pocket, you can **offer help anytime with AI-powered chatbots**:
 
@@ -135,7 +135,7 @@ You can also **extend personalized assistance**:
 - Tailor customer engagement by providing at-a-glance customer history, and utilize AI to classify, prioritize, and assign customers across all channels to the most qualified agent
 
 > [!div class="mx-imgBorder"]
-> [![Seamless customer service (part 2): Provide smarter, omnichannel services, and resolve issues on your own.](../media/service-2.png)](../media/service-2.png#lightbox)
+> ![Seamless customer service (part 2): Provide smarter, omnichannel services, and resolve issues on your own.](../media/service-2.png)
 
 Further, you can **provide smarter services**:
 
