@@ -160,7 +160,7 @@ to return only the data that's relevant.
 
 ## Identify and resolve delegation problems
 
-[Delegation](https://docs.microsoft.com/power-apps/maker/canvas-apps/delegation-overview/?azure-portal=true)
+[Delegation](/power-apps/maker/canvas-apps/delegation-overview/?azure-portal=true)
 issues occur when you compose a query that contains criteria that can't
 be resolved completely and implemented remotely by the connector service.
 When this situation occurs, the app sends only part of the criteria to the
