@@ -15,7 +15,7 @@ Capacities represent the computational resources that are required to process wo
 
 Power BI Premium, often referred to as Premium, is a capacity-based license.
 
-Premium offers many benefits, such as sharing content with anyone (even outside the organization), and it provides access to many features and capabilities. Of relevance to this module, one Premium feature is to allow the embedding of content by using the *For your customer* scenario.
+Premium offers many benefits, such as sharing content with anyone (even outside the organization), and it provides access to many features and capabilities. Of relevance to this module, one Premium feature allows the embedding of content by using the *For your customer* scenario.
 
 To embed Power BI content for your customers by using Premium, make sure that the content resides in a workspace and its license mode is set to **Premium per capacity**. When set to that mode, the workspace is assigned to a Premium capacity.
 
