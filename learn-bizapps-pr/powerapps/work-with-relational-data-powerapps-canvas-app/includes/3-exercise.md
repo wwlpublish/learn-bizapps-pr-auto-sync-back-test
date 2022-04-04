@@ -1,4 +1,4 @@
-In this exercise, you'll learn how to access related data and how to create related records in multiple tables. For this example we'll be using [collections](/powerapps/maker/canvas-apps/create-update-collection/?azure-portal=true), which will only temporarily store your data. If you want a solution that saves to Dataverse or SharePoint, use the [patch](/powerapps/maker/canvas-apps/functions/function-patch/?azure-portal=true) function.
+In this exercise, you'll learn how to access related data and how to create related records in multiple tables. For this example we'll be using [collections](/power-apps/maker/canvas-apps/create-update-collection/?azure-portal=true), which will only temporarily store your data. If you want a solution that saves to Dataverse or SharePoint, use the [patch](/power-apps/maker/canvas-apps/functions/function-patch/?azure-portal=true) function.
 
 For this exercise, we're going to create a shopping cart. We'll be using a parent table (the receipt header), a child table (the receipt line items), and a products table (reference table). The relationships will look like so:
 

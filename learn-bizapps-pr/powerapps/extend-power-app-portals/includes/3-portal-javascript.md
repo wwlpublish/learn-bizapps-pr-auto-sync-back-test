@@ -39,4 +39,4 @@ These options provide reasonable alternatives to client-side business rules and 
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4AmL6]
 
-For more information, see [Add custom JavaScript](/powerapps/maker/portals/configure/add-custom-javascript/?azure-portal=true).
+For more information, see [Add custom JavaScript](/power-apps/maker/portals/configure/add-custom-javascript/?azure-portal=true).

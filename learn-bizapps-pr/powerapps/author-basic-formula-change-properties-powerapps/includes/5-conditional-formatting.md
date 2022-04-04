@@ -25,7 +25,7 @@ When setting the Color property in Power Apps, there are a few options.
 You can provide a color object, as shown in the example, by using
 Color.Orange or any of the predefined colors in Power Apps. There is also
 a ColorValue and an RGBA function available. For more information, see
-[Power Apps Color enumeration and functions](/powerapps/maker/canvas-apps/functions/function-colors/?azure-portal=true).
+[Power Apps Color enumeration and functions](/power-apps/maker/canvas-apps/functions/function-colors/?azure-portal=true).
 
 Another concept that can be applied is to reference the **Text**
 property to determine the **Color** property. If your app needs to always show PASS in DarkGreen and FAIL in DarkRed, then you can use the

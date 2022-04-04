@@ -101,7 +101,7 @@ Table lists can have actions associated with them to enable per list commands, l
 > [!div class="mx-imgBorder"]
 > [![Screenshot of Table list commands and views.](../media/2-entity-list-features-commands-ssm.png)](../media/2-entity-list-features-commands-ssm.png#lightbox)
 
-For more information, see [About table lists](/powerapps/maker/portals/configure/entity-lists/?azure-portal=true).
+For more information, see [About table lists](/power-apps/maker/portals/configure/entity-lists/?azure-portal=true).
 
 Watch the following video to learn how to configure and display the view on a portal page and add interactive filtering capabilities on an existing Dataverse table.
 

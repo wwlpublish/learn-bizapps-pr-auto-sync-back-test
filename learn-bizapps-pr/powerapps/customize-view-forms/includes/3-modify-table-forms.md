@@ -10,7 +10,7 @@ By default, all tables in Dataverse have standard forms, which you can use and i
 
 In this section, you will customize these forms to display the fields that users will update when interacting with your model-driven app. The goal of forms is to allow the user to create, update, and delete records efficiently. This process could involve placing similar fields into groups that make sense to the business user, or you can put them in order. In the next exercises, you will modify the **Main** form for all tables. Then, you will use these forms as the main place where app users will interact with the data. 
 
-For more information, see [Create and design model-driven app forms](/powerapps/maker/model-driven-apps/create-design-forms/?azure-portal=true).
+For more information, see [Create and design model-driven app forms](/power-apps/maker/model-driven-apps/create-design-forms/?azure-portal=true).
 
 ### Modify default table forms
 

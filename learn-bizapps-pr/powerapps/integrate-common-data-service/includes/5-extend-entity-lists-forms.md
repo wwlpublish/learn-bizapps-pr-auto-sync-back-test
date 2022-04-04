@@ -45,7 +45,7 @@ You can use advanced settings to implement some of the features that do not map 
 
 ### Commands
 
-Table lists, table forms, and web forms include action button configuration that adds per-row actions. See [table form action configuration](/powerapps/maker/portals/configure/entity-forms?azure-portal=true#entity-form-action-configuration) and [table list configuration](/powerapps/maker/portals/configure/entity-lists?azure-portal=true#entity-list-configuration) for information about available actions.
+Table lists, table forms, and web forms include action button configuration that adds per-row actions. See [table form action configuration](/power-apps/maker/portals/configure/entity-forms?azure-portal=true#entity-form-action-configuration) and [table list configuration](/power-apps/maker/portals/configure/entity-lists?azure-portal=true#entity-list-configuration) for information about available actions.
 
 Some commands include the **Filter Criteria** setting. You can use it to enter FetchXML that evaluates and hides the command if the selected row is not returned by the specified FetchXML query.
 
@@ -55,15 +55,15 @@ Metadata settings for table forms and web forms control the appearance and behav
 
 For example, one of the most common techniques is to specify default values for individual columns. Often, this technique is used in combination with hidden columns, for example hiding a case origin and setting it to **Web**. That approach ensures that all cases that are created through the portal have the appropriate case origin set without the need for server-side reinforcement of the rule.
 
-For more details about metadata configuration for forms, see [Configure web form metadata for portals](/powerapps/maker/portals/configure/configure-web-form-metadata/?azure-portal=true).
+For more details about metadata configuration for forms, see [Configure web form metadata for portals](/power-apps/maker/portals/configure/configure-web-form-metadata/?azure-portal=true).
 
 ### Form subgrids
 
-If a model-driven form includes a subgrid of related rows, the table form and web forms display a read-only list of rows by using the default view. To enable actions for the grid such as **Create**, **Update**, and **Delete**, you must configure those actions by using metadata configuration. Metadata configuration allows you to implement the portal equivalent of standard grid commands that are available in model-driven apps. For more information and step-by-step instructions, see [Configure Web form subgrids for portals](/powerapps/maker/portals/configure/configure-web-form-subgrid/?azure-portal=true).
+If a model-driven form includes a subgrid of related rows, the table form and web forms display a read-only list of rows by using the default view. To enable actions for the grid such as **Create**, **Update**, and **Delete**, you must configure those actions by using metadata configuration. Metadata configuration allows you to implement the portal equivalent of standard grid commands that are available in model-driven apps. For more information and step-by-step instructions, see [Configure Web form subgrids for portals](/power-apps/maker/portals/configure/configure-web-form-subgrid/?azure-portal=true).
 
 ### Notes
 
-Notes are supported by Power Apps portals out of the box. You can add notes to your forms on the portal by adding the **Notes** control to the model-driven form. You can configure the behavior of the **Notes** control by using metadata. For more information, see [Configure notes for table forms and web forms on portals](/powerapps/maker/portals/configure-notes/?azure-portal=true).
+Notes are supported by Power Apps portals out of the box. You can add notes to your forms on the portal by adding the **Notes** control to the model-driven form. You can configure the behavior of the **Notes** control by using metadata. For more information, see [Configure notes for table forms and web forms on portals](/power-apps/maker/portals/configure-notes/?azure-portal=true).
 
 However, the **Notes** table is not customizable in Dataverse. As a result, certain restrictions are applied to supported functionality. For example, editing is only allowed by the note's author, no support is offered for an approval process, and visibility of notes is defined by the content by using a predefined naming convention. All these limitations restrict the use of notes in most scenarios.
 

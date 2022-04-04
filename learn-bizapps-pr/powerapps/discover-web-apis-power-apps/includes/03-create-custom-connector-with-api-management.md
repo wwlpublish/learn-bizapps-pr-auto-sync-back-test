@@ -63,6 +63,6 @@ You have completed creating a custom connector for inventory management.
 [az cli install]: /cli/azure/install-azure-cli
 [pa]: https://powerapps.microsoft.com/
 [pa cp]: https://powerapps.microsoft.com/communityplan/?azure-portal=true
-[pa pricing]: /powerapps/administrator/pricing-billing-skus
+[pa pricing]: /power-apps/administrator/pricing-billing-skus/?azure-portal=true
 
 [artifacts]: https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/blob/master/fusion-developers/artifacts.zip

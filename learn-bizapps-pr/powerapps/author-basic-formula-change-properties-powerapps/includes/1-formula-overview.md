@@ -4,10 +4,10 @@ single function formulas or combine multiple functions and elements in
 the same formula. In Power Apps, you also can modify the way controls
 behave and display by defining the control's properties with a formula.
 To view all the Power Apps functions, see more information in the
-[formula reference for Power Apps](/powerapps/maker/canvas-apps/formula-reference/?azure-portal=true).
+[formula reference for Power Apps](/power-apps/maker/canvas-apps/formula-reference/?azure-portal=true).
 The following screenshot shows the controls that are available in Power Apps. To view
 the full list of controls, see more information in the
-[controls and properties in Power Apps](/powerapps/maker/canvas-apps/reference-properties/?azure-portal=true).
+[controls and properties in Power Apps](/power-apps/maker/canvas-apps/reference-properties/?azure-portal=true).
 This documentation also describes the list of properties available
 for each control.
 
@@ -58,4 +58,4 @@ the formulas found in this learning content assume a decimal (.)
 separator.
 
 If you need to build apps that support different languages and regions,
-see [Build global support into canvas apps](/powerapps/maker/canvas-apps/global-apps/?azure-portal=true).
+see [Build global support into canvas apps](/power-apps/maker/canvas-apps/global-apps/?azure-portal=true).

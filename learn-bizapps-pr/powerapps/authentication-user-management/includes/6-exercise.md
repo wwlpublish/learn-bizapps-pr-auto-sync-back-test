@@ -54,7 +54,7 @@ To send invitations to your customers, and for them to redeem the invitations, c
 
 To create a test contact, follow these steps:
 
-1. Open [Dynamics 365 Home](https://home.dynamics.com/?azure-portal=true).
+1. Open [Dynamics 365 Home](https://dynamics.microsoft.com/?azure-portal=true).
 1. Select the **Power Apps portals** app.
 1. Select **Contacts** and then select **New**.
 1. Create a new record for Nancy Davolio. Fill in the first name, last name, and email address information (*use an email address where you can receive the email*).

@@ -38,4 +38,4 @@ The final step is to bind the custom domain and the SSL certificate. Visitors sh
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4AwWW]
 
-For more information, see [Add a custom domain](/powerapps/maker/portals/admin/add-custom-domain/?azure-portal=true).
+For more information, see [Add a custom domain](/power-apps/maker/portals/admin/add-custom-domain/?azure-portal=true).

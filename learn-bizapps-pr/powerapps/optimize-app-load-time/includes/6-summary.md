@@ -4,8 +4,8 @@ This module explored how you can evaluate and improve app load times. By regul
 
 For more information, select the following links:
 
-- [Common sources of slow performance for a canvas app](/powerapps/maker/canvas-apps/slow-performance-sources/?azure-portal=true#)
+- [Common sources of slow performance for a canvas app](/power-apps/maker/canvas-apps/slow-performance-sources/?azure-portal=true)
 
-- [Common canvas app performance issues and resolutions](/powerapps/maker/canvas-apps/common-performance-issue-resolutions/?azure-portal=true#)
+- [Common canvas app performance issues and resolutions](/power-apps/maker/canvas-apps/common-performance-issue-resolutions/?azure-portal=true)
 
-- [Tips and best practices to improve performance of canvas apps](/powerapps/maker/canvas-apps/performance-tips/?azure-portal=true#)
+- [Tips and best practices to improve performance of canvas apps](/power-apps/maker/canvas-apps/performance-tips/?azure-portal=true)
