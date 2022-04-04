@@ -14,13 +14,13 @@ While new technologies have always promised significant clinical and operational
  > [!NOTE]
  > For more information, see the following resource links (numbers corresponding with reference numbers in the preceding screenshot): 
 
- > 1. [McKinsey COVID-19 Consumer Survey](https://www.mckinsey.com/~/media/McKinsey/Industries/Healthcare%20Systems%20and%20Services/Our%20Insights/Telehealth%20A%20quarter%20trillion%20dollar%20post%20COVID%2019%20reality/Telehealth-A-quarter-trilliondollar-post-COVID-19-reality.pdf/?azure-portal=true), May 2020
+ 1. [McKinsey COVID-19 Consumer Survey](https://www.mckinsey.com/~/media/McKinsey/Industries/Healthcare%20Systems%20and%20Services/Our%20Insights/Telehealth%20A%20quarter%20trillion%20dollar%20post%20COVID%2019%20reality/Telehealth-A-quarter-trilliondollar-post-COVID-19-reality.pdf/?azure-portal=true), May 2020
 
- > 2. [Deloitte](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2017/dark-data-analyzing-unstructured-data.html/?azure-portal=true)
+ 2. [Deloitte](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2017/dark-data-analyzing-unstructured-data.html/?azure-portal=true)
 
- > 3. PwC, 2017
+ 3. PwC, 2017
 
- > 4. Becker's Hospital Review, [2017](https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-breaches-cost-6-2b-annually.html/?azure-portal=true) and [2020](https://www.beckershospitalreview.com/cybersecurity/healthcare-data-breaches-up-55-1-in-2020-report-finds.html/?azure-portal=true)
+ 4. Becker's Hospital Review, [2017](https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-breaches-cost-6-2b-annually.html/?azure-portal=true) and [2020](https://www.beckershospitalreview.com/cybersecurity/healthcare-data-breaches-up-55-1-in-2020-report-finds.html/?azure-portal=true)
 
 As shown in the previous diagram, the healthcare industry is experiencing transition in the following areas:  
 
