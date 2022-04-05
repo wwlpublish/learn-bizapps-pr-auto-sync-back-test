@@ -113,7 +113,7 @@ For more information, see [Power Automate Connections](/power-automate/add-manag
 
 A connection reference is a solution component that contains information about a connector. The operations within a Power Automate flow bind to a connection reference. You can update the connection references that are used by Microsoft Vaccination Management to point to the connections that are created as part of the earlier task.
 
-For more information, see [Connection references](/powerapps/maker/data-platform/create-connection-reference/?azure-portal=true) and [Connectors](/connectors/?azure-portal=true).
+For more information, see [Connection references](/power-apps/maker/data-platform/create-connection-reference/?azure-portal=true) and [Connectors](/connectors/?azure-portal=true).
 
 In this task, you will be using an unmanaged solution, **Vaccination Management Configuration**, and then you will update the connection on the connection references with the new connections that were created as part of the earlier task.
 
@@ -203,7 +203,7 @@ In this task, you will learn how to create a solution to group all changes that 
 
 Solutions are the mechanisms for implementing application lifecycle management (ALM) in Power Apps and other Microsoft Power Platform products, such as Power Automate. For more information, see [Overview of ALM with Microsoft Power Platform](/power-platform/alm/overview-alm/?azure-portal=true).
 
-For more information, see [Solutions](/powerapps/developer/data-platform/introduction-solutions/?azure-portal=true).
+For more information, see [Solutions](/power-apps/developer/data-platform/introduction-solutions/?azure-portal=true).
 
 1. In the left pane, select **Solutions** and then view the list of solutions that are deployed in the environment.
 

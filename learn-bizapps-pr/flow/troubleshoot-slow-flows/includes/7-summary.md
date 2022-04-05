@@ -8,7 +8,7 @@ Links to related modules:
 - [SharePoint throttling limits](/connectors/sharepointonline/?azure-portal=true#limits)
 - [Known issues and limitations](/connectors/sharepointonline/?azure-portal=true#known-issues-and-limitations/)
 - [Power Automate License guide](https://go.microsoft.com/fwlink/?linkid=2085130&azure-portal=true)
-- [What is an on-premises data gateway?](/powerapps/maker/canvas-apps/gateway-reference/?azure-portal=true)
+- [What is an on-premises data gateway?](/power-apps/maker/canvas-apps/gateway-reference/?azure-portal=true)
 - [What is Azure ExpressRoute?](/azure/expressroute/expressroute-introduction/?azure-portal=true)
 - [Azure Speed Test App](https://azurespeedtest.azurewebsites.net/?azure-portal=true)
 - [Filter expressions for OData](/previous-versions/dynamicsnav-2016/hh169248(v=nav.90)?redirectedfrom=MSDN&azure-portal=true#filter-expressions)
