@@ -123,7 +123,7 @@ With fraud prevention also comes **empowered employees**. You can:
 
 ### Retail media
 
-Retail media unlocks ad revenue using your 1^st^ party shopper data.
+Retail media unlocks ad revenue using your 1st party shopper data.
 
 With retail media, you can unlock high-margin revenue streams, keep messaging consistent, and generate more revenue than ever.
 
