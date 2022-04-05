@@ -3,7 +3,7 @@
 The Microsoft Cloud for Retail uses a combination of Microsoft Products to address the industry prioritized scenarios focused on empowering the store associates. The illustration below reflects the required and recommended capabilities.
 
 > [!div class="mx-imgBorder"]
-> ![Empower the store associate, product dependencies.](../media/empower.png)
+> [![Empower the store associate, product dependencies.](../media/empower.png)](../media/empower.png#lightbox)
 
 ### Real-time store communications and collaboration
 
@@ -35,7 +35,7 @@ Retail workforce management helps you digitize managerial tasks like store sched
 With retail workforce management, manage shifts seamlessly, easily connect to your existing workforce, simplify task dissemination, and help your team complete tasks more easily.
 
 > [!div class="mx-imgBorder"]
-> ![Retail workforce management: Seamless scheduling, and task management made easy.](../media/retail-workforce.png)
+> [![Retail workforce management: Seamless scheduling, and task management made easy.](../media/retail-workforce.png)](../media/retail-workforce.png#lightbox)
 
 With retail workforce management, offer **seamless scheduling**:
 

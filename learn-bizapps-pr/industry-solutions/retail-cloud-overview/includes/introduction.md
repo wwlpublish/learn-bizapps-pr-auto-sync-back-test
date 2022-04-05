@@ -6,23 +6,20 @@ Let's see how retail is currently in transition and how Microsoft Cloud for Reta
 
 With the pandemic and other disruptions in the industry, retailers' priorities are shifting.
 
-> [!div class="mx-imgBorder"]
-> ![Table showing what retailers are focused on and how their technology is holding them back.](../media/priorities.png)
-
 > [!NOTE]
-> For more information, see the following resource links (numbers correspond with reference numbers in the preceding screenshot):
+> For more information, see the following resource links:
 >
-> 1. [Smarter HQ, 2020](https://smarterhq.com/privacy-report/?azure-portal=true),
+> - [Smarter HQ, 2020](https://smarterhq.com/privacy-report/?azure-portal=true),
 >
-> 2. [McKinsey & Company, 2020](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Marketing%20and%20Sales/Our%20Insights/The%20great%20consumer%20shift/ten-charts-show-how-us-shopping-behavior-is-changing.pdf#:~:text=The%20crisis%20has%20prompted%20a%20surge%20of%20new,high%20earners%20are%20most%20prone%20to%20switching%20brands.),
+> - [McKinsey & Company, 2020](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Marketing%20and%20Sales/Our%20Insights/The%20great%20consumer%20shift/ten-charts-show-how-us-shopping-behavior-is-changing.pdf#:~:text=The%20crisis%20has%20prompted%20a%20surge%20of%20new,high%20earners%20are%20most%20prone%20to%20switching%20brands.),
 >
-> 3. [McKinsey & Company, 2021](https://www.mckinsey.com/industries/retail/our-insights/retails-need-for-speed-unlocking-value-in-omnichannel-delivery/?azure-portal=true),
+> - [McKinsey & Company, 2021](https://www.mckinsey.com/industries/retail/our-insights/retails-need-for-speed-unlocking-value-in-omnichannel-delivery/?azure-portal=true),
 >
-> 4. [Accenture, 2021,](https://www.accenture.com/blogs/cloud-computing/how-to-get-more-value-out-of-your-data-in-the-cloud/?azure-portal=true)
+> - [Accenture, 2021,](https://www.accenture.com/blogs/cloud-computing/how-to-get-more-value-out-of-your-data-in-the-cloud/?azure-portal=true)
 >
-> 5. [Wunderman Thompson, 2020,](https://www.wundermanthompson.com/insight/experiences-customers-want/?azure-portal=true)
+> - [Wunderman Thompson, 2020,](https://www.wundermanthompson.com/insight/experiences-customers-want/?azure-portal=true)
 >
-> 6. [Sea Intelligence, 2021,](https://sea-intelligence.com/press-room/97-schedule-reliability-drops-to-all-time-low-33-6-in-august-2021/?azure-portal=true)
+> - [Sea Intelligence, 2021,](https://sea-intelligence.com/press-room/97-schedule-reliability-drops-to-all-time-low-33-6-in-august-2021/?azure-portal=true)
 
 Today, retailers are focused on:
 
@@ -63,7 +60,7 @@ And finally and as importantly, every pillar of the Microsoft Cloud for Retail i
 
 ## Featured retail capabilities
 
-There are 15 capabilities enabled through the four prioritized scenarios as depicted below:
+There are 15 capabilities enabled through the four prioritized scenarios.
 
 > [!div class="mx-imgBorder"]
 > ![Graphic showing the four scenarios detailed below.](../media/capabilities.png)

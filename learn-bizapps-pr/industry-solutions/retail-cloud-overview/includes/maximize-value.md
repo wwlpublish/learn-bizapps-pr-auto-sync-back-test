@@ -2,9 +2,9 @@
 > ![There are 40 petabytes of data generated every hour in retail, but it's hard to unlock the value.](../media/customer-touch-points.png)
 
 > [!NOTE]
-> For more information, see the following resource links (numbers corresponding with reference numbers in the preceding screenshot):
+> For more information, see the following resource link:
 >
-> 1. Accenture, [How to get more value out of your data in the cloud](https://www.accenture.com/blogs/cloud-computing/how-to-get-more-value-out-of-your-data-in-the-cloud/?azure-portal=true), 2021
+> Accenture, [How to get more value out of your data in the cloud](https://www.accenture.com/blogs/cloud-computing/how-to-get-more-value-out-of-your-data-in-the-cloud/?azure-portal=true), 2021
 
 There are 40 petabytes of data generated every hour in retail, but it's hard to unlock the value. Customer touchpoints aren't talking to each other--they're siloed and disconnected. The same customer who completes a transaction on social media versus in-store may appear as two, three, or four different customers because their data sits in different databases, speaking different languages.
 
@@ -28,7 +28,7 @@ What does this offer?
 The Microsoft Cloud for Retail uses a combination of Microsoft Products to address the industry prioritized scenarios focused on maximizing the value of your data. The illustration below reflects the required and recommended capabilities.
 
 > [!div class="mx-imgBorder"]
-> ![Maximize the value of your data, product dependencies.](../media/maximize.png)
+> [![Maximize the value of your data, product dependencies.](../media/maximize.png)](../media/maximize.png#lightbox)
 
 ### Unified customer profile
 

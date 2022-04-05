@@ -1,6 +1,3 @@
-> [!div class="mx-imgBorder"]
-> ![A complex security and compliance landscape with multiple complex environments, consumer data privacy, increased cyber risks, and evolving regulations.](../media/landscape.png)
-
 First, let's touch on some of the issues that make security and compliance a unique challenge for the retail industry. Some specifics:
 
 - There have always been a multitude of systems in the retail space from POS to CRM, and other improvised systems across a wide network of stores, production centers, fulfillment centers, and corp. There's also been an explosion of apps, devices, and users across and outside of the corporate network. As the organizational barriers blur between who is in your network and out of it, organizations struggle to manage identities for not only their employees but external partners, suppliers and distributors, and even end-consumers and customers or citizens.
@@ -13,8 +10,6 @@ First, let's touch on some of the issues that make security and compliance a uni
 
 ## Security, identity, and threat protection
 
-> [!div class="mx-imgBorder"]
-> ![Security, identity, and threat protection: Identity and access, encryption, and threat protection.](../media/security.png)
 Microsoft helps you protect against the latest threats with intelligent tools to prevent attacks and react quickly to security events
 
 ### Identity and access
@@ -60,9 +55,6 @@ Microsoft offers integrated compliance tools designed for retail, including:
 - Information barriers
 
 ## Partner solutions compliance certification
-
-> [!div class="mx-imgBorder"]
-> ![Partner solutions compliance certification.](../media/partner.png)
 
 The **ISO 27001 and SSAE 18 SOC 2** certifications of our partners will accelerate your risk assessment and ensure end-to-end compliance coverage for the Microsoft Cloud for Retail.
 

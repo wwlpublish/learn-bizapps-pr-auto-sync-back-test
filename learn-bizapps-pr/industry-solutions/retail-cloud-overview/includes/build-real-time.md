@@ -3,7 +3,7 @@
 The Microsoft Cloud for Retail uses a combination of Microsoft Products to address the industry prioritized scenarios focused on building a real-time, sustainable supply chain. The illustration below reflects the required and recommended capabilities.
 
 > [!div class="mx-imgBorder"]
-> ![Build a real-time, sustainable supply chain, product dependencies.](../media/build.png)
+> [![Build a real-time, sustainable supply chain, product dependencies.](../media/build.png)](../media/build.png#lightbox)
 
 ### Supply chain visibility
 

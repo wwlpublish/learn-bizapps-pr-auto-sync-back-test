@@ -3,7 +3,7 @@
 The Microsoft Cloud for Retail uses a combination of Microsoft Products to address the industry prioritized scenarios focused on elevating the shopping experience. The illustration below reflects the required and recommended capabilities.
 
 > [!div class="mx-imgBorder"]
-> ![Elevate the shopping experience, Product dependencies.](../media/elevate.png)
+> [![Elevate the shopping experience, Product dependencies.](../media/elevate.png)](../media/elevate.png#lightbox)
 
 ### Intelligent stores
 
