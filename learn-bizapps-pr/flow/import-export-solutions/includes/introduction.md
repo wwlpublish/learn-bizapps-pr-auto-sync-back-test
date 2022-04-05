@@ -35,7 +35,7 @@ After you've saved the flow, the flow definition will be stored in Dataverse and
 
 If you create a new solution, you can add existing cloud flows as solution components by using the **Add existing** option. You can add existing cloud flows that are already in another solution or flows that are created outside of a Dataverse solution. When you're adding a flow that was already in another solution, the definition will already be in Dataverse, so the **Add existing** command will associate the flow as a solution component of the new solution as well.
 
-When you add existing cloud flows that are created outside of a solution, the flow will be converted to store the flow definition in Dataverse. The flow will also be associated with the new solution. After conversion, the flow will only be listed in the solution and not in **My flows**. However, you can't convert all flows that are created outside Dataverse. If your flow doesn't show on the list of solutions, check the current [Known limitations](/powerapps/maker/data-platform/solutions-overview?azure-portal=true#known-limitations).
+When you add existing cloud flows that are created outside of a solution, the flow will be converted to store the flow definition in Dataverse. The flow will also be associated with the new solution. After conversion, the flow will only be listed in the solution and not in **My flows**. However, you can't convert all flows that are created outside Dataverse. If your flow doesn't show on the list of solutions, check the current [Known limitations](/power-apps/maker/data-platform/solutions-overview?azure-portal=true#known-limitations).
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of a list of solutions outside of Dataverse.](../media/outside-dataverse.png)

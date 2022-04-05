@@ -17,7 +17,7 @@ The following image shows an example of the welcome page that displays after you
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Healthcare Patient Portal welcome page.](../media/2-patient-portal.png)](../media/2-patient-portal.png#lightbox)
 
-For more information, see [Microsoft Power Apps portals documentation](/powerapps/maker/portals/?azure-portal=true#).
+For more information, see [Microsoft Power Apps portals documentation](/power-apps/maker/portals/?azure-portal=true#).
 
 ### Task 1: Set up the Healthcare Patient Portal
 

@@ -37,7 +37,7 @@ The **Data type** of **Data Source** is designed to store the configuration of h
 
 ## Secret environment variables
 
-The **Data type** of **Secret** is designed for referencing secrets that are stored in Microsoft Azure Key Vault. This type of variable requires other setup. For more information, see [Use Azure Key Vault secrets](/powerapps/maker/data-platform/environmentvariables?azure-portal=true#use-azure-key-vault-secrets-preview). Secret environment variables help prevent sensitive information from being accidentally exposed to the users or in the flow run history.
+The **Data type** of **Secret** is designed for referencing secrets that are stored in Microsoft Azure Key Vault. This type of variable requires other setup. For more information, see [Use Azure Key Vault secrets](/power-apps/maker/data-platform/environmentvariables?azure-portal=true#use-azure-key-vault-secrets-preview). Secret environment variables help prevent sensitive information from being accidentally exposed to the users or in the flow run history.
 
 ## Use environment variables
 
