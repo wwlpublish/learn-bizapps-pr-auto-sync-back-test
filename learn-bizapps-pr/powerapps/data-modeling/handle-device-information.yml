@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-modeling.handle-device-information
+title: Handle device information
+metadata:
+  title: Handle device information
+  description: Learn about handling device information.
+  ms.date: 04/05/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform-solution-architect
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/handle-device-information.md)]
