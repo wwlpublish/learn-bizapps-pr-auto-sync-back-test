@@ -36,12 +36,9 @@ units:
 - learn-bizapps.data-modeling.5-dataverse
 - learn-bizapps.data-modeling.6-best-practice
 - learn-bizapps.data-modeling.exercise
-- learn-bizapps.data-modeling.architecture-data-model
-- learn-bizapps.data-modeling.handle-device-information
-- learn-bizapps.data-modeling.primary-visitors
-- learn-bizapps.data-modeling.report-data
-- learn-bizapps.data-modeling.handle-visitors
-- learn-bizapps.data-modeling.waivers-photos
+- learn-bizapps.data-modeling.architecture-devices
+- learn-bizapps.data-modeling.report-data-visitors
+- learn-bizapps.data-modeling.visitors-waivers-photos
 - learn-bizapps.data-modeling.exercise
 - learn-bizapps.data-modeling.7-check
 - learn-bizapps.data-modeling.8-summary
