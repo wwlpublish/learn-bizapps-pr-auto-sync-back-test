@@ -92,7 +92,7 @@ Start by creating a new measure called **Top 10 Products**. Then, use the TOPN f
 
 ```dax
 Top 10 Products =
-SUMX ( TOPN ( 10, Product, Product[Product Name], ASC ), [Total Sales] )
+SUMX ( TOPN ( 10, Product, Product[Product Name]), [Total Sales] )
 ```
 
 The following image shows how much the top 10 products contribute toward the overall sales.
