@@ -60,7 +60,7 @@ Process automation and career development help you expand what your stores and p
 With process automation and career development, utilize a customizable and extensible platform, quickly implement new retail use cases, use automation so employees can focus more on customers, and facilitate employee growth and development.
 
 > [!div class="mx-imgBorder"]
-> [![Process automation and career development (part 1): Leverage automation with apps, and equip people and processes to offer better experiences.](../media/process.png)](../media/image.png#lightbox)
+> [![Process automation and career development (part 1): Leverage automation with apps, and equip people and processes to offer better experiences.](../media/process.png)](../media/process.png#lightbox)
 
 This capability can help you **leverage automation with apps**:
 

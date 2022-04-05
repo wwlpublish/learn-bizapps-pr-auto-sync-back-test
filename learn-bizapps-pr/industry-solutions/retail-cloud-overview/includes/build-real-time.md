@@ -67,7 +67,7 @@ Invest in **planning optimization, even during disruption.** You can:
 - Scale distribution during peaks and keep critical warehouse processes running at high throughput all while ensuring business continuity even when disconnected from the cloud
 
 > [!div class="mx-imgBorder"]
-> [![Demand planning and optimization (part 2): Intelligent order management.](../media/demand-2.png)](../media/image.png#lightbox)
+> [![Demand planning and optimization (part 2): Intelligent order management.](../media/demand-2.png)](../media/demand-2.png#lightbox)
 
 Finally, acquire **intelligent order management**:
 
@@ -84,7 +84,7 @@ The last capability in supply chain, flexible fulfillment, can help you optimize
 With flexible fulfillment, streamline curbside pickup and buy-online-pickup-in-store operations, provide customers with real-time inventory and order status, and gain greater control of the entire order lifecycle.
 
 > [!div class="mx-imgBorder"]
-> [![Flexible fulfillment: Enhanced customer experience and seamless inventory management.](../media/fulfillment.png)](../media/image.png#lightbox)
+> [![Flexible fulfillment: Enhanced customer experience and seamless inventory management.](../media/fulfillment.png)](../media/fulfillment.png#lightbox)
 
 Offer an **enhanced customer experience**:
 
