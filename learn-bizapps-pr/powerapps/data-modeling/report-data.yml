@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-modeling.report-data
+title: Report data
+metadata:
+  title: Report data
+  description: Learn about reporting data.
+  ms.date: 04/05/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform-solution-architect
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/report-data.md)]

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-modeling.architecture-data-model
+title: Architecture of Fabrikam data model
+metadata:
+  title: Architecture of Fabrikam data model
+  description: Learn about the Architecture of Fabrikam data model
+  ms.date: 04/05/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform-solution-architect
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/architecture-data-model.md)]
