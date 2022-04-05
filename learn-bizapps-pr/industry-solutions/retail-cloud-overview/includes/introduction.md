@@ -63,7 +63,7 @@ And finally and as importantly, every pillar of the Microsoft Cloud for Retail i
 There are 15 capabilities enabled through the four prioritized scenarios.
 
 > [!div class="mx-imgBorder"]
-> ![Graphic showing the four scenarios detailed below.](../media/capabilities.png)
+> ![Diagram showing the four scenarios detailed below.](../media/capabilities.png)
 
 Now, let's take a closer look at the capabilities around the value chain.
 
