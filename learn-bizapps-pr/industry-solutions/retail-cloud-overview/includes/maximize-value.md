@@ -15,7 +15,7 @@ Most retailers are only set up to use a fraction of the data that's available. T
 
 With Microsoft Cloud for Retail, we're using retail data models to bring multiple systems and applications together by providing a shared language for your applications. This simplifies data management and app development by unifying data into common formats and applying consistency across multiple apps and deployments.
 
-What does this offer:
+What does this offer?
 
 - **Industry specificity**: Use data models with retail-specific semantics
 

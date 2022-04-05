@@ -55,7 +55,7 @@ Microsoft Cloud for Retail is our collection of proven tools to connect your cus
 
 **Elevate the shopper experience**: Retailer's customers demand an experience that is tailored to their tastes and respects their time and energy. These tools help foster stronger customer relationships, increase online and offline cart size, and drive loyalty.
 
-**Build a real-time, sustainable supply chain**: Supply chain stability and agility is perhaps the most pressing frontier for retail organizations around the world right now. So we have dedicated solutions that include artificial intelligence to provide visibility across your entire supply chain and predict and manage for changes in supply and demand at all points.
+**Build a real-time, sustainable supply chain**: Supply chain stability and agility are perhaps the most pressing frontiers for retail organizations around the world right now. So we have dedicated solutions that include artificial intelligence to provide visibility across your entire supply chain and predict and manage for changes in supply and demand at all points.
 
 **Empower the store associate**: We provide modern work solutions that help manage burnout so they can be as effective and empowered as possible. Equip your retail workforce with solutions to increase customer satisfaction, while reducing the burden on your frontline and empowering your team's growth.
 
