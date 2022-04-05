@@ -3,7 +3,7 @@
 The Microsoft Cloud for Retail uses a combination of Microsoft Products to address the industry prioritized scenarios focused on empowering the store associates. The illustration below reflects the required and recommended capabilities.
 
 > [!div class="mx-imgBorder"]
-> [![Empower the store associate, product dependencies.](../media/empower.png)](../media/empower.png#lightbox)
+> [![Diagram showing Empower the store associate product dependencies.](../media/empower.png)](../media/empower.png#lightbox)
 
 ### Real-time store communications and collaboration
 
@@ -12,7 +12,7 @@ Real-time store communications and collaboration can help you use modern tools f
 With real-time store communications and collaboration, gain productivity by putting empowered associates on a level playing field with deeply informed customers. Provide modern communication, streamline work, and maintain an engaged, inclusive workplace.
 
 > [!div class="mx-imgBorder"]
-> ![Real-time store communications and collaboration: Real-time collaboration, and secure and rich messaging and file sharing.](../media/real-time.png)
+> ![Mobile screenshots showing chats, channels, and teams.](../media/real-time.png)
 
 Offer your team **real-time collaboration.** You can:
 
@@ -35,7 +35,7 @@ Retail workforce management helps you digitize managerial tasks like store sched
 With retail workforce management, manage shifts seamlessly, easily connect to your existing workforce, simplify task dissemination, and help your team complete tasks more easily.
 
 > [!div class="mx-imgBorder"]
-> [![Retail workforce management: Seamless scheduling, and task management made easy.](../media/retail-workforce.png)](../media/retail-workforce.png#lightbox)
+> [![Screenshot of a Teams calendar showing scheduling and task management.](../media/retail-workforce.png)](../media/retail-workforce.png#lightbox)
 
 With retail workforce management, offer **seamless scheduling**:
 
@@ -60,7 +60,7 @@ Process automation and career development help you expand what your stores and p
 With process automation and career development, utilize a customizable and extensible platform, quickly implement new retail use cases, use automation so employees can focus more on customers, and facilitate employee growth and development.
 
 > [!div class="mx-imgBorder"]
-> [![Process automation and career development (part 1): Leverage automation with apps, and equip people and processes to offer better experiences.](../media/process.png)](../media/process.png#lightbox)
+> [![Screenshot of Teams showing My Learning and mobile screenshot showing reorder options.](../media/process.png)](../media/process.png#lightbox)
 
 This capability can help you **leverage automation with apps**:
 
@@ -77,7 +77,7 @@ Further, you can **equip people and processes to offer better experiences**:
 - Enable Approvals to make customer discounts to run more smoothly
 
 > [!div class="mx-imgBorder"]
-> ![Process automation and career development (part 2): Facilitation employee growth and development.](../media/process-2.png)
+> ![Mobile screenshot showing the Contoso dashboard with shifts, assigned tasks, contact tracing, approvals, and news tiles.](../media/process-2.png)
 
 Finally, you can **facilitate employee growth and development**:
 

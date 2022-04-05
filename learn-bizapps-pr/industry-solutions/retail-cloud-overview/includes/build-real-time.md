@@ -3,7 +3,7 @@
 The Microsoft Cloud for Retail uses a combination of Microsoft Products to address the industry prioritized scenarios focused on building a real-time, sustainable supply chain. The illustration below reflects the required and recommended capabilities.
 
 > [!div class="mx-imgBorder"]
-> [![Build a real-time, sustainable supply chain, product dependencies.](../media/build.png)](../media/build.png#lightbox)
+> [![Diagram showing product dependencies.](../media/build.png)](../media/build.png#lightbox)
 
 ### Supply chain visibility
 
@@ -12,7 +12,7 @@ Key to a robust supply chain is improving visibility. Retailers are sitting on a
 With supply chain visibility, you can reduce stock-outs, automate and optimize fulfillment, boost sustainability, and improve decision-making.
 
 > [!div class="mx-imgBorder"]
-> [![Supply chain visibility: Intelligent decision making, streamlined collaboration, and centralized management.](../media/visibility.png)](../media/visibility.png#lightbox)
+> [![Screenshot of Dynamics 365 Intelligent Order Management showing fulfillment order product and map.](../media/visibility.png)](../media/visibility.png#lightbox)
 
 Start with **intelligent decision making.** You can:
 
@@ -49,7 +49,7 @@ With demand planning and optimization, AI helps:
 - Reduce waste and unnecessary emissions
 
 > [!div class="mx-imgBorder"]
-> [![Demand planning and optimization (part 1): real-time inventory visibility, and planning optimization, even during disruption.](../media/demand.png)](../media/demand.png#lightbox)
+> [![Screenshot of Microsoft Azure Machine Learning Studio showing Dynamics 365 Supply Chain Management demand forecasting flow.](../media/demand.png)](../media/demand.png#lightbox)
 
 With this capability, you can have access to **real-time inventory visibility**:
 
@@ -67,7 +67,7 @@ Invest in **planning optimization, even during disruption.** You can:
 - Scale distribution during peaks and keep critical warehouse processes running at high throughput all while ensuring business continuity even when disconnected from the cloud
 
 > [!div class="mx-imgBorder"]
-> [![Demand planning and optimization (part 2): Intelligent order management.](../media/demand-2.png)](../media/demand-2.png#lightbox)
+> [![Screenshot of Dynamics 365 Intelligent Order Management showing the Order Management page with charts and a map.](../media/demand-2.png)](../media/demand-2.png#lightbox)
 
 Finally, acquire **intelligent order management**:
 
@@ -84,7 +84,7 @@ The last capability in supply chain, flexible fulfillment, can help you optimize
 With flexible fulfillment, streamline curbside pickup and buy-online-pickup-in-store operations, provide customers with real-time inventory and order status, and gain greater control of the entire order lifecycle.
 
 > [!div class="mx-imgBorder"]
-> [![Flexible fulfillment: Enhanced customer experience and seamless inventory management.](../media/fulfillment.png)](../media/fulfillment.png#lightbox)
+> [![Screenshot of Dynamics 365 Intelligent Order Management showing the Order Management page Product Insights tab.](../media/fulfillment.png)](../media/fulfillment.png#lightbox)
 
 Offer an **enhanced customer experience**:
 

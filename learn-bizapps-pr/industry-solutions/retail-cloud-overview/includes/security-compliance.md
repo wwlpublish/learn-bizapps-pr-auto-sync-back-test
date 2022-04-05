@@ -38,7 +38,7 @@ Microsoft helps you protect against the latest threats with intelligent tools to
 ## Regulatory compliance
 
 > [!div class="mx-imgBorder"]
-> ![Regulatory compliance. Take advantage of integrated compliance tools.](../media/compliance.png)
+> ![Diagram showing Regulatory compliance. Take advantage of integrated compliance tools.](../media/compliance.png)
 
 Microsoft offers integrated compliance tools designed for retail, including:
 

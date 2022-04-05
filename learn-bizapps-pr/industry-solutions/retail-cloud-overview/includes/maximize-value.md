@@ -1,5 +1,5 @@
 > [!div class="mx-imgBorder"]
-> ![There are 40 petabytes of data generated every hour in retail, but it's hard to unlock the value.](../media/customer-touch-points.png)
+> ![Diagram showing the consumer at the center of marketing, online transactions, customer service, and in-store transactions.](../media/customer-touch-points.png)
 
 > [!NOTE]
 > For more information, see the following resource link:
@@ -11,7 +11,7 @@ There are 40 petabytes of data generated every hour in retail, but it's hard to 
 Most retailers are only set up to use a fraction of the data that's available. They lack the tools and technologies to extract business value from unstructured, dark data.
 
 > [!div class="mx-imgBorder"]
-> ![Using retail data models, we're unifying disparate data sources and connecting data silos.](../media/unify-data.png)
+> ![Diagram showing the consumer at the center of marketing, online transactions, customer service, and in-store transactions, each with three to five options.](../media/unify-data.png)
 
 With Microsoft Cloud for Retail, we're using retail data models to bring multiple systems and applications together by providing a shared language for your applications. This simplifies data management and app development by unifying data into common formats and applying consistency across multiple apps and deployments.
 
@@ -28,14 +28,14 @@ What does this offer?
 The Microsoft Cloud for Retail uses a combination of Microsoft Products to address the industry prioritized scenarios focused on maximizing the value of your data. The illustration below reflects the required and recommended capabilities.
 
 > [!div class="mx-imgBorder"]
-> [![Maximize the value of your data, product dependencies.](../media/maximize.png)](../media/maximize.png#lightbox)
+> [![Diagram showing Maximize the value of your data product dependencies.](../media/maximize.png)](../media/maximize.png#lightbox)
 
 ### Unified customer profile
 
 Unified customer profile is one of the key capabilities of the Microsoft Cloud for Retail. In some ways, it's where the data story comes together. So what does it do? Unified customer profile helps you gain insights across the complete view of a shopper's journey.
 
 > [!div class="mx-imgBorder"]
-> ![Unified customer profile (part 1): Unification and unique enrichment.](../media/unified.png)
+> ![Screenshot of Customer Insights showing the Customers page with a customer's detailed dashboard.](../media/unified.png)
 
 With unified customer profile, you can gain a 360-degree perspective of the customer in a clear and intuitive way so that you can provide personalized experiences, reveal important opportunities, prevent potential loss, or churn, and improve customer satisfaction.
 
@@ -52,7 +52,7 @@ It also fosters **unique enrichment**:
 - Use cross-channel behavior to complete the picture of your end-customer
 
 > [!div class="mx-imgBorder"]
-> ![Unified customer profile (part 2): Insights, trust, privacy, and consent.](../media/unified-2.png)
+> ![Screenshot of Customer Insights showing the Enrichment page.](../media/unified-2.png)
 
 Furthermore, unified customer profile also gives you better access to customer **insights**:
 
@@ -71,7 +71,7 @@ Finally, **trust, privacy, and consent** is essential to this capability. You ca
 Shopper and operations analytics helps you unlock omnichannel insights with advanced analytics. With shopper and operations analytics, you can predict customer and operational needs, monitor and understand online engagement, and unify data integration, warehousing, and analytics.
 
 > [!div class="mx-imgBorder"]
-> ![Shopper and operations analytics (part 1): predict customer and operational needs, and unify disparate silos.](../media/shopper.png)
+> ![Screenshot of Microsoft Azure showing the Develop page open to a Sales Dashboard.](../media/shopper.png)
 
 First, **predict customer and operational needs**:
 
@@ -88,7 +88,7 @@ It also **unifies disparate silos**:
 - Build ETL/ELT processes in a code-free visual environment to easily ingest data from more than 95 native connectors
 
 > [!div class="mx-imgBorder"]
-> ![Shopper and operations analytics (part 2): Monitor and understand engagement.](../media/shopper-2.png)
+> ![Screenshot of Microsoft Clarity showing heatmaps of most clicks and session playbacks.](../media/shopper-2.png)
 
 You can also **monitor and understand engagement**:
 
@@ -105,7 +105,7 @@ Intelligent fraud prevention helps protect your revenue from fraud using AI to i
 With intelligent fraud prevention, you can protect against digital fraud and stop patterns of fraudulent transactions, and identify at-risk business entities and functions.
 
 > [!div class="mx-imgBorder"]
-> ![Intelligent fraud prevention. A I and data-driven account protection, and empowered employees.](../media/fraud.png)
+> ![Screenshot of Virtual fraud analyst showing steps to select target data and examine the effect of fraud on historical transaction data.](../media/fraud.png)
 
 Secure **AI and data-driven account protection**:
 
@@ -128,7 +128,7 @@ Retail media unlocks ad revenue using your 1st party shopper data.
 With retail media, you can unlock high-margin revenue streams, keep messaging consistent, and generate more revenue than ever.
 
 > [!div class="mx-imgBorder"]
-> ![Retail media. Intelligent product promotion.](../media/retail-media.png)
+> ![Screenshot of Demo Retailer Promote I Q showing a dashboard with key metrics and graph of campaigns.](../media/retail-media.png)
 
 With **intelligent product promotion,** you're set. You can:
 
