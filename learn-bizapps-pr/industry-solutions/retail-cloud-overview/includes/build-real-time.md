@@ -12,7 +12,7 @@ Key to a robust supply chain is improving visibility. Retailers are sitting on a
 With supply chain visibility, you can reduce stock-outs, automate and optimize fulfillment, boost sustainability, and improve decision-making.
 
 > [!div class="mx-imgBorder"]
-> ![Supply chain visibility: Intelligent decision making, streamlined collaboration, and centralized management.](../media/visibility.png)
+> [![Supply chain visibility: Intelligent decision making, streamlined collaboration, and centralized management.](../media/visibility.png)](../media/visibility.png#lightbox)
 
 Start with **intelligent decision making.** You can:
 
@@ -49,7 +49,7 @@ With demand planning and optimization, AI helps:
 - Reduce waste and unnecessary emissions
 
 > [!div class="mx-imgBorder"]
-> ![Demand planning and optimization (part 1): real-time inventory visibility, and planning optimization, even during disruption.](../media/demand.png)
+> [![Demand planning and optimization (part 1): real-time inventory visibility, and planning optimization, even during disruption.](../media/demand.png)](../media/demand.png#lightbox)
 
 With this capability, you can have access to **real-time inventory visibility**:
 
@@ -67,7 +67,7 @@ Invest in **planning optimization, even during disruption.** You can:
 - Scale distribution during peaks and keep critical warehouse processes running at high throughput all while ensuring business continuity even when disconnected from the cloud
 
 > [!div class="mx-imgBorder"]
-> ![Demand planning and optimization (part 2): Intelligent order management.](../media/demand-2.png)
+> [![Demand planning and optimization (part 2): Intelligent order management.](../media/demand-2.png)](../media/image.png#lightbox)
 
 Finally, acquire **intelligent order management**:
 
@@ -84,7 +84,7 @@ The last capability in supply chain, flexible fulfillment, can help you optimize
 With flexible fulfillment, streamline curbside pickup and buy-online-pickup-in-store operations, provide customers with real-time inventory and order status, and gain greater control of the entire order lifecycle.
 
 > [!div class="mx-imgBorder"]
-> ![Flexible fulfillment: Enhanced customer experience and seamless inventory management.](../media/fulfillment.png)
+> [![Flexible fulfillment: Enhanced customer experience and seamless inventory management.](../media/fulfillment.png)](../media/image.png#lightbox)
 
 Offer an **enhanced customer experience**:
 
