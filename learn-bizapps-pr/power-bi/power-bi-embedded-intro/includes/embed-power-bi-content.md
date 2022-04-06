@@ -1,15 +1,10 @@
 Developers can embed all Power BI content types in their apps, including real-time content. Content types include:
 
 - Power BI reports
-
 - Power BI report visuals
-
 - Paginated reports
-
 - Dashboards
-
 - Dashboard tiles
-
 - Q&A, for natural language querying
 
 ## Power BI reports

@@ -1,11 +1,8 @@
 The following steps outline a general methodology that developers can follow to programmatically embed Power BI content in a new or existing app.
 
 1. Prepare Power BI content for embedding.
-
 1. Create a Microsoft Azure Active Directory (Azure AD) app registration.
-
 1. Develop the app embedding code.
-
 1. Enhance the user experience by using client API capabilities.
 
 First, you need to have Power BI content ready to embed. Preparing content involves creating Power BI workspaces and publishing content to them. You can complete content creation and management in conventional ways by using Power BI Desktop and the Power BI service. The process of preparing Power BI content for embedding is described in the next unit.
