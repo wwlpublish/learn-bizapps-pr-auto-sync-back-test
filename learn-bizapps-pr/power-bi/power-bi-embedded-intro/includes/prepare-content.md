@@ -44,7 +44,7 @@ A Power BI report page size is fixed. Therefore, at report creation time, make s
 To achieve a visually appealing result, strive to format reports to complement or enhance the embedding app. Consider formatting background colors, font properties, and many other properties.
 
 > [!TIP]
-> To learn about the process for designing and delivering compelling Power BI reports, see the [Design effective reports in Power BI](/learn/paths/power-bi-effective/?azure-portal=true) learn path.
+> To learn about the process for designing and delivering compelling Power BI reports, see the [Design effective reports in Power BI](/learn/paths/power-bi-effective/?azure-portal=true) learning path.
 
 Consider adding report elements that can enhance the app experience:
 
@@ -72,7 +72,7 @@ Every paginated report is uniquely identified by its ReportID. The ReportID is r
 
 ## Prepare dashboards
 
-Power BI dashboards include tiles that are laid out across a single pane of glass. Pages and dashboard size properties aren't available. When embedding dashboards, you can scale the dashboard to fit the div element, known as *fit to width*. Or you can render the dashboard as a vertical series of tiles, known as *one column*.
+Power BI dashboards include tiles that are laid out across a single pane of glass. Pages and dashboard size properties aren't available. When embedding dashboards, you can scale the dashboard to fit the `div` element, known as *fit to width*. Or you can render the dashboard as a vertical series of tiles, known as *one column*.
 
 If the dashboard has a mobile view set up, you can embed the dashboard in that view.
 
