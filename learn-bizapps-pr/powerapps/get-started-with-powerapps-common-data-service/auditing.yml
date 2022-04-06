@@ -8,6 +8,7 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley 
   ms.topic: interactive-tutorial 
+  ms.prod: learning-powerapps
 durationInMinutes: 10 
 content: | 
  [!include[](../includes/unit-banner.md)] 
