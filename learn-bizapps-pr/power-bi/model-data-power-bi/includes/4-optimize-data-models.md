@@ -20,7 +20,7 @@ As a common example, data that includes the name of the month is sorted alphabet
 
 ![Bar graph with months sorted alphabetically.](../media/04-power-bi-desktop-alphabetical-months.png)
 
-In this case, selecting the **MonthName** field in the **Fields** list, selecting **Sort by Column** from the **Table tools** tab, and then choosing a field to sort by can remedy the problem. The **MonthNo** category sort option will order the months as intended.
+In this case, selecting the **MonthName** field in the **Fields** list, selecting **Sort by Column** from the **Column tools** tab, and then choosing a field to sort by can remedy the problem. The **MonthNo** category sort option will order the months as intended.
 
 ![Bar graph with month sorted by month order.](../media/04-power-bi-desktop-sorted-months.png)
 
