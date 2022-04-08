@@ -35,9 +35,6 @@ When a table is set to use Dual storage mode, it can behave as either an import 
 To correctly set effective identity, you must determine which type of dataset you have. It's either:
 
 -   Internal-hosted with import tables
-
 -   Internal-hosted with DirectQuery tables
-
 -   Azure Analysis Services, which is an external-hosted model
-
 -   SQL Server Analysis Services, which is an external-hosted model

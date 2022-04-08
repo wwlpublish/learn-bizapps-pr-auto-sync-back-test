@@ -43,9 +43,7 @@ Consider the following rule applied to the **Region** table that restricts data 
 The following steps explain how Power BI enforces the rule. It:
 
 1.  Filters the **Region** table, resulting in one visible row (for New England).
-
 1.  Uses the model relationship to propagate the **Region** table filter to the **State** table, resulting in six visible rows (the New England region comprise six states).
-
 1.  Uses the model relationship to propagate the **State** table filter to the **Sales** table, resulting in thousands of visible rows (the sales facts for the states that belong to the New England region).
 
 The simplest static rule that you can create restricts access to all table rows. Consider the following rule applied to the **Sales Details** table (not depicted in the model diagram).

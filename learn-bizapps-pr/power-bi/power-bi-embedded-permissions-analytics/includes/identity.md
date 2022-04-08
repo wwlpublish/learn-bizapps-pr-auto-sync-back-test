@@ -3,13 +3,9 @@ You can set effective identity when working with the *For your customers* scenar
 First, your app logic creates a list of one or more `effectiveidentity` objects. Each object can include the following parameters.
 
 -   `Datasets` - Required. A list of DatasetIDs.
-
 -   `Username` - Optional. For internal-hosted models, it's a text value to be returned by the USERNAME or USERPRINCIPALNAME function. For external-hosted models, it's the username to connect to the model.
-
 -   `Roles` - Optional. List of role names.
-
 -   `CustomData` - Optional. A text value to be returned by the CUSTOMDATA function.
-
 -   `IdentityBlob` - Optional. An Azure AD access token used for token-based identity with a DirectQuery connection to a Microsoft Azure SQL Database. It allows enforcing data permissions without data model RLS. This topic is described later in this unit.
 
 You might pass in a list of datasets because the embed token will be used to embed many Power BI artifacts that connect to different datasets, or because a dashboard comprises tiles that connect to multiple datasets. When a list of multiple roles is passed in, all roles are simultaneously enforced. That means the user gets to see the union of the data that the roles grant.
@@ -46,9 +42,7 @@ The following topics provide further details about setting effective identity fo
 When passing effective identity to connect to an internal-hosted model with import tables:
 
 -   At least one role must be defined in the model.
-
 -   The username must be passed, but it doesn't need to be a real username. The value passed in is returned by the USERNAME or USERPRINCIPALNAME function.
-
 -   At least one role must be defined by the effective identity.
 
 ### Set effective identity for internal-hosted DirectQuery tables
@@ -73,11 +67,8 @@ When no effective identity is passed and the embedding identity account is an An
 When passing effective identity to work with an Azure Analysis Services model:
 
 -   At least one role must be defined in the model.
-
 -   The username must be a master user account (UPN format) or service principal (ObjectID).
-
 -   When no roles form part of the effective identity, roles assigned to the effective identity account are applied.
-
 -   The USERNAME function will return the effective identity username.
 
 ### Set effective identity for SQL Server Analysis Services
@@ -91,15 +82,11 @@ When no effective identity is passed and the embedding identity account is an An
 When passing effective identity to work with an SQL Server Analysis Services model:
 
 -   At least one role must be defined in the model.
-
 -   The username must be a Windows account, using UPN or DOMAIN\username format.
-
 -   The username must have read permission on the model.
-
 -   When no roles form part of the effective identity, roles assigned to the effective identity username are applied.
 
 -   The USERNAME function will return the effective identity username.
-
 -   The use of the CUSTOMDATA function isn't supported.
 
 ### Compare dataset types
