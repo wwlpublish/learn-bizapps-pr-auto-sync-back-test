@@ -4,6 +4,8 @@ In this unit, you'll learn how to build prescheduled flows by using a trigger ca
 
 For this scenario, you’ll need to make an Excel file with a table that contains the following columns: ContactEmail, FirstName, and LastName. Save the Excel file in OneDrive for Business. You'll connect to this file in step 9.
 
+> [!NOTE] Be sure to format your Excel data as a table. This is the table referenced in step 11.
+
 Here’s what the Excel table looks like
     ![Screenshot of the Excel table.](../media/excel-table-mailchimp.png)
 
