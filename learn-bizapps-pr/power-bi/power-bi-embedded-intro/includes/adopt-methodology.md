@@ -20,13 +20,9 @@ Next, you'll develop or extend your app solution with embedding code. This proce
 The client APIs do much more than embed Power BI content. They support many operations to help you seamlessly integrate and enhance content. Capabilities include:
 
 - **Programmatic interaction** - For example, your app can apply new filters to an embedded report.
-
 - **Subscribable events** - Chart elements, such as a column of a column chart visual, menu extensions, and buttons, can trigger events that your app can respond to. For example, when the app user selects a button inside a Power BI report, your app can open a dialog window to enter and write back data to the app database.
-
 - **Dynamic report layouts** - For example, your app user can choose light or dark-themed reports.
-
 - **Bookmark interaction** - Your app can apply existing report bookmarks or create (and persist) personal bookmarks.
-
 - **Report visual creation** - Your app can allow users to create report visuals or personalize existing report visuals.
 
 > [!NOTE]
