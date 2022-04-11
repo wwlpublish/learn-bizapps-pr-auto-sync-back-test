@@ -1,8 +1,8 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.model-security.exercise
-title: Exercise - Security in apps
+title: Exercise - Security modeling
 metadata:
-  title: Exercise - Security in apps
+  title: Exercise - Security modeling
   description: Learn about security across the layers of the application.
   ms.date: 04/12/2022
   author: DaveBeasley
