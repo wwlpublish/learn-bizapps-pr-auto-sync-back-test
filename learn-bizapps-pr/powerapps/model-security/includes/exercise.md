@@ -2,7 +2,7 @@ In this exercise you'll be creating a security model for Fabrikam to track visit
 
 You're building a solution for Fabrikam to track visitors to a showroom and manufacturing site. Some of the visitors are potential purchasers and some are there to see the magic of the robots working. This exercise should be completed after the data modeling exercise from this Learning Path.
 
-<insert video exercise intro>
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4U8T6]
 
 If you're completing this exercise independently:
 
@@ -81,7 +81,7 @@ Create a security model for the above requirements. You can sketch this on a whi
 
 In the following video we evaluate the requirements and key considerations for providing a solution for Fabrikam.
 
-<insert video discussion>
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4TTLV]
 
 ## Other considerations
 
