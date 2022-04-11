@@ -1,6 +1,6 @@
 Microsoft Dataverse is a flexible data repository that can solve business problems in multiple ways. There isn't a single right way to data model this solution. The following is an example of how you might approach solving this set of requirements. Compare the example data model to what you designed and review the differences.
 
-<insert data model solution video>
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4UbDB]
 
 In addition to the proposed data model, our architects suggested the following options:
 Upon evaluation and additional information from Fabrikam, Visits might be a custom activity table.

@@ -1,6 +1,6 @@
 In this exercise, you'll be creating a data model for Fabrikam to track visitors. Review the information presented about Fabrikam Robotics and complete the tasks.  This could be completed as small groups as well.  
 
-<insert video exercise intro> 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4U3Ej]
 
 If you're completing this exercise independently: 
 
