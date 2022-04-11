@@ -34,9 +34,7 @@ Review the requirements here and address the concerns listed later in this docum
 
 - **Requirement 4** - Fabrikam’s IT security team wants to make sure the new solution doesn’t open up any security exposure from potential data leaks. You must ensure that your security setup prevents users from building their own cloud flows in Power Automate that send data to outside services that aren’t approved. You could almost see the panic on their faces when your sales team did the demo of how easy it was to build a cloud flow using random third party connectors.
 
-- **Requirement 5** - The sales staff handles their own leads and opportunities. They're compensated by commission on close of sales and are competitive. The staff that works on small deals all
-
-work together and receive commission on all closed deals in their department. The large deals sales staff mostly works by themselves; except on large deals where there's a team of them assigned.
+- **Requirement 5** - The sales staff handles their own leads and opportunities. They're compensated by commission on close of sales and are competitive. The staff that works on small deals all work together and receive commission on all closed deals in their department. The large deals sales staff mostly works by themselves; except on large deals where there's a team of them assigned.
 
 - **Requirement 6** - Reception staff must not have access to the sales data.
 
