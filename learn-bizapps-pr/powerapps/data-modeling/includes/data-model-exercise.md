@@ -22,10 +22,6 @@ You're building a solution for Fabrikam to track visitors to a showroom and manu
 - **Requirement 7** - You must allow for the tracking data to be viewed in the sales process user interface used by the sales staff. 
 - **Requirement 8** - Marketing has asked to be able to view visitors by day/month/quarter along with statistics on closing of sales after a visit. 
 
-In the following videos, the team discusses the requirements. 
-
-<insert video discussion, add words to intro each video after full edits are done> 
-
 ## Tasks
 Create a data model for the above requirements.  You can sketch your data model on a whiteboard or paper, you can use a tool such as Visio.  
 
@@ -56,14 +52,3 @@ Example of a data model, your data model should be for the above requirements.
     - Customer roadmap 
     - Product roadmap 
     - Existing systems 
-
-## Review your data model
-
-Microsoft Dataverse is a flexible data repository that can solve business problems in multiple ways. There isn't a single right way to data model this solution. What follows, is an example of how you might approach solving this set of requirements.  Compare the example data model to what you designed and review the differences.  
-
-<insert data model solution video> 
-
-In addition to the proposed data model, our architects suggested the following options: 
-- Upon evaluation and additional information from Fabrikam, Visits might be a custom activity table. 
-- Not every Visitor should be a Contact record.  If the Visitor has low probability as a customer (here to see the robots), then keep the Contact table data cleaner without the other Visitor records.  Keep the Contacts dedicated to the sales process. 
-- IoT devices such as the tracker mentioned in the requirements can quickly produce massive amounts of data.  We're basing our model on the assumption that the provided API allows us to use the data relevant to our purposes.  If that isn't the case, a much deeper discussion will be required. 
