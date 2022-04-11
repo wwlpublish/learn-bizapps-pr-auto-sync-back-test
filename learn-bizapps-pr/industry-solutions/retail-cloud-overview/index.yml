@@ -11,12 +11,12 @@ metadata:
 title: Microsoft Cloud for Retail overview
 summary: |
   [!include[](../includes/module-banner.md)]
-  This module introduces the Microsoft Cloud for Retail and the capabilities included in each solution package.
+  This module introduces Microsoft Cloud for Retail and the capabilities that are included in each solution package.
 abstract: |
-    In this module, you will:
-    - Learn about current retail trends and demands
-    - Get introduced to Microsoft Cloud for Retail
-    - Explore priority retail scenarios and featured capabilities of the solution
+    In this module, you'll:
+    - Learn about current retail trends and demands.
+    - Get an overview of Microsoft Cloud for Retail.
+    - Explore priority retail scenarios and featured capabilities of the solution.
 prerequisites: None
 iconUrl: /learn/achievements/retail-cloud-overview.svg
 levels:
