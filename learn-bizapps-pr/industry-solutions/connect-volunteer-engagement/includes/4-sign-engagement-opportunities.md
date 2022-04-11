@@ -5,7 +5,7 @@ As an organization you can set up the options for account creation. This can inc
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the sign-in page including the Username and Password fields.](../media/4-account-sign-in.png)](../media/4-account-sign-in.png#lightbox)
 
-Identity providers can be configured from Power Apps. For more information about configuring authentication: [Get started with configuring your portal authentication - Power Apps \| Microsoft Docs](/powerapps/maker/portals/configure/use-simplified-authentication-configuration).
+Identity providers can be configured from Power Apps. For more information about configuring authentication: [Get started with configuring your portal authentication - Power Apps \| Microsoft Docs](/power-apps/maker/portals/configure/use-simplified-authentication-configuration).
 
 Once the volunteer has signed up for an engagement opportunity, they will see that their application is currently pending. Unless the engagement was set up to automatically approve all applications, the application will remain as pending until it is approved by the volunteer manager in Volunteer Management.
 
