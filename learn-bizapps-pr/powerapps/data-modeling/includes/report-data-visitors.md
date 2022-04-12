@@ -2,4 +2,4 @@ Next, the team discusses how to address the information received from the tracki
 
 Finally, the team reviews the reporting needs and how to include that with out of the box resources.
 
-15533_Handling_Reporting_Data_v2.mp4
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4U1y3]
