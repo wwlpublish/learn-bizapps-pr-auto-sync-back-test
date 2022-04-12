@@ -9,7 +9,7 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.prod: learning-power-platform-solution-architect
-durationInMinutes: 5
+durationInMinutes: 10
 content: |
  [!include[](../includes/unit-banner.md)]
  [!include[](includes/architecture-devices.md)]
