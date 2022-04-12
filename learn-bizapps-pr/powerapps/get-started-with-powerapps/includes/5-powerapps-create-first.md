@@ -17,7 +17,7 @@ To connect to a data source, use the following procedure:
 
 1. Go to [https://make.powerapps.com](https://make.powerapps.com/?azure-portal=true) and sign in with your organizational account.
 
-1. On the **Home** screen, under the **Start from data** section, select **Other data sources**.
+1. On the **Home** screen, select **Create** and then, select **More data sources** on the right.
 
     ![Screenshot of the Canvas app from blank screen with Phone layout and Create highlighted.](../media/powerapps-home-screen-data-sources.png)
 
