@@ -3,8 +3,8 @@ Microsoft Dataverse is a flexible data repository that can solve business proble
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4UbDB]
 
 In addition to the proposed data model, our architects suggested the following options:
-Upon evaluation and additional information from Fabrikam, Visits might be a custom activity table.
 
+- Upon evaluation and additional information from Fabrikam, Visits might be a custom activity table.
 - Not every Visitor should be a Contact record. If the Visitor has low probability as a customer (just here to see the robots), then keep the Contact table data cleaner without the other Visitor records. Keep the Contacts dedicated to the sales process.
 - IoT devices such as the tracker mentioned in the requirements, can quickly produce massive amounts of data. We're basing our model on the assumption that the provided API allows us to use the data relevant to our purposes. If that isn't the case, a much deeper discussion will be required.
 
