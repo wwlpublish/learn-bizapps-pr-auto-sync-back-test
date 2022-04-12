@@ -36,7 +36,7 @@ You can accomplish these tasks with centralized management:
 
 ### Demand planning and optimization
 
-In this dynamic and shifting market, demand planning and optimization are more challenging than before. Planning optimization ensures correct inventory distribution at all points of the supply chain, from factory lines to shipping. You can set up and automate the real-time planning engine to optimize replenishment based on priority. This approach enables businesses to increase service levels and reduce inventory levels. Additionally, businesses can optimize their supply chains by prioritizing replenishment orders to ensure that urgent demand is prioritized over less important demand. Companies can replan multiple times a day within minutes, instead of waiting eight hours or overnight for a complete MRP run.
+In this dynamic and shifting market, demand planning and optimization are more challenging than before. Planning optimization ensures correct inventory distribution at all points of the supply chain, from factory lines to shipping. You can set up and automate the real-time planning engine to optimize replenishment based on priority. This approach enables businesses to increase service levels and reduce inventory levels. Additionally, businesses can optimize their supply chains by prioritizing replenishment orders to ensure that urgent demand is prioritized over less important demand. Companies can replan multiple times a day within minutes, instead of waiting eight hours or overnight for a complete Materials Requirements Planning (MRP) run.
 
 With demand planning and optimization, AI helps you:
 
