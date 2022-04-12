@@ -19,9 +19,7 @@ To connect to a data source, use the following procedure:
 
 1. On the **Home** screen, select **Create** and then, select **More data sources** on the right.
 
-    ![Screenshot of the Canvas app from blank screen with Phone layout and Create highlighted.](../media/powerapps-home-screen-data-sources.png)
-
-    Generated apps are always based on a single list or table, but you can add more data to the app later. The next four steps explain how to connect to the Excel workbook.
+   Generated apps are always based on a single list or table, but you can add more data to the app later. The next four steps explain how to connect to the Excel workbook.
 
 1. In the **New** tab section, under **Connections**, select **OneDrive for Business** and browse to the file location.
     You might need to select **New Connection** to see the **OneDrive for Business** connection.
