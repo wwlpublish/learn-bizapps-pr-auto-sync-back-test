@@ -3,12 +3,11 @@ uid: learn-bizapps.wwl.introduction-power-automate
 metadata:
   title: Introduction to Power Automate
   description: "Introduction to Power Automate"
-  ms.date: 05/31/2021
+  ms.date: 04/14/2022
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
   ms.prod: learning-power-apps
-  ms.custom: intro-internal
 title: Introduction to Power Automate
 summary: Microsoft Power Automate is all about process automation. Power Automate allows anyone with knowledge of the business process to create repeatable flows that when triggered leap into action and perform the process for them.
 abstract: |
