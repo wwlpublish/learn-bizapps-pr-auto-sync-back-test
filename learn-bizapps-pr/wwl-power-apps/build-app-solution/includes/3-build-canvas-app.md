@@ -39,7 +39,7 @@ To connect to a data source, use the following procedure:
 
 3.  In the left pane, select **Create**.
 
-4. In the **Start from data** section, select **Other data sources**.
+4. In the **Start from** section, select **More data sources**.
 
 5.  Under Connections, choose **OneDrive for Business**. If you don't have the connection available, click **New connection** to create one.
 

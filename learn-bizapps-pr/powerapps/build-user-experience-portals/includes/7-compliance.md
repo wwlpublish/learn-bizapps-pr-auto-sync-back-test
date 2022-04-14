@@ -30,7 +30,7 @@ It's up to the organization to define how the information about a user being a m
 
 Special considerations must be given when using external providers such as Azure Active Directory B2C. Only limited information is available from the providers, and providers might or might not have a mechanism for minor protection. Therefore, when someone registers by using an external provider, and the portal is configured to block minors or minors without parental consent, the contact row is not created and the user is not authenticated.
 
-For more information, see [Identifying minor portal users and obtaining parental consent](/powerapps/maker/portals/configure/implement-gdpr#identifying-minor-portal-users-and-obtaining-parental-consent/?azure-portal=true).
+For more information, see [Identifying minor portal users and obtaining parental consent](/power-apps/maker/portals/configure/implement-gdpr?azure-portal=true#identifying-minor-portal-users-and-obtaining-parental-consent).
 
 ### Terms and conditions
 
@@ -42,4 +42,4 @@ Power Apps portals use content snippets to store terms and conditions and to sup
 
 The contact table includes the **Portal Terms Agreement Date**, which indicates the date and time that the person agreed to the portal terms and conditions.
 
-For more information, see [Agreeing to terms and conditions](/powerapps/maker/portals/configure/implement-gdpr?azure-portal=true#agreeing-to-terms-and-conditions).
+For more information, see [Agreeing to terms and conditions](/power-apps/maker/portals/configure/implement-gdpr?azure-portal=true#agreeing-to-terms-and-conditions).

@@ -1,6 +1,6 @@
 In this unit, you'll learn how to build a business-friendly scenario that uses approvals.
 
-In this scenario, anyone who has access to the Microsoft SharePoint list can contribute tweets without knowing anything about Twitter. The social media team can then approve or reject those tweets allowing that team to remain in control of the account and the content that goes out to customers.
+In this scenario, anyone who has access to the Microsoft list can contribute tweets without knowing anything about Twitter. The social media team can then approve or reject those tweets allowing that team to remain in control of the account and the content that goes out to customers.
 
 ## Prerequisites
 
@@ -8,11 +8,11 @@ In this scenario, anyone who has access to the Microsoft SharePoint list can con
 - A Microsoft Office 365 account with access to SharePoint
 - A Twitter account
 
-## Step 1: Create a SharePoint list for tweets
+## Step 1: Create a Microsoft Lists list for tweets
 
-You'll use a template that starts an approval process whenever a new item is created in a specific list. If the item is approved, a tweet is posted to Twitter. For this unit, you'll change the process by adding steps that update a SharePoint list with the approval response, indicate whether the item was approved, and add any comments that the approver added to the proposed tweet.
+You'll use a template that starts an approval process whenever a new item is created in a specific list. If the item is approved, a tweet is posted to Twitter. For this unit, you'll change the process by adding steps that update a list with the approval response, indicate whether the item was approved, and add any comments that the approver added to the proposed tweet.
 
-First, let's create the SharePoint list.
+First, let's create the list.
 
 1. On your SharePoint site, select the gear settings icon on the top right and then select **Site contents**.
 
@@ -20,7 +20,7 @@ First, let's create the SharePoint list.
 
 1. Select **New** and then select **List**.
 
-    ![Screenshot of the SharePoint new list.](../media/new-list.png)
+    ![Screenshot of the new list.](../media/new-list.png)
 
 1. Select **Blank list**.
 
@@ -28,7 +28,7 @@ First, let's create the SharePoint list.
 
 1. Name the list as *ContosoTweets*.
 
-    ![Screenshot of the new list.](../media/name-new-list.png)
+    ![Screenshot of the second new list.](../media/name-new-list.png)
 
 1. Select the gear settings icon on the top right and select **List settings**. 
 
@@ -46,7 +46,7 @@ First, let's create the SharePoint list.
 
 	![Screenshot of the create column button.](../media/create-column.png)
 
-1. Copy the URL of the SharePoint list. You'll use it when you create the flow.
+1. Copy the URL of the Microsoft list. You'll use it when you create the flow.
 
 ## Step 2: Create an approval request flow
 
@@ -58,7 +58,7 @@ First, let's create the SharePoint list.
 
 1. Make sure your account credentials for **SharePoint**, **Approvals**, and **Twitter** are entered and are correct. If any of these connections aren't entered, select the **+** icon next the connection and enter your credentials accordingly.
 
-1. For Twitter authentication you'll receive a pop-up window similar to this one. 
+1. For Twitter authentication you'll receive a pop-up window similar to this one.
 
     ![Screenshot of Twitter authorization.](../media/twitter-sign.png)
 
@@ -98,7 +98,7 @@ First, let's create the SharePoint list.
 
 1. In the **List Name** field, select *ContosoTweets* again.
 
-1. In the **Id** field, add **ID** from the **Dynamic content** window. The **Id** field is used to match the actual tweet request in the SharePoint list.
+1. In the **Id** field, add **ID** from the **Dynamic content** window. The **Id** field is used to match the actual tweet request in the list.
 
 1. Select the **Title** field, and then search for and select **Title** under the **When a new item is created** action in the **Dynamic content** window.
 

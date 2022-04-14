@@ -1,4 +1,4 @@
-With the **Call an action** node, chatbots can interact with Power Automate flows. You can use these flows to trigger automated processes or connect with Dataverse for Teams data, SharePoint lists, or other data sources.
+With the **Call an action** node, chatbots can interact with Power Automate flows. You can use these flows to trigger automated processes or connect with Dataverse for Teams data, Microsoft Lists, or other data sources.
 
 For example, the **Event Contacts** chatbot could provide the Sales Project team members from a Dataverse for Teams table. Instead of editing the chatbot when changes are made to this team, you can update the table.
 
@@ -6,7 +6,12 @@ For example, the **Event Contacts** chatbot could provide the Sales Project team
 
 To create a Dataverse for Teams table, follow these steps:
 
-1. Create a new Dataverse for Teams table in the same team as the chatbot, named **Sales Project Team**. The columns and data types to use are as follows:
+1. Create a new Dataverse for Teams table in the same team as the chatbot. Remember that you'll need to create it by using **Power Apps for Teams**.  In Power Apps for Teams, select the **Build** tab, select **See all**, select **New**, and select **Table**.  
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of the Build tab with new menu and table selected.](../media/power-apps-table.png)](../media/power-apps-table.png#lightbox)
+
+   Name your new table **Sales Project Team** and select **Save**.  The columns and data types to use are as follows:
 
 	|     Column           |     Data type    |
 	|----------------------|------------------|
@@ -18,7 +23,7 @@ To create a Dataverse for Teams table, follow these steps:
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Sales Project Team with a row for each contact.](../media/image-21.png)](../media/image-21.png#lightbox)
 
-1. Close the table when you are finished.
+1. Close the table when you're finished.
 
 ## Step 2 - Add an action 
 
@@ -26,27 +31,27 @@ To add an action, follow these steps:
 
 1. Open the **Event Contact** chatbot in Power Virtual Agents for editing.
 
-1. Create a new topic.
+1. Create a new topic. To name the topic select **Details**. Enter Sales Project Team into the **Name** field and select **Save**.
 
-    **Name** - Sales Project Team
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of the details pane with name entry field and save.](../media/details-name-save.png)](../media/details-name-save.png#lightbox)
 
-    **Trigger phrases** - sales project team, sales project info, sales team info, sales project members, sales project info
+    Select **Trigger phrases** and enter each of the following, press **+** after each entry:  sales project team, sales project info, sales team info, sales project members, and sales project info.
     
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the setup with the name and trigger phrases.](../media/image-22.png)](../media/image-22.png#lightbox)
 
-1. Select **Save topic** and then select **Go to authoring canvas**.
 
-1. In the **Message** node, enter **Let me look up the Sales Project Team!**
+1. On the authoring canvas inside the **Message** node, enter **Let me look up the Sales Project Team!**
 
-1. Select **Save** to save the bot at this point. When the Power Automate flow is created, you will switch to a Power Automate editor. Changes that are not saved to the chatbot could be lost.
+1. Select **Save** to save the bot at this point. When the Power Automate flow is created, you'll switch to a Power Automate editor. Changes that aren't saved to the chatbot could be lost.
 
 1. Add a new node after the message node and then select **Call an action > Create a flow**.
     
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the call an action flyout message with create a flow selected.](../media/image-23.png)](../media/image-23.png#lightbox)
     
-    Three templates are available for you to choose from. Each template allows you to pass information to the flow when it is triggered. After the flow has finished, information can be passed back to the chatbot.
+    There are various templates available for you to choose from. Each template allows you to pass information to the flow when it's triggered. After the flow has finished, information can be passed back to the chatbot.  To look at some more template options, you can select **See more templates**.  Some notables include:
     
     **Power Virtual Agents Flow Template** - This template only has the steps to receive and send information to the chatbot.
 
@@ -95,14 +100,14 @@ To add an action, follow these steps:
 
 1. For the **Name**, select **ContactInfo** for the variable that you previously created in the flow.
 
-1. Create a bulleted list with the name and email of each person. Power Automate uses Markdown syntax when formatting text. To indicate a bulleted list in Markdown, you need to use the asterisk character \* at the line's start. To learn more about Markdown, see the Summary section at the end of this module.
+1. Using the **Append to string variable** action, we're going to create a bulleted list with the name and email of each person. Power Automate uses Markdown syntax when formatting text. To indicate a bulleted list in Markdown, you need to use the asterisk character \* at the line's start. To learn more about Markdown, see the Summary section at the end of this module.
     
     In the **Value** text box:
     
     1. Enter an asterisk \* and then add a space.
     1. Under dynamic content **List rows**, select **Name** and then add a space.
     1. Under dynamic content **List rows**, select **Email Address**.
-    1. Press the **Shift + Enter** keys to start a new line.
+    1. Press **Enter** to start a new line.
     
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the value text box with steps completed.](../media/image-29.png)](../media/image-29.png#lightbox)
@@ -131,7 +136,7 @@ To add an action, follow these steps:
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the ContactData option selected.](../media/image-31.png)](../media/image-31.png#lightbox)
 
-1. Select **Save**. If the **Test bot** pane is not visible, select the **Test bot** menu option.
+1. Select **Save**. If the **Test bot** pane isn't visible, select the **Test bot** menu option.
 
 Enter one of the trigger phrases to test the chatbot.
 

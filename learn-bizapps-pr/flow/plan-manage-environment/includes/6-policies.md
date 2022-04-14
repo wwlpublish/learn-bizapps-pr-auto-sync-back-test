@@ -40,7 +40,7 @@ DLP policy later in this module.
 
 The second scenario involves publishing notifications
 in a Microsoft Teams channel whenever a new item is created in a
-SharePoint list. To enable this scenario, you will create another DLP
+list in Microsoft Lists. To enable this scenario, you will create another DLP
 policy. In this scenario, you will only have the **SharePoint** and
 **Microsoft Teams** connectors in the **Business** data group.
 All remaining connectors will be placed in the **Non-business**
@@ -51,7 +51,7 @@ data group.
 After this DLP policy has been saved, you can create a flow
 that will implement your designed functionality that includes posting a
 message in a Teams channel whenever a new item is created in a
-SharePoint list.
+list in Microsoft Lists.
 
 ![Screenshot of the Power Automate example flow.](../media/10-flow.png)
 
@@ -64,7 +64,7 @@ means it complies with your DLP policies.
 
 In this scenario, you will discover what happens when you have DLP
 policies that conflict with each other. This scenario includes logging
-inbound emails in a SharePoint list so that you can track action items
+inbound emails in Microsoft Lists so that you can track action items
 from that mailbox.
 
 Currently, you have unique DLP policies that include these connectors in

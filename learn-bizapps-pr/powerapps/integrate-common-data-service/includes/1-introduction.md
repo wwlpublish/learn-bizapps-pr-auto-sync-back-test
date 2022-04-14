@@ -81,4 +81,4 @@ Table lists can have actions associated with them to enable commands for each li
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the table list features and commands.](../media/entity-list-features-commands.png)](../media/entity-list-features-commands.png#lightbox)
 
-For more detailed information about table list attributes and relationships and how to use them to configure list behavior, see [About table lists](/powerapps/maker/portals/configure/entity-lists/?azure-portal=true).
+For more detailed information about table list attributes and relationships and how to use them to configure list behavior, see [About table lists](/power-apps/maker/portals/configure/entity-lists/?azure-portal=true).

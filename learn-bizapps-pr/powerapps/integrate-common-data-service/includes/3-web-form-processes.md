@@ -9,7 +9,7 @@ Consider a scenario where you want to capture feedback from customers after a ca
 
 In this scenario, a web form allows you to implement two pages for information capture and to add branching logic.
 
-When you are designing surveys, consider whether you can extend and use a built-in **Feedback** table to capture entries, or whether creating a separate table is more appropriate. In general, a **Feedback** table is suitable for shorter, more targeted surveys like product or case feedback. For more information, see [Configure an table for feedback/ratings](/powerapps/maker/common-data-service/configure-entity-feedback/?azure-portal=true).
+When you are designing surveys, consider whether you can extend and use a built-in **Feedback** table to capture entries, or whether creating a separate table is more appropriate. In general, a **Feedback** table is suitable for shorter, more targeted surveys like product or case feedback. For more information, see [Configure an table for feedback/ratings](/power-apps/maker/common-data-service/configure-entity-feedback/?azure-portal=true).
 
 ## Complex data capture
 

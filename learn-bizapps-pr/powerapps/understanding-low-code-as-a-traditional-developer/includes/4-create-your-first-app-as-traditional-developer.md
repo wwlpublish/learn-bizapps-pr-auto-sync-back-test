@@ -3,7 +3,7 @@ In this unit, you'll create a mobile app to help which people in the field will 
 There are hundreds of data connectors that Power Apps can connect to out of the box, for lots of Microsoft products and services and for 3rd party services too. If there is no connector for what you need, a developer can build a custom connector to make that connection.
 
 > [!NOTE]
-> Power Apps requires either an Microsoft 365 license or a free trial. Learn more about your licensing options. [Microsoft products include Microsoft Power Apps and Power Automate.](/powerapps/administrator/pricing-billing-skus/?azure-portal=true)
+> Power Apps requires either an Microsoft 365 license or a free trial. Learn more about your licensing options. [Microsoft products include Microsoft Power Apps and Power Automate.](/power-apps/administrator/pricing-billing-skus/?azure-portal=true)
 
 ## Connect to a data source
 

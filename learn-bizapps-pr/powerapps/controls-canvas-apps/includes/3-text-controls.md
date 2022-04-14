@@ -46,7 +46,7 @@ Next, create a more dynamic solution by combining a button, gallery, and multipl
 
 1.  With the gallery selected, in the right pane, change the layout from blank to **Title, subtitle, and body**.
 
-1.  Select the top or first Label, in the Text property, the default, for example,  shows **ThisItem.City**, you could change this to something else if you would like. For more information about the ThisItem operator, see [Operators and Identifiers in Power Apps](/powerapps/maker/canvas-apps/functions/operators/?azure-portal=true).
+1.  Select the top or first Label, in the Text property, the default, for example,  shows **ThisItem.City**, you could change this to something else if you would like. For more information about the ThisItem operator, see [Operators and Identifiers in Power Apps](/power-apps/maker/canvas-apps/functions/operators/?azure-portal=true).
 
 1.  Select the middle or second Label, which shows as **ThisItem.Country**.
 

@@ -4,10 +4,10 @@ Occasionally, it's best to revisit the flow to determine if its design can be mo
 
 Because SharePoint connector is built on REST APIs, it supports your ability to filter data on the server side by using OData. Benefits of using OData include reducing the amount of data that you're bringing into your flow and reducing the need to loop through a record set to find values of interest.
 
-Consider a SharePoint list that has over 100 items of computer device information. The list has a column called MFR Name that lists all manufacturers. The availability of this column and OData allows you to filter down to the manufacturer level on the server side, reducing the total amount of time that it takes for the flow to run.
+Consider a list in Microsoft Lists that has over 100 items of computer device information. The list has a column called MFR Name that lists all manufacturers. The availability of this column and OData allows you to filter down to the manufacturer level on the server side, reducing the total amount of time that it takes for the flow to run.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of a SharePoint list of Devices.](../media/image-29.png)](../media/image-29.png#lightbox)
+> [![Screenshot of a list of Devices.](../media/image-29.png)](../media/image-29.png#lightbox)
 
 In the SharePoint **Get items** action, in the **Filter Query** field, add the formula to filter the Microsoft devices.
 

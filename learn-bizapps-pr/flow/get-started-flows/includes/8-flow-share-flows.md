@@ -38,9 +38,9 @@ You create a shared flow by adding more owners to an existing flow. After new ow
 
 Keep in mind that when you share a flow, it appears on the **Shared with me** tab. It no longer appears on the **Cloud flows** tab.
 
-## Add a SharePoint list as a co-owner of a flow
+## Add Microsoft Lists as a co-owner of a flow
 
-You can add a Microsoft SharePoint list as a co-owner of a flow. In that way, everyone who has edit access to the list automatically gets edit access to the flow. After the flow is shared, you can just distribute a link to it.
+You can add a list created using Microsoft Lists as a co-owner of a flow. In that way, everyone who has edit access to the list automatically gets edit access to the flow. After the flow is shared, you can just distribute a link to it.
 
 > [!IMPORTANT]
 >SharePoint users must have Edit permission or be a member of the Members or Owners group to run flows in SharePoint.

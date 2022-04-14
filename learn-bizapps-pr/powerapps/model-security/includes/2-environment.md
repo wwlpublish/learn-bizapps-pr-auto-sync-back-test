@@ -45,7 +45,7 @@ Conditional access requires an Azure AD Premium license. Conditional access poli
 
 Microsoft Azure Active Directory B2B (Azure AD B2B) collaboration is a feature that lets you invite guest users to collaborate with your organization. You can assign licenses to guest users to run apps that are built with Microsoft Power Platform. Currently, guests can't create or edit Power Apps.
 
-For more information, see [Share a canvas app with guest users](/powerapps/maker/canvas-apps/share-app-guests/?azure-portal=true) and [About Power Apps per app plans](/power-platform/admin/about-powerapps-perapp/?azure-portal=true).
+For more information, see [Share a canvas app with guest users](/power-apps/maker/canvas-apps/share-app-guests/?azure-portal=true) and [About Power Apps per app plans](/power-platform/admin/about-powerapps-perapp/?azure-portal=true).
 
 ## Cross-tenant isolation
 

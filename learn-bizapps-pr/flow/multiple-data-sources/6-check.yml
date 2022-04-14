@@ -1,55 +1,55 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.multiple-data-sources.6-check 
-title: Check your knowledge 
-metadata: 
- title: Check your knowledge 
- description: Answer the following questions to see what you've learned. 
- ms.date: 12/01/2021 
- author: DaveBeasley 
- ms.author: dbeasley 
- ms.topic: interactive-tutorial 
- ms.prod: learning-power-automate 
-durationInMinutes: 6 
-quiz: 
-  title: Answer the following questions to see what you've learned. 
-  questions: 
-  - content: What are connectors used for in Power Automate? 
-    choices:  
+### YamlMime:ModuleUnit
+uid: learn-bizapps.multiple-data-sources.6-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 03/30/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-automate
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What are connectors used for in Power Automate?
+    choices:
     - content: Connectors are used to start a flow.
-      explanation: Connectors let you connect to a service like Salesforce, Microsoft 365, Twitter. 
-      isCorrect: false 
+      explanation: Connectors let you connect to a service like Salesforce, Microsoft 365, Twitter.
+      isCorrect: false
     - content: Connectors let you build a flow that accepts user input.
       explanation: Connectors let you connect to a service like Twitter.
-      isCorrect: false 
+      isCorrect: false
     - content: Connectors let you connect to a service like Salesforce, Microsoft 365, Twitter.
       explanation: Connectors let you connect to a service like Salesforce, Microsoft 365, Twitter.
-      isCorrect: true 
+      isCorrect: true
   - content: What are the key items to build a flow across multiple data sources?
-    choices: 
-    - content: Data source location (online/on-premises), license requirement, column types, and column names. 
+    choices:
+    - content: Data source location (online/on-premises), license requirement, column types, and column names.
       explanation: Data source location and license type are the key requirements to consider.
-      isCorrect: false 
+      isCorrect: false
     - content: Data source location (online/on-premises), license requirements, and flow type.
-      explanation: Data source location and license type are the key requirements to consider. 
-      isCorrect: false 
+      explanation: Data source location and license type are the key requirements to consider.
+      isCorrect: false
     - content: Data source location, environment type, and flow type.
-      explanation: Data source location and license type are the key requirements to consider. 
-      isCorrect: false 
-    - content: Data source location and license type. 
-      explanation: Data source location and license type are the key requirements to consider. 
-      isCorrect: true 
+      explanation: Data source location and license type are the key requirements to consider.
+      isCorrect: false
+    - content: Data source location and license type.
+      explanation: Data source location and license type are the key requirements to consider.
+      isCorrect: true
   - content: When creating flows across data sources do the column names need to match?
-    choices: 
+    choices:
     - content: Yes.
       explanation: This is only required for choice type column types.
-      isCorrect: false 
+      isCorrect: false
     - content: Yes, but only for numerical column types.
       explanation: This is only required for choice type column types.
-      isCorrect: false 
+      isCorrect: false
     - content: No.
-      explanation: This is only required for choice type column types. 
-      isCorrect: false 
+      explanation: This is only required for choice type column types.
+      isCorrect: false
     - content: Yes, but only for choice type column types.
       explanation: In order to copy data over the names of choice type, columns need to match.
-      isCorrect: true 
+      isCorrect: true
 

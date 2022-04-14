@@ -45,16 +45,16 @@ quiz:
     choices: 
     - content: Three. Office 365 Outlook, Notification, and Office 365 Users.
       isCorrect: false 
-      explanation: The SharePoint connector is used to save the report as items to a SharePoint list.
+      explanation: The SharePoint connector is used to save the report as items to Microsoft Lists.
     - content: One. Office 365 Users.
       isCorrect: false 
-      explanation: The SharePoint connector is used to save the report as items to a SharePoint list.
+      explanation: The SharePoint connector is used to save the report as items to Microsoft Lists.
     - content: One. Office 365 Outlook.
       isCorrect: false 
-      explanation: The SharePoint connector is used to save the report as items to a SharePoint list.
+      explanation: The SharePoint connector is used to save the report as items to Microsoft Lists.
     - content: One. SharePoint.
       isCorrect: true 
-      explanation: The SharePoint connector is used to save the report as items to a SharePoint list.
+      explanation: The SharePoint connector is used to save the report as items to Microsoft Lists.
   - content: Which trigger action provides the full address?
     choices:
     - content: The Get User Profile (V2)
@@ -69,17 +69,17 @@ quiz:
     - content: The Office 365 Users
       isCorrect: false
       explanation: The Manually Trigger a flow action also provides the current location of the user from where the button was selected to trigger the flow.
-  - content: Which actions are needed to attach an image to a new SharePoint item?
+  - content: Which actions are needed to attach an image to a new Microsoft Lists item?
     choices:
     - content: Create item first, then add attachment.
       isCorrect: true
-      explanation: Two actions are needed. The first is to create the item and the second is to update it with the attachment. The ID of the SharePoint list item created using the first action is required for the second action.
+      explanation: Two actions are needed. The first is to create the item and the second is to update it with the attachment. The ID of the list item created using the first action is required for the second action.
     - content: Create item.
       isCorrect: false
-      explanation: Two actions are needed. The first is to create the item and the second is to update it with the attachment. The ID of the SharePoint list item created using the first action is required for the second action.
+      explanation: Two actions are needed. The first is to create the item and the second is to update it with the attachment. The ID of the list item created using the first action is required for the second action.
     - content: Add attachment.
       isCorrect: false
-      explanation: Two actions are needed. The first is to create the item and the second is to update it with the attachment. The ID of the SharePoint list item created using the first action is required for the second action.
+      explanation: Two actions are needed. The first is to create the item and the second is to update it with the attachment. The ID of the list item created using the first action is required for the second action.
     - content: Add attachment first, then create an item.
       isCorrect: false
-      explanation: Two actions are needed. The first is to create the item and the second is to update it with the attachment. The ID of the SharePoint list item created using the first action is required for the second action.
+      explanation: Two actions are needed. The first is to create the item and the second is to update it with the attachment. The ID of the list item created using the first action is required for the second action.

@@ -51,10 +51,10 @@ For full descriptions of actions and triggers, see the link in the Summary unit 
 
 The SharePoint connector has a trigger for new items in Power Automate flows. The example for this module will start a workflow process when a new item for a travel reimbursement request has been submitted. Email notifications are sent by using Microsoft Outlook.
 
-The following screenshot shows the SharePoint list with the column types for travel reimbursement. SharePoint automatically adds the **Created**, **Created By**, **Modified**, and **Modified By** columns.
+The following screenshot shows the list in Microsoft Lists with the column types for travel reimbursement. SharePoint automatically adds the **Created**, **Created By**, **Modified**, and **Modified By** columns.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the SharePoint list showing column types.](../media/3-1-columns.png)](../media/3-1-columns.png#lightbox)
+> [![Screenshot of the list in Microsoft Lists showing column types.](../media/3-1-columns.png)](../media/3-1-columns.png#lightbox)
 
 The following screenshot shows the **Choice (menu to choose from)** column.
 

@@ -39,9 +39,9 @@ associated trip.
 When building relationships, you can also relate data from two
 different data sources. An example of this is storing customer
 information in a CRM system, such as Dynamics 365, and then using that
-information as part of a SharePoint list for sales regions. With
+information as part of a list in Microsoft Lists for sales regions. With
 Power Apps, the setup and design of referencing the ID of the customer in
-Dynamics 365 from your SharePoint list works the same. This is one of
+Dynamics 365 from your list works the same. This is one of
 the many benefits of Power Apps, connecting to multiple data sources from
 within one app is seamless.
 

@@ -62,7 +62,7 @@ The AI model will look for the most commonly used fields in receipts. The values
 
 1. After you have selected the newly created label component, set its **Text** property by using the formula bar to the **DetectedFields.Total.Confidence** property of the **Receipt processor** component.
 
-After you have all values that you want to retrieve, save this information locally to your device as a collection or to the cloud, such as in Microsoft Dataverse or a SharePoint list.
+After you have all values that you want to retrieve, save this information locally to your device as a collection or to the cloud, such as in Microsoft Dataverse or a list.
 
 Congratulations, you have created an app by using receipt processing.
 

@@ -9,6 +9,10 @@ metadata:
   ms.author: grhurl
   ms.topic: interactive-tutorial
   ms.prod: learning-powerapps
+  ms.custom:
+  - team=cloud_advocates
+  ms.contributors:
+  - grhurl-04192021
 durationInMinutes: 3
 quiz: 
   title: Answer the following questions to see what you've learned.

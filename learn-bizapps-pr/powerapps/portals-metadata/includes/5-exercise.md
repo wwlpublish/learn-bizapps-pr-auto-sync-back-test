@@ -12,7 +12,7 @@ At the end of these exercises, you will be able to:
 
 For this exercise, you will need to have the following elements in your environment:
 
-- A Power Apps portal that is provisioned. If you do not have a Power Apps portal available, follow the [Create Portal](/powerapps/maker/portals/create-portal/?azure-portal=true) instructions to create one. 
+- A Power Apps portal that is provisioned. If you do not have a Power Apps portal available, follow the [Create Portal](/power-apps/maker/portals/create-portal/?azure-portal=true) instructions to create one. 
 - Access to the Power Apps maker portal.
 
 ## Scenario
@@ -119,4 +119,4 @@ To add a column component and add navigation, follow these steps:
 1. Select **Browse website**. You should be able to see a page with links to both portal pages and an external link.
 
 > [!NOTE]
-> Many portal page components such as lists and forms are represented by Liquid tags. In this exercise, the *include* tag references the **Web Template** called *Weblink List Group*, which describes how the secondary navigation should be rendered. For more information, see [Work with Liquid templates](/powerapps/maker/portals/liquid/liquid-overview/?azure-portal=true)
+> Many portal page components such as lists and forms are represented by Liquid tags. In this exercise, the *include* tag references the **Web Template** called *Weblink List Group*, which describes how the secondary navigation should be rendered. For more information, see [Work with Liquid templates](/power-apps/maker/portals/liquid/liquid-overview/?azure-portal=true)

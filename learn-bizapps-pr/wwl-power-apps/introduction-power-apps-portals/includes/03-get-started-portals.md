@@ -44,9 +44,10 @@ Make sure that you define the type of audience who will visit the new portal.
 The audience will determine which options of portal you will be given.
 
 
-| **PORTAL TEMPLATES**  |||
-|--|--|--|
+**PORTAL TEMPLATES**
+
 | **Portal template**   | **Audience**      | **Workload**                                                                                                                                                                                                                                                                                                                                                                                          |
+|--|--|--|
 | Community             | Partner, Customer | Choose this option to provision a portal that is focused on an online community. This portal will contain features such as forums, ideas, blogs, and case management.                                                                                                                                                                                                                                 |
 | Customer self-service | Partner, Customer | This option provides the ability for portal users to search knowledge articles, submit cases, and participate in discussion forums to resolve issues.                                                                                                                                                                                                                                                 |
 | Employee self-service | Employee          | This portal allows employees to access a centralized knowledge article and to also submit cases.                                                                                                                                                                                                                                                                                                      |

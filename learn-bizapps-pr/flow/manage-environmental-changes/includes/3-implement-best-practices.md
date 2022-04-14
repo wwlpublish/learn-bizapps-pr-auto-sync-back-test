@@ -8,7 +8,7 @@ Consider the following strategies:
     reference so they understand what DLP policies exist.
 
 2. Track all flow users in a digital list. This list can be a Yammer group,
-    SharePoint list, distribution list, or Microsoft Azure Active Directory group.
+    Microsoft Lists, distribution list, or Microsoft Azure Active Directory group.
     You could also use Microsoft Power Platform Center of Excellence (COE) Starter
     Kit.
 

@@ -44,7 +44,7 @@ you can follow through the conversation path step by step.
 
 1.  If the **Test bot** pane is hidden, open it by selecting **Test your bot**.
 
-    ![The Test your bot button is at the bottom of the side navigation pane](../media/test-your-bot-button.png)
+    ![The Test your bot button at the bottom of the side navigation pane](../media/test-your-bot-button.png)
 
 2.  At the top of the **Test bot** pane, set **Track between topics** to **On**.
 

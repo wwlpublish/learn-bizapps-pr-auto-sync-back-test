@@ -2,14 +2,14 @@ Portal makers can use a template language to build the output that combines stat
 
 Power Apps portals implements many extensions that are specific to the portals and Dataverse.
 
-[Available Liquid objects](/powerapps/maker/portals/liquid/liquid-objects/?azure-portal=true) include:
+[Available Liquid objects](/power-apps/maker/portals/liquid/liquid-objects/?azure-portal=true) include:
 
 - Page
 - User
 - Website
 - Generic entities
 
-[Power Apps Dataverse table tags](/powerapps/maker/portals/liquid/portals-entity-tags/?azure-portal=true) include:
+[Power Apps Dataverse table tags](/power-apps/maker/portals/liquid/portals-entity-tags/?azure-portal=true) include:
 
 - Chart
 - Power BI
@@ -42,8 +42,8 @@ The output would look like the following example:
 By using Liquid in Power Apps portals, you can:
 
 - Add dynamic content directly to webpage content or to a content snippet.
-- [Store source content by using web templates](/dynamics365/customer-engagement/portals/store-content-web-templates/?azure-portal=true), entirely through configuration within Power Apps, for use throughout the Power Apps portals content management system.
-- [Render a website header and primary navigation bar](/powerapps/maker/portals/liquid/render-site-header-primary-navigation/?azure-portal=true), entirely through configuration within Power Apps.
+- [Store source content by using web templates](/dynamics365/portals/store-content-web-templates?azure-portal=true), entirely through configuration within Power Apps, for use throughout the Power Apps portals content management system.
+- [Render a website header and primary navigation bar](/power-apps/maker/portals/liquid/render-site-header-primary-navigation/?azure-portal=true), entirely through configuration within Power Apps.
 
 In these scenarios, you'll have dynamic access to Power Apps portals features, such as site settings, content snippets, table lists and forms, and so on.
 

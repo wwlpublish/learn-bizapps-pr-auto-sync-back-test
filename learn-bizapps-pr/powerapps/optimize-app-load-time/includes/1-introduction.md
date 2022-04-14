@@ -56,7 +56,7 @@ App settings can have a significant impact on the performance of your app; there
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Debug published app screen with the General option highlighted.](../media/4-debug-published.png)](../media/4-debug-published.png#lightbox)
 
-Another setting to consider is **Data row limit**. This setting determines the most rows that will be retrieved from a server-based connection when delegation is not supported. By default, this value is 500 and can be any value between 1 and 2,000. To work around [delegation issues](/powerapps/maker/canvas-apps/delegation-overview/?azure-portal=true#) in apps, it's common for people to increase this value. This increase might cause unexpected problems when a development environment holds much smaller sets of data than production. For example, with the **Data row limit** set to 2,000, the following expression in **Data row limit** might only preload a few rows in a development environment.
+Another setting to consider is **Data row limit**. This setting determines the most rows that will be retrieved from a server-based connection when delegation is not supported. By default, this value is 500 and can be any value between 1 and 2,000. To work around [delegation issues](/power-apps/maker/canvas-apps/delegation-overview/?azure-portal=true) in apps, it's common for people to increase this value. This increase might cause unexpected problems when a development environment holds much smaller sets of data than production. For example, with the **Data row limit** set to 2,000, the following expression in **Data row limit** might only preload a few rows in a development environment.
 
     ClearCollect(colDesks,Desks)
 
@@ -74,7 +74,7 @@ If you are working on a performance issue, testing some of the upcoming features
 
 ## Limits and throttling
 
-Each connector can have its own limit of retrieved data and throttling. Additionally, [service protection limits](/powerapps/developer/data-platform/api-limits/?azure-portal=true#) are in place at the platform level. Make sure that you are aware of these limits for the connectors that you use in your app. Apps that encounter these limits during startup might exhibit a slowdown in loading the app.
+Each connector can have its own limit of retrieved data and throttling. Additionally, [service protection limits](/power-apps/developer/data-platform/api-limits/?azure-portal=true) are in place at the platform level. Make sure that you are aware of these limits for the connectors that you use in your app. Apps that encounter these limits during startup might exhibit a slowdown in loading the app.
 
 ## Use a loading image
 

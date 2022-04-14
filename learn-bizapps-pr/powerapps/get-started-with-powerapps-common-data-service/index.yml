@@ -3,7 +3,7 @@ uid: learn-bizapps.powerapps-common-data-service
 metadata: 
   title: Create tables in Microsoft Dataverse
   description: Dataverse lets you securely store and manage data that's used by business applications. Standard and custom tables within Dataverse provide a secure and cloud-based storage option for your data.
-  ms.date: 10/01/2021 
+  ms.date: 04/06/2022 
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
@@ -33,6 +33,7 @@ units:
 - learn-bizapps.powerapps-common-data-service.1-introduction
 - learn-bizapps.powerapps-common-data-service.2-learn-about-entities
 - learn-bizapps.powerapps-common-data-service.2b-dual-write-vs-virtual-table
+- learn-bizapps.powerapps-common-data-service.auditing
 - learn-bizapps.powerapps-common-data-service.3-create-a-cds-entity
 - learn-bizapps.powerapps-common-data-service.4-import-data-into-your-database
 - learn-bizapps.powerapps-common-data-service.4a-use-data-cds-exercise

@@ -51,10 +51,11 @@ shows a high-level overview of the experiences for each channel. You can take
 the channel experiences into account when optimizing your bot content for
 specific channels.
 
-|**CHANNEL EXPERIENCE REFERENCE TABLE**||||
-|--|--|--|--|
+**CHANNEL EXPERIENCE REFERENCE TABLE**
+
 |**Experience**|**Website**|**Microsoft Teams**|**Facebook**|
-| [Customer satisfaction survey](https://docs.microsoft.com/power-virtual-agents/authoring-create-edit-topics#insert-nodes) | Adaptive card | Text-only | Text-only |
-| [Multiple-choice options](https://docs.microsoft.com/power-virtual-agents/authoring-create-edit-topics#insert-nodes)      | Supported     | [Supported up to 6](https://docs.microsoft.com/microsoftteams/platform/concepts/cards/cards-reference#hero-card) | [Supported up to 13](https://developers.facebook.com/docs/messenger-platform/send-messages/quick-replies/) |
+|--|--|--|--|
+| [Customer satisfaction survey](/power-virtual-agents/authoring-create-edit-topics#insert-nodes) | Adaptive card | Text-only | Text-only |
+| [Multiple-choice options](/power-virtual-agents/authoring-create-edit-topics#insert-nodes)      | Supported     | [Supported up to 6](/microsoftteams/platform/concepts/cards/cards-reference#hero-card) | [Supported up to 13](https://developers.facebook.com/docs/messenger-platform/send-messages/quick-replies/) |
 | [Markdown](https://daringfireball.net/projects/markdown/)                                                                       | Supported     | Supported                                                                                                              | [Partially supported](https://www.facebook.com/help/147348452522644?helpref=related)                       |
-| [Welcome message](https://docs.microsoft.com/power-virtual-agents/authoring-create-edit-topics#insert-nodes)              | Supported     | Supported                                                                                                              | Not supported                                                                                              |
+| [Welcome message](/power-virtual-agents/authoring-create-edit-topics#insert-nodes)              | Supported     | Supported                                                                                                              | Not supported                                                                                              |

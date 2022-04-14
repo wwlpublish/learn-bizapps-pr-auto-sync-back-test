@@ -34,7 +34,7 @@ In the Power Apps Portals admin center, the **Disable custom errors** action wil
 > [!NOTE]
 > Disabling custom errors should be a temporary setting because the detailed error message might convey an increased negative experience for portal visitors. We recommend that you only disable custom errors when you are in the development phase and enable custom errors after you go live.
 
-Another option is to personalize the error message by adding a content snippet called **Portal Generic Error** that contains an appropriate message for portal users. For more information, see [Display a custom error message](/powerapps/maker/portals/admin/view-portal-error-log#display-a-custom-error-message/?azure-portal=true).
+Another option is to personalize the error message by adding a content snippet called **Portal Generic Error** that contains an appropriate message for portal users. For more information, see [Display a custom error message](/power-apps/maker/portals/admin/view-portal-error-log?azure-portal=true#display-a-custom-error-message).
 
 ### Diagnostic logging
 
@@ -51,4 +51,4 @@ Because the portal might extend certain functionality of a model-driven app, one
 
 Creating the `Site/EnableCustomPluginError` site setting and then setting the value to **True** will display the contents of the plug-in error on a portal page rather than the generic error message.
 
-For more information, see [View portal error logs](/powerapps/maker/portals/admin/view-portal-error-log/?azure-portal=true).
+For more information, see [View portal error logs](/power-apps/maker/portals/admin/view-portal-error-log/?azure-portal=true).

@@ -4,12 +4,12 @@ A SharePoint connector gives you the flexibility to communicate with online and 
 
 ## Key features and capabilities
 
-SharePoint Online is a popular connector for Power Automate because of its user-friendly features that allow you to create the tables (or lists) to store data and the libraries to store documents. The following screenshot shows the types of columns that you can create in a SharePoint list or library.
+SharePoint Online is a popular connector for Power Automate because of its user-friendly features that allow you to create the tables (or lists) to store data and the libraries to store documents. The following screenshot shows the types of columns that you can create in Microsoft Lists or a SharePoint library.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the types of columns, including Single line of text, Multiple lines, Choice, Number, Currency, Date and Time, Lookup, and more.](../media/1-1-columns.png)](../media/1-1-columns.png#lightbox)
 
-The **Automate** feature allows you to create flows and it is built into every SharePoint list and library.
+The **Automate** feature allows you to create flows and it is built into all Microsoft Lists and SharePoint libraries.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of SharePoint with the Automate button selected to show the Power Automate option.](../media/1-2-automate.png)](../media/1-2-automate.png#lightbox)

@@ -12,9 +12,8 @@ Now that you have reviewed this module, you should be able to:
 
 
 
-| | |
-| - | - |
 | ![Icon of lightbulb](../media/key-takeaway.png)| Here are the four key takeaways: |
+| - | - |
 | | 1. Power Automate is a web-based service for automating your business processes. |
 | | 2. Power Automate has different offerings to meet your needs. Event-driven flows, business process flows, and desktop flows each have their own unique properties. | 
 | | 3. Power Automate can connect to hundreds of data sources with the built-in connectors or you can build your own custom connectors. |

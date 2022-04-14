@@ -160,4 +160,4 @@ To elaborate, whenever someone selects the **Sign-in** button, a new record will
 As you can see, Patch is flexible and powerful. Patch has even more
 capabilities including the ability to update multiple records and merge
 records. For more information about these scenarios, see
-[Patch function in Power Apps](/powerapps/maker/canvas-apps/functions/function-patch/?azure-portal=true).
+[Patch function in Power Apps](/power-apps/maker/canvas-apps/functions/function-patch/?azure-portal=true).

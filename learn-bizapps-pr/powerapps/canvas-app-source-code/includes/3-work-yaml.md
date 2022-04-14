@@ -28,7 +28,7 @@ For more information, see [Microsoft Power Fx YAML Formula Grammar](/power-platf
 
 ## Folder structure
 
-When you unpack a canvas app, a [set of files and folders](/powerapps/developer/data-platform/powerapps-cli?azure-portal=true#folder-structure) will be created. After running the unpack process, you will find the following key files and folders:
+When you unpack a canvas app, a [set of files and folders](/power-apps/developer/data-platform/powerapps-cli?azure-portal=true#folder-structure) will be created. After running the unpack process, you will find the following key files and folders:
 
 - **\src** - The control and component files. This file contains the sources.
 
@@ -64,4 +64,4 @@ If you create the app in the cloud, download it, and then edit it, know that whe
 
 In this scenario, to avoid overwriting and losing work that was done online, you should download the app from the cloud again, unpack it, commit the file changes, resolve conflicts, and then repack and upload the new app. Make sure that the source control contains the main copy of your app.
 
-Conflicts will occur because multiple people are editing concurrently. For example, if two people picked the same control name on different screens, it would create a merge conflict. For more information, see [Microsoft Power Platform CLI documentation](/powerapps/developer/data-platform/powerapps-cli?azure-portal=true#merging-changes-with-power-apps-studio).
+Conflicts will occur because multiple people are editing concurrently. For example, if two people picked the same control name on different screens, it would create a merge conflict. For more information, see [Microsoft Power Platform CLI documentation](/power-apps/developer/data-platform/powerapps-cli?azure-portal=true#merging-changes-with-power-apps-studio).

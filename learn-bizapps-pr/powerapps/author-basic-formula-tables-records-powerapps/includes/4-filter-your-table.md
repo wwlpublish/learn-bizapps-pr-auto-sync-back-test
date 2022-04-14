@@ -30,4 +30,4 @@ records only. You can use this method to reduce the amount of data
 displayed in your app. This makes for a better user experience
 and better performance. For more information and to see
 other uses of the **Filter** function,
-see [Filter, Search, and LookUp functions in Power Apps](/powerapps/maker/canvas-apps/functions/function-filter-lookup/?azure-portal=true).
+see [Filter, Search, and LookUp functions in Power Apps](/power-apps/maker/canvas-apps/functions/function-filter-lookup/?azure-portal=true).
