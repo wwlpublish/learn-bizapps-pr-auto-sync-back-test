@@ -34,7 +34,7 @@ Use these resources to discover more.
 
 - [Common Data Model](/business-applications-release-notes/april19/cdm-data-integration/common-data-model-cdm)
 
-- [Licensing](https://download.microsoft.com/download/9/5/6/9568EFD0-403D-4AE4-95F0-7FACA2CCB2E4/Power%20Apps%20and%20Power%20Automate%20Licensing%20Guide%20-%20Nov%202019.pdf)
+- [Licensing](/power-platform/admin/pricing-billing-skus)
 
 ### Tables, columns, and relationships
 
