@@ -1,9 +1,9 @@
-Microsoft Power Platform is made powerful by its ability to leverage data across many
-platforms. To do this, components of Microsoft Power Platform use connectors. You can
-think of connectors as a bridge from your data source to your app or workflow
-which allows information to be conveyed back and forth. Connectors allow you to
-extend your business solutions across platforms and add functionality for your
-users.
+Microsoft Power Platform is made powerful by its ability to leverage data across
+many platforms. To do this, components of Microsoft Power Platform use
+connectors. You can think of connectors as a bridge from your data source to
+your app or workflow which allows information to be conveyed back and forth.
+Connectors allow you to extend your business solutions across platforms and add
+functionality for your users.
 
 ## Data Sources
 
@@ -35,14 +35,14 @@ Now that you understand more about data sources, you are ready to learn about
 connectors.
 
 **Connectors** are the bridges from your data source to your app, workflow, or
-dashboard. Microsoft Power Platform has more than 275 connectors available to common
-data sources. Connectors are divided into standard and premium. Some popular
-standard connectors are SharePoint, Outlook, and YouTube. Premium connectors
-require additional licensing for your app and/or users. A few premium connectors
-are SQL Server, Survey Monkey, and Mail Chimp. The connector reference in the
-summary and resources unit lists all connectors and whether they are considered
-standard or premium. You can also use AppSource to source and install apps and
-use the connectors to non-Microsoft services.
+dashboard. Microsoft Power Platform has more than 600 connectors available to
+common data sources. Connectors are divided into standard and premium. Some
+popular standard connectors are SharePoint, Outlook, and YouTube. Premium
+connectors require additional licensing for your app and/or users. A few premium
+connectors are SQL Server, Survey Monkey, and Mail Chimp. The connector
+reference in the summary and resources unit lists all connectors and whether
+they are considered standard or premium. You can also use AppSource to source
+and install apps and use the connectors to non-Microsoft services.
 
 Connectors can provide input and output between the data source and Power
 Platform, which can accelerate the delivery of Microsoft Power Platform business
@@ -53,9 +53,9 @@ into Power Apps to manage and distribute. Microsoft also provides connectors to
 their Azure services, providing advanced AI techniques to do tasks such as
 reading text off images or cognitive services like recognizing faces in images.
 
-All Microsoft Power Platform business solutions can be used and implemented into Microsoft
-365 apps such as Teams. This allows users to play Power Apps within Teams or run
-Power Automate from actions and events within Teams.
+All Microsoft Power Platform business solutions can be used and implemented into
+Microsoft 365 apps such as Teams. This allows users to play Power Apps within
+Teams or run Power Automate from actions and events within Teams.
 
 ## Triggers and Actions
 
@@ -78,9 +78,9 @@ what to do when there isn't a connector already built for your data source.
 
 ## Custom Connectors
 
-While Microsoft Power Platform offers more than 200 connectors, you also have the
-option to build a custom connector. This will allow you to extend your app by
-calling a publicly available API, or a custom API you are hosting in a cloud
+While Microsoft Power Platform offers more than 600 connectors, you also have
+the option to build a custom connector. This will allow you to extend your app
+by calling a publicly available API, or a custom API you are hosting in a cloud
 provider, such as Azure. API stands for Application Programming Interface and
 holds a series of functions available for developers. Connectors work by sending
 information back and forth across these APIs and gathering available functions
@@ -95,19 +95,21 @@ platforms, such as Power Apps, Power Automate, and Azure Logic Apps.
 
 You can create custom connectors using 3 different approaches:
 
--   [Using a blank custom connector](/connectors/custom-connectors/define-blank)
+-   [Using a blank custom
+    connector](https://docs.microsoft.com/connectors/custom-connectors/define-blank)
 
--   [From an OpenAPI definition](/connectors/custom-connectors/define-openapi-definition)
+-   [From an OpenAPI
+    definition](https://docs.microsoft.com/connectors/custom-connectors/define-openapi-definition)
 
--   [From a Postman collection](/connectors/custom-connectors/define-postman-collection)
+-   [From a Postman
+    collection](https://docs.microsoft.com/connectors/custom-connectors/define-postman-collection)
 
 While the requirements for each approach will vary, they all require a Power
 Apps per app or per user plan. Each link above points to the instructions for
 each approach.
 
->[!NOTE]
->The purpose of this module is to help you better understand data sources and
-connectors as a whole, but if you would like to learn more about custom
-connectors and even walk through an exercise to build one, check out the module
-[Use custom connectors in a Power Apps canvas app](/learn/modules/use-custom-connectors-in-powerapps-canvas-app/).
-
+>   [!NOTE] The purpose of this module is to help you better understand data
+>   sources and connectors as a whole, but if you would like to learn more about
+>   custom connectors and even walk through an exercise to build one, check out
+>   the module [Use custom connectors in a Power Apps canvas
+>   app](https://docs.microsoft.com/learn/modules/use-custom-connectors-in-powerapps-canvas-app/).
