@@ -72,7 +72,7 @@ In this task, you'll create the **Salesperson** table (direct relationship to **
 
     * UPN
 
-1. In the diagram, select the **Salesperson** table.
+1. In the model diagram, select the **Salesperson** table.
 
 1. In the **Properties** pane, in the **Description** box, enter: **Salesperson related to a sale**
 
@@ -229,11 +229,11 @@ In this task, you'll complete the design of the **Date** table by hiding a colum
 
 1. In the **Date** table, hide the **MonthKey** column.
 
-1. In the **Date** table, create a hierarchy named **Fiscal**, with the following three levels:
+1. On the Fields right side pane, select the **Date** table, right click on the **Year** column, and select **create hierarchy**.
 
-    * Year
-    * Quarter
-    * Month
+1. Rename the newly created hierarchy to **Fiscal** by right click and **Rename**
+
+1. Add the following two remaining field to the Fiscal hierarchy by selecting them in the fields pane, right clicking, and selecting **Add to hierarchy** -> **Fiscal**
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Date hierarchy.](../media/lab-6-23-ssm.png)](../media/lab-6-23-ssm.png#lightbox)
