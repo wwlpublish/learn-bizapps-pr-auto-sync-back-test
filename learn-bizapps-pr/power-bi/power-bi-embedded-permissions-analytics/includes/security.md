@@ -108,5 +108,4 @@ When using the *For your customers* scenario, role mapping is done by the app at
 For more information about setting up RLS, see:
 
 -   [Row-level security (RLS) with Power BI](/power-bi/enterprise/service-admin-rls/?azure-portal=true)
-
 -   [Row-level security (RLS) guidance in Power BI Desktop](/power-bi/guidance/rls-guidance/?azure-portal=true)
