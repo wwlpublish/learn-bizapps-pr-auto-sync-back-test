@@ -14,17 +14,11 @@ When using the workspace separation model, start by creating a *golden workspace
 The automation solution can use the following steps to onboard a new tenant:
 
 1.  Use Microsoft Graph to create a service principal.
-
 1.  Use the Power BI REST API to add the service principal as a contributor to the golden workspace.
-
 1.  Using the new service principal, use the Power BI REST API to:
-
     1.  Create a workspace for the new tenant.
-
     1.  Replicate the golden workspace content to the new workspace.
-
     1.  Update the dataset connections to connect to the tenant data.
-
     1.  Assign the new workspace to a capacity.
 
 > [!NOTE]

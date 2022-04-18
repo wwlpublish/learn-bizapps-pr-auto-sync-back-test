@@ -5,9 +5,7 @@ When developing apps that embed Power BI content, there are many opportunities t
 There are three automation libraries that you can use:
 
 -   Microsoft Graph
-
 -   Power BI REST API
-
 -   Power BI Embedded Azure Resource Manager (ARM) REST API
 
 ## Microsoft Graph
@@ -23,13 +21,9 @@ Install-Module -Name AzureAD
 The following code blocks contribute to the first part of a PowerShell setup script to set up security objects for a new app that embeds Power BI content. Specifically, the code blocks show how to:
 
 1.  Generate an Azure AD app secret.
-
 1.  Create an Azure AD app registration.
-
 1.  Create the Azure AD app registration's service principal.
-
 1.  Assign the current user as the Azure AD app registration owner.
-
 1.  Add the service principal to the **Power BI Apps** security group.
 
 The first code block initializes two variables. The `$appDisplayName` variable stores the new Azure AD app name; the `$adSecurityGroupName` variable stores the name of an existing security group. In the Power BI tenant settings, a Power BI admin has already assigned this security group when allowing the use of service principals.
@@ -103,11 +97,8 @@ Add-AzureADGroupMember -ObjectId $($adSecurityGroup.ObjectId) `
 The following script variables contain useful information for your app. Their values should be output and added to the app's config file.
 
 -   `$tenantDomain` - Required to authenticate with Azure AD.
-
 -   `$tenantId` - Required to authenticate with Azure AD.
-
 -   `$appId` - Required to generate an Azure AD access token.
-
 -   `$appSecret` - Required to generate an Azure AD access token. However, secrets shouldn't be deployed with the app. Instead, they should be accessed through a controlled means like environment variables or Azure Key Vault. For more information, see [Safe storage of app secrets in development in ASP.NET Core](/aspnet/core/security/app-secrets/?azure-portal=true).
 
 The `$serviceServicePrincipalObjectId` variable stores a reference to the new service principal. In the next topic, a continuation of the script will use this variable.
@@ -117,11 +108,8 @@ The `$serviceServicePrincipalObjectId` variable stores a reference to the new se
 The [Power BI REST API](/rest/api/power-bi/?azure-portal=true) provides service endpoints for embedding, administration, governance, and user resources. Of relevance to automating Power BI solutions, the Power BI REST API can:
 
 -   Create workspaces.
-
 -   Assign a workspace to a capacity.
-
 -   Set up workspace access.
-
 -   Create and set up Power BI content.
 
 The following script shows how to install the Power BI management module in PowerShell. For more information, see [Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell Core](/powershell/power-bi/overview?view=powerbi-ps/?azure-portal=true).
@@ -133,9 +121,7 @@ Install-Module -Name MicrosoftPowerBIMgmt
 The following code blocks contribute to the second part of a PowerShell setup script. It's a continuation of the script described in the previous topic. The code blocks set up the Power BI environment. Specifically, they show how to:
 
 1.  Create a workspace.
-
 1.  Add a service principal as the workspace admin.
-
 1.  Import a Power BI Desktop file to create a dataset and report.
 
 The first code block initializes two variables. The `$workspaceName` variable stores the new workspace name; the `$pbixFilePath` variable stores the file path to a Power BI Desktop file.
