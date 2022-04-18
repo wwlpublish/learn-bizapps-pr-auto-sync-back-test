@@ -1,7 +1,6 @@
 Two scenarios that you should consider when programmatically embedding Power BI content are:
 
 -   For your organization
-
 -   For your customer
 
 Your app will use only one of these scenarios when embedding Power BI content. The appropriate embedding scenario is determined by the app audience, as described in the following topics.

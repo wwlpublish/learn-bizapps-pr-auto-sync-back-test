@@ -1,9 +1,7 @@
 Purchasing licenses involves cost, so it's important that you avoid or minimize cost when evaluating or developing (or testing) a Power BI embedded analytics solution. Several options are available for you to consider:
 
 -   Create a trial tenant.
-
 -   Use an existing tenant without a capacity-based license.
-
 -   Use an existing tenant with a capacity-based license.
 
 ## Trial tenant
@@ -13,7 +11,6 @@ Occasionally, you can achieve Power BI embedding for your customers at no cost. 
 Two main advantages of using a trial tenant are:
 
 -   It's isolated from the organization's tenant (or the customer's tenant).
-
 -   You have full tenant privileges as the Global Administrator.
 
 Power BI offers a 60-day free trial of the PPU license to individual users. Therefore, you can create a Power BI workspace and publish content that's ready for embedding at no cost.
@@ -34,11 +31,8 @@ When longer evaluation periods are needed, or when a permanent development envir
 This low-resourced node:
 
 -   Is ideal for evaluation, development, and test workloads.
-
 -   Is helpful to establish benchmarks when capacity sizing.
-
 -   Can be scaled up or down when needed.
-
 -   Can be paused when not needed (billing ceases when paused).
 
 For more information, see [Power BI Embedded pricing](https://azure.microsoft.com/pricing/details/power-bi-embedded/?azure-portal=true).

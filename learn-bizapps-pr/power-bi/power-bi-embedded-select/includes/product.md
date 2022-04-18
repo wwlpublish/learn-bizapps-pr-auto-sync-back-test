@@ -1,7 +1,6 @@
 When embedding Power BI content by using the *For your customer* scenario, you need to ensure that content resides in a workspace that has one of the following license modes:
 
 -   **Premium per capacity** - This license mode is available with Power BI Premium.
-
 -   **Embedded** - This license mode is available with Power BI Embedded.
 
 Each license mode option requires the purchase of a billable product that is a *capacity-based* license. A capacity-based license allows you to create *reserved capacities*.
@@ -29,7 +28,6 @@ Premium is available from the Microsoft 365 admin center, and administrators man
 For more information, see the following articles:
 
 -   [What is Power BI Premium?](/power-bi/admin/service-premium-what-is/?azure-portal=true)
-
 -   [What is Power BI Premium Gen2?](/power-bi/admin/service-premium-gen2-what-is/?azure-portal=true)
 
 ## Power BI embedded
@@ -39,9 +37,7 @@ Power BI Embedded is a capacity-based license. It's designed specifically for us
 Compared with Premium, Power BI Embedded has other limitations. Specifically, its workspace content can't be:
 
 -   Consumed in the Power BI service.
-
 -   Consumed by Power BI free licensed users.
-
 -   Shared or embedded by using Microsoft SharePoint, Microsoft Teams, or URL embedding, or Publish to web (sometimes known SaaS embedding).
 
 To embed Power BI content for your customers by using Power BI Embedded, make sure that the content resides in a workspace and that its license mode is set to **Embedded**. When set to that mode, the workspace is assigned to a Power BI Embedded capacity.
@@ -58,7 +54,6 @@ Unique to Power BI Embedded is integration with [Microsoft Azure Monitor](https:
 For more information, see the following articles:
 
 -   [Power BI Embedded](https://azure.microsoft.com/services/power-bi-embedded/?azure-portal=true)
-
 -   [Power BI Embedded Generation 2](/power-bi/developer/embedded/power-bi-embedded-generation-2/?azure-portal=true)
 
 ## Product comparison

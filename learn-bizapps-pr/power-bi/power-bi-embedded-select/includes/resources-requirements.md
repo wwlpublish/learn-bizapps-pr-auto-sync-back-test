@@ -12,11 +12,8 @@ To reduce costs, you need to undergo capacity planning. The capacity planning pr
 For more information, see the following articles:
 
 -   [SKU memory and computing power](/power-bi/developer/embedded/embedded-capacity?tabs=gen2?azure-portal=true#sku-memory-and-computing-power) (make sure that you read about the [Embedded Gen2 memory enhancements](/power-bi/developer/embedded/embedded-capacity?tabs=gen2?azure-portal=true#embedded-gen-2-memory-enhancements))
-
 -   [Power BI pricing](https://powerbi.microsoft.com/pricing/?azure-portal=true)
-
 -   [Power BI Embedded pricing](https://azure.microsoft.com/pricing/details/power-bi-embedded/?azure-portal=true)
-
 -   [Optimizing Premium capacities](/power-bi/admin/service-premium-capacity-optimize/?azure-portal=true)
 
 ## Premium autoscale
@@ -28,7 +25,6 @@ An Azure subscription is required to set up Autoscale. It's used to automaticall
 For more information, see the following articles:
 
 -   [What is Power BI Premium Gen2?](/power-bi/admin/service-premium-gen2-what-is/?azure-portal=true)
-
 -   [Using Autoscale with Power BI Premium](/power-bi/admin/service-premium-auto-scale/?azure-portal=true)
 
 ## Power BI embedded flexible scale
@@ -36,15 +32,11 @@ For more information, see the following articles:
 Power BI Embedded doesn't support the Autoscale feature. Instead, you can set up flexible scaling by using the following components:
 
 -   The Power BI Embedded Azure Resource Manager (ARM) REST API, and specifically, the [Capacity operations](/rest/api/power-bi-embedded/capacities/?azure-portal=true). You can use the [Update](/rest/api/power-bi-embedded/capacities/update/?azure-portal=true) operation to scale a capacity resource. For example, when a sudden increase in demand occurs for computational resources, you can scale up the capacity from A1 to A2 to double the number of v-cores. You can also pause and resume the service.
-
 -   The Power BI Embedded Gen2 [capacity metrics](/power-bi/developer/embedded/monitor-power-bi-embedded-reference?azure-portal=true#capacities). You can monitor and react to metrics such as CPU, CPU per workload, and Overload to measure demand for computational resources.
-
 -   [Azure alerts](/azure/azure-monitor/alerts/alerts-overview/?azure-portal=true), to receive proactive notifications of conditions or issues. You can create (or trigger) alerts in response to metric values, like CPU or Overload.
 
 For more information, see the following articles:
 
 -   [Power BI Embedded Azure Resource Manager REST API reference](/rest/api/power-bi-embedded/?azure-portal=true)
-
 -   [Monitoring Power BI Embedded data reference (Capacities)](/power-bi/developer/embedded/monitor-power-bi-embedded-reference?azure-portal=true#capacities)
-
 -   [Overview of alerts in Microsoft Azure](/azure/azure-monitor/alerts/alerts-overview/?azure-portal=true)
