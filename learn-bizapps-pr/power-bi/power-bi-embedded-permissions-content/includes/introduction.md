@@ -34,13 +34,9 @@ Once your app acquires an Azure AD token, it caches it and then uses it to gener
 Specifically, an embed token describes:
 
 - Claims to specific Power BI content.
-
 - Access level, which you set to view, create, or edit. (The create and edit levels apply only to Power BI reports.)
-
 - Token lifetime, which determines when the token expires.
-
 - Optionally, a claim to a target workspace for saving new reports.
-
 - Optionally, one or more effective identities so Power BI can enforce data permissions.
 
 > [!NOTE]
@@ -62,7 +58,6 @@ Your app can use a *service principal* to acquire an Azure AD token. An Azure se
 When your app's embedding identity is a service principal, a Power BI tenant admin must first:
 
 - Enable use of service principals.
-
 - Register a security group that contains them.
 
 The following image shows the **Developer settings** (found in the tenant settings of the admin portal) where a Power BI admin can enable service principals to use Power BI APIs.
@@ -81,7 +76,6 @@ In Power BI, the service principal must belong to the workspace **admin** or **m
 For more information, see:
 
 - [Application and service principal objects in Azure Active Directory (Service principal object)](/azure/active-directory/develop/app-objects-and-service-principals?azure-portal=true#service-principal-object).
-
 - [Embed Power BI content with service principal and a certificate](/power-bi/developer/embedded/embed-service-principal-certificate/?azure-portal=true)
 
 ### Use a master user account

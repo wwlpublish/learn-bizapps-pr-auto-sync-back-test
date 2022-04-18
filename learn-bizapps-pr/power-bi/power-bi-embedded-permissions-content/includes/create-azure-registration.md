@@ -16,9 +16,7 @@ Whether using certificates or client secrets, you should take steps to protect c
 You have three options to create an app registration:
 
 - Use the Azure portal.
-
 - Use the Embedding setup tool.
-
 - Develop a PowerShell script.
 
 ### Use the Azure portal
@@ -53,15 +51,10 @@ To simplify and accelerate setting up your development environment, use the [Emb
 The tool takes the hard work out of getting set up. It takes only minutes to work through the Wizard-like workflow. When you're done, the tool automatically:
 
 - Creates an Azure AD app registration and requests relevant Power BI REST API permissions.
-
 - Optionally creates a workspace.
-
 - Optionally imports a dataset and report into the workspace. You can import a sample report or you can upload a Power BI Desktop (.pbix) file of your choice.
-
 - Grants permissions to avoid Azure AD prompting for consent.
-
 - Returns important configuration values, including the ApplicationID, workspace ID (GroupID), and ReportID.
-
 - Creates a sample ASP.NET app written in C# that you can download as a zip file. The app's config file contains all configuration values (described in the previous bullet item) but doesn't include the master user account or its credentials. You must enter those config values.
 
 This is great news for you as a novice Power BI embedded analytics developer. First, you can obtain a functional app in minutes. Second, Microsoft developed the sample apps by using current software libraries and good design practices. So you can reverse-engineer them to understand how they work and learn from them. It's up to you whether you choose to continue developing the app or to start from scratch and develop a new app by applying your new skills.

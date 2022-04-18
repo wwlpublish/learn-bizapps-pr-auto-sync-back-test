@@ -3,7 +3,6 @@ When you acquire an access token, which your app always requires to embed Power 
 To be clear:
 
 - The access token for the *For your organization* scenario is the **Azure AD token**, which contains claims that your app uses to identify granted permissions.
-
 - The access token for the *For your customers* scenario is an **embed token**, which represents facts about Power BI content and how your app can access them. Your app generates the embed token by using a Power BI REST API operation, which requires an Azure AD token.
 
 ## Acquire Azure AD tokens
@@ -23,13 +22,9 @@ It's not the intention of this unit to describe the techniques that acquire Azur
 To allow your app to acquire Azure AD tokens, its config file should contain the following settings:
 
 - `TenantId` - Required for service principal only. It's your Azure AD TenantID.
-
 - `ClientId` - Required. It's your Azure AD app ApplicationID (ClientID).
-
 - `ClientSecret` or `ClientCertificate` - Required for service principal only.
-
 - `PbiUsername` - Required for master user account only.
-
 - `PbiPassword` - Required for master user account only.
 
 > [!Important]
@@ -45,21 +40,13 @@ Use the `GenerateTokenRequestV2` operation of the [Microsoft Power BI REST API](
 Consider the following code that shows how to generate an embed token. The token contains claims for all reports and datasets from a workspace, and allows app users to create or edit reports. Specifically, it does the following:
 
 1. Connects to Power BI.
-
 1. Declares a variable named `reportTokenRequests` to store report token requests.
-
 1. Enumerates all reports in the workspace, creating a list of `EmbeddedReport` objects (using a helper class). Each object describes the report's ID, name, and embed URL. The app requires the report ID to generate a token; the name is required to present to users in a menu; and the embed URL is required to embed the report. The code adds a report token request, allowing report editing, to the `reportTokenRequests` variable.
-
 1. Declares a variable named `datasetTokenRequests` to store dataset token requests.
-
 1. Enumerates all datasets in the workspace, creating a list of `EmbeddedDataset` objects (using a helper class). Each object describes the dataset's ID, name, and embed URL. The app requires the dataset's ID to generate a token. The name may be required to present it to users in a menu. And the embed URL is required to embed the dataset. The code adds a dataset token request to the `datasetTokenRequests` variable.
-
 1. Generates a workspace token request (required when users create reports) that's added to the `workspaceRequests` variable.
-
 1. Uses the `GenerateTokenRequestV2` method to bundle together the report token requests, dataset token requests, and the workspace token request.
-
 1. Uses `GenerateTokenAsync` to generate an embed token.
-
 1. Stores the embed token in a string variable.
 
 ```csharp
