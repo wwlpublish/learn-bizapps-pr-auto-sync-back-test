@@ -9,7 +9,7 @@ The build option might seem promising, but it has three strong disadvantages: it
 Microsoft Power BI is a leading data analytics service. Today, many people are familiar with Power BI because they interact with reports in the Power BI service or Power BI mobile apps. The great news for developers is that any type of Power BI content can be programmatically embedded in their apps.
 
 > [!div class="mx-imgBorder"]
-> ![Image showing a touch device with an app that embeds a Power BI report.](../media/power-bi-embedded-analytics.png)
+> [ ![Image showing a touch device with an app that embeds a Power BI report.](../media/power-bi-embedded-analytics.png)](../media/power-bi-embedded-analytics.png#lightbox)
 
 You can embed Power BI content in any app by using an HTML `iframe` element. Developers rely on web standards, including HTML5 and JavaScript, to achieve embedding and integration with app functionality. Therefore, any internet-connected HTML app can embed Power BI content. Apps can include web apps, mobile apps, and even thick client apps.
 
