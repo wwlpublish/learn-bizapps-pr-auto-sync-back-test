@@ -34,6 +34,8 @@ roles:
 products:   
 - power-bi 
 - power-platform
+subject:
+ - data-visualization
 units: 
 - learn-bizapps.data-driven-story-power-bi.1-introduction 
 - learn-bizapps.data-driven-story-power-bi.2-report-layout 
