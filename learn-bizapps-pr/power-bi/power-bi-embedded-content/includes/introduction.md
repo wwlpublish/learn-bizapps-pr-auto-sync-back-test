@@ -1,15 +1,10 @@
 To embed Power BI content in your app, you need to complete the following development tasks.
 
 1.  Add the client library to programmatically control embedding.
-
 1.  Include the client library.
-
 1.  Add an embedding container.
-
 1.  Output server-side generated facts.
-
 1.  Set up a configuration object.
-
 1.  Embed the Power BI content.
 
 ## Add the client library
@@ -19,9 +14,7 @@ Use the Power BI client API to embed Power BI content by using JavaScript or Typ
 The APIs comprises three packages:
 
 -   **powerbi-client** - Includes all APIs that embed content, except for those found in the **powerbi-report-authoring** library (described below).
-
 -   **powerbi-models** - Contains object models. Each model has a TypeScript interface, a JSON schema definition, and a validation function to ensure a given object is a valid model.
-
 -   **powerbi-report-authoring** - An extension for creating and personalizing visuals, and authoring a Power BI report after it's loaded. It also allows your app to programmatically edit embedded Power BI reports.
 
 You can install the Power BI client API library using NuGet or npm.
@@ -85,11 +78,8 @@ Your app must create a configuration object to provide all the information requi
 -   `tokenType` - It's either `models.TokenType.Aad` when using the *For your organization* scenario (the access token is an Azure AD token), or `models.TokenType.Embed` when using the *For your customers* scenario (the access token is an embed token).
 
 -   `accessToken` - The server-side generated access token.
-
 -   `type` - It's either **report** (for Power BI report or paginated report), **visual** (for a Power BI report visual), **dashboard** (for a dashboard), **tile** (for a dashboard tile), or **qna** (for the Q&A experience). Units 2 and 3 describe how to embed each type of Power BI content.
-
 -   `id` - The Power BI artifact ID.
-
 -   `embedUrl` - The Power BI artifact embed URL. This URL becomes the source of the `iframe` element that hosts the embedded artifact. Specifically, the API assigns the URL to the `src` attribute of the `iframe` element.
 
 The following code shows how to create a configuration object to embed a Power BI report by using the *For your customers* scenario. `models` is a reference to the client library models, which contain useful enumeration types (enums).

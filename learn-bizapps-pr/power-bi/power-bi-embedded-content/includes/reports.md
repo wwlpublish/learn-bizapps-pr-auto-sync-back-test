@@ -3,9 +3,7 @@ Power BI reports are the most commonly embedded content type because of the larg
 You can embed a Power BI report in three different modes:
 
 -   Embed an existing Power BI report
-
 -   Edit an embedded report
-
 -   Embed a new Power BI report
 
 For each mode, you can set many configuration object properties to specify precisely how the app presents the report. The `type` property of the configuration object is always set to **report**.
@@ -15,21 +13,13 @@ For each mode, you can set many configuration object properties to specify preci
 When embedding an existing report, use a configuration object of type `IReportLoadConfiguration`. In addition to the required properties (described in Unit 1), your app can set the following optional properties.
 
 -   `contrastMode` and `theme` - Optional. Control the theme and contrast level that your embedded content uses. By default, any content that you embed appears with the default theme and with zero contrast. You can override this behavior by configuring a specific theme or contrast level. For more information, see [Themes and high-contrast mode](/javascript/api/overview/powerbi/configure-report-settings?azure-portal=true#themes-and-high-contrast-mode).
-
 -   `pageName` - Optional. Controls which page of the embedded report appears initially. When not set, it will open the selected page when the author last saved the report.
-
 -   `filters` - Optional. Sets filter state. Consider setting filter state based on the app context, perhaps to filter by the sales region of the app user. For more information, see [Control report filters](/javascript/api/overview/powerbi/control-report-filters/?azure-portal=true).
-
 -   `slicers` - Optional. Like filters, it's possible to set slicer state. For more information, see [Control report slicers](/javascript/api/overview/powerbi/control-report-slicers/?azure-portal=true).
-
 -   `bookmark` - Optional. Apply a specific [bookmark](/power-bi/consumer/end-user-bookmarks/?azure-portal=true).
-
 -   `datasetBinding` - Optional. Connects the report to a different dataset that defines the data schema that the embedded report connects to. For more information, see [Bind datasets dynamically to a report](/javascript/api/overview/powerbi/bind-report-datasets/?azure-portal=true).
-
 -   `permissions` - Optional. Grants operations that the user can do. Operation options include create, view, edit, save, or save a copy of the report. Editing and creating reports is covered later in this unit.
-
 -   `viewMode` - Optional. Determines whether the report opens in view mode (default) or edit mode. As described above, your app must grant edit permissions to enable edit mode.
-
 -   `settings` - Optional. Adjusts the appearance and behavior of the report. You can show and expand open panes to work with bookmarks, fields, filters, page navigation, selection, sync slicers, or visualizations. You can also set the [layout type to mobile view](/javascript/api/overview/powerbi/mobile/?azure-portal=true), or set locale settings, which specify the language and formatting of the report. For more information, see [Customize settings](/javascript/api/overview/powerbi/configure-report-settings?azure-portal=true#customize-settings).
 
 > [!NOTE]
