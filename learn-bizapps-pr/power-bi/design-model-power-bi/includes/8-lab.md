@@ -341,7 +341,7 @@ In this task, you will configure the **Sales** table.
 
 In this task, you will update multiple columns in a single bulk update. You will use this approach to hide columns, and format column values.
 
-1. While pressing the **Ctrl** key, select the following 13 columns (spanning multiple tables):
+1. While pressing the **Ctrl** key, select the following 14 columns (spanning multiple tables):
 
     - Product | ProductKey
 
