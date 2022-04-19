@@ -1,7 +1,7 @@
 ### YamlMime:Module 
 uid: learn-bizapps.pad-custom-forms 
 metadata: 
- title: Request user input using custom forms
+ title: Request multiple user inputs using custom forms
  description: Learn how to design custom forms to request multiple types of data in a single dialog.
  ms.date: 04/19/2022  
  author: mariosleon  
@@ -11,10 +11,10 @@ metadata:
 title: Request user input using custom forms
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  Custom forms enables you to interact with the flow user and request multiple types of data in a single customizable dialog.
+  Custom forms allow the desktop flow to interact with the users and request multiple types of data in a single customizable dialog.
 abstract: |  
     In this module, you will: 
-    - Design a custom form scratch
+    - Design a custom form from scratch
     - Access the provided form data and use them in other actions in your desktop flow
     - Visually customize a custom form
 prerequisites: 
