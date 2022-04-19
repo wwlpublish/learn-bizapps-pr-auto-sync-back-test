@@ -8,7 +8,7 @@ metadata:
  ms.author: marleon  
  ms.topic: interactive-tutorial  
  ms.prod: learning-power-automate  
-title: Request user input using custom forms
+title: Request multiple user inputs using custom forms
 summary: |  
   [!include[](../includes/module-banner.md)] 
   Custom forms allow the desktop flow to interact with the users and request multiple types of data in a single customizable dialog.
