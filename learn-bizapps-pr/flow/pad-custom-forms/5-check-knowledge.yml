@@ -1,0 +1,29 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-custom-forms.5-check-knowledge 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/19/2022 
+ author: mariosleon 
+ ms.author: marleon 
+ ms.topic: interactive-tutorial 
+ ms.prod: learning-power-automate 
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: YourQuestion
+    choices: 
+    - content: YourAnswer
+      isCorrect: true 
+      explanation: YourExplanation
+    - content: YourAnswer
+      isCorrect: false 
+      explanation: YourExplanation
+    - content: YourAnswer
+      isCorrect: false 
+      explanation: YourExplanation
+    - content: YourAnswer
+      isCorrect: false 
+      explanation: YourExplanation
