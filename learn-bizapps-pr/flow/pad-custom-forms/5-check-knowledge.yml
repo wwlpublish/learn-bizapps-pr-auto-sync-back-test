@@ -13,17 +13,35 @@ durationInMinutes: 5
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: YourQuestion
+  - content: "Custom forms can request input of a single data type per dialog."
     choices: 
-    - content: YourAnswer
+    - content: "True"
+      isCorrect: false 
+      explanation: "Custom forms can request multiple types of data in a single dialog."
+    - content: "False"
       isCorrect: true 
-      explanation: YourExplanation
-    - content: YourAnswer
+      explanation: "Custom forms can request multiple types of data in a single dialog."
+  - content: "All custom form elements provides the same properties."
+    choices: 
+    - content: "True"
       isCorrect: false 
-      explanation: YourExplanation
-    - content: YourAnswer
+      explanation: "Each custom form element provides different properties based on its nature."
+    - content: "False"
+      isCorrect: true 
+      explanation: "Each custom form element provides different properties based on its nature."
+  - content: "The %CustomFormData['ElementID']% expression allows you to check which action has been selected in the custom form."
+    choices: 
+    - content: "True"
       isCorrect: false 
-      explanation: YourExplanation
-    - content: YourAnswer
+      explanation: "The %CustomFormData['ElementID']% expression allows you to access the provided data. To check which action has been selected, you must use the ButtonPressed variable."
+    - content: "False"
+      isCorrect: true 
+      explanation: "The %CustomFormData['ElementID']% expression allows you to access the provided data. To check which action has been selected, you must use the ButtonPressed variable."
+- content: "two custom form elements can have the same ID."
+    choices: 
+    - content: "True"
       isCorrect: false 
-      explanation: YourExplanation
+      explanation: "Each custom form element must have a unique ID."
+    - content: "False"
+      isCorrect: true 
+      explanation: "Each custom form element must have a unique ID."

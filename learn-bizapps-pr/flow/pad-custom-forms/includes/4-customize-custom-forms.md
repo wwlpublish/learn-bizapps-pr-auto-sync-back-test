@@ -1,5 +1,3 @@
-## Customize forms
-
 Apart from the **ID** property, custom forms offer a wide variety of other properties for each element. In this section, you'll use some of these properties to customize the previously created form. 
 
 Before customizing any specific element, select the blank workspace in the custom form designer to access the main dialog's properties.
