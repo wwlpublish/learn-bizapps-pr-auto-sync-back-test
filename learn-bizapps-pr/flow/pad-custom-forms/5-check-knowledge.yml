@@ -37,11 +37,11 @@ quiz:
     - content: "False"
       isCorrect: true 
       explanation: "The %CustomFormData['ElementID']% expression allows you to access the provided data. To check which action has been selected, you must use the ButtonPressed variable."
-- content: "two custom form elements can have the same ID."
-    choices: 
-    - content: "True"
-      isCorrect: false 
-      explanation: "Each custom form element must have a unique ID."
-    - content: "False"
-      isCorrect: true 
-      explanation: "Each custom form element must have a unique ID."
+  - content: "two custom form elements can have the same ID."
+      choices: 
+      - content: "True"
+        isCorrect: false 
+        explanation: "Each custom form element must have a unique ID."
+      - content: "False"
+        isCorrect: true 
+        explanation: "Each custom form element must have a unique ID."
