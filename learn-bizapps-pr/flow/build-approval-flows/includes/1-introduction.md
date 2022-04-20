@@ -3,9 +3,8 @@ In the previous module for Power Automate, you learned how to build basic flows 
 > [!div class="mx-imgBorder"]
 > ![Diagram of flow with cube, comment bubble, cloud, email, and spreadsheet.](../media/flow-plan.png)
 
-In this module, you will build approval flows and increase your knowledge.
 
-If you're a beginner with Power Automate, this module will expand your business flow skills. If you already have some experience, this module will tie concepts together and hopefully help fill in the gaps.
+If you're a beginner with Power Automate, this module will expand your business flow skills. If you already have some experience, this module will tie concepts together and help fill in the gaps.
 
 Be more productive, automatically, that's what Power Automate is all about.
 

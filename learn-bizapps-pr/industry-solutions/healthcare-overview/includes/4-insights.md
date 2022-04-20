@@ -34,7 +34,7 @@ Dataverse provides a more secure way for you to store and manage data that's use
 > [!div class="mx-imgBorder"]
 > [![Screenshot of Dataverse tables.](../media/dataverse.png)](../media/dataverse.png#lightbox)
 
-For more information, see [Microsoft Dataverse documentation](/powerapps/maker/data-platform/?azure-portal=true).
+For more information, see [Microsoft Dataverse documentation](/power-apps/maker/data-platform/?azure-portal=true).
 
 Various features that are included in Dataverse are:
 
@@ -81,7 +81,7 @@ Various features that are included in Azure Healthcare APIs are:
 
 ### Sync admin for FHIR
 
-**Sync admin for FHIR** is a model-driven app that helps the Azure FHIR sync agent give healthcare admins control over data that flows between Azure-based FHIR systems and [Microsoft Dataverse](/powerapps/maker/common-data-service/data-platform-intro/?azure-portal=true). It has ready-made, customizable entity and attribute maps and the tools to manage them. It allows protected patient data to be available directly in your Microsoft Cloud for Healthcare solution powered by Dynamics 365, while remaining in its original system when at rest.
+**Sync admin for FHIR** is a model-driven app that helps the Azure FHIR sync agent give healthcare admins control over data that flows between Azure-based FHIR systems and [Microsoft Dataverse](/power-apps/maker/common-data-service/data-platform-intro/?azure-portal=true). It has ready-made, customizable entity and attribute maps and the tools to manage them. It allows protected patient data to be available directly in your Microsoft Cloud for Healthcare solution powered by Dynamics 365, while remaining in its original system when at rest.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of Sync admin for F H I R active update service entity map.](../media/active-update-service.png)](../media/active-update-service.png#lightbox)

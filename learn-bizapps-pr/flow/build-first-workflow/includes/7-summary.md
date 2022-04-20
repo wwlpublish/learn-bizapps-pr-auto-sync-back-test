@@ -6,4 +6,4 @@ For more information, see the following links:
 
 - [Overview of Adaptive Cards for Microsoft Teams](/power-automate/overview-adaptive-cards/?azure-portal=true)
 
-- [Get started with canvas-app formulas in Power Apps](/powerapps/maker/canvas-apps/working-with-formulas/?azure-portal=true)
+- [Get started with canvas-app formulas in Power Apps](/power-apps/maker/canvas-apps/working-with-formulas/?azure-portal=true)

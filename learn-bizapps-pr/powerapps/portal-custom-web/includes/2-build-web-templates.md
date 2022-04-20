@@ -6,7 +6,7 @@
 
 ## Web template management
 
-Liquid implementations within Power Apps portals contain a number of [Template tags](/powerapps/maker/portals/liquid/template-tags/?azure-portal=true) that help manage templates and promote reusability.
+Liquid implementations within Power Apps portals contain a number of [Template tags](/power-apps/maker/portals/liquid/template-tags/?azure-portal=true) that help manage templates and promote reusability.
 
 ### FetchXML tag
 
@@ -109,7 +109,7 @@ The child template will generate the following output:
 
 The typical use of the `extend` and `block` tags is to separate layout and content templates. Parent or base templates usually define broad page layout, for example, if it's a single column or a two-column page. Child templates that extend the base can only define the content of the blocks as specified by the parent.
 
-For a comprehensive Liquid code sample that demonstrates template inheritance with `block/extend` and `include` tags, see [Create a custom page template](/powerapps/maker/portals/liquid/create-custom-template/?azure-portal=true).
+For a comprehensive Liquid code sample that demonstrates template inheritance with `block/extend` and `include` tags, see [Create a custom page template](/power-apps/maker/portals/liquid/create-custom-template/?azure-portal=true).
 
 ## Web templates best practices
 
@@ -139,10 +139,10 @@ The following steps will help you improve template structure and make the web te
 
 - Use the `comments` tag to describe complex parts of the template.
 
-- Study templates that are already deployed with the starter portal and look for Liquid techniques in [Create advanced templates for portals](/powerapps/maker/portals/liquid/create-custom-template/?azure-portal-true).
+- Study templates that are already deployed with the starter portal and look for Liquid techniques in [Create advanced templates for portals](/power-apps/maker/portals/liquid/create-custom-template/?azure-portal-true).
 
-Numerous ready-to-use Liquid templates are installed when you provision a starter portal: [Built-in web templates](/powerapps/maker/portals/liquid/store-content-web-templates?azure-portal-true#built-in-web-templates). Their names are fixed, and the templates are not available for editing.
+Numerous ready-to-use Liquid templates are installed when you provision a starter portal: [Built-in web templates](/power-apps/maker/portals/liquid/store-content-web-templates?azure-portal-true#built-in-web-templates). Their names are fixed, and the templates are not available for editing.
 
-For more information, see [Work with Liquid templates](/powerapps/maker/portals/liquid/liquid-overview/?azure-portal-true).
+For more information, see [Work with Liquid templates](/power-apps/maker/portals/liquid/liquid-overview/?azure-portal-true).
 
 

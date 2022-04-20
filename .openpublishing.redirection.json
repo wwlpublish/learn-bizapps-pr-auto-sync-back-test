@@ -1,6 +1,16 @@
 {
   "redirections": [
     {
+      "source_path": "learn-bizapps-pr/flow/get-started-flows/3-learn-to-use-flow-mobile-app.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-flows/",
+      "redirect_document_id⁯": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/get-started-flows/7-flow-post-tweets.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-flows/",
+      "redirect_document_id⁯": false
+    },
+    {
       "source_path": "learn-bizapps-pr/paths/work-healthcare-solution/index.md",
       "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false

@@ -28,7 +28,7 @@ This example shows how to create a task in Microsoft Dataverse whenever an Accou
 1. Sign in to [Power Automate](https://ms.flow.microsoft.com/?azure-portal=true) using your organizational account.
 1. In the left pane, select **My flows**.
 1. Select **+ New flow**, and then select **Automated cloud flow**.
-1. In the list of flow triggers, enter *Microsoft Dataverse* in the search all triggers field and then select **Microsoft Dataverse - When a row is added, modified Or deleted**. Microsoft Dataverse keeps information in the Dataverse, so we will use this connector throughout.
+1. In the list of flow triggers, enter *Microsoft Dataverse* in the search all triggers field and then select **Microsoft Dataverse - When a row is added, modified Or deleted**. Microsoft Dataverse keeps information in the Dataverse, so we'll use this connector throughout.
 1. Select **Create**.
 1. If you're prompted to sign in to Dataverse, do so.
 1. In the **Change type** field, select create.
@@ -36,7 +36,7 @@ This example shows how to create a task in Microsoft Dataverse whenever an Accou
 
     For this unit, select the **Accounts** table.
 
-1. For Dataverse, you also need to specify the **Scope**. This will determine if your flow runs if you create a new record, if a new record is created by a user within your business unit, or if a new record is created by any user in your organization. For this example, choose **Organization**.
+1. For Dataverse, you also need to specify the **Scope**. This will determine if your flow runs if you create a new record, if a user within your business unit creates a new record, or if any user in your organization creates a new record. For this example, choose **Organization**.
 
     ![Screenshot of When a record is created with Environment set to the default, table Name set to Accounts, and Scope set to Organization.](../media/flow-details.png)
 
@@ -65,7 +65,7 @@ This example shows how to create a task in Microsoft Planner whenever a task is 
 1. Sign in to [Power Automate](https://ms.flow.microsoft.com/?azure-portal=true) using your organizational account.
 1. In the left pane, select **My flows**.
 1. Select **+ New flow**, and then select **Automated cloud flow**.
-1. In the list of flow triggers, enter *Microsoft Dataverse* in the search all triggers field and then select **Microsoft Dataverse - When a row is added, modified Or deleted**. 
+1. In the list of flow triggers, enter *Microsoft Dataverse* in the search all triggers field and then select **Microsoft Dataverse - When a row is added, modified Or deleted**.
 1. If you're prompted to sign in to Dataverse, do so.
 1. In the **Change type** field, select the instance where the flow should listen.
 1. In the **Table Name** field, select the table to listen to. This table will act as a trigger that starts the flow.
@@ -78,9 +78,9 @@ This example shows how to create a task in Microsoft Planner whenever a task is 
 
 1. Select **+ New step**.
 1. In the search field, enter *Planner*, and then select **Planner – Create a task**.
-1. For Group ID, hit the dropdown and select a Group. In our example, I will select **Marketing Plan**.
-1. For Plan ID, hit the dropdown and select a Plan. 
-1. In the **Title** field, enter some text and then add the **Subject**, from the dynamic content pane. In our example, for the Title field, I will enter *Begin onboarding process for:*. This will give my new Planner task some more clarity, when it shows up in the Planner App.
+1. For Group ID, hit the dropdown and select a Group. In our example, I'll select **Marketing Plan**.
+1. For Plan ID, hit the dropdown and select a Plan.
+1. In the **Title** field, enter some text and then add the **Subject**, from the dynamic content pane. In our example, for the Title field, I'll enter *Begin onboarding process for:*. This will give my new Planner task some more clarity, when it shows up in the Planner App.
 1. For Bucket ID, hit the dropdown and select a Bucket (optional).
 
    ![Screenshot of Create a planner task with Group Id, Plan Id, Title, and Bucket Id.](../media/flow-planner-details.png)
@@ -93,7 +93,7 @@ This example shows how to create a task in Microsoft Planner whenever a task is 
 
 Triggers like **When a record is created**, **When a record is updated**, and **When a record is deleted** will start your flow within a few minutes after the event occurs. In rare cases, it might take up to two hours for your flow to be triggered.
 
-When the trigger occurs, the flow receives a notification, but the flow runs on the data that exists when the action runs. For example, if your flow is triggered when a new record is created, and you update the record twice before the flow runs, your flow runs only once with the latest data.
+When the trigger occurs, the flow receives a notification, but the flow runs on the data that exists when the action runs. For example, if new record creation triggers your flow, and you update the record twice before the flow runs, your flow runs only once with the latest data.
 
 ## Specify advanced options
 
@@ -105,7 +105,7 @@ For example, you can use a filter query to retrieve only active contacts, and yo
 
 ### Best practices for advanced options
 
-When you add a value to a column, you must match the column type, regardless of whether you enter a value or select a value in the dynamic content pane.
+When you add a value to a column, you must match the column type. You must match it regardless of whether you enter a value or select a value in the dynamic content pane.
 
 | Column type | How to use | Where to find | Name | Data type |
 | --- | --- | --- | --- | --- |

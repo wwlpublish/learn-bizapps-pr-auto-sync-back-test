@@ -275,7 +275,7 @@ In this task, you will add a favorite desk and add a label to show desk features
        `If(CountIf(ThisItem.Users, ThisRecord.User = currentUser.User) > 0, Icon.ThumbsUp,Icon.ThumbsUpFilled)`
  
        > [!NOTE]
-       > The CountIf does encounter [delegation](/powerapps/maker/canvas-apps/delegation-overview/?azure-portal=true) challenges, if you have a large amount of rows in your app you might have to use an alternate approach.
+       > The CountIf does encounter [delegation](/power-apps/maker/canvas-apps/delegation-overview/?azure-portal=true) challenges, if you have a large amount of rows in your app you might have to use an alternate approach.
 
 
 1.  Make sure that you still have the icon selected. Select **OnSelect** and then paste the following formula. This formula will relate or unrelate this desk and signed-in user, depending on whether the user has already added the desk as a favorite.

@@ -17,7 +17,7 @@ abstract: |
     In this module, you will: 
     - Filter the data in a gallery
     - Use operators in a formula to shape your data
-    - Use the search function to find a record
+    - Use the search function to find a row
     - Understand the AddColumns, DropColumns, and RenameColumns functions
 prerequisites: A basic understanding of how to create a Power Apps canvas app.   
 iconUrl: /learn/achievements/shape-data.svg  

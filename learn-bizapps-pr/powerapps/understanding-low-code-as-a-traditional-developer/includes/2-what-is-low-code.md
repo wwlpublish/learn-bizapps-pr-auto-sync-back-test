@@ -42,7 +42,7 @@ Excel is used by hundreds of millions of users, most of which know that “&” 
 
 ### Display names and localization
 
-'First Name' is used in the Power Fx formula while nwind_firstname is used in the JavaScript equivalent. In [Dataverse](/powerapps/maker/data-platform/?azure-portal=true) and SharePoint, there is a display name for fields and tables as well as a unique logical name. The display names are often much more user friendly, as in this case, but they have another important quality: they can be localized. If you have a multi-lingual team, each team member can see table and field names in their own language. In all cases, Power Fx makes sure that the correct logical name is sent to the database automatically.
+'First Name' is used in the Power Fx formula while nwind_firstname is used in the JavaScript equivalent. In [Dataverse](/power-apps/maker/data-platform/?azure-portal=true) and SharePoint, there is a display name for fields and tables as well as a unique logical name. The display names are often much more user friendly, as in this case, but they have another important quality: they can be localized. If you have a multi-lingual team, each team member can see table and field names in their own language. In all cases, Power Fx makes sure that the correct logical name is sent to the database automatically.
 
 ### Always live
 

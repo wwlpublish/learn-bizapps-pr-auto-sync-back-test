@@ -15,4 +15,4 @@ Watch the following video to learn how to enable SharePoint integration for your
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4AprO]
 
-For more information, see [Manage SharePoint documents](/powerapps/maker/portals/manage-sharepoint-documents/?azure-portal=true).
+For more information, see [Manage SharePoint documents](/power-apps/maker/portals/manage-sharepoint-documents/?azure-portal=true).

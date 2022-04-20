@@ -1,4 +1,4 @@
-Flows can be used to automate a sequence of actions from within your Power Apps application. For example, when a new customer record is created, you could start an approval process, add a new SharePoint list item, or email a forms survey to your customer. This feature allows for more consistent business processes and less manual work.
+Flows can be used to automate a sequence of actions from within your Power Apps application. For example, when a new customer record is created, you could start an approval process, add a new Microsoft Lists item, or email a forms survey to your customer. This feature allows for more consistent business processes and less manual work.
 
 The key feature that makes this ability so powerful is that needed information is passed from the app to a flow when it's triggered. The following steps demonstrate how to connect a flow to Power Apps with a simple app to send a message to Teams. The goal is when **Button1** is pressed, the contents of **TextBox1** will be passed to the flow to become a message in Teams.
 
@@ -6,15 +6,18 @@ The key feature that makes this ability so powerful is that needed information i
 
 To create the Power Apps application, follow these steps:
 
-1. Open the Power Apps app in Teams and select **Create an app**.
+1. Open the Power Apps app in Teams from the **Home** tab select **+ New App**.
 
 1. Select a team to store the app and then select **Create**.
 
-1. Name the app **Trigger Flow From App** and then select **Save**.
+1. Name the app **Trigger Flow From App** and then select **Save**.  Your created app will show a blank screen with a center screen menu displaying the options to start the screen **With data**, **With layout**, **Or drag and drop an item from the Insert pane**.
 
-1. To open a blank screen without the hero template, select **New Screen > Blank**.
+   > [!div class="mx-imgBorder"]
+   > [![Screenshot of the app start screen highlighting the options to start the screen with data, layout or drag and drop.](../media/app-start-screen.png)](../media/app-start-screen.png#lightbox)
 
-1. From the **Insert** menu, choose a **Text box** and **Button** from the **Input** section. Position the options on the screen by selecting and dragging them around. Resize the text box by first selecting it and then selecting and dragging the corners.
+1. Select the **Insert** menu by selecting the words **Insert pane** from the **Start this screen** menu or by selecting the **+** in the left side rail.
+
+1. From the **Insert** menu, drag and drop a **Text box** and **Button** from the **Popular** (or the **Input**) section. Position the options on the screen by selecting and dragging them around. Resize the text box by first selecting it and then selecting and dragging the corners.
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the button and text box in the design area.](../media/image-12.png)](../media/image-12.png#lightbox)
@@ -46,17 +49,22 @@ To create and connect a flow, follow these steps:
 
 1. Give your flow a new name by selecting **Untitled** and then entering **Power Apps to Teams Message**.
 
-   Enter **Power Apps** in the search field and then select **Power Apps** in the **Triggers** section.
+   Either select the Power Apps icon or enter **Powerapps** in the search field and then select **Power Apps (V2)** in the **Triggers** section.
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the Power Apps trigger in the search results.](../media/image-16.png)](../media/image-16.png#lightbox)
 
-1. The flow is now editable. It only has Power Apps defined as the trigger. To add an action, select **New Step**.
-
-1. Enter **Teams** in the search box and then scroll down under **Actions** and select **Post message in a chat or channel**.
+1. The flow is now editable. It only has Power Apps defined as the trigger. With the Power Apps (V2) connector, we're going to add an input by selecting clicking **+ Add an input**. Then under **Choose the type of user input**, select Text.  There's nothing further you need to add right now.
 
    > [!div class="mx-imgBorder"]
-   > [![Screenshot of the Choose an operation dialog box with search results for Teams showing on the Actions tab.](../media/image-17.png)](../media/image-17.png#lightbox)
+   > [![Screenshot of the add an input and choose the type of user input with the Power Apps (V2) connector.](../media/power-apps-v2-connector.png)](../media/power-apps-v2-connector.png#lightbox)
+
+1. To add an action, select **New Step**.
+
+1. Enter **Teams post message** in the search box and then scroll down under **Actions** and select **Post message in a chat or channel**.
+
+   > [!div class="mx-imgBorder"]
+   > [![Screenshot of the Choose an operation dialog box with search results for Teams post message showing on the Actions tab.](../media/image-17.png)](../media/image-17.png#lightbox)
 
 1. In the **Post as** section you have 2 choices, **Flow bot** and **User**, select **Flow bot**. This will send your messages as the Flow bot instead of specific user. So essentially, the messages will be sent as a generic user.
 
@@ -64,12 +72,12 @@ To create and connect a flow, follow these steps:
 
 1. Now, select the **Team** and **Channel** that you want the message to be sent to.
 
-1. The Team message will be provided by the Power Apps application when it's triggered. Select in the **Message** text box and then select **Ask in Power Apps** as the dynamic content.
+1. The Team message will be provided by the Power Apps application when it's triggered. Select in the **Message** text box and then select **Input** (listed under PowerApps (V2)) as the dynamic content.
 
    > [!div class="mx-imgBorder"]
-   > [![Screenshot of the Post a message action with dynamic content for the Message field set to Ask in Power Apps.](../media/image-18.png)](../media/image-18.png#lightbox)
+   > [![Screenshot of the Post a message action with dynamic content for the Message field set to Input from the Power Apps V2 connector.](../media/image-18.png)](../media/image-18.png#lightbox)
 
-1. When **Ask in Power Apps** was selected as the dynamic content for the message, it automatically created a variable and gave it a name. Select **Save** at the end of the flow.
+1. When **Input** from Power Apps was selected as the dynamic content for the message, it automatically created a variable and gave it a name. Select **Save** at the end of the flow.
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the completed flow with the Save button highlighted.](../media/image-19.png)](../media/image-19.png#lightbox)
@@ -104,7 +112,7 @@ Before publishing any application to **Teams**, you can test it by selecting **P
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the message in the Teams channel.](../media/image-23.png)](../media/image-23.png#lightbox)
 
-1. In the Power Apps editor, close preview mode by selecting the **X** icon or by pressing the **Esc** key. Because this application is only a test, it won't be published to Teams.
+1. In the Power Apps editor, close preview mode by selecting the **X** icon or by pressing the **Esc** key. 
 
 Now let's edit the flow and change the **Post as** from **Flow bot** to **User**. To edit a flow you've connected to Power Apps, follow the steps below:
 
@@ -129,7 +137,7 @@ Now let's edit the flow and change the **Post as** from **Flow bot** to **User**
 
 1. Expand the **Post message in a chat or channel** action and for Post as, change this to **User**.
 
-1. In the Message section, clear out the dynamic content and then you'll need to re-add it back to the field. When you update the Post as section, it's not uncommon for dynamic content to also need updated.
+1. In the Message section, clear out the dynamic content and then you'll need to readd it back to the field. When you update the Post as section, it's not uncommon for dynamic content to also need updated.
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the corrupted Dynamic Content for Message.](../media/corrupt-32.png)](../media/corrupt-32.png#lightbox)

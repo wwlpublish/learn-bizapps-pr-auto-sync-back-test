@@ -15,7 +15,7 @@ Here's a breakdown of the syntax for the navigation function:
 -   **UpdateContextRecord** - Optional. A record that contains the
     name of at least one column and a value for each column. This record
     updates the context variables of the new screen. For more information, see
-    [UpdateContext function in Power Apps](/powerapps/maker/canvas-apps/functions/function-updatecontext/?azure-portal=true).
+    [UpdateContext function in Power Apps](/power-apps/maker/canvas-apps/functions/function-updatecontext/?azure-portal=true).
 
 In the first argument, you specify the name of the screen to display. In
 the second argument, you specify how the old screen changes to the new

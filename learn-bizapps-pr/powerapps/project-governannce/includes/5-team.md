@@ -44,7 +44,7 @@ The solution architect should define standards to ensure consistency for the fol
 - Security - When to use roles, column security, hierarchical security, and so on
 - Development - For example, define early versus late bound, error handling, and so on
 
-The solution architect should use Microsoft documentation such as [model-driven apps best practices](/powerapps/developer/model-driven-apps/best-practices/?azure-portal=true), [app design best practices](/powerapps/developer/data-platform/appendix-app-design-best-practices-checklist/?azure-portal=true), and [developer best practices](/dynamics365/customerengagement/on-premises/developer/best-practices-sdk/?azure-portal=true).
+The solution architect should use Microsoft documentation such as [model-driven apps best practices](/power-apps/developer/model-driven-apps/best-practices/?azure-portal=true), [app design best practices](/power-apps/developer/data-platform/appendix-app-design-best-practices-checklist/?azure-portal=true), and [developer best practices](/dynamics365/customerengagement/on-premises/developer/best-practices-sdk/?azure-portal=true).
 
 ## Work environments
 

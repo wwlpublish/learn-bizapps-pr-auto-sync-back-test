@@ -1,4 +1,4 @@
-A trigger is the event that starts the flow. For example, if an item is added or edited in a SharePoint list, it will trigger a flow for an action, such as sending an email notification.
+A trigger is the event that starts the flow. For example, if an item is added or edited in Microsoft Lists, it will trigger a flow for an action, such as sending an email notification.
 
 ## Available SharePoint triggers for a Power Automate flow
 
@@ -10,7 +10,7 @@ SharePoint Connector for Microsoft Power Automate supports the following flow tr
 | When an item is created or modified | Triggers when an item is created and each time that it's modified. |
 | When a file is created in a folder | Triggers when a file is created in a SharePoint folder. The trigger doesn't fire if a file is added/updated in a subfolder. If it's required to trigger on subfolders, multiple triggers should be created. |
 | For a selected file | This trigger allows you to start a flow for a selected file. Inputs are: **Site Address** and **Library Name**. Outputs are: **Name**, **Link to Item**, and **ID**. |
-| For a selected item | This trigger allows you to start a flow for a selected item in a SharePoint list or library. You can use the columns of the list or library as output parameters. For a file, you can use the **identifier** column to get file content. |
+| For a selected item | This trigger allows you to start a flow for a selected item in list or library. You can use the columns of the list or library as output parameters. For a file, you can use the **identifier** column to get file content. |
 | When a file is classified by a content understanding model | Triggers when a Microsoft SharePoint Syntex content understanding model classifies a file, which is shown in the classification date property of the file. |
 | When a file is created (properties only) | Triggers when an item is created in a library. Returns only properties that are stored in the library columns. You can add a "Get file content" step and then use the **File identifier** property that is returned by this action to get to the contents of the file. |
 | When a file is created or modified (properties only) | Triggers the flow when you create a file, and each time you modify the file properties in a library. Returns only the custom file properties associated with that file.
@@ -28,7 +28,7 @@ Some SharePoint triggers have advanced options that help avoid issues such as th
 
 ### When an item is created
 
-For the **When an item is created** trigger, you can select views from the SharePoint list to limit columns by view and avoid threshold issues.
+For the **When an item is created** trigger, you can select views from the list in Microsoft Lists to limit columns by view and avoid threshold issues.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the When an item is created dialog box.](../media/2-1-created.png)](../media/2-1-created.png#lightbox)

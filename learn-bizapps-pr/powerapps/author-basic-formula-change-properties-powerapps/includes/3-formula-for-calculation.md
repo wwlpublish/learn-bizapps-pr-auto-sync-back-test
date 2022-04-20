@@ -20,6 +20,11 @@ the function name.
 
 The following example shows how to calculate the sum of goods and services.
 
+> [!NOTE]
+   > If your formula returns an error, then please note that the language setting of your Power Apps environment can affect some separators and operators. For example, the above formula is expressed in a language and region that uses dot or period as the decimal separator, such as Japan or the United Kingdom. However, this same formula in a language and region where a comma is used for the decimal separator, such as France or Spain, the formula will need to be: `Text(ThisItem.Price; "$ ##,00")`
+   > 
+   > The property selection operator . (dot or period) in ThisItem.Price is always the same, no matter what the decimal separator is, but notice that the decimal separator and the chaining operation separator changed to a comma and semicolon respectively. Internally the formula doesn't change, all that changes is how it's displayed and edited by the author. See [Formula separators and chaining operator](/power-apps/maker/canvas-apps/global-apps?azure-portal=true#formula-separators-and-chaining-operator) for more information.
+
 1. Navigate to [Power Apps](https://make.powerapps.com/).
 
 1. Select **+ New App** and **Canvas**.
@@ -58,4 +63,4 @@ The following example shows how to calculate the sum of goods and services.
    
    ![Screenshot of Power Apps Treeview Screen1 values.](../media/calculation-update-2.png)
 
-For more information, see [Power Apps Aggregate Functions](/powerapps/maker/canvas-apps/functions/function-aggregates/?azure-portal=true).
+For more information, see [Power Apps Aggregate Functions](/power-apps/maker/canvas-apps/functions/function-aggregates/?azure-portal=true).

@@ -2,7 +2,7 @@
 
 Microsoft Power Apps portals security is configured primarily around the Dataverse (or Dynamics 365) **contact** row. The contact row represents a person with which an organization has a relationship. In the Dynamics 365 apps, a contact row can represent a stakeholder such as a customer, partner, supplier, supporter, or an employee of organizational stakeholders (organizations are typically represented by using the **account** table).
 
-[Customer tables](/powerapps/developer/common-data-service/customer-entities-account-contact/?azure-portal=true)
+[Customer tables](/power-apps/developer/common-data-service/customer-entities-account-contact/?azure-portal=true)
 
 > [!NOTE]
 > For portals that are configured for internal staff access (such as the Employee portal), Dataverse system users will also need a contact row to access the portal.
@@ -19,7 +19,7 @@ However, certain private or protected information should only be made accessible
 
 A portal user will need to sign in by using an authentication process in which the portal application will recognize the visitor as a specific Dataverse contact. The portal can then show the protected and private static and dynamic content to that portal user.
 
-[Overview of authentication in Power Apps portals](/powerapps/maker/portals/configure/configure-portal-authentication/?azure-portal=true)
+[Overview of authentication in Power Apps portals](/power-apps/maker/portals/configure/configure-portal-authentication/?azure-portal=true)
 
 A contact can be recognized as a portal user by accepting an invitation from the portal that is associated with an existing contact or by registering as a new contact.
 

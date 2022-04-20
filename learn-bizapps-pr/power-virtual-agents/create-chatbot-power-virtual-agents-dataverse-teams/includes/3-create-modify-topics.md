@@ -18,7 +18,10 @@ System topics improve the usability of your chatbot with prebuilt topics to hand
 
 The **Greeting** system topic provides a welcome message for the user. It's important to clearly define what the bot is meant to do, which will set expectations with the user.
 
-1. Select the **Greeting** system topic and then select **Go to authoring canvas**.
+1. Select the **Greeting** system topic to go to the authoring canvas.  Notice that your authoring canvas includes nodes with trigger phrases and messages.
+
+    > [!div class="mx-imgBorder"]
+	> [![Screenshot of the authoring canvas with trigger phrase and message nodes highlighted.](../media/authoring-canvas.png)](../media/authoring-canvas.png#lightbox)
 
     The authoring canvas is where you design the topic's conversation path by using *conversation nodes*. Conversation nodes determine how a chatbot responds and what actions it might have to take. The five different types of conversation nodes that you can add are described in the following table.
 
@@ -32,7 +35,7 @@ The **Greeting** system topic provides a welcome message for the user. It's impo
 	
 	All chatbots start with the trigger phrases and a message conversation node.
 
-1. The text in the first message node doesn't match the purpose of your bot. Change the text to the following example. Use the text editing controls in the message node to have the questions appear in italic font.
+1. If the text in the first message node doesn't match the purpose of your bot, you can change it. You can use the text editing controls in the message node to have the questions appear in italic font, or you can paste italic text into the message node since the node supports rich text.  Change the text to the following example.
     
     Hi! I'm the virtual agent for the Sales Project Team. For our upcoming sales events, I can help find the event contact for a particular country. Just type in questions like *Who are the event contacts?* or *I need event contacts.* to get started.
     
@@ -52,7 +55,10 @@ For the **Event Contacts** chatbot, you want the chatbot to respond to the quest
 
 1. Select **+ New topic**.
 
-1. Enter **Contacts** for the **Name**.
+1. To name this topic or add details about it, select **Details** in the menu at the top of the screen.  Name your topic **Event Contacts** and press **Save**.
+
+    > [!div class="mx-imgBorder"]
+	> [![Screenshot of the Details pane highlighting the name entry field and the save button.](../media/details-name-save.png)](../media/details-name-save.png#lightbox)
 
 1. Enter the following **Trigger phrases**. Select **Add** between each one.
     
@@ -69,9 +75,7 @@ For the **Event Contacts** chatbot, you want the chatbot to respond to the quest
     > [!div class="mx-imgBorder"]
 	> [![Screenshot of the Name field and the Enter a trigger phrase field.](../media/image-7.png)](../media/image-7.png#lightbox)
 
-1. Select **Save topic** in the upper-right corner to add the topic to the list.
-
-1. Select **Go to authoring canvas**. In the **Message** node, enter the following information. Use the editing options in the text box to apply bold formatting to the country names.
+1. In the **Message** node just below the **Trigger Phrases** node, enter the following information. Use the editing options in the text box to apply bold formatting to the country names. Remember that the node supports rich text formatting, so you can copy/paste bold text into it.
     
     The event team contacts for North America are:
 
@@ -86,7 +90,7 @@ For the **Event Contacts** chatbot, you want the chatbot to respond to the quest
 
 1. Select the plus **+** symbol under the **Message** node to add another conversation node.
 
-1. Select **Go to another topic > End of Conversation**.
+1. Select **Redirect to another topic > End of Conversation**.  You can enter “end” in the Search pane to filter the list or scroll to find it.
     
     The **End of Conversation** option is a system topic on how to end the conversation. This system topic asks the user about the accuracy of the results and to rate their experience. All system topics can be edited to customize the experience in the **Topics** screen.
     
@@ -95,9 +99,9 @@ For the **Event Contacts** chatbot, you want the chatbot to respond to the quest
 
 1. Select **Save**.
 
-1. Select **Test bot** and a new pane will appear for testing the chatbot. Enter questions that contain one of the trigger phrases to observe how the bot responds.
+1. In the Test bot pane, enter questions that contain one of the trigger phrases to observe how the bot responds. If the Test bot pane isn't appearing on the canvas, select **Test bot** from the menu at the top right of the screen. 
     
     > [!div class="mx-imgBorder"]
 	> [![Screenshot of the Test bot button with trigger phrases.](../media/image-10.png)](../media/image-10.png#lightbox)
 
-Congratulations, you have created your first chatbot by using Power Virtual Agents for Teams. The next unit expands the chatbot to use inputs, variables, and conditions.
+Congratulations, you've created your first chatbot by using Power Virtual Agents for Teams. The next unit expands the chatbot to use inputs, variables, and conditions.

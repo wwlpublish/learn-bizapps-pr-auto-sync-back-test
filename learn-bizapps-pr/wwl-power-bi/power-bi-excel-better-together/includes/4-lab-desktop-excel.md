@@ -8,7 +8,7 @@ Your tasks in this lab are to:
 - Publish a Power BI Desktop Dataset & Report to the Power BI Service
 - Download, Install, and Use Analyze in Excel
 - Build an Excel report using a Power BI Dataset
-Lab document available at <PresentationFolder>\MAIAD\Attendee\Lab Materials\Lab 03
+Lab document available at \<PresentationFolder>\MAIAD\Attendee\Lab Materials\Lab 03
 
 > [!TIP] 
 > Read the notes in the lab guide before you start. For example, you and your students will need to Enable Editing and Enable Content before you can run the lab. If you don’t see these messages, you may need to check your Options> Trust Center > Trust Center Settings to ensure your Message Bar Settings are turned on.

@@ -6,4 +6,4 @@ The Microsoft Cloud for Nonprofit brings together a range of Microsoft capabilit
 
 Fundraising and Engagement works with the nonprofit common data model, and is built on Dynamics 365, with Azure running calculations and processes to provide real-time data and information. You can use LinkedIn Sales Navigator inside Fundraising and Engagement to engage with a larger prospective donor pool. Fundraising and Engagement works seamlessly with the integrated Microsoft 365 collaboration tools. Use Outlook to stay connected with constituents, and Microsoft Teams to collaborate on major moves or event planning. The low code tools of Power Platform can be used to build other role-based apps connected to Fundraising and Engagement, such as a mobile app for a face-to-face fundraiser, or to automate processes such as approvals, notifications, and receipting.
 
-Learn more about the [Microsoft Cloud for Nonprofit](/nonprofits/microsoft-cloud-for-nonprofit/?azure-portal=true).
+Learn more about the [Microsoft Cloud for Nonprofit](/industry/nonprofit/overview?azure-portal=true).

@@ -12,9 +12,8 @@ Now that you have reviewed this module, you should be able to:
 
 
 
-| | |
-| - | -|
 | ![Icon of lightbulb](../media/key-takeaway.png) | Here are the four key takeaways: |
+| - | -|
 | | 1. Power Apps is a no-code/low-code platform that allows you to build apps with your business knowledge and existing skills. |
 | | 2. Power Apps has different offerings to meet your needs. Canvas apps, Model-driven apps, and Portals each have their own unique properties. |
 | | 3. Power Apps helps you build and deploy customized apps that work across web and mobile, embedded or standalone, on any device. |
