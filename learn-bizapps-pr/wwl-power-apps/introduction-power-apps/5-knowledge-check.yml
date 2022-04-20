@@ -4,12 +4,13 @@ title: Knowledge check
 metadata:
   title: Knowledge check
   description: "Knowledge check"
-  ms.date: 05/31/2021
+  ms.date: 04/20/2022
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
   ms.prod: learning-power-apps
 azureSandbox: false
+labModal: false
 durationInMinutes: 3
 content: |
   [!include[](includes/5-knowledge-check.md)]
@@ -42,10 +43,10 @@ quiz:
     choices:
     - content: "Power Apps can only use its internal data sources."
       isCorrect: false
-      explanation: "Incorrect. Power Apps supports both internal and external data sources with more than 270 connectors."
+      explanation: "Incorrect. Power Apps supports both internal and external data sources with more than 600 connectors."
     - content: "Power Apps uses only external data sources and does not have an internal data source."
       isCorrect: false
       explanation: "Incorrect. Power Apps is built on top of the Microsoft Dataverse and can leverage this internal data source."
     - content: "Power Apps can use multiple internal and external data sources in the same app."
       isCorrect: true
-      explanation: "Correct. Power Apps allows you complete control of which data sources you use in your app. There are over 270 data connectors available, and the ability to build a customer connector if one does not exist."
+      explanation: "Correct. Power Apps allows you complete control of which data sources you use in your app. There are over 600 data connectors available, and the ability to build a customer connector if one does not exist."

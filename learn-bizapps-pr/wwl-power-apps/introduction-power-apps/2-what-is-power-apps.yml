@@ -4,12 +4,13 @@ title: What is Power Apps and what it can do for you
 metadata:
   title: What is Power Apps and what it can do for you
   description: "What is Power Apps and what it can do for you"
-  ms.date: 05/31/2021
+  ms.date: 04/20/2022
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
   ms.prod: learning-power-apps
 azureSandbox: false
+labModal: false
 durationInMinutes: 10
 content: |
   [!include[](includes/2-what-is-power-apps.md)]
