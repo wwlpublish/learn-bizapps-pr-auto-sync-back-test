@@ -15,6 +15,6 @@ You'll now explore the **Customize report theme** showcase. This showcase demons
    > [!div class="mx-imgBorder"]
    > ![Image shows dark mode enabled and the selection of a different theme.](../media/playground-customize-report-theme-choose-dark-mode.png)
 
-   > Notice that the theme changes. The app used the `applyTheme` function to apply the theme changes.
+   Notice that the theme changes. The app used the `applyTheme` function to apply the theme changes.
 
 For a more detailed explanation, including access to the code, see [Customize report colors and mode showcase](/javascript/api/overview/powerbi/showcase-themes/?azure-portal=true).

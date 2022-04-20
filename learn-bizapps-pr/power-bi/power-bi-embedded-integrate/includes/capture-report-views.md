@@ -10,7 +10,7 @@ You'll now explore the **Capture report views** showcase. This showcase demonstr
    > [!div class="mx-imgBorder"]
    > ![Image highlights the Saved views button.](../media/playground-capture-report-views-saved-views-button.png)
 
-   >Notice the list of *views*, which are really bookmarks. The `bookmarksManager.getBookmarks` function retrieved the report's bookmark collection.
+   Notice the list of *views*, which are really bookmarks. The `bookmarksManager.getBookmarks` function retrieved the report's bookmark collection.
 
 1. Select any bookmark to apply it to the report, and notice that the page updates with new state. The `bookmarksManager.apply` function applied the bookmark to the report.
 
@@ -19,7 +19,7 @@ You'll now explore the **Capture report views** showcase. This showcase demonstr
    > [!div class="mx-imgBorder"]
    > ![Image shows the Manufacturer slicer with Abbas selected.](../media/playground-capture-report-views-set-manufacturer-slicer.png)
 
-1 Select the **Capture view** button.
+1  Select the **Capture view** button.
 
    > [!div class="mx-imgBorder"]
    > ![Image highlights the Capture view button.](../media/playground-capture-report-views-capture-view-button.png)

@@ -38,14 +38,14 @@ You'll now experience some operations by going to the [Power BI embedded analyti
    > [!TIP]
    > Notice that you can also select your own report sourced from the Power BI service, or use an embed token that your development app generates. In this activity, continue to use the sample report.
 
-   > Notice that the playground embeds a sample report. Notice also above the report that there's the code pane, which contains the code required to embed the report.
+   Notice that the playground embeds a sample report. Notice also above the report that there's the code pane, which contains the code required to embed the report.
 
 1. In the **Embedded Report APIs** pane (located at the left), expand open the **General Operations** group.
 
    > [!div class="mx-imgBorder"]
    > ![Image shows the General operations group expanded open.](../media/developer-sandbox-expand-open-general-operations.png)
 
-1 To update the code, from the **Embedded Report APIs** pane, drag the **Full screen** operation and drop it at the last line (line 94) in the code pane.
+1. To update the code, from the **Embedded Report APIs** pane, drag the **Full screen** operation and drop it at the last line (line 94) in the code pane.
 
    > [!div class="mx-imgBorder"]
    > [![Image shows the Full screen operation with arrow indicating where to drop it in the code pane.](../media/developer-sandbox-drag-full-screen-to-code-pane.png)](../media/developer-sandbox-drag-full-screen-to-code-pane.png#lightbox)
@@ -55,7 +55,7 @@ You'll now experience some operations by going to the [Power BI embedded analyti
    > [!div class="mx-imgBorder"]
    > ![Image shows the menu bar with the Run menu option highlighted.](../media/developer-sandbox-run-code.png)
 
-   > Notice that the report renders in full screen mode. To exit full screen mode, press **Escape**.
+   Notice that the report renders in full screen mode. To exit full screen mode, press **Escape**.
 
 1. Now you'll programmatically modify the report's date slicer. In the **Embedded Report APIs** pane, expand open the **Filters & Slicers** group.
 
