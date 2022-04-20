@@ -98,7 +98,8 @@ could have using the Fundraiser example again.
 
 ![Default columns for the Fundraiser table.](../media/fundraiser-entity-default-fields.png)
 
->   [!IMPORTANT] If a column needs to be changed to a different data type, (i.e.
+>[!IMPORTANT] 
+>   If a column needs to be changed to a different data type, (i.e.
 >   text column to a choice column), then you will need to delete that column
 >   and recreate with the correct data type. This will cause you to lose any
 >   data associated with that column.

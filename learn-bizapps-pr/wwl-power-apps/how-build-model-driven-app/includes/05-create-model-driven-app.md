@@ -24,7 +24,7 @@ entities that is available in your Microsoft Power Apps environment.
     for the app. (*For example, enter My first app for the name, and this is my
     first model-driven application for the description.*)
 
-7.  After a few minutes, you new app will appear.
+7.  After a few minutes, your new app will appear.
 
     ![Model-driven app designer](../media/app-designer-configuration-screen.png)
 
@@ -101,7 +101,7 @@ let’s get ready to use it.
 
 1.  Using the command bar at the top select the **Save** button.
 
-2.  Once your application have been saved, select the **Publish** button.
+2.  Once your application has been saved, select the **Publish** button.
 
 3.  To test your application, select the **Play** button.
 
