@@ -25,52 +25,52 @@ You'll now experience some operations by going to the [Power BI embedded analyti
 >
 > For more information, see [What is the Power BI embedded analytics playground?](/power-bi/developer/embedded/power-bi-playground/?azure-portal=true)
 
-In the left pane, select **Developer sandbox**.
+1. In the left pane, select **Developer sandbox**.
 
-> [!div class="mx-imgBorder"]
-> ![Image shows the left pane with the Developer sandbox option highlighted.](../media/developer-sandbox-apis-left-pane-option.png)
+   > [!div class="mx-imgBorder"]
+   > ![Image shows the left pane with the Developer sandbox option highlighted.](../media/developer-sandbox-apis-left-pane-option.png)
 
-When prompted, select the **Use sample** button to start by using a sample report.
+1. When prompted, select the **Use sample** button to start by using a sample report.
 
-> [!div class="mx-imgBorder"]
-> ![Image shows the Use sample starting option highlighted.](../media/developer-sandbox-use-sample.png)
+   > [!div class="mx-imgBorder"]
+   > ![Image shows the Use sample starting option highlighted.](../media/developer-sandbox-use-sample.png)
 
-> [!TIP]
-> Notice that you can also select your own report sourced from the Power BI service, or use an embed token that your development app generates. In this activity, continue to use the sample report.
+   > [!TIP]
+   > Notice that you can also select your own report sourced from the Power BI service, or use an embed token that your development app generates. In this activity, continue to use the sample report.
 
-Notice that the playground embeds a sample report. Notice also above the report that there's the code pane, which contains the code required to embed the report.
+   > Notice that the playground embeds a sample report. Notice also above the report that there's the code pane, which contains the code required to embed the report.
 
-In the **Embedded Report APIs** pane (located at the left), expand open the **General Operations** group.
+1. In the **Embedded Report APIs** pane (located at the left), expand open the **General Operations** group.
 
-> [!div class="mx-imgBorder"]
-> ![Image shows the General operations group expanded open.](../media/developer-sandbox-expand-open-general-operations.png)
+   > [!div class="mx-imgBorder"]
+   > ![Image shows the General operations group expanded open.](../media/developer-sandbox-expand-open-general-operations.png)
 
-To update the code, from the **Embedded Report APIs** pane, drag the **Full screen** operation and drop it at the last line (line 94) in the code pane.
+1 To update the code, from the **Embedded Report APIs** pane, drag the **Full screen** operation and drop it at the last line (line 94) in the code pane.
 
-> [!div class="mx-imgBorder"]
-> [![Image shows the Full screen operation with arrow indicating where to drop it in the code pane.](../media/developer-sandbox-drag-full-screen-to-code-pane.png)](../media/developer-sandbox-drag-full-screen-to-code-pane.png#lightbox)
+   > [!div class="mx-imgBorder"]
+   > [![Image shows the Full screen operation with arrow indicating where to drop it in the code pane.](../media/developer-sandbox-drag-full-screen-to-code-pane.png)](../media/developer-sandbox-drag-full-screen-to-code-pane.png#lightbox)
 
-Review the code fragment added to the code pane. Then, to run the code, on the menu bar (located above the code pane), select **Run**.
+1. Review the code fragment added to the code pane. Then, to run the code, on the menu bar (located above the code pane), select **Run**.
 
-> [!div class="mx-imgBorder"]
-> ![Image shows the menu bar with the Run menu option highlighted.](../media/developer-sandbox-run-code.png)
+   > [!div class="mx-imgBorder"]
+   > ![Image shows the menu bar with the Run menu option highlighted.](../media/developer-sandbox-run-code.png)
 
-Notice that the report renders in full screen mode. To exit full screen mode, press **Escape**.
+   > Notice that the report renders in full screen mode. To exit full screen mode, press **Escape**.
 
-Now you'll programmatically modify the report's date slicer. In the **Embedded Report APIs** pane, expand open the **Filters & Slicers** group.
+1. Now you'll programmatically modify the report's date slicer. In the **Embedded Report APIs** pane, expand open the **Filters & Slicers** group.
 
-> [!div class="mx-imgBorder"]
-> ![Image shows the Filters and slicers group expanded open.](../media/developer-sandbox-expand-open-filters-slicers.png)
+   > [!div class="mx-imgBorder"]
+   > ![Image shows the Filters and slicers group expanded open.](../media/developer-sandbox-expand-open-filters-slicers.png)
 
-Drag the **Set slicer state** operation to the code pane, dropping it beneath the last line of code. Then review the 43 lines of code you added to the code pane. Run the code, and notice that the report continues to open in full screen mode, and that the **Date** slicer date range is now set to October 12, 2014 - November 28, 2014.
+1. Drag the **Set slicer state** operation to the code pane, dropping it beneath the last line of code. Then review the 43 lines of code you added to the code pane. Run the code, and notice that the report continues to open in full screen mode, and that the **Date** slicer date range is now set to October 12, 2014 - November 28, 2014.
 
-> [!div class="mx-imgBorder"]
-> ![Image shows the Date slicers and the new date range.](../media/developer-sandbox-review-date-slicer.png)
+   > [!div class="mx-imgBorder"]
+   > ![Image shows the Date slicers and the new date range.](../media/developer-sandbox-review-date-slicer.png)
 
-To exit full screen mode, press **Escape**.
+1. To exit full screen mode, press **Escape**.
 
-> [!TIP]
-> The playground provides an effortless way to discover operations and evaluate them without the need to develop an app. Remember, you can explore these operations by using the sample report or your own report.
+   > [!TIP]
+   > The playground provides an effortless way to discover operations and evaluate them without the need to develop an app. Remember, you can explore these operations by using the sample report or your own report.
 
 ### Work with subscribable events
 
