@@ -128,7 +128,7 @@ In this task, you will use the DAX function SUM() to create the business logic n
 
 1. In the New measure formula bar, remove the default "Measure = " value.
 
-1. Enter the following DAX formula & then select the [Check Mark] to commit:
+1. Type the following DAX formula & then select the [Check Mark] to commit:
 
     Potential MRR = SUM( Quotes [QuoteAmt] )
 
@@ -168,7 +168,7 @@ In this task, you will use the DAX function DIVIDE() to create the business logi
     > [!div class="mx-imgBorder"]
     > [![Image of Table tools menu with new measure button.](../media/21-table-tools.png)](../media/21-table-tools.png#lightbox)
 
-1. In the New measure formula bar, enter the DAX formula & then select the [Check Mark] to commit:
+1. In the New measure formula bar, type the DAX formula & then select the [Check Mark] to commit:
 
     [Won vs Potential MRR] = DIVIDE ([MRR Won - Contracts], [Potential MRR])
 

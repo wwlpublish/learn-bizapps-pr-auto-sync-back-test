@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduction-to-power-apps-portals.power-apps-portals
+title: Power Apps portals and what they can do for you
+metadata:
+  title: Power Apps portals and what they can do for you
+  description: "Power Apps portals and what they can do for you"
+  ms.date: 04/15/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+azureSandbox: false
+durationInMinutes: 6
+content: |
+  [!include[](includes/02-power-apps-portals.md)]
