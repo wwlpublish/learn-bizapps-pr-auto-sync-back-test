@@ -2,18 +2,18 @@
 
 Many organizations struggle building solutions that help their users be
 successful. Not only do they struggle trying to modernize their systems, but
-they simply do not have the resources required to meet the ever-changing needs
-of businesses today. With demands for targeted applications at an all-time high,
-combined with labor shortages, it is not uncommon to see application demand
-being up to 5 times what departments can realistically deliver.
+they simply don't have the resources required to meet the ever-changing needs
+of businesses today. With demands for targeted applications at an all-time high and
+labor shortages, it isn't uncommon to see application demand
+up to five times what departments can realistically deliver.
 
-This is not the only challenge that faces today’s businesses. As the business
-climate changes, new factors are impacting businesses. These include:
+This is not the only challenge that face today’s businesses. As the business
+climate changes, new factors are impacting businesses. These impacts include:
 
 -   **Changing workforce expectations:** As millennials and Gen Z become most of
     the workforce, organizations need adapt to fit the way they work. They have
     grown up in a world or tailored experiences and collaborating through social
-    medial. To best leverage their abilities, organizations need to be able to
+    medial. To best apply their abilities, organizations need to be able to
     deliver more custom, streamlined, and collaborative digital experiences.
 
 -   **Increased costs for custom application development:** Building custom
@@ -27,7 +27,7 @@ climate changes, new factors are impacting businesses. These include:
     change rapidly, so organizations need to be able to quickly build solutions
     based on those changing needs.
 
--   **Need to scale development efficiently:** To meet ever changing needs
+-   **Need to scale development efficiently:** To meet ever changing needs,
     organizations need to change how they develop solutions. By responsibly
     enabling citizens developers (Power Users) as part of development processes,
     we can create hybrid development teams that empower the entire organization
@@ -42,10 +42,10 @@ applications every day.
 
 For example, technicians in the field may encounter scenarios where, they need a
 part to execute a job. Ideally if that part is inventory, they can easily
-request the part so they can continue to work. However, many times, there is a
+request the part so they can continue to work. However, many times, there's a
 bottle neck in this process. They need submit a request to the parts person
 first. This means that they can be potentially spending time waiting for the
-parts person to get back to them only to find later that the part is not in
+parts person to get back to them only to find later that the part isn't in
 stock. This could be easily solved by building a dedicated Power App. By being
 able to check inventory levels while onsite, technicians do not have to spend
 time onsite waiting to determine if the part is available. Not only can they see
@@ -55,11 +55,11 @@ knowledge of what would be required, build out a prototype of the application
 using Power Apps that reflects the best user interface and overall experience.
 This is something that would have to be done by a developer in the past. Once
 prototyped, the organizations developers can be used to fill in the gaps that go
-beyond the technician’s ability, such as developing the API’s that will do the
-checking in the company’s inventory system. Once created, those API’s can be
+beyond the technician’s ability, such as developing the APIs that will do the
+checking in the company’s inventory system. Once created, the APIs can be
 easily added to the Power App and to any Power Automate Flows that may be
 needed. This collaborative approach to creating solutions is often referred to
-as Fusion development and allows organizations to leverage the best resources
+as Fusion development and allows organizations to use the best resources
 for the required task.
 
 The image below provides an example the Fusion development approach.
@@ -75,7 +75,7 @@ connectors mean that organizations do not need to custom build integration
 solutions from the ground up, which can be costly both initially and to
 maintain.
 
-In addition to the cost benefits provided by leveraging Microsoft Power Platform, the
+In addition to the cost benefits provided by using Microsoft Power Platform, the
 Power Platform helps to increase performance and efficiency. The flexibility of
 the platform lets you build applications and solutions that meet your business
 initiatives and goals. For example, a dedicated time management Power App could
