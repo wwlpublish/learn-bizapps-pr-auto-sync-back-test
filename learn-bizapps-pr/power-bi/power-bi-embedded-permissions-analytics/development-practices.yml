@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-embedded-permissions-analytics.development-practices 
+title: Apply good development practices
+metadata: 
+  title: Apply good development practices
+  description: Learn to apply good development practices.
+  ms.date: 04/10/2022 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-bi 
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/development-practices.md)] 
