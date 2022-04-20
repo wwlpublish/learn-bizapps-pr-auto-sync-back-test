@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduction-to-power-apps-portals.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check"
+  ms.date: 04/15/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+azureSandbox: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/07-knowledge-check.md)]
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "Which one of the following selections is a valid target audience for Power Apps portals?"
+    choices:
+    - content: "Family members"
+      isCorrect: false
+      explanation: "Incorrect. Family members are not a valid target audience for portals."
+    - content: "Employees"
+      isCorrect: true
+      explanation: "Correct. The target audience for Power Apps portals can be customers, employees, or donors."
+    - content: "Competitors"
+      isCorrect: false
+      explanation: "Incorrect. Competitors are not a valid target audience for portals."
+  - content: "What role is required to be able to provision Power Apps portals for an organization?"
+    choices:
+    - content: "System Administrator"
+      isCorrect: true
+      explanation: "Correct. A user must have System Administrator role to create a Power Apps portal."
+    - content: "Office 365 Global administrator"
+      isCorrect: false
+      explanation: "Incorrect. You do not need to be an Office 365 Global administrator to provision a portal."
+    - content: "System Customizer"
+      isCorrect: false
+      explanation: "Incorrect. You do not need the System Customizer role to provision a portal."
+  - content: "Which of the following is the recommended authentication mechanism in Power Apps portals?"
+    choices:
+    - content: "Azure Active Directory B2C"
+      isCorrect: true
+      explanation: "Correct. Azure Active Directory B2C is the recommended identity provider for authentication."
+    - content: "Local authentication with username and password"
+      isCorrect: false
+      explanation: "Incorrect. This is not the recommended authentication mechanism for Power Apps portals."
+    - content: "Microsoft account"
+      isCorrect: false
+      explanation: "Incorrect. This is not the recommended authentication mechanism for Power Apps portals."
