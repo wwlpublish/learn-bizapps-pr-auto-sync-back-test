@@ -64,7 +64,7 @@ forms and views should be used with the application.
 4.  From the list of Forms that appears, select **Account,** and then select the
     **Save** button.
 
-    ![](../media/account-forms.png)
+    ![Account main form](../media/account-forms.png)
 
 5.  Under **Pages** on the left, select **Account** view.
 
