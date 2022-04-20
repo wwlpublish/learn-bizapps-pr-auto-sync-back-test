@@ -11,7 +11,6 @@ metadata:
 title: Integrate content with the Power BI client APIs
 summary: |
   [!include[](../includes/module-banner.md)]
-  <!-- > [!VIDEO https://www.microsoft.com/videoplayer/embed/] -->
 
   Embedding Power BI content is just a first step because there's so much more potential. The Power BI client APIs let you achieve tight integration between the app and the content. The app can set up and automate operations and it can also respond to user initiated actions. It's also possible to integrate Power BI capabilities, including navigation, authoring, filters and slicers, menu operations, layout, and bookmarks.
 
