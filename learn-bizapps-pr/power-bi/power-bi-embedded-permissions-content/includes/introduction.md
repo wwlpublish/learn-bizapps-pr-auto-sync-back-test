@@ -16,7 +16,7 @@ Once acquired, your app should cache the Azure AD token. The app will then use i
 
 Watch the following video that demonstrates the use of an interactive authentication flow.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4Vozg]
 
 > [!div class="mx-imgBorder"]
 > [![Thumbnail image from the video showing the flow of embedding Power B I content for your organization using interactive authentication flow.](../media/video-interactive-authentication-flow.png)](../media/video-interactive-authentication-flow.png#lightbox)
@@ -44,7 +44,7 @@ Specifically, an embed token describes:
 
 Watch the following video that demonstrates the use of a non-interactive authentication flow.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4Vozj]
 
 > [!div class="mx-imgBorder"]
 > [![Thumbnail image of video demonstrating the use of a non-interactive authentication flow.](../media/video-non-interactive-authentication-flow.png)](../media/video-non-interactive-authentication-flow.png#lightbox)
