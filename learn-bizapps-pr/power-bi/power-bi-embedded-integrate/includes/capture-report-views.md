@@ -19,7 +19,7 @@ You'll now explore the **Capture report views** showcase. This showcase demonstr
    > [!div class="mx-imgBorder"]
    > ![Image shows the Manufacturer slicer with Abbas selected.](../media/playground-capture-report-views-set-manufacturer-slicer.png)
 
-1  Select the **Capture view** button.
+1. Select the **Capture view** button.
 
    > [!div class="mx-imgBorder"]
    > ![Image highlights the Capture view button.](../media/playground-capture-report-views-capture-view-button.png)
