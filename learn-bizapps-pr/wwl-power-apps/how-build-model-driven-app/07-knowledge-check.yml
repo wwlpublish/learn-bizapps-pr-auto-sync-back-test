@@ -17,7 +17,7 @@ content: |
 quiz:
   title: "Check your knowledge"
   questions:
-  - content: "When building model-driven apps, which designer is used to define the navigation of your app?"
+  - content: "When you build a model-driven app, which designer is used to define the navigation of your app?"
     choices:
     - content: "App designer"
       isCorrect: false
@@ -27,7 +27,7 @@ quiz:
       explanation: "Incorrect. The view designer is not used to define the navigation of your app."
     - content: "Site map designer"
       isCorrect: true
-      explanation: "Correct. The site map designer is used to define the navigation of your app by dragging components onto the design canvas, previewing your work, and instantly publishing the site map. Administrators and any user with the required privileges can quickly create site maps for apps."
+      explanation: "Correct. The site map designer is used to define the navigation of your app. You can drag components onto the design canvas, preview your work, and instantly publish the site map. Administrators and any user with the required privileges can quickly create site maps for apps."
   - content: "If you wanted to create a standard procedure or process for handling service requests, what type of logic would be best to implement?"
     choices:
     - content: "Business process flow"
@@ -39,7 +39,7 @@ quiz:
     - content: "Workflow"
       isCorrect: false
       explanation: "Incorrect. Workflows would not be used to create a standard procedure or process for handling service requests."
-  - content: "When sharing a model-driven app, which of the following statements is true?"
+  - content: "When you want to share a model-driven app, which of the following statements is true?"
     choices:
     - content: "Users just need to be added to a predefined security role"
       isCorrect: false
