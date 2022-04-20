@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduction-to-power-apps-portals.introduction-power-apps-portals
+title: Introduction
+metadata:
+  title: Introduction
+  description: "Introduction"
+  ms.date: 04/15/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+azureSandbox: false
+durationInMinutes: 2
+content: |
+  [!include[](includes/01-introduction-power-apps-portals.md)]

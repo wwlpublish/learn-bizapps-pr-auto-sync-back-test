@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduction-to-power-apps-portals.overview-portals-security
+title: Overview of portals security
+metadata:
+  title: Overview of portals security
+  description: "Overview of portals security"
+  ms.date: 04/15/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+azureSandbox: false
+durationInMinutes: 5
+content: |
+  [!include[](includes/06-overview-portals-security.md)]
