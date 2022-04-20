@@ -138,7 +138,7 @@ list.
     > [!div class="mx-imgBorder"]
     > [![Mobile screenshot showing the sample report.](../media/sample-report-using-mobile-app.jpg)](../media/sample-report-using-mobile-app.jpg#lightbox)
 
-1. You can return to your SharePoint list and confirm the new item, including the image that has been added.
+1. You can return to your list and confirm the new item, including the image that has been added.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of SharePoint Reported Property Damage list with the image showing as an attachment.](../media/report-image.jpg)](../media/report-image.jpg#lightbox)

@@ -23,7 +23,7 @@ Frequently, you will want to use a dropdown menu or combo box so that users can 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of a partial account information form, showing a dropdown list with multiple categories selected: Standard and Preferred Customer.](../media/categories.png)](../media/categories.png#lightbox)
 
-First, you will add a combo box to the screen and then set the **Items** property by using the [Choices function](/powerapps/maker/canvas-apps/functions/function-choices/?azure-portal=true).
+First, you will add a combo box to the screen and then set the **Items** property by using the [Choices function](/power-apps/maker/canvas-apps/functions/function-choices/?azure-portal=true).
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the following expression as a formula for the Items property: Choices(Accounts.Category).](../media/choices.png)](../media/choices.png#lightbox)
@@ -47,7 +47,7 @@ Filter(
 
 ## Filter choices columns
 
-Filtering table rows on a choices column is complicated by how the data is stored in Dataverse as a comma-separated list. As a result, any filter that you compose that involves a choices column will receive a [delegation](/powerapps/maker/canvas-apps/delegation-overview/?azure-portal=true) warning, as illustrated in the following example.
+Filtering table rows on a choices column is complicated by how the data is stored in Dataverse as a comma-separated list. As a result, any filter that you compose that involves a choices column will receive a [delegation](/power-apps/maker/canvas-apps/delegation-overview/?azure-portal=true) warning, as illustrated in the following example.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the formula Filter(Accounts,Text(Dropdown1.Selected.Value in 'Preferred Delivery').](../media/filter.png)](../media/filter.png#lightbox)

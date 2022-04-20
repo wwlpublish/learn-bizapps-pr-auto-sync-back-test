@@ -1,4 +1,4 @@
-The **User** table holds information for users in your active directory, which uses Dataverse and works for a business unit. For more information on the User table, see [User and team tables](/powerapps/developer/data-platform/user-team-entities/?azure-portal=true#). For the Expense Report app, this table will hold information for the traveler who is filling out the expense report.
+The **User** table holds information for users in your active directory, which uses Dataverse and works for a business unit. For more information on the User table, see [User and team tables](/power-apps/developer/data-platform/user-team-entities/?azure-portal=true). For the Expense Report app, this table will hold information for the traveler who is filling out the expense report.
 
 As part of Common Data Model, the User table has many different columns. This unit will focus on the columns that are outlined in the following table.
 

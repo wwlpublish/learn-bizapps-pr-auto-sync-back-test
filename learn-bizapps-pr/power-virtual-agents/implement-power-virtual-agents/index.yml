@@ -1,42 +1,46 @@
-### YamlMime:Module 
-uid: learn-bizapps.implement-power-virtual-agents 
-metadata: 
+### YamlMime:Module
+uid: learn-bizapps.implement-power-virtual-agents
+metadata:
  title: Manage Power Virtual Agents
  description: Learn how to implement no-code chatbots to solve common customer issues.
- ms.date: 01/22/2021  
- author: DaveBeasley  
- ms.author: dbeasley  
- ms.topic: interactive-tutorial  
- ms.prod: learning-power-virtual-agents  
+ ms.date: 03/09/2022
+ author: heyrob
+ ms.author: robde
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-virtual-agents
 title: Manage Power Virtual Agents
-summary: |  
-  [!include[](../includes/module-banner.md)] 
+summary: |
+  [!include[](../includes/module-banner.md)]
   Learn how to implement no-code chatbots to solve common customer issues.
-abstract: |  
-    In this module, you will: 
+abstract: |
+    In this module, you will:
     - Create and configure a new bot.
     - Set permissions and security.
     - Use topics and entities.
+    - Import and export bots.
+    - Authenticate users.
 prerequisites: none
-iconUrl: /learn/achievements/implement-power-virtual-agents.svg  
-levels:  
-- intermediate   
-roles:  
-- maker  
+iconUrl: /learn/achievements/implement-power-virtual-agents.svg
+levels:
+- intermediate
+roles:
+- maker
 - functional-consultant
 - administrator
 - business-user
-products:  
-- power-platform  
-- power-virtual-agents 
-units: 
-- learn-bizapps.implement-power-virtual-agents.1-introduction 
-- learn-bizapps.implement-power-virtual-agents.2-environments 
-- learn-bizapps.implement-power-virtual-agents.3-bot-topics 
-- learn-bizapps.implement-power-virtual-agents.4-bot-entities 
-- learn-bizapps.implement-power-virtual-agents.5-monitor 
-- learn-bizapps.implement-power-virtual-agents.6-administer 
-- learn-bizapps.implement-power-virtual-agents.7-check 
-- learn-bizapps.implement-power-virtual-agents.8-summary 
-badge: 
-  uid: learn-bizapps.implement-power-virtual-agents.badge 
+products:
+- power-platform
+- power-virtual-agents
+units:
+- learn-bizapps.implement-power-virtual-agents.1-introduction
+- learn-bizapps.implement-power-virtual-agents.2-environments
+- learn-bizapps.implement-power-virtual-agents.3-bot-topics
+- learn-bizapps.implement-power-virtual-agents.4-bot-entities
+- learn-bizapps.implement-power-virtual-agents.5-monitor
+- learn-bizapps.implement-power-virtual-agents.6-administer
+- learn-bizapps.implement-power-virtual-agents.export-import-bots
+- learn-bizapps.implement-power-virtual-agents.authentication
+- learn-bizapps.implement-power-virtual-agents.7-check
+- learn-bizapps.implement-power-virtual-agents.8-summary
+badge:
+  uid: learn-bizapps.implement-power-virtual-agents.badge

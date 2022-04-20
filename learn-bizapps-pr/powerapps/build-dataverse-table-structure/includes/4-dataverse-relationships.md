@@ -6,7 +6,7 @@ Before you build the **AccidentTable**, you should learn about the different typ
 
 - A many-to-many relationship from the employee table (EmployeeTable) to your main accident table (AccidentTable)
 
-For more information, see [Table relationships overview](/powerapps/maker/data-platform/relationships-overview).
+For more information, see [Table relationships overview](/power-apps/maker/data-platform/relationships-overview/?azure-portal=true).
 
 The goal is for you to understand why the preceding relationships apply to your business case and that they are correctly associated.
 

@@ -14,9 +14,8 @@ Now that you have reviewed this module, you should be able to:
 
 
 
-| | |
-| - | - |
 | ![Icon of lightbulb](../media/key-takeaway.png) | Here are the three key takeaways: |
+| - | - |
 | | 1. Power Apps can reference elements within the app to create dynamic solutions and a friendly interface. |
 | | 2. With endless customization options, Power Apps can be used to enhance any business process. |
 | | 3. Creating and managing apps are simple and easy to learn, even for those without a computer programming background. |

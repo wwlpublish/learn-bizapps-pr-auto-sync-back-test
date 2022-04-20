@@ -29,7 +29,7 @@ You can now use the **formatDateTime** expression to get the format that you nee
 
 ## Variable action to view appended data
 
-Consider a scenario where you want to send a single approval action to multiple users. The data is stored in a SharePoint list with a Title column, which is a single line of text, and approvers, which is a people and groups column. The approvers have a multiple selection option.
+Consider a scenario where you want to send a single approval action to multiple users. The data is stored in a list in Microsoft Lists with a Title column, which is a single line of text, and approvers, which is a people and groups column. The approvers have a multiple selection option.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Settings > Edit Column dialog box with the Allow multiple selections option set to Yes and the Allow selection of option set to People only.](../media/image-8.png)](../media/image-8.png#lightbox)

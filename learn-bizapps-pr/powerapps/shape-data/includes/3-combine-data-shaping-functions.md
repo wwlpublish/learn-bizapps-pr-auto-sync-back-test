@@ -15,10 +15,10 @@ Search(Filter(YourDataSource, State = "Ohio"), SearchInput.Text, "AddressLine1",
 ```
 
 This formula will filter the data source named YourDataSource for all of
-the records where the State equals Ohio. The table of matching records
-is searched for all of the records where AddressLine1 or AddressLine2
+the rows where the State equals Ohio. The table of matching rows
+is searched for all of the rows where AddressLine1 or AddressLine2
 contains the string entered in the text control. Additionally, if the
-control is blank, then all of the records that were returned by the
+control is blank, then all of the rows that were returned by the
 Filter function will be displayed.
 
 When building formulas like shown above, it is recommended to start
@@ -34,10 +34,10 @@ data each step along the way.
 
 2.  Add YourDataSource to the **items** property and configure the
     gallery to display the columns for your query. Confirm that you see the
-    expected records.
+    expected rows.
 
 3.  Change the **items** property of the **Gallery** control to use the
-    **Filter** function and confirm that you see the expected records.
+    **Filter** function and confirm that you see the expected rows.
 
     a.  Filter(YourDataSource, State = \"Ohio\")
 
@@ -45,12 +45,12 @@ data each step along the way.
     **SearchInput**
 
 5.  Change the **items** property of the **Gallery** control to use the
-    Search function and confirm that you see the expected records.
+    Search function and confirm that you see the expected rows.
 
     a.  Search(YourDataSource, SearchInput.Text, "AddressLine1")
 
 6.  Add any additional columns to the Search function and confirm you
-    see the expected records.
+    see the expected rows.
 
     a.  Search(YourDataSource, SearchInput.Text, "AddressLine1",
         "AddressLine2")

@@ -11,4 +11,4 @@ On the toolbelt, select **Templates** and then choose the web template that you 
 > [!WARNING]
 > Directly editing the web templates with incorrect syntax can lead to undesirable results.
 
-For more information about the Liquid language, see [Work with Liquid templates](/powerapps/maker/portals/liquid/liquid-overview/?azure-portal=true).
+For more information about the Liquid language, see [Work with Liquid templates](/power-apps/maker/portals/liquid/liquid-overview/?azure-portal=true).

@@ -3,7 +3,7 @@ math operations across your data. This math can be counting functions or
 aggregate functions. Both support tables of data. Not covered in this
 module are additional math functions and operators for non-table data.
 For a complete list of all functions, see [Formula reference for
-Power Apps](/powerapps/maker/canvas-apps/formula-reference/?azure-portal=true).
+Power Apps](/power-apps/maker/canvas-apps/formula-reference/?azure-portal=true).
 
 ## Counting functions
 

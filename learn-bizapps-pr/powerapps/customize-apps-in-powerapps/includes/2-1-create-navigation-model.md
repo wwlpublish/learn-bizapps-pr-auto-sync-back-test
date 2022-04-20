@@ -14,7 +14,7 @@ When a navigation menu contains multiple options, then using a combination of a 
 
 ## Use a data source
 
-Having the menu content connected to the data source gives the flexibility to modify the menu without having to modify the app design in the canvas studio. Take, for example,  a SharePoint list. The menu can be added as items in the list as shown below.
+Having the menu content connected to the data source gives the flexibility to modify the menu without having to modify the app design in the canvas studio. Take, for example, Microsoft Lists. The menu can be added as items in the list as shown below.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of SharePoint showing Power Apps App Menu list of items.](../media/sharepoint-list-items.jpg)](../media/sharepoint-list-items.jpg#lightbox)
@@ -26,7 +26,7 @@ This list is then connected to Power Apps as a SharePoint data source.
 
 ## Use a collection
 
-You also have the flexibility to create a collection inside the canvas app using the **App OnStart** property. Then you can populate that collection in a gallery as a menu like a SharePoint list.
+You also have the flexibility to create a collection inside the canvas app using the **App OnStart** property. Then you can populate that collection in a gallery as a menu like a list in Microsoft Lists.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the OnStart formula set to ClearCollect(ColScreenNav) with each item set out with ID and ScreenName.](../media/collection-app-start.jpg)](../media/collection-app-start.jpg#lightbox)

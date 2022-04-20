@@ -61,7 +61,7 @@ The setup instructions are available in the **attendee > Lab materials > Lab01A*
 #### Setup instructions:
 1.	Download the self-study kit (.zip) locally
 2.	Edit the file properties, and “unblock”
-3.	Extract the file contents to your file system. The lab documents will refer to this location as <CourseFolder>
+3.	Extract the file contents to your file system. The lab documents will refer to this location as \<CourseFolder>
 
 ### Power BI account
 You are responsible for having your own Power BI account.

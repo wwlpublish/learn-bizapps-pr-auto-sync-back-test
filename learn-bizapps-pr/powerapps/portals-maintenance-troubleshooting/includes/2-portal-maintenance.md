@@ -19,7 +19,7 @@ After a few minutes, you should see a list of diagnostic results.
 
 The result will also provide mitigation steps or links to help you understand the impact of the issue.
 
-For more information, see [Portal Checker](/powerapps/maker/portals/admin/portal-checker/?azure-portal=true).
+For more information, see [Portal Checker](/power-apps/maker/portals/admin/portal-checker/?azure-portal=true).
 
 ## Enable maintenance mode
 
@@ -35,7 +35,7 @@ Within the Portals admin center actions is the option to enable the **Portal Mai
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Portal Maintenance Mode message.](../media/maintenance-mode.png)](../media/maintenance-mode.png#lightbox)
 
-The maintenance mode page can also be replaced with a custom HTML page that is hosted elsewhere and publicly accessible. For more information, see [Enable maintenance mode](/powerapps/maker/portals/admin/enable-maintenance-mode?azure-portal=true#enable-maintenance-mode).
+The maintenance mode page can also be replaced with a custom HTML page that is hosted elsewhere and publicly accessible. For more information, see [Enable maintenance mode](/power-apps/maker/portals/admin/enable-maintenance-mode?azure-portal=true#enable-maintenance-mode).
 
 ## Upgrade the portal
 

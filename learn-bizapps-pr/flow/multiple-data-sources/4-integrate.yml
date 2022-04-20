@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.multiple-data-sources.4-integrate 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.multiple-data-sources.4-integrate
 title: Exercise - Integrate Power Apps, Power Automate, and SharePoint
-metadata: 
+metadata:
   title: Exercise - Integrate Power Apps, Power Automate, and SharePoint
-  description: Learn how to integrate Power Apps, Power Automate, and SharePoint for a solution to efficiently manage business processes and information.
-  ms.date: 12/01/2021 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-automate 
-durationInMinutes: 8 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/4-integrate.md)] 
+  description: Learn how to integrate Power Apps, Power Automate, and SharePoint in a solution to manage business processes and information efficiently.
+  ms.date: 03/30/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-automate
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-integrate.md)]

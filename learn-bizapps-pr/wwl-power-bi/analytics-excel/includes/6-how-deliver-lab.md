@@ -12,7 +12,7 @@ Your student’s tasks in Lab 01A are to create their own Power Pivot:
 1. Build a PivotTable using the Power Pivot for Excel Data Model
 1. dd Conditional Formatting & Apply a Sort to the PivotTable
 
-The Lab document is available at <CourseFolder>\...\Lab01A
+The Lab document is available at \<CourseFolder>\...\Lab01A
 
 > [!NOTE]
 > Remind your students that the SureWi company scenario is for background only. It’s not very important to understand what the company does. 
@@ -28,7 +28,7 @@ Your student’s tasks in Lab 01B are to take an existing Power Pivot and adjust
 4.	Create a PivotChart from the Data Model using Time Intelligence Measures
 5.	Apply a Sort By on the Dates Lookup table
 
-Lab document available at <CourseFolder>\PowerBIPRIAD\Lab01B
+Lab document available at \<CourseFolder>\PowerBIPRIAD\Lab01B
 
 
 ## Video

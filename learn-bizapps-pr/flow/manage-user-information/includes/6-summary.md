@@ -1,4 +1,4 @@
-Congratulations! You've expanded your skills for creating flows that let you do more while working less.
+Congratulations! You've expanded your flow creation skills, letting you do more while working less.
 
 In the previous modules for Power Automate, you learned how to build simple flows. You've now increased your knowledge by learning about complex data sources, flow scheduling, integration, and complex business processes.
 

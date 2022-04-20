@@ -16,9 +16,8 @@ Now that you have reviewed this module, you should be able to:
 
 
 
-| | |
-| - | - |
 | ![Icon of lightbulb](../media/key-takeaway.png) | Here are the 3 key takeaways: |
+| - | - |
 | | 1. Power BI Desktop is a free application for PCs that lets you gather, transform, and visualize your data. |
 | | 2. Power BI Desktop connects to many types of data sources, including local databases, worksheets, and data on cloud services. |
 | | 3. Power BI simplifies collaboration and improves the outcome by allowing you and your colleagues to work simultaneously on the same dashboards and reports. |

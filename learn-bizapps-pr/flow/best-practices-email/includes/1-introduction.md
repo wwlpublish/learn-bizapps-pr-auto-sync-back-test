@@ -14,7 +14,7 @@ Currently, four triggers are available for Power Automate flows. These triggers 
 
 Each trigger will monitor all incoming email of the folder that you have specified in the trigger. Your default inbox is one of those folders. You can make monitoring more specific by describing to whom the email was sent, whether anyone was added to the **Cc** line, who sent the email, a specific string in the subject, and if attachments were added.
 
-## Save metadata to SharePoint lists
+## Save metadata to Microsoft Lists
 
 Metadata is defined as a set of data that describes and gives relevant information about other data. For example, as emails arrive to your Outlook inbox, you would primarily focus on the key metadata such as the **To**, **From**, **Subject**, and **Body** content. However, several other metadata items are available, such as **Importance**, that can be captured for future use. Saving metadata simplifies your task of searching in the future.
 
@@ -23,10 +23,10 @@ If you want to only capture the metadata of specific emails, then you can use a 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the settings for when an email arrives.](../media/email-arrives.png)](../media/email-arrives.png#lightbox)
 
-You can save the metadata from the email to columns in a SharePoint list as a new item.
+You can save the metadata from the email to columns in a Microsoft list as a new item.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the metadata from the email saved to columns in a SharePoint list.](../media/save-metadata.png)](../media/save-metadata.png#lightbox)
+> [![Screenshot of the metadata from the email saved to columns in a Microsoft list.](../media/save-metadata.png)](../media/save-metadata.png#lightbox)
 
 Metadata items that are currently available:
 

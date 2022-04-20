@@ -8,7 +8,7 @@ You will need to download the [spreadsheet](https://github.com/MicrosoftDocs/msl
 
 2.  Create a new Power Apps Canvas app from blank and call it "ShapeData". Select the **Tablet** format.
 
-3.  Make sure you have added this Excel sheet (link to download) to your OneDrive.
+3.  Make sure you have added [this Excel spreadsheet](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/blob/master/power-apps/shape-data/shape-data-learn.zip) to your OneDrive.
 
 4.  On the **Insert** tab, select **Gallery**, and then select the option for a vertical gallery.
 
@@ -62,7 +62,7 @@ You have connected to your **Excel** table in **OneDrive for Business** list, an
 
 You have now configured and interacted with the data in your gallery.
 
-**Filter Data in a gallery**
+**Filter data in a gallery**
 
 1.  Select on the gallery
 
@@ -111,7 +111,7 @@ You have now configured and interacted with the data in your gallery.
 
     **"Name"** - Represents the column or column where the search is made
 
-    This will return all the records where the *Name* column contained the value entered in the Text Input control *SearchInput*.
+    This will return all the rows where the *Name* column contained the value entered in the Text Input control *SearchInput*.
 
 4.  If you wanted to search more than one column, you can append the column names at the end of the expression.
 
@@ -151,11 +151,11 @@ Within Power Apps, you can utilize the concept of using one function to supply i
 
     **Items** - Refers to the Data Source name
 
-    **Collect** - Will copy all records from the **Items** into the **ItemsCollection** collection
+    **Collect** - Will copy all rows from the **Items** into the **ItemsCollection** collection
 
 4.  Run the app. select the button. Stop running the app.
 
-5.  On the **View** tab, select **Collections** and then select **ItemsCollection**. You will then see that all records from **Items** data source are been added into the **ItemsCollection** collection
+5.  On the **View** tab, select **Collections** and then select **ItemsCollection**. You will then see that all rows from **Items** data source have been added into the **ItemsCollection** collection
 
 **Explore other functions, which can be used with Collections**
 
@@ -197,7 +197,7 @@ Within Power Apps, you can utilize the concept of using one function to supply i
     Collect(DropCollection, DropColumns(ItemsCollection, "UnitPrice"))
     ```
 
-    Here, we have created a new collection called *DropCollection, which copies all data from the *ItemsCollection* collection but in addition, we use the *DropColumns* function to remove the UnitPrice Column.
+    Here, we have created a new collection called *DropCollection*, which copies all data from the *ItemsCollection* collection but in addition, we use the *DropColumns* function to remove the UnitPrice Column.
 
 8.  Select the **Rename Column** button.
 
@@ -207,7 +207,7 @@ Within Power Apps, you can utilize the concept of using one function to supply i
     Collect(RenameCollection, RenameColumns(ItemsCollection, "Name", "Product"))
     ```
 
-    Here, we have created a new collection called *RenameCollection, which copies all data from the *ItemsCollection* collection but in addition, we use the *RenameColumns* function to rename the *Name* column to *Product.*
+    Here, we have created a new collection called *RenameCollection*, which copies all data from the *ItemsCollection* collection but in addition, we use the *RenameColumns* function to rename the *Name* column to *Product.*
 
 10. Select the **Show Column** button.
 
@@ -217,8 +217,8 @@ Within Power Apps, you can utilize the concept of using one function to supply i
     Collect(ShowCollection, ShowColumns(ItemsCollection, "Name"))
     ```
 
-    Here, we have created a new collection called *ShowCollection, which copies all data from the *ItemsCollection* collection but in addition, we use the *ShowColumns* function to only show the *Name* column.
+    Here, we have created a new collection called *ShowCollection*, which copies all data from the *ItemsCollection* collection but in addition, we use the *ShowColumns* function to only show the *Name* column.
 
-12. Run the app. select all four buttons. Stop running the app.
+12. Run the app. Select all four buttons. Stop running the app.
 
 13. On the **View** tab, select **Collections** and then select each of the additional collections you have created to see what effect the functions had.

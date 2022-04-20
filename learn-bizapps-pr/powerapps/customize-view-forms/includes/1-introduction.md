@@ -10,7 +10,7 @@ Views define how a list of records for a specific table will appear in your app.
 > [!div class="mx-imgBorder"]
 > [![Screenshot showing a sample view of the accident tracking table.](../media/1-accident-table.png)](../media/1-accident-table.png#lightbox)
 
-The tables that you created in the previous module have a set of default views that you can use to show meaningful data to the users. In this module, you will focus on modifying these default views; however, keep in mind that the same concepts would apply if you wanted to create a new custom view(s). For more information, see [Understand model-driven app views](/powerapps/maker/model-driven-apps/create-edit-views/?azure-portal=true).
+The tables that you created in the previous module have a set of default views that you can use to show meaningful data to the users. In this module, you will focus on modifying these default views; however, keep in mind that the same concepts would apply if you wanted to create a new custom view(s). For more information, see [Understand model-driven app views](/power-apps/maker/model-driven-apps/create-edit-views/?azure-portal=true).
 
 Now that you have an overview of views, you can begin your first exercise and observe how to modify a default table view.
 

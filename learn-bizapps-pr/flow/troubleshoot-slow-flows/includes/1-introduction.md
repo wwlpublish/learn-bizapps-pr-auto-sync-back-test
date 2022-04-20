@@ -20,7 +20,7 @@ Known issues and limitations:
 
 - Default SharePoint flows such as **Request sign-off** won't be listed on the Power Automate portal and aren't editable.
 
-- If you're getting an incomplete dataset, or you aren't able to return accurate results from the SharePoint list, it might be because of delegation limits.
+- If you're getting an incomplete dataset, or you aren't able to return accurate results from the list in Microsoft Lists, it might be because of delegation limits.
 
 - If you receive the **CannotDisableTriggerConcurrency** error while you are using SharePoint triggers in a flow, after you enable and disable the concurrency control, it can't be undone. To work around this issue, export the flow and edit the JSON file to remove the "concurrency control" part so that the concurrency option will be disabled during the reimport of the flow.
 

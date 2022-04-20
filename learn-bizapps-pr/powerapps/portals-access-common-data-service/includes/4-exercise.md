@@ -14,7 +14,7 @@ The following prerequisites are necessary for completing these exercises:
 
 - Access to the Power Apps maker portal.
 - Ideally, you will have the default sample Microsoft Dataverse apps and data, but you can use other Dataverse entities.
-- You will need to have provisioned a Power Apps portal to complete the exercise. If you do not have a provisioned portal, go to [Create Portal](/powerapps/maker/portals/create-portal/?azure-portal=true) to create one.
+- You will need to have provisioned a Power Apps portal to complete the exercise. If you do not have a provisioned portal, go to [Create Portal](/power-apps/maker/portals/create-portal/?azure-portal=true) to create one.
 
 > [!TIP]
 > The exercises work best when you have sample data to work with. When you provision a Dataverse environment, you have the opportunity to add sample apps and data.  Review the [Create Environment](/power-platform/admin/create-environment.md?azure-portal=true#create-an-environment-with-a-database) steps to provision a Dataverse environment with sample apps and data.
