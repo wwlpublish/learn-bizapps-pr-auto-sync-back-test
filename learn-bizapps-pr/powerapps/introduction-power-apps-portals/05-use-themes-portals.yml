@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduction-to-power-apps-portals.use-themes-portals
+title: Use themes in portals
+metadata:
+  title: Use themes in portals
+  description: "Use themes in portals"
+  ms.date: 04/15/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+azureSandbox: false
+durationInMinutes: 10
+content: |
+  [!include[](includes/05-use-themes-portals.md)]

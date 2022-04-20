@@ -63,7 +63,7 @@ Three ways to create a custom column in Power BI are:
 
 -   Create a custom column in Power Query.
 
--   Create a calculated column by using DAX in Power BI.
+-   Create a calculated column by using DAX in Power BI desktop.
 
 You can create a calculated column when you pull the data from the data source. Each data source would have a different technique for completing this action. For instance, if you were pulling data from a relational data source by using a view that was written in the SQL language, it would look like the following example:
 
@@ -87,7 +87,7 @@ The third way to create a calculated column is by using DAX in Power BI, as prev
 
 When you create a calculated column by using DAX, you do not need to refresh the dataset to see the new column. In the other methods, you would need a refresh to see changes. This process can be lengthy if you are working with a lot of data. However, this issue is irrelevant because, after columns have been created, they are rarely changed.
 
-The DAX calculated column does not compress as well as the other methods. The other column types do get compressed, which makes the .pbix file smaller and the performance usually faster.
+The DAX calculated column does not compress as well as the other methods. The other column types do get compressed, which makes the .pbix file smaller and the performance is usually faster.
 
 Generally, the earlier you can create a column, the better. It is not considered an optimal practice to use DAX for calculations if you can use a different mechanism.
 
