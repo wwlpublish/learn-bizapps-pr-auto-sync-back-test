@@ -44,7 +44,7 @@ For example, technicians in the field may encounter scenarios where, they need a
 part to execute a job. Ideally if that part is inventory, they can easily
 request the part so they can continue to work. However, many times, there is a
 bottle neck in this process. They need submit a request to the parts person
-first. These means that they can be potentially spending time waiting for the
+first. This means that they can be potentially spending time waiting for the
 parts person to get back to them only to find later that the part is not in
 stock. This could be easily solved by building a dedicated Power App. By being
 able to check inventory levels while onsite, technicians do not have to spend
@@ -94,7 +94,7 @@ The business value provided by Microsoft Power Platform extends beyond the value
 the platform to the value of the apps themselves that are being built. These
 applications typically help improve one or more value drivers, such as
 performance improvement, direct or indirect cost savings, risk mitigation or
-business transformation. This allows organizations have a library of
+business transformation. This allows organizations to have a library of
 applications to facilitate day to day operations. These apps might include
 solutions for facilities management, solutions to assist with employee
 onboarding, solutions for streamlining process, and more.

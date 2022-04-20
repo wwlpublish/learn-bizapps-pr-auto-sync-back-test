@@ -108,7 +108,8 @@ While the requirements for each approach will vary, they all require a Power
 Apps per app or per user plan. Each link above points to the instructions for
 each approach.
 
->   [!NOTE] The purpose of this module is to help you better understand data
+> [!NOTE]
+>   The purpose of this module is to help you better understand data
 >   sources and connectors as a whole, but if you would like to learn more about
 >   custom connectors and even walk through an exercise to build one, check out
 >   the module [Use custom connectors in a Power Apps canvas

@@ -9,9 +9,6 @@ Now that you have reviewed this module, you should be able to:
 - Understand and explain the value of using Microsoft Power Platform to create business solutions
 
 ## Key takeaways
-
-
-
 | | |
 | - | - |
 | ![Icon of lightbulb](../media/key-takeaway.png) | Here are the five key takeaways: |
