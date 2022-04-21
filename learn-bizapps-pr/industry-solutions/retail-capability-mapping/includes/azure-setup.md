@@ -23,7 +23,7 @@ In this task, we'll walk through the steps to obtain a trial Azure subscription.
     > A credit card is only required to verify your identity. You will not be charged unless you upgrade your subscription. Please read the following Microsoft Docs to understand how to [Avoid charges with your Azure free account](/azure/cost-management-billing/manage/avoid-charges-free-account/?azure-portal=true).
     >
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Create your Azure free account screen showing Identity verification by card.](../media/card.png)](../media/card.png#lightbox)
+    > ![Screenshot of the Create your Azure free account screen showing Identity verification by card.](../media/card.png)
 
 **Congratulations!** You have successfully set up your Trial Azure subscription.
 
@@ -37,17 +37,17 @@ In this task, you'll learn the steps to create a resource group that will be use
 1. In [Azure](https://portal.azure.com/?azure-portal=true), search for **Resource groups**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the search results for resource with Resource groups selected.](../media/resource-groups.png)](../media/resource-groups.png#lightbox)
+    > ![Screenshot of the search results for resource with Resource groups selected.](../media/resource-groups.png)
 
 1. You may also find Resource groups in the upper left flyout menu.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the flyout menu with Resource groups selected.](../media/menu.png)](../media/menu.png#lightbox)
+    > ![Screenshot of the flyout menu with Resource groups selected.](../media/menu.png)
 
 1. Select **Create**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Microsoft Azure Resource groups showing the Create button.](../media/create.png)](../media/create.png#lightbox)
+    > ![Screenshot of Microsoft Azure Resource groups showing the Create button.](../media/create.png)
 
 1. Enter the following values for your new resource group:
 
@@ -60,18 +60,17 @@ In this task, you'll learn the steps to create a resource group that will be use
 1. Select **Review + create**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Create a resource group dialog.](../media/create-resource-group.png)](../media/create-resource-group.png#lightbox)
-
+    > ![Screenshot of the Create a resource group dialog.](../media/create-resource-group.png)
 1. Select **Create** once validation has passed.
 
 1. Select **Create**. It takes a few seconds to create a resource group.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Create a resource group dialog showing validation passed.](../media/validation.png)](../media/validation.png#lightbox)
+    > ![Screenshot of the Create a resource group dialog showing validation passed.](../media/validation.png)
 
 1. Select **Refresh** from the top menu to refresh the resource group list, and then select the newly created resource group to open it. Or select **Notification** (the bell icon) from the top and select **Go to resource group** to open the newly created resource group.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Notifications drop-down showing the go to resource group option.](../media/notifications.png)](../media/notifications.png#lightbox)
+    > ![Screenshot of the Notifications drop-down showing the go to resource group option.](../media/notifications.png)
 
 **Congratulations!** You've successfully created a Resource Group in your Azure subscription. You'll use this resource group when creating Azure resources, such as the Azure Blob storage.

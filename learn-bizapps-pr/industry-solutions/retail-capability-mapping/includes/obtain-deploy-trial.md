@@ -28,32 +28,32 @@ In this task, we'll add the necessary add-on to deploy and use the Omnichannel A
 1. Go to **Billing** > **Purchase Services** and select **Add-ons** under "View by category". You may also use the search box. Find the Customer Service Digital Messaging add-on and select **Details**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Microsoft 365 admin center Purchase services page.](../media/purchase.png)](../media/purchase.png#lightbox)
+    > ![Screenshot of the Microsoft 365 admin center Purchase services page.](../media/purchase.png)
 
 1. Select **Start free trial**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Product details for Dynamics 365 Customer Service Digital Messaging add-on showing the start free trial option.](../media/messaging.png)](../media/messaging.png#lightbox)
+    > ![Screenshot of the Product details for Dynamics 365 Customer Service Digital Messaging add-on showing the start free trial option.](../media/messaging.png)
 
 1. Select **Try now**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the confirm your order dialog showing the try now button.](../media/try-now.png)](../media/try-now.png#lightbox)
+    > ![Screenshot of the confirm your order dialog showing the try now button.](../media/try-now.png)
 
 1. Select **Continue** to return to the admin center.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the order receipt dialog showing the continue button.](../media/continue.png)](../media/continue.png#lightbox)
+    > ![Screenshot of the order receipt dialog showing the continue button.](../media/continue.png)
 
 1. Assign the newly acquired Customer Service Digital Messaging add-on trial license to your user by going to **Users** > **Active Users**, select your user and select **Manage product licenses**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Microsoft 365 admin center Active Users page showing the manage product licenses option.](../media/manage-licenses.png)](../media/manage-licenses.png#lightbox)
+    > ![Screenshot of the Microsoft 365 admin center Active Users page showing the manage product licenses option.](../media/manage-licenses.png)
 
 1. Check the box for **Dynamics 365 Customer Service Digital Messaging add-on** license and select **Save changes**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Licenses and apps tab showing the customer service digital messaging add-on license selected and the Save changes button highlighted.](../media/messaging-license.png)](../media/messaging-license.png#lightbox)
+    > ![Screenshot of the Licenses and apps tab showing the customer service digital messaging add-on license selected and the Save changes button highlighted.](../media/messaging-license.png)
 
     > [!Important]
     > It may take up to **24 hours** for Omnichannel for Customer Service to become available in your Dynamics 365 apps after you obtain the trial license.
@@ -77,22 +77,22 @@ In this task, we'll add the necessary add-on to deploy and use the Intelligent O
 1. Select **Try now**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the order confirmation showing 1 month term and the try now button.](../media/try-now-2.png)](../media/try-now-2.png#lightbox)
+    > ![Screenshot of the order confirmation showing 1 month term and the try now button.](../media/try-now-2.png)
 
 1. Select **Continue** to return to the admin center.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the order receipt showing the continue button and confirmation number.](../media/continue-2.png)](../media/continue-2.png#lightbox)
+    > ![Screenshot of the order receipt showing the continue button and confirmation number.](../media/continue-2.png)
 
 1. Assign the newly acquired Dynamics 365 Intelligent Order Management trial license to your user by going to **Users** > **Active Users**, select your user and select **Manage product licenses**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Microsoft 365 admin center Active users page showing the Manage product licenses option highlighted.](../media/manage-licenses-2.png)](../media/manage-licenses-2.png#lightbox)
+    > ![Screenshot of the Microsoft 365 admin center Active users page showing the Manage product licenses option highlighted.](../media/manage-licenses-2.png)
 
 1. Check the box for **Dynamics 365 Intelligent Order Management vTrial** license and select **Save changes**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the licenses and apps tab showing the Intelligent order management trial selected.](../media/intelligent-license.png)](../media/intelligent-license.png#lightbox)
+    > ![Screenshot of the licenses and apps tab showing the Intelligent order management trial selected.](../media/intelligent-license.png)
 
     > [!Important]
     > It may take up to **24 hours** for Dynamics 365 Intelligent Order Management to become available in your Dynamics 365 apps after you obtain the trial license.
@@ -106,37 +106,37 @@ In this task, we'll add the necessary Office 365 trial to use Outlook and Micros
 1. Go to **Billing** > **Purchase Services** and select Office 361. Scroll down to Office 365 E5 and select **Details**. You may also use the upper right search box.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Microsoft 365 admin center Purchase services page with the Office 365 category selected and the Office 365 E5 tile's Details button highlighted.](../media/purchase-2.png)](../media/purchase-2.png#lightbox)
+    > ![Screenshot of the Microsoft 365 admin center Purchase services page with the Office 365 category selected and the Office 365 E5 tile's Details button highlighted.](../media/purchase-2.png)
 
 1. Select **Start free trial**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the product details page for Office 365 E5 showing the start free trial option.](../media/start-trial-3.png)](../media/start-trial-3.png#lightbox)
+    > ![Screenshot of the product details page for Office 365 E5 showing the start free trial option.](../media/start-trial-3.png)
 
 1. Enter a **valid phone number** to prove you're not a robot.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the prove you're not a robot screen.](../media/robot.png)](../media/robot.png#lightbox)
+    > ![Screenshot of the prove you're not a robot screen.](../media/robot.png)
 
 1. Select **Try now** to start your free trial.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the check out screen for the Office 365 E5 trial.](../media/try-now-3.png)](../media/try-now-3.png#lightbox)
+    > ![Screenshot of the check out screen for the Office 365 E5 trial.](../media/try-now-3.png)
 
 1. Select **Continue** to return to the admin center.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the order receipt with confirmation number for the E5 trial.](../media/continue-3.png)](../media/continue-3.png#lightbox)
+    > ![Screenshot of the order receipt with confirmation number for the E5 trial.](../media/continue-3.png)
 
 1. Assign the newly acquired Office 365 E5 trial license to your user by going to **Users** > **Active Users**, select your user and select **Manage product licenses**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Microsoft 365 admin center Active users page showing the Manage product licenses option.](../media/manage-licenses-3.png)](../media/manage-licenses-3.png#lightbox)
+    > ![Screenshot of the Microsoft 365 admin center Active users page showing the Manage product licenses option.](../media/manage-licenses-3.png)
 
 1. Select the **Office 365 E5** license and select **Save changes**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the licenses and apps tab with Office 365 E5 selected.](../media/e-5-license.png)](../media/e-5-license.png#lightbox)
+    > ![Screenshot of the licenses and apps tab with Office 365 E5 selected.](../media/e-5-license.png)
 
 ## Task 5: Obtain Microsoft Cloud for Retail trial license
 
@@ -173,12 +173,12 @@ In this task, we'll install Microsoft Dynamics 365 Intelligent Order Management 
 1. In the [Power Platform admin center](https://admin.powerplatform.com/?azure-portal=true), expand **Resources** and go to **Dynamics 365 apps** to search for available apps at the tenant level.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Resources expanded to show the Dynamics 365 apps option.](../media/apps.png)](../media/apps.png#lightbox)
+    > ![Screenshot of Resources expanded to show the Dynamics 365 apps option.](../media/apps.png)
 
 1. In the upper right search bar, search for Dynamics 365 Intelligent Order Management Trial and select **Install**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Power Platform admin center Dynamics 365 apps page showing Dynamics 365 Intelligent Order Management Trial selected.](../media/365-apps.png)](../media/365-apps.png#lightbox)
+    > ![Screenshot of the Power Platform admin center Dynamics 365 apps page showing Dynamics 365 Intelligent Order Management Trial selected.](../media/365-apps.png)
 
 1. Select your newly created trial environment from the drop-down menu, agree to the terms, and select **Install**.
 
@@ -188,12 +188,12 @@ In this task, we'll install Microsoft Dynamics 365 Intelligent Order Management 
 1. Go back to **Dynamics 365 apps** under Resources and search for **Customer Service**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the search results for Customer Service with Dynamics 365 Customer Service Enterprise Trial selected.](../media/apps-customer-service.png)](../media/apps-customer-service.png#lightbox)
+    > ![Screenshot of the search results for Customer Service with Dynamics 365 Customer Service Enterprise Trial selected.](../media/apps-customer-service.png)
 
 1. Select your newly created trial environment from the drop-down menu, agree to the terms, and select **Install**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the .](../media/install-2.png)](../media/install-2.png#lightbox)
+    > ![Screenshot of the .](../media/install-2.png)
 
 1. Track your installs on your environment's Dynamics 365 apps page. These installs will take several hours to complete.
 
@@ -206,7 +206,7 @@ In this task, you'll configure Omnichannel for Customer Service to deploy and us
 1. Expand **Resources** on the left navigation bar and select **Dynamics 365 apps**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the navigation bar with resources expanded to show Dynamics 365 apps.](../media/apps.png)](../media/apps.png#lightbox)
+    > ![Screenshot of the navigation bar with resources expanded to show Dynamics 365 apps.](../media/apps.png)
 
 1. Search for **Omni**, select **Omnichannel for Customer Service**, and select **Manage**.
 
@@ -214,29 +214,29 @@ In this task, you'll configure Omnichannel for Customer Service to deploy and us
     > If you do not see the application available, it may not yet be reflected after adding the digital messaging add-on trial license in the previous exercise. It may take up to 24 hours to become available in the Dynamics 365 apps list.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the search results for omnichannel with Omnichannel for Customer Service selected and the Manage option highlighted.](../media/omnichannel.png)](../media/omnichannel.png#lightbox)
+    > ![Screenshot of the search results for omnichannel with Omnichannel for Customer Service selected and the Manage option highlighted.](../media/omnichannel.png)
 
 1. Select **OK** to navigate to the Omnichannel for Customer Service administration center.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the manage omnichannel for customer service dialog box.](../media/manage.png)](../media/manage.png#lightbox)
+    > ![Screenshot of the manage omnichannel for customer service dialog box.](../media/manage.png)
 
 1. In the new window, select **+ Add** environment.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Dynamics 365 Administration Center Omnichannel showing the Add environment button.](../media/add-environment.png)](../media/add-environment.png#lightbox)
+    > ![Screenshot of Dynamics 365 Administration Center Omnichannel showing the Add environment button.](../media/add-environment.png)
 
 1. Select your environment from the drop-down menu and select **Next**.
 
 1. Under Chat, toggle **Yes** to add Chat.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Omnichannel setup chat page with Add chat toggled to Yes.](../media/add-chat.png)](../media/add-chat.png#lightbox)
+    > ![Screenshot of the Omnichannel setup chat page with Add chat toggled to Yes.](../media/add-chat.png)
 
 1. Select **Next** all the way to **Confirmation** and then select **Finish**. You only need to enable the chat channel for setup.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Omnichannel setup confirmation page.](../media/confirmation-2.png)](../media/confirmation-2.png#lightbox)
+    > ![Screenshot of the Omnichannel setup confirmation page.](../media/confirmation-2.png)
 
 1. Select **Finish** to kick off the installation. The installation will take several hours to complete. Once finished, you may proceed to the next task.
 
