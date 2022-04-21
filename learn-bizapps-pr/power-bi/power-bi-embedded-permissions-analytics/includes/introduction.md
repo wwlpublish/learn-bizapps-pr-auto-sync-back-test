@@ -9,7 +9,7 @@ Also consider a *multi-tenancy* app. Multiple organizations use a multi-tenancy 
 
 To gain a better understanding of how RLS restricts access to data, watch the following video.
 
-<!-- > [!VIDEO https://www.microsoft.com/videoplayer/embed/] -->
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4VgMk]
 
 > [!div class="mx-imgBorder"]
 > ![Diagram of row-level security.](../media/row-level-security.png)
