@@ -49,7 +49,7 @@ The app embeds Power BI content in the `div` element, hosting the content within
 
 Watch the following video that demonstrates how the client library works.
 
-<!-- > [!VIDEO https://www.microsoft.com/videoplayer/embed/] -->
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4Vozz]
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of  Power BI client library.](../media/power-bi-client-library.png)](../media/power-bi-client-library.png#lightbox)
