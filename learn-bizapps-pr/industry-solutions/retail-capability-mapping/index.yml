@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-bizapps.retail-capability-mapping
+metadata:
+ title: Microsoft Cloud for Retail capability mapping
+ description: Learn about which Microsoft products you'll need in order to access different capabilities and how to set up a training environment for this learning path.
+ ms.date: 04/26/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-industry-solutions
+title: Microsoft Cloud for Retail capability mapping
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module will walk you through the Microsoft Cloud for Retail capability and product mapping the process of obtaining a training environment to be used for the subsequent modules in this Learning Path. The Microsoft Cloud for Retail is a conflux of Microsoft Dynamics 365, Microsoft Azure, and Microsoft 365. To take full advantage of the Microsoft Cloud for Retail solution and this Learning Path, it's recommended to have access to all three clouds.
+abstract: |
+    In this module, you will:
+    - Understand the capabilities and product mapping
+    - Learn which applications are required to deploy Microsoft Cloud for Retail
+    - Learn how to obtain trial licenses for completing this training
+    - Set up a Microsoft Cloud for Retail training environment
+prerequisites: You must possess a Global Administrator role in your Microsoft 365 tenant to complete the exercises in this module. This role should apply automatically if your user creates the tenant.
+iconUrl: /learn/achievements/retail-capability-mapping.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- industry-solutions
+- mscloud-retail
+units:
+- learn-bizapps.retail-capability-mapping.introduction
+- learn-bizapps.retail-capability-mapping.set-up-tenant
+- learn-bizapps.retail-capability-mapping.obtain-deploy-trial
+- learn-bizapps.retail-capability-mapping.azure-setup
+- learn-bizapps.retail-capability-mapping.check
+- learn-bizapps.retail-capability-mapping.summary
+badge:
+  uid: learn-bizapps.retail-capability-mapping.badge
