@@ -28,7 +28,7 @@ In this task, we'll add the necessary add-on to deploy and use the Omnichannel A
 1. Go to **Billing** > **Purchase Services** and select **Add-ons** under "View by category". You may also use the search box. Find the Customer Service Digital Messaging add-on and select **Details**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Microsoft 365 admin center Purchase services page.](../media/purchase.png)
+    > [![Screenshot of the Microsoft 365 admin center Purchase services page.](../media/purchase.png)](../media/purchase.png#lightbox)
 
 1. Select **Start free trial**.
 
@@ -106,7 +106,7 @@ In this task, we'll add the necessary Office 365 trial to use Outlook and Micros
 1. Go to **Billing** > **Purchase Services** and select Office 361. Scroll down to Office 365 E5 and select **Details**. You may also use the upper right search box.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Microsoft 365 admin center Purchase services page with the Office 365 category selected and the Office 365 E5 tile's Details button highlighted.](../media/purchase-2.png)
+    > ![Screenshot of the Microsoft 365 admin center Purchase services page with the Office 365 category selected and the Office 365 E5 tile's Details button highlighted.](../media/purchase-2.png)](../media/purchase-2.png#lightbox)
 
 1. Select **Start free trial**.
 
@@ -136,7 +136,7 @@ In this task, we'll add the necessary Office 365 trial to use Outlook and Micros
 1. Select the **Office 365 E5** license and select **Save changes**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the licenses and apps tab with Office 365 E5 selected.](../media/e-5-license.png)
+    > ![Screenshot of the licenses and apps tab with Office 365 E5 selected.](../media/office-e-5-license.png)
 
 ## Task 5: Obtain Microsoft Cloud for Retail trial license
 
@@ -144,15 +144,30 @@ In this task, we'll request and add the Microsoft Cloud for Retail add-on to dep
 
 1. To obtain a trial license for Microsoft Cloud for Retail, navigate to the following Microsoft Form and fill out the required information: [Trial Request for Microsoft Cloud for Retail](https://aka.ms/MCRTrial/?azure-portal=true).
 
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Trial Request for Microsoft Cloud for Retail form.](../media/request.png)
+
 1. You'll then receive an email with a URL that contains an offer code that you can use to claim a 30-day trial license for Microsoft Cloud for Retail. Once you receive that email, copy the URL, open a new tab while logged into your tenant, and paste the URL.
 
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the email showing the link to claim the license.](../media/email.png)
+
 1. Enter the **email address** associated with your tenant and select **Next**.
+
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the account setup page showing the email address.](../media/email-address.png)
 
 1. Select **Sign In**.
 
 1. Select **Try now**.
 
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the .](../media/try-now-4.png)
+
 1. Select **Continue**.
+
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the .](../media/continue-4.png)
 
 ## Task 6: Deploy Dynamics 365 eCommerce Sandbox environment and enable power platform integration
 
@@ -178,7 +193,7 @@ In this task, we'll install Microsoft Dynamics 365 Intelligent Order Management 
 1. In the upper right search bar, search for Dynamics 365 Intelligent Order Management Trial and select **Install**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Power Platform admin center Dynamics 365 apps page showing Dynamics 365 Intelligent Order Management Trial selected.](../media/365-apps.png)
+    > ![Screenshot of the Power Platform admin center Dynamics 365 apps page showing Dynamics 365 Intelligent Order Management Trial selected.](../media/dynamics-365-apps.png)
 
 1. Select your newly created trial environment from the drop-down menu, agree to the terms, and select **Install**.
 
@@ -188,12 +203,12 @@ In this task, we'll install Microsoft Dynamics 365 Intelligent Order Management 
 1. Go back to **Dynamics 365 apps** under Resources and search for **Customer Service**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the search results for Customer Service with Dynamics 365 Customer Service Enterprise Trial selected.](../media/apps-customer-service.png)
+    > [![Screenshot of the search results for Customer Service with Dynamics 365 Customer Service Enterprise Trial selected.](../media/apps-customer-service.png)](../media/apps-customer-service.png#lightbox)
 
 1. Select your newly created trial environment from the drop-down menu, agree to the terms, and select **Install**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the .](../media/install-2.png)
+    > ![Screenshot of the trial terms showing the install button.](../media/install-2.png)
 
 1. Track your installs on your environment's Dynamics 365 apps page. These installs will take several hours to complete.
 
