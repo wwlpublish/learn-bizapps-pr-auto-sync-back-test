@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-embedded-integrate.personalize-top-insights
+title: Personalize top insights
+metadata:
+  title: Personalize top insights
+  description: Explore the Personalize top insights showcase.
+  ms.date: 04/10/2022
+  author: heyrob
+  ms.author: robde
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-bi
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/personalize-top-insights.md)]
