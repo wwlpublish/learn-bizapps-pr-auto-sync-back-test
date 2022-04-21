@@ -162,12 +162,12 @@ In this task, we'll request and add the Microsoft Cloud for Retail add-on to dep
 1. Select **Try now**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the .](../media/try-now-4.png)
+    > ![Screenshot of the check out page for Microsoft Cloud for Retail Add-on Trial showing the Try now button.](../media/try-now-4.png)
 
 1. Select **Continue**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the .](../media/continue-4.png)
+    > ![Screenshot of the order receipt and confirmation number.](../media/continue-4.png)
 
 ## Task 6: Deploy Dynamics 365 eCommerce Sandbox environment and enable power platform integration
 
