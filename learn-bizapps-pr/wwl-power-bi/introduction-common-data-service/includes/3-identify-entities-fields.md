@@ -7,9 +7,11 @@ Below you can see a screenshot of the standard contact table and various types o
 
 The two types of tables are:
 
-- **Standard** - The base set of tables that are created for every instance of a Microsoft Dataverse database. You can add more columns to any table, but you can only delete columns from a custom table.
+- **Standard** - Several standard tables, also known as out-of-box tables, are included with a Dataverse environment. Account, business unit, contact, task, and user tables are examples of standard tables in Dataverse. Most of the standard tables included with Dataverse can be customized. Tables that are imported as part of a managed solution and set as customizable also appear as standard tables. Any user with appropriate privileges can customize these tables where the table property has customizable set to true.
 
-- **Complex** - Tables that contain complex, server-side business logic, including real-time workflows or plug-ins. Some of the tables that are used in Dynamics 365 applications are complex. Care must be taken if you add server-side logic to ensure that users have the proper license to use the complex table. Additional information about complex tables can be accessed by following the link within the summary unit of this module.
+- **Managed** - Tables that aren’t customizable and have been imported into the environment as part of a managed solution.
+
+- **Custom** - Custom tables are unmanaged tables that are either imported from an unmanaged solution or are new tables created directly in the Dataverse environment. Any user with appropriate privileges can fully customize these tables.
 
 ## Columns
 
