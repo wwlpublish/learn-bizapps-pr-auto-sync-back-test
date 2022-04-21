@@ -106,7 +106,7 @@ In this task, we'll add the necessary Office 365 trial to use Outlook and Micros
 1. Go to **Billing** > **Purchase Services** and select Office 361. Scroll down to Office 365 E5 and select **Details**. You may also use the upper right search box.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Microsoft 365 admin center Purchase services page with the Office 365 category selected and the Office 365 E5 tile's Details button highlighted.](../media/purchase-2.png)](../media/purchase-2.png#lightbox)
+    > [![Screenshot of the Microsoft 365 admin center Purchase services page with the Office 365 category selected and the Office 365 E5 tile's Details button highlighted.](../media/purchase-2.png)](../media/purchase-2.png#lightbox)
 
 1. Select **Start free trial**.
 
