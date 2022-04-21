@@ -63,7 +63,7 @@ Every pillar of Microsoft Cloud for Retail is supported by a foundation of trust
 Fifteen capabilities are enabled through the four prioritized scenarios.
 
 > [!div class="mx-imgBorder"]
-> ![Diagram showing the four key prioritized scenarios.](../media/capabilities.png)
+> [![Diagram showing the four key prioritized scenarios.](../media/capabilities.png)](../media/capabilities.png#lightbox)
 
 This module will explain these capabilities around the value chain.
 
