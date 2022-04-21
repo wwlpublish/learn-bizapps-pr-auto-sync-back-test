@@ -107,8 +107,7 @@ and publish them to the
 You can download these visuals and add them to your Power BI reports. Microsoft
 has tested and approved these Power BI visuals for functionality and quality.
 
->   [!NOTE]
-
+>[!NOTE]
 >   By using Power BI visuals created with our SDK, you may be importing data
 >   from, or sending data to, third party or other services located outside of
 >   your Power BI tenant’s geographic area, compliance boundary, or national
@@ -349,7 +348,7 @@ In the example below:
 
 ![Screenshot of a sample data set](../media/sample-data-set.png) 
 
-When creating a visualization in Power BI, the service will aggregate numeric
+When you create a visualization in Power BI, the service will aggregate numeric
 fields (the default is *sum*) over some categorical field. For example, "Units
 Sold *by Product*", "Units Sold *by Month*" and "Manufacturing Price *by
 Segment*". Power BI refers to some numeric fields as **measures**. It's easy to
@@ -378,7 +377,7 @@ problem. Otherwise, you'll need to contact the dataset owner for help.
 
 ### Change how a numeric field is aggregated
 
-Say you have a chart that sums the units sold for different products, but you'd
+Say you have a chart that sums the units sold for different products but you would
 rather have the average.
 
 1.  Create a **Clustered column chart** that uses a measure and a category. In
