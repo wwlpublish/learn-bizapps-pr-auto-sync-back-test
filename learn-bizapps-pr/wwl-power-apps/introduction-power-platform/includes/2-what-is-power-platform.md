@@ -45,6 +45,7 @@ governance and security allowing businesses to focus on using data more than
 managing it.
 <br>
 You can consider Power BI as the analysis and insights leg of Microsoft Power Platform. It takes business data and allows you to display it in ways that makes the most sense to users. A Power BI dashboard could potentially replace a standing meeting to report out on company metrics such as sales data, progress against goals, or employee performance.   :::column-end:::
+  :::column-end:::
 :::row-end:::
 
 :::row:::
@@ -57,6 +58,7 @@ guided, no-code graphical interface, without the need for data scientists or
 developers.
 <br>
 It minimizes the IT effort required to deploy and maintain a custom solution by empowering subject matter experts to build and maintain their own conversational solutions. Power Virtual Agents is part of Microsoft Power Platform, therefore integration into existing systems is streamlined with out-of-the-box integration with Power Automate and its ecosystems of hundreds of connectors. Users can enable chatbots to perform an action by simply calling a Power Automate flow. Flows help users automate activities or call back end systems. Users can utilize existing flows that have been created in their Power Apps environment or they can create a flow within Power Virtual Agents authoring canvas.  :::column-end:::
+  :::column-end:::
 :::row-end:::
 
 
