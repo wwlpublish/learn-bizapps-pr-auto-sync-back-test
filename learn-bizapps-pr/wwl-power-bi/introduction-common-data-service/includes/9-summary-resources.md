@@ -14,7 +14,7 @@ Now that you have reviewed this module, you should be able to:
 
 | | |
 | - | - | 
-| ![](../media/key-takeaway.png) | Here are the three key takeaways:|
+| ![Key takeaways.](../media/key-takeaway.png) | Here are the three key takeaways:|
 | | 1. Microsoft Dataverse uses standard tables, columns, and relationships to help you build powerful, scalable data solutions. | 
 | | 2. Make your data work for you so that you can get the most of it by splitting it up into logical chunks. | 
 | | 3. Using Dataverse, you can break your data into various environments to better manage and secure important information. | 
