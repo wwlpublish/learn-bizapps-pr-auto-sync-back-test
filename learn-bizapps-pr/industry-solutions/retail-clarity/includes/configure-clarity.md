@@ -61,33 +61,33 @@ In this exercise, you'll first create your Clarity project and configure the Cla
 
 1.  Type `dotnet run` in the terminal screen and press enter to see the website building without an error after our change. The result will list local host URLs. You can select one and reach your website from local installation. You can press Ctrl+C to shut down the local instance.
 
-		> [!div class="mx-imgBorder"]
-		> ![Screenshot of dotnet run entered in the terminal screen.](../media/dotnet-run.png)
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of dotnet run entered in the terminal screen.](../media/dotnet-run.png)
 
 1.  To build and create the Clarity integrated website executables type `dotnet publish -c Release -o ./publish` and press enter.
 
-		> [!div class="mx-imgBorder"]
-		> ![Screenshot of the text entered to create the Clarity integrated website executables.](../media/integrated-website-executables.png)
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of the text entered to create the Clarity integrated website executables.](../media/integrated-website-executables.png)
 
 1.  To redeploy new version of the website, again go to **>publish** in the **EXPLORER** blade and right click, find **Deploy to Web App...** menu item and select.
 
-		> [!div class="mx-imgBorder"]
-		> ![Screenshot of the deploy to web app option in the publish menu.](../media/deploy-web-app.png)
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of the deploy to web app option in the publish menu.](../media/deploy-web-app.png)
 
 1.  If you did say **Yes** when VSCode asked "Always deploy same webapp" below window will pop up. Select **Deploy**, if you don't see this pop-up, continue from item **e**.
 
-		> [!div class="mx-imgBorder"]
-		> ![Screenshot of the deploy button.](../media/deploy-button.png)
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of the deploy button.](../media/deploy-button.png)
 
 1.  If you didn't sign out from the Azure Account that you used previously VS Code will ask you to select your **subscription** again, pick the subscription that you used before.
 
-		> [!div class="mx-imgBorder"]
-		> ![Screenshot of the menu to select subscription again.](../media/select-subscription.png)
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of the menu to select subscription again.](../media/select-subscription.png)
 
 1.  Next VS Code will ask you to select the Web App to redeploy. Choose the one you previously deployed to.
 
-		> [!div class="mx-imgBorder"]
-		> ![Screenshot of the Visual Studio Code web app selection menu.](../media/redeploy.png)
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of the Visual Studio Code web app selection menu.](../media/redeploy.png)
 
 1.  Now browse to your website both from your mobile devices and your computer multiple times, select the URLS, play with the form on the Cloth Stocks page and add & delete some cloths. This will create the usage logs and recordings which Clarity will sniff to build its Dashboards, Heatmaps and Recordings. You can ask your friends to play with your website as well.
 
