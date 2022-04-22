@@ -40,7 +40,7 @@ In **Exercise 1**, you'll be creating a **Customer Insights** environment and de
 
 -   Dynamics 365 Customer Insights
 
-## Customer Intelligence
+## Customer intelligence
 
 Customer intelligence unifies important, relevant, and accurate customer information across multiple sources via Dynamics 365 Customer Insights. This solution empowers the agent to engage with customers based on relevant insights. Customer intelligence combines demographic information, financial measures, and attitudes to form financial segments and AI models. These insights help agents to quickly understand the customer.
 
