@@ -87,7 +87,7 @@ In this task, you'll add the necessary add-on to deploy and use the Intelligent 
 1. Assign the newly acquired Dynamics 365 Intelligent Order Management trial license to your user. Go to **Users > Active users**, select your user, and then select **Manage product licenses**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Active users page in the Microsoft 365 admin center, showing the Manage product licenses option.](../media/manage-licenses-2.png)
+    > ![Screenshot of the Active users page in the Microsoft 365 admin center, showing the Manage product licenses option highlighted.](../media/manage-licenses-2.png)
 
 1. Select the **Dynamics 365 Intelligent Order Management vTrial** license checkbox and then select **Save changes**.
 
