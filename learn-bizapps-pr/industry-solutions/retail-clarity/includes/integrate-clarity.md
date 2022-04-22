@@ -22,7 +22,7 @@ In this exercise, you'll integrate Microsoft Clarity with Dynamics 365 E-Commerc
 1.  Create a new project for tracking your Dynamics 365 E-Commerce page using your page's direct URL for the Dynamics 365 Commerce page created in Lab 1 > Task 1. (Example: `https://mcriad.commerce.dynamics.com/mcrdemopage`)
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the project website URL.](../media/project-url.png)
+	> ![Screenshot of the project website U R L.](../media/project-url.png)
 	
 1.  Select **Add new project**.
 

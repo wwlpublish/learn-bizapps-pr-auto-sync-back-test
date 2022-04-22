@@ -124,7 +124,7 @@ In this task, you'll deploy the sample application to Azure App Service using VS
 	> ![Screenshot of the browse website button.](../media/browse-website.png)
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the URL to save.](../media/save-url.png)
+	> ![Screenshot of the U R L to save.](../media/save-url.png)
 
 1. If you see another pop-up window like below asking whether you'll **deploy** this project **always** to the **same web app**, select **Yes**, this will make it easier to deploy when we do the necessary changes for the Clarity integration on the web app.
 

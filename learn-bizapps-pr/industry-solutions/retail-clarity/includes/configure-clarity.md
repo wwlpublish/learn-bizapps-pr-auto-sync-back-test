@@ -35,7 +35,7 @@ In this exercise, you'll first create your Clarity project and configure the Cla
     1.  Select **Create**.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the project name, URL, and site category.](../media/project-details.png)
+	> ![Screenshot of the project name, U R L, and site category.](../media/project-details.png)
 
 1.  After you select **Create** you'll be forwarded to the **Setup** section. Copy the **Clarity tracking code** provided to you. We'll be using the code shared in the **Install tracking code manually** section to integrate clarity into our custom website.
 
@@ -52,7 +52,7 @@ In this exercise, you'll first create your Clarity project and configure the Cla
 1.  Go back to VS Code and expand the **>Pages** sub directory and **>Shared** sub directory under it respectively and select **_Layout.cshtml**. Locate the **<HEAD\></HEAD\>** section. This is where you'll integrate the tracking code. Paste the tracking code as the last item in the **<HEAD\></HEAD\>** section as shown with the blue box on the below snapshot and save with **CTRL+S**.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the layout.cshtml file in Visual Studio Code.](../media/layout.png)
+	> ![Screenshot of the layout.cs h t m l file in Visual Studio Code.](../media/layout.png)
 
 1.  Check locally whether the web application still works properly using **Terminal** section of VS Code. If you can't see the Terminal window, you can go to **View Menu** and select the **Terminal Menu item** to enable it.
 

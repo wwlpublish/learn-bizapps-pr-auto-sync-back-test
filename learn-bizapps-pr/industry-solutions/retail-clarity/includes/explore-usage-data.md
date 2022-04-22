@@ -109,7 +109,7 @@ In this task, you'll learn how you can use Filters and how you can save Filters 
 1.  If you integrate with sites that use Product JSON-LD or are hosted on Shopify, you can view more Product filters:
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the additional product filters.](../media/product-filters.png)
+	> [![Screenshot of the additional product filters.](../media/product-filters.png)](../media/product-filters.png#lightbox)
 
 	- **Price**: Select data for the price value of the product viewed based on the currency used on your site. Choose to view data based on the minimum and maximum values you input.
 

@@ -19,7 +19,7 @@ Below are the prerequisites for installation.
         -   [C# - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp/?azure-portal=true)
 
 		> [!div class="mx-imgBorder"]
-		> ![Screenshot of the C# install button.](../media/chsarp-install.png)
+		> ![Screenshot of the C# install button.](../media/csharp-install.png)
 
         -   [Azure App Service - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice/?azure-portal=true)
 
