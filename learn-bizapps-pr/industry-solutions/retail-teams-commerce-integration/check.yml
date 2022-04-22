@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-teams-commerce-integration.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/28/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-mscloud-retail
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which of the job functions can be performed by the store manager by integrating Dynamics 365 Commerce and Microsoft Teams?
+    choices:
+    - content: Create task lists
+      isCorrect: false
+      explanation: Incorrect. The store manager can also perform other functions.
+    - content: Assign tasks to multiple stores
+      isCorrect: false
+      explanation: Incorrect. The store manager can also perform other functions.
+    - content: Track the status of tasks across stores
+      isCorrect: false
+      explanation: Incorrect. The store manager can also perform other functions.
+    - content: All the above
+      isCorrect: true
+      explanation: Correct. All of these answers are correct.
+  - content: In this lab exercise, which of these job functions are enabled using Dynamics 365 Commerce POS and Microsoft Teams integration?
+    choices:
+    - content: Retail communications manager can sign in to Teams and publish tasks to be performed across stores
+      isCorrect: false
+      explanation: Incorrect. Other functions are also enabled.
+    - content: Store manager who will sign in to Dynamics 365 Commerce POS application to view the tasks
+      isCorrect: false
+      explanation: Incorrect. Other functions are also enabled.
+    - content: Store manager will assign the new task to a store employee
+      isCorrect: false
+      explanation: Incorrect. Other functions are also enabled.
+    - content: All the above
+      isCorrect: true
+      explanation: Correct. All of these functions are enabled.
+  - content: Which of these steps needs to be followed to enable Teams integration with Dynamics 365 Finance and Operations?
+    choices:
+    - content: Navigate to Retail and Commerce Module > Channel setup > Microsoft Teams Integration Configuration and enable Microsoft Teams integration
+      isCorrect: true
+      explanation: Correct. You can find the option to enable Microsoft Teams integration under Channel setup.
+    - content: Navigate to Retail and Commerce Module > Channel profiles > Microsoft Teams Integration Configuration and enable Microsoft Teams integration
+      isCorrect: false
+      explanation: Incorrect. The option to enable Microsoft Teams integration isn't under Channel profiles.
+    - content: Navigate to Retail and Commerce Module > POS profiles > Microsoft Teams Integration Configuration and enable Microsoft Teams integration
+      isCorrect: false
+      explanation: Incorrect. The option to enable Microsoft Teams integration isn't under POS profiles.
+    - content: Navigate to Retail and Commerce Module > Channel setup > Microsoft Teams Integration Configuration and disable Microsoft Teams integration
+      isCorrect: false
+      explanation: Incorrect. The option to enable Microsoft Teams integration isn't under Channel setup.
