@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-teams-commerce-integration.task-management
+title: Exercise 3 - Task management in POS
+metadata:
+  title: Exercise 3 - Task management in POS
+  description: Follow the steps to manage tasks at the point of sales.
+  ms.date: 04/28/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-mscloud-retail
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/task-management.md)]
