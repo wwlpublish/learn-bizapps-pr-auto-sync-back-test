@@ -171,8 +171,8 @@ Another important capability of Clarity is showing you recordings of user sessio
 
 You can even **compare** two different **heatmaps**, for example to understand differences in user behavior after a change in the website UI.
 
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the heatmaps view.](../media/heatmaps.png)
+> [!div class="mx-imgBorder"]
+> ![Screenshot of the heatmaps view.](../media/heatmaps.png)
 
 1.  Go to [Clarity](https://clarity.microsoft.com/?azure-portal=true) and sign in if necessary.
 

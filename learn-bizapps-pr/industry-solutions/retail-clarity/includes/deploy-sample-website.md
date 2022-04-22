@@ -39,7 +39,7 @@ In this task, we're going to look open the provided Website code and inspect its
 		> [!div class="mx-imgBorder"]
 		> [![Screenshot of the Visual Studio code screen with areas labeled.](../media/visual-studio-code.png)](../media/visual-studio-code.png#lightbox)
 
-1.  From the **EXPLORER** pane of VS Code expand the **\>Pages** sub directory and **\>Shared** sub directory under it respectively and select **\_Layout.cshtml**. This is where you should find the **<HEAD\></HEAD\>** section. This **<HEAD\></HEAD\>** section will be where we're changing to integrate any web site with Microsoft Clarity*. **\<HEAD\>** Section is the Document Metadata (Header) element of HTML Web development language, contains machine-readable information (metadata) about the document, like its title, scripts, and style sheets. It shouldn't be confused with the **\<HEADER\>** section, which is a sub section of **\<BODY\>** section.*
+1.  From the **EXPLORER** pane of VS Code expand the **\>Pages** sub directory and **\>Shared** sub directory under it respectively and select **\_Layout.cshtml**. This is where you should find the **<HEAD\></HEAD\>** section. This **<HEAD\></HEAD\>** section will be where we're changing to integrate any web site with Microsoft Clarity. **\<HEAD\>** Section is the Document Metadata (Header) element of HTML Web development language, contains machine-readable information (metadata) about the document, like its title, scripts, and style sheets. It shouldn't be confused with the **\<HEADER\>** section, which is a sub section of **\<BODY\>** section.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Visual Studio code explorer pane.](../media/explorer-pane.png)](../media/explorer-pane.png#lightbox)
@@ -103,12 +103,12 @@ In this task, you'll deploy the sample application to Azure App Service using VS
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the Azure App Service plan name.](../media/service-plan-name.png)
 
-1. For this lab you don't need a powerful hosting, so you can pick the **Free(F1)**
+1. For this lab you don't need a powerful hosting, so you can pick the **Free(F1)**.
 
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the pricing tier menu with free selected.](../media/price-tier.png)
 
-1. You'll **skip the Application Insights creation** by clicking **Skip for now**
+1. You'll **skip the Application Insights creation** by clicking **Skip for now**.
 
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the skip for now button to skip the application insights creation.](../media/skip.png)
@@ -124,7 +124,7 @@ In this task, you'll deploy the sample application to Azure App Service using VS
 	> ![Screenshot of the browse website button.](../media/browse-website.png)
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the URL to save.(../media/save-url.png)
+	> ![Screenshot of the URL to save.](../media/save-url.png)
 
 1. If you see another pop-up window like below asking whether you'll **deploy** this project **always** to the **same web app**, select **Yes**, this will make it easier to deploy when we do the necessary changes for the Clarity integration on the web app.
 
