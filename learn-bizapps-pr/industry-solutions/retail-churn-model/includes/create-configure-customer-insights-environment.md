@@ -13,14 +13,14 @@ In this task, you'll create a new trial Customer Insights sandbox environment. T
 1.  Using an In-Private or Incognito window, navigate to [Customer Insights](https://dynamics.microsoft.com/ai/customer-insights/?azure-portal=true) and select try for free.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Customer Insights page.](../media/customer-insights.png)](../media/image.png#lightbox)
+	> ![Screenshot of the Customer Insights page.](../media/customer-insights.png)
 
 1.  Sign in with the account created as part of Lab 1: Seamless customer experience -Training environment preparation, Task 1.
 
 1.  Select **Audience insights** as your focus.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of audience insights selected as the focus.](../media/audience-insights.png)](../media/image.png#lightbox)
+	> ![Screenshot of audience insights selected as the focus.](../media/audience-insights.png)
 
 1.  Your screen would look like this with Audience Insights selected:
 
