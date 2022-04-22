@@ -1,4 +1,4 @@
-In this exercise, you'll create a storage account and a container. Further, you'll upload the sample data input files (stored in MS learn repository for this exercise) that will be used to generate data insights for the customer using the retail churn model
+In this exercise, you'll create a storage account and a container. Further, you'll upload the sample data input files (stored in MS learn repository for this exercise) that will be used to generate data insights for the customer using the retail churn model.
 
 ## Task 1: Create storage account
 
@@ -14,7 +14,7 @@ In this exercise, you'll create a storage account and a container. Further, you'
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the subscription and resource group fields.](../media/subscription-resource-group.png)
 
-1.  Provide a storage account name, for example "retailchurnmodel" and then select **Review and create**. (Make a note of this storage account name as this will be needed later in the exercise)
+1.  Provide a storage account name, for example "retailchurnmodel" and then select **Review and create**. (Make a note of this storage account name as this will be needed later in the exercise).
 
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the storage account name with the review and create button.](../media/account-name.png)

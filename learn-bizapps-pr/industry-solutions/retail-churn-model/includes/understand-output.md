@@ -2,11 +2,11 @@ In this exercise, you'll review the output of the Retail Churn model.
 
 1.  Open the Retail churn model to view its contents. Here you'll find three main areas:
 
-    1.  **Training model performance** will display a letter grade of how well the model has performed.
-
-    1.  **Likelihood to churn (number of customers)** that can be read as X customers are Y% likely to churn.
-
-    1.  **Most influential factors** considered by the AI in predicting the model. This will vary depending on the data set.
+	- **Training model performance** will display a letter grade of how well the model has performed.
+	
+	- **Likelihood to churn (number of customers)** that can be read as X customers are Y% likely to churn.
+	
+	- **Most influential factors** considered by the AI in predicting the model. This will vary depending on the data set.
 
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the Retail Churn Model view with training model performance, likelihood to churn, and most influential factors.](../media/retain-churn-model-view.png)
