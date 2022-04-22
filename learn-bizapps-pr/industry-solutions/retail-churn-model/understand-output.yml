@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.retail-churn-model.understand-output 
+title: Understand the Churn Model output
+metadata: 
+  title: Understand the Churn Model output
+  description: Learn about the Churn Model output.
+  ms.date: 04/22/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-industry-solutions 
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/understand-output.md)] 
