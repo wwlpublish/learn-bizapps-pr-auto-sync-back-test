@@ -51,7 +51,7 @@ quiz:
       explanation: Incorrect. Microsoft Cloud for Retail SKU is required to deploy Unified customer profile.
     - content: Dynamics 365 Customer Service
       isCorrect: true
-      explanation: Correct. Dynamics 365 Customer Service is not required to deploy Unified customer profile.
+      explanation: Correct. Dynamics 365 Customer Service isn't required to deploy Unified customer profile.
     - content: None of the above
       isCorrect: false
       explanation: Incorrect. One of the previous options isn't required for deploying Unified customer profile.
