@@ -49,7 +49,7 @@ In this task, you'll learn how to create a trial tenant along with the required 
 
 Your Microsoft 365 tenant should be successfully created along with the Dynamics 365 Customer Engagement Plan license that includes a Power Apps license.
 
-    > [!div class="mx-imgBorder"]
+   > [!div class="mx-imgBorder"]
    > ![Screenshot showing the confirmation details.](../media/confirmation.png)
 
 You have successfully set up your Dynamics 365 trial environment. Next, you’ll learn how to obtain the various trial licenses that are required for this training.
