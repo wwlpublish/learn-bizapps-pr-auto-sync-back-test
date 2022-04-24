@@ -4,7 +4,7 @@ title: Check your knowledge
 metadata:
  title: Check your knowledge
  description: Answer the following questions to see what you've learned.
- ms.date: 04/26/2022
+ ms.date: 04/22/2022
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
@@ -13,35 +13,35 @@ durationInMinutes: 6
 quiz:
   title: Answer the following questions to see what you've learned.
   questions:
-  - content: Which of the following licenses is required to enable Seamless Customer Service capability in Microsoft Cloud for Retail?
+  - content: Which one of the following licenses is required to enable the Seamless customer service capability in Microsoft Cloud for Retail?
     choices:
     - content: Dynamics 365 Marketing
       isCorrect: false
-      explanation: Incorrect. Dynamics 365 Marketing is not required to enable the Seamless Customer Service capability.
+      explanation: Incorrect. Dynamics 365 Marketing isn't required to enable the Seamless customer service capability.
     - content: Dynamics 365 Customer Service
       isCorrect: true
-      explanation: Correct. Dynamics 365 Customer Service is required to enable the Seamless Customer Service capability.
+      explanation: Correct. Dynamics 365 Customer Service is required to enable the Seamless customer service capability.
     - content: Dynamics 365 Project Operations
       isCorrect: false
-      explanation: Incorrect. Dynamics 365 Project Operations is not required to enable the Seamless Customer Service capability.
+      explanation: Incorrect. Dynamics 365 Project Operations isn't required to enable the Seamless customer service capability.
     - content: Dynamics 365 Field Service
       isCorrect: false
-      explanation: Incorrect. Dynamics 365 Field Service is not required to enable the Seamless Customer Service capability.
+      explanation: Incorrect. Dynamics 365 Field Service isn't required to enable the Seamless customer service capability.
   - content: Where do you go to deploy Microsoft Cloud for Retail?
     choices:
-    - content: Power Platform admin center
+    - content: Microsoft Power Platform admin center
       isCorrect: false
-      explanation: Incorrect. You don't go to Power Platform admin center to deploy Microsoft Cloud for Retail.
-    - content: Power Apps Maker Portal
+      explanation: Incorrect. You don't go to Microsoft Power Platform admin center to deploy Microsoft Cloud for Retail.
+    - content: Power Apps maker portal
       isCorrect: false
-      explanation: Incorrect. You don't go to Power Apps Maker Portal to deploy Microsoft Cloud for Retail.
-    - content: Microsoft Admin Center
+      explanation: Incorrect. You don't go to Power Apps maker portal to deploy Microsoft Cloud for Retail.
+    - content: Microsoft 365 admin center
       isCorrect: false
-      explanation: Incorrect. You don't go to Microsoft Admin Center to deploy Microsoft Cloud for Retail.
+      explanation: Incorrect. You don't go to Microsoft 365 admin center to deploy Microsoft Cloud for Retail.
     - content: Microsoft Cloud Solutions Center
       isCorrect: true
       explanation: Correct. You go to Microsoft Cloud Solutions Center to deploy Microsoft Cloud for Retail.
-  - content: Which of the following is not required to deploy Unified customer profile in Microsoft Cloud for Retail?
+  - content: Which of the following options isn't required to deploy Unified customer profile in Microsoft Cloud for Retail?
     choices:
     - content: Dynamics 365 Customer Insights
       isCorrect: false
@@ -51,7 +51,7 @@ quiz:
       explanation: Incorrect. Microsoft Cloud for Retail SKU is required to deploy Unified customer profile.
     - content: Dynamics 365 Customer Service
       isCorrect: true
-      explanation: Correct. Dynamics 365 Customer Service is not required to deploy Unified customer profile.
+      explanation: Correct. Dynamics 365 Customer Service isn't required to deploy Unified customer profile.
     - content: None of the above
       isCorrect: false
-      explanation: Incorrect. Two of the above are required to deploy Unified customer profile.
+      explanation: Incorrect. One of the previous options isn't required for deploying Unified customer profile.
