@@ -18,9 +18,6 @@ Watch the following video that demonstrates the use of an interactive authentica
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4Vozg]
 
-> [!div class="mx-imgBorder"]
-> [![Thumbnail image from the video showing the flow of embedding Power B I content for your organization using interactive authentication flow.](../media/video-interactive-authentication-flow.png)](../media/video-interactive-authentication-flow.png#lightbox)
-
 You'll learn how to acquire Azure AD tokens in unit 3.
 
 ## Use a non-interactive authentication flow
@@ -45,9 +42,6 @@ Specifically, an embed token describes:
 Watch the following video that demonstrates the use of a non-interactive authentication flow.
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4Vozj]
-
-> [!div class="mx-imgBorder"]
-> [![Thumbnail image of video demonstrating the use of a non-interactive authentication flow.](../media/video-non-interactive-authentication-flow.png)](../media/video-non-interactive-authentication-flow.png#lightbox)
 
 You'll learn how to acquire embed tokens in unit 3.
 
