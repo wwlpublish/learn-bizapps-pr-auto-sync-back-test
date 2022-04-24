@@ -76,7 +76,6 @@ The following `script` element contains three variables. The `accessToken` varia
 Your app must create a configuration object to provide all the information required to embed Power BI content. You must set the following five properties of the configuration object:
 
 -   `tokenType` - It's either `models.TokenType.Aad` when using the *For your organization* scenario (the access token is an Azure AD token), or `models.TokenType.Embed` when using the *For your customers* scenario (the access token is an embed token).
-
 -   `accessToken` - The server-side generated access token.
 -   `type` - It's either **report** (for Power BI report or paginated report), **visual** (for a Power BI report visual), **dashboard** (for a dashboard), **tile** (for a dashboard tile), or **qna** (for the Q&A experience). Units 2 and 3 describe how to embed each type of Power BI content.
 -   `id` - The Power BI artifact ID.
