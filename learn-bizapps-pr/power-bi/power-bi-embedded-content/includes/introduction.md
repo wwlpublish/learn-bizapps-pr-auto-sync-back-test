@@ -51,9 +51,6 @@ Watch the following video that demonstrates how the client library works.
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4Vozz]
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot of  Power BI client library.](../media/power-bi-client-library.png)](../media/power-bi-client-library.png#lightbox)
-
 ## Output server-side generated facts
 
 Your app must acquire an access token that is output client-side. In addition, your app must output certain Power BI artifact properties client-side.
