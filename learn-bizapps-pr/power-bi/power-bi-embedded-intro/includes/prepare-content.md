@@ -49,9 +49,7 @@ To achieve a visually appealing result, strive to format reports to complement o
 Consider adding report elements that can enhance the app experience:
 
 - The app can programmatically set slicers and filters.
-
 - Buttons, when selected, can trigger client-side code that interacts with the app.
-
 - The app can apply bookmarks, which capture specific report state.
 
 If the Power BI report has a mobile view set up, you can embed the report in that view.
