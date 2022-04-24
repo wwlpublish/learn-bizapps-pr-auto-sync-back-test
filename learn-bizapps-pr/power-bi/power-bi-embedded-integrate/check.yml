@@ -27,7 +27,7 @@ quiz:
     - content: The `visualClicked` event
       isCorrect: false
       explanation: Incorrect. The app raises the `visualClicked` when a user selects a visual.
-  - content: Phoebe is a developer at Tailspin Toys who wants to allow users to store specific Power BI report page state, including filters. Users should be able to reapply that state again within the same report session. Which client API operation should Phoebe use to store report page state?
+  - content: Phoebe is a developer at Tailspin Toys who wants to allow users to store specific Power BI report page state, including filters. Users should be able to reapply that state again within the same report session. Which client API operation should Phoebe use to obtain report page state?
     choices:
     - content: Add report filters
       isCorrect: false
