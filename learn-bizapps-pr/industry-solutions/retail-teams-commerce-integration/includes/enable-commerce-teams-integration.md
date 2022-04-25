@@ -399,4 +399,4 @@ With Windows computers, you may get an error if the execution policy is set to *
 
 1. Run the CDX job 1070 to publish the plan ID and store references to Retail Server.
 
-**Congratulations!** In this exercise you have played the role of a IT administrator and successfully enabled Dynamics 365 Commerce and Microsoft Teams integration.
+**Congratulations!** In this exercise you have played the role of an IT administrator and successfully enabled Dynamics 365 Commerce and Microsoft Teams integration.

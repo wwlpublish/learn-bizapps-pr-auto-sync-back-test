@@ -51,7 +51,7 @@ In this task, you'll sign in to Teams as a Retail Communications Manager, create
 
 1. Check Ready, everything looks good here, and select **Publish**.
 
-1. The Spring retail update List has been published for all 33 Teams. It's now possible to see under **Received** that all the Teams for each store have received the published task.
+1. The Spring retail update List has been published for all 33 teams. It's now possible to see under **Received** that all the teams for each store have received the published task.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Tasks by Planner and To Do published lists showing a Received list with teams that the task was sent to.](../media/received.png)](../media/received.png#lightbox)
@@ -122,7 +122,7 @@ The retail communication manager can review the progress of the tasks in the lis
 
 1. Sign in to [Microsoft Teams](https://teams.microsoft.com/?azure-portal=true) and navigate to the assigned store. In this example, you can sign in as Michael Ellen (the retail communication manager).
 
-1. Once signed in, you can view the task list report and progress of each task by store (It can take approximately 5 minutes to update the list report back in Microsoft Teams).
+1. Once signed in, you can view the task list report and progress of each task by store. (It can take approximately 5 minutes to update the list report back in Microsoft Teams.)
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Tasks by Planner and To Do list showing percentage completed for each team.](../media/progress.png)](../media/progress.png#lightbox)

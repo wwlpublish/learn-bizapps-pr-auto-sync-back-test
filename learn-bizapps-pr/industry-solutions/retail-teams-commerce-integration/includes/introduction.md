@@ -40,11 +40,11 @@ In the following exercises, you'll be playing the role of a **System Administrat
 
 - In Exercise 3, Task 3, you'll play the role of a store employee who will view the assigned tasks and mark it as complete once the task is completed.
 
-- And in Exercise 3 – Task 4, you will login back to teams as Retail communications manager to check the progress of the tasks across stores by using a list report.
+- And in Exercise 3 – Task 4, you will log back in to Teams as Retail communications manager to check the progress of the tasks across stores by using a list report.
 
 ### Prerequisites
 
-- D365 Commerce
+- Dynamics 365 Commerce
 
 - Microsoft Teams 
 
