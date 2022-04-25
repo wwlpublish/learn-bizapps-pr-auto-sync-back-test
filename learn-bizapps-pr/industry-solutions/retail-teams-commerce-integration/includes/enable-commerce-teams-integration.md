@@ -1,4 +1,4 @@
-In this lab, you learn how to enable Microsoft Dynamics 365 Commerce and Microsoft Teams integration.
+In this lab, you will play the role of an IT administrator and learn how to enable Microsoft Dynamics 365 Commerce and Microsoft Teams integration.
 
 In this exercise, you'll do the following:
 
@@ -28,7 +28,7 @@ In this exercise, you'll do the following:
 
 1. Publish a test task list in Teams
 
-## Task 1: Create users roles for each of the personas, retail communication manager, store manager and store employee
+## Task 1: Create user roles for each of the personas, retail communication manager, store manager and store employee
 
 > [!Important]
 > To perform this task, you need administrator access to the tenant to create users.
@@ -398,3 +398,5 @@ With Windows computers, you may get an error if the execution policy is set to *
 1. Go to System administration, Inquiries, and then Batch jobs, and find the most recent job that has the description Teams provision. Wait until this job has finished running.
 
 1. Run the CDX job 1070 to publish the plan ID and store references to Retail Server.
+
+**Congratulations!** In this exercise you have played the role of a IT administrator and successfully enabled Dynamics 365 Commerce and Microsoft Teams integration.
