@@ -48,5 +48,5 @@ In the following exercises, you'll be playing the role of a **System Administrat
 
 - Microsoft Teams 
 
-- [Create an Azure Active Directory app](https://docs.microsoft.com/graph/toolkit/get-started/add-aad-app-registration#add-new-application-registration-in-azure-active-directory/?azure-portal=true)  
+- [Create an Azure Active Directory app](/graph/toolkit/get-started/add-aad-app-registration#add-new-application-registration-in-azure-active-directory/?azure-portal=true)  
 
