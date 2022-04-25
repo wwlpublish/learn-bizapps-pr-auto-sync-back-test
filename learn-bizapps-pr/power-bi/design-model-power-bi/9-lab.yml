@@ -4,7 +4,7 @@ title: Lab - Model data in Power BI Desktop, Part 2
 metadata: 
   title: Lab - Model data in Power BI Desktop, Part 2
   description: In this lab, you will create a many-to-many relationship between the Salesperson table and the Sales table. You will also enforce row-level security to ensure that a salesperson can only analyze sales data for their assigned region(s). 
-  ms.date: 10/26/2021
+  ms.date: 04/25/2022
   author: heyrob 
   ms.author: robde 
   ms.topic: interactive-tutorial 
