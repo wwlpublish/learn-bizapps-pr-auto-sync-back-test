@@ -34,8 +34,19 @@ In the following exercises, you'll be playing the role of a **System Administrat
 
 - In Exercise 2, you'll be enabling the integration between Dynamics 365 Commerce and Teams Task management app.
 
-- You'll then play the role of a Retail communications manager who will sign in to Teams and publish a task "Setup Women's Spring Lineup Display" as part of Exercise 3—Task 1.
+- In Exercise 3 – Task 1, you'll then play the role of a Retail communications manager who will sign in to Teams and publish a task "Setup Women's Spring Lineup Display" as part of Exercise 3—Task 1.
 
 - Later, in Exercise 3, Task 2, you'll play the role of a Store manager who will sign in to Dynamics 365 Commerce POS application to view the tasks and assign the new task to a store employee.
 
 - In Exercise 3, Task 3, you'll play the role of a store employee who will view the assigned tasks and mark it as complete once the task is completed.
+
+- And in Exercise 3 – Task 4, you will log back in to Teams as Retail communications manager to check the progress of the tasks across stores by using a list report.
+
+### Prerequisites
+
+- Dynamics 365 Commerce
+
+- Microsoft Teams 
+
+- [Create an Azure Active Directory app](/graph/toolkit/get-started/add-aad-app-registration#add-new-application-registration-in-azure-active-directory/?azure-portal=true)  
+
