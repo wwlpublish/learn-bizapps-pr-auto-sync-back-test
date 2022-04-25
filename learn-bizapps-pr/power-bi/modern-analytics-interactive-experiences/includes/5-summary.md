@@ -10,4 +10,4 @@ This module introduced you to some concepts that explain why Power BI is a marke
 
 [Themes](/power-bi/create-reports/desktop-report-themes/?azure-portal=true#)
 
-[Accessibility](https://docs.microsoft.com/power-bi/create-reports/desktop-accessibility-creating-reports)
+[Accessibility](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-accessibility-creating-reports)

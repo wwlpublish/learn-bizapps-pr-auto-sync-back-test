@@ -82,4 +82,4 @@ Power BI is designed to meet three of the strictest accessibility standards and 
 1.	Screen-Reader Compatibility
 1.	High Contract Color View
 
-> [How to apply Power BI's Accessibility features while creating reports.](https://docs.microsoft.com/power-bi/create-reports/desktop-accessibility-creating-reports)
+> [How to apply Power BI's Accessibility features while creating reports.](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-accessibility-creating-reports)
