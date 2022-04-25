@@ -63,7 +63,6 @@ If there are many rules to set up and you anticipate new rules will be added in 
 Dynamic rules use specific DAX functions that return environmental values (as opposed to constants). Environmental values are returned from three specific DAX functions:
 
 -   [USERNAME](/dax/username-function-dax/?azure-portal=true) or [USERPRINCIPALNAME](/dax/userprincipalname-function-dax/?azure-portal=true) - When using the *For your organization* scenario, these functions return a text value describing the authenticated user. When using the *For your customers* scenario, they return a text value that your app passes.
-
 -   [CUSTOMDATA](/dax/customdata-function-dax/?azure-portal=true) - When using the *For your organization* scenario, it returns the **CustomData** property passed in the connection string. When using the *For your customers* scenario, it returns a text value that your app passes.
 
 > [!NOTE]

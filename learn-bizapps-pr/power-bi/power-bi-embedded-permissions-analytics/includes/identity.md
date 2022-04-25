@@ -85,7 +85,6 @@ When passing effective identity to work with an SQL Server Analysis Services mod
 -   The username must be a Windows account, using UPN or DOMAIN\username format.
 -   The username must have read permission on the model.
 -   When no roles form part of the effective identity, roles assigned to the effective identity username are applied.
-
 -   The USERNAME function will return the effective identity username.
 -   The use of the CUSTOMDATA function isn't supported.
 

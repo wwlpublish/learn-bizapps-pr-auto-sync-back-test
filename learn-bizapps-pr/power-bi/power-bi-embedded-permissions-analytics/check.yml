@@ -43,15 +43,15 @@ quiz:
       explanation: Incorrect. It's not possible to apply rules to model relationships.
   - content: Paulo is a developer at the Tailspin Toys company who is developing an app that embeds Power BI reports. The reports use a DirectQuery model that sources its data from an Azure SQL Database and is set up to use the users' OAuth2 credentials. The database already enforces RLS for specific Azure AD accounts. The embedded Power BI reports must enforce the same RLS. What parameter should Paulo use when generating an embed token with the \`GenerateTokenRequestV2\` method?
     choices: 
-    - content: \`CustomData\`
+    - content: \CustomData\
       isCorrect: false 
       explanation: Incorrect. This solution requires using token-based identity. In this case, the \`CustomData\` parameter isn't relevant and shouldn't be set.
-    - content: \`IdentityBlob\`
+    - content: \IdentityBlob\
       isCorrect: true 
       explanation: Correct. By passing the Azure AD access token to the \`IdentityBlob\` parameter, the Azure SQL Database can run queries in the context of the associated user account. This approach is known as token-based identity.
-    - content: \`Roles\`
+    - content: \Roles\
       isCorrect: false 
       explanation: Incorrect. This solution requires using token-based identity. In this case, the \`Roles\` parameter isn't relevant and shouldn't be set.
-    - content: \`Username\`
+    - content: \Username\
       isCorrect: false 
       explanation: Incorrect. This solution requires using token-based identity. In this case, the \`Username\` parameter isn't relevant and shouldn't be set.
