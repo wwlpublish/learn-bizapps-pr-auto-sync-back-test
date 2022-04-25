@@ -2,25 +2,31 @@ In this lab, you learn how to enable Microsoft Dynamics 365 Commerce and Microso
 
 In this exercise, you'll do the following:
 
-- Create users for each of the personas -Retail communication manager, store manager and store employee
+1. Create users for each of the personas
 
-- Create an external identity for the worker in Commerce Finance and Operations.
+    - Retail communication manager
 
-- Add store manager to the Publisher Task Manager
+    - Store manager
 
-- Customize POS screen layout to add task management
+    - Store employee
 
-- Provision Teams in Commerce Finance and Operations
+1. Create an external identity for the worker in Commerce Finance and Operations.
 
-- Validate Teams provisioning in the Teams admin center.
+1. Add store manager to the Publisher Task Manager
 
-- Download Commerce organizational hierarchy to Teams.
+1. Customize POS screen layout to add task management
 
-- Install Microsoft Teams PowerShell module.
+1. Provision Teams in Commerce Finance and Operations
 
-- Upload organization hierarchy to Teams
+1. Validate Teams provisioning in the Teams admin center.
 
-- Publish a test task list in Teams
+1. Download Commerce organizational hierarchy to Teams.
+
+1. Install Microsoft Teams PowerShell module.
+
+1. Upload organization hierarchy to Teams
+
+1. Publish a test task list in Teams
 
 ## Task 1: Create users roles for each of the personas, retail communication manager, store manager and store employee
 
@@ -44,7 +50,7 @@ In this exercise, you'll do the following:
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the checklist of licenses with Office 365 E5 selected.](../media/office-365-e-5.png)](../media/office-365-e-5.png#lightbox)
 
-1. We would set the user profile as Retail communication manager, so that the title appears in Teams.
+1. We would set the user profile as Retail communications manager, so that the title appears in Teams.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Add a user dialog Optional settings page.](../media/optional.png)](../media/optional.png#lightbox)
@@ -199,9 +205,9 @@ By default, the Task management button isn't available in the POS screen layout 
 
     **Button text**: Task management
 
-    **Size in columns**:2
+    **Size in columns**: 2
 
-    **Size in rows**:2
+    **Size in rows**: 2
 
     **Use custom theme**: Check
 
@@ -312,9 +318,7 @@ By default, the Task management button isn't available in the POS screen layout 
 
 ## Task 8: Install Microsoft Teams PowerShell module
 
-**Requirements**:
-
-Microsoft Teams PowerShell module requires PowerShell 5.1 or higher on all platforms. Install the [latest version of PowerShell](/powershell/scripting/install/installing-powershell/?azure-portal=true) available for your operating system.
+**Requirements**: Microsoft Teams PowerShell module requires PowerShell 5.1 or higher on all platforms. Install the [latest version of PowerShell](/powershell/scripting/install/installing-powershell/?azure-portal=true) available for your operating system.
 
 1. Check your PowerShell version. To check your PowerShell version, run the following command from within a PowerShell session:
 
