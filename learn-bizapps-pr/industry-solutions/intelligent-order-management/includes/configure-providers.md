@@ -12,7 +12,7 @@ In this exercise, you'll complete the following tasks:
 
 ## Overview of providers
 
-A key value proposition of Dynamics 365 Intelligent Order Management is the ability to seamlessly integrate with other systems. To do so, Intelligent Order Management uses "providers". [Providers](https://docs.microsoft.com/dynamics365/intelligent-order-management/work-providers?azure-portal=true#components) are constructs that allow you to connect Intelligent Order Management to external systems.
+A key value proposition of Dynamics 365 Intelligent Order Management is the ability to seamlessly integrate with other systems. To do so, Intelligent Order Management uses "providers". [Providers](/dynamics365/intelligent-order-management/work-providers?azure-portal=true#components) are constructs that allow you to connect Intelligent Order Management to external systems.
 
 Intelligent Order Management providers were designed with the following properties:
 

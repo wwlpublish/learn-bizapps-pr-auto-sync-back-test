@@ -71,7 +71,7 @@ After your online store is ready, you'll be welcomed by a store summary screen. 
 1. Under Store setup, select **Shipping** to view **Shipping manager** and select **Add shipping address**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the .](../media/shipping-address.png)](../media/shipping-address.png#lightbox)
+    > [![Screenshot of the Shipping Manager shipping origin with the add shipping address button highlighted.](../media/shipping-address.png)](../media/shipping-address.png#lightbox)
 
 1. The Configure shipping address screen pops up where you enter the shipping address. Enter these values as below and select **Submit**.
 
@@ -121,7 +121,7 @@ After your online store is ready, you'll be welcomed by a store summary screen. 
 > Using the access token published by BigCommerce, we will call Products API. This following command will print the output in JSON format. If you see a list of products, it means that the APIs and the access token are working properly.
 >
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the .](../media/json.png)](../media/json.png#lightbox)
+> [![Screenshot of the JSON code to access the token.](../media/json.png)](../media/json.png#lightbox)
 >
 > Similarly, one can use [[Postman]](https://www.postman.com/?azure-portal=true) which supports GUI experience to troubleshoot API issues.
 

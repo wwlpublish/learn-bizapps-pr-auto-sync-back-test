@@ -63,12 +63,12 @@ In this exercise, you'll be completing the following tasks:
 1. On the left pane, select **Data** > **Connections**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the .](../media/connections.png)
+    > ![Screenshot of the Connections option, again.](../media/connections.png)
 
 1. Select **New Connection**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the .](../media/new-connection.png)
+    > ![Screenshot of the New connection button.](../media/new-connection.png)
 
 1. Search for **IOM Data Transformer** in the search bar located in the top right edge and then select **IOM Data Transformer** to add the connection.
 

@@ -26,19 +26,19 @@ There are two ways to monitor Power Automate Flows that underpin Providers:
 
 - **PowerShell Cmdlets for Power Platform**
 
-  [PowerShell cmdlets](https://docs.microsoft.com/power-platform/admin/powerapps-powershell/?azure-portal=true) for app creators and administrators, you can automate many of the monitoring and management tasks. See the **Automation** section for more details and examples.
+  [PowerShell cmdlets](/power-platform/admin/powerapps-powershell/?azure-portal=true) for app creators and administrators, you can automate many of the monitoring and management tasks. See the **Automation** section for more details and examples.
 
 ### Administration
 
-- Users can be granted access to IOM environment through the administrative capabilities of the [platform](https://docs.microsoft.com/power-platform/admin/grant-users-access/?azure-portal=true).
+- Users can be granted access to IOM environment through the administrative capabilities of the [platform](/power-platform/admin/grant-users-access/?azure-portal=true).
 
-- Security can be managed by using concepts such as business units; teams and users in [Dataverse](https://docs.microsoft.com/power-platform/admin/wp-security-cds/?azure-portal=true).
+- Security can be managed by using concepts such as business units; teams and users in [Dataverse](/power-platform/admin/wp-security-cds/?azure-portal=true).
 
 - There are **two types of backup options**:
 
-  - [System backups](https://docs.microsoft.com/power-platform/admin/backup-restore-environments?azure-portal=true#system-backups) - These are performed continuously and production environments where Dynamics apps are deployed are retained for 28 days. Trial environments aren't backed up. Restore is performed from Power Platform admin portal and backups must be restored in the same region where backup was taken.
+  - [System backups](/power-platform/admin/backup-restore-environments?azure-portal=true#system-backups) - These are performed continuously and production environments where Dynamics apps are deployed are retained for 28 days. Trial environments aren't backed up. Restore is performed from Power Platform admin portal and backups must be restored in the same region where backup was taken.
 
-  - [Manual backups](https://docs.microsoft.com/power-platform/admin/backup-restore-environments?azure-portal=true#manual-backups) - Microsoft creates a backup when an environment is updated. Manual backups for production environments that have been created with a database and have one or more Dynamics 365 applications installed are retained up to 28 days.
+  - [Manual backups](/power-platform/admin/backup-restore-environments?azure-portal=true#manual-backups) - Microsoft creates a backup when an environment is updated. Manual backups for production environments that have been created with a database and have one or more Dynamics 365 applications installed are retained up to 28 days.
 
 ### Networking
 
@@ -105,7 +105,7 @@ PowerShell Cmdlets are available as two separate modules:
 1. Add credentials. In this case, we're using an admin account.
 
     > [!Note]
-    > You can also create and use [a service principal in Power Platform](https://docs.microsoft.com/power-platform/admin/powershell-create-service-principal/?azure-portal=true).
+    > You can also create and use [a service principal in Power Platform](/power-platform/admin/powershell-create-service-principal/?azure-portal=true).
 
     `Add-PowerAppsAccount`
 

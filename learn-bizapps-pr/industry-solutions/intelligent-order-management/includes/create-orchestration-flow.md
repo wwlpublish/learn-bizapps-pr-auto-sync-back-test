@@ -17,9 +17,9 @@ IOM supports three types of orchestration flows:
 
 Key components of an orchestration flow are policies, rules, actions, and elements:
 
-- Policies and their associated rules enable businesses to perform the following types of actions on an orchestration flow - [**filter**](https://docs.microsoft.com/dynamics365/intelligent-order-management/policies-rules?azure-portal=true#policy-types) the orchestration step to run based on the policy success criteria and [**allows checking and updating data running**](https://docs.microsoft.com/dynamics365/intelligent-order-management/policies-rules?azure-portal=true#policy-types) through an orchestration flow.
+- Policies and their associated rules enable businesses to perform the following types of actions on an orchestration flow - [**filter**](/dynamics365/intelligent-order-management/policies-rules?azure-portal=true#policy-types) the orchestration step to run based on the policy success criteria and [**allows checking and updating data running**](/dynamics365/intelligent-order-management/policies-rules?azure-portal=true#policy-types) through an orchestration flow.
 
-- The policies are referenced as part of [**actions and elements**](https://docs.microsoft.com/dynamics365/intelligent-order-management/orchestration-flows?azure-portal=true#actions-and-elements). An action may reference a policy to decide the course of flow of an orchestration flow.
+- The policies are referenced as part of [**actions and elements**](/dynamics365/intelligent-order-management/orchestration-flows?azure-portal=true#actions-and-elements). An action may reference a policy to decide the course of flow of an orchestration flow.
 
 As part of this lab, we'll create a **order orchestration** flow that validates an attribute associated with order header and based on the result, business can decide next course of action. For example, if the delivery address on the order is set to Seattle, then you can choose to fulfill the order from Seattle store.
 
@@ -27,7 +27,7 @@ The first step is to create a policy. The current experience doesn't support swi
 
 ## Task 1: Create a policy
 
-1. We'll create an [execution policy](https://docs.microsoft.com/dynamics365/intelligent-order-management/policies-rules?azure-portal=true#policy-types) that checks the order delivery address and validates if it's set to Seattle.
+1. We'll create an [execution policy](/dynamics365/intelligent-order-management/policies-rules?azure-portal=true#policy-types) that checks the order delivery address and validates if it's set to Seattle.
 
 1. In Dynamics 365 IOM, select **Policies** on the left navigation pane.
 
