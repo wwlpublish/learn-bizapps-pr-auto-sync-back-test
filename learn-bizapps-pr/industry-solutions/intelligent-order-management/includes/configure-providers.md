@@ -41,12 +41,12 @@ Key components of a provider are:
 1. Ensure to choose the correct environment from the upper right **Environment** drop-down is selected.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the environment selected from the drop down menu.](../media/environment.png)](../media/environment.png#lightbox)
+    > ![Screenshot of the environment selected from the drop down menu.](../media/environment.png)
 
 1. Select **Apps** on the left navigation bar.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Power naps navigation pane with Apps selected.](../media/apps.png)](../media/apps.png#lightbox)
+    > ![Screenshot of the Power naps navigation pane with Apps selected.](../media/apps.png)
 
 1. Select **Intelligent Order Management**.
 
@@ -61,7 +61,7 @@ Key components of a provider are:
 1. To accept the terms and conditions, select the **Create** button and it will take a few seconds to process.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the terms and conditions dialog.](../media/terms.png)](../media/terms.png#lightbox)
+    > ![Screenshot of the terms and conditions dialog.](../media/terms.png)
 
 1. The system will automatically open the Big Commerce provider screen with BigCommerce connection. Select BigCommerce Connection to enable communication between Dynamics 365 Intelligent Order Management to the associated BigCommerce account.
 
@@ -76,17 +76,17 @@ Key components of a provider are:
 1. Selecting **Retrieve Link** will take you to **Power Automate**. Ensure the correct environment from the upper right **Environment** drop-down is selected.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the correct environment selected.](../media/environment-2.png)](../media/environment-2.png#lightbox)
+    > ![Screenshot of the correct environment selected.](../media/environment-2.png)
 
 1. On the left pane, select **Data** > **Connections**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Power Automate navigation pane with Connections highlighted.](../media/connections.png)](../media/connections.png#lightbox)
+    > ![Screenshot of the Power Automate navigation pane with Connections highlighted.](../media/connections.png)
 
 1. Select **New Connection**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the New Connection button.](../media/new-connection.png)](../media/new-connection.png#lightbox)
+    > ![Screenshot of the New Connection button.](../media/new-connection.png)
 
 1. Search for **BigCommerce** in the search bar located in the top right edge and then select **BigCommerce** to add the connection.
 
@@ -182,12 +182,12 @@ In context of BigCommerce Provider, following Internal External Mappings must be
 1. We need a customer account to map it to BigCommerce providers. To create a customer test account, navigate to **Customers** > **Accounts**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Dynamics 365 navigation pane with Accounts highlighted under Customers.](../media/accounts.png)](../media/accounts.png#lightbox)
+    > ![Screenshot of the Dynamics 365 navigation pane with Accounts highlighted under Customers.](../media/accounts.png)
 
 1. Select **New** on the command bar.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the My Active Accounts page with the New button highlighted on the command bar.](../media/new-account.png)](../media/new-account.png#lightbox)
+    > ![Screenshot of the My Active Accounts page with the New button highlighted on the command bar.](../media/new-account.png)
 
 1. Enter the following fields and select **Save & Close** in the command bar.
 
@@ -196,7 +196,7 @@ In context of BigCommerce Provider, following Internal External Mappings must be
     - **Account Number**: TestBCAccount
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Test B C Account summary with the fields filled.](../media/test-account.png)](../media/test-account.png#lightbox)
+    > ![Screenshot of the Test B C Account summary with the fields filled.](../media/test-account.png)
 
 1. To access Mappings configuration, On the left pane of Dynamics 365 IOM, Change the area in left bottom edge of the screen from **Intelligent Order Management** to **Configurations**.
 
@@ -226,7 +226,7 @@ In context of BigCommerce Provider, following Internal External Mappings must be
 1. To configure the product mapping, on the left pane, select **Products**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Dynamics 365 navigation pane with Products selected under Mappings.](../media/products.png)](../media/products.png#lightbox)
+    > ![Screenshot of the Dynamics 365 navigation pane with Products selected under Mappings.](../media/products.png)
 
 1. Select **New** and enter the following fields:
 
@@ -249,7 +249,7 @@ In context of BigCommerce Provider, following Internal External Mappings must be
 1. To configure the **Price Lists,** select **Price Lists** on the left pane.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Dynamics 365 navigation pane with Price Lists selected under Mappings.](../media/price-lists.png)](../media/price-lists.png#lightbox)
+    > ![Screenshot of the Dynamics 365 navigation pane with Price Lists selected under Mappings.](../media/price-lists.png)
 
 1. Select **New** and enter the following fields and select **Save & Close**.
 
@@ -267,7 +267,7 @@ In context of BigCommerce Provider, following Internal External Mappings must be
 1. To configure Units, Navigate to **Units** in the left pane.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Dynamics 365 navigation pane with Units selected under Mappings.](../media/units.png)](../media/units.png#lightbox)
+    > ![Screenshot of the Dynamics 365 navigation pane with Units selected under Mappings.](../media/units.png)
 
 1. Select **New** and then enter the values as below and select **Save & Close**.
 

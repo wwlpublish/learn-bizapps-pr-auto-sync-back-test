@@ -13,12 +13,12 @@ In this exercise, you'll be completing the following tasks:
 1. Ensure you choose the correct environment from the upper right **Environment** drop-down is selected.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the selected environment.](../media/environment.png)](../media/environment.png#lightbox)
+    > ![Screenshot of the selected environment.](../media/environment.png)
 
 1. Select **Apps** on the left navigation bar.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Power Apps navigation bar with Apps selected.](../media/apps.png)](../media/apps.png#lightbox)
+    > ![Screenshot of the Power Apps navigation bar with Apps selected.](../media/apps.png)
 
 1. Select **Intelligent Order Management**.
 
@@ -40,7 +40,7 @@ In this exercise, you'll be completing the following tasks:
 1. Select **IOM Data Transformer** record.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the System connection references with I O M data transformer record selected.](../media/system.png)](../media/system.png#lightbox)
+    > ![Screenshot of the System connection references with I O M data transformer record selected.](../media/system.png)
 
 1. Select **Retrieve Link**.
 
@@ -53,12 +53,12 @@ In this exercise, you'll be completing the following tasks:
     > Select **United States** as your country/region and then select the **Get started** button for this lab.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Welcome to Power Automate screen with country set to U S.](../media/welcome.png)](../media/welcome.png#lightbox)
+    > ![Screenshot of the Welcome to Power Automate screen with country set to U S.](../media/welcome.png)
 
 1. Ensure the correct environment from the upper right **Environment** drop-down is selected.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the environment selected in Power Automate.](../media/environment-2.png)](../media/environment-2.png#lightbox)
+    > ![Screenshot of the environment selected in Power Automate.](../media/environment-2.png)
 
 1. On the left pane, select **Data** > **Connections**.
 
@@ -83,7 +83,7 @@ In this exercise, you'll be completing the following tasks:
 1. Select the **Create** button on the dialog box.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the I O M Data Transformer dialog showing the Create button.](../media/create-transformer.png)](../media/create-transformer.png#lightbox)
+    > ![Screenshot of the I O M Data Transformer dialog showing the Create button.](../media/create-transformer.png)
 
 1. This connector will prompt for credentials. These account and connection details will be used by the IOM Data Transformer connector in the IOM Power Automate flows to transform data using Power Query online API for IOM application. For this task, you can use your In A Day user account (credentials that you're using to sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true)) to establish the connection however in a customer's environment, make sure to use a dedicated service account instead of a user's account.
 
@@ -110,7 +110,7 @@ In this exercise, you'll be completing the following tasks:
 1. Select **New Connection**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the new connection button again.](../media/new-connection.png)](../media/new-connection.png#lightbox)
+    > ![Screenshot of the new connection button again.](../media/new-connection.png)
 
 1. Search for **Microsoft Dataverse** in the search bar located in the top right edge and then select **+** to add the connection.
 
@@ -120,7 +120,7 @@ In this exercise, you'll be completing the following tasks:
 1. Select the **Create** button on the dialog box.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Microsoft Dataverse dialog with the create button highlighted.](../media/create-dataverse.png)](../media/create-dataverse.png#lightbox)
+    > ![Screenshot of the Microsoft Dataverse dialog with the create button highlighted.](../media/create-dataverse.png)
 
 1. This connector will prompt for credentials. The Microsoft Dataverse connector uses these account and connection details in the IOM Power Automate flows to perform CRUD operations on this environment's database. For this task, you can use your user account (credentials that you use to sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true)) to establish the connection. However, in a customer's environment, use a dedicated service account instead of a user's account.
 
@@ -139,7 +139,7 @@ In this exercise, you'll be completing the following tasks:
     When you're done, you'll see the System Connection References complete except for **Power Automate Management**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the System Connection References list with Microsoft Dataverse and others showing status reason Active, and Power Automate Management showing status reason Incomplete.](../media/system-connection.png)](../media/system-connection.png#lightbox)
+    > ![Screenshot of the System Connection References list with Microsoft Dataverse and others showing status reason Active, and Power Automate Management showing status reason Incomplete.](../media/system-connection.png)
 
 1. Navigate to Power Automate tab page in your browser and repeat steps similar to steps 20-27 to add **Power Automate Management** connection in Power Automate. Leave the Authentication type to "First Party" and select **Create**.
 
@@ -158,7 +158,7 @@ In this exercise, you'll be completing the following tasks:
 1. It takes about 5 minutes to activate all system connections. You should see the following message on the screen while connections are being activated.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the message Activating system connection references.](../media/activating.png)](../media/activating.png#lightbox)
+    > ![Screenshot of the message Activating system connection references.](../media/activating.png)
 
 > [!Note]
 > You may see an error if IOM is unable to activate a system connection within timeout window. If this is the case, please close the error message and retry by selecting the Activate button. The root cause is that sometimes it can take longer than usual to activate one or more system connections thereby causing the application to raise a timeout error. If you don't see any error message in your retries then it means that the connections have been successfully activated.
@@ -213,7 +213,7 @@ This feature aims to improve user experience and give users a view of the timeli
 1. Select **Activate** on the dialog form.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Confirm Post Configuration Activation dialog.](../media/confirm.png)](../media/confirm.png#lightbox)
+    > ![Screenshot of the Confirm Post Configuration Activation dialog.](../media/confirm.png)
 
 1. Once enabled, sales orders will start displaying a timeline of business events. To view timeline, select a sales order, and you'll see **Timeline** populated.
 

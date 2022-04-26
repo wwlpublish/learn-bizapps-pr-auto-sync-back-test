@@ -14,27 +14,27 @@ In this task, you'll complete the following tasks:
 1. Navigate to [BigCommerce](https://www.bigcommerce.com/dm/innovate-ecommerce-v1/?azure-portal=true) in an in-private browser session and sign up for a trial.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the BigCommerce free trial page.](../media/free-trial.png)](../media/free-trial.png#lightbox)
+    > ![Screenshot of the BigCommerce free trial page.](../media/free-trial.png)
 
 1. Enter your email address. This will only be used for demo purposes only.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of step 1 showing the email address step and the continue to store details button.](../media/email.png)](../media/email.png#lightbox)
+    > ![Screenshot of step 1 showing the email address step and the continue to store details button.](../media/email.png)
 
 1. Enter the details. You're free to choose any name for your store. Once details have been entered, select "Create your store" button.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of step 2 showing the store name, password, first and last name, phone number, and size of online business.](../media/create-store.png)](../media/create-store.png#lightbox)
+    > ![Screenshot of step 2 showing the store name, password, first and last name, phone number, and size of online business.](../media/create-store.png)
 
 1. You should see the following splash screen while BigCommerce creates your demo store. It usually takes 2-3 mins for this step to complete.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the BigCommerce splash screen showing Your store is being created.](../media/creating.png)](../media/creating.png#lightbox)
+    > ![Screenshot of the BigCommerce splash screen showing Your store is being created.](../media/creating.png)
 
 1. For this demo, Select **Finish** and then continue.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of step 3 showing questions about the business and the Finish button.](../media/finish.png)](../media/finish.png#lightbox)
+    > ![Screenshot of step 3 showing questions about the business and the Finish button.](../media/finish.png)
 
 After your online store is ready, you'll be welcomed by a store summary screen. In this case, we've named our demo store "Fabrikam Retail." You can choose a different name. This is a pre-populated demo environment and ships with sample data, that is, product master data.
 
@@ -51,7 +51,7 @@ After your online store is ready, you'll be welcomed by a store summary screen. 
 1. Select **Create API Account** and choose **Create V2/V3 API token**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the navigation pane showing A P I Accounts selected and Create A P I Account expanded to show Create V 2 V 3 A P I token.](../media/token.png)](../media/token.png#lightbox)
+    > ![Screenshot of the navigation pane showing A P I Accounts selected and Create A P I Account expanded to show Create V 2 V 3 A P I token.](../media/token.png)
 
 1. Enter a name for the **API Account** and grant access to all of the scopes. In a production setting, one would follow the principle of least privilege and only provide access to a set of scopes that are required to complete a function. Choose the maximum scope either as "Modify" or as "Manage" as applicable in the OAuth scopes as below.
 
@@ -116,7 +116,7 @@ After your online store is ready, you'll be welcomed by a store summary screen. 
 > Using CLI such as Git Bash, set the variable value for access_token.
 >
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the command to set the variable for access_token.](../media/access-token.png)](../media/access-token.png#lightbox)
+> ![Screenshot of the command to set the variable for access_token.](../media/access-token.png)
 >
 > Using the access token published by BigCommerce, we will call Products API. This following command will print the output in JSON format. If you see a list of products, it means that the APIs and the access token are working properly.
 >

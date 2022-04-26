@@ -141,7 +141,7 @@ In this task, you'll test the orchestration flow created in the earlier task by 
 1. If your training team is using a BigCommerce Trial environment and using this URL for the first time in a browser session, then the e-commerce portal might be in private mode and expects a preview code per browser session. Enter the **Preview code** provided by your instructor, select the check box **I'm not a robot** and then select **Submit** button to enter the site.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Coming Soon dialog with the Preview code filled and I'm not a robot selected.](../media/preview.png)](../media/preview.png#lightbox)
+    > ![Screenshot of the Coming Soon dialog with the Preview code filled and I'm not a robot selected.](../media/preview.png)
 
 1. Select **Able Brewing System** in the homepage and then select **Add to Cart**.
 
