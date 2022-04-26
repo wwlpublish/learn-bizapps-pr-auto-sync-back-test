@@ -37,7 +37,7 @@ Select **Transform Data** on the ribbon. On **Applied Steps**, on the right pane
 
 Under **Add Column** on the Home ribbon, select **Custom Column**. Enter the following equation, which will concatenate the **Year** and **Month** columns, and then add a dash in between the column names.
 
-```dax
+```M
 Column = Table.AddColumn(#"Renamed Columns", "Custom", each [Year] & "-" &[Month])
 ```
 
