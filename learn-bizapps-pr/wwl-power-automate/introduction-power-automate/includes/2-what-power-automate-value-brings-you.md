@@ -77,7 +77,7 @@ Power Automate works by creating flows, of which there are three types:
 
 -   Cloud flow - These are flows that you build with a trigger and then one or
     more actions. There are a multitude of triggers and actions available such
-    as the arrival of an email from a specific person, or a mentuib of your
+    as the arrival of an email from a specific person, or a mention of your
     company in social media, thanks to the existing connectors. You will see
     these as My flows and Team flows in Power Automate. The only difference
     between a My flow and a Team flow is ownership. With a My flow you are the
