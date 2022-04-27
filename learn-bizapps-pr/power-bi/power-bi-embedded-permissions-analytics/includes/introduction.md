@@ -11,5 +11,3 @@ To gain a better understanding of how RLS restricts access to data, watch the fo
 
 <!-- > [!VIDEO https://www.microsoft.com/videoplayer/embed/] -->
 
-> [!div class="mx-imgBorder"]
-> ![Diagram showing how row-level security works.](../media/row-level-security.png)
