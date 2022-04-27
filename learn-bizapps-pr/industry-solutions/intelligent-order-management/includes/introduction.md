@@ -85,7 +85,7 @@ The core architecture of IOM has three main components:
 - Insights
 
 > [!div class="mx-imgBorder"]
-> [![Diagram of the Intelligent Order Management components.](../media/components.png)](../media/components.png#lightbox)
+> ![Diagram of the Intelligent Order Management components.](../media/components.png)
 
 [**Data pipeline**](/dynamics365/intelligent-order-management/architecture?azure-portal=true#data-pipeline) consists of integration services and Microsoft Power Query online, which is a transformation engine for the connectors and the orchestration engine. The data pipeline in Intelligent Order Management provides the foundation for the providers to move data in and out of the app.
 
