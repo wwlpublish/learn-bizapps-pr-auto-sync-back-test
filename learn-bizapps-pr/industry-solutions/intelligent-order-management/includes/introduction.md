@@ -20,19 +20,19 @@ To expand, the following are some of the ways Flexible fulfillment delivers on *
 
 This lab will focus on the retail story of Fabrikam Retail. In the following exercise, you'll play the role of a System Administrator, Developer, and a Retail customer.
 
-    - In Exercise 1, you'll be configuring and deploying a BigCommerce e-commerce site.
+- In Exercise 1, you'll be configuring and deploying a BigCommerce e-commerce site.
 
-    - In Exercise 2, you'll be configuring the Dynamics 365 Intelligent Order Management environment.
+- In Exercise 2, you'll be configuring the Dynamics 365 Intelligent Order Management environment.
 
-    - In Exercise 3, you'll configure BigCommerce Provider in addition to configuring the internal-external mappings.
+- In Exercise 3, you'll configure BigCommerce Provider in addition to configuring the internal-external mappings.
 
-    - In Exercise 4 - Task 1, you'll be configuring the frequency of power automate flow.
+- In Exercise 4 - Task 1, you'll be configuring the frequency of power automate flow.
 
-    - In Exercise 4 - Task 2, you'll assume the role of a Retail customer, sign up for an account in the e-commerce portal and place an order. Later you'll see how the order flows from BigCommerce to Dynamics 365 Intelligent Order Management.
+- In Exercise 4 - Task 2, you'll assume the role of a Retail customer, sign up for an account in the e-commerce portal and place an order. Later you'll see how the order flows from BigCommerce to Dynamics 365 Intelligent Order Management.
 
-    - In Exercise 5, you'll assume the role of a system administrator and configure the orchestration flows and policies to validate the location of the sales orders and later you'll be testing the orchestration flow.
+- In Exercise 5, you'll assume the role of a system administrator and configure the orchestration flows and policies to validate the location of the sales orders and later you'll be testing the orchestration flow.
 
-    - Exercises 6 and 7 detail the information on Administrative operations and Reporting respectively.
+- Exercises 6 and 7 detail the information on Administrative operations and Reporting respectively.
 
 ## Prerequisites
 
