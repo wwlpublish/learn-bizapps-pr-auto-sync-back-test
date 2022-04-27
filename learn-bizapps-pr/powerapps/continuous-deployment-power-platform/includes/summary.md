@@ -6,4 +6,4 @@ A healthy deployment process is essential to have a successful ALM for the Power
 
 - Are you testing post-deployment? (Smoke test, UI test, etc.)
 
-For more information about continuous deployment, see [CI/CD for Azure Power Platform](https://docs.microsoft.com/azure/architecture/solution-ideas/articles/azure-devops-continuous-integration-for-power-platform/?azure-portal=true).
+For more information about continuous deployment, see [CI/CD for Azure Power Platform](/azure/architecture/solution-ideas/articles/azure-devops-continuous-integration-for-power-platform/?azure-portal=true).
