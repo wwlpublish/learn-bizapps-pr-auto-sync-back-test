@@ -183,7 +183,7 @@ $import = New-PowerBIReport -Path $pbixFilePath -Workspace $workspace -ConflictA
 
 The `$workspaceId` variable contains useful information for your app. You should write the variable value and add it to the app's .config file. You can use the variable to enumerate workspace artifacts to retrieve properties that are required to embed them.
 
-<!-- > [!VIDEO https://www.microsoft.com/videoplayer/embed/] -->
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4VozC]
 
 ## Power BI Embedded ARM REST API
 
