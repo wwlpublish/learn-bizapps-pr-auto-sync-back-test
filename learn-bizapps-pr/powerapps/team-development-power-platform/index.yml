@@ -13,7 +13,7 @@ summary: |
   [!include[](../includes/module-banner.md)] 
   Setting team development standards for your Power Platform environment can increase productivity and allow developers to work more efficiently. This module will share common mistakes, best practices, and give an example of how to set up a development process. 
 abstract: |  
-    In this module, you will: 
+    Upon completion of this unit, the learner will be able to:
     - Compare the use of common vs. ideal patterns for team development
     - Define continuous integration
     - List the benefits of continuous integration
