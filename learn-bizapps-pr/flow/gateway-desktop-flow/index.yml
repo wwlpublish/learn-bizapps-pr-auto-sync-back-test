@@ -8,7 +8,7 @@ metadata:
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
  ms.prod: learning-power-automate  
-title: Connect a cloud flow to a desktop flows in Power Automate for desktop
+title: Connect a cloud flow to desktop flows in Power Automate for desktop
 summary: |  
   [!include[](../includes/module-banner.md)] 
   Gateways allow desktop flows to connect to other services and use robotic process automation (RPA) to its fullest potential. This module explains how to use those gateways as a foundation for integrating other technology with cloud flows.
