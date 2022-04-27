@@ -32,4 +32,4 @@ The automation solution can use the following steps to add a new tenant:
 
 To gain a better understanding of how to automate workspace separation, watch the following video.
 
-<!-- > [!VIDEO https://www.microsoft.com/videoplayer/embed/] -->
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
