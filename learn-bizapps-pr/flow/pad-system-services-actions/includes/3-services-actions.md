@@ -1,4 +1,4 @@
-Power Automate for desktop allows users to handle Windows services through the services actions. With these actions, users can maintain full control of the operating system and limit the running services.
+Power Automate for desktop allows users to handle any service on Windows through the services actions. With these actions, users can maintain full control of the operating system and limit the running services.
 
 This group contains four actions:
 
