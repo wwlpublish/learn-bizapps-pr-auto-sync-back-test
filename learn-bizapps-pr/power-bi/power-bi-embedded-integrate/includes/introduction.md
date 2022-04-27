@@ -6,15 +6,10 @@ You can use Microsoft Power BI client APIs to embed Power BI content by using Ja
 Beyond embedding Power BI content, the client APIs let your app:
 
 - Apply operations to content, such as adding a report filter.
-
 - Work with events so that your app can respond to user actions that are made in a report, such as a button selection.
-
 - Interact with bookmarks, either applying them or creating new ones.
-
 - Produce dynamic report layouts, which provide control so that users can customize the report experience.
-
 - Create personalized report visuals.
-
 - Drive an in-context analytics workflow.
 
 ### Apply operations
@@ -86,15 +81,10 @@ It also means that your app can respond in a meaningful way when the report load
 Your app can respond when a user interacts with an embedded Power BI report. It can subscribe to the events that are raised by the following user actions:
 
 - Selection of a report button (`buttonClicked` event)
-
 - Selection of a command extension, which is a custom command that your app adds to the context menu (`commandTriggered` event)
-
 - Selection of a hyperlink (`dataHyperlinkClicked` event)
-
 - Selection of a data point, such as a column of a column chart visual (`dataSelected` event)
-
 - Selection of a report visual (`visualClicked` event)
-
 - Report page change (`pageChanged` event)
 
 Consider the potential to enhance your app. At Tailspin Toys, their sales app can write back customer notes of interest to the app database. When a user selects a report button, the app will open a dialog window that prompts them to enter their notes. The app persists the entered data and then refreshes the report to show the new data that's represented in the report visuals.
@@ -110,15 +100,10 @@ Moreover, other events are available for dashboards, dashboard tiles, the Q&A ex
 In your app, you can programmatically control bookmarking experiences, where you can:
 
 - Manage bookmarks by applying, capturing, or playing them.
-
 - Apply a bookmark or return to the current viewing session.
-
 - Enter or exit the bookmarks slide show mode.
-
 - Show or hide the **Bookmarks** pane.
-
 - Retrieve a list of bookmarks.
-
 - Access bookmarks and their properties, perhaps to present them in a dropdown list.
 
 The following image shows the bookmark operations that you can explore in the Power BI Embedded Analytics Playground.
@@ -169,13 +154,9 @@ For more information, see [Report authoring overview](/javascript/api/overview/p
 The app embeds Power BI content in the `div` element, hosting the content within an `iframe` element. The `iframe` element creates a separation between the app and the embedded content, making sure that the data is more secure. The client APIs always communicate between the app and the embedded content. Because communication is bidirectional, your app can drive an in-context analytics workflow:
 
 1. The user navigates within the app.
-
 1. The app shows a Power BI report that's filtered to a specific view.
-
 1. The user interactively filters data in the report.
-
 1. The user selects a button to perform an action.
-
 1. The app responds by running some code.
 
 > [!div class="mx-imgBorder"]
