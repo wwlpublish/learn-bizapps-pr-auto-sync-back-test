@@ -11,12 +11,12 @@ To expand, the following are some of the ways Flexible fulfillment delivers on *
 - Offer real-time inventory availability and order status with AI, providing a single solution to order-fulfillment orchestration
 
 > [!div class="mx-imgBorder"]
-> [![Graphic showing the capabilities of IOM.](media/capabilities.png)](media/capabilities.png#lightbox)
+> [![Graphic showing the capabilities of IOM.](../media/capabilities.png)](../media/capabilities.png#lightbox)
 
 ## Retail story
 
 > [!div class="mx-imgBorder"]
-> [![Graphic showing the flow of the retail story.](media/retail-story.png)](media/retail-story.png#lightbox)
+> [![Graphic showing the flow of the retail story.](../media/retail-story.png)](../media/retail-story.png#lightbox)
 
 This lab will focus on the retail story of Fabrikam Retail. In the following exercise, you'll play the role of a System Administrator, Developer, and a Retail customer.
 
