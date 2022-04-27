@@ -24,7 +24,7 @@ quiz:
     - content: Publish to web
       isCorrect: false 
       explanation: Incorrect. Publish to web isn’t a scenario. It’s a Power BI feature that allows Power BI reports to be accessed by anyone on the internet. This feature isn't suited for the development requirements.
-  - content: Rohini is a developer at Tailspin Toys who has developed an app for external users. Rohini expects that demand for opening Power BI reports will increase significantly for the first few days of each month. The Power BI reports reside in a workspace that is set with the **Embedded** license mode. Reports connect to an Azure SQL database. Rohini wants to ensure that accessing the report is reliable and responsive. Which scale method should Rohini use to obtain report page state??
+  - content: Rohini is a developer at Tailspin Toys who has developed an app for external users. Rohini expects that demand for opening Power BI reports will increase significantly for the first few days of each month. The Power BI reports reside in a workspace that is set with the **Embedded** license mode. Reports connect to an Azure SQL database. Rohini wants to ensure that accessing the report is reliable and responsive. Which scale method should Rohini use to obtain report page state?
     choices: 
     - content: Adjust the database scale by using read scale-out
       isCorrect: false
