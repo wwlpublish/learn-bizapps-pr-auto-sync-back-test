@@ -1,10 +1,10 @@
 In this exercise, you'll complete the following tasks:
 
-1. Learn about orchestration flows
+- Learn about orchestration flows
 
-1. Create a policy
+- Create a policy
 
-1. Create an orchestration flow
+- Create an orchestration flow
 
 ## Overview
 

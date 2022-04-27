@@ -1,10 +1,10 @@
 In this exercise, you'll learn about the following:
 
-1. Power BI integration
+- Power BI integration
 
-1. How to create new dashboards in IOM
+- How to create new dashboards in IOM
 
-1. Accessing IOM data using Power BI
+- Accessing IOM data using Power BI
 
 There are two types of dashboard technologies available in Intelligent Order Management.
 

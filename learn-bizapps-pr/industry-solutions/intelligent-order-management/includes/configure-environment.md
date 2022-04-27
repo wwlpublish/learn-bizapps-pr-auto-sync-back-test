@@ -1,10 +1,10 @@
 In this exercise, you'll be completing the following tasks:
 
-1. Configure mandatory Power Automate connections for IOM
+- Configure mandatory Power Automate connections for IOM
 
-1. Enable Bing Maps integration
+- Enable Bing Maps integration
 
-1. Enable Timeline feature
+- Enable Timeline feature
 
 ## Task 1: Configure system connections
 

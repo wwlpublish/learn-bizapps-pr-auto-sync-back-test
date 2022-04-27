@@ -1,14 +1,14 @@
 In this exercise, you'll complete the following tasks:
 
-1. About IOM providers and their role.
+- About IOM providers and their role.
 
-1. Configure a provider for BigCommerce that enables communication between IOM and third-party e-commerce platform BigCommerce.
+- Configure a provider for BigCommerce that enables communication between IOM and third-party e-commerce platform BigCommerce.
 
-1. Configure Internal-External Mappings in IOM.
+- Configure Internal-External Mappings in IOM.
 
-1. Configure a first-party provider for Intelligent Fulfillment Optimization. This provider enables the use of intelligent fulfillment optimization capabilities in IOM.
+- Configure a first-party provider for Intelligent Fulfillment Optimization. This provider enables the use of intelligent fulfillment optimization capabilities in IOM.
 
-1. Configure a first-party provider for Inventory Visibility. This provider enables use of inventory feasibility capabilities in Dynamics 365 IOM.
+- Configure a first-party provider for Inventory Visibility. This provider enables use of inventory feasibility capabilities in Dynamics 365 IOM.
 
 ## Overview of providers
 
@@ -161,13 +161,13 @@ Key components of a provider are:
 
 Once BigCommerce Provider has been configured, next step is to configure Mappings in IOM. Mappings enable translation of fields between third-party platforms such as BigCommerce and IOM. With the internal external ID mappings functionality, you can perform the following tasks:
 
-1. Define the relationship between identities in an enterprise across applications and operating systems.
+- Define the relationship between identities in an enterprise across applications and operating systems.
 
-1. Use the mapping for multiple integrations.
+- Use the mapping for multiple integrations.
 
-1. Enable an end-to-end visualization of mapping across multiple systems.
+- Enable an end-to-end visualization of mapping across multiple systems.
 
-1. Configure and add your own mapping and mapping tables.
+- Configure and add your own mapping and mapping tables.
 
 In context of BigCommerce Provider, following Internal External Mappings must be configured before orders generated in BigCommerce are visible in IOM:
 

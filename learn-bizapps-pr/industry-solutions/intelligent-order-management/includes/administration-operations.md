@@ -1,8 +1,8 @@
 In this exercise, you'll complete the following:
 
-1. Learn about operational aspects of IOM and Power Platform.
+- Learn about operational aspects of IOM and Power Platform.
 
-1. Learn about command line features of Power Platform to perform administrative tasks related to IOM.
+- Learn about command line features of Power Platform to perform administrative tasks related to IOM.
 
 ## Operational aspects
 

@@ -11,12 +11,12 @@ To expand, the following are some of the ways Flexible fulfillment delivers on *
 - Offer real-time inventory availability and order status with AI, providing a single solution to order-fulfillment orchestration
 
 > [!div class="mx-imgBorder"]
-> [![Graphic showing the capabilities of IOM.](../media/capabilities.png)](../media/capabilities.png#lightbox)
+> [![Infographic showing the capabilities of IOM.](../media/capabilities.png)](../media/capabilities.png#lightbox)
 
 ## Retail story
 
 > [!div class="mx-imgBorder"]
-> [![Graphic showing the flow of the retail story.](../media/retail-story.png)](../media/retail-story.png#lightbox)
+> [![Infographic showing the flow of the retail story.](../media/retail-story.png)](../media/retail-story.png#lightbox)
 
 This lab will focus on the retail story of Fabrikam Retail. In the following exercise, you'll play the role of a System Administrator, Developer, and a Retail customer.
 
@@ -41,7 +41,7 @@ To complete these exercises, you'll need the following:
 - Dynamics 365 Intelligent Order Management
 
   > [!Note]
-  > The [trial version](https://dynamics.microsoft.com/intelligent-order-management/overview/?azure-portal=true) of Intelligent Order Management includes the underlying dependencies (Power Platform, Dataverse capacity etc.). However, you need to consider these for production deployments. Further guidance is available [here](https://github.com/microsoft/industry/tree/main/foundations/powerPlatform/?azure-portal=true).)
+  > The [trial version](https://dynamics.microsoft.com/intelligent-order-management/overview/?azure-portal=true) of Intelligent Order Management includes the underlying dependencies (Power Platform, Dataverse capacity etc.). However, you need to consider these for production deployments. Further guidance is available in [Power Platform Landing Zones](https://github.com/microsoft/industry/tree/main/foundations/powerPlatform/?azure-portal=true).
 
 - BigCommerce trial subscription
 

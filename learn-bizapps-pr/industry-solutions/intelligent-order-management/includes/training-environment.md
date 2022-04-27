@@ -1,8 +1,8 @@
 In this task, you'll complete the following tasks:
 
-1. Set up a [BigCommerce](https://www.bigcommerce.com/dm/innovate-ecommerce-v1/?azure-portal=true) demo store.
+- Set up a [BigCommerce](https://www.bigcommerce.com/dm/innovate-ecommerce-v1/?azure-portal=true) demo store.
 
-1. Create a BigCommerce API key to use for configuring IOM provider.
+- Create a BigCommerce API key to use for configuring IOM provider.
 
 > [!Note]
 > In this lab, we are using 3P e-commerce platform (BigCommerce) to showcase integration with external e-commerce platform.
@@ -115,14 +115,12 @@ After your online store is ready, you'll be welcomed by a store summary screen. 
 >
 > Using CLI such as Git Bash, set the variable value for access_token.
 >
-> [!div class="mx-imgBorder"]
 > ![Screenshot of the command to set the variable for access_token.](../media/access-token.png)
 >
 > Using the access token published by BigCommerce, we will call Products API. This following command will print the output in JSON format. If you see a list of products, it means that the APIs and the access token are working properly.
 >
-> [!div class="mx-imgBorder"]
 > [![Screenshot of the JSON code to access the token.](../media/json.png)](../media/json.png#lightbox)
 >
-> Similarly, one can use [[Postman]](https://www.postman.com/?azure-portal=true) which supports GUI experience to troubleshoot API issues.
+> Similarly, one can use [Postman](https://www.postman.com/?azure-portal=true) which supports GUI experience to troubleshoot API issues.
 
 **Congratulations!** You have successfully set up a BigCommerce demo store. You've also created an API key and noted it down which you would use when configuring the IOM provider in the upcoming exercise.

@@ -1,8 +1,8 @@
 In this exercise, you'll complete the following:
 
-1. Configure recurrence frequency of BigCommerce pull sales order flow
+- Configure recurrence frequency of BigCommerce pull sales order flow
 
-1. Generate orders in BigCommerce and validate flow of orders to IOM
+- Generate orders in BigCommerce and validate flow of orders to IOM
 
 ## Task 1: Configure the frequency of the flow
 
