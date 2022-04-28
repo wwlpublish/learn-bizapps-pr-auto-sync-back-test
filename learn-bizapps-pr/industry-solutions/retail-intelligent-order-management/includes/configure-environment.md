@@ -23,7 +23,7 @@ In this exercise, you'll be completing the following tasks:
 1. Select **Intelligent Order Management**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the intelligent order management app selected in the apps list.](../media/intelligent-order-management.png)](../media-intelligent-order-management.png#lightbox)
+    > [![Screenshot of the intelligent order management app selected in the apps list.](../media/intelligent-order-management.png)](../media/intelligent-order-management.png#lightbox)
 
 1. Select **Get Started** button on the welcome screen in **IOM**.
 
