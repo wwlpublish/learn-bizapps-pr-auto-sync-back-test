@@ -14,7 +14,7 @@ summary: |
   This module introduces the basics of Power Automate for desktop flows and explains how to build the first flow to help automate a repetitive task. 
 abstract: |  
     In this module, you will: 
-    - Learn about Power Automate Desktop flows.
+    - Learn about Power Automate for desktop flows.
     - Learn how to create a new desktop flow.
     - Record actions that are performed in the desktop-based Contoso Invoicing application.
     - Perform a test run of the new desktop flow.
