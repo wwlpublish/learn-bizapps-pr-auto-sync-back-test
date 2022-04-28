@@ -1,14 +1,14 @@
 ### YamlMime:Module
-uid: learn-bizapps.intelligent-order-management
+uid: learn-bizapps.retail-intelligent-order-management
 metadata:
- title: Intelligent Order Management
+ title: Intelligent Order Management for Microsoft Cloud for Retail
  description: Learn to use Dynamics 365 Intelligent Order Management (IOM) to streamline curbside pickup and provide customers with real-time inventory and order status.
  ms.date: 05/02/2022
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
  ms.prod: learning-industry-solutions
-title: Intelligent Order Management
+title: Intelligent Order Management for Microsoft Cloud for Retail
 summary: |
   [!include[](../includes/module-banner.md)]
   The Flexible fulfillment capability in the 'Build a real time sustainable supply chain' priority scenario helps Retailers optimize order management while giving their customers multiple options to engage across several channels.
@@ -23,7 +23,7 @@ prerequisites: |
     - Dynamics 365 Intelligent Order Management
     - BigCommerce trial subscription
     - Postman or CLI such as CURL for troubleshooting APIs (optional)
-iconUrl: /learn/achievements/intelligent-order-management.svg
+iconUrl: /learn/achievements/retail-intelligent-order-management.svg
 levels:
 - intermediate
 roles:
@@ -33,15 +33,15 @@ products:
 - mscloud-retail
 - industry-solutions
 units:
-- learn-bizapps.intelligent-order-management.introduction
-- learn-bizapps.intelligent-order-management.training-environment
-- learn-bizapps.intelligent-order-management.configure-environment
-- learn-bizapps.intelligent-order-management.configure-providers
-- learn-bizapps.intelligent-order-management.test-flow-orders
-- learn-bizapps.intelligent-order-management.create-orchestration-flow
-- learn-bizapps.intelligent-order-management.administration-operations
-- learn-bizapps.intelligent-order-management.reporting
-- learn-bizapps.intelligent-order-management.check
-- learn-bizapps.intelligent-order-management.summary
+- learn-bizapps.retail-intelligent-order-management.introduction
+- learn-bizapps.retail-intelligent-order-management.training-environment
+- learn-bizapps.retail-intelligent-order-management.configure-environment
+- learn-bizapps.retail-intelligent-order-management.configure-providers
+- learn-bizapps.retail-intelligent-order-management.test-flow-orders
+- learn-bizapps.retail-intelligent-order-management.create-orchestration-flow
+- learn-bizapps.retail-intelligent-order-management.administration-operations
+- learn-bizapps.retail-intelligent-order-management.reporting
+- learn-bizapps.retail-intelligent-order-management.check
+- learn-bizapps.retail-intelligent-order-management.summary
 badge:
-  uid: learn-bizapps.intelligent-order-management.badge
+  uid: learn-bizapps.retail-intelligent-order-management.badge

@@ -41,7 +41,7 @@ To complete these exercises, you'll need the following:
 - Dynamics 365 Intelligent Order Management
 
   > [!Note]
-  > The [trial version](https://dynamics.microsoft.com/intelligent-order-management/overview/?azure-portal=true) of Intelligent Order Management includes the underlying dependencies (Power Platform, Dataverse capacity etc.). However, you need to consider these for production deployments. Further guidance is available in [Power Platform Landing Zones](https://github.com/microsoft/industry/tree/main/foundations/powerPlatform/?azure-portal=true).
+  > The [trial version](https://dynamics.microsoft.com/retail-intelligent-order-management/overview/?azure-portal=true) of Intelligent Order Management includes the underlying dependencies (Power Platform, Dataverse capacity etc.). However, you need to consider these for production deployments. Further guidance is available in [Power Platform Landing Zones](https://github.com/microsoft/industry/tree/main/foundations/powerPlatform/?azure-portal=true).
 
 - BigCommerce trial subscription
 
@@ -49,7 +49,7 @@ To complete these exercises, you'll need the following:
 
 Dynamics 365 Intelligent Order Management (IOM) is built on a modern open platform and provides the flexibility companies need today to capture orders from any order source such as online e-commerce, marketplace, mobile apps, or traditional sources like EDI (Electronic Data Interchange) and fulfill them from their own warehouse, 3PL (Third-party Logistics), stores, or drop-ship with vendors or other delivery fulfillment partners.
 
-It's a common scenario for enterprises to have disparate systems for e-commerce, fulfillment, and shipping/delivery. IOM bridges these disparities and provides a single pane of glass to manage end to end lifecycle of an Order. [Extensibility features](/dynamics365/intelligent-order-management/extensibility/?azure-portal=true) allow customers to integrate IOM with their existing ecosystem of applications.
+It's a common scenario for enterprises to have disparate systems for e-commerce, fulfillment, and shipping/delivery. IOM bridges these disparities and provides a single pane of glass to manage end to end lifecycle of an Order. [Extensibility features](/dynamics365/retail-intelligent-order-management/extensibility/?azure-portal=true) allow customers to integrate IOM with their existing ecosystem of applications.
 
 The system also helps organizations streamline the return processes. Whether returns are collected at a retail store, fulfillment center, or service center, returns can be initiated through an app, online, or at the store.
 
@@ -87,7 +87,7 @@ The core architecture of IOM has three main components:
 > [!div class="mx-imgBorder"]
 > ![Diagram of the Intelligent Order Management components.](../media/components.png)
 
-[**Data pipeline**](/dynamics365/intelligent-order-management/architecture?azure-portal=true#data-pipeline) consists of integration services and Microsoft Power Query online, which is a transformation engine for the connectors and the orchestration engine. The data pipeline in Intelligent Order Management provides the foundation for the providers to move data in and out of the app.
+[**Data pipeline**](/dynamics365/retail-intelligent-order-management/architecture?azure-portal=true#data-pipeline) consists of integration services and Microsoft Power Query online, which is a transformation engine for the connectors and the orchestration engine. The data pipeline in Intelligent Order Management provides the foundation for the providers to move data in and out of the app.
 
 A **pipeline** is composed of:
 
@@ -103,7 +103,7 @@ A **pipeline** is composed of:
 
 - Provider action
 
-[**Orchestration engine**](/dynamics365/intelligent-order-management/architecture?azure-portal=true#orchestration-engine) orchestrates a business process flow. Order-to-fulfillment flow is complex to model in a single business app, but when combined with other cloud services and supply chain partner systems, the complexity grows. To help business users in the organization to visualize and manage this complexity, Intelligent Order Management ships with a business orchestration designer. Business process flows designed with the orchestration designer are compiled into Power Automate flows when the flow is published.
+[**Orchestration engine**](/dynamics365/retail-intelligent-order-management/architecture?azure-portal=true#orchestration-engine) orchestrates a business process flow. Order-to-fulfillment flow is complex to model in a single business app, but when combined with other cloud services and supply chain partner systems, the complexity grows. To help business users in the organization to visualize and manage this complexity, Intelligent Order Management ships with a business orchestration designer. Business process flows designed with the orchestration designer are compiled into Power Automate flows when the flow is published.
 
 Components of the orchestration engine:
 
@@ -127,4 +127,4 @@ In inventory **visibility**, we have a highly scalable microservice that enables
 
 In fulfillment insights, analytics monitor order through to fulfillment supply chain, out-of-the-box, customizable dashboards to monitor key metrics. AI-based anomaly detection models provide the visibility the order from fulfillment through to delivery and communicate that to the people and the systems that need that visibility in your organization.
 
-**[Insights](/dynamics365/intelligent-order-management/architecture#insights)** is built on Power BI and AI Builder. Intelligent Order Management provides several dashboards to help the business user understand key order and fulfillment metrics. Machine learning is used to analyze data using models and uses advanced algorithms to find or predict patterns in data. Customers can build models using AI builder that use data from Intelligent Order Management, so that results are updated on entities used during the order and fulfillments flows. This will help decision making in orchestration flows.
+**[Insights](/dynamics365/retail-intelligent-order-management/architecture#insights)** is built on Power BI and AI Builder. Intelligent Order Management provides several dashboards to help the business user understand key order and fulfillment metrics. Machine learning is used to analyze data using models and uses advanced algorithms to find or predict patterns in data. Customers can build models using AI builder that use data from Intelligent Order Management, so that results are updated on entities used during the order and fulfillments flows. This will help decision making in orchestration flows.

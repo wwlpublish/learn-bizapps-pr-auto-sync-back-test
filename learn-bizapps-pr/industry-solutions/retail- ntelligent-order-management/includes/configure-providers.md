@@ -12,7 +12,7 @@ In this exercise, you'll complete the following tasks:
 
 ## Overview of providers
 
-A key value proposition of Dynamics 365 Intelligent Order Management is the ability to seamlessly integrate with other systems. To do so, Intelligent Order Management uses "providers". [Providers](/dynamics365/intelligent-order-management/work-providers?azure-portal=true#components) are constructs that allow you to connect Intelligent Order Management to external systems.
+A key value proposition of Dynamics 365 Intelligent Order Management is the ability to seamlessly integrate with other systems. To do so, Intelligent Order Management uses "providers". [Providers](/dynamics365/retail-intelligent-order-management/work-providers?azure-portal=true#components) are constructs that allow you to connect Intelligent Order Management to external systems.
 
 Intelligent Order Management providers were designed with the following properties:
 
@@ -51,7 +51,7 @@ Key components of a provider are:
 1. Select **Intelligent Order Management**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the list of apps with Intelligent Order Management highlighted.](../media/intelligent-order-management.png)](../media/intelligent-order-management.png#lightbox)
+    > [![Screenshot of the list of apps with Intelligent Order Management highlighted.](../media/retail-intelligent-order-management.png)](../media/retail-intelligent-order-management.png#lightbox)
 
 1. On the left pane, select **Providers** > **Catalog**. The form will display a list of pre-built Providers. IOM also supports custom providers. For our lab, we'll be using BigCommerce as our source system so select **Add provider** button on **BigCommerce** tile.
 
