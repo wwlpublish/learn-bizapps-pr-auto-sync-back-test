@@ -12,7 +12,7 @@ climate changes, new factors are impacting businesses. These impacts include:
 
 -   **Changing workforce expectations:** As millennials and Gen Z become most of
     the workforce, organizations need adapt to fit the way they work. They have
-    grown up in a world or tailored experiences and collaborating through social
+    grown up in a world of tailored experiences and collaborating through social
     medial. To best apply their abilities, organizations need to be able to
     deliver more custom, streamlined, and collaborative digital experiences.
 
