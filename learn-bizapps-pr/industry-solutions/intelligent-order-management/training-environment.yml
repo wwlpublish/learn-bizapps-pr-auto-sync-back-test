@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.intelligent-order-management.training-environment
+title: Exercise 1 - Configure and deploy BigCommerce e-commerce site
+metadata:
+  title: Exercise 1 - Configure and deploy BigCommerce e-commerce site
+  description: Follow the steps to configure and deploy a BigCommerce e-commerce site.
+  ms.date: 05/02/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-industry-solutions
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/training-environment.md)]

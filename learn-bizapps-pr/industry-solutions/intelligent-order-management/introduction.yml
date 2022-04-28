@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.intelligent-order-management.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to Intelligent Order Management.
+  ms.date: 05/02/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-industry-solutions
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]
