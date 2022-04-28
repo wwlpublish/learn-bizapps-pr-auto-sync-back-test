@@ -76,12 +76,9 @@ You can either create an order on BigCommerce store portal or their e-Commerce p
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Your account has been created message box.](../media/account-created.png)](../media/account-created.png#lightbox)
 
-1. Select **Able Brewing System** in the homepage because this is the only product mapped in Dynamics 365 IOM as part of Exercise 2 - Task 2 - Step 1. Once the product has been selected, select **Add to Cart**.
+1. Select the product in the homepage that we mapped in Dynamics 365 IOM as part of Exercise 2 - Task 2 - Step 1. Once the product has been selected, select **Add to Cart**.
 
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Able Brewing System product selected.](../media/able.png)](../media/able.png#lightbox)
-
-1. Select **Checkout** button.
+1. Select the **Checkout** button.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the cart with one item and the check out button highlighted.](../media/check-out.png)](../media/check-out.png#lightbox)

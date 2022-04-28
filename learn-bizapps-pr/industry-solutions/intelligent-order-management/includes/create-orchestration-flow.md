@@ -143,12 +143,9 @@ In this task, you'll test the orchestration flow created in the earlier task by 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Coming Soon dialog with the Preview code filled and I'm not a robot selected.](../media/preview.png)
 
-1. Select **Able Brewing System** in the homepage and then select **Add to Cart**.
+1. Select a product in the homepage and then select **Add to Cart**.
 
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Able brewing selected again.](../media/able.png)](../media/able.png#lightbox)
-
-1. Select **Checkout** button.
+1. Select the **Checkout** button.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the cart with the check out button highlighted.](../media/check-out.png)](../media/check-out.png#lightbox)
