@@ -1,14 +1,14 @@
 ### YamlMime:Module 
 uid: learn-bizapps.integrate-flow-outlook 
 metadata: 
- title: Integrate desktop flow with Outlook connector in Power Automate Desktop
+ title: Integrate desktop flows with Outlook connector in Power Automate Desktop
  description: Learn how to integrate desktop flows with Microsoft Outlook in Power Automate Desktop.
  ms.date: 11/01/2021 
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
  ms.prod: learning-power-automate  
-title: Integrate desktop flow with Outlook connector in Power Automate Desktop
+title: Integrate desktop flows with Outlook connector in Power Automate Desktop
 summary: |  
   [!include[](../includes/module-banner.md)] 
   This module will show how to build on an existing gateway to integrate Microsoft Outlook with a desktop UI flow.
