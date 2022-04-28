@@ -1,39 +1,39 @@
-You'll now explore the **Capture report views** showcase. This showcase demonstrates using the client APIs to apply and create bookmarks.
+In this unit, you'll explore the **Capture report views** showcase. This showcase demonstrates how to use the client APIs to apply and create bookmarks.
 
-1. In the playground menu, select the **Capture report views** showcase.
+In the Power BI Embedded Analytics Playground menu, select the **Capture report views** showcase.
 
-   > [!div class="mx-imgBorder"]
-   > ![Image shows the Capture report views showcase highlighted.](../media/playground-capture-report-views-showcase.png)
+> [!div class="mx-imgBorder"]
+> ![Image showing the Capture report views showcase highlighted.](../media/playground-capture-report-views-showcase.png)
 
-1. In the embedded Power BI report, at the top left, select the **Saved views** button.
+In the embedded Power BI report, in the upper left, select the **Saved views** button.
 
-   > [!div class="mx-imgBorder"]
-   > ![Image highlights the Saved views button.](../media/playground-capture-report-views-saved-views-button.png)
+> [!div class="mx-imgBorder"]
+> ![Image highlighting the Saved views button.](../media/playground-capture-report-views-saved-views-button.png)
 
-   Notice the list of *views*, which are really bookmarks. The `bookmarksManager.getBookmarks` function retrieved the report's bookmark collection.
+The list of *views* is actually bookmarks. The `bookmarksManager.getBookmarks` function has retrieved the report's bookmark collection.
 
-1. Select any bookmark to apply it to the report, and notice that the page updates with new state. The `bookmarksManager.apply` function applied the bookmark to the report.
+Select any bookmark to apply it to the report, and then notice that the page updates with a new state. The `bookmarksManager.apply` function has applied the bookmark to the report.
 
-1. In the **Manufacturer** slicer, select the first manufacture, **Abbas**.
+In the **Manufacturer** slicer, select the first manufacturer, **Abbas**.
 
-   > [!div class="mx-imgBorder"]
-   > ![Image shows the Manufacturer slicer with Abbas selected.](../media/playground-capture-report-views-set-manufacturer-slicer.png)
+> [!div class="mx-imgBorder"]
+> ![Image showing the Manufacturer slicer with Abbas selected.](../media/playground-capture-report-views-set-manufacturer-slicer.png)
 
-1. Select the **Capture view** button.
+Select the **Capture view** button.
 
-   > [!div class="mx-imgBorder"]
-   > ![Image highlights the Capture view button.](../media/playground-capture-report-views-capture-view-button.png)
+> [!div class="mx-imgBorder"]
+> ![Image highlighting the Capture view button.](../media/playground-capture-report-views-capture-view-button.png)
 
-1. In the dialog window, beneath **Enter a name for this view**, enter **Abbas**.
+In the dialog window, beneath **Enter a name for this view**, enter **Abbas**.
 
-   > [!div class="mx-imgBorder"]
-   > ![Image shows the name Abbas entered.](../media/playground-capture-report-views-capture-view-enter-name.png)
+> [!div class="mx-imgBorder"]
+> ![Image showing the name Abbas being entered.](../media/playground-capture-report-views-capture-view-enter-name.png)
 
-1. Select **Save**. The `bookmarksManager.capture` function created a personal bookmark.
+Select **Save**. The `bookmarksManager.capture` function has created a personal bookmark.
 
-1. Return to the saved views, and notice that the Abbas bookmark appears at the bottom of the list.
+Return to the saved views, where the Abbas bookmark appears at the bottom of the list.
 
-   > [!div class="mx-imgBorder"]
-   > ![Image highlights the Abbas bookmark in the save views list.](../media/playground-capture-report-views-saved-views-abbas.png)
+> [!div class="mx-imgBorder"]
+> ![Image highlighting the Abbas bookmark in the Saved views list.](../media/playground-capture-report-views-saved-views-abbas.png)
 
-For a more detailed explanation, including access to the code, see [Capture report views showcase](/javascript/api/overview/powerbi/showcase-bookmarks/?azure-portal=true).
+For more information, see [Capture report views showcase](/javascript/api/overview/powerbi/showcase-bookmarks/?azure-portal=true).
