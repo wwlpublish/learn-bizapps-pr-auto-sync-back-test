@@ -8,10 +8,10 @@ Select the flow in which you want to use the AI model. If you're following from 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Flows > Use Outlook email to trigger Desktop flow dialog box.](../media/15-edit-flow.png)](../media/15-edit-flow.png#lightbox)
 
-Delete the **Run a flow built with Power Automate Desktop** action by selecting the ellipsis (**...**) and then selecting **Delete**. You're deleting this action now so that you can test the AI model without constantly triggering the desktop flow.
+Delete the **Run a flow built with Power Automate for desktop** action by selecting the ellipsis (**...**) and then selecting **Delete**. You're deleting this action now so that you can test the AI model without constantly triggering the desktop flow.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the Run a flow built with Power Automate Desktop action with the ellipsis button selected and the Delete option highlighted.](../media/16-delete-action.png)](../media/16-delete-action.png#lightbox)
+> [![Screenshot of the Run a flow built with Power Automate for desktop action with the ellipsis button selected and the Delete option highlighted.](../media/16-delete-action.png)](../media/16-delete-action.png#lightbox)
 
 After the action is deleted, select **New step** and then search for and select **Predict** under AI Builder.
 

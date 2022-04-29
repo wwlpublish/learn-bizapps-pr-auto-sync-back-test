@@ -17,7 +17,7 @@ abstract: |
     - Create a desktop flow with predefined inputs.
     - Record actions that are performed in the desktop-based Contoso Invoicing application by using these inputs and capturing application data for output.
     - Perform a test run of a new desktop flow with a new set of inputs.
-prerequisites: A basic understanding of Microsoft Power Automate and Power Automate Desktop flows
+prerequisites: A basic understanding of Microsoft Power Automate and Power Automate for desktop.
 iconUrl: /learn/achievements/input-parameters.svg  
 levels:  
 - beginner   
