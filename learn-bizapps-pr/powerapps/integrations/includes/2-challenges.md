@@ -60,7 +60,7 @@ The design process is a balance, and you won't have a right or wrong answer for 
 In some cases, it is cheaper to hire staff than to build the integration. Technologists often overlook non-technical solutions that are still viable. You should also consider whether the integration is necessary and if it needs to be real-time.
 
 > [!IMPORTANT]
-> The solution architect should also consider using Power Automate Desktop flows to perform integrations at the user interface level.
+> The solution architect should also consider using Power Automate for desktop flows to perform integrations at the user interface level.
 
 ## Data integration
 
