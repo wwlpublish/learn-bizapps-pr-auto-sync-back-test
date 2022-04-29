@@ -28,7 +28,7 @@ quiz:
     - content: "A Canvas app"
       isCorrect: true
       explanation: "Correct. With Canvas apps, you start with a blank canvas choosing your type of mobile or tablet. Then you can design the app to meet your \"pixel perfect\" design."
-  - content: "Your project requirements call for the ability to take a picture of a part and identify which model it is. You are not a data scientist or developer, how can you add this to your app?"
+  - content: "Your project requirements call for the ability to take a picture of a part and identify which model it is. You aren't a data scientist or developer, how can you add this to your app?"
     choices:
     - content: "Train and use an Object Detection model in your app with AI Builder."
       isCorrect: true
@@ -44,9 +44,9 @@ quiz:
     - content: "Power Apps can only use its internal data sources."
       isCorrect: false
       explanation: "Incorrect. Power Apps supports both internal and external data sources with more than 600 connectors."
-    - content: "Power Apps uses only external data sources and does not have an internal data source."
+    - content: "Power Apps uses only external data sources and doesn't have an internal data source."
       isCorrect: false
       explanation: "Incorrect. Power Apps is built on top of the Microsoft Dataverse and can leverage this internal data source."
     - content: "Power Apps can use multiple internal and external data sources in the same app."
       isCorrect: true
-      explanation: "Correct. Power Apps allows you complete control of which data sources you use in your app. There are over 600 data connectors available, and the ability to build a customer connector if one does not exist."
+      explanation: "Correct. Power Apps allows you complete control of which data sources you use in your app. There are over 600 data connectors available, and the ability to build a customer connector if one doesn't exist."
