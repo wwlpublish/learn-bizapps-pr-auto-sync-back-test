@@ -4,12 +4,13 @@ title: Knowledge check
 metadata:
   title: Knowledge check
   description: "Knowledge check"
-  ms.date: 05/31/2021
+  ms.date: 04/26/2022
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 azureSandbox: false
+labModal: false
 durationInMinutes: 3
 content: |
   [!include[](includes/5-knowledge-check.md)]
@@ -20,13 +21,13 @@ quiz:
     choices:
     - content: "Download the Power Automate administrator application."
       isCorrect: false
-      explanation: "Incorrect. Power Automate provides https://admin.powerplatform.microsoft.com, PowerShell cmdlets, and flow actions for managing Power Automate. There is not a stand alone application."
+      explanation: "Incorrect. Power Automate provides https://admin.powerplatform.microsoft.com, PowerShell cmdlets, and flow actions for managing Power Automate. There is not a standalone application."
     - content: "Power Automate is only administered via the web portal."
       isCorrect: false
       explanation: "Incorrect. Power Automate can be administered via https://admin.powerplatform.microsoft.com but there are also PowerShell cmdlets and flow actions to give you multiple options for administration."
     - content: "Power Automate can be administered on the web, via PowerShell, or even by building flows."
       isCorrect: true
-      explanation: "Correct. Power Automate provides https://admin.powerplatform.microsoft.com, PowerShell cmdlets, and flow actions for managing Power Automate. This give you complete flexibility for your Microsoft Power Platform administration."
+      explanation: "Correct. Power Automate provides https://admin.powerplatform.microsoft.com, PowerShell cmdlets, and flow actions for managing Power Automate. This gives you complete flexibility for your Microsoft Power Platform administration."
   - content: "Where do you find flow templates?"
     choices:
     - content: "You have to build and save templates yourself; there are no pre-built templates."
@@ -42,10 +43,10 @@ quiz:
     choices:
     - content: "Power Automate can only connect to Microsoft data sources such as Office 365 and Azure."
       isCorrect: false
-      explanation: "Incorrect. Power Automate supports both Microsoft and 3rd party data sources with more than 260 connectors."
+      explanation: "Incorrect. Power Automate supports both Microsoft and 3rd party data sources with more than 600 connectors."
     - content: "Power Automate requires you to build custom connectors to access external data."
       isCorrect: false
-      explanation: "Incorrect. Power Automate allows you to build a custom connector to access an external data source, but it also has over 260 prebuilt data connectors."
-    - content: "Power Automate can connect to data sources using one of the 275+ prebuilt connectors or by building your own custom connector."
+      explanation: "Incorrect. Power Automate allows you to build a custom connector to access an external data source, but it also has over 600 prebuilt data connectors."
+    - content: "Power Automate can connect to data sources using one of the 600+ prebuilt connectors or by building your own custom connector."
       isCorrect: true
       explanation: "Correct. Power Automate allows you to automate business processes where your data lives."
