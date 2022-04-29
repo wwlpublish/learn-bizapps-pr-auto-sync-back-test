@@ -1,13 +1,13 @@
-In this lab, you learned how to do the following:
+In this lab, you learned how to:
 
--   Deploy a Website to Azure with Visual Studio Code
+-   Deploy a website to Azure with Visual Studio Code.
 
--   Create a Microsoft Clarity Project
+-   Create a Microsoft Clarity project.
 
--   Integrate a Microsoft Clarity Project with a custom website
+-   Integrate a Microsoft Clarity project with a custom website.
 
--   Integrate a Microsoft Clarity Project with a Dynamics 365 E-Commerce website
+-   Integrate a Microsoft Clarity project with an E-Commerce website.
 
--   Monitor Website usage with Microsoft Clarity capabilities.
+-   Monitor website usage with Microsoft Clarity capabilities.
 
-Completing this lab concludes the Shopper and Operations Analytics scenario part of the Microsoft Cloud for Retail In a Day training.
+Completing this lab concludes the **Shopper and operations analytics** scenario of the Microsoft Cloud for Retail In a Day training.
