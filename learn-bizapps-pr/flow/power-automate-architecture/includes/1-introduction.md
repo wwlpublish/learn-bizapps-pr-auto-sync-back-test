@@ -74,15 +74,15 @@ Power Automate cloud flows are the primary choice for non-real time automation. 
 
 Power Automate cloud flows can use over 400 connectors to other cloud services and data sources. Power Automate can connect to any cloud service that has a REST API by creating a custom connector.
 
-## Power Automate Desktop flows
+## Power Automate for desktop
 
-Power Automate Desktop flows are for automation where no connector or API are available to use. Many legacy applications don't have a method for accessing their data or functionality except through their user interface. Power Automate Desktop flows use robotic process automation (RPA) techniques to automate user actions on these legacy applications.
+Power Automate for desktop flows are for automation where no connector or API are available to use. Many legacy applications don't have a method for accessing their data or functionality except through their user interface. Power Automate for desktop flows use robotic process automation (RPA) techniques to automate user actions on these legacy applications.
 
-Power Automate Desktop flows can automate desktop and web applications. Power Automate Desktop flows can be run attended with the user manually initiating the flow, or they can be run unattended with desktop flows that are running on Microsoft Azure Virtual Machines.
+Power Automate for desktop flows can automate desktop and web applications. Power Automate for desktop flows can be run attended with the user manually initiating the flow, or they can be run unattended with desktop flows that are running on Microsoft Azure Virtual Machines.
 
-![Screenshot of the Power Automate Desktop editor.](../media/1-desktop-flow-designer.png)
+![Screenshot of the Power Automate for desktop editor.](../media/1-desktop-flow-designer.png)
 
-Power Automate Desktop flows are a valid way to perform integrations and automation when no other alternative is available or when developing an integration would be expensive and time-consuming.
+Power Automate for desktop flows are a valid way to perform integrations and automation when no other alternative is available or when developing an integration would be expensive and time-consuming.
 
 ## Connectors for Dataverse
 

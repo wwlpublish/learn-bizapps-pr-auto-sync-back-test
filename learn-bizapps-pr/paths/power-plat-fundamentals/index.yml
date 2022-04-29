@@ -1,17 +1,14 @@
 ### YamlMime:LearningPath
 uid: learn-bizapps.wwl.power-plat-fundamentals
 metadata:
-  title: Microsoft Power Platform Fundamentals
-  description: Microsoft Power Platform Fundamentals
-  ms.date: 07/07/2021
+  title: 'PL-900: Microsoft Power Platform Fundamentals'
+  description: 'PL-900: Microsoft Power Platform Fundamentals'
+  ms.date: 04/29/2022
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
   ms.prod: learning-power-apps
-title: Microsoft Power Platform Fundamentals
-video:
-  title: "Power Platform Fundamentals"
-  url: https://www.microsoft.com/videoplayer/embed/RWFMeL
+title: 'PL-900: Microsoft Power Platform Fundamentals'
 prerequisites: |
   None
 summary: |
@@ -31,12 +28,10 @@ modules:
 - learn-bizapps.wwl.introduction-power-apps
 - learn-bizapps.wwl.build-app-solution
 - learn.wwl.how-to-build-model-driven-app
-- learn.wwl.introduction-to-power-apps-portals
 - learn-bizapps.wwl.introduction-power-automate
 - learn-bizapps.wwl.build-automated-solution
 - learn-bizapps.wwl.introduction-power-bi
 - learn-bizapps.wwl.build-simple-dashboard
 - learn.wwl.introduction-to-power-virtual-agents
-- learn.wwl.how-to-build-basic-chatbot
 trophy:
   uid: learn-dynamics.power-plat-fundamentals.trophy
