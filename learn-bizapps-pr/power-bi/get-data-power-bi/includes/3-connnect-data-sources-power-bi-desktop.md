@@ -27,7 +27,7 @@ After connecting, the first window that you'll see is the **Navigator**. The **N
 
 ![Screenshot of the Navigator window.](../media/03-power-bi-desktop-navigator.png)
 
-After you've selected the tables that you'd like to bring into Power BI Desktop, select the **Load** button. You might want to make changes to those tables before you load them. For example, if you only want a subset of customers or a specific country or region, select the **Edit** button and filter data before loading.
+After you've selected the tables that you'd like to bring into Power BI Desktop, select the **Load** button. You might want to make changes to those tables before you load them. For example, if you only want a subset of customers or a specific country or region, select the **Transform Data** button and filter data before loading.
 
 ![Screenshot of table data in Edit mode.](../media/03-power-bi-desktop-get-data-edit.png)
 
