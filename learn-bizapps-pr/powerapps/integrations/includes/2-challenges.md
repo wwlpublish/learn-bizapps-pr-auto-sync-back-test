@@ -6,11 +6,11 @@ The following diagram shows common integration challenges that a solution archit
 
 ![Diagram of common integration challenges.](../media/2-common-challenges.png)
 
-The solution architect must ensure that integrations are not brittle; tightly-coupled systems are hard to change.
+The solution architect must ensure that integrations are not brittle so systems are not hard to change.
 
 ## Influencers
 
-Factors that will influence how you design integrations include:
+Factors that will influence your design integrations include:
 
 - Volume of data that is being moved or accessed
 - Quality of data
@@ -49,7 +49,7 @@ The solution architect needs to ensure that integrations are designed to be resi
 
 ## Integration design process
 
-Every situation is unique, and you will encounter a variety of integration scenarios on projects. While it is useful to be introduced to and learn how to integrate a technology, it is more important that you develop skills to evaluate real project needs. By using the principals, ideas, and concepts, you can navigate through complex integration challenges. The following diagram shows the steps that you should follow in the integration process.
+Every situation is unique, and you will encounter various integration scenarios on projects. While it is useful to learn how to integrate a technology, it is more important that you develop skills to evaluate real project needs. By using the principals, ideas, and concepts, you can navigate through complex integration challenges. The following diagram shows the steps that you should follow in the integration process.
 
 ![Diagram showing the integration process.](../media/2-integration-process.png)
 
