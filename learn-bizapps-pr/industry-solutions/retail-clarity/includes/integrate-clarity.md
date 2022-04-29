@@ -1,7 +1,7 @@
-In this exercise, you'll integrate Microsoft Clarity with Dynamics 365 E-Commerce. During the setup process, you need to use the live production domain URL associated with your Commerce site. You should have already created a new web page on Dynamics 365 E-Commerce in Lab 1. You'll use that web page.
+In this exercise, you'll integrate Microsoft Clarity with the E-Commerce Add-in for Microsoft Dynamics 365 Commerce. During the setup process, you’ll need to use the live production domain URL that’s associated with your Dynamics 365 Commerce site. You should have already created a new webpage on E-Commerce in Lab 1, which is the webpage that you’ll use in the following tasks.
 
-## Task 1: Create Clarity project for your Dynamics 365 E-Commerce page
-
+## Task 1: Create a Clarity project for your E-Commerce page
+To create a Clarity project for your E-Commerce page, follow these steps:
 1.  Go to [Microsoft Clarity](https://clarity.microsoft.com/?azure-portal=true) and sign in.
 
 1.  Select **My Projects**.
@@ -9,50 +9,51 @@ In this exercise, you'll integrate Microsoft Clarity with Dynamics 365 E-Commerc
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the Clarity homepage with My Projects menu.](../media/my-projects.png)
 
-    This will open the Projects Listing Page shown below.
+    The Projects Listing page will open, as shown in the following image.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the Porjects Listing Page.](../media/projects-view.png)
+	> ![Screenshot of the Projects Listing page.](../media/projects-view.png)
 
-1.  Select Add new project.
+1.  Select **Add new project**.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the add new project window.](../media/new-project.png)
+	> ![Screenshot of the Add new project window.](../media/new-project.png)
 
-1.  Create a new project for tracking your Dynamics 365 E-Commerce page using your page's direct URL for the Dynamics 365 Commerce page created in Lab 1 > Task 1. (Example: `https://mcriad.commerce.dynamics.com/mcrdemopage`)
+1.  Create a new project for tracking your E-Commerce page by using your page's direct URL for the Dynamics 365 Commerce page that you created in a previous lab (such as `https://mcriad.commerce.dynamics.com/mcrdemopage`).
 
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the project website U R L.](../media/project-url.png)
 	
 1.  Select **Add new project**.
 
-## Task 2: Configure content security policy for Clarity
+## Task 2: Set up a content security policy for Clarity
 
-For Clarity to function on a Dynamics 365 E-Commerce site, some CSP directives must be configured to allow Clarity resources to be called. The configuration steps in Task 2 may already have been performed initially for lab environment setup by your instructor. Follow the steps below to verify that the configuration is complete, if settings aren't present you can use the steps below to configure.
+For Clarity to function on an E-Commerce site, you’ll need to set up some Cloud Solution Provider (CSP) program directives to allow Clarity resources to be called. The setup steps in Task 2 might have already been performed for initial lab environment setup by your instructor. 
+Follow these steps to verify that setup is complete. If settings aren't present, you can use the following steps to set up.
 
-1.  Open the D365 Commerce site builder URL in an in-private window.
+1.  Open the Dynamics 365 Commerce site builder URL in an InPrivate window.
 
-1.  Select the active E-commerce project.
-
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the sites list of active e-commerce projects.](../media/active-project.png)
-
-1.  Select **Site Settings > Extensions**.
+1.  Select the active E-Commerce project.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the site settings selected in the menu.](../media/site-settings.png)
+	> ![Screenshot of the Sites list of active E-Commerce projects.](../media/active-project.png)
+
+1.  Select **Site settings > Extensions**.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the extensions selected in the menu.](../media/extensions.png)
-
-1.  Select the **Content security policy tab**, scroll to **child-src,** **connect-src** and **script-src**  directive sections, check if `https://www.clarity.ms` is added in all three sections.
-
-1.  If not select **Add** and enter `https://www.clarity.ms` in all three sections, **child-src,** **connect-src** and **script-src**.
+	> ![Screenshot of Site settings selected in the menu.](../media/site-settings.png)
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the add button under extensions.](../media/add-extensions.png)
+	> ![Screenshot of Extensions selected in the menu.](../media/extensions.png)
 
-1.  The Extensions should look like below:
+1.  Select the **Content security policy** tab. Scroll to the **child-src**, **connect-src**, and **script-src**  directive sections and check if `https://www.clarity.ms` is added in all three sections.
+
+    If not, select **Add** and then enter `https://www.clarity.ms` in all three sections.
+
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of the Add button in the Content security policy tab.](../media/add-extensions.png)
+
+1.  The extensions should resemble the following images.
 
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of how the extensions should look.](../media/extensions-example.png)
@@ -60,85 +61,86 @@ For Clarity to function on a Dynamics 365 E-Commerce site, some CSP directives m
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of how the extensions should appear.](../media/extensions-sample.png)
 
-1.  Select **Save and Publish** at the top of the Extensions blade to save your changes.
+1.  Select **Save and publish** at the top of the **Extensions** blade to save your changes.
 
-## Task 3: Embed Clarity tracking script code into your site page
+## Task 3: Embed a Clarity tracking script code into your site page
 
-You can embed Clarity tracking script code into any Commerce site page that you want to track with Clarity.
+You can embed a Clarity tracking script code into any Commerce site page that you want to track with Clarity.
 
-1.  Copy the tracking code from **Microsoft Clarity Settings, Setup, How to install Clarity, Clarity tracking code**.
+1.  Copy the tracking code from **Microsoft Clarity > Settings > Setup > How to install Clarity > Clarity tracking code**.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the setup Clarity tracking code with copy to clipboard button.](../media/copy-code.png)
+	> ![Screenshot of setting up the Clarity tracking code with the Copy to clipboard button.](../media/copy-code.png)
 
-1.  In the In-Private or Incognito window, navigate to the site builder URL.
+1.  In an InPrivate or Incognito window, go to the site builder URL.
 
-1.  Open the Site mentioned by the instructor and select your page created in Lab 1.
+1.  Open the site that’s mentioned by the instructor and then select the page that you previously created.
 
 	> [!NOTE]
-	> Use the page which was created as part of Lab 01(Seamless Customer Service).
+	> Use the page that was created as part of Lab 01: Seamless customer service.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the Pages list with page created selected.](../media/page.png)
+	> ![Screenshot of the Pages list with the page that you created selected.](../media/page.png)
 
-1.  For you to be able to add the tracking script on a D365 E-=Commerce page, the **Template** that the **page** is inheriting should support **inline script**. To verify that,
+1.  To add the tracking script on an E-Commerce page, you need to ensure that the template that the page is inheriting will support inline script. To verify, follow these steps:
 
-    1.  Select the shown **Template** in **Properties** blade under **Page attributes** of the Page view.
-
-		> [!div class="mx-imgBorder"]
-		> ![Screenshot of the template selected in the page attributes of the properties blade.](../media/template.png)
-
-	1.  From the **Template** view, go to **Outline** blade, select **Core Root 1**, expand **HTML** **Head** and check if you have **Inline script.**
-
-		> [!div class="mx-imgBorder"]
-		> ![Screenshot of the template view with outline blade expanded and inline script shown for Core root 1 HTML head.](../media/inline-script.png)
-
-	1.  If you don't have **Inline script,** select **Edit**.
-
-	1.  From **Outline**, **Core Root 1,** **HTML** **Head** select **...** and **+Add module**.
-
-		> [!div class="mx-imgBorder"]
-		> ![Screenshot of the add module button.](../media/add-module.png)
-
-	1.  From the pop-up window, select **Inline script** and select **OK**.
-
-		> [!div class="mx-imgBorder"]
-		> ![Screenshot of the ok button for the inline script.](../media/inline-script-ok.png)
-
-	1.  Now you should see **Inline script** under **HTML Head**. Select **Finish editing** and then **Publish** your changes.
-
-1.  Go back to your Page and select **Edit**. 
+	1. In the **Page** view, in the **Properties** blade, select **Page attributes > Template**.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the edit button.](../media/edit.png)
+	> ![Screenshot of Template selected in the Page attributes section of the Properties blade.](../media/template.png)
 
-1.  Select **Outline > Settings Icon** and switch to **Advanced outline view**.
-
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the settings outline area with advanced outline view button.](../media/advanced-outline-view.png)
-
-1.  Expand **Core root 1** menu.
+	1. From the **Template** view, go to the **Outline** blade, select **Core Root 1**, expand **HTML Head**, and then check if **Inline script** is shown.
+      
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the core root 1 menu explanded.](../media/core-root-menu.png)
+	> ![Screenshot of the Template view with the Outline blade expanded and Inline script shown for Core root 1 H T M L Head.](../media/inline-script.png)
 
-1.  Expand **HTML Head** menu.
+	1. If **Inline script** isn’t shown, select **Edit**.
 
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the HTML head menu expanded.](../media/html-head-menu.png)
-
-1.  Select the **Inline Script** under **Core Root 1,** **HTML** **Head** on the advanced view of **Outline** blade. Now you should see the **Inline Script** in **Properties** blade.
+	1. From **Outline > Core Root 1 > HTML Head, select the ellipsis (**...**) menu and then select **+ Add module**.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the properties blade with inline script displayed.](../media/properties-inline-script.png)
+	> ![Screenshot of the Add module button.](../media/add-module.png)
 
-1. Paste the tracking script you copied from **Microsoft Clarity** in the **Inline script** text box. Make sure to remove the surrounding **<script type=\"text/javascript"\> </script\>** tags if you copied the script string. IT will be added by the builder.
+	1. From the pop-up window, select **Inline script** and then select **OK**.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the tracking script added to the inline script field.](../media/inline-script-added.png)
+	> ![Screenshot of the OK button for the inline script.](../media/inline-script-ok.png)
 
-1. Select **Finish Editing**.
+	1. **Inline script** should now show under **HTML Head**. Select **Finish editing** and then **Publish** your changes.
 
-1. Select **Publish** and publish the page.
+1.  Return to your page and select **Edit**. 
 
-**Congratulations!** You've integrated your Dynamics 365 E-Commerce website page with Microsoft Clarity. Now you need to create some traffic on your Dynamics 365 E-Commerce website page like you did with the custom page to be able to observe it Microsoft Clarity.
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of the Edit button.](../media/edit.png)
+
+1.  Select **Outline > Settings** (gear icon) and then switch to **Advanced outline view**.
+
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of Settings selected in the Outline area, with the Advanced outline view option highlighted.](../media/advanced-outline-view.png)
+
+1.  Expand the **Core root 1** menu.
+
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of the Core root 1 menu expanded.](../media/core-root-menu.png)
+
+1.  Expand the **HTML Head** menu.
+
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of the HTML Head menu expanded.](../media/html-head-menu.png)
+
+1.  Select **Inline script** under **Advanced outline > Core Root 1 > HTML Head**. Now, **Inline script** should show in the **Properties** blade.
+
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of the Properties blade with Inline script displayed.](../media/properties-inline-script.png)
+
+1. Paste the tracking script that you copied from **Microsoft Clarity** in the **Inline script** text box. Make sure that you remove the surrounding **<script type=\"text/javascript"\> </script\>** tags if you copied the script string because it will be added by the builder.
+
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of the tracking script added to the Inline script field.](../media/inline-script-added.png)
+
+1. Select **Finish editing**.
+
+1. Select **Publish** to publish the page.
+
+Congratulations, you’ve integrated your E-Commerce website page with Microsoft Clarity. Now, you need to create traffic on your E-Commerce website page, as you did with the custom page, so that you can observe it Microsoft Clarity.
