@@ -1,6 +1,6 @@
 Do you find yourself regularly downloading email attachments and then uploading
 the file to the database? Power Automate can help. Does the process of getting a
-new purchase order approved involve you taking a form from desk to desk to get
+new purchase order approved involve you taking a form from desk to get
 sign off? Power Automate can help. Do you have to log into a website every
 morning, find the daily numbers, and then save those into another system? Power
 Automate can help.
@@ -75,12 +75,12 @@ any data source via a swagger file.
 
 Power Automate works by creating flows, of which there are three types:
 
--   Cloud flow - These are flows that you build with a trigger and then one or
+-   Cloud flows - These are flows that you build with a trigger and then one or
     more actions. There are a multitude of triggers and actions available such
     as the arrival of an email from a specific person, or a mention of your
-    company in social media, thanks to the existing connectors. You will see
+    company in social media, thanks to the existing connectors. You'll see
     these as My flows and Team flows in Power Automate. The only difference
-    between a My flow and a Team flow is ownership. With a My flow you are the
+    between a My flow and a Team flow is ownership. With a My flow you're the
     sole owner, while a Team flow has more than one owner.
 
 -   Business process flows - These flows are built to augment the experience
