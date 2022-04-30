@@ -89,25 +89,25 @@ You can embed a Clarity tracking script code into any Commerce site page that yo
     > [!div class="mx-imgBorder"]
     > ![Screenshot of Template selected in the Page attributes section of the Properties blade.](../media/template.png)
 
-    1. From the **Template** view, go to the **Outline** blade, select **Core Root 1**, expand **HTML Head**, and then check if **Inline script** is shown.
+    b. From the **Template** view, go to the **Outline** blade, select **Core Root 1**, expand **HTML Head**, and then check if **Inline script** is shown.
       
 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Template view with the Outline blade expanded and Inline script shown for Core root 1 H T M L Head.](../media/inline-script.png)
 
-    1. If **Inline script** isn’t shown, select **Edit**.
+    c. If **Inline script** isn’t shown, select **Edit**.
 
-    1. From **Outline > Core Root 1 > HTML Head, select the ellipsis (**...**) menu and then select **+ Add module**.
+    d. From **Outline > Core Root 1 > HTML Head, select the ellipsis (**...**) menu and then select **+ Add module**.
 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Add module button.](../media/add-module.png)
 
-    1. From the pop-up window, select **Inline script** and then select **OK**.
+    e. From the pop-up window, select **Inline script** and then select **OK**.
 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the OK button for the inline script.](../media/inline-script-ok.png)
 
-    1. **Inline script** should now show under **HTML Head**. Select **Finish editing** and then **Publish** your changes.
+    f. **Inline script** should now show under **HTML Head**. Select **Finish editing** and then **Publish** your changes.
 
 1. Return to your page and select **Edit**. 
 
