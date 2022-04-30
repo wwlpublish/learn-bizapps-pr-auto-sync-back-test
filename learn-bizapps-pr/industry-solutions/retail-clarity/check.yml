@@ -42,7 +42,7 @@ quiz:
       isCorrect: false 
       explanation: Incorrect. Not all the options are available capabilities with the Heatmaps feature in Microsoft Clarity.
   - content: Which of the following controls are available in the settings for Microsoft Clarity?
-    Choices: 
+    choices: 
     - content: Blocking IP addresses for which usage data isn’t required to be captured.
       isCorrect: false 
       explanation: All of these controls are available in the settings for Microsoft Clarity.
