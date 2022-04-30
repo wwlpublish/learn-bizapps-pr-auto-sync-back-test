@@ -69,75 +69,75 @@ You can embed a Clarity tracking script code into any Commerce site page that yo
 
 1. Copy the tracking code from **Microsoft Clarity > Settings > Setup > How to install Clarity > Clarity tracking code**.
 
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of setting up the Clarity tracking code with the Copy to clipboard button.](../media/copy-code.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of setting up the Clarity tracking code with the Copy to clipboard button.](../media/copy-code.png)
 
 1. In an InPrivate or Incognito window, go to the site builder URL.
 
 1. Open the site that’s mentioned by the instructor and then select the page that you previously created.
 
-	> [!NOTE]
-	> Use the page that was created as part of Lab 01: Seamless customer service.
+    > [!NOTE]
+    > Use the page that was created as part of Lab 01: Seamless customer service.
 
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the Pages list with the page that you created selected.](../media/page.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Pages list with the page that you created selected.](../media/page.png)
 
 1. To add the tracking script on an E-Commerce page, you need to ensure that the template that the page is inheriting will support inline script. To verify, follow these steps:
 
-	1. In the **Page** view, in the **Properties** blade, select **Page attributes > Template**.
+    1. In the **Page** view, in the **Properties** blade, select **Page attributes > Template**.
 
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of Template selected in the Page attributes section of the Properties blade.](../media/template.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of Template selected in the Page attributes section of the Properties blade.](../media/template.png)
 
-	1. From the **Template** view, go to the **Outline** blade, select **Core Root 1**, expand **HTML Head**, and then check if **Inline script** is shown.
+    1. From the **Template** view, go to the **Outline** blade, select **Core Root 1**, expand **HTML Head**, and then check if **Inline script** is shown.
       
 
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the Template view with the Outline blade expanded and Inline script shown for Core root 1 H T M L Head.](../media/inline-script.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Template view with the Outline blade expanded and Inline script shown for Core root 1 H T M L Head.](../media/inline-script.png)
 
-	1. If **Inline script** isn’t shown, select **Edit**.
+    1. If **Inline script** isn’t shown, select **Edit**.
 
-	1. From **Outline > Core Root 1 > HTML Head, select the ellipsis (**...**) menu and then select **+ Add module**.
+    1. From **Outline > Core Root 1 > HTML Head, select the ellipsis (**...**) menu and then select **+ Add module**.
 
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the Add module button.](../media/add-module.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Add module button.](../media/add-module.png)
 
-	1. From the pop-up window, select **Inline script** and then select **OK**.
+    1. From the pop-up window, select **Inline script** and then select **OK**.
 
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the OK button for the inline script.](../media/inline-script-ok.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the OK button for the inline script.](../media/inline-script-ok.png)
 
-	1. **Inline script** should now show under **HTML Head**. Select **Finish editing** and then **Publish** your changes.
+    1. **Inline script** should now show under **HTML Head**. Select **Finish editing** and then **Publish** your changes.
 
 1. Return to your page and select **Edit**. 
 
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the Edit button.](../media/edit.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Edit button.](../media/edit.png)
 
 1. Select **Outline > Settings** (gear icon) and then switch to **Advanced outline view**.
 
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of Settings selected in the Outline area, with the Advanced outline view option highlighted.](../media/advanced-outline-view.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of Settings selected in the Outline area, with the Advanced outline view option highlighted.](../media/advanced-outline-view.png)
 
 1. Expand the **Core root 1** menu.
 
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the Core root 1 menu expanded.](../media/core-root-menu.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Core root 1 menu expanded.](../media/core-root-menu.png)
 
 1. Expand the **HTML Head** menu.
 
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the HTML Head menu expanded.](../media/html-head-menu.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the HTML Head menu expanded.](../media/html-head-menu.png)
 
 1. Select **Inline script** under **Advanced outline > Core Root 1 > HTML Head**. Now, **Inline script** should show in the **Properties** blade.
 
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the Properties blade with Inline script displayed.](../media/properties-inline-script.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Properties blade with Inline script displayed.](../media/properties-inline-script.png)
 
 1. Paste the tracking script that you copied from **Microsoft Clarity** in the **Inline script** text box. Make sure that you remove the surrounding **<script type=\"text/javascript"\> </script\>** tags if you copied the script string because it will be added by the builder.
 
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the tracking script added to the Inline script field.](../media/inline-script-added.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the tracking script added to the Inline script field.](../media/inline-script-added.png)
 
 1. Select **Finish editing**.
 
