@@ -33,10 +33,10 @@ You might need to wait a moment for Outlook to sign in. When you see the **Folde
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the attachment options fields.](../media/attachment-options.png)](../media/attachment-options.png#lightbox)
 
-Select **New step** and then search for and select the **Run a flow built with Power Automate Desktop** action.
+Select **New step** and then search for and select the **Run a flow built with Power Automate for desktop** action.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of Run a flow built with Power Automate Desktop option.](../media/run-desktop-flow.png)](../media/run-desktop-flow.png#lightbox)
+> [![Screenshot of Run a flow built with Power Automate for desktop option.](../media/run-desktop-flow.png)](../media/run-desktop-flow.png#lightbox)
 
 If you haven't already configured your gateway connection, use the **Gateway name** drop-down menu to select the appropriate gateway.
 
