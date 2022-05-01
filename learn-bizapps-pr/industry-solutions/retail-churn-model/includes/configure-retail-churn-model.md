@@ -220,6 +220,7 @@ To unify your data, follow these steps:
 Congratulations, the model should be visible and ready to train. Follow the next steps to train the model.
 
 ## Task 3: Train the model
+To train the model, follow these steps:
 
 1.  Go to **Predictions** on the left menu and then select **Create > Retail channel churn (preview) > Use model** button.
 
