@@ -1,8 +1,8 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.retail-clarity.deploy-sample-website 
-title: Initial deployment of sample custom website
+title: Initial deployment of a sample custom website
 metadata: 
-  title: Initial deployment of sample custom website
+  title: Initial deployment of a sample custom website
   description: Learn about deploying a sample custom website.
   ms.date: 04/22/2022 
   author: DaveBeasley 

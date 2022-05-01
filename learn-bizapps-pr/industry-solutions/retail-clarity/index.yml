@@ -13,13 +13,13 @@ summary: |
   [!include[](../includes/module-banner.md)] 
   Shopper and operations analytics priority helps you unlock omnichannel insights with advanced analytics. With shopper and operations analytics, you can predict customer and operational needs, monitor and understand online engagement, and unify data integration, warehousing, and analytics. 
 abstract: |  
-    In this module, you will: 
-    - Create a Microsoft Clarity project
-    - Integrate Microsoft Clarity with a custom website 
-    - Integrate Microsoft Clarity with Dynamics 365 E-Commerce Web Page
-    - Interact with Microsoft Clarity dashboards, heatmaps and recordings
+    In this module, you’ll: 
+    - Create a Microsoft Clarity project.
+    - Integrate Microsoft Clarity with a custom website. 
+    - Integrate Microsoft Clarity with an E-Commerce for Dynamics 365 Commerce webpage.
+    - Interact with Microsoft Clarity dashboards, heatmaps, and recordings.
 prerequisites: | 
-    - Azure Subscription, and an Azure resource group 
+    - Microsoft Azure subscription and an Azure resource group 
     - Latest version of Visual Studio Code
     - Latest version of .NET 6.0 SDK
     - C#
