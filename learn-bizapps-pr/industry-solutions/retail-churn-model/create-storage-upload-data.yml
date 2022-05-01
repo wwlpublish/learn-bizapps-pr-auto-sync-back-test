@@ -1,8 +1,8 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.retail-churn-model.create-storage-upload-data 
-title: Create storage account and upload the input data files
+title: Create a storage account and upload the input data files
 metadata: 
-  title: Create storage account and upload the input data files
+  title: Create a storage account and upload the input data files
   description: Learn how to create a storage account and upload the input data files.
   ms.date: 04/22/2022 
   author: DaveBeasley 
