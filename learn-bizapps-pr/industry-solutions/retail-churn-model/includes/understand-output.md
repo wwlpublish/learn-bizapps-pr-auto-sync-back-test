@@ -39,7 +39,7 @@ In this exercise, you'll review the output of the Retail churn model.
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the attributes list, showing the new columns that were added.](../media/attributes.png)
 
-1.  Select the **Data** tab to view the calculated churn score for each *CustomerID** in the dataset.
+1.  Select the **Data** tab to view the calculated churn score for each **CustomerID** in the dataset.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Data tab with calculated churn scores for each customer ID.](../media/data.png)](../media/data.png#lightbox)
