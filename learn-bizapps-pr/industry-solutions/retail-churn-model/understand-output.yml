@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.retail-churn-model.understand-output 
-title: Understand the Churn Model output
+title: Review the churn model output
 metadata: 
-  title: Understand the Churn Model output
-  description: Learn about the Churn Model output.
+  title: Review the churn model output
+  description: Learn about the churn model output.
   ms.date: 04/22/2022 
   author: DaveBeasley 
   ms.author: dbeasley 
