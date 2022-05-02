@@ -1,44 +1,44 @@
-In this exercise, you'll create a storage account and a container. Further, you'll upload the sample data input files (stored in MS learn repository for this exercise) that will be used to generate data insights for the customer using the retail churn model.
+In this exercise, you'll create a storage account and a container. Furthermore, you'll upload the sample data input files (which are stored in the Microsoft Learn repository for this exercise) that you’ll use to generate data insights for the customer by using the Retail churn model.
 
 ## Task 1: Create storage account
+To create a storage account, follow these steps:
+1.  Go to the [Microsoft Azure portal](https://ms.portal.azure.com/?azure-portal=true) and sign in with the credentials that you're using for the lab.
 
-1.  Navigate to [Azure portal](https://ms.portal.azure.com/?azure-portal=true) and sign in with the credentials you're using for the lab.
-
-1.  Select **Create a resource** and create a **Storage account**.
-
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the create a resource page with storage account selected.](../media/storage-account.png)
-
-1.  Select the subscription you would use for this lab. For the resource group, select **Create New** to create a new resource group.
+1.  Select **Create a resource** and then select **Storage account**.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the subscription and resource group fields.](../media/subscription-resource-group.png)
+	> ![Screenshot of the Create a resource page with Storage account selected.](../media/storage-account.png)
 
-1.  Provide a storage account name, for example "retailchurnmodel" and then select **Review and create**. (Make a note of this storage account name as this will be needed later in the exercise).
-
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the storage account name with the review and create button.](../media/account-name.png)
-
-## Task 2: Uploaded sample data input files to a container in storage account
-
-1.  Once storage account is created, create container in the storage account by selecting **+Container**.
+1.  Select the subscription that you want to use for this lab. For the resource group, select **Create new** to create a new resource group.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the new container button.](../media/new-container.png)
+	> ![Screenshot of the Subscription and Resource group fields.](../media/subscription-resource-group.png)
 
-1.  Choose name as **"retailgrocery"** and public access level as **Container (anonymous read access for containers and blobs)**.
+1.  Provide a storage account name, such as **retailchurnmodel**, and then select **Review + create**. (Note this storage account name because you’ll need it later in the exercise).
+
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of the storage account name with the Review and create button.](../media/account-name.png)
+
+## Task 2: Upload sample data input files to a container in a storage account
+Follow these steps to upload sample data input files to a container in a storage account:
+1.  After you’ve created the storage account, create a container in the storage account by selecting **+ Container**.
+
+	> [!div class="mx-imgBorder"]
+	> ![Screenshot of the add Container button.](../media/new-container.png)
+
+1.  In the **Name** dropdown menu, select **retailgrocery**, and in the **Public access level** dropdown menu, select **Container (anonymous read access for containers and blobs)**.
 
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the new container details.](../media/container-details.png)]
 
-1.  Upload all the three files from MS learn repository to container: Grocery\_contact.csv, Grocery\_msrc\_session.csv, Grocery\_msrc\_session.csv.
+1.  Upload all three files from the Microsoft Learn repository to the container: **Grocery\_contact.csv**, **Grocery\_msrc\_session.csv**, and **Grocery\_msrc\_session.csv**.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the upload blob.](../media/upload.png)
+	> ![Screenshot of the Upload blob dialog, showing a file to upload.](../media/upload.png)
 
-1.  Once files are uploaded to blob, it will appear as below:
+1.  When the files have been uploaded to the blob, it will resemble the following screenshot.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the list of files uploaded.](../media/upload-list.png)
+	> ![Screenshot of the list of files that have been uploaded.](../media/upload-list.png)
 
-**Congratulations**! You've successfully created a storage account and uploaded the sample data input files to the storage account.
+Congratulations, you’ve successfully created a storage account and have uploaded the sample data input files to the storage account.

@@ -21,37 +21,37 @@ quiz:
     - content: Observe customer progress through each defined step of the journey, quickly identifying obstacles and opportunities.
       isCorrect: false 
       explanation: All of these customer insights are provided by Unified customer profile.
-    - content: Create custom reports and views based on real-time customer behavior data, use built-in web and mobile analytics to predict customer needs.
+    - content: Create custom reports and views based on real-time customer behavior data, and use built-in web and mobile analytics to predict customer needs.
       isCorrect: false 
       explanation: All of these customer insights are provided by Unified customer profile.
     - content: All the above
       isCorrect: true 
       explanation: Correct. All of these customer insights are provided by Unified customer profile.
-  - content: Which of the following is a prerequisite for Retail Churn Model?
+  - content: Which of the following options is a prerequisite for Retail churn model?
     choices: 
     - content: Dynamics 365 Customer Insights 
       isCorrect: true 
-      explanation: Correct. Dynamics 365 Customer Insights is a prerequisite for Retail Churn Model.
+      explanation: Correct. Dynamics 365 Customer Insights is a prerequisite for Retail churn model.
     - content: Dynamics 365 Customer Service
       isCorrect: false 
-      explanation: Incorrect. Dynamics 365 Customer Insights is a prerequisite for Retail Churn Model.
+      explanation: Incorrect. Dynamics 365 Customer Service isn’t a prerequisite for Retail churn model.
     - content: Dynamics 365 Sales Hub
       isCorrect: false 
-      explanation: Incorrect. Dynamics 365 Customer Insights is a prerequisite for Retail Churn Model.
+      explanation: Incorrect. Dynamics 365 Sales Hub isn’t a prerequisite for Retail churn model.
     - content: All the above
       isCorrect: false 
-      explanation: Incorrect. Dynamics 365 Customer Insights is a prerequisite for Retail Churn Model.
-  - content: Which of the following data sources can be used to provide data for unified customer profile?
+      explanation: Incorrect. Only one of these options is a prerequisite for Retail churn model.
+  - content: Which of the following data sources can you use to provide data for Unified customer profile?
     choices: 
     - content: Microsoft Power Query
       isCorrect: false 
-      explanation: All of these data sources can be used to provide data for unified customer profile.
+      explanation: All of these data sources can be used to provide data for Unified customer profile.
     - content: Azure Data Lake Storage
       isCorrect: false 
-      explanation: All of these data sources can be used to provide data for unified customer profile.
+      explanation: All of these data sources can be used to provide data for Unified customer profile.
     - content: Microsoft Dataverse
       isCorrect: false 
-      explanation: All of these data sources can be used to provide data for unified customer profile.
+      explanation: All of these data sources can be used to provide data for Unified customer profile.
     - content: All the above
       isCorrect: true 
-      explanation: Correct. All of these data sources can be used to provide data for unified customer profile.
+      explanation: Correct. All of these data sources can be used to provide data for Unified customer profile.

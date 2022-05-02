@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.retail-churn-model.configure-retail-churn-model 
-title: Configure Retail Churn Model in Dynamics 365 Customer Insights
+title: Set up the Retail churn model in Dynamics 365 Customer Insights
 metadata: 
-  title: Configure Retail Churn Model in Dynamics 365 Customer Insights
-  description: Learn how to configure Retail Churn Model in Dynamics 365 Customer Insights.
+  title: Set up the Retail churn model in Dynamics 365 Customer Insights
+  description: Learn how to set up the Retail churn model in Dynamics 365 Customer Insights.
   ms.date: 04/22/2022 
   author: DaveBeasley 
   ms.author: dbeasley 

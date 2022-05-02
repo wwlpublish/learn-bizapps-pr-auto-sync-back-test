@@ -1,7 +1,7 @@
-In this lab, you learned how to do the following:
+In this lab, you learned how to:
 
-- Create Retail channel churn predictive model
+- Create the Retail channel churn predictive model.
 
-- Train the model
+- Train the model.
 
-- Understand the model output
+- Assess the model output.
