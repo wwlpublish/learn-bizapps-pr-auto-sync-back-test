@@ -21,4 +21,4 @@ A new screen will appear, which will demonstrate the process of creating and tra
 Select the pencil to rename the form.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the Form Processing Get started page.](../media/3-name-ai-model.png)](../media/3-name-ai-model.png)
+> [![Screenshot of the Form Processing Get started page with rename button.](../media/3-name-ai-model.png)](../media/3-name-ai-model.png)

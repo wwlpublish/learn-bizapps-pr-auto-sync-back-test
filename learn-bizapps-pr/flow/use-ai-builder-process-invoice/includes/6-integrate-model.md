@@ -26,7 +26,7 @@ Type **Predict Outlook email** as the flow name. Then search for **Outlook** and
 Click on **Show advanced options** and for **Include Attachments** and **Only with Attachments** select **Yes**.
 
 > [!div class="mx-imgBorder"]
-> ![Screenshot of the Choose an operation dialog box showing search results for Predict.](../media/modify-trigger.png)
+> ![Screenshot of the trigger with attachment settings.](../media/modify-trigger.png)
 
 Select **+ New step** and then search for and select **Predict** under AI Builder.
 
