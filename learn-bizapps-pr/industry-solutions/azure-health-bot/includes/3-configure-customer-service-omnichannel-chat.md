@@ -122,7 +122,7 @@ In this task, you'll create a **Bot User** which helps connect **Azure Health Bo
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the application user selection.](../media/app-user.png)
 
-1. You'll see a new form appear that aligns to an Application User. 
+1. You'll see a new form appears that aligns to an Application User. 
 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the application user selection new form.](../media/app-user-form.png)
@@ -277,7 +277,7 @@ In this task, we'll set up basic chat routing with a new workstream.  This will 
 1. This should open the advanced settings and display your bot in the **smart assist bots** subgrid. 
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the advanced settings subgrid.](../media/65-bot-agent-rule.png)](../media/65-bot-agent-rule.png#lightbox)
+    > [![Screenshot of the advanced settings for smart assist bots.](../media/65-bot-agent-rule.png)](../media/65-bot-agent-rule.png#lightbox)
 
 1. You can also access the advanced settings at the bottom of the record page by selecting **Show advanced settings**.
 
@@ -312,7 +312,7 @@ In this task, we'll set up basic chat routing with a new workstream.  This will 
 1. Under **Route to queues**, select **+Create ruleset**. 
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the advanced settings subgrid.](../media/create-ruleset.png)](../media/create-ruleset.png#lightbox)
+    > [![Screenshot of the route to queues selection.](../media/create-ruleset.png)](../media/create-ruleset.png#lightbox)
 
 1. Create the new route-to-queues ruleset with the following details: 
 
@@ -342,11 +342,11 @@ In this task, we'll set up basic chat routing with a new workstream.  This will 
 1. The configured rule set is shown below. Select **Create.**
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the the new routing.](../media/create-routing.png)](../media/create-routing.png#lightbox)
+    > [![Screenshot of the the new routing rules.](../media/create-routing.png)](../media/create-routing.png#lightbox)
 
 1. The Chat Workstream now has a Human Agent ruleset that will escalate to a human agent when the EscalateToAgent context variable is set to 1
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the the new routing.](../media/rule-added.png)](../media/rule-added.png#lightbox)
+    > [![Screenshot of the the new routing for the workstream.](../media/rule-added.png)](../media/rule-added.png#lightbox)
 
 **Congratulations!** You've created a new Workstream with the proper live chat channel, smart assist bot, and routing rule that will allow customers to begin conversation with a health bot and escalate to a human agent. 
