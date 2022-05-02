@@ -34,7 +34,7 @@ Select **Train** to start training the model. This process might take a few minu
 When the process is done, select **Go to Details page** and select **Publish** on the following screen.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the go to models button.](../media/models.png)
+> ![Screenshot of the go to models button.](../media/models.png)
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Models > Enter invoice information AI model dialog box with the Publish button highlighted.](../media/13-publish.png)](../media/13-publish.png#lightbox)

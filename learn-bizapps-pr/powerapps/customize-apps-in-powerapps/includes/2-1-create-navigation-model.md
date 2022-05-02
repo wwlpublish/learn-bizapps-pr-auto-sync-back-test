@@ -27,7 +27,7 @@ This list is then connected to Power Apps as a SharePoint data source. You can t
 Complete the menu by renaming the **Text** property of the button to make it **ThisItem.Title**.
 
 > [!div class="mx-imgBorder"]
-> ![Screenshot of the Text formula set to ThisItem.Title.](../media/rename-button.jpg)
+> ![Screenshot of the Text formula set to This Item dot Title.](../media/rename-button.jpg)
 
 Finally, to make the navigation work, modify the **OnSelect** property of the button by adding conditional logic around **ThisItem.Title** to navigate to the chosen screen.  You could do this with an **If** or **Switch** statement.  Either statement serves the same purpose.
 

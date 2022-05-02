@@ -21,7 +21,7 @@ First, click on **All (0)** then **+New**. In **Automate**, select **Cloud flow*
 Type **Predict Outlook email** as the flow name. Then search for **Outlook** and select **When a new email arrives (V3)**. Click **Create**.
 
 > [!div class="mx-imgBorder"]
-> ![Screenshot of the flow details with create button..](../media/flow-details.png)
+> ![Screenshot of the flow details with create button.](../media/flow-details.png)
 
 Click on **Show advanced options** and for **Include Attachments** and **Only with Attachments** select **Yes**.
 
