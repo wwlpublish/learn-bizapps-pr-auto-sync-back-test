@@ -42,7 +42,7 @@ You can also use Power Automate to copy files. For example, you can ensure that 
 
 ![Screenshot of a list of the same files in SharePoint.](../media/sharepoint-files.png)
 
-You can monitor what people are saying about your business by creating a flow that runs whenever someone sends a tweet with a specific hashtag. The flow can add details about each tweet to a Facebook post, a SQL Server database, a Microsoft Lists list, or even a Microsoft Excel file that's hosted on OneDrive for Business.
+You can monitor what people are saying about your business by creating a flow that runs whenever someone sends a tweet with a certain hashtag. The flow can add details about each tweet to a Facebook post, a SQL Server database, a Microsoft Lists list, or even a Microsoft Excel file that's hosted on OneDrive for Business–-whichever service works for you.
 
 You can create actions to connect the data you collect to Microsoft Power BI, spot trends in that data, and ask questions about it.
 
@@ -56,7 +56,7 @@ Also, you can automate approval loops for things like vacation requests on a lis
 
 ![Screenshot of a list of vacation requests in SharePoint.](../media/vacation-requests.png)
 
-For more ideas, browse our list of templates. Templates help you build flows by making a few configuration changes. For example, you can use templates to easily build flows to send yourself weather forecasts, reminders at regular intervals, or phone notifications whenever your manager sends you an email.
+For more ideas, browse our list of templates. Templates help you build flows by making a few configuration changes. For example, you can use templates to easily build flows to send yourself weather forecasts, reminders at regular intervals, or phone notifications whenever your manager sends you mail.
 
 ![Screenshot of a list of Microsoft templates.](../media/templates-you-might-use.png)
 
@@ -64,18 +64,18 @@ Have an idea for a flow that you don't see in the list? Create your own from scr
 
 ## Where can I create and administer a flow?
 
-You can create a flow and perform administrative tasks in a browser or, on your phone with the Power Automate mobile app.
+You can create a flow and perform administrative tasks in a browser or, if you download the Power Automate mobile app, on your phone.
 
 Here are some of the tasks you can perform with the mobile app:
 
-- Turn flows on or off.
+- Turn flows on or off from wherever you are.
 - See when a flow has failed.
 - Review detailed run history reports.
 - View and filter runs by notification type.
 
 ## A brief tour of Power Automate
 
-Let's jump into Power Automate. We have tons of information for you to learn about how to use Power Automate.
+Let's jump into Power Automate, and we'll show you around. We have tons of information for you to learn about how to use Power Automate.
 
 ![Screenshot of the start of the Power Automate tour.](../media/start-of-tour.png)
 
@@ -104,7 +104,7 @@ For now, let's focus on the **?** menu next to your sign-in, which has these opt
 - **Blog** keeps you up to date about the most recent developments and releases in the Power Automate ecosystem.
 - **Desktop flows** provides an introduction to Power Automate for desktop.
 - **Pricing** can help you choose the right plan for you or your business.
-- **Power Automate Desktop** is where you can download Power Automate for desktop and install it on your machine.
+- **Power Automate for desktop** is where you can download Power Automate for desktop and install it on your machine.
 - **Power Automate for Mobile** provides information about the mobile app and the platforms it's available on.
 - **Data Gateway** provides an overview of the on-premises data gateway.
 
