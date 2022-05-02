@@ -42,6 +42,6 @@ In this exercise, you'll review the output of the Retail churn model.
 1.  Select the **Data** tab to view the calculated churn score for each **CustomerID** in the dataset.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Data tab with calculated churn scores for each customer ID.](../media/data.png)](../media/data.png#lightbox)
+	> [![Screenshot of the Data tab with calculated churn scores for each customer I D.](../media/data.png)](../media/data.png#lightbox)
 
 Congratulations, you’ve successfully run the Retail churn model in Dynamics 365 Customer Insights.
