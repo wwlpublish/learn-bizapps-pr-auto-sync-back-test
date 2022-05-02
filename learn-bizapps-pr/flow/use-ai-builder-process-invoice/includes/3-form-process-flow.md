@@ -8,12 +8,17 @@ Many models are available that you can choose from. Take a moment and read the d
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Enhance your business with AI dialog box.](../media/2-form-process.png)](../media/2-form-process.png#lightbox)
 
-Name your model and then select **Create**.
+Select **Get started**.
 
 > [!NOTE]
 > If you're using the **Form Processing** model, you'll need at least five documents to train your model. The more documents you have, the better.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the Form Processing Get started page.](../media/3-name-ai-model.png)](../media/3-name-ai-model.png#lightbox)
+> [![Screenshot of the Form Processing Get started page.](../media/get-started-form-processing.png)](../media/get-started-form-processing.png)
 
 A new screen will appear, which will demonstrate the process of creating and training your model.
+
+Select the pencil to rename the form.
+
+> [!div class="mx-imgBorder"]
+> [![Screenshot of the Form Processing Get started page with rename button.](../media/3-name-ai-model.png)](../media/3-name-ai-model.png)

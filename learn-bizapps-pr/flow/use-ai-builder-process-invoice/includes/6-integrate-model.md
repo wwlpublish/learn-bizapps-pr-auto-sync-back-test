@@ -1,24 +1,39 @@
-Now that you've created and customized your AI model, you can integrate it into a cloud flow. The flow in this example is a solution-aware cloud flow, meaning that it's packaged in a solution. To locate it, select **Solutions** and then the name of the solution (in this case, **Invoice processing solution**).
+Now that you've created and customized your AI model, you can integrate it into a cloud flow. The flow in this example is a solution-aware cloud flow, meaning that it's packaged in a solution. To create it, select **Solutions** and then **+ New solution**. 
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the Solutions page with Invoice processing solution highlighted.](../media/14-select-solution.png)](../media/14-select-solution.png#lightbox)
+> ![Screenshot of the Solutions with new solution button.](../media/new-solution.png)
 
-Select the flow in which you want to use the AI model. If you're following from the previous models, the name of the flow is **Use Outlook email to trigger Desktop flows**. Select **Edit**.
-
-> [!div class="mx-imgBorder"]
-> [![Screenshot of the Flows > Use Outlook email to trigger Desktop flow dialog box.](../media/15-edit-flow.png)](../media/15-edit-flow.png#lightbox)
-
-Delete the **Run a flow built with Power Automate for desktop** action by selecting the ellipsis (**...**) and then selecting **Delete**. You're deleting this action now so that you can test the AI model without constantly triggering the desktop flow.
+Populate the fields as shown below and then click on **Create**.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the Run a flow built with Power Automate for desktop action with the ellipsis button selected and the Delete option highlighted.](../media/16-delete-action.png)](../media/16-delete-action.png#lightbox)
+> [![Screenshot of the new solution with create button.](../media/14-select-solution.png)](../media/14-select-solution.png#lightbox)
 
-After the action is deleted, select **New step** and then search for and select **Predict** under AI Builder.
+Select the new **Solution** you have just created.
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of the Solutions page with Invoice processing solution highlighted.](../media/invoice-processing-solution.png)
+
+First, click on **All (0)** then **+New**. In **Automate**, select **Cloud flow** and then select **Automated**.
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of the new automation menu with cloud flow automated selected.](../media/automated.png)
+
+Type **Predict Outlook email** as the flow name. Then search for **Outlook** and select **When a new email arrives (V3)**. Click **Create**.
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of the flow details with create button.](../media/flow-details.png)
+
+Click on **Show advanced options** and for **Include Attachments** and **Only with Attachments** select **Yes**.
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of the trigger with attachment settings.](../media/modify-trigger.png)
+
+Select **+ New step** and then search for and select **Predict** under AI Builder.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Choose an operation dialog box showing search results for Predict.](../media/17-predict-action.png)](../media/17-predict-action.png#lightbox)
 
-Select the model that you want to use, which in this case is **Enter invoice information AI model**. After your model is selected, more fields will appear. For the form processing model, a document is required. Because this flow is triggered by receiving an email with an attachment, you can specify that attachment with dynamic content. For the document type, search for and select **Attachments Content-Type** in the **Dynamic content** menu.
+Select the model that you want to use, which in this case is **Form Processing**. After your model is selected, more fields will appear. For the form processing model, a document is required. Because this flow is triggered by receiving an email with an attachment, you can specify that attachment with dynamic content. For the document type, search for and select **Attachments Content-Type** in the **Dynamic content** menu.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Predict action with dynamic content for Attachments Content-Type selected.](../media/18-dynamic-content.png)](../media/18-dynamic-content.png#lightbox)

@@ -2,7 +2,7 @@ To add Dataverse data to your app, follow these steps:
 
 1. In a new browser tab, go to [make.powerapps.com](https://make.powerapps.com/?azure-portal=true).
 
-1. Select **Dataverse/Data > Tables**.
+1. Select **Data > Tables**.
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the navigation pane with Dataverse and Tables highlighted.](../media/tables.png)](../media/tables.png#lightbox)
