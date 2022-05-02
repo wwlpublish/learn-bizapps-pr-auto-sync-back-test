@@ -1,12 +1,12 @@
-When your collections are complete and all documents are uploaded, select **Analyze** to prompt Power Automate to analyze your documents to identify their overall structure, detect form fields, and extract values.
+When your collections are complete and all documents are uploaded, select **Next** to prompt Power Automate to analyze your documents to identify their overall structure, detect form fields, and extract values.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the Add collections of documents dialog box.](../media/8-analyze.png)](../media/8-analyze.png#lightbox)
+> ![Screenshot of the next button to start analysis.](../media/next.png)
 
 > [!NOTE]
 > The analysis might take a few minutes as Power Automate works in the background.
 
-When the analysis is complete, your documents will appear organized by collection. In the document, you can use the mouse to select and drag the values that you want to capture. After you've made a selection, a pop-up window will appear showing the fields that you added previously. Select the **Bill to** field, as shown in the following screenshot. A green check mark will appear on the right panel as you locate and identify the various fields.
+When the analysis is complete, your documents will appear organized by collection. In the document, you can use the mouse to select and drag the values that you want to capture. After you've made a selection, a pop-up window will appear showing the fields that you added previously. Select the **Bill to** field, as shown in the following screenshot. A green checkmark will appear on the right panel as you locate and identify the various fields.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Show detected words dialog box with fields being selected.](../media/9-train-model.png)](../media/9-train-model.png#lightbox)
@@ -28,9 +28,15 @@ Select **Train** to start training the model. This process might take a few minu
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Model summary dialog box with the Train button highlighted.](../media/12-train.png)](../media/12-train.png#lightbox)
 
+> [!div class="mx-imgBorder"]
+> [![Screenshot of the your model is training message.](../media/progress-message.png)](../media/progress-message.png#lightbox)
+
 When the process is done, select **Go to Details page** and select **Publish** on the following screen.
+
+> [!div class="mx-imgBorder"]
+> [![Screenshot of the go to models button.](../media/models.png)
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Models > Enter invoice information AI model dialog box with the Publish button highlighted.](../media/13-publish.png)](../media/13-publish.png#lightbox)
 
-You can now use the model in Microsoft Power Apps or Power Automate.
+Once you see **Use model**, you can now use the model in Microsoft Power Apps or Power Automate.
