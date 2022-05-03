@@ -1,4 +1,4 @@
-Begin in Power Automate and select **AI Builder** and **Build**.
+Begin in Power Automate and select **AI Builder** from the vertical menu and then select **Models**. Then select **+ Build a model**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Power Automate navigation with AI Builder and Build options highlighted.](../media/1-ai-builder.png)](../media/1-ai-builder.png#lightbox)
