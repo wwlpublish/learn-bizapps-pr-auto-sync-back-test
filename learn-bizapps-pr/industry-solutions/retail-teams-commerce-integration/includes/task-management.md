@@ -6,7 +6,7 @@ In this task, you'll sign in to Teams as a retail communications manager, create
 
 1. Sign in to [Microsoft Teams](https://teams.microsoft.com/?azure-portal=true) in a private browser session by using the credentials that you created for the retail communication manager in Exercise 2 - Task 1 (which, for this exercise, is Michael Ellen).
 
-1. In the left navigation pane, select **Tasks by Planner**. If the option doesn't show in your Teams environment, select the ellipsis (**…**) meu located in the lower part of the left navigation pane.
+1. In the left navigation pane, select **Tasks by Planner**. If the option doesn't show in your Teams environment, select the ellipsis (**…**) menu located in the lower part of the left navigation pane.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Microsoft Teams with the Tasks by Planner option selected and the ellipsis button highlighted.](../media/tasks-planner.png)](../media/tasks-planner.png#lightbox)
@@ -51,7 +51,7 @@ In this task, you'll sign in to Teams as a retail communications manager, create
 
 1. Select the **Ready, everything looks good here** checkbox and then select **Publish**.
 
-1. The **Spring Retail update** list has been published for all 33 teams. Now, go to **Received** to ensure that that all teams for each store have received the published task.
+1. The **Spring Retail update** list has been published for all 33 teams. Now, go to **Received** to ensure that all teams for each store have received the published task.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Tasks by Planner and To Do published lists, showing a Received list with teams that the task was sent to.](../media/received.png)](../media/received.png#lightbox)
