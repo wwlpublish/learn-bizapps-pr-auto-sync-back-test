@@ -2,7 +2,7 @@
 uid: learn-bizapps.retail-teams-commerce-integration
 metadata:
  title: Microsoft Teams integration with Dynamics 365 Commerce
- description: Learn how to integrate Microsoft Teams with Dynamics 365 Commerce
+ description: Learn how to integrate Microsoft Teams with Dynamics 365 Commerce.
  ms.date: 04/28/2022
  author: DaveBeasley
  ms.author: dbeasley
@@ -11,14 +11,14 @@ metadata:
 title: Microsoft Teams integration with Dynamics 365 Commerce
 summary: |
   [!include[](../includes/module-banner.md)]
-  With retail workforce management, manage shifts seamlessly, easily connect to your existing workforce, simplify task dissemination, and help your team complete tasks more easily.
+  With retail workforce management, you can manage shifts seamlessly, connect to your existing workforce, simplify task dissemination, and help your team complete tasks more easily.
 abstract: |
-    In this module, you will:
-    - Create an app registration and set up the required permissions
-    - Enable the integration between Dynamics 365 Commerce and Teams Task Management app
-    - Play the role of a retail communications manager who will sign in to Teams and publish a task
-    - Play the role of a store manager who will sign in to Dynamics 365 Commerce POS application and assign a task
-    - Play the role of a store employee who will view the assigned task and mark it complete
+    In this module, you’ll:
+    - Create an app registration and set up the required permissions.
+    - Enable the integration between Dynamics 365 Commerce and the Task management app in Teams.
+    - Play the role of a retail communications manager who will sign in to Teams and publish a task.
+    - Play the role of a store manager who will sign in to the POS app from Dynamics 365 Commerce and assign a task.
+    - Play the role of a store employee who will view the assigned task and mark it as complete.
 prerequisites: |
     - Dynamics 365 Commerce
     - Microsoft Teams
