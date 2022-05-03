@@ -3,7 +3,7 @@ uid: learn-bizapps.manage-datasets-power-bi
 metadata: 
  title: Manage datasets in Power BI 
  description: With Microsoft Power BI, you can build multiple reports from a single dataset, meaning that if you change the dataset, all reports will be updated with that change. Additionally, you can clean and prep data once rather than repeatedly for each report. 
- ms.date: 07/20/2021
+ ms.date: 04/30/2022
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  

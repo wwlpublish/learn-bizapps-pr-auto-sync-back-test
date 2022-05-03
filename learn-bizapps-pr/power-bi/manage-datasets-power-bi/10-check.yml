@@ -4,7 +4,7 @@ title: Check your knowledge
 metadata: 
   title: Check your knowledge 
   description: Answer the following questions to see what you've learned. 
-  ms.date: 07/20/2021
+  ms.date: 04/30/2022
   author: heyrob 
   ms.author: robde 
   ms.topic: interactive-tutorial 
@@ -37,7 +37,7 @@ quiz:
       explanation: RangeStart and RangeEnd configure the start and end of where Incremental refresh should occur.
   - content: What is the difference between Promotion and Certification when you are endorsing a dataset?
     choices: 
-    - content: Promotion does not need specific permissions while Certification requires permission from the dataset owner to access to the dataset.
+    - content: Promotion requires write access while Certification requires permission from the dataset owner to access to the dataset.
       isCorrect: true 
       explanation: Promotion does not need specific permissions while Certification requires permission from the dataset owner to access to the dataset.
     - content: Promotion is for broad usage while Certification needs permission granted on the Admin Tenant settings.
