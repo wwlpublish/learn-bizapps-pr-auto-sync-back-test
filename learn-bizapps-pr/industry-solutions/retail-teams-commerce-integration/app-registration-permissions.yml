@@ -3,7 +3,7 @@ uid: learn-bizapps.retail-teams-commerce-integration.app-registration-permission
 title: Exercise 1 - App registration and permissions
 metadata:
   title: Exercise 1 - App registration and permissions
-  description: Follow the steps to register apps in Azure Active Directory and configure permissions to let managers and employees create and assign task lists.
+  description: Follow the steps to register apps in Azure Active Directory and set up permissions to let managers and employees create and assign task lists.
   ms.date: 04/28/2022
   author: DaveBeasley
   ms.author: dbeasley
