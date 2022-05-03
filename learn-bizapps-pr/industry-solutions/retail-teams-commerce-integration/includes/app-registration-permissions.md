@@ -185,7 +185,7 @@ To set up a client application to access a web API, follow these steps:
 
 1.	Under **Select permissions**, expand the resource whose scopes you defined for your web API, and then select the permissions.
 
-   If you used the example scope names that were specified in the previous quickstart, the  **Employees.Read.All** and **Employees.Write.All** permissions should display.
+    If you used the example scope names that were specified in the previous quickstart, the  **Employees.Read.All** and **Employees.Write.All** permissions should display.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Request A P I permissions dialog with Delegated permissions and Employees highlighted.](../media/employees.png)](../media/employees.png#lightbox)
