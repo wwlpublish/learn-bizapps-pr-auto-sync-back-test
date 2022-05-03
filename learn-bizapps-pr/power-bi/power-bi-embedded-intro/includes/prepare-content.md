@@ -9,7 +9,7 @@ When you're creating embeddable content for an app, it's good practice to store 
 The embedding identity that's used to embed workspace content must have specific permissions.
 
 > [!NOTE]
-> To learn about workspace permissions for internal and external users, work through the [Set up permissions to embed Power BI content](learn/modules/power-bi-embedded-permissions-content/?azure-portal=true) module.
+> To learn about workspace permissions for internal and external users, work through the [Set up permissions to embed Power BI content](/learn/modules/power-bi-embedded-permissions-content/?azure-portal=true) module.
 
 When designing a multi-tenancy solution, you can achieve the separation of tenants by creating one workspace for each tenant. This design pattern is known as *workspace separation*.
 
