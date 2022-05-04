@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.retail-intelligent-order-management.test-flow-orders
-title: Exercise 4 - Test the flow of orders using the BigCommerce provider
+title: Exercise 4 - Test the flow of orders by using the BigCommerce provider
 metadata:
-  title: Exercise 4 - Test the flow of orders using the BigCommerce provider
-  description: Follow the steps to configure the recurrence frequency of the sales order flow, generate orders, and validate the flow of orders to Intelligent Order Management.
+  title: Exercise 4 - Test the flow of orders by using the BigCommerce provider
+  description: Follow the steps to set up the recurrence frequency of the sales order flow, generate orders, and validate the flow of orders to Intelligent Order Management.
   ms.date: 05/02/2022
   author: DaveBeasley
   ms.author: dbeasley
