@@ -41,16 +41,16 @@ Administration is an operational aspect of Intelligent Order Management and Micr
 
 ### Networking
 
-  Two connectivity models are supported by Dynamics 365 and Microsoft Power Platform: one over public endpoint and the other over private network through Microsoft Azure ExpressRoute. The following flowchart helps guide customers through the decision process of choosing between the two connectivity models. For a full list of considerations and recommendations for connectivity models, see [Power Platform Landing Zones](https://aka.ms/northstarpowerplatform/?azure-portal=true).
+Two connectivity models are supported by Dynamics 365 and Microsoft Power Platform: one over public endpoint and the other over private network through Microsoft Azure ExpressRoute. The following flowchart helps guide customers through the decision process of choosing between the two connectivity models. For a full list of considerations and recommendations for connectivity models, see [Power Platform Landing Zones](https://aka.ms/northstarpowerplatform/?azure-portal=true).
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the flowchart showing how to choose between connectivity models.](../media/flowchart.png)](../media/flowchart.png#lightbox)
 
 #### Connect to Dynamics Intelligent Order Management over public endpoint
 
-    You can access a default deployment of Intelligent Order Management by using public endpoint. Connectivity is over HTTPS, and data is encrypted by using a certificate that’s generated and managed by Microsoft.
+You can access a default deployment of Intelligent Order Management by using public endpoint. Connectivity is over HTTPS, and data is encrypted by using a certificate that’s generated and managed by Microsoft.
 
-    Administrators can change the name of the URL through [Microsoft Power Platform admin portal](https://admin.powerplatform.microsoft.com/environments/?azure-portal=true). In the admin portal, you can use the admin center to review the status of your apps and solutions, apply updates, and manage your Dynamics 365 instances, solutions, and apps.
+Administrators can change the name of the URL through [Microsoft Power Platform admin portal](https://admin.powerplatform.microsoft.com/environments/?azure-portal=true). In the admin portal, you can use the admin center to review the status of your apps and solutions, apply updates, and manage your Dynamics 365 instances, solutions, and apps.
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of Microsoft Power Platform admin center Intelligent Order Management Trial environment with the Environment U R L highlighted.](../media/environment-url.png)](../media/environment-url.png#lightbox)
@@ -60,27 +60,27 @@ Administration is an operational aspect of Intelligent Order Management and Micr
 
 #### Connectivity over private network by using ExpressRoute
 
-    ExpressRoute enables connectivity to Dynamics 365 and Microsoft Power Platform over private network. Customers opt for this connectivity model for compliance, more security, and predictable network bandwidth.
+ExpressRoute enables connectivity to Dynamics 365 and Microsoft Power Platform over private network. Customers opt for this connectivity model for compliance, more security, and predictable network bandwidth.
 
    > [!div class="mx-imgBorder"]
    > [![Graph of the Microsoft Azure ExpressRoute.](../media/express.png)](../media/express.png#lightbox)
 
 ### Business continuity and disaster recovery
 
-  Microsoft provides business continuity and disaster recovery for production instances of the Dynamics 365 software as a service (SaaS) application to provide continuity if an Azure region-wide outage occurs. Apps such as Intelligent Order Management run on the Microsoft Dataverse platform. For detailed design considerations and recommendations, see [Design Considerations](https://github.com/microsoft/industry/tree/main/foundations/powerPlatform?azure-portal=true#design-considerations-5).
+Microsoft provides business continuity and disaster recovery for production instances of the Dynamics 365 software as a service (SaaS) application to provide continuity if an Azure region-wide outage occurs. Apps such as Intelligent Order Management run on the Microsoft Dataverse platform. For detailed design considerations and recommendations, see [Design Considerations](https://github.com/microsoft/industry/tree/main/foundations/powerPlatform?azure-portal=true#design-considerations-5).
 
-  For production environments, a replica of the different storage services (Azure SQL and file storage) is established in the secondary region for each environment at the time of deployment. Tenant admins can deploy a production instance of a customer engagement app or Dataverse with the purchase of appropriate licenses. These replicas are referred to as geo-secondary replicas. The geo-secondary replicas are kept synchronized with the primary instance through continuous data replication. A small replication latency (or lag) will occur, which typically lasts less than a few minutes, between the primary data sources and their corresponding geo-secondary replicas.
+For production environments, a replica of the different storage services (Azure SQL and file storage) is established in the secondary region for each environment at the time of deployment. Tenant admins can deploy a production instance of a customer engagement app or Dataverse with the purchase of appropriate licenses. These replicas are referred to as geo-secondary replicas. The geo-secondary replicas are kept synchronized with the primary instance through continuous data replication. A small replication latency (or lag) will occur, which typically lasts less than a few minutes, between the primary data sources and their corresponding geo-secondary replicas.
 
 > [!div class="mx-imgBorder"]
 > [![Graph showing the flow of the two regions.](../media/region.png)](../media/region.png#lightbox)
 
 #### Unplanned failover
 
-  In an unplanned failover scenario, such as a primary region becoming unavailable due to a natural disaster, Microsoft will switch over the traffic to route to secondary instances. In this case, RPO is approximately up to 15 minutes.
+In an unplanned failover scenario, such as a primary region becoming unavailable due to a natural disaster, Microsoft will switch over the traffic to route to secondary instances. In this case, RPO is approximately up to 15 minutes.
 
 #### Planned failover
 
-  If Microsoft determines that a risk to the availability of the primary Azure region is present, for example in a scenario with an impending hurricane, Microsoft will notify customers and switch over the traffic to route to the secondary region. Users who are connected to customer engagement and Dataverse apps at the time of the failover will experience a brief disruption. No data loss will occur because both Azure regions will be online and data will be replicated fast enough to the secondary region.
+If Microsoft determines that a risk to the availability of the primary Azure region is present, for example in a scenario with an impending hurricane, Microsoft will notify customers and switch over the traffic to route to the secondary region. Users who are connected to customer engagement and Dataverse apps at the time of the failover will experience a brief disruption. No data loss will occur because both Azure regions will be online and data will be replicated fast enough to the secondary region.
 
 ## Task 1: Command line features
 
