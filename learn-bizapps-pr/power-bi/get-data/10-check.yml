@@ -34,18 +34,18 @@ quiz:
       explanation: This option doesn't exist when connecting to AAS cubes.  
     - content: Live connection
       isCorrect: true 
-      explanation: This will reflect cube changes immedieately. 
+      explanation: This will reflect cube changes immediately. 
   - content: What can you do to improve performance when you're getting data in Power BI? 
     choices: 
     - content: Perform some calculations in the original data source 
       isCorrect: true 
-      explanation: Power Query and Power Query Editor are built to allow you to process the data, however, the processing power required to do this may lower performance in other areas of your reports. It is good practice to process as much as possible in the native data source.  
+      explanation: Power Query and Power Query Editor are built to allow you to process the data, however, the processing power required to do this might lower performance in other areas of your reports. It's good practice to process as much as possible in the native data source.  
     - content: Only pull data into the Power BI service, not Power BI Desktop 
       isCorrect: false 
       explanation: False. No performance difference exists between Power BI service and Power BI Desktop. 
     - content: Use the Select SQL statement in your SQL queries when you're pulling data from a relational database. 
       isCorrect: false 
-      explanation: False. This approach might decrease performance because you will be getting more columns and rows than you’ll likely need. 
+      explanation: False. This approach might decrease performance because you'll be getting more columns and rows than you’ll likely need. 
     - content: Combine date and time columns into a single column 
       isCorrect: false 
       explanation: Separating date and time will improve compression and thus performance. 
