@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.retail-intelligent-order-management.configure-providers
-title: Exercise 3 - Configure IOM providers
+title: Exercise 3 – Set up Intelligent Order Management providers
 metadata:
-  title: Exercise 3 - Configure IOM providers
-  description: Follow the steps to configure providers that enable Intelligent Order Management features.
+  title: Exercise 3 – Set up Intelligent Order Management providers
+  description: Follow the steps to set up providers that enable Intelligent Order Management features.
   ms.date: 05/02/2022
   author: DaveBeasley
   ms.author: dbeasley
