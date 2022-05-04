@@ -13,7 +13,7 @@ durationInMinutes: 6
 quiz:
   title: Answer the following questions to see what you've learned.
   questions:
-  - content: Which of the following components is part of the Data pipeline in Intelligent order management architecture?
+  - content: Which of the following components is part of the data pipeline in Intelligent Order Management architecture?
     choices:
     - content: Provider
       isCorrect: true
@@ -26,18 +26,18 @@ quiz:
       explanation: Incorrect. Orchestration compiler isn't part of the data pipeline.
     - content: None of the above
       isCorrect: false
-      explanation: Incorrect. Only one of the above is part of the data pipeline.
-  - content: Which of the following are properties of Intelligent Order Management providers?
+      explanation: Incorrect. One of the options is part of the data pipeline.
+  - content: Which of the following components are properties of Intelligent Order Management providers?
     choices:
-    - content: Extensibility - Providers can be extended and customized by using the Microsoft Power Platform.
+    - content: Extensibility – You can extend and customize providers by using Microsoft Power Platform.
       isCorrect: false
-      explanation: Incorrect. This is only one of the properties.
-    - content: Low code customization - Because providers are built on the Power Platform, customizations require little to no code.
+      explanation: Incorrect. This component is only one of the properties.
+    - content: Low-code customization - Because providers are built on Microsoft Power Platform, customizations require little to no code.
       isCorrect: false
-      explanation: Incorrect. This is only one of the properties.
-    - content: Scale - Providers use Power Automate, so providers can scale with volume of incoming messages.
+      explanation: Incorrect. This component is only one of the properties.
+    - content: Scale - Providers use Power Automate so that they can scale with the volume of incoming messages.
       isCorrect: false
-      explanation: Incorrect. This is only one of the properties.
+      explanation: Incorrect. This component is only one of the properties.
     - content: All of the above
       isCorrect: true
       explanation: Correct. All of the answers are correct.
@@ -45,13 +45,13 @@ quiz:
     choices:
     - content: Intelligent Order Management provides several dashboards to help the business user understand key order and fulfillment metrics.
       isCorrect: false
-      explanation: Incorrect. This isn't the only statement that is true.
-    - content: Machine learning is used to analyze data using models and uses advanced algorithms to find or predict patterns in data.
+      explanation: Incorrect. This statement isn't the only one that’s true.
+    - content: Machine learning is used to analyze data by using models and it uses advanced algorithms to find or predict patterns in data.
       isCorrect: false
-      explanation: Incorrect. This isn't the only statement that is true.
-    - content: Customers can build models using AI builder that use data from Intelligent Order Management, so that results are updated on entities used during the order and fulfillments flows.
+      explanation: Incorrect. This statement isn't the only one that’s true.
+    - content: Customers can build models by using AI builder that use data from Intelligent Order Management so that results are updated on entities that are used during the order and fulfillments flows.
       isCorrect: false
-      explanation: Incorrect. This isn't the only statement that is true.
+      explanation: Incorrect. This statement isn't the only one that’s true.
     - content: All of the above
       isCorrect: true
       explanation: Correct. All of the statements are true.
