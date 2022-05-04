@@ -76,7 +76,7 @@ For production environments, a replica of the different storage services (Azure 
 
 #### Unplanned failover
 
-In an unplanned failover scenario, such as a primary region becoming unavailable due to a natural disaster, Microsoft will switch over the traffic to route to secondary instances. In this case, RPO is approximately up to 15 minutes.
+In an unplanned failover scenario, such as a primary region becoming unavailable due to a natural disaster, Microsoft will switch over the traffic to route to secondary instances. In this case, Recovery Point Objective (RPO) is approximately up to 15 minutes.
 
 #### Planned failover
 
