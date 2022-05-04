@@ -45,7 +45,7 @@ quiz:
       explanation: False. No performance difference exists between Power BI service and Power BI Desktop. 
     - content: Use the Select SQL statement in your SQL queries when you're pulling data from a relational database. 
       isCorrect: false 
-      explanation: False. This approach might decrease performance because you will be getting more columns and rows then you’ll likely need. 
+      explanation: False. This approach might decrease performance because you will be getting more columns and rows than you’ll likely need. 
     - content: Combine date and time columns into a single column 
       isCorrect: false 
       explanation: Separating date and time will improve compression and thus performance. 
