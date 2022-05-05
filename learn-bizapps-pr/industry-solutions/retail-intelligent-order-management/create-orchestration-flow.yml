@@ -3,7 +3,7 @@ uid: learn-bizapps.retail-intelligent-order-management.create-orchestration-flow
 title: Exercise 5 - Create orchestration flows
 metadata:
   title: Exercise 5 - Create orchestration flows
-  description: Follow the steps to create a policy and a flow that orchestrates how data is obtained from configured providers.
+  description: Follow the steps to create a policy and a flow that orchestrates how data is obtained from the providers that you set up.
   ms.date: 05/02/2022
   author: DaveBeasley
   ms.author: dbeasley

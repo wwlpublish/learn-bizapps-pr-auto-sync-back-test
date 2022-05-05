@@ -2,7 +2,7 @@
 uid: learn-bizapps.retail-intelligent-order-management
 metadata:
  title: Intelligent Order Management for Microsoft Cloud for Retail
- description: Learn to use Dynamics 365 Intelligent Order Management (IOM) to streamline curbside pickup and provide customers with real-time inventory and order status.
+ description: Learn how to use Dynamics 365 Intelligent Order Management to streamline curbside pickup and provide customers with real-time inventory and order status.
  ms.date: 05/02/2022
  author: DaveBeasley
  ms.author: dbeasley
@@ -11,15 +11,14 @@ metadata:
 title: Intelligent Order Management for Microsoft Cloud for Retail
 summary: |
   [!include[](../includes/module-banner.md)]
-  The Flexible fulfillment capability in the 'Build a real time sustainable supply chain' priority scenario helps Retailers optimize order management while giving their customers multiple options to engage across several channels.
+  The Flexible fulfillment capability in the Build a real-time sustainable supply chain priority scenario helps retailers optimize order management while giving their customers multiple options to engage across several channels.
 abstract: |
-    In this module, you will:
-    - Streamline returns management and enable flexible return scenarios
-    - Use AI and anomaly detection models to identify and address fulfillment constraints and improve delivery times while reducing costs
-    - Give customers ordering flexibility such as home delivery, curbside pickup, and pick up in-store with connected ordering and fulfillment tools
-    - Offer real-time inventory availability and order status with AI, providing a single solution to order-fulfillment orchestration
+    In this module, you’ll:
+    - Streamline returns management and enable flexible return scenarios.
+    - Use AI and anomaly detection models to identify and address fulfillment constraints and improve delivery times while reducing costs.
+    - Give customers ordering flexibility such as home delivery, curbside pickup, and pick up in-store with connected ordering and fulfillment tools.
+    - Offer real-time inventory availability and order status with AI, providing a single solution to order-fulfillment orchestration.
 prerequisites: |
-    To complete these exercises, you'll need the following:
     - Dynamics 365 Intelligent Order Management
     - BigCommerce trial subscription
     - Postman or CLI such as CURL for troubleshooting APIs (optional)

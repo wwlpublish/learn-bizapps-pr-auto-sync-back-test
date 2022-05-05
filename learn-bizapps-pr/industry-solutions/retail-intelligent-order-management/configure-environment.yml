@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.retail-intelligent-order-management.configure-environment
-title: Exercise 2 - Configure IOM environment
+title: Exercise 2 – Set up an Intelligent Order Management environment
 metadata:
-  title: Exercise 2 - Configure IOM environment
-  description: Follow the steps to configure an Intelligent Order Management environment.
+  title: Exercise 2 – Set up an Intelligent Order Management environment
+  description: Follow the steps to set up an Intelligent Order Management environment.
   ms.date: 05/02/2022
   author: DaveBeasley
   ms.author: dbeasley
