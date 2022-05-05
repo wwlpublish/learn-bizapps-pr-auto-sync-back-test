@@ -35,7 +35,7 @@ Administration is an operational aspect of Intelligent Order Management and Micr
 
 - Select between two types of backup options:
 
-  - [System backups](/power-platform/admin/backup-restore-environments?azure-portal=true#system-backups) - These backups are performed continuously, and production environments where Dynamics 365 apps are deployed are retained for 28 days. Trial environments aren't backed up. Restore is performed from Microsoft Power Platform admin portal, and backups must be restored in the same region where the backup was taken.
+  - [System backups](/power-platform/admin/backup-restore-environments?azure-portal=true#system-backups) - These backups are performed continuously, and production environments where Dynamics 365 apps are deployed, are retained for 28 days. Trial environments aren't backed up. Restore is performed from Microsoft Power Platform admin portal, and backups must be restored in the same region where the backup was taken.
 
   - [Manual backups](/power-platform/admin/backup-restore-environments?azure-portal=true#manual-backups) - Microsoft creates a backup when an environment is updated. Manual backups for production environments that have been created with a database and have one or more Dynamics 365 applications installed are retained for up to 28 days.
 
