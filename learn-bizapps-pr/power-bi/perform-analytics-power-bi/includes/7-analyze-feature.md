@@ -12,7 +12,7 @@ To use the **Analyze** feature, right-click a data point on the visual and then 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the visualization with the analyze option highlighted.](../media/7-display-analyze-options-ssm.png)](../media/7-display-analyze-options-ssm.png#lightbox)
 
-In this example, you select the **Explain the increase** option, and a window displays with a new visual, as illustrated in the following image.
+In the example below, you select the **Explain the increase** option, and a window displays with a new visual, as illustrated in the following image.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the visualization with analysis.](../media/7-view-analysis-ss.png)](../media/7-view-analysis-ss.png#lightbox)
