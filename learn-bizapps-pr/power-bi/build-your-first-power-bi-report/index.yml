@@ -3,7 +3,7 @@ uid: learn-bizapps.build-your-first-report
 metadata:
   title: Create and share your first Power BI report
   description: With Power BI, you can create compelling visuals and reports. In this module, you learn how to use Power BI Desktop to connect to data, build visuals, and create a report that you can share with others in your organization. You then learn how to publish the report to the Power BI service, so that others can see your insights and benefit from your work.
-  ms.date: 08/11/2021
+  ms.date: 05/04/2022
   author: heyrob
   ms.author: robde
   ms.topic: interactive-tutorial
