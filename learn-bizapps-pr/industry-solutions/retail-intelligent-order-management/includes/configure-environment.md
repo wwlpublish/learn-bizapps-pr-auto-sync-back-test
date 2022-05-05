@@ -46,7 +46,7 @@ To set up system connections, follow these steps:
 1. Select **Retrieve Link**.
 
     > [!div class="mx-imgBorder"]
-    >  ![Screenshot of the I O M Data Transformer page with the Retrieve Link button highlighted.](../media/transformer.png)](../media/transformer.png#lightbox)
+    > ![Screenshot of the I O M Data Transformer page with the Retrieve Link button highlighted.](../media/transformer.png)](../media/transformer.png#lightbox)
 
 1. A **Power Automate** portal will open. If you're opening Power Automate for the first time, then a welcome screen will display.
 
