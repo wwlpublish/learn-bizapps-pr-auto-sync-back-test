@@ -52,6 +52,8 @@ You can create an order in the BigCommerce store portal or in their e-commerce p
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the BigCommerce dashboard with the View Store option highlighted.](../media/view-store.png)](../media/view-store.png#lightbox)
 
+1. If you are using a BigCommerce Trial environment, then the e-commerce portal might be in private mode and expects a private preview code per browser session. Enter the **Preview code** you have made a note as part of Exercise 1 (training environment preparation - step14), mark the check box **I’m not a robot** and then select the **Submit** button to enter the site. 
+
 1. Select **Register** in the upper-right corner of the portal.
 
     > [!div class="mx-imgBorder"]

@@ -229,7 +229,24 @@ In context of the BigCommerce provider, you’ll need to set up the following in
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Dynamics 365 navigation pane with Products selected under Mappings.](../media/products.png)
 
-1. Select **+ New** and then enter the following fields:
+1. Select **Add product** to create a new product.
+
+1. Enter the following product details:
+
+    - **Name** - White leather bag 
+    - **Product id** - 81312 
+    - **Description** - Whether you need a carry-everything or an evening clutch, our selection covers all of your needs with a variety of handbags to match any occasion. 
+    - **Unit group** - Quantity
+    - **Default unit** - ea 
+    - **Default price list** - Master price list
+    - **Decimals supported** 0
+
+1. Select **Related>Product** mappings 
+
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Dynamics 365 navigation related products.](../media/related-product.png)
+
+1. Select **+New** and enter the following details:
 
     - **Provider** - BigCommerce
 

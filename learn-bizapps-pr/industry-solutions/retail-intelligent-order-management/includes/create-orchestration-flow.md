@@ -135,7 +135,7 @@ Congratulations, you’ve successfully created and published an orchestration fl
 In this task, you'll test the orchestration flow that you created in the previous task. You’ll create a sample order in BigCommerce by setting the delivery city as Seattle. When the sales orders flow into Intelligent Order Management, the order gets validated and marked as **Order Validated**.
 
 > [!Note]
-> While you’re creating an order in BigCommerce, ensure that the item is **Able Brewing System** because it’s the only item that’s set up in internal-external mapping.
+> While you’re creating an order in BigCommerce, ensure that the item is **Big Commerce** because it’s the only item that’s set up in internal-external mapping.
 
 1. Go to the BigCommerce e-commerce portal store and sign in with the registered credentials.
 
@@ -144,7 +144,10 @@ In this task, you'll test the orchestration flow that you created in the previou
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Coming Soon dialog with the Preview Code filled in and the I'm not a robot checkbox selected.](../media/preview.png)
 
-1. Select a product in the home page and then select **Add to Cart**.
+1. Select **White leather bag** on the home page and then select **Add to Cart**.
+
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the adding a leather bag to the cart.](../media/leather-bag.png)
 
 1. Select the **Check out** button.
 

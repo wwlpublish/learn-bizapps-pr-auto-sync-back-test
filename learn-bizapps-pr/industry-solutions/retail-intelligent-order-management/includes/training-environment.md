@@ -124,4 +124,10 @@ To create a BigCommerce API key, follow these steps:
 >
 > Similarly, you can use [Postman](https://www.postman.com/?azure-portal=true), which supports a GUI experience to troubleshoot API issues.
 
+1. Select **View store** to navigate to the Bigcommerce e-commerce site.
+
+    [![Screenshot of the JSON code to access the token.](../media/view-store.png)](../media/json.png#lightbox)
+
+1. Make a note of the preview code. If you/training team is using a BigCommerce Trial environment, then the e-commerce portal might be in private mode and expects a private preview code per browser session.
+
 Congratulations, you’ve successfully set up a BigCommerce demo store. You've also created an API key and saved the information, which you’ll use when setting up the Intelligent Order Management provider in the upcoming exercise.
