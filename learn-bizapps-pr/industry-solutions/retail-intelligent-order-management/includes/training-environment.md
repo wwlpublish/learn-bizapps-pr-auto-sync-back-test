@@ -126,7 +126,7 @@ To create a BigCommerce API key, follow these steps:
 
 1. Select **View store** to navigate to the Bigcommerce e-commerce site.
 
-    [![Screenshot of the JSON code to access the token.](../media/view-store.png)](../media/json.png#lightbox)
+    [![Screenshot of the JSON code to access the token for viewing the store.](../media/view-store.png)](../media/json.png#lightbox)
 
 1. Make a note of the preview code. If you/training team is using a BigCommerce Trial environment, then the e-commerce portal might be in private mode and expects a private preview code per browser session.
 
