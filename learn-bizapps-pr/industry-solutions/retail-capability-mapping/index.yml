@@ -31,8 +31,8 @@ products:
 units:
 - learn-bizapps.retail-capability-mapping.introduction
 - learn-bizapps.retail-capability-mapping.set-up-tenant
-- learn-bizapps.retail-capability-mapping.obtain-deploy-trial
 - learn-bizapps.retail-capability-mapping.azure-setup
+- learn-bizapps.retail-capability-mapping.obtain-deploy-trial
 - learn-bizapps.retail-capability-mapping.check
 - learn-bizapps.retail-capability-mapping.summary
 badge:
