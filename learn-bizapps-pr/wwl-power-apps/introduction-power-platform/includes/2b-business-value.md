@@ -13,7 +13,7 @@ climate changes, new factors are impacting businesses. These impacts include:
 -   **Changing workforce expectations:** As millennials and Gen Z become most of
     the workforce, organizations need adapt to fit the way they work. They have
     grown up in a world of tailored experiences and collaborating through social
-    medial. To best apply their abilities, organizations need to be able to
+    media. To best apply their abilities, organizations need to be able to
     deliver more custom, streamlined, and collaborative digital experiences.
 
 -   **Increased costs for custom application development:** Building custom
@@ -41,17 +41,17 @@ build targeted solutions based on needs of the people who will be using these
 applications every day.
 
 For example, technicians in the field may encounter scenarios where, they need a
-part to execute a job. Ideally if that part is inventory, they can easily
+part to execute a job. Ideally if that part is in inventory, they can easily
 request the part so they can continue to work. However, many times, there's a
-bottle neck in this process. They need submit a request to the parts person
+bottle neck in this process. They need to submit a request to the parts person
 first. This means that they can be potentially spending time waiting for the
-parts person to get back to them only to find later that the part isn't in
+parts person to get back to them only to find out later that the part isn't in
 stock. This could be easily solved by building a dedicated Power App. By being
 able to check inventory levels while onsite, technicians do not have to spend
 time onsite waiting to determine if the part is available. Not only can they see
 if the part is available, but they can easily request the part as needed. Since
-they best understand what they would need, they can use their first had
-knowledge of what would be required, build out a prototype of the application
+they best understand what they would need, they can use their first hand
+knowledge of what would be required,to build out a prototype of the application
 using Power Apps that reflects the best user interface and overall experience.
 This is something that would have to be done by a developer in the past. Once
 prototyped, the organizations developers can be used to fill in the gaps that go
