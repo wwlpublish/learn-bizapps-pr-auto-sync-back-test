@@ -38,7 +38,7 @@ In this task, we'll create a Dynamics 365 Customer Service Trial Environment. Th
 1.  Select Edit and update the name of the organization to your preferred name and the URL to your preferred URL and select **Save**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the edit details view.](../media/edit-details.png)](../media/edit-details.png#lightbox)
+	> [![Screenshot of the edit details view with name, U R L, Type, Refresh cadence, Purpose, and Security group fields.](../media/edit-details.png)](../media/edit-details.png#lightbox)
 
 ## Task 2: Install Customer Insights environment
 
@@ -64,7 +64,7 @@ In this task, we'll walk through the Customer insights installation process.
 1.  Select **Sign in**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the sign in button.](../media/sign-in.png)](../media/sign-in.png#lightbox)
+	> [![Screenshot of the sign in button under the let's get you started step.](../media/sign-in.png)](../media/sign-in.png#lightbox)
 
 1.  Update the account info and select **Get started**.
 
@@ -113,7 +113,7 @@ In this task, we'll walk through the Customer insights installation process.
 
 Upon successful creation of the Customer Insights Tenant, you can proceed forward.
 
-## Task 3: Add Microsoft Cloud for Financial Service trial licenses
+## Task 3: Add Microsoft Cloud for Financial Services trial licenses
 
 In this step, we'll walk through how to obtain the Microsoft Cloud for Financial Services Trial licenses.
 
@@ -134,7 +134,7 @@ In this step, we'll walk through how to obtain the Microsoft Cloud for Financial
 1.  Select **Try now** in the Checkout screen.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the try now button.](../media/try-now.png)](../media/try-now.png#lightbox)
+	> [![Screenshot of the try now button for the Microsoft Cloud for Financial Services Add on.](../media/try-now.png)](../media/try-now.png#lightbox)
 
 1.  Select Continue in the order receipt page.
 
@@ -147,22 +147,22 @@ Now that we have necessary licenses and the necessary platform elements created,
 
 ### Configure Teams configurations
 
-In this step, we'll walk through the teams configuration settings for Microsoft Teams to integrate with Dynamics 365 platform.
+In this step, we'll walk through the Teams configuration settings for Microsoft Teams to integrate with Dynamics 365 platform.
 
 1.  Using your tenant administrator credentials, navigate to [Power Platform admin center](https://admin.powerplatform.com/?azure-portal=true) and select your environment.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the environments list.](../media/environment.png)](../media/environment.png#lightbox)
+	> [![Screenshot of the environments list with two environments.](../media/environment.png)](../media/environment.png#lightbox)
 
 1.  Select the Environment that was created and open its details page. Select **Settings**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the settings button.](../media/settings.png)](../media/settings.png#lightbox)
+	> [![Screenshot of the settings button on the top navigation of the Environments window.](../media/settings.png)](../media/settings.png#lightbox)
 
 1.  The below settings page opens. Select **Integration** and Select **Teams integration settings**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the settings page with integration Teams integration settings selected.](../media/teams-integration-settings.png)](../media/teams-integration-settings.png#lightbox)
+	> [![Screenshot of the settings page with integration > Teams integration settings selected.](../media/teams-integration-settings.png)](../media/teams-integration-settings.png#lightbox)
 
 1.  Change setting to **Yes** on **Turn on the linking of Dynamics 365 records to Microsoft Teams channels**. Change setting to **Yes** on **Turn on Enhanced Microsoft Teams Integration**. Select **Save**.
 
@@ -178,7 +178,7 @@ In this task, we'll create a Power Apps Portal that will be used as a sample por
 1.  Change your **Environment** from default to the Trial environment you created in the previous section.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the the trial environment.](../media/change-environment.png)](../media/change-environment.png#lightbox)
+	> [![Screenshot of the trial environment in the upper right of the window.](../media/change-environment.png)](../media/change-environment.png#lightbox)
 
 1.  In the left nav, select **Apps** and then select **+New App > Portal**.
 
@@ -194,7 +194,7 @@ In this task, we'll create a Power Apps Portal that will be used as a sample por
     Select **Use data from existing website record**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the portal details.](../media/portal-details.png)](../media/portal-details.png#lightbox)
+	> [![Screenshot of the portal details with Name, Address, and Language fields.](../media/portal-details.png)](../media/portal-details.png#lightbox)
 
     Your portal will provision in the background. Proceed only after the Portal provisioning completes.
 

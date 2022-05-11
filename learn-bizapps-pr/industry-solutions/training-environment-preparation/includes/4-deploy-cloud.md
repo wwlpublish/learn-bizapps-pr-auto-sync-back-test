@@ -1,7 +1,3 @@
-In this exercise, you'll deploy Microsoft Cloud for Financial Services in your Microsoft 365 tenant.
-
-## Task 1: Deploy Microsoft Cloud for Financial Services
-
 In this task, you'll deploy all Microsoft Cloud for Financial Services capabilities.
 
 1. While signed in to your Microsoft 365 tenant, open a new tab and then go to [https://aka.ms/solutioncenter](https://aka.ms/solutioncenter/?azure-portal=true) to access the Microsoft Cloud Solution Center. Select the **Microsoft Cloud for Financial Services** button to begin setup.
@@ -22,12 +18,12 @@ In this task, you'll deploy all Microsoft Cloud for Financial Services capabilit
 1. Select the **Add all FSI Capabilities** checkbox and then select **Deploy**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Add all FSI Capabilities checkbox selected and Customer intelligence cleared.](../media/add-all.png)](../media/add-all.png#lightbox)
+    > [![Screenshot of the Add all FSI Capabilities checkbox selected and Customer intelligence checked.](../media/add-all.png)](../media/add-all.png#lightbox)
 
 1. Select all checkboxes and select Next.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Additional components with Sample data and Sample portal selected.](../media/sample.png)](../media/sample.png#lightbox)
+    > [![Screenshot of Additional components with Configuration data for Unified customer profile app, Sample data, and Configuration data for Loan onboarding selected.](../media/sample.png)](../media/sample.png#lightbox)
 
 1. In the **Enter Dataverse environment** dropdown menu, select your environment. Select the Customer Insights Environment. Select the **Terms of service** checkbox and then select **Next**.
 
