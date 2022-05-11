@@ -43,10 +43,10 @@ To create a flow from an AI Builder template, follow these steps:
 
 From AI Builder studio, you can launch the creation of a flow by using your favorite model.
 
-The following example shows a custom form processing model. The detail page of the model contains a **Use model** button (the model must be published). Selecting this button will open a right panel that offers multiple options, as shown in the following figure.
+The following example shows a custom document processing model. The detail page of the model contains a **Use model** button (the model must be published). Selecting this button will open a right panel that offers multiple options, as shown in the following figure.
 
 > [!div class="mx-imgBorder"]
-> [![Custom form processing model with Use model button selected to reveal the User your model panel to the right.](../media/04-custom-form.png)](../media/04-custom-form.png#lightbox)
+> [![Custom document processing model with Use model button selected to reveal the User your model panel to the right.](../media/04-custom-form.png)](../media/04-custom-form.png#lightbox)
 
 Selecting **+ New flow** opens the screen where you can create a flow from a template.
 

@@ -12,9 +12,9 @@ Before you begin this course, we recommend that you get familiar with these prod
 
 - [Get started with Dataverse](/learn/modules/get-started-with-powerapps-common-data-service/?azure-portal=true) learn module.
 
-- [Get started with Form processing in AI Builder](/learn/modules/get-started-with-form-processing/?azure-portal=true) learn module.
+- [Get started with Document processing in AI Builder](/learn/modules/get-started-with-form-processing/?azure-portal=true) learn module.
 
-- [Overview of AI Builder form processing model](/ai-builder/form-processing-model-overview/?azure-portal=true) documentation.
+- [Overview of AI Builder document processing model](/ai-builder/form-processing-model-overview/?azure-portal=true) documentation.
 
 ## What document automation is
 
@@ -39,7 +39,7 @@ Document automation provides this standard end-to-end solution. It includes the 
 
 - Manage documents received in emails.
 
-- Use the AI Builder form processing solution to extract data from those documents.
+- Use the AI Builder document processing solution to extract data from those documents.
 
 - Process the data extracted and allow users to review and approve data through a central manual validation application.
 
@@ -73,7 +73,7 @@ The **Document Processor** does the following:
 
   - It is triggered when a document is received and stored in the document queue, and is in the **Extracting data** state.
 
-  - It retrieves each document and runs an AI Builder form processing model on it to retrieve the relevant data. You can build your own AI Builder model for your unique document layout. More about this configuration is in the following learn modules.
+  - It retrieves each document and runs an AI Builder document processing model on it to retrieve the relevant data. You can build your own AI Builder model for your unique document layout. More about this configuration is in the following learn modules.
 
   - It stores the extracted data in a Dataverse table so that further data checks and processing can be performed before it's exported or used in another system.
 

@@ -65,11 +65,11 @@ The features available in the validation application by each persona are summari
     > [!div class="mx-imgBorder"]
     > [![Manage User Roles dialog with list of selectable roles.](../media/3-manage-user-roles.png)](../media/3-manage-user-roles.png#lightbox)
 
-## Create a form processing model
+## Create a document processing model
 
-The next step is to create a Form Processing model that will extract the data from your document with AI Builder.
+The next step is to create a Document Processing model that will extract the data from your document with AI Builder.
 
-Follow the module [Get started with Form processing in AI Builder](/learn/modules/get-started-with-form-processing/?azure-portal=true) to learn how to make it.
+Follow the module [Get started with Document processing in AI Builder](/learn/modules/get-started-with-form-processing/?azure-portal=true) to learn how to make it.
 
 > [!TIP]
 > To create an AI Builder model, you need at least 5 samples of documents. If your suppliers send documents with various layouts, you should consider creating one collection per document type in the model.
@@ -104,7 +104,7 @@ The targeted person for configuring providers should:
 
 - Have an overview of the suppliers of the company and get samples of these documents.
 
-- Have good knowledge of AI Builder including building a Form Processing model.
+- Have good knowledge of AI Builder including building a Document Processing model.
 
 Makers are usually a good fit for this task.
 
@@ -122,7 +122,7 @@ Once the model is created, you can use it in the pipeline.
 
 1. You now need to select an AI Builder model to extract labels from documents.
 
-    See [Get started with form processing](/learn/modules/get-started-with-form-processing/?azure-portal=true) to learn how to create an AI Builder form processing model.
+    See [Get started with document processing](/learn/modules/get-started-with-form-processing/?azure-portal=true) to learn how to create an AI Builder document processing model.
 
     Once your model is created and **published**, you can refresh this page with **Reload models**, select the appropriate model, and select **Next**.
 

@@ -2,7 +2,7 @@
 uid: learn-dynamics.get-started-with-form-processing 
 metadata: 
  title: Process custom forms with AI Builder
- description: Learn the basics of Form processing in AI Builder and how it can benefit your organization.
+ description: Learn the basics of Document processing in AI Builder and how it can benefit your organization.
  ms.date: 03/15/2020  
  author: heyrob  
  ms.author: robde  
@@ -11,12 +11,12 @@ metadata:
 title: Process custom forms with AI Builder
 summary: | 
   [!include[](../includes/module-banner.md)]
-  Learn the basics of Form processing in AI Builder and how it can benefit your organization.
+  Learn the basics of Document processing in AI Builder and how it can benefit your organization.
 abstract: |  
     In this module, you will: 
     - Explore how automating document processing can help save time.
-    - Create your first Form processing model.
-    - Learn how to use your Form processing models in Power Apps and Power Automate.
+    - Create your first Document processing model.
+    - Learn how to use your Document processing models in Power Apps and Power Automate.
 prerequisites: |
     - A Power Apps or Power Automate [license](https://go.microsoft.com/fwlink/?linkid=2085130)
     - Access to [Microsoft Dataverse](https://powerapps.microsoft.com/common-data-service/)
