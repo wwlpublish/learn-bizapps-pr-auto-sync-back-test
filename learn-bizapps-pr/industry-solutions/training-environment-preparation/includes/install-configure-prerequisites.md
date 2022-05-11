@@ -141,7 +141,7 @@ In this step, we'll walk through how to obtain the Microsoft Cloud for Financial
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the continue button in order receipt.](../media/continue.png)](../media/continue.png#lightbox)
 
-## Task 4: Configure Prerequisite configurations
+## Task 4: Configure prerequisite configurations
 
 Now that we have necessary licenses and the necessary platform elements created, in this task we'll walk through the pre-requisite configurations that need to be set up before Microsoft Cloud for Financial Services Capabilities can be installed.
 
