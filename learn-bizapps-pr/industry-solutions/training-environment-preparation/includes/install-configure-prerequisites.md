@@ -197,6 +197,3 @@ In this task, we'll create a Power Apps Portal that will be used as a sample por
 	> [![Screenshot of the portal details with Name, Address, and Language fields.](../media/portal-details.png)](../media/portal-details.png#lightbox)
 
     Your portal will provision in the background. Proceed only after the Portal provisioning completes.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the portal provisioning in progress message.](../media/portal-status.png)](../media/portal-status.png#lightbox)
