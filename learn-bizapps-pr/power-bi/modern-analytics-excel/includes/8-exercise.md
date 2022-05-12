@@ -229,8 +229,8 @@ In this task, you will insert a Pivot Chart workspace into the Excel worksheet t
 	
 	[![Screenshot of Existing Connections window with the Connections tab selected, Connections in this Workbook section with the Power B I Service Azure connection path.](../media/workbook-connections.png)](../media/workbook-connections.png#lightbox)
 
-	> [!NOTE]
-	> The exact name of your pbiazure://api.powerbi.com connection string will be different than the one shown in the above image. This is the unique connection location identifier for a published Power BI dataset artifact.
+   > [!NOTE]
+   > The exact name of your pbiazure://api.powerbi.com connection string will be different than the one shown in the above image. This is the unique connection location identifier for a published Power BI dataset artifact.
 
 1. Click **OK**.
 
