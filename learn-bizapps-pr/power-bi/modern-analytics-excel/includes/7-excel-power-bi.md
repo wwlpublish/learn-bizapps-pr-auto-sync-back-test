@@ -1,6 +1,6 @@
 Excel is a great application by itself. However, when you use Excel together with Power BI, it becomes even better. Not every report or analysis needs to be in Power BI, and you don't have to choose one and exclude the other. Excel will inherit all of Power BI's sensitivity, certified, and promoted labels, so you can work with confidence that your data is accessible only to authorized users.
 
-[![Diagram for Power BI integration with Excel.](../media/power-bi-integration-with-excel.png)](../media/power-bi-integration-with-excel.png#lightbox)
+[![Diagram for Power B I integration with Excel.](../media/power-bi-integration-with-excel.png)](../media/power-bi-integration-with-excel.png#lightbox)
 
 ## Excel key strengths
 
@@ -24,7 +24,7 @@ Great reasons to use Excel are:
 
 Power BI is more modern. It offers custom visuals, is interactive, provides data story experiences, and Power BI service provides centralized sharing and collaboration.
 
-[![Diagram listing Microsoft Power BI strengths.] (../media/power-bi-strengths.png)](../media/power-bi-strengths.png#lightbox)
+[![Diagram listing Microsoft Power BI strengths.](../media/power-bi-strengths.png)](../media/power-bi-strengths.png#lightbox)
 
 Compelling reasons to use Power BI include the ability to:
 
@@ -49,4 +49,4 @@ Visuals, reports, and datasets in Power BI can be analyzed in and exported to Ex
 
 In this demo, you’ll see how you can use Power BI together with Excel to create a highly customizable report  in Excel using a data model published to the Power BI Service.
 
-[!VIDEO https://www.microsoft.com/videoplayer/embed/RWNWvk]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RWNWvk]

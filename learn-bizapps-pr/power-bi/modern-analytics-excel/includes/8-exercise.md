@@ -215,7 +215,7 @@ In this task, you will insert a Pivot Chart workspace into the Excel worksheet t
 1. Select the **Insert** tab on the main menu and select the **Pivot Chart** option from the **Pivot Chart** button drop-down.
 
 	
-	[![Screenshot of Insert tab on main menu with Pivot Chart button drop down selected and Pivot Chart option.](../media/Pivot Chart.png)](../media/Pivot Chart.png#lightbox)
+	[![Screenshot of Insert tab on main menu with Pivot Chart button drop down selected and Pivot Chart option.](../media/pivotchart.png)](../media/pivotchart.png#lightbox)
 
 1. On the Create Pivot Chart window, select the **Use an external data source** radio button.
 
