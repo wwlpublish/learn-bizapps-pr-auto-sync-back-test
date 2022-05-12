@@ -13,4 +13,4 @@ In Excel, when a user is building a PivotTable that is connected to Power BI wit
 
 
 
-[![Screenshot of different Row Level Security groups with a Pivot Table filtered based upon user access limited by Row Level Security.](/media/excel-rls-pivottable.png)](../media/excel-rls-pivottable.png)
+[![Screenshot of different Row Level Security groups with a Pivot Table filtered based upon user access limited by Row Level Security.](../media/excel-rls-pivottable.png)](../media/excel-rls-pivottable.png#lightbox)
