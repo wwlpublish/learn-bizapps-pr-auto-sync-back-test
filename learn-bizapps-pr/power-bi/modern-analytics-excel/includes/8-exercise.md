@@ -267,9 +267,8 @@ In this task, you will use CUBE formulas to create high-level KPIs for the repor
 
 	 [![Screenshot of Excel Data Tab Queries and Connections button with visual of Connections selected in pane.](../media/queries-connections-pane.png)](../media/queries-connections-pane.png#lightbox)
 
-	> [!NOTE]
-
-	> The exact name of your `pbiazure://api.powerbi.com` connection string will be different than the one shown in the above image. This is the unique connection location identifier for a published Power BI dataset artifact.
+   > [!NOTE]
+   > The exact name of your `pbiazure://api.powerbi.com` connection string will be different than the one shown in the above image. This is the unique connection location identifier for a published Power BI dataset artifact.
 
 1. Select **Connections**, right-click, choose **Properties**, change the connection name to **Power BI - MAIAD Lab 03A – Power BI Model**, and then press ok.
 
