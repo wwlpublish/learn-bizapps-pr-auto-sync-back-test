@@ -25,7 +25,9 @@ roles:
 products:  
 - power-platform
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.custom-connectors-open-api.1-introduction 
 - learn-bizapps.custom-connectors-open-api.2-open-api-extensions 
 - learn-bizapps.custom-connectors-open-api.3-dynamic-list-value-extension 
@@ -34,4 +36,4 @@ units:
 - learn-bizapps.custom-connectors-open-api.6-check 
 - learn-bizapps.custom-connectors-open-api.7-summary 
 badge: 
-  uid: learn-bizapps.custom-connectors-open-api.badge 
+  uid: learn-bizapps.custom-connectors-open-api.badge

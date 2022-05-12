@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.explore-data-power-bi 
 metadata: 
  title: Explore data in Power BI
@@ -28,7 +28,9 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.explore-data-power-bi.1-introduction-power-bi-service 
 - learn-bizapps.explore-data-power-bi.2-quick-insights 
 - learn-bizapps.explore-data-power-bi.3-create-configure-dashboard 
@@ -41,5 +43,4 @@ units:
 - learn-bizapps.explore-data-power-bi.11-check 
 - learn-bizapps.explore-data-power-bi.12-summary 
 badge: 
-  uid: learn-bizapps.explore-data-with-power-bi-desktop.badge 
-
+  uid: learn-bizapps.explore-data-with-power-bi-desktop.badge

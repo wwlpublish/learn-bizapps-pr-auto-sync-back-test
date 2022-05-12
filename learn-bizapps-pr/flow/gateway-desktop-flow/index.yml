@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.gateway-desktop-flow.1-introduction 
 - learn-bizapps.gateway-desktop-flow.2-setup 
 - learn-bizapps.gateway-desktop-flow.3-gateway-connection 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.gateway-desktop-flow.7-check 
 - learn-bizapps.gateway-desktop-flow.8-summary 
 badge: 
-  uid: learn-bizapps.gateway-desktop-flow.badge 
+  uid: learn-bizapps.gateway-desktop-flow.badge

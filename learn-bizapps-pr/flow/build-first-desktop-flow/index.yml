@@ -29,7 +29,9 @@ roles:
 products:  
 - power-platform
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.build-first-desktop-flow.1-introduction 
 - learn-bizapps.build-first-desktop-flow.2-set-up-environment 
 - learn-bizapps.build-first-desktop-flow.3-get-familiar-power-automate-desktop 
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.build-first-desktop-flow.7-check 
 - learn-bizapps.build-first-desktop-flow.8-summary 
 badge: 
-  uid: learn-bizapps.build-first-desktop-flow.badge 
+  uid: learn-bizapps.build-first-desktop-flow.badge

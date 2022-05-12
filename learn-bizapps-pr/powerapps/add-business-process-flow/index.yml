@@ -28,7 +28,10 @@ products:
 - power-apps
 - common-data-service
 - power-automate 
-units: 
+subjects:
+- custom-app-development
+- process-workflow
+units:
 - learn-bizapps.add-business-process-flow.1-introduction 
 - learn-bizapps.add-business-process-flow.2-exercise 
 - learn-bizapps.add-business-process-flow.3-exercise 
@@ -36,4 +39,4 @@ units:
 - learn-bizapps.add-business-process-flow.5-check 
 - learn-bizapps.add-business-process-flow.6-summary 
 badge: 
-  uid: learn-bizapps.add-business-process-flow.badge 
+  uid: learn-bizapps.add-business-process-flow.badge

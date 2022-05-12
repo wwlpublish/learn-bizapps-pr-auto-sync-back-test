@@ -28,6 +28,9 @@ roles:
 products:
 - power-apps
 - power-platform
+subjects:
+- custom-app-development
+- data-modeling
 units:
 - learn.wwl.how-to-build-model-driven-app.introduction-model-driven-apps
 - learn.wwl.how-to-build-model-driven-app.model-driven-apps

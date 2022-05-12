@@ -28,6 +28,8 @@ roles:
 products:
 - power-automate
 - power-platform
+subjects:
+- process-workflow
 units:
 - learn-bizapps.create-immersive-flow.1-introduction
 - learn-bizapps.create-immersive-flow.2-immersive-flow

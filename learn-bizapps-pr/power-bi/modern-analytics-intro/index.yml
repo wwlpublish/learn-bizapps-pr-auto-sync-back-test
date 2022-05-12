@@ -28,7 +28,10 @@ roles:
 products: 
 - power-platform
 - power-bi 
-units: 
+subjects:
+- data-analytics
+- data-visualization
+units:
 - learn-bizapps.modern-analytics-intro.1-introduction 
 - learn-bizapps.modern-analytics-intro.2-benefits
 - learn-bizapps.modern-analytics-intro.3-ecosystem 
@@ -37,4 +40,4 @@ units:
 - learn-bizapps.modern-analytics-intro.6-check
 - learn-bizapps.modern-analytics-intro.7-summary
 badge: 
-  uid: learn-bizapps.modern-analytics-intro.badge 
+  uid: learn-bizapps.modern-analytics-intro.badge

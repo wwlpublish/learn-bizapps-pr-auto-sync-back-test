@@ -34,10 +34,12 @@ roles:
 products: 
 - power-apps
 - power-bi 
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.power-bi-embedded-automate.introduction 
 - learn-bizapps.power-bi-embedded-automate.workspace-separation 
 - learn-bizapps.power-bi-embedded-automate.check 
 - learn-bizapps.power-bi-embedded-automate.summary 
 badge: 
-  uid: learn-bizapps.power-bi-embedded-automate.badge 
+  uid: learn-bizapps.power-bi-embedded-automate.badge

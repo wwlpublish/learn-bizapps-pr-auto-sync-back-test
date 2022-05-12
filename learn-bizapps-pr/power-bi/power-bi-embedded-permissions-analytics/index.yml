@@ -38,7 +38,9 @@ roles:
 products: 
 - power-apps
 - power-bi 
-units: 
+subjects:
+- information-protection-governance
+units:
 - learn-bizapps.power-bi-embedded-permissions-analytics.introduction 
 - learn-bizapps.power-bi-embedded-permissions-analytics.security 
 - learn-bizapps.power-bi-embedded-permissions-analytics.datasets 
@@ -47,4 +49,4 @@ units:
 - learn-bizapps.power-bi-embedded-permissions-analytics.check 
 - learn-bizapps.power-bi-embedded-permissions-analytics.summary 
 badge: 
-  uid: learn-bizapps.power-bi-embedded-permissions-analytics.badge 
+  uid: learn-bizapps.power-bi-embedded-permissions-analytics.badge

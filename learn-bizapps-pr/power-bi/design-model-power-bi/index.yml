@@ -27,7 +27,10 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- custom-app-development
+- data-modeling
+units:
 - learn-bizapps.design-model-power-bi.1-introduction 
 - learn-bizapps.design-model-power-bi.2-tables 
 - learn-bizapps.design-model-power-bi.3-date-table 
@@ -40,4 +43,4 @@ units:
 - learn-bizapps.design-model-power-bi.10-check 
 - learn-bizapps.design-model-power-bi.11-summary 
 badge: 
-  uid: learn-bizapps.design-model-power-bi.badge 
+  uid: learn-bizapps.design-model-power-bi.badge

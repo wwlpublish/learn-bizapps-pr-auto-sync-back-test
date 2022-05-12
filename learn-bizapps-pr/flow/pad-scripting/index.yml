@@ -27,7 +27,9 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.pad-scripting.1-introduction 
 - learn-bizapps.pad-scripting.2-scripting-actions 
 - learn-bizapps.pad-scripting.3-exercise-vbscript 
@@ -35,4 +37,4 @@ units:
 - learn-bizapps.pad-scripting.5-check-knowledge 
 - learn-bizapps.pad-scripting.6-summary 
 badge: 
-  uid: learn-bizapps.pad-scripting.badge 
+  uid: learn-bizapps.pad-scripting.badge

@@ -27,6 +27,8 @@ products:
 - power-platform
 - power-apps
 - common-data-service
+subjects:
+- custom-app-development
 units:
 - learn-bizapps.connect-filter-data.1-introduction
 - learn-bizapps.connect-filter-data.2-add-controls

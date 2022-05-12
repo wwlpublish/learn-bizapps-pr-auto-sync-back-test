@@ -34,6 +34,8 @@ roles:
 products:
 - power-platform
 - power-bi
+subjects:
+- data-management
 units:
 - learn-bizapps.power-bi-embedded-permissions-content.introduction
 - learn-bizapps.power-bi-embedded-permissions-content.create-azure-registration
