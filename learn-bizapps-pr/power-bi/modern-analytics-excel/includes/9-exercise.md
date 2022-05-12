@@ -34,12 +34,12 @@ In this task, you will create a new Pivot Table workspace connected to a publish
 
 1.  Choose **PivotTable** > **From Power BI**.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Insert tab with PivotTable button and From Power BI displayed.](../media/pivot-table-button.png)](../media/pivot-table-button.png#lightbox)
 
 1.  If you have many published Data Sets, you can use the **Search** option to type in "Lab", then select the **MAIAD Lab 03 - Power BI Model** data set from the available data set options.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Power BI Datasets window.](../media/datasets-window.png)](../media/datasets-window.png#lightbox)
 
 1.  Notice you have a new Pivot Table workspace and the PivotTable Fields with Measure and Field tables.
@@ -47,13 +47,13 @@ In this task, you will create a new Pivot Table workspace connected to a publish
 	> [!NOTE]
 	> Measure tables are identified by the summation icon. This behaviour occurs when Excel connects to a Power BI data set. All Measures that can ONLY go into the Values of the PivotTable Fields will be in located in the summation icon table name. And any of the columns or calculated columns that are used for Filters, Columns, or Rows are located in a table icon of the same name.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of New Excel workbook connected to MAIAD Lab 03 in the Power BI service displaying new Pivot Table workspace and PivotTable Fields.](../media/workbook-connected.png)](../media/workbook-connected.png#lightbox)
 
 	> [!NOTE]
 	> On the right-hand side of the PivotTable Fields window, notice the icons that allow you to toggle the window between Power BI Datasets or PivotTable Fields.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of PivotTable Fields close-up showing the Power BI Datasets and PivotTable Fields icons.](../media/pivot-table-fields-icon.png)](../media/pivot-table-fields-icon.png#lightbox)
 
 ### Task 3: Add Measures to the PivotTable Fields Values
@@ -62,7 +62,7 @@ In this task, you will populate the PivotTable with Measure fields from the Powe
 
 1.  From the **Contracts** measure table, drag the [Raw MRR per Office] measure to the **Values** section in the PivotTable Fields List.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of PivotTable Fields with measure in the Values.](../media/measure-values.png)](../media/measure-values.png#lightbox)
 
 ### Task 4: Add Fields to the PivotTable Fields Rows
@@ -74,12 +74,12 @@ In this task, you will populate the PivotTable with Lookup fields from the Power
 	> [!NOTE]
 	> Lookup field tables are identified by the table with fields icon.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of PivotTable Fields window displaying the fields in the Rows.](../media/fields-rows.png)](../media/fields-rows.png#lightbox)
 
 1.  From the **Dates** field table, drag the [Year] field to the **Columns** section in the PivotTable Fields List.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Excel workbook showing the Year in Columns and Pivot Table results.](../media/year-results.png)](../media/year-results.png#lightbox)
 
 ### Task 5: Add Slicers
@@ -109,7 +109,7 @@ In this task, you will insert blank Rows and Columns to make space for the Slice
 
 1. Right-click on Column A to resize the Column Width to 1.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Worksheet displaying column width of A to 1.](../media/column-width.png)](../media/column-width.png#lightbox)
 
 1. Right-click in Row 1 and **Insert 1 blank row** above the Pivot Table.
@@ -122,12 +122,12 @@ In this task, you will insert blank Rows and Columns to make space for the Slice
 
 1. Change the Slicer Buttons number of Columns to 3.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Slicer tab options and Buttons options.](../media/slicer.png)](../media/slicer.png#lightbox)
 
 1. Change the Slicer Style color to **Dark Blue**.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Slicer tab options and Slicer Styles.](../media/slicer-options.png)](../media/slicer-options.png#lightbox)
 
 1. Drag the **Segment slicer** above the Pivot Table and to the right of the Company Size slicer.
@@ -138,7 +138,7 @@ In this task, you will insert blank Rows and Columns to make space for the Slice
 
 1. Change the Color to **Dark Blue**.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Worksheet displaying re-positioning of Slicers.](../media/reposition.png)](../media/reposition.png#lightbox)
 
 ### Task 7: Add Report Title & Format Pivot Table
@@ -151,7 +151,7 @@ In this task, you will add a title for the Report and apply final formatting to 
 
 1. In cell C7, enter the Pivot Table column title **By Year**.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Worksheet with Report Title and Pivot Table Rows and Column Headings.](../media/title-rows-headings.png)](../media/title-rows-headings.png#lightbox)
 
 1. Click in the Pivot Table to make it active.
@@ -162,7 +162,7 @@ In this task, you will add a title for the Report and apply final formatting to 
 
 1. With the Columns C to J still highlighted, select the **Center** Alignment from the Home tab on the Main ribbon menu.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Home tab with Center Alignment.](../media/center.png)](../media/center.png#lightbox)
 
 1. Expand the Segment Slicer so that each of the values is fully visible to the end user.
@@ -171,7 +171,7 @@ In this task, you will add a title for the Report and apply final formatting to 
 
 1. From the Layout & Format tab, de-select the **Autofit column widths on update** checkbox.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Autofit column widths on update check-box.](../media/autofit.png)](../media/autofit.png#lightbox)
 
 ## Exercise 2: Add Sparklines 
@@ -184,31 +184,31 @@ In this task, you will create a Sparkline chart, combining features in Excel wit
 
 1. Position your cursor in cell **K9** then choose **Insert** from the main ribbon menu and select the **Line** button.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Insert menu options with Line button in Sparklines.](../media/sparklines.png)](../media/sparklines.png#lightbox)
 
 1. Enter the Data Range for the **Central Region** and the Years 2013 to 2017 (D9:H9). Then select the **OK** button.
 
 1. From the Sparkline menu options, select the **Sparkline Color drop down** and change to **Green, Accent 6**.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Sparkline menu with Sparkline Color palette displayed.](../media/sparkline-color.png)](../media/sparkline-color.png#lightbox)
 
 1. From the Sparkline menu options, select the **Marker Color drop down** and add a **Green, Accent 6** High Point. Then add a **Dark Red** Low Point.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Marker Color Low Point set to Dark Red.](../media/dark-red.png)](../media/dark-red.png#lightbox)
 
 1. In Column K, copy/paste the Sparkline for each of the Region rows.
 
 1. In cell K8, enter the title **Completed Year Trend**.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Column K with Sparkline Charts.](../media/charts.png)](../media/charts.png#lightbox)
 
 1. Hold the **CTRL** key and highlight each of the Region rows (9, 13, 16, 19, and 23) and then with a right-click, select the **Row Height**... and change to 20.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of Pivot Table with Region Rows highlighted and Row Height changed to 20.](../media/row-height.png)](../media/row-height.png#lightbox)
 
 ### Task 2: Final Formatting
@@ -219,12 +219,12 @@ In this task, you will create a final polished report by removing the Excel Head
 
 1. De-select the **Formula Bar**, **Headings**, and **Gridlines** check boxes.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of View menu with Formula Bar, Gridlines and Headings options de-selected.](../media/view-menu.png)](../media/view-menu.png#lightbox)
 
 1. Select the Pivot Table and use a **right-click** to display the **PivotTable Options** and de-select the **Autofit column widths on update check box**. This will keep the Pivot Table column widths when slicers are selected.
 
-	> [!div class="mx-imgBorder"]
+	> 
 	> [![Screenshot of PivotTable Options window.](../media/pivot-table-options-window.png)](../media/pivot-table-options-window.png#lightbox)
 
 ### Task 3: Save the Excel file
@@ -239,6 +239,6 @@ In this task, you will save the Excel file.
 
 In this exercise, you started in the Excel application and connected to a published data set in the Power BI service to create a Pivot Table with Slicers and Sparkline charts, demonstrating how Excel + Power BI is used better together!
 
-> [!div class="mx-imgBorder"]
+> 
 > [![Screenshot of Completed Lab 04 solution.](../media/completed-lab.png)](../media/completed-lab.png#lightbox)
 
