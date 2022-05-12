@@ -1,4 +1,4 @@
-An active Azure subscription is required in your Microsoft 365 tenant to activate certain Microsoft Cloud for Retail components. This module explains the steps for obtaining a free trial Azure subscription and creating a resource group that you'll use in subsequent labs.
+An active Azure subscription is required in your Microsoft 365 tenant to activate certain Microsoft Cloud for Retail components. This module explains the steps to obtain a free trial Azure subscription and create a resource group that you'll use in subsequent labs.
 
 > [!NOTE]
 > The Azure Terms of Use agreement limits free trial activation only for a user who's new to Azure. If you've already had any other type of Azure subscription, you won't be able to activate a free trial.
@@ -69,9 +69,9 @@ In this task, you'll create a resource group to use in subsequent labs.
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Create a resource group dialog, showing Validation passed.](../media/validation.png)
 
-1. Select **Refresh** from the upper menu to refresh the resource group list, and then select the newly created resource group to open it. Alternatively, select **Notifications** (the bell icon) from the upper menu and then select **Go to resource group** to open the newly created resource group.
+1. Select **Refresh** from the top menu to refresh the resource group list, and then select the newly created resource group to open it. Or select **Notification** (the bell icon) from the top and then select **Go to resource group** to open the newly created resource group.
 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Notifications dropdown menu, showing the Go to resource group option.](../media/notifications.png)
 
-Congratulations, you've successfully created a resource group in your Azure subscription. You'll use this resource group when creating Azure resources, such as Microsoft Azure Blob Storage.
+Congratulations! You've successfully created a resource group in your Azure subscription. You'll use this resource group when creating Azure resources, such as the Azure Blob storage.
