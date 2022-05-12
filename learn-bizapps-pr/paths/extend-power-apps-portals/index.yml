@@ -11,6 +11,7 @@ metadata:
 title: Extend Power Apps portals
 summary: |
   [!include[](../../includes/lp-banner.md)]
+  [!include[](../../includes/power-pages-banner.md)]
   The ability to easily surface and interact with Microsoft Dataverse data on an externally facing web site is the core benefit for implementing a Power Apps portal. This learning path describes how to transform a content portal into a full web app interacting with Dataverse. We will also cover the options available to customizers and developers to extend the portal functionality and integrate with Office 365, Microsoft Power Platform, and Azure components. 
 prerequisites: |
   - Power Apps trial subscription.

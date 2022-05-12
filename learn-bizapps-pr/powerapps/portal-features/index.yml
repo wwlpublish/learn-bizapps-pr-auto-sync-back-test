@@ -11,6 +11,7 @@ metadata:
 title: Discover Power Apps portals features 
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   Power Apps portals provide a common set of core features to app makers to build powerful portal applications. Numerous Power Apps features map directly to Microsoft Dynamics 365 apps that are specific to particular business requirements and external audiences. Other Dynamics 365 applications, such as Marketing and Supply Chain Management, also use components of portals or alternate technologies. 
 abstract: |  
     In this module, you will: 

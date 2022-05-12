@@ -11,6 +11,7 @@ metadata:
 title: Power Apps portals maintenance and troubleshooting
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   When building a Microsoft Power Apps portal, administrators should consider various techniques, best practices, and features. This module will cover the various troubleshooting tools that are available and explain the importance of using the Portal Checker tool.
 abstract: |  
     In this module, you will: 
