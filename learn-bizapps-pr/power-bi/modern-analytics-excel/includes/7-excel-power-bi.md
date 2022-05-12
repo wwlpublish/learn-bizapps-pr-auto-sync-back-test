@@ -1,7 +1,5 @@
 Excel is a great application by itself. However, when you use Excel together with Power BI, it becomes even better. Not every report or analysis needs to be in Power BI, and you don't have to choose one and exclude the other. Excel will inherit all of Power BI's sensitivity, certified, and promoted labels, so you can work with confidence that your data is accessible only to authorized users.
 
-![Diagram for Power BI integration with Excel.](../media/powerbi_integration_with_excel.png#lightbox)
-
 ## Excel key strengths
 
 Excel is a powerful, familiar application that is used by millions worldwide for data collection, sorting, analysis, budgeting, management, and most commonly, for reporting.
@@ -11,13 +9,9 @@ Excel is a powerful, familiar application that is used by millions worldwide for
 Great reasons to use Excel are:
 
 -   When you're learning
-
 -   When you're performing one-off analysis
-
 -   In intensive accounts/finance roles
-
 -   When you need specific Excel features and a grid canvas
-
 -   Cube formulas, PivotTables, Sparklines, and Pivot Charts
 
 ## Power BI key strengths
@@ -29,13 +23,9 @@ Power BI is more modern. It offers custom visuals, is interactive, provides data
 Compelling reasons to use Power BI include the ability to:
 
 -   Create data models.
-
 -   Share with a consumer audience.
-
 -   Provide or have polished and interactive experiences.
-
 -   Have it available when you need Power BI features.
-
 -   Use visuals, bookmarks, RLS, mobile, and more.
 
 ## Excel together with Power BI complete cycle
