@@ -25,6 +25,8 @@ roles:
 products:
 - power-platform
 - power-bi
+subjects:
+- data-analytics
 modules:
 - learn-bizapps.power-bi-embedded-intro
 - learn-bizapps.power-bi-embedded-select

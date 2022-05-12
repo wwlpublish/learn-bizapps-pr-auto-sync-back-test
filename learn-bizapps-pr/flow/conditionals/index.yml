@@ -30,7 +30,9 @@ roles:
 products:  
 - power-platform
 - power-automate
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.conditionals.1-introduction 
 - learn-bizapps.conditionals.2-conditional-actions 
 - learn-bizapps.conditionals.3-if-group-actions 
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.conditionals.6-check 
 - learn-bizapps.conditionals.7-summary 
 badge: 
-  uid: learn-bizapps.conditionals.badge 
+  uid: learn-bizapps.conditionals.badge

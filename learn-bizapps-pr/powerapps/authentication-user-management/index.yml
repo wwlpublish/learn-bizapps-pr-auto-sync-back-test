@@ -31,7 +31,9 @@ roles:
 products:  
 - power-platform  
 - power-apps 
-units: 
+subjects:
+- identity-access
+units:
 - learn-bizapps.authentication-user-management.1-introduction 
 - learn-bizapps.authentication-user-management.2-authentication-settings 
 - learn-bizapps.authentication-user-management.3-user-registration 
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.authentication-user-management.7-check 
 - learn-bizapps.authentication-user-management.8-summary 
 badge: 
-  uid: learn-bizapps.authentication-user-management.badge 
+  uid: learn-bizapps.authentication-user-management.badge

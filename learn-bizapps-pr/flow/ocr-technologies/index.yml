@@ -29,11 +29,13 @@ roles:
 products:  
 - power-automate  
 - power-platform 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.ocr-technologies.1-introduction 
 - learn-bizapps.ocr-technologies.2-ocr-actions 
 - learn-bizapps.ocr-technologies.3-exercise 
 - learn-bizapps.ocr-technologies.4-check-knowledge 
 - learn-bizapps.ocr-technologies.5-summary 
 badge: 
-  uid: learn-bizapps.ocr-technologies.badge 
+  uid: learn-bizapps.ocr-technologies.badge

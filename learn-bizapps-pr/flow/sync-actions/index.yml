@@ -30,11 +30,13 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.sync-actions.1-introduction 
 - learn-bizapps.sync-actions.2-sync-actions 
 - learn-bizapps.sync-actions.3-exercise 
 - learn-bizapps.sync-actions.4-check-knowledge 
 - learn-bizapps.sync-actions.5-summary 
 badge: 
-  uid: learn-bizapps.sync-actions.badge 
+  uid: learn-bizapps.sync-actions.badge

@@ -32,7 +32,10 @@ roles:
 products:  
 - power-platform  
 - power-apps 
-units: 
+subjects:
+- custom-app-development
+- security
+units:
 - learn-bizapps.configure-security.1-introduction 
 - learn-bizapps.configure-security.2-secure-static-content 
 - learn-bizapps.configure-security.3-entity-permissions 
@@ -40,4 +43,4 @@ units:
 - learn-bizapps.configure-security.5-check 
 - learn-bizapps.configure-security.6-summary 
 badge: 
-  uid: learn-bizapps.configure-security.badge 
+  uid: learn-bizapps.configure-security.badge

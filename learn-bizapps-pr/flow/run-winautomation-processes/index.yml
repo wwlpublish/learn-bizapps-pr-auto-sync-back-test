@@ -33,7 +33,9 @@ roles:
 products:  
 - power-platform
 - power-automate
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.run-winautomation-processes.1-introduction 
 - learn-bizapps.run-winautomation-processes.2-run-process-console 
 - learn-bizapps.run-winautomation-processes.3-configure-automatic-process-runs
@@ -42,4 +44,4 @@ units:
 - learn-bizapps.run-winautomation-processes.6-check-your-knowledge 
 - learn-bizapps.run-winautomation-processes.7-summary 
 badge: 
-  uid: learn-bizapps.winautomation-execution-essentials.badge 
+  uid: learn-bizapps.winautomation-execution-essentials.badge

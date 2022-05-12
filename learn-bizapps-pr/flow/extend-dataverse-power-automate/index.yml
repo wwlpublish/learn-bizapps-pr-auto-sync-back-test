@@ -28,7 +28,9 @@ products:
 - power-platform
 - power-automate
 - common-data-service
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.extend-dataverse-power-automate.1-introduction 
 - learn-bizapps.extend-dataverse-power-automate.2-set-up-flow-trigger 
 - learn-bizapps.extend-dataverse-power-automate.3-email-dataverse-record 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.extend-dataverse-power-automate.6-check 
 - learn-bizapps.extend-dataverse-power-automate.7-summary 
 badge: 
-  uid: learn-bizapps.extend-dataverse-power-automate.badge 
+  uid: learn-bizapps.extend-dataverse-power-automate.badge

@@ -28,6 +28,8 @@ roles:
 products:
 - industry-solutions
 - mscloud-healthcare
+subjects:
+- modern-work
 units:
 - learn-bizapps.azure-health-bot.1-introduction
 - learn-bizapps.azure-health-bot.2-azure-health-bot

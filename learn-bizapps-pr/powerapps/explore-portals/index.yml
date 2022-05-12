@@ -31,7 +31,9 @@ roles:
 products:    
 - power-apps 
 - power-platform
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.explore-portals.1-introduction
 - learn-bizapps.explore-portals.2-community 
 - learn-bizapps.explore-portals.3-customer 
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.explore-portals.7-check 
 - learn-bizapps.explore-portals.8-summary 
 badge: 
-  uid: learn-bizapps.explore-portals.badge 
+  uid: learn-bizapps.explore-portals.badge

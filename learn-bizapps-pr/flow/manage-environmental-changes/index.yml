@@ -30,7 +30,9 @@ products:
 - power-automate  
 - power-platform
 - power-apps
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.manage-environmental-changes.1-intro-best-practices 
 - learn-bizapps.manage-environmental-changes.2-prerequisites 
 - learn-bizapps.manage-environmental-changes.3-implement-best-practices 
@@ -40,4 +42,4 @@ units:
 - learn-bizapps.manage-environmental-changes.7-check 
 - learn-bizapps.manage-environmental-changes.8-summary 
 badge: 
-  uid: learn-bizapps.manage-environmental-changes.badge 
+  uid: learn-bizapps.manage-environmental-changes.badge

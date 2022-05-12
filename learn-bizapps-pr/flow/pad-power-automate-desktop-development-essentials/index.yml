@@ -32,7 +32,9 @@ roles:
 products:  
 - power-platform
 - power-automate
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.pad-power-automate-desktop-development-essentials.1-introduction 
 - learn-bizapps.pad-power-automate-desktop-development-essentials.2-creating-flow-designer 
 - learn-bizapps.pad-power-automate-desktop-development-essentials.3-create-conditionals-loops 
@@ -43,4 +45,4 @@ units:
 - learn-bizapps.pad-power-automate-desktop-development-essentials.8-check 
 - learn-bizapps.pad-power-automate-desktop-development-essentials.9-summary 
 badge: 
-  uid: learn-bizapps.pad-power-automate-desktop-development-essentials.badge 
+  uid: learn-bizapps.pad-power-automate-desktop-development-essentials.badge

@@ -24,11 +24,13 @@ roles:
 - administrator   
 products: 
 - industry-solutions 
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.cloud-licensing.1-introduction 
 - learn-bizapps.cloud-licensing.2-licensing 
 - learn-bizapps.cloud-licensing.3-prerequisites-deployment 
 - learn-bizapps.cloud-licensing.4-check 
 - learn-bizapps.cloud-licensing.5-summary 
 badge: 
-  uid: learn-bizapps.cloud-licensing.badge 
+  uid: learn-bizapps.cloud-licensing.badge

@@ -33,11 +33,13 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.active-directory.1-introduction 
 - learn-bizapps.active-directory.2-active-directory-actions 
 - learn-bizapps.active-directory.3-exercise 
 - learn-bizapps.active-directory.4-check-knowledge 
 - learn-bizapps.active-directory.5-summary 
 badge: 
-  uid: learn-bizapps.active-directory.badge 
+  uid: learn-bizapps.active-directory.badge

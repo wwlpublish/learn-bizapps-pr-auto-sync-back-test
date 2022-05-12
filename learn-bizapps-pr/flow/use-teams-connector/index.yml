@@ -28,7 +28,10 @@ roles:
 products: 
 - power-platform
 - power-automate 
-units: 
+subjects:
+- business-applications
+- modern-work
+units:
 - learn-bizapps.use-teams-connector.1-introduction 
 - learn-bizapps.use-teams-connector.2-existing-solution 
 - learn-bizapps.use-teams-connector.3-create-approval 
@@ -38,4 +41,4 @@ units:
 - learn-bizapps.use-teams-connector.7-check 
 - learn-bizapps.use-teams-connector.8-summary 
 badge: 
-  uid: learn-bizapps.use-teams-connector.badge 
+  uid: learn-bizapps.use-teams-connector.badge

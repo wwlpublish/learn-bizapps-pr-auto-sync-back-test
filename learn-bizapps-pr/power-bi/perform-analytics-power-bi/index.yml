@@ -32,7 +32,9 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.perform-analytics-power-bi.1-introduction 
 - learn-bizapps.perform-analytics-power-bi.2-statistical-summary 
 - learn-bizapps.perform-analytics-power-bi.3-visuals 
@@ -46,4 +48,4 @@ units:
 - learn-bizapps.perform-analytics-power-bi.11-check 
 - learn-bizapps.perform-analytics-power-bi.12-summary 
 badge: 
-  uid: learn-bizapps.perform-analytics-power-bi.badge 
+  uid: learn-bizapps.perform-analytics-power-bi.badge
