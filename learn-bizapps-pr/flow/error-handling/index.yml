@@ -28,11 +28,13 @@ roles:
 products: 
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.error-handling.1-introduction 
 - learn-bizapps.error-handling.2-configure-run-after 
 - learn-bizapps.error-handling.3-analytics 
 - learn-bizapps.error-handling.4-check 
 - learn-bizapps.error-handling.5-summary 
 badge: 
-  uid: learn-bizapps.error-handling.badge 
+  uid: learn-bizapps.error-handling.badge

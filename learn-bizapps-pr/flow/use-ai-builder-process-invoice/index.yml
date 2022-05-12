@@ -28,7 +28,10 @@ roles:
 products: 
 - power-platform
 - power-automate 
-units: 
+subjects:
+- artificial-intelligence
+- process-workflow
+units:
 - learn-bizapps.use-ai-builder-process-invoice.1-introduction 
 - learn-bizapps.use-ai-builder-process-invoice.2-set-up 
 - learn-bizapps.use-ai-builder-process-invoice.3-form-process-flow 
@@ -38,4 +41,4 @@ units:
 - learn-bizapps.use-ai-builder-process-invoice.7-check 
 - learn-bizapps.use-ai-builder-process-invoice.8-summary 
 badge: 
-  uid: learn-bizapps.use-ai-builder-process-invoice.badge 
+  uid: learn-bizapps.use-ai-builder-process-invoice.badge

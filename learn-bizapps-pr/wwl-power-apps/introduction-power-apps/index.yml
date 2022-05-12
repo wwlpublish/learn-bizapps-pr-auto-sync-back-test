@@ -27,6 +27,8 @@ roles:
 products:
 - power-apps
 - power-platform
+subjects:
+- productivity
 units:
 - learn-bizapps.wwl.introduction-power-apps.introduction
 - learn-bizapps.wwl.introduction-power-apps.power-platform-you

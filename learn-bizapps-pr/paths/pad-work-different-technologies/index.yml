@@ -25,6 +25,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- productivity
 modules:
 - learn-bizapps.pad-files-folders-handling
 - learn-bizapps.pad-web

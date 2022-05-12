@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.publish-share-power-bi 
 metadata: 
  title: Publish and share in Power BI
@@ -32,7 +32,9 @@ roles:
 products:  
 - power-platform
 - power-bi 
-units: 
+subjects:
+- data-visualization
+units:
 - learn-bizapps.publish-share-power-bi.1-introduction-content-packs 
 - learn-bizapps.publish-share-power-bi.2-publish-reports 
 - learn-bizapps.publish-share-power-bi.3-print-export-reports  
@@ -45,5 +47,4 @@ units:
 - learn-bizapps.publish-share-power-bi.12-check 
 - learn-bizapps.publish-share-power-bi.13-summary 
 badge: 
-  uid: learn-bizapps.publish-and-share-with-power-bi-desktop.badge 
-
+  uid: learn-bizapps.publish-and-share-with-power-bi-desktop.badge

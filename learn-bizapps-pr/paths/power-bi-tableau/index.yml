@@ -21,6 +21,8 @@ roles:
 - business-user
 products:
 - power-bi 
+subjects:
+- data-visualization
 modules:
 - learn-bizapps.power-bi-tableau-intro 
 - learn-bizapps.power-bi-tableau-data-connectivity

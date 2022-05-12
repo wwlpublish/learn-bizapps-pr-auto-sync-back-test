@@ -29,7 +29,9 @@ roles:
 products:    
 - power-bi
 - power-platform 
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.dax-power-bi-add-calculated-tables.1-introduction 
 - learn-bizapps.dax-power-bi-add-calculated-tables.2-calculated-columns 
 - learn-bizapps.dax-power-bi-add-calculated-tables.3-row-context 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.dax-power-bi-add-calculated-tables.5-check 
 - learn-bizapps.dax-power-bi-add-calculated-tables.6-summary 
 badge: 
-  uid: learn-bizapps.dax-power-bi-add-calculated-tables.badge 
+  uid: learn-bizapps.dax-power-bi-add-calculated-tables.badge

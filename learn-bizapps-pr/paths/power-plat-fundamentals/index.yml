@@ -22,6 +22,8 @@ products:
 - dynamics-365
 - dynamics-finance-operations
 - power-platform
+subjects:
+- productivity
 modules:
 - learn-bizapps.wwl.introduction-power-platform
 - learn-bizapps.wwl.introduction-common-data-service

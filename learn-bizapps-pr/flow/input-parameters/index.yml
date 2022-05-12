@@ -26,7 +26,9 @@ roles:
 products:  
 - power-platform
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.input-parameters.1-introduction 
 - learn-bizapps.input-parameters.2-set-up 
 - learn-bizapps.input-parameters.3-define-input-variable
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.input-parameters.7-check 
 - learn-bizapps.input-parameters.8-summary 
 badge: 
-  uid: learn-bizapps.input-parameters.badge 
+  uid: learn-bizapps.input-parameters.badge

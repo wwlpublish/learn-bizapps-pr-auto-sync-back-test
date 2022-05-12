@@ -26,6 +26,8 @@ roles:
 products:
 - industry-solutions
 - mscloud-retail
+subjects:
+- modern-work
 units:
 - learn-bizapps.cloud-retail-get-started.1-introduction
 - learn-bizapps.cloud-retail-get-started.2-unified-profiles

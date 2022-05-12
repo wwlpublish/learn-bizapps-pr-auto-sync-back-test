@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.how-to-build-ui-canvas-app 
 metadata: 
   title: How to build the UI in a canvas app in Power Apps
@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.how-to-build-ui-canvas-app.1-use-themes 
 - learn-bizapps.how-to-build-ui-canvas-app.2-branding-control 
 - learn-bizapps.how-to-build-ui-canvas-app.3-icons 
@@ -39,5 +41,4 @@ units:
 - learn-bizapps.how-to-build-ui-canvas-app.7-knowledge-check 
 - learn-bizapps.how-to-build-ui-canvas-app.8-summary 
 badge: 
-  uid: learn-bizapps.how-to-build-ui-canvas-app.badge 
-
+  uid: learn-bizapps.how-to-build-ui-canvas-app.badge

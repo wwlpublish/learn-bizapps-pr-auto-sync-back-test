@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.use-documentation 
 metadata: 
   title: Document and test your Power Apps application 
@@ -28,7 +28,9 @@ roles:
 products:  
 - dynamics-365
 - power-platform 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.use-documentation.01-create-test-plans 
 - learn-bizapps.use-documentation.02-user-interface-testing 
 - learn-bizapps.use-documentation.03-optimize-performance 
@@ -37,5 +39,4 @@ units:
 - learn-bizapps.use-documentation.05-knowledge-check 
 - learn-bizapps.use-documentation.06-summary 
 badge: 
-  uid: learn.use-documentation-power-platform.badge 
-
+  uid: learn.use-documentation-power-platform.badge
