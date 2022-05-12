@@ -1,64 +1,14 @@
-Seamless customer service capability relies on various components from Dynamics 365. To use this capability, you’ll need to obtain the following trial licenses:
+Microsoft Cloud for Retail capability relies on various components from Dynamics 365, Azure, and Microsoft 365. To use this capability, you’ll need to obtain the following trial licenses:
 
-- Dynamics 365 Customer Service Digital Messaging
+- Dynamics 365 Intelligent Order Management trial
 
-- Power Virtual Agents
+- Microsoft Office E5 trial
 
-- Dynamics 365 Commerce with e-Commerce
+- Microsoft Cloud for Retail add-on
 
-## Task 1: Obtain a Dynamics 365 e-commerce sandbox environment
+- Dynamics 365 Commerce trial
 
-Follow these steps to request a Dynamics 365 e-commerce sandbox environment that is required as part of the seamless customer service lab. A cost is associated with this environment, and the details are explained in [Discounted SKUs](https://isv360.blob.core.windows.net/public/Discounted%20SKUs.pdf/?azure-portal=true).
-
-1. Go to [Partner Sandbox License Request](https://experience.dynamics.com/requestlicense/?azure-portal=true).
-
-1. Fill in the required details and select **Dynamics 365 eCommerce and Cloud Scale Unit Partner Sandbox** for the license.
-
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Partner Sandbox License Request.](../media/partner.png)](../media/partner.png#lightbox)
-
-1. Select **Submit**.
-
-## Task 2: Obtain a Dynamics 365 Customer Service Digital Messaging add-on trial
-
-In this task, you’ll add the necessary add-on to deploy and use the Omnichannel administration app as part of the seamless customer service lab.
-
-1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/?azure-portal=true).
-
-1. Go to **Billing > Purchase services** and then select **Add-ons** under the **View by category** section. You can also use the search box. Find the Dynamics 365 Customer Service Digital Messaging add-on and then select **Details**.
-
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Purchase services page in the Microsoft 365 admin center.](../media/purchase.png)](../media/purchase.png#lightbox)
-
-1. Select **Start free trial**.
-
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Product details page for the Dynamics 365 Customer Service Digital Messaging add-on, showing the Start free trial option.](../media/messaging.png)
-
-1. Select **Try now**.
-
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of the confirm your order dialog, showing the Try now button.](../media/try-now.png)
-
-1. Select **Continue** to return to the admin center.
-
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of the order receipt dialog, showing the Continue button.](../media/continue.png)
-
-1. Assign the newly acquired Dynamics 365 Customer Service Digital Messaging add-on trial license to your user by going to **Users > Active users**. Select your user and then select **Manage product licenses**.
-
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Active users page in the Microsoft 365 admin center, showing the Manage product licenses option.](../media/manage-licenses.png)
-
-1. Select the **Dynamics 365 Customer Service Digital Messaging add-on** license checkbox and then select **Save changes**.
-
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Licenses and apps tab, showing the Customer Service Digital Messaging add-on license selected and the Save changes button highlighted.](../media/messaging-license.png)
-
-    > [!Important]
-    > It might take up to 24 hours for Omnichannel for Customer Service to become available in your Dynamics 365 apps after you’ve obtained the trial license.
-
-## Task 3: Obtain a Dynamics 365 Intelligent Order Management trial
+## Task 1: Obtain a Dynamics 365 Intelligent Order Management trial
 
 In this task, you'll add the necessary add-on to deploy and use the Intelligent Order Management app as part of the Intelligent Order Management lab.
 
@@ -74,7 +24,7 @@ In this task, you'll add the necessary add-on to deploy and use the Intelligent 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the product details for the Intelligent Order Management trial, showing the Start free trial button.](../media/start-trial-2.png)](../media/start-trial-2.png#lightbox)
 
-1.	Select **Try now**.
+1. Select **Try now**.
 
     > [!div class=”mx-imgBorder”]
     > ![Screenshot of the order confirmation, showing one-month term and the Try now button.](../media/try-now-2.png)
@@ -87,9 +37,9 @@ In this task, you'll add the necessary add-on to deploy and use the Intelligent 
 1. Assign the newly acquired Dynamics 365 Intelligent Order Management trial license to your user. Go to **Users > Active users**, select your user, and then select **Manage product licenses**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Active users page in the Microsoft 365 admin center, showing the Manage product licenses option highlighted.](../media/manage-licenses-2.png)
+    > ![Screenshot of the Active users page in the Microsoft 365 admin center, showing the Manage product licenses option highlighted.](../media/manage-licenses.png)
 
-1. Select the **Dynamics 365 Intelligent Order Management vTrial** license checkbox and then select **Save changes**.
+1. Select the **Dynamics 365 Intelligent Order Management vTrial** license checkbox and select **Save changes**.
 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Licenses and apps tab, showing the Intelligent Order Management V Trial checkbox selected.](../media/intelligent-license.png)
@@ -97,7 +47,7 @@ In this task, you'll add the necessary add-on to deploy and use the Intelligent 
     > [!Important]
     > It might take up to 24 hours for Dynamics 365 Intelligent Order Management to become available in your Dynamics 365 apps after you’ve obtained the trial license.
 
-## Task 4: Obtain a Microsoft Office E5 trial
+## Task 2: Obtain a Microsoft Office E5 trial
 
 In this task, you'll add the necessary Office 365 trial to use Outlook and Microsoft Teams in the later labs.
 
@@ -138,7 +88,7 @@ In this task, you'll add the necessary Office 365 trial to use Outlook and Micro
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Licenses and apps tab with Office 365 E5 selected.](../media/office-e-5-license.png)
 
-## Task 5: Obtain a Microsoft Cloud for Retail trial license
+## Task 3: Obtain a Microsoft Cloud for Retail trial license
 
 In this task, you'll request and add the Microsoft Cloud for Retail add-on to deploy and use the capabilities that it provides.
 
@@ -169,19 +119,96 @@ In this task, you'll request and add the Microsoft Cloud for Retail add-on to de
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the order receipt and confirmation number.](../media/continue-4.png)
 
-## Task 6: Deploy a Dynamics 365 e-commerce sandbox environment and enable Microsoft Power Platform integration
+## Task 4: Obtain and deploy Dynamics 365 Finance and Operations apps
 
-After you've procured the Dynamics 365 e-commerce partner sandbox SKU, follow these steps. The steps detail how to deploy a Dynamics 365 e-commerce sandbox environment and how to enable Microsoft Power Platform integration.
+In this task, we will obtain a trial license for Dynamics 365 Finance and Operations apps and create a new Dynamics 365 Finance and Operations and a linked Power Platform environment.
 
-1. To deploy a new environment, follow the steps that are mentioned in [Deploy a new environment - Finance and Operations apps](/dynamics365/fin-ops-core/dev-itpro/deployment/deployenvironment-newinfrastructure/?azure-portal=true).
+1. Copy and paste the URL from your email to add the Dynamics 365 Finance and Operations trial license in your tenant.
 
-    1. Select demo data. You'll use it in later modules.
+1. Sign in using the new Azure Active Directory credentials.
 
-    1. Enable Microsoft Power Platform integration during the deployment, as mentioned in [Enable the Microsoft Power Platform integration - Finance and Operations apps](/dynamics365/fin-ops-core/dev-itpro/power-platform/enable-power-platform-integration/?azure-portal=true). This step will create a new Microsoft Power Platform environment that you’ll use in the next task.
+1. Select **Yes, add it to my account**.
 
-1. After the environment has deployed, initialize the commerce scale unit, as mentioned in [Initialize Commerce Scale Unit (cloud) - Finance and Operations apps](/dynamics365/fin-ops-core/dev-itpro/deployment/initialize-retail-channels?azure-portal=true#initialize-commerce-scale-unit-as-part-of-a-new-environment-deployment).
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Dynamics 365 for Finance and Operations Preview trial showing "It looks like you already have an account."](../media/trial.png)
 
-## Task 7: Deploy Dynamics 365 apps
+1. Confirm the order so that the trial license is applied to your tenant.
+
+1. Sign in to [Lifecycle Services](https://lcs.dynamics.com/?azure-portal=true).
+
+1. Select **+** on the screen to create a new project and then select **Migrate, create solutions, and learn**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the New project screen showing Migrate, create solutions, and learn selected as the purpose of the project.](../media/migrate.png)](../media/migrate.png#lightbox)
+
+1. Provide the project details as in the screenshot below:
+
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Create a project screen filled in.](../media/create-project.png)
+
+1. You should then be able to see your project.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the MCR In a Day training showing environments and project tools.](../media/environments.png)](../media/environments.png#lightbox)
+
+1. Perform the steps mentioned in the link: [Complete the Azure Resource Manager onboarding process](/dynamics365/fin-ops-core/dev-itpro/deployment/arm-onboarding/?azure-portal=true).
+
+1. Open your LCS Project and then select **+** to deploy a new environment.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the MCR In a Day training showing the plus sign below environments.](../media/environments.png)](../media/environments.png#lightbox)
+
+1. Select the latest version of the environment (the version shown in the below screenshot is for illustration only) and then select **Next**.
+
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Select application and platform version screen.](../media/version.png)
+
+1. In the next step, select **DEMO** to create a demo environment.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Select environment topology page showing the DEMO topology.](../media/demo.png)](../media/demo.png#lightbox)
+
+1. Provide an environment name, select the **Environment Size** as **E8 V3**, and then select **Advanced Settings**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Deploy environment screen filled in.](../media/deploy.png)](../media/deploy.png#lightbox)
+
+1. To enable dual write and create a connected Power Platform environment, in the Advanced Settings, select the **Power Platform Integration** tab, and provide the values as mentioned below:
+
+    - **Configure Power Platform Environment**: Yes
+
+    - **Power Platform template**: Dynamics 365 standard template
+
+    - **Environment type**: SubscriptionBasedTrial
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Deployment settings screen showing the Power Platform Integration tab top part.](../media/deployment.png)](../media/deployment.png#lightbox)
+
+1. Select the **Agree** checkbox and then select **Done**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Deployment settings screen showing the Power Platform Integration tab bottom part.](../media/deployment-2.png)](../media/deployment-2.png#lightbox)
+
+1. Select **Deploy**. Lifecycle Services will then deploy a Dynamics 365 Finance and Operations Virtual Machine in the selected Azure subscription.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Are you sure you want to deploy dialog.](../media/deploy-2.png)](../media/deploy-2.png#lightbox)
+
+1. You will then notice that the environment deployment has been queued. The deployment might take four to eight hours.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the environment deployment queue.](../media/deploy-environment.png)](../media/deploy-environment.png#lightbox)
+
+1. Turn off the Dynamics 365 Finance and Operations Virtual Machine when not in use to avoid consuming Azure credit. Follow the steps below to turn off the Dynamics 365 Finance and Operations environment:
+
+    1. Select the environment in your Lifecycle Services project.
+
+    1. Select the **Stop** button to turn off the environment.
+
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of Lifecycle Services M C R in a day Manage environment screen showing the Stop button in the toolbar.](../media/stop.png)
+
+## Task 5: Deploy Dynamics 365 apps
 
 In this task, you'll install Dynamics 365 Intelligent Order Management on the newly created environment. These apps are required to do the Intelligent Order Management lab.
 
@@ -195,7 +222,7 @@ In this task, you'll install Dynamics 365 Intelligent Order Management on the ne
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Dynamics 365 apps page in the Microsoft Power Platform admin center, showing Dynamics 365 Intelligent Order Management Trial selected.](../media/dynamics-365-apps.png)
 
-1. Select your newly created trial environment from the dropdown menu, agree to the terms, and then select **Install**.
+1. Select your newly created trial environment (the Power Platform connected trial environment) from the dropdown menu, agree to the terms, and select **Install**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Install Dynamics 365 Intelligent Order Management Trial screen showing Customer Service Trial selected for the environment.](../media/install.png)](../media/install.png#lightbox)
@@ -211,48 +238,5 @@ In this task, you'll install Dynamics 365 Intelligent Order Management on the ne
     > ![Screenshot of the trial terms, showing the Install button.](../media/install-2.png)
 
 1. Track your installations on your environment's Dynamics 365 apps page. These installations will take several hours to complete.
-
-## Task 8: Set up Omnichannel for Customer Service
-
-In this task, you'll set up Omnichannel for Customer Service to deploy and use the Omnichannel for Customer Service application in the seamless customer service lab.
-
-1. Go to the [Microsoft Power Platform admin center](https://admin.powerplatform.microsoft.com/?azure-portal=true).
-
-1. Expand **Resources** on the left navigation bar and then select **Dynamics 365 apps**.
-
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of the navigation bar with Resources expanded to show Dynamics 365 apps.](../media/apps.png)
-
-1. Search for **Omni**, select **Omnichannel for Customer Service**, and then select **Manage**.
-
-    > [!Note]
-    > If the application doesn’t show, it might not yet be reflected after you’ve added the digital messaging add-on trial license in the previous exercise. It might take up to 24 hours to become available in the Dynamics 365 apps list.
-
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of the search results for omnichannel with Omnichannel for Customer Service selected and the Manage option highlighted.](../media/omnichannel.png)
-
-1. Select **OK** to go to the Omnichannel for Customer Service administration center.
-
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Manage Omnichannel for Customer Service dialog.](../media/manage.png)
-
-1. In the new window, select **+ Add environment**.
-
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of Dynamics 365 Administration Center Omnichannel showing the Add environment button.](../media/add-environment.png)
-
-1. Select your environment from the dropdown menu and then select **Next**.
-
-1. Under the **Chat** section, set the **Add chat** toggle to **Yes**.
-
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Omnichannel setup chat page with the Add chat toggle set to Yes.](../media/add-chat.png)
-
-1. Select **Next** all the way through to **Confirmation** and then select **Finish**. You only need to enable the chat channel for setup.
-
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Omnichannel setup confirmation page.](../media/confirmation-2.png)
-
-1. Select **Finish** to start the installation. The installation will take several hours to complete. When installation is finished, you can proceed to the next task.
 
 You successfully added the necessary trial licenses to your training environment. After they’ve finished installing, you can proceed to the next exercise to set up the remaining prerequisite applications and deploy Microsoft Cloud for Retail.
