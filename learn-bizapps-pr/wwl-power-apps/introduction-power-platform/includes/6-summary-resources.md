@@ -9,15 +9,15 @@ Now that you have reviewed this module, you should be able to:
 - Understand and explain the value of using Microsoft Power Platform to create business solutions
 
 ## Key takeaways
-| | |
+<!--| | |
 | - | - |
-| ![Icon of lightbulb](../media/key-takeaway.png) | Here are the five key takeaways: |
-| | 1. Microsoft Power Platform is a system that enables users to do three key actions on data that help them drive business: gain insights from data (Analyze), drive intelligent business processes via apps they build (Act), and automate business processes (Automate). |
-| | 2. Power BI helps you analyze and visualize data on a unified platform with data from internal and external sources. |
-| | 3. Power Apps helps you build and deploy customized apps that work across web and mobile, embedded or standalone, on any device. |
-| | 4. Connectors are bridges that allow you to send information from your data source to your app or workflow and back. |
-| | 5. Power Automate helps you create automation workflows, from simple to advanced scenarios. |
+| ![Icon of lightbulb](../media/key-takeaway.png) | Here are the five key takeaways: |-->
 
+1. Microsoft Power Platform is a system that enables users to do three key actions on data that help them drive business: gain insights from data (Analyze), drive intelligent business processes via apps they build (Act), and automate business processes (Automate).
+2. Power BI helps you analyze and visualize data on a unified platform with data from internal and external sources.
+3. Power Apps helps you build and deploy customized apps that work across web and mobile, embedded or standalone, on any device.
+4. Connectors are bridges that allow you to send information from your data source to your app or workflow and back.
+5. Power Automate helps you create automation workflows, from simple to advanced scenarios.
 
 ## Resources
 
