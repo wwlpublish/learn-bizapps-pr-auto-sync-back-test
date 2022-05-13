@@ -17,7 +17,7 @@ Security roles control a user's access to data through a set of access levels an
 
 One or more security roles must be assigned to the app. The apps that users can use depend on the security roles they are assigned to.
 
-The following predefined roles are available with a Power Apps environment.Unless otherwise noted, all the privileges have global scope.
+The following predefined roles are available with a Power Apps environment. Unless otherwise noted, all the privileges have global scope.
 
 <!--| **ABOUT PREDEFINED SECURITY ROLES** |                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |-------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-->
