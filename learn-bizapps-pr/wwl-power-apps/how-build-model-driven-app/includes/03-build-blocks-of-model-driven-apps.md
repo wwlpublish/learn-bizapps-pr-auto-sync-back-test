@@ -26,7 +26,7 @@ The table below shows the user interface components which determine how users wi
 | Form | Forms include a set of data entry columns for a given table. A form can be used to create a new data row or edit an existing one. | Form designer |
 | View | Views define how a list of rows for a specific table appears in your app. A view defines the columns shown, the width of each column, the sorting behavior, and the default filters. | View designer |
 
-[![App designer and form designer](../media/user-interface-form.png)](../media/user-interface-form.png#lightbox)
+[![Screenshot of the Power Apps app designer and form designer windows, which is showing the available options in the user interface.](../media/user-interface-form.png)](../media/user-interface-form.png#lightbox)
 
 ## Logic
 
@@ -57,4 +57,4 @@ The visualization components determine what type of data and reporting the app w
 | Embedded Microsoft Power BI | Power BI adds embedded Power BI tiles and dashboards to your app. Power BI is a cloud-based service that provides business intelligence (BI) insight. | A combination of chart designer, dashboard designer, and Power BI |
 
 Some examples of visualizations in a model-driven app:
-[![Sample dashboard](../media/model-driven-visualizations.png)](../media/model-driven-visualizations.png#lighbox)
+[![Screenshot of the Power Apps window, which is showing a dashboard with a pie chart and bar graph as example visualizations.](../media/model-driven-visualizations.png)](../media/model-driven-visualizations.png#lighbox)

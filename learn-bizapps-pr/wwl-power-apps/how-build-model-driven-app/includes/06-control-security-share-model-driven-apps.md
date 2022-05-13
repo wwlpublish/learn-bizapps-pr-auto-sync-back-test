@@ -38,11 +38,11 @@ more security role(s) with the app, then assign the security role(s) to users.
 2. Select a model-driven app and click **Share**.
 3. Select the app then choose a security role from the list.
 
-    [![Select the app and the security role](../media/share-model-driven-app.png)](../media/share-model-driven-app.png#lightbox)
+    [![Screenshot of the Share Sales Hub dialog box, which shows that the Sales Hub item and the Share Apps app button are highlighted with red rectangles.](../media/share-model-driven-app.png)](../media/share-model-driven-app.png#lightbox)
 4. Search for a user
 5. Select the user, then select a role from the list.
 
-    [![Select a role from the list](../media/share-role-user.png)](../media/share-role-user.png#lightbox)
+    [![Screenshot of the Share Sales Hub dialog box, which shows that the People field, a user, and a role are highlighted with red rectangles.](../media/share-role-user.png)](../media/share-role-user.png#lightbox)
 6. Click **Share**.
 7. Share the link to your app by following the steps below.
 
@@ -55,4 +55,4 @@ more security role(s) with the app, then assign the security role(s) to users.
 2. Copy the **Unified Interface URL.**
 3. Paste the app URL in a location so that your users can access it, such as by posting it on a SharePoint site or sending via email.
 
-    ![Copy app URL](../media/copy-app-url.png)
+    ![Screenshot of the Properties tab, which shows that the Copy clipboard icon is highlighted with a red rectangle.](../media/copy-app-url.png)
