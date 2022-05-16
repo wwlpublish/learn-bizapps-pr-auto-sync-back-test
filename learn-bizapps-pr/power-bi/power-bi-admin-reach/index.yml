@@ -29,7 +29,9 @@ roles:
 products:  
 - power-platform 
 - power-bi 
-units: 
+subjects:
+- data-visualization
+units:
 - learn-bizapps.power-bi-admin-reach.1-introduction 
 - learn-bizapps.power-bi-admin-reach.2-rest-api-custom 
 - learn-bizapps.power-bi-admin-reach.3-embedded-capacity 
@@ -43,4 +45,4 @@ units:
 - learn-bizapps.power-bi-admin-reach.12-check 
 - learn-bizapps.power-bi-admin-reach.13-summary 
 badge: 
-  uid: learn-bizapps.power-bi-admin-reach.badge 
+  uid: learn-bizapps.power-bi-admin-reach.badge

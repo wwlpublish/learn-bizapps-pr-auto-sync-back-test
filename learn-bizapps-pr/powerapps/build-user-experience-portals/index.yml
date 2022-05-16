@@ -32,7 +32,9 @@ roles:
 products:  
 - power-platform  
 - power-apps 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.build-user-experience-portals.1-introduction 
 - learn-bizapps.build-user-experience-portals.2-multi-lingual 
 - learn-bizapps.build-user-experience-portals.3-reusable-content 
@@ -43,4 +45,4 @@ units:
 - learn-bizapps.build-user-experience-portals.8-check 
 - learn-bizapps.build-user-experience-portals.9-summary 
 badge: 
-  uid: learn-bizapps.build-user-experience-portals.badge 
+  uid: learn-bizapps.build-user-experience-portals.badge

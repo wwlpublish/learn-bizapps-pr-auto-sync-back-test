@@ -33,7 +33,10 @@ products:
 - power-bi
 - power-query
 - common-data-service
-units: 
+subjects:
+- artificial-intelligence
+- business-applications
+units:
 - learn-bizapps.architect-analytics.1-introduction
 - learn-bizapps.architect-analytics.2-report-capabilities
 - learn-bizapps.architect-analytics.3-power-bi
@@ -45,4 +48,3 @@ units:
 - learn-bizapps.architect-analytics.9-summary
 badge: 
   uid: learn-bizapps.architect-analytics.badge
-  

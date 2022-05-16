@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.custom-connectors 
 metadata: 
   title: Use custom connectors in a Power Apps canvas app
@@ -28,12 +28,13 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.custom-connectors.1-overview-custom-connectors 
 - learn-bizapps.custom-connectors.2-overview-custom-connector-lifecycle 
 - learn-bizapps.custom-connectors.3-use-postman 
 - learn-bizapps.custom-connectors.4-knowledge-check 
 - learn-bizapps.custom-connectors.5-summary 
 badge: 
-  uid: learn-bizapps.custom-connectors.badge 
-
+  uid: learn-bizapps.custom-connectors.badge

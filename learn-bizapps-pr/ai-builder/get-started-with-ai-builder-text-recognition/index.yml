@@ -36,7 +36,10 @@ products:
 - ai-builder
 - power-platform
 - power-automate
-units: 
+subjects:
+- business-applications
+- artificial-intelligence
+units:
 - learn-bizapps.get-started-with-ai-builder-text-recognition.1-introduction
 - learn-bizapps.get-started-with-ai-builder-text-recognition.2-solve-problems 
 - learn-bizapps.get-started-with-ai-builder-text-recognition.3-build-flow 
@@ -44,4 +47,4 @@ units:
 - learn-bizapps.get-started-with-ai-builder-text-recognition.4a-check 
 - learn-bizapps.get-started-with-ai-builder-text-recognition.5-summary 
 badge: 
-  uid: learn-bizapps.get-started-with-text-recognition.badge 
+  uid: learn-bizapps.get-started-with-text-recognition.badge

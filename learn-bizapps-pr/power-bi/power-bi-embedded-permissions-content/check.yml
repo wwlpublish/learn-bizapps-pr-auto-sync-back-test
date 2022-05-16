@@ -24,7 +24,7 @@ quiz:
     - content: Develop a PowerShell script.
       isCorrect: false
       explanation: Incorrect. While it's possible to develop a PowerShell script to create an Azure AD app registration, it's likely to be a time consuming and complex task.
-  - content: Kelly is a developer at Tailspin Toys who is responsible for developing an internal business intelligence portal. Employees will use the portal to view Power BI reports and paginated reports. Which type of authentication flow should Kelly use?
+  - content: Kelly is a developer at Tailspin Toys who is responsible for developing an internal business intelligence portal. Employees will use the portal to view Power BI reports and paginated reports. Which type of scenario should Kelly use?
     choices:
     - content: The *For your customers* scenario, using a master user account as the embedding identity.
       isCorrect: false
@@ -35,7 +35,7 @@ quiz:
     - content: The *For your organization* scenario.
       isCorrect: true
       explanation: Correct. An internal business intelligence portal should use the *For your organization* scenario because Tailspin Toys employees will use it.
-  - content: Jaxon is a developer at Tailspin Toys who is responsible for developing an app that embeds Power BI reports and paginated reports for business partners. The business partners don't belong to the Tailspin Toys organization. When possible, the security design should follow Azure AD recommendations. Which type of authentication flow should Jaxon use?
+  - content: Jaxon is a developer at Tailspin Toys who is responsible for developing an app that embeds Power BI reports and paginated reports for business partners. The business partners don't belong to the Tailspin Toys organization. When possible, the security design should follow Azure AD recommendations. Which type of scenario should Jaxon use?
     choices:
     - content: The *For your customers* scenario, using a master user account as the embedding identity.
       isCorrect: false

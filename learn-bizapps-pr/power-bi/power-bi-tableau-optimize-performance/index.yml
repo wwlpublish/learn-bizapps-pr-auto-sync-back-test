@@ -31,7 +31,9 @@ roles:
 products:  
 - power-platform  
 - power-bi 
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.power-bi-tableau-optimize-performance.1-introduction 
 - learn-bizapps.power-bi-tableau-optimize-performance.2-model-refresh-fuction 
 - learn-bizapps.power-bi-tableau-optimize-performance.3-model-calculation 
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.power-bi-tableau-optimize-performance.5-check 
 - learn-bizapps.power-bi-tableau-optimize-performance.6-summary 
 badge: 
-  uid: learn-bizapps.power-bi-tableau-optimize-performance.badge 
+  uid: learn-bizapps.power-bi-tableau-optimize-performance.badge

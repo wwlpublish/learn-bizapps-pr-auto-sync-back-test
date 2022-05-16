@@ -29,7 +29,9 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.dax-power-bi-modify-filter.1-introduction 
 - learn-bizapps.dax-power-bi-modify-filter.2-modify-filter-context 
 - learn-bizapps.dax-power-bi-modify-filter.3-filter-modifier-functions 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.dax-power-bi-modify-filter.6-check 
 - learn-bizapps.dax-power-bi-modify-filter.7-summary 
 badge: 
-  uid: learn-bizapps.dax-power-bi-modify-filter.badge 
+  uid: learn-bizapps.dax-power-bi-modify-filter.badge

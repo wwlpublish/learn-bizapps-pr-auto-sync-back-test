@@ -31,7 +31,9 @@ roles:
 products:    
 - power-automate
 - power-platform 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.button-without-user-input.1-intro-design-process 
 - learn-bizapps.button-without-user-input.2-trigger-token 
 - learn-bizapps.button-without-user-input.4-email-location
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.button-without-user-input.6-check 
 - learn-bizapps.button-without-user-input.7-summary 
 badge: 
-  uid: learn-bizapps.button-without-user-input.badge 
+  uid: learn-bizapps.button-without-user-input.badge

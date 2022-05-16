@@ -2,7 +2,7 @@
 uid: learn-bizapps.robotic-process-automation
 metadata: 
  title: "Solution architect series: Explore robotic process automation"
- description: Learn about Microsoft Power Automate Desktop and its capabilities.
+ description: Learn about Microsoft Power Automate for desktop and its capabilities.
  ms.date: 04/19/2021
  author: DaveBeasley
  ms.author: dbeasley  
@@ -11,12 +11,12 @@ metadata:
 title: "Solution architect series: Explore robotic process automation"
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  Robotic process automation helps with the automation of legacy applications. Solution architects are required to know the capabilities of Power Automate Desktop when they are integrating a Microsoft Power Platform solution. This module will explain Power Automate Desktop and its capabilities.
+  Robotic process automation helps with the automation of legacy applications. Solution architects are required to know the capabilities of Power Automate for desktop when they are integrating a Microsoft Power Platform solution. This module will explain Power Automate Desktop and its capabilities.
 abstract: |  
     In this module, you will:
     - Explore options for automation and how to choose where to start.
-    - Explore scenarios for Power Automate Desktop.
-    - Learn about the components for running Power Automate Desktop flows.
+    - Explore scenarios for Power Automate for desktop.
+    - Learn about the components for running Power Automate for desktop flows.
 prerequisites: Experience working on Microsoft Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer
 iconUrl: /learn/achievements/robotic-process-automation.svg  
 levels:  
@@ -26,7 +26,9 @@ roles:
 products:  
 - power-platform  
 - power-automate
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.robotic-process-automation.1-introduction
 - learn-bizapps.robotic-process-automation.2-pad
 - learn-bizapps.robotic-process-automation.3-tasks

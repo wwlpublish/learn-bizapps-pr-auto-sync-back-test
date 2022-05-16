@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.integrate-dataverse-power-automate
 metadata:
   title: Integrate Power Automate flows and Dataverse
@@ -25,9 +25,10 @@ products:
 - power-platform
 - power-automate
 - common-data-service
+subjects:
+- productivity
 modules:
 - learn-bizapps.dataverse-triggers-actions 
 - learn-bizapps.extend-dataverse-power-automate 
 trophy:
   uid: learn.integrate-dataverse-power-automate.trophy
-

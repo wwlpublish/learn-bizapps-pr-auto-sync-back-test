@@ -121,7 +121,7 @@ In this exercise, you will use Power Query to extract the First Name from the Co
 
 In this task, you will create a new column called **First Name** by using the **Add Column > Column from Examples** transformation to split the **Contact** by a delimiter.
 
-1. From the **Preview** grid, select the **Contacts** column.
+1. From the **Preview** grid, select the **Contact** column.
 
 1. Then choose from the **Add Column** Tab, the **Column from Examples** down arrow and the **From Selection** option.
 

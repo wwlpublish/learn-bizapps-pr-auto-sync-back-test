@@ -29,7 +29,9 @@ products:
 - power-platform 
 - power-bi 
 - common-data-service
-units: 
+subjects:
+- data-visualization
+units:
 - learn-bizapps.dataverse-teams-power-bi.1-introduction 
 - learn-bizapps.dataverse-teams-power-bi.2-connect-transform 
 - learn-bizapps.dataverse-teams-power-bi.3-create-report 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.dataverse-teams-power-bi.6-check 
 - learn-bizapps.dataverse-teams-power-bi.7-summary 
 badge: 
-  uid: learn-bizapps.dataverse-teams-power-bi.badge 
+  uid: learn-bizapps.dataverse-teams-power-bi.badge

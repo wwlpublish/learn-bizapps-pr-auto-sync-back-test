@@ -27,7 +27,10 @@ roles:
 products:  
 - power-apps 
 - power-platform
-units: 
+subjects:
+- custom-app-development
+- architecture
+units:
 - learn-bizapps.portals-architecture.1-introduction 
 - learn-bizapps.portals-architecture.2-provision 
 - learn-bizapps.portals-architecture.3-tools 
@@ -35,4 +38,4 @@ units:
 - learn-bizapps.portals-architecture.5-check 
 - learn-bizapps.portals-architecture.6-summary 
 badge: 
-  uid: learn-bizapps.portals-architecture.badge 
+  uid: learn-bizapps.portals-architecture.badge

@@ -30,11 +30,14 @@ products:
 - ai-builder 
 - power-platform
 - power-automate
-units: 
+subjects:
+- artificial-intelligence
+- business-applications
+units:
 - learn-bizapps.get-started-with-ai-builder-object-detection.1-introduction 
 - learn-bizapps.get-started-with-ai-builder-object-detection.2-create-model 
 - learn-bizapps.get-started-with-ai-builder-object-detection.3-use-model 
 - learn-bizapps.get-started-with-ai-builder-object-detection.4-check 
 - learn-bizapps.get-started-with-ai-builder-object-detection.5-summary 
 badge: 
-  uid: learn-bizapps.get-started-with-object-detection.badge 
+  uid: learn-bizapps.get-started-with-object-detection.badge

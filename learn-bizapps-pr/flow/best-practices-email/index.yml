@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.best-practices-email.1-introduction 
 - learn-bizapps.best-practices-email.2-send 
 - learn-bizapps.best-practices-email.3-format 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.best-practices-email.6-check 
 - learn-bizapps.best-practices-email.7-summary 
 badge: 
-  uid: learn-bizapps.best-practices-email.badge 
+  uid: learn-bizapps.best-practices-email.badge

@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.configure-custom-connectors-api.1-introduction 
 - learn-bizapps.configure-custom-connectors-api.2-authentication 
 - learn-bizapps.configure-custom-connectors-api.3-use-api 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.configure-custom-connectors-api.7-check 
 - learn-bizapps.configure-custom-connectors-api.8-summary 
 badge: 
-  uid: learn-bizapps.configure-custom-connectors-api.badge 
+  uid: learn-bizapps.configure-custom-connectors-api.badge

@@ -16,6 +16,5 @@ Using Dataverse for Teams might seem attractive initially, but as a solution arc
 - Some controls are not supported
 - Canvas apps only
 - AI Builder is not supported
-- Custom connectors are not supported
 
 For more information, see [known issues and limitations](/power-apps/teams/known-issues-limitations/?azure-portal=true).

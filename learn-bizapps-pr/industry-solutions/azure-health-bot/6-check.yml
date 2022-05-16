@@ -45,22 +45,22 @@ quiz:
     choices:
     - content: Dynamics 365 Customer Service Workspace
       isCorrect: false
-      explanation: The correct answer is Dynamics 365 Omnichannel Administration.
+      explanation: The correct answer is Dynamics 365 Omnichannel Admin Center.
     - content: Power Apps Portal
       isCorrect: false
-      explanation: The correct answer is Dynamics 365 Omnichannel Administration.
+      explanation: The correct answer is Dynamics 365 Omnichannel Admin Center.
     - content: Dynamics 365 Portal Management
       isCorrect: false
-      explanation: The correct answer is Dynamics 365 Omnichannel Administration.
-    - content: Dynamics 365 Omnichannel Administration
+      explanation: The correct answer is Dynamics 365 Omnichannel Admin Center.
+    - content: Dynamics 365 Omnichannel Admin Center
       isCorrect: true
-      explanation: The correct answer is Dynamics 365 Omnichannel Administration.
-  - content: Automatic welcome scenarios will not work with multi-step scenarios.
+      explanation: The correct answer is Dynamics 365 Omnichannel Admin Center.
+  - content: Automatic welcome scenarios won't work with multi-step scenarios.
     choices:
     - content: Yes
       isCorrect: true
-      explanation: Automatic welcome scenarios will not work with multi-step scenarios.
+      explanation: Automatic welcome scenarios won't work with multi-step scenarios.
     - content: No
       isCorrect: false
-      explanation: The answer is True. Automatic welcome scenarios will not work with multi-step scenarios.
+      explanation: The answer is True. Automatic welcome scenarios won't work with multi-step scenarios.
 

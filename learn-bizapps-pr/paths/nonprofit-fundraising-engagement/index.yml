@@ -23,6 +23,8 @@ roles:
 products:
 - industry-solutions
 - mscloud-nonprofit
+subjects:
+- modern-work
 modules:
 - learn-bizapps.get-started-fundraising-engagement
 - learn-bizapps.manage-constituents-fundraising-engagement
@@ -35,4 +37,3 @@ modules:
 - learn-bizapps.configure-settings-fundraising-engagement
 trophy:
   uid: learn.nonprofit-fundraising-engagement.trophy
-

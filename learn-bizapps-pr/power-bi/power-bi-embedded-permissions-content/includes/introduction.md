@@ -1,7 +1,7 @@
 To embed Power BI content in your app, you must develop the app to acquire an *access token*. The type of authentication flow (and access token) depends on the embedding scenario.
 
 > [!NOTE]
-> To learn about embedding scenarios, work through the Select a Power BI embedded analytics product module.
+> To learn about embedding scenarios, work through the [Select a Power BI embedded analytics product](/learn/modules/power-bi-embedded-select/?azure-portal=true) module.
 
 When you use either scenario, your app must acquire an Azure AD token. An Azure AD token contains claims to identify granted permissions to the Power BI REST API. It has an expiration time, which is typically one hour. A valid Azure AD token must be present in all API operations.
 
@@ -17,9 +17,6 @@ Once acquired, your app should cache the Azure AD token. The app will then use i
 Watch the following video that demonstrates the use of an interactive authentication flow.
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4Vozg]
-
-> [!div class="mx-imgBorder"]
-> [![Thumbnail image from the video showing the flow of embedding Power B I content for your organization using interactive authentication flow.](../media/video-interactive-authentication-flow.png)](../media/video-interactive-authentication-flow.png#lightbox)
 
 You'll learn how to acquire Azure AD tokens in unit 3.
 
@@ -40,14 +37,11 @@ Specifically, an embed token describes:
 - Optionally, one or more effective identities so Power BI can enforce data permissions.
 
 > [!NOTE]
-> To learn about effective identities, work through the Enforce data permissions for Power BI embedded analytics module.
+> To learn about effective identities, work through the [Enforce data permissions for Power BI embedded analytics](/learn/modules/power-bi-embedded-permissions-analytics/?azure-portal=true) module.
 
 Watch the following video that demonstrates the use of a non-interactive authentication flow.
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4Vozj]
-
-> [!div class="mx-imgBorder"]
-> [![Thumbnail image of video demonstrating the use of a non-interactive authentication flow.](../media/video-non-interactive-authentication-flow.png)](../media/video-non-interactive-authentication-flow.png#lightbox)
 
 You'll learn how to acquire embed tokens in unit 3.
 

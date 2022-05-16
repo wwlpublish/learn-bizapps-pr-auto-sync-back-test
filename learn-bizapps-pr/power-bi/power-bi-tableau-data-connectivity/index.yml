@@ -29,7 +29,9 @@ roles:
 products:  
 - power-platform  
 - power-bi 
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.power-bi-tableau-data-connectivity.1-introduction 
 - learn-bizapps.power-bi-tableau-data-connectivity.2-data-transformation 
 - learn-bizapps.power-bi-tableau-data-connectivity.3-relationships 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.power-bi-tableau-data-connectivity.5-check 
 - learn-bizapps.power-bi-tableau-data-connectivity.6-summary 
 badge: 
-  uid: learn-bizapps.power-bi-tableau-data-connectivity.badge 
+  uid: learn-bizapps.power-bi-tableau-data-connectivity.badge
