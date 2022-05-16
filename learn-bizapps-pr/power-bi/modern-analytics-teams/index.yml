@@ -26,11 +26,14 @@ roles:
 products: 
 - power-platform 
 - power-bi 
-units: 
+subjects:
+- data-visualization
+- collaboration
+units:
 - learn-bizapps.modern-analytics-teams.1-introduction 
 - learn-bizapps.modern-analytics-teams.2-teams 
 - learn-bizapps.modern-analytics-teams.3-sharepoint 
 - learn-bizapps.modern-analytics-teams.4-check 
 - learn-bizapps.modern-analytics-teams.5-summary 
 badge: 
-  uid: learn-bizapps.modern-analytics-teams.badge 
+  uid: learn-bizapps.modern-analytics-teams.badge

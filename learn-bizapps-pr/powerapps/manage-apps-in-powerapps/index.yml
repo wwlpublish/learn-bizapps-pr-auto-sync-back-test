@@ -1,4 +1,4 @@
-﻿### YamlMime:Module
+### YamlMime:Module
 uid: learn-bizapps.powerapps-manage 
 metadata: 
   title: Manage apps in Power Apps
@@ -30,7 +30,9 @@ roles:
 products: 
 - power-platform
 - power-apps
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.powerapps-manage.1-powerapps-versions
 - learn-bizapps.powerapps-manage.2-powerapps-share
 - learn-bizapps.powerapps-manage.3-powerapps-environments
@@ -39,4 +41,3 @@ units:
 - learn-bizapps.powerapps-manage.6-summary-cleanup
 badge:
   uid: learn.powerapps-manage.badge
-

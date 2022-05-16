@@ -32,7 +32,9 @@ products:
 - dynamics-365
 - power-platform
 - power-apps 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.portal-custom-web.1-introduction 
 - learn-bizapps.portal-custom-web.2-build-web-templates 
 - learn-bizapps.portal-custom-web.3-build-api 
@@ -40,4 +42,4 @@ units:
 - learn-bizapps.portal-custom-web.5-check 
 - learn-bizapps.portal-custom-web.6-summary 
 badge: 
-  uid: learn-bizapps.portal-custom-web.badge 
+  uid: learn-bizapps.portal-custom-web.badge

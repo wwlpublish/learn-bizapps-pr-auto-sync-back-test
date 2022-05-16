@@ -1,17 +1,17 @@
 ### YamlMime:LearningPath
 uid: learn-bizapps.work-automation-flow
 metadata:
-  title: Automate processes with Robotic Process Automation and Power Automate Desktop
+  title: Automate processes with Robotic Process Automation and Power Automate for desktop
   description: Learn how use Robotic Process Automation to automate business processes.
   ms.date: 04/15/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.prod: learning-power-automate
-title: Automate processes with Robotic Process Automation and Power Automate Desktop
+title: Automate processes with Robotic Process Automation and Power Automate for desktop
 summary: |
   [!include[](../../includes/lp-banner.md)]
-  Work with Power Automate Desktop to record Windows and Web applications, but also use out of box actions such as manipulating Excel documents as part of an end to end invoice processing solution. 
+  Work with Power Automate for desktop to record Windows and Web applications, but also use out of box actions such as manipulating Excel documents as part of an end to end invoice processing solution. 
 prerequisites: Experience with Power Automate.
 iconUrl: /learn/achievements/work-automation-flow.svg
 levels:
@@ -22,6 +22,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- process-workflow
 modules:
 - learn-bizapps.build-first-desktop-flow
 - learn-bizapps.input-parameters

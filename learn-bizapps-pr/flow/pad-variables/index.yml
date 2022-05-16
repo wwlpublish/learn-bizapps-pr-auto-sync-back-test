@@ -30,7 +30,9 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.pad-variables.1-introduce-variables 
 - learn-bizapps.pad-variables.2-create-edit-use-variables 
 - learn-bizapps.pad-variables.3-variable-data-types 
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.pad-variables.8-check-knowledge 
 - learn-bizapps.pad-variables.9-summary 
 badge: 
-  uid: learn-bizapps.pad-variables.badge 
+  uid: learn-bizapps.pad-variables.badge

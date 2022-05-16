@@ -4,12 +4,13 @@ title: What is Power Automate and the value it brings to you
 metadata:
   title: What is Power Automate and the value it brings to you
   description: "What is Power Automate and the value it brings to you"
-  ms.date: 05/31/2021
+  ms.date: 04/29/2022
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 azureSandbox: false
+labModal: false
 durationInMinutes: 12
 content: |
   [!include[](includes/2-what-power-automate-value-brings-you.md)]

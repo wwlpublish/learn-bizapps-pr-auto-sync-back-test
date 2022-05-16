@@ -92,10 +92,10 @@ Start by creating a new measure called **Top 10 Products**. Then, use the TOPN f
 
 ```dax
 Top 10 Products =
-SUMX ( TOPN ( 10, Product, Product[Product Name]), [Total Sales] )
+SUMX ( TOPN ( 10, Product, Product[Total Sales]), [Total Sales] )
 ```
 
-The following image shows how much the top 10 products contribute toward the overall sales.
+The following image shows the top 10 products versus total sales for comparison.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of using the DAX function TOP N to calculate Top 10 Products.](../media/2-use-dax-function-calculate-top-n-ss.png)](../media/2-use-dax-function-calculate-top-n-ss.png#lightbox)

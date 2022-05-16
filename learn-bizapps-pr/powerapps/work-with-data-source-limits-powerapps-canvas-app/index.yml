@@ -1,4 +1,4 @@
-﻿### YamlMime:Module
+### YamlMime:Module
 uid: learn-bizapps.data-source-limits
 metadata:
   title: Work with data source limits (delegation limits) in a Power Apps canvas app
@@ -28,6 +28,8 @@ roles:
 products:
 - power-platform
 - power-apps
+subjects:
+- custom-app-development
 units:
 - learn-bizapps.data-source-limits.1-delegation-overview
 - learn-bizapps.data-source-limits.2-functions-predicates-data-source
@@ -36,4 +38,3 @@ units:
 - learn-bizapps.data-source-limits.5-summary
 badge:
   uid: learn-bizapps.data-source-limits.badge
-

@@ -29,7 +29,9 @@ roles:
 products: 
 - industry-solutions
 - mscloud-nonprofit
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.configure-settings-fundraising-engagement.1-introduction 
 - learn-bizapps.configure-settings-fundraising-engagement.2-giving-levels 
 - learn-bizapps.configure-settings-fundraising-engagement.3-preference-categories 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.configure-settings-fundraising-engagement.6-check 
 - learn-bizapps.configure-settings-fundraising-engagement.7-summary 
 badge: 
-  uid: learn-bizapps.configure-settings-fundraising-engagement.badge 
+  uid: learn-bizapps.configure-settings-fundraising-engagement.badge

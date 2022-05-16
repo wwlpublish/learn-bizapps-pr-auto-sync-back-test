@@ -17,7 +17,7 @@ To improve the layout, use the following procedure:
 
     ![Screenshot of the browse screen to select gallery.](../media/select-gallery.png)
 
-1. On the right pane, open the Data pane by selecting the drop-down menu next to **Layout**.
+1. On the right pane, open the Layout pane by selecting the drop-down menu next to **Layout**.
 
     ![Screenshot that shows the layout options from data pane.](../media/powerapps-layout.png)
 
@@ -31,7 +31,7 @@ To improve the layout, use the following procedure:
 
 1. Change **ThisItem.Category** to **ThisItem.Name** in the formula bar.
 
-1. Repeat the previous two steps but change the other **Label** control to show the price of each item.
+1. Repeat the previous two steps but change the other **Label** control to show the price (**ThisItem.Price**) of each item.
 
     ![Screenshot of adding the price lable for each item.](../media/add-price.png)
 
@@ -62,7 +62,8 @@ On the screen where your users edit and create entries, you want to make it easi
 
 1. Expand **Overview**.  Select the drop-down arrow for the **Control type** and then select **Edit multi-line text**.
 
-    A multi-line edit control will simplify your user's ability to add more than a few words in this field.
+A multi-line edit control will simplify your user's ability to add more than a few words in this field.
 
+![Screenshot of Move fields on the details screen at the top.](../media/multi-line-text.png)
 
 A few basic steps can greatly improve the appearance and experience of using an app, and Power Apps Studio provides many options for customizing those apps.

@@ -35,7 +35,9 @@ roles:
 products:  
 - power-automate 
 - power-platform
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.process-properties.1-introducing-process-properties
 - learn-bizapps.process-properties.2-configure-process-security-settings
 - learn-bizapps.process-properties.3-set-process-run-policy
@@ -45,4 +47,4 @@ units:
 - learn-bizapps.process-properties.7-check-knowledge
 - learn-bizapps.process-properties.8-summary
 badge: 
-  uid: learn-bizapps.process-properties.badge 
+  uid: learn-bizapps.process-properties.badge

@@ -42,9 +42,9 @@ The flow works as follows:
 
    |Value to write|Column|Row|
    |---|---|---|
-   |%FirstName%|A|%FirstFreeRow%|
-   |%LastName%|B|%FirstFreeRow%|
-   |%TimeOff%|C|%FirstFreeRow%|
+   |%FirstName%|A|%FirstFreeRowOnColumn%|
+   |%LastName%|B|%FirstFreeRowOnColumn%|
+   |%TimeOff%|C|%FirstFreeRowOnColumn%|
 
 1. Add a **Display message** action, and fill in the parameters as follows:
    * Message box title: **Approval Required**
@@ -61,7 +61,7 @@ The flow works as follows:
 1. Add a **Write to Excel worksheet** action, and select the following parameters:
    * Value to write: **%ButtonPressed%**
    * Column: **D**
-   * Row: **%FirstFreeRow%**
+   * Row: **%FirstFreeRowOnColumn%**
 
    ![Screenshot of the Write to Excel worksheet action dialog.](..\media\write-to-excel-action-properties.png)
 

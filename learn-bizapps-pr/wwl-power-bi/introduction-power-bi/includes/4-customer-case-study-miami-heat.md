@@ -6,7 +6,8 @@ Miami Heat leveraged the powerful analysis and visualization features to complet
 
 Basketball is about far more than watching the skill of players. There's a sentiment and a bonding over shared experiences that come forth in the viewing and participation of sports so Miami Heat wanted to better understand the family of customers that enter their arena or interact with their many online platforms. But how does one truly understand a customer when there are so many of them? This is where Microsoft technologies come into play, Power BI chief among them.
 
-![Icon indicating play video](../media/video-icon.png) Watch this video to see how Miami Heat leveraged Power BI to transform their business. 
+## Watch this walkthrough video:
+
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4miHj]
 
 By analyzing their data in Power BI, the Miami Heat operations team has been able to increase revenue, but also improve the allocation of resources by predicting customer behavior.

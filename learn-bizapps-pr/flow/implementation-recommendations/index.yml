@@ -29,7 +29,9 @@ products:
 - power-automate 
 - power-platform
 - power-apps
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.implementation-recommendations.1-introduction 
 - learn-bizapps.implementation-recommendations.2-prerequisites 
 - learn-bizapps.implementation-recommendations.3-default 
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.implementation-recommendations.10-check 
 - learn-bizapps.implementation-recommendations.11-summary 
 badge: 
-  uid: learn-bizapps.implementation-recommendations.badge 
+  uid: learn-bizapps.implementation-recommendations.badge

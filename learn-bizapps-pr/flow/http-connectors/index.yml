@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.http-connectors.1-introduction 
 - learn-bizapps.http-connectors.2-webhook 
 - learn-bizapps.http-connectors.3-azure 
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.http-connectors.5-check 
 - learn-bizapps.http-connectors.6-summary 
 badge: 
-  uid: learn-bizapps.http-connectors.badge 
+  uid: learn-bizapps.http-connectors.badge

@@ -29,7 +29,9 @@ products:
 - power-apps
 - common-data-service
 - vs-code 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.canvas-app-source-code.1-introduction 
 - learn-bizapps.canvas-app-source-code.2-exercise 
 - learn-bizapps.canvas-app-source-code.3-work-yaml 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.canvas-app-source-code.5-check 
 - learn-bizapps.canvas-app-source-code.6-summary 
 badge: 
-  uid: learn-bizapps.canvas-app-source-code.badge 
+  uid: learn-bizapps.canvas-app-source-code.badge

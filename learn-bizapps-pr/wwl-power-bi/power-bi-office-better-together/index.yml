@@ -28,6 +28,8 @@ roles:
 products:
 - office-excel
 - power-bi
+subjects:
+- productivity
 units:
 - learn.wwl.power-bi-office-better-together.introduction
 - learn.wwl.power-bi-office-better-together.microsoft-teams

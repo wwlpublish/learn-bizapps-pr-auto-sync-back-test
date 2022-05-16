@@ -99,7 +99,7 @@ Selecting a card will bring up a window in which you can view the metadata about
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Report metadata window.](../media/05-refresh-feature-card-8-ssm.png)](../media/05-refresh-feature-card-8-ssm.png#lightbox)
 
-This card also contains useful options under the ellipsis (**...**), as shown in the following figure. From this menu, you can select to analyze the report in Microsoft Excel, delete a report, create Quick Insights, save a copy directly to your local drive, and more.
+This card also contains useful options under the ellipsis (**...**), as shown in the following figure. From this menu, you can select to analyze the report in Microsoft Excel, delete a report, create Quick Insights, save a copy to a workspace, and more.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the ellipsis menu options on the report card.](../media/05-ellipsis-on-report-card-ss.png)](../media/05-ellipsis-on-report-card-ss.png#lightbox)
