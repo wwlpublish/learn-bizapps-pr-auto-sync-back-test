@@ -4,7 +4,7 @@ title: Lab - Model data in Power BI Desktop, Part 1
 metadata: 
   title: Lab - Model data in Power BI Desktop, Part 1
   description: In this lab, you will commence developing the data model. It will involve creating relationships between tables, and then configuring table and column properties to improve the friendliness and usability of the data model. You will also create hierarchies and create quick measures.  
-  ms.date: 10/26/2021
+  ms.date: 04/25/2022
   author: heyrob 
   ms.author: robde 
   ms.topic: interactive-tutorial 

@@ -30,7 +30,9 @@ roles:
 products:  
 - power-platform 
 - power-apps 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.intro-model-driven-apps-common-data-service.1-intro-common-data-service 
 - learn-bizapps.intro-model-driven-apps-common-data-service.2-intro-model-driven-apps 
 - learn-bizapps.intro-model-driven-apps-common-data-service.3-work-together 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.intro-model-driven-apps-common-data-service.5-check
 - learn-bizapps.intro-model-driven-apps-common-data-service.6-summary 
 badge: 
-  uid: learn-dynamics.intro-model-driven-apps-common-data-service.badge 
+  uid: learn-dynamics.intro-model-driven-apps-common-data-service.badge

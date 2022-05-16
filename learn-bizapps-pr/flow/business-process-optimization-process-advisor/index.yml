@@ -27,7 +27,9 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.business-process-optimization-process-advisor.1-introduction 
 - learn-bizapps.business-process-optimization-process-advisor.2-get-familiar 
 - learn-bizapps.business-process-optimization-process-advisor.3-create-recording 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.business-process-optimization-process-advisor.7-check 
 - learn-bizapps.business-process-optimization-process-advisor.8-summary 
 badge: 
-  uid: learn-bizapps.business-process-optimization-process-advisor.badge 
+  uid: learn-bizapps.business-process-optimization-process-advisor.badge

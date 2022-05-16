@@ -25,6 +25,8 @@ roles:
 products:
 - dynamics-365
 - power-platform
+subjects:
+- knowledge-management
 units:
 - learn.wwl.functional-consultant-skills.introduction
 - learn.wwl.functional-consultant-skills.create-entity-relationship-diagrams

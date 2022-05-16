@@ -32,7 +32,9 @@ roles:
 products: 
   - power-platform
   - power-apps
-units: 
+subjects:
+- development-tools
+units:
   - learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer.1-introduction
   - learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer.2-what.is.low.code
   - learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer.3-understand-power-fx

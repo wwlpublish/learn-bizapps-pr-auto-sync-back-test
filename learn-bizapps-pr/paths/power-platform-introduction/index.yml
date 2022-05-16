@@ -25,6 +25,8 @@ roles:
 products:
 - power-apps
 - power-platform
+subjects:
+- productivity
 modules:
 - learn-bizapps.get-data-power-bi
 - learn-bizapps.flow-get-started

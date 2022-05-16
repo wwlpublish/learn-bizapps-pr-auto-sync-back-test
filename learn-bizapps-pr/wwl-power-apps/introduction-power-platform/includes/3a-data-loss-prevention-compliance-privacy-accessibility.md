@@ -57,15 +57,6 @@ ensure data confidentiality and integrity between desktops and datacenters. API
 access from the customer endpoint to the server is also similarly protected.
 Currently, TLS 1.2 (or higher) is required for accessing the server endpoints.
 
-### Resources to manage GDPR compliance
-
-The European Union General Data Protection Regulation (GDPR) is one of the
-newest privacy regulations enacted that gives rights to people to manage their
-personal data. A complete discussion of GDPR is beyond the scope of this
-content, however Microsoft Power Platform does fully support the GDPR. For more GDPR
-resources and information, visit the Trust Center
-at <https://www.microsoft.com/TrustCenter/Privacy/gdpr/default.aspx>.
-
 ## Accessibility in Microsoft Power Platform
 
 One of the things that Microsoft values the most is making sure that Power

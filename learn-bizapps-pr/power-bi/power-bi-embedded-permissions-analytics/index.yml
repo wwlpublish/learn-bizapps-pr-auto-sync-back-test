@@ -2,8 +2,8 @@
 uid: learn-bizapps.power-bi-embedded-permissions-analytics 
 metadata: 
  title: Enforce data permissions for Power BI embedded analytics
- description: Learn to enforce data permissions for Power BI embedded analytics.
- ms.date: 04/10/2022  
+ description: Learn how to enforce data permissions for Power BI embedded analytics.
+ ms.date: 04/07/2022  
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
@@ -13,22 +13,22 @@ summary: |
   [!include[](../includes/module-banner.md)] 
   <!-- > [!VIDEO https://www.microsoft.com/videoplayer/embed/] -->
 
-  When your app users must only see a subset of data, you need to develop a solution that restricts access to Power BI dataset data. It could be because some users aren't permitted to see specific data, like sales results of other sales regions. Achieving this requirement commonly involves setting up row-level security (RLS), which involves defining roles and rules that filter model data.
+  When your app users should only have access to view a subset of data, you need to develop a solution that restricts access to Power BI dataset data. The reason might be because some users aren't permitted to view specific data, such as sales results of other sales regions. Achieving this requirement commonly involves setting up row-level security (RLS), which involves defining roles and rules that filter model data.
 
-  When using the *For your organization* scenario, data model and dataset developers must enforce RLS and ensure internal users are mapped to security roles.
+  When using the *For your organization* scenario, developers of the data model and dataset must enforce RLS and ensure that internal users are mapped to security roles.
 
-  When using the *For your customers* scenario, your app must set effective identity to restrict access to data. It's the effective identity that determines how Power BI connects to the model and how it enforces RLS security roles. How you set up effective identity depends on the type of Power BI dataset.
+  When you’re using the *For your customers* scenario, your app must set the effective identity to restrict access to data. This effective identity determines how Power BI will connect to the model and how it will enforce RLS security roles. How you set up the effective identity depends on the type of Power BI dataset.
 
   > [!TIP]
   > Power BI is in a constant state of evolution, so be sure that you keep abreast of new features that are announced in the <a href="https://powerbi.microsoft.com/blog" target="_blank">Microsoft Power BI Blog</a>. You might discover new features and capabilities that you can apply to improve your existing reports.
 abstract: |  
-    In this module, you'll learn to: 
+    In this module, you'll learn how to: 
     - Restrict access to Power BI dataset data.
     - Set up RLS in Power BI datasets.
-    - Determine the different types of Power BI dataset.
+    - Determine the different types of Power BI datasets.
     - Set up effective identity when generating an embed token.
     - Apply good development practices to enforce data permissions.
-prerequisites: Experience developing web apps and creating Power BI workspaces and content, and familiarity with the two embedding scenarios, *For your organization* and *For your customers*, and how to generate embed tokens.
+prerequisites: Experience developing web apps and creating Power BI workspaces and content, familiarity with the two embedding scenarios, *For your organization* and *For your customers*, and knowledge of how to generate embed tokens
 iconUrl: /learn/achievements/power-bi-embedded-permissions-analytics.svg  
 levels:  
 - intermediate   
@@ -38,7 +38,9 @@ roles:
 products: 
 - power-apps
 - power-bi 
-units: 
+subjects:
+- information-protection-governance
+units:
 - learn-bizapps.power-bi-embedded-permissions-analytics.introduction 
 - learn-bizapps.power-bi-embedded-permissions-analytics.security 
 - learn-bizapps.power-bi-embedded-permissions-analytics.datasets 
@@ -47,4 +49,4 @@ units:
 - learn-bizapps.power-bi-embedded-permissions-analytics.check 
 - learn-bizapps.power-bi-embedded-permissions-analytics.summary 
 badge: 
-  uid: learn-bizapps.power-bi-embedded-permissions-analytics.badge 
+  uid: learn-bizapps.power-bi-embedded-permissions-analytics.badge

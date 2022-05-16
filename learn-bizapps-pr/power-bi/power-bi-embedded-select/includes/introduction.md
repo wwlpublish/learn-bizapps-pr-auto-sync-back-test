@@ -15,9 +15,7 @@ The **For your organization** scenario applies when the app audience comprises *
 Several reasons for using the **For your organization** scenario include:
 
 -   **Internal business intelligence portal:** While the Power BI service (app.powerbi.com) provides a comprehensive and intuitive user experience for browsing content, it might not achieve the appearance and behavior or functionality that your organization wants. You can create a business intelligence portal that meets specific business requirements. When the organization already has a business intelligence portal that embeds content from other business intelligence tools, then you can enhance the portal to embed Power BI content, too.
-
 -   **Internal app:** Intranet apps can embed Power BI content to show data visualizations. For example, the intranet site for the Sales department might include Power BI visuals that show sales-related charts and KPIs. An internal call center app can embed real-time visuals to provide up-to-date information about incoming customer calls.
-
 -   **Customized logging:** Your app can log custom events to record Power BI content access and use, beyond what [Power BI logging](/power-bi/admin/service-admin-auditing/?azure-portal=true) can achieve.
 
 ## For your customers scenario

@@ -28,7 +28,9 @@ roles:
 products: 
 - power-platform
 - power-bi 
-units: 
+subjects:
+- data-visualization
+units:
 - learn-bizapps.power-bi-effective-reports.1-introduction 
 - learn-bizapps.power-bi-effective-reports.2-report-objects 
 - learn-bizapps.power-bi-effective-reports.3-report-visuals 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.power-bi-effective-reports.6-check 
 - learn-bizapps.power-bi-effective-reports.7-summary 
 badge: 
-  uid: learn-bizapps.power-bi-effective-reports.badge 
+  uid: learn-bizapps.power-bi-effective-reports.badge

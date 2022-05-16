@@ -30,7 +30,9 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.dax-power-bi-write-formulas.1-introduction 
 - learn-bizapps.dax-power-bi-write-formulas.2-formulas 
 - learn-bizapps.dax-power-bi-write-formulas.3-data-types 
@@ -40,4 +42,4 @@ units:
 - learn-bizapps.dax-power-bi-write-formulas.7-check 
 - learn-bizapps.dax-power-bi-write-formulas.8-summary 
 badge: 
-  uid: learn-bizapps.dax-power-bi-write-formulas.badge 
+  uid: learn-bizapps.dax-power-bi-write-formulas.badge

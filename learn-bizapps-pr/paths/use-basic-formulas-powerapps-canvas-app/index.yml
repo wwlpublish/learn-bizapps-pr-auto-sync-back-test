@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.use-basic-formulas-make-better-powerapps
 metadata:
   title: Use basic formulas to make better Power Apps canvas apps
@@ -24,10 +24,11 @@ roles:
 products: 
 - power-platform
 - power-apps
+subjects:
+- custom-app-development
 modules:
 - learn-bizapps.author-basic-formula-change-properties-powerapps
 - learn-bizapps.author-basic-forumla-change-behaviors-powerapps
 - learn-bizapps.author-basic-formula-tables-records-powerapps
 trophy:
   uid: learn-bizapps.use-basic-formulas-make-better-powerapps.trophy
-

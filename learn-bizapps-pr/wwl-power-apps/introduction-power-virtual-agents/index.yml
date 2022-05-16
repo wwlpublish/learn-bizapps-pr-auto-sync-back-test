@@ -28,6 +28,8 @@ products:
 - power-apps
 - power-platform
 - power-virtual-agents
+subjects:
+- chatbot
 units:
 - learn.wwl.introduction-to-power-virtual-agents.introduction
 - learn.wwl.introduction-to-power-virtual-agents.what-power-virtual-agents

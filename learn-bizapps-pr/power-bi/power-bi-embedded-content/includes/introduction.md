@@ -51,15 +51,12 @@ Watch the following video that demonstrates how the client library works.
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4Vozz]
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot of  Power BI client library.](../media/power-bi-client-library.png)](../media/power-bi-client-library.png#lightbox)
-
 ## Output server-side generated facts
 
 Your app must acquire an access token that is output client-side. In addition, your app must output certain Power BI artifact properties client-side.
 
 > [!TIP]
-> To learn how to acquire access tokens and retrieve Power BI artifact properties, work through the Set up permissions to embed Power BI content module.
+> To learn how to acquire access tokens and retrieve Power BI artifact properties, work through the [Set up permissions to embed Power BI content](/learn/modules/power-bi-embedded-permissions-content/?azure-portal=true) module.
 
 The following `script` element contains three variables. The `accessToken` variable stores the server-side generated access token. The `reports` and `datatsets` variables store JSON representations of embeddable artifacts. In this example, the artifact types are reports and datasets. Specifically, the variables store artifact ID and embed URL properties that must be available client-side to support embedding. It also includes the **name** property so the app can present artifact names to the user in a friendly way, like in a menu.
 
@@ -76,7 +73,6 @@ The following `script` element contains three variables. The `accessToken` varia
 Your app must create a configuration object to provide all the information required to embed Power BI content. You must set the following five properties of the configuration object:
 
 -   `tokenType` - It's either `models.TokenType.Aad` when using the *For your organization* scenario (the access token is an Azure AD token), or `models.TokenType.Embed` when using the *For your customers* scenario (the access token is an embed token).
-
 -   `accessToken` - The server-side generated access token.
 -   `type` - It's either **report** (for Power BI report or paginated report), **visual** (for a Power BI report visual), **dashboard** (for a dashboard), **tile** (for a dashboard tile), or **qna** (for the Q&A experience). Units 2 and 3 describe how to embed each type of Power BI content.
 -   `id` - The Power BI artifact ID.

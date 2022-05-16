@@ -1,14 +1,14 @@
 ### YamlMime:Module 
 uid: learn-bizapps.gateway-desktop-flow 
 metadata: 
- title: Connect a cloud flow to a desktop flow in Power Automate Desktop
- description: Learn how to create cloud flows in Microsoft Power Automate Desktop.
+ title: Connect a cloud flow to desktop flows in Power Automate for desktop
+ description: Learn how to create cloud flows in Microsoft Power Automate for desktop.
  ms.date: 11/01/2021 
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
  ms.prod: learning-power-automate  
-title: Connect a cloud flow to a desktop flow in Power Automate Desktop
+title: Connect a cloud flow to desktop flows in Power Automate for desktop
 summary: |  
   [!include[](../includes/module-banner.md)] 
   Gateways allow desktop flows to connect to other services and use robotic process automation (RPA) to its fullest potential. This module explains how to use those gateways as a foundation for integrating other technology with cloud flows.
@@ -18,7 +18,7 @@ abstract: |
     - Configure the on-premises data gateway to enable the cloud flow to run the desktop flow on your device.
     - Add the desktop flow to the new cloud flow.
     - Test the new cloud flow.
-prerequisites: Basic understanding of Microsoft Power Automate. This module builds from the Build your first Power Automate Desktop flow and the Use input and output parameters modules. 
+prerequisites: Basic understanding of Microsoft Power Automate. This module builds from the Build your first Power Automate for desktop flow and the Use input and output parameters modules. 
 iconUrl: /learn/achievements/gateway-desktop-flow.svg  
 levels:  
 - intermediate   
@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.gateway-desktop-flow.1-introduction 
 - learn-bizapps.gateway-desktop-flow.2-setup 
 - learn-bizapps.gateway-desktop-flow.3-gateway-connection 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.gateway-desktop-flow.7-check 
 - learn-bizapps.gateway-desktop-flow.8-summary 
 badge: 
-  uid: learn-bizapps.gateway-desktop-flow.badge 
+  uid: learn-bizapps.gateway-desktop-flow.badge

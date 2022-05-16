@@ -34,11 +34,13 @@ products:
 - ai-builder 
 - power-platform
 - power-automate
-units: 
+subjects:
+- artificial-intelligence
+units:
 - learn-bizapps.manage-models.1-lifecycle 
 - learn-bizapps.manage-models.2-manage-versions 
 - learn-bizapps.manage-models.3-share 
 - learn-bizapps.manage-models.4-check 
 - learn-bizapps.manage-models.5-summary 
 badge: 
-  uid: learn-bizapps.manage-models.badge 
+  uid: learn-bizapps.manage-models.badge

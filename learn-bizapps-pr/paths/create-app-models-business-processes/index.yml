@@ -27,6 +27,8 @@ roles:
 products:
 - power-platform
 - power-apps
+subjects:
+- custom-app-development
 modules:
 - learn-bizapps.intro-model-driven-apps-common-data-service
 - learn-bizapps.powerapps-common-data-service
@@ -34,4 +36,3 @@ modules:
 - learn-dynamics.configure-model-driven-apps-customer-engagement 
 trophy:
   uid: learn.create-app-models-business-processes.trophy
-

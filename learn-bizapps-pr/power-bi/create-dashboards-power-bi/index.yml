@@ -28,7 +28,9 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-visualization
+units:
 - learn-bizapps.create-dashboards-power-bi.1-introduction 
 - learn-bizapps.create-dashboards-power-bi.2-data-alerts 
 - learn-bizapps.create-dashboards-power-bi.3-explore-data 
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.create-dashboards-power-bi.10-check 
 - learn-bizapps.create-dashboards-power-bi.11-summary 
 badge: 
-  uid: learn-bizapps.create-dashboards-power-bi.badge 
+  uid: learn-bizapps.create-dashboards-power-bi.badge

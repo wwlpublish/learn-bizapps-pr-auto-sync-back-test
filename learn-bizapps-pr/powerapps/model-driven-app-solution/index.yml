@@ -28,11 +28,13 @@ products:
 - power-apps
 - common-data-service
 - office-excel 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.model-driven-app-solution.1-introduction 
 - learn-bizapps.model-driven-app-solution.2-model-driven-app-solution 
 - learn-bizapps.model-driven-app-solution.3-data-model 
 - learn-bizapps.model-driven-app-solution.4-check 
 - learn-bizapps.model-driven-app-solution.5-summary 
 badge: 
-  uid: learn-bizapps.model-driven-app-solution.badge 
+  uid: learn-bizapps.model-driven-app-solution.badge

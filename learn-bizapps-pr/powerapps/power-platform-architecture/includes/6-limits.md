@@ -66,7 +66,7 @@ For more information, see [Service protection limits](/power-apps/developer/comm
 
 ## Minimize API calls
 
-The solution design must not depend on infinite capacity being available. For normal users of interactive apps, the limits have been set high enough that users should be affected.
+The solution design must not depend on infinite capacity being available. For normal users of interactive apps, the limits have been set high enough that users should not be affected.
 
 Applications that are designed to load data into Dataverse or perform bulk updates must also be able to manage service protection API limit errors. These applications prioritize throughput so that they can complete their work in the minimum amount of time. These applications must have a strategy to retry operations.
 

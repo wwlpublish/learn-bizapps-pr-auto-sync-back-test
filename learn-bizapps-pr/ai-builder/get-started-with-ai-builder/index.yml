@@ -32,7 +32,9 @@ products:
 - ai-builder 
 - power-platform
 - power-automate
-units: 
+subjects:
+- artificial-intelligence
+units:
 - learn-bizapps.get-started-with-ai-builder.1-intro-ai-builder 
 - learn-bizapps.get-started-with-ai-builder.2-choose-ai-capability 
 - learn-bizapps.get-started-with-ai-builder.3-create-first-model 
@@ -40,4 +42,4 @@ units:
 - learn-bizapps.get-started-with-ai-builder.5-check 
 - learn-bizapps.get-started-with-ai-builder.6-summary 
 badge: 
-  uid: learn-bizapps.get-started-with-ai-builder.badge 
+  uid: learn-bizapps.get-started-with-ai-builder.badge

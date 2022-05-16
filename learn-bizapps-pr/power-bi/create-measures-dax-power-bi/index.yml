@@ -30,7 +30,9 @@ roles:
 products:    
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.create-measures-dax-power-bi.1-introduction 
 - learn-bizapps.create-measures-dax-power-bi.2-context 
 - learn-bizapps.create-measures-dax-power-bi.3-calculate-function 
@@ -42,4 +44,4 @@ units:
 - learn-bizapps.create-measures-dax-power-bi.9-check 
 - learn-bizapps.create-measures-dax-power-bi.10-summary 
 badge: 
-  uid: learn-bizapps.create-measures-dax-power-bi.badge 
+  uid: learn-bizapps.create-measures-dax-power-bi.badge
