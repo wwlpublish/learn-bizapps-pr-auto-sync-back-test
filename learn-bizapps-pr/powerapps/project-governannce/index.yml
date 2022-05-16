@@ -27,7 +27,9 @@ products:
 - power-platform
 - dynamics-365
 - common-data-service
-units: 
+subjects:
+- information-protection-governance
+units:
 - learn-bizapps.project-governance.1-introduction
 - learn-bizapps.project-governance.2-governance
 - learn-bizapps.project-governance.3-role

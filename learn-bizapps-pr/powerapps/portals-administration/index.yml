@@ -28,10 +28,12 @@ roles:
 products:  
 - power-platform  
 - power-apps 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.portals-administration.1-introduction 
 - learn-bizapps.portals-administration.2-custom-domain 
 - learn-bizapps.portals-administration.3-check 
 - learn-bizapps.portals-administration.4-summary 
 badge: 
-  uid: learn-bizapps.portals-administration.badge 
+  uid: learn-bizapps.portals-administration.badge

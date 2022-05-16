@@ -27,7 +27,9 @@ roles:
 products: 
 - industry-solutions
 - mscloud-nonprofit
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.connect-volunteer-engagement.1-introduction 
 - learn-bizapps.connect-volunteer-engagement.2-volunteer-engagement-overview 
 - learn-bizapps.connect-volunteer-engagement.3-view-engagement-opportunities 
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.connect-volunteer-engagement.6-check 
 - learn-bizapps.connect-volunteer-engagement.7-summary 
 badge: 
-  uid: learn-bizapps.connect-volunteer-engagement.badge 
+  uid: learn-bizapps.connect-volunteer-engagement.badge

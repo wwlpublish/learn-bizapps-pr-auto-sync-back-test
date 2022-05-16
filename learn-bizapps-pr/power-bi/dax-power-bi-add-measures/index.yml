@@ -29,7 +29,9 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.dax-power-bi-add-measures.1-introduction 
 - learn-bizapps.dax-power-bi-add-measures.2-simple-measures 
 - learn-bizapps.dax-power-bi-add-measures.3-compound-measures 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.dax-power-bi-add-measures.6-check 
 - learn-bizapps.dax-power-bi-add-measures.7-summary 
 badge: 
-  uid: learn-bizapps.dax-power-bi-add-measures.badge 
+  uid: learn-bizapps.dax-power-bi-add-measures.badge

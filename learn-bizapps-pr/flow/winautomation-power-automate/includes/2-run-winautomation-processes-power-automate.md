@@ -38,7 +38,7 @@ You can save and then run the flow and see it launch the WinAutomation process. 
 
 If you want WinAutomation to capture a screenshot when a process fails, do the following:
 
-From the WinAutomation console, right-click a process, select **Edit process's properties**. Go to the **Error Handling** tab and choose **Override Default Options**. Select **Add screenshot to logs** and save. Now if a process fails, you can view the screenshot captured at runtime from the Power Automate Desktop flow run details. For more information on process properties, see WinAutomation docs: process Properties.
+From the WinAutomation console, right-click a process, select **Edit process's properties**. Go to the **Error Handling** tab and choose **Override Default Options**. Select **Add screenshot to logs** and save. Now if a process fails, you can view the screenshot captured at runtime from the Power Automate for desktop flow run details. For more information on process properties, see WinAutomation docs: process Properties.
 
    ![Screenshot of the WinAutomation process properties error handling tab.](..\media\winautomation-process-properties-error-handling.png)
 

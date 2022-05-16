@@ -56,7 +56,7 @@ Watch the following video that demonstrates how the client library works.
 Your app must acquire an access token that is output client-side. In addition, your app must output certain Power BI artifact properties client-side.
 
 > [!TIP]
-> To learn how to acquire access tokens and retrieve Power BI artifact properties, work through the Set up permissions to embed Power BI content module.
+> To learn how to acquire access tokens and retrieve Power BI artifact properties, work through the [Set up permissions to embed Power BI content](/learn/modules/power-bi-embedded-permissions-content/?azure-portal=true) module.
 
 The following `script` element contains three variables. The `accessToken` variable stores the server-side generated access token. The `reports` and `datatsets` variables store JSON representations of embeddable artifacts. In this example, the artifact types are reports and datasets. Specifically, the variables store artifact ID and embed URL properties that must be available client-side to support embedding. It also includes the **name** property so the app can present artifact names to the user in a friendly way, like in a menu.
 

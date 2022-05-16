@@ -28,11 +28,13 @@ roles:
 products:  
 - power-platform
 - power-automate
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.pad-ui-elements.1-introduction 
 - learn-bizapps.pad-ui-elements.2-ui-elements 
 - learn-bizapps.pad-ui-elements.3-window-handle-element-interaction 
 - learn-bizapps.pad-ui-elements.4-check
 - learn-bizapps.pad-ui-elements.5-summary 
 badge: 
-  uid: learn-bizapps.pad-ui-automation.badge 
+  uid: learn-bizapps.pad-ui-automation.badge

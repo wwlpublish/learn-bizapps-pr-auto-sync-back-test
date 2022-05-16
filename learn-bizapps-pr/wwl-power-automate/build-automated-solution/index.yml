@@ -26,6 +26,8 @@ products:
 - dynamics-365
 - dynamics-finance-operations
 - power-platform
+subjects:
+- process-workflow
 units:
 - learn-bizapps.wwl.build-automated-solution.introduction
 - learn-bizapps.wwl.build-automated-solution.create-flow-template

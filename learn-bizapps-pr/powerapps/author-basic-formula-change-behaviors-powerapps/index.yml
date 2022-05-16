@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.author-basic-forumla-change-behaviors-powerapps
 metadata: 
   title: Create formulas to change behaviors in a Power Apps canvas app
@@ -30,7 +30,9 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.change-behaviors.1-formulas-behaviors-overview
 - learn-bizapps.change-behaviors.2-understanding-true-false
 - learn-bizapps.change-behaviors.3-understanding-control-behaviors-actions
@@ -40,5 +42,4 @@ units:
 - learn-bizapps.change-behaviors.7-knowledge-check  
 - learn-bizapps.change-behaviors.8-summary
 badge: 
-  uid: learn-bizapps.author-basic-forumla-change-behaviors-powerapps.badge 
-
+  uid: learn-bizapps.author-basic-forumla-change-behaviors-powerapps.badge

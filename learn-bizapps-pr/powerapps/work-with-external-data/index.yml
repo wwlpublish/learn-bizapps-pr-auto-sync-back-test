@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.work-with-external-data 
 metadata: 
   title: Work with external data in a Power Apps canvas app
@@ -28,7 +28,10 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- data-management
+- custom-app-development
+units:
 - learn-bizapps.work-with-external-data.introduction
 - learn-bizapps.work-with-external-data.1-data-source-overview 
 - learn-bizapps.work-with-external-data.2-add-data-source 
@@ -39,5 +42,4 @@ units:
 - learn-bizapps.work-with-external-data.5-knowledge-check 
 - learn-bizapps.work-with-external-data.6-summary 
 badge: 
-  uid: learn.work-with-external-data.badge 
-
+  uid: learn.work-with-external-data.badge

@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.powerapps-design-model-driven-apps 
 metadata: 
   title: Get started with model-driven apps in Power Apps 
@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.powerapps-design-model-driven-apps.1-introduction
 - learn-bizapps.powerapps-design-model-driven-apps.2-building-blocks-of-model-driven-apps
 - learn-bizapps.powerapps-design-model-driven-apps.2b-design-apps
@@ -40,4 +42,3 @@ units:
 - learn-bizapps.powerapps-design-model-driven-apps.7-summary
 badge:
   uid: learn.powerapps-design-model-driven-apps.badge
-

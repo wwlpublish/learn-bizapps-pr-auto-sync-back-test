@@ -24,6 +24,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- process-workflow
 modules:
 - learn-bizapps.share-cloud-flow
 - learn-bizapps.import-export-solutions

@@ -15,7 +15,7 @@ either **Manage forms** or **Manage Views**.
 
 For example, in a fundraiser application you might want to have an account form
 that includes fundraising details such as tax exemption status. However, in
-another application like an innovation application, your account from wouldn't
+another application like an innovation application, your account form wouldn't
 need those fields so you might have a version of the form where those fields are
 not included.
 

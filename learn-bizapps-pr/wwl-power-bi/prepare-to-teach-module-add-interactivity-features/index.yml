@@ -24,6 +24,8 @@ products:
 - power-bi
 - power-platform
 - azure-powerbi-embedded
+subjects:
+- productivity
 units:
 - learn.wwl.prepare-to-teach-module-add-interactivity-features.introduction
 - learn.wwl.prepare-to-teach-module-add-interactivity-features.to-report

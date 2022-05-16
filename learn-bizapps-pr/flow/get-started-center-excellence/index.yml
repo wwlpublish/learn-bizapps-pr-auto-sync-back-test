@@ -30,7 +30,9 @@ products:
 - power-platform 
 - power-automate
 - power-apps
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.get-started-center-excellence.1-setup 
 - learn-bizapps.get-started-center-excellence.2-core-components 
 - learn-bizapps.get-started-center-excellence.3-governance-components 
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.get-started-center-excellence.6-check 
 - learn-bizapps.get-started-center-excellence.7-summary 
 badge: 
-  uid: learn-bizapps.get-started-center-excellence.badge 
+  uid: learn-bizapps.get-started-center-excellence.badge

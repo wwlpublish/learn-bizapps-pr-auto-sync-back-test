@@ -1,20 +1,20 @@
 ### YamlMime:Module 
 uid: learn-bizapps.build-first-desktop-flow 
 metadata: 
- title: Build your first Power Automate Desktop flow
- description: Learn how to build a Power Automate Desktop flow.
+ title: Build your first Power Automate for desktop flow
+ description: Learn how to build a Power Automate for desktop flow.
  ms.date: 10/29/2021  
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
  ms.prod: learning-power-automate  
-title: Build your first Power Automate Desktop flow
+title: Build your first Power Automate for desktop flow
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  This module introduces the basics of Power Automate Desktop flows and explains how to build the first flow to help automate a repetitive task. 
+  This module introduces the basics of Power Automate for desktop flows and explains how to build the first flow to help automate a repetitive task. 
 abstract: |  
     In this module, you will: 
-    - Learn about Power Automate Desktop flows.
+    - Learn about Power Automate for desktop flows.
     - Learn how to create a new desktop flow.
     - Record actions that are performed in the desktop-based Contoso Invoicing application.
     - Perform a test run of the new desktop flow.
@@ -29,7 +29,9 @@ roles:
 products:  
 - power-platform
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.build-first-desktop-flow.1-introduction 
 - learn-bizapps.build-first-desktop-flow.2-set-up-environment 
 - learn-bizapps.build-first-desktop-flow.3-get-familiar-power-automate-desktop 
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.build-first-desktop-flow.7-check 
 - learn-bizapps.build-first-desktop-flow.8-summary 
 badge: 
-  uid: learn-bizapps.build-first-desktop-flow.badge 
+  uid: learn-bizapps.build-first-desktop-flow.badge

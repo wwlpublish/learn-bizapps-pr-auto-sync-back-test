@@ -1,28 +1,28 @@
-You'll now explore the **Create personalized visuals** showcase. This showcase demonstrates using the authoring APIs to create personalized visuals.
+In this unit, you'll explore the **Create personalized visuals** showcase. This showcase demonstrates how to use the authoring APIs to create personalized visuals.
 
-1. In the playground menu, select the **Create personalized visuals** showcase.
+In the Power BI Embedded Analytics Playground menu, select the **Create personalized visuals** showcase.
 
-   > [!div class="mx-imgBorder"]
-   > ![Image shows the Create personalized visuals showcase highlighted.](../media/playground-create-personalized-visuals-showcase.png)
+> [!div class="mx-imgBorder"]
+> ![Image showing the Create personalized visuals showcase highlighted.](../media/playground-create-personalized-visuals-showcase.png)
 
-1. In the embedded Power BI report, at the bottom right, select the **Create quick visual** button.
+In the embedded Power BI report, in the lower right, select the **Create quick visual** button.
 
-   > [!div class="mx-imgBorder"]
-   > ![Image shows the Create quick visuals button.](../media/playground-create-personalized-visuals-showcase-create-quick-visual.png)
+> [!div class="mx-imgBorder"]
+> ![Image showing the Create quick visual button.](../media/playground-create-personalized-visuals-showcase-create-quick-visual.png)
 
-1. In the **Create quick visual** window, choose a visuals type, set the fields, and optionally format the visual, perhaps by including a specific title. When you've completed the setup, select **Create**.
+In the **Create quick visual** window, choose a visual type, set the fields, and then optionally format the visual, perhaps by including a specific title. When you've completed the setup, select **Create**.
 
-   The app used the `createVisual` function to add a new visual with a default layout to the page.
+The app has used the `createVisual` function to add a new visual with a default layout to the page.
 
-1. Hover the cursor over the new visual, and then at top right, select the ellipsis to open the visual's context menu. (Your visual may look different to the one below.)
+Hover the cursor over the new visual, and then in the upper-right corner, select the ellipsis (**...**) to open the visual's context menu. (Your visual might differ from the one that's shown in the following image.)
 
-   > [!div class="mx-imgBorder"]
-   > ![Image shows the context menu for the new visual. It contains two commands: Change visual and Get insights.](../media/playground-create-personalized-visuals-showcase-open-context-menu.png)
+> [!div class="mx-imgBorder"]
+> ![Image showing the context menu for the new visual. It contains two commands: Change visual and Get insights.](../media/playground-create-personalized-visuals-showcase-open-context-menu.png)
 
-   The app used the `updateSettings` function to pass in new settings that define a command extension. For more information, see [Modify menu commands for a report visual](/javascript/api/overview/powerbi/change-visual-commands/?azure-portal=true).
+The app has used the `updateSettings` function to pass in new settings that define a command extension. For more information, see [Modify menu commands for a report visual](/javascript/api/overview/powerbi/change-visual-commands/?azure-portal=true).
 
-1. Select the **Change visual** command. In the **Create quick visual** window, set up a different visual, and then select **Create**.
+Select the **Change visual** command. In the **Create quick visual** window, set up a different visual and then select **Create**.
 
-   Notice that the app replaced the visual with the new setup.
+The app should have replaced the visual with the new setup.
 
-For a more detailed explanation, including access to the code, see [Quickly create personalized visuals showcase](/javascript/api/overview/powerbi/showcase-visual-creator/?azure-portal=true).
+For more information, see [Quickly create personalized visuals showcase](/javascript/api/overview/powerbi/showcase-visual-creator/?azure-portal=true).

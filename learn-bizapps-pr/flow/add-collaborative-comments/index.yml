@@ -27,6 +27,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- process-workflow
 units:
 - learn-bizapps.add-collaborative-comments.introduction
 - learn-bizapps.add-collaborative-comments.use-comments

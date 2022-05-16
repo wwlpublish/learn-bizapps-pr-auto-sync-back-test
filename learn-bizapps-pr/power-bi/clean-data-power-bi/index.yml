@@ -31,7 +31,9 @@ roles:
 products:   
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.clean-data-power-bi.1-introduction 
 - learn-bizapps.clean-data-power-bi.2-shape-data 
 - learn-bizapps.clean-data-power-bi.3-data-structure 
@@ -43,4 +45,4 @@ units:
 - learn-bizapps.clean-data-power-bi.9-check 
 - learn-bizapps.clean-data-power-bi.10-summary 
 badge: 
-  uid: learn-bizapps.clean-transform-and-load-data-in-power-bi.badge 
+  uid: learn-bizapps.clean-transform-and-load-data-in-power-bi.badge

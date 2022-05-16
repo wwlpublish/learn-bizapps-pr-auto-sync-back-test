@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.build-custom-connectors
 metadata:
   title: Build custom connectors for Power Automate
@@ -23,6 +23,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- data-visualization
 modules:
 - learn-bizapps.get-started-custom-connector 
 - learn-bizapps.configure-custom-connectors-api
@@ -33,4 +35,3 @@ modules:
 - learn-bizapps.custom-connector-lifecycle-management
 trophy:
   uid: learn.build-custom-connectors.trophy
-
