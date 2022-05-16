@@ -9,7 +9,7 @@ By now, you should be able to:
 
 ## References
 
-[Power Apps portals technical documentation](/powerapps/maker/portals/overview/?azure-portal=true)
+[Power Apps portals technical documentation](/power-apps/maker/portals/overview/?azure-portal=true)
 
 [Power Apps portals Community](https://powerusers.microsoft.com/t5/Power-Apps-Portals/bd-p/PowerAppsPortals/?azure-portal=true)
 

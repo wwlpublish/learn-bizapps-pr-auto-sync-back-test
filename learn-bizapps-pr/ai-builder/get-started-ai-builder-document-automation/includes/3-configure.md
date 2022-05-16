@@ -33,7 +33,7 @@ The features available in the validation application by each persona are summari
 |     Validate a   document                                   |     X                                                                       |     X                |
 |     Delete a   document                                     |                                                                             |     X                |
 
-*When someone opens a processed document, he automatically assigns it to himself. Other validators will no longer see this document in the list and would get an error if they tried to update it.
+*When someone opens a processed document, they automatically assign it to themselves. Other validators will no longer see this document in the list and would get an error if they tried to update it.
 
 > [!NOTE]
 > If your company does not need to have role-based access control, you can just assign the **System customizer** role to everybody.

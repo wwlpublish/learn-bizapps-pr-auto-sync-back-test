@@ -24,6 +24,8 @@ products:
 - common-data-service
 - azure-active-directory
 - office-excel
+subjects:
+- custom-app-development
 modules:
 - learn-bizapps.transform-business-process 
 - learn-bizapps.create-data-model-expense-report

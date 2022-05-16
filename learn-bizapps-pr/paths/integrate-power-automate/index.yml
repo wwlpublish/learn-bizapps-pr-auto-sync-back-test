@@ -25,6 +25,9 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- modern-work
+- process-workflow
 modules:
 - learn-bizapps.email-power-automate
 - learn-bizapps.approvals-power-automate
@@ -35,4 +38,3 @@ modules:
 - learn-bizapps.troubleshoot-slow-flows 
 trophy:
   uid: learn.integrate-power-automate.trophy
-

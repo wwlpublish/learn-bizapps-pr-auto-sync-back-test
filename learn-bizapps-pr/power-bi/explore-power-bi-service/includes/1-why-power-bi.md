@@ -71,7 +71,7 @@ All visuals in a report are related. Highlight or select a value in one visual a
 
 Skip the email. With the Power BI comment feature, you can add a personal comment or start a conversation with colleagues about a dashboard, right there on that dashboard. The comment feature is just one of the ways you can collaborate with others.
 
-![Animated image of @mentions for comments in Power B I.](../media/1-1/power-bi-comment.gif)
+![Animated image of 'at'-mentions for comments in Power B I.](../media/1-1/power-bi-comment.gif)
 
 ## Let Power BI work for you
 

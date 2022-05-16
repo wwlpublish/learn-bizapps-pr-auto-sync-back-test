@@ -28,11 +28,13 @@ roles:
 products:  
 - power-apps 
 - power-platform
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.portal-features.1-introduction 
 - learn-bizapps.portal-features.2-dynamics-365-features 
 - learn-bizapps.portal-features.3-alternate-applications 
 - learn-bizapps.portal-features.4-check 
 - learn-bizapps.portal-features.5-summary 
 badge: 
-  uid: learn-bizapps.portal-features.badge 
+  uid: learn-bizapps.portal-features.badge

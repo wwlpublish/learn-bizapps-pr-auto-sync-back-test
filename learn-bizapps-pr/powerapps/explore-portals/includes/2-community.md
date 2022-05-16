@@ -31,7 +31,7 @@ The Community portal caters to both self-service and assisted service scenarios,
 
 Forums allow members of a particular community with common interests to post questions, start discussions, or ask for help.  
 
-Forums are set up and configured by using the Portal Management app. For information on how to configure forums, see [Set up and manage forums](/dynamics365/customer-engagement/portals/setup-manage-forums/?azure-portal=true).
+Forums are set up and configured by using the Portal Management app. For information on how to configure forums, see [Set up and manage forums](/dynamics365/portals/setup-manage-forums/?azure-portal=true).
 
 The **Forums** feature is also available on the Community, Customer self-service, Employee self-service, and Partner portals.
 
@@ -53,7 +53,7 @@ The organization can control from whom and how forum threads and posts are creat
 
 The Community portal provides members of its online community a place to post blog articles.  
 
-To learn how to configure and set up blogs on Power Apps portals, see [Manage blogs](/dynamics365/customer-engagement/portals/manage-blogs/?azure-portal=true).
+To learn how to configure and set up blogs on Power Apps portals, see [Manage blogs](/power-apps/maker/portals/customer-engagement-apps/manage-blogs/?azure-portal=true).
 
 The organization must first create the blog by using the Portal Management app. After the particular blog has been created, the organization can grant the Blog Author web role to the portal user. Then, the portal user will be able to use the front-side editing tools to create blog articles by writing text and inserting images and reference links.
 
@@ -71,7 +71,7 @@ The **Ideas** feature of the Community portal is an extension of the **Forum** f
 
 The **Ideas** feature is available on the Community portal, Customer self-service portal, and the Employee self-service portal.
 
-To configure ideas on the Community portal, see [Crowdsource ideas](/dynamics365/customer-engagement/portals/crowdsource-ideas/?azure-portal=true).
+To configure ideas on the Community portal, see [Crowdsource ideas](/power-apps/maker/portals/customer-engagement-apps/crowdsource-ideas/?azure-portal=true).
 
 For an organization to best serve its customers or constituents, it needs to allow an easy feedback mechanism. The **Ideas** feature allows portal visitors to submit a particular suggestion to the organization, which could be for a policy change, a new feature, or a new product or service suggestion. 
 
@@ -87,7 +87,7 @@ An effective way to maximize the use of helpful content is the ability to search
 
 The Power Apps portals **Knowledge Article** feature is available on the Community, Customer self-service, Employee self-service, and Partner portals.
 
-To configure the Power Apps portals **Knowledge Article** feature, see the [Documentation](/dynamics365/customer-engagement/portals/configure-knowledge-categories-articles/?azure-portal=true).
+To configure the Power Apps portals **Knowledge Article** feature, see the [Documentation](/power-apps/maker/portals/customer-engagement-apps/configure-knowledge-categories-articles/?azure-portal=true).
 
 An organization can determine which of its existing knowledge articles should be surfaced on the portal by setting the **Internal** flag and by associating the knowledge article to the appropriate categories.
 
@@ -101,7 +101,7 @@ The Dynamics 365 Customer Service Case functionality is surfaced on Power Apps p
 
 This use case is common for Power Apps portals and is available on the Community, Customer self-service, Employee self-service, and Partner portals.
 
-To set up and configure the Power Apps portals Case Management features, see [Manage cases in portals](/dynamics365/customer-engagement/portals/case-management/?azure-portal=true).
+To set up and configure the Power Apps portals Case Management features, see [Manage cases in portals](/power-apps/maker/portals/customer-engagement-apps/case-management/?azure-portal=true).
 
 An organization can allow customers to sign in to the portal and begin the support process by first seeing if the particular question or issue can be resolved with existing information in forum posts or knowledge articles.  
 

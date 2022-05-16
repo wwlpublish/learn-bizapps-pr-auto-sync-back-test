@@ -4,7 +4,7 @@ You can display this information in a label on your app. You can display one fun
 
 ## Add a connection
 
-The Office 365 Users is a Standard connector that can be used in Power Apps. To add, select Data, Add data and search for 'Office'. Select Office 365 Users and select Office 365 Users again.
+The Office 365 Users is a Standard connector that can be used in Power Apps. To add the connector, select Data, Add data and search for 'Office'. Select Office 365 Users and select Office 365 Users again.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the data icon with add data button and search results for office.](../media/office-365-users-connector.png)](../media/office-365-users-connector.png#lightbox)
@@ -47,7 +47,7 @@ Below shows the attributes that can be automatically populated in your app savin
 
 ### Control OnSelect
 
-Now, if you need to gather information about another user, then add a **ComboBox** control and set its Items property to `Office365Users.SearchUser()` and **OnSelect** property to `Set(varUserInfo, Office365Users.UserProfileV2(ComboBox1.Selected.Id))`.
+If you need to gather information about another user, add a **ComboBox** control and set the Items property to `Office365Users.SearchUser()` , the SelectMultiple property to `false`, the DisplayFields property to `["DisplayName"]`, and the OnChange property to `Set(varUserInfo, Office365Users.UserProfile(ComboBox1.Selected.Id))`.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the search results for user.](../media/test-search-user-2.png)](../media/test-search-user-2.png#lightbox)
@@ -57,9 +57,9 @@ Now, if you need to gather information about another user, then add a **ComboBox
 
 ## Manager information
 
-In addition to getting a user information, you can also search for a user's manager information.
+In addition to getting user information, you can also search for a user's manager information.
 
-For a **ComboBox** control, set the Items property to `Office365Users.SearchUser()` and OnSelect property to `Set(varUserInfo, Office365Users.UserProfileV2(ComboBox1.Selected.Id))`.
+For a **ComboBox** control, set the Items property to `Office365Users.SearchUser()`,  the SelectMultiple property to `false`, the DisplayFields property `["DisplayName"]`,  and the OnChange property to `Set(varUserInfo, Office365Users.Manager(ComboBox1.Selected.Id))`.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the manager information.](../media/manager-information.png)](../media/manager-information.png#lightbox)
@@ -75,7 +75,7 @@ Another feature that comes with Office 365 Users is the ability to find all the 
 
 We’ll use a combination of a **Collection** and **Gallery** to present the list of users. A **Collection** is a variable that can store a list of information, which can be easily accessible throughout the use of the app. A **Gallery** control can show multiple records from a data source, and each record can contain multiple types of data. In this scenario, our data source is the **Collection**.
 
-Add a **ComboBox** control and set its Items property to `Office365Users.SearchUser()`. Next, set it's **OnSelect** to `ClearCollect(colDirectReports, Office365Users.DirectReportsV2(ComboBox1_1.Selected.Id).value)`.
+Add a **ComboBox** control and set the Items property to `Office365Users.SearchUser()`. Next, set the SelectMultiple property to `false`, the DisplayFields property `["DisplayName"]`, and the OnSelect property to `ClearCollect(colDirectReports, Office365Users.DirectReportsV2(ComboBox1_1.Selected.Id).value)`.
 
 We can now present two pieces of information; one is to see how many users directly report to a manager and also list their names.
 

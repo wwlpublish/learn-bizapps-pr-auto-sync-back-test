@@ -3,7 +3,7 @@ uid: learn-bizapps.get-started-dataverse-teams
 metadata: 
  title: Get started with Microsoft Dataverse for Teams
  description: This module introduces Microsoft Dataverse for Teams and how you can build apps, workflows, chatbots, and dashboards in it. You will learn how to provision Dataverse for Teams and then create a table for your data.
- ms.date: 04/05/2021  
+ ms.date: 03/23/2022  
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
@@ -29,11 +29,13 @@ products:
 - power-platform
 - power-apps 
 - power-automate
-units: 
+subjects:
+- productivity
+units:
 - learn-bizapps.get-started-dataverse-teams.1-introduction 
 - learn-bizapps.get-started-dataverse-teams.2-provision-environment 
 - learn-bizapps.get-started-dataverse-teams.3-create-table 
 - learn-bizapps.get-started-dataverse-teams.4-check 
 - learn-bizapps.get-started-dataverse-teams.5-summary 
 badge: 
-  uid: learn-bizapps.get-started-dataverse-teams.badge 
+  uid: learn-bizapps.get-started-dataverse-teams.badge

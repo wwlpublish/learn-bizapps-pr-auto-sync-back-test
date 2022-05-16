@@ -13,7 +13,7 @@ durationInMinutes: 7
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: What kind of documents I can use to train a Form Processing model? 
+  - content: What kind of documents can I use to train a Form Processing model? 
     choices: 
     - content: Just invoices 
       isCorrect: false 

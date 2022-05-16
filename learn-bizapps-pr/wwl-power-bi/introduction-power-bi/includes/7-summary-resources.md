@@ -9,11 +9,9 @@ Now that you have reviewed this module, you should be able to:
 - Know how to get started with Power BI
 
 ## Key takeaways
-
-
 | | |
 | - | - |
-| ![Icon of lightbulb](../media/key-takeaway.png)| Here are the three key takeaways: |
+| ![Key takeaway icon.](../media/key-takeaway.png)| Here are the three key takeaways: |
 | | 1. Microsoft Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. |
 | | 2. Leveraging Power BI and other Microsoft technologies can lead to significant returns in terms of not only revenue, but your business users' ability to make beneficial decisions. |
 | | 3. Power BI is built on Azure, Microsoft's cloud computing infrastructure and platform, ensuring your data is secure and only accessible by authenticated users. |

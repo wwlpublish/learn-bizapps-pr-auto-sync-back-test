@@ -16,7 +16,7 @@ A special data source is SharePoint. Modern lists in SharePoint and Power Apps h
 
 ![Screenshot of the Power Apps functionality in SharePoint.](../media/powerapps-sharepoint.jpg)
 
-The following app was created from a SharePoint list and lets you browse items in the list, view item details, and create and edit items. After Power Apps generates an app, you can customize it to make it look and behave exactly the way you want.
+The following app was created from a list in Microsoft Lists and lets you browse items in the list, view item details, and create and edit items. After Power Apps generates an app, you can customize it to make it look and behave exactly the way you want.
 
 ![Screenshot of the Power Apps three-screen app view.](../media/powerapps-three-screen-app.png)
 

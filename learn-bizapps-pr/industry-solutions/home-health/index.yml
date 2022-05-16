@@ -29,7 +29,9 @@ roles:
 products: 
 - industry-solutions 
 - mscloud-healthcare
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.home-health.1-introduction 
 - learn-bizapps.home-health.2-bookable-resource 
 - learn-bizapps.home-health.3-schedule-board 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.home-health.5-check 
 - learn-bizapps.home-health.6-summary 
 badge: 
-  uid: learn-bizapps.home-health.badge 
+  uid: learn-bizapps.home-health.badge

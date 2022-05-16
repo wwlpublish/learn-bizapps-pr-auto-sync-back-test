@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.get-data-power-bi 
 metadata: 
  title: Get data with Power BI Desktop
@@ -27,7 +27,9 @@ roles:
 products:  
 - power-platform
 - power-bi 
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.get-data-power-bi.1-overview-power-bi-desktop 
 - learn-bizapps.get-data-power-bi.2-getting-started-power-bi-desktop 
 - learn-bizapps.get-data-power-bi.3-connnect-data-sources-power-bi-desktop 
@@ -38,5 +40,4 @@ units:
 - learn-bizapps.get-data-power-bi.7-knowledge-check 
 - learn-bizapps.get-data-power-bi.8-summary 
 badge: 
-  uid: learn-bizapps.get-data-power-bi-desktop.badge 
-
+  uid: learn-bizapps.get-data-power-bi-desktop.badge

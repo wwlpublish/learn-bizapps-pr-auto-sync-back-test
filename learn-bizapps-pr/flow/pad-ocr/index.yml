@@ -28,11 +28,13 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.pad-ocr.1-introduction 
 - learn-bizapps.pad-ocr.2-ocr-actions 
 - learn-bizapps.pad-ocr.3-exercise-extract-data-image 
 - learn-bizapps.pad-ocr.4-check-knowledge 
 - learn-bizapps.pad-ocr.5-summary 
 badge: 
-  uid: learn-bizapps.pad-ocr.badge 
+  uid: learn-bizapps.pad-ocr.badge

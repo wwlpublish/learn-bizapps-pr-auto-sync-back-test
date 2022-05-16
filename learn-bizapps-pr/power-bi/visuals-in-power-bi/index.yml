@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.visuals-in-power-bi 
 metadata: 
  title: Use visuals in Power BI
@@ -27,7 +27,9 @@ roles:
 products:  
 - power-platform  
 - power-bi 
-units: 
+subjects:
+- data-visualization
+units:
 - learn-bizapps.visuals-in-power-bi.1-intro-visuals 
 - learn-bizapps.visuals-in-power-bi.2-create-simple-visuals 
 - learn-bizapps.visuals-in-power-bi.4-create-slicers 
@@ -39,5 +41,4 @@ units:
 - learn-bizapps.visuals-in-power-bi.20-check 
 - learn-bizapps.visuals-in-power-bi.21-summary 
 badge: 
-  uid: learn-bizapps.create-visuals-power-bi-desktop.badge 
-
+  uid: learn-bizapps.create-visuals-power-bi-desktop.badge

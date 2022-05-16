@@ -110,7 +110,7 @@ select the **Continue** button to edit the flow.
 
 ![Screenshot of Power Automate Monitor Office 365 audit logs showing the SharePoint and Outlook connections.](../media/13-provision-flow.png)
 
-Before configuring your flow, you need to create a custom SharePoint list
+Before configuring your flow, you need to create a list
 where you can store the operations that you will pass into the Office 365
 API. In this scenario, you are interested in knowing when new
 flows are created. As a result, you will add a record that includes a **Title**
@@ -119,7 +119,7 @@ of **CreateFlow**. A complete list of supported operations can be found in this
 
 ![Screenshot of the Security and Compliance topics page.](../media/14-sharepoint.png)
 
-With your SharePoint list created, you can edit your flow so that you can
+With your list in Microsoft Lists created, you can edit your flow so that you can
 connect to your list. While you are in the flow designer, you need to configure a few
 actions, including the Recurrence trigger that
 indicates when your flow will run. You also need to populate a SendTo

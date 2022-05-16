@@ -30,7 +30,9 @@ roles:
 products:  
 - power-platform 
 - power-automate
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.text-manipulation.1-introduction 
 - learn-bizapps.text-manipulation.2-text-actions 
 - learn-bizapps.text-manipulation.3-datetime-actions 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.text-manipulation.5-check-knowledge 
 - learn-bizapps.text-manipulation.6-summary 
 badge: 
-  uid: learn-bizapps.text-manipulation.badge 
+  uid: learn-bizapps.text-manipulation.badge

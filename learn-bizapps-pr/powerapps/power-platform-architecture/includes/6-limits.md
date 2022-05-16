@@ -51,7 +51,7 @@ Microsoft limits the number of concurrent connections for each user account, the
 > Service protection limits can't be increased.
 
 > [!NOTE]
-> For more information, see [API limits](/powerapps/developer/common-data-service/api-limits/?azure-portal=true).
+> For more information, see [API limits](/power-apps/developer/common-data-service/api-limits/?azure-portal=true).
 
 ## Retry policies and patterns
 
@@ -62,11 +62,11 @@ The Web API returns a 429 error if the limit is reached. The response will inclu
 > [!NOTE]
 > Care should be taken to ensure that you don't make it worse by over retrying.
 
-For more information, see [Service protection limits](/powerapps/developer/common-data-service/api-limits/?azure-portal=true).
+For more information, see [Service protection limits](/power-apps/developer/common-data-service/api-limits/?azure-portal=true).
 
 ## Minimize API calls
 
-The solution design must not depend on infinite capacity being available. For normal users of interactive apps, the limits have been set high enough that users should be affected.
+The solution design must not depend on infinite capacity being available. For normal users of interactive apps, the limits have been set high enough that users should not be affected.
 
 Applications that are designed to load data into Dataverse or perform bulk updates must also be able to manage service protection API limit errors. These applications prioritize throughput so that they can complete their work in the minimum amount of time. These applications must have a strategy to retry operations.
 

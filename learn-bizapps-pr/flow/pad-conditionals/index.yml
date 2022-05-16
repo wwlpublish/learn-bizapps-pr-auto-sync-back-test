@@ -30,7 +30,9 @@ roles:
 products:  
 - power-platform
 - power-automate
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.pad-conditionals.1-introduction 
 - learn-bizapps.pad-conditionals.2-conditional-actions 
 - learn-bizapps.pad-conditionals.3-if-group-actions 
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.pad-conditionals.6-check 
 - learn-bizapps.pad-conditionals.7-summary 
 badge: 
-  uid: learn-bizapps.pad-conditionals.badge 
+  uid: learn-bizapps.pad-conditionals.badge

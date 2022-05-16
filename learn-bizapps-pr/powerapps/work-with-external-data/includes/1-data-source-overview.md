@@ -43,5 +43,5 @@ Office365Users.UpdateMyProfile({aboutMe:"I love Power Apps"})
 
 ## Custom connectors
 
-You can create a custom connector to query any web API if no built-in connector suits your needs. You don't need to write C\# code to create a custom connector. You can create your connector with just a few steps by using a Postman or OpenAPI file. For more information, see [Custom connectors for canvas apps](/powerapps/maker/canvas-apps/register-custom-api/?azure-portal=true). The remainder of this learning path discusses how to add a data source,
+You can create a custom connector to query any web API if no built-in connector suits your needs. You don't need to write C\# code to create a custom connector. You can create your connector with just a few steps by using a Postman or OpenAPI file. For more information, see [Custom connectors for canvas apps](/power-apps/maker/canvas-apps/register-custom-api/?azure-portal=true). The remainder of this learning path discusses how to add a data source,
 display data in a gallery, build data sources by using collections, and work with large data sets efficiently by understanding delegation.

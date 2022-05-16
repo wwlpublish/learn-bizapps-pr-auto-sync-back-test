@@ -94,4 +94,4 @@ A common output need for apps is to visualize the data.  For this requirement, y
 
 It is also important to know about the different App accelerators and third-party solutions available to you. Depending on the industry you are in, Health, Financial, Banking, Education, Non- Profit, Automotive, or Media, Microsoft has released a number of accelerators or foundational components to assist you with quickly standing up your solution. For more information, see [Industry accelerators overview](/common-data-model/industry-accelerators?azureportal=true).
 
-For more information. see [Planning a Power Apps project](/powerapps/guidance/planning/introduction/?azure-portal=true).
+For more information. see [Planning a Power Apps project](/power-apps/guidance/planning/introduction/?azure-portal=true).

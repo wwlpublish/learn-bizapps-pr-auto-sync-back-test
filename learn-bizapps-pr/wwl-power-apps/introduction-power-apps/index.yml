@@ -3,12 +3,11 @@ uid: learn-bizapps.wwl.introduction-power-apps
 metadata:
   title: Introduction to Power Apps
   description: "Introduction to Power Apps"
-  ms.date: 05/31/2021
+  ms.date: 04/29/2022
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
   ms.prod: learning-power-apps
-  ms.custom: intro-internal
 title: Introduction to Power Apps
 summary: Learn about the value and capabilities of Power Apps and ways other organizations have leveraged this technology to build simple applications for their business.
 abstract: |
@@ -28,6 +27,8 @@ roles:
 products:
 - power-apps
 - power-platform
+subjects:
+- productivity
 units:
 - learn-bizapps.wwl.introduction-power-apps.introduction
 - learn-bizapps.wwl.introduction-power-apps.power-platform-you

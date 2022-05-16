@@ -16,7 +16,7 @@ abstract: |
     In this module, you will: 
     - Learn about the HTTP connection.
     - Review the SharePoint REST service.
-    - Learn how to use Power Automate flow to add, edit, and delete a SharePoint list item.
+    - Learn how to use Power Automate flow to add, edit, and delete a Microsoft Lists item.
     - Learn how to use Power Automate flow to send an email directly from SharePoint.
 prerequisites: Basic understanding of how to create flows with SharePoint as the trigger 
 iconUrl: /learn/achievements/integration-http-connector.svg  
@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.integration-http-connector.1-introduction 
 - learn-bizapps.integration-http-connector.2-rest-service 
 - learn-bizapps.integration-http-connector.3-list-item 
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.integration-http-connector.5-check 
 - learn-bizapps.integration-http-connector.6-summary 
 badge: 
-  uid: learn-bizapps.integration-http-connector.badge 
+  uid: learn-bizapps.integration-http-connector.badge

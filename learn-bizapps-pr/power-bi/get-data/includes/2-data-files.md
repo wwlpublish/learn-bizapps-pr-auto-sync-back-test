@@ -22,7 +22,7 @@ The Human Resources (HR) team at Tailwind Traders has prepared a flat file that 
 
 ### Flat file location
 
-The first step is to determine which file location that you want to use to export and store your data.
+The first step is to determine which file location you want to use to export and store your data.
 
 Your Excel files might exist in one of the following locations:
 

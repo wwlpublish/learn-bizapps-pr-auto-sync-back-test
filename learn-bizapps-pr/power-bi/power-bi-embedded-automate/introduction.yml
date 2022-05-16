@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-embedded-automate.introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to automating Power BI solution management
+  ms.date: 04/08/2022 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-bi 
+durationInMinutes: 9 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

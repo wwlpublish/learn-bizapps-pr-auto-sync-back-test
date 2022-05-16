@@ -25,7 +25,7 @@ The core architectural components of Microsoft Cloud for Healthcare are:
 
 -   **Empower care team collaboration** - Cloud for Healthcare delivers this core healthcare capability by using the following components:
 
-    -   **Care collaboration** - Use the Health Assistant with Dynamics 365 Sales and the Sales Insights Add-in for Microsoft Dynamics 365 Sales.
+    -   **Care collaboration** - Use Patient insights with Dynamics 365 Sales and the Sales Insights Add-in for Microsoft Dynamics 365 Sales.
 
     -   **Care coordination** - Provide Home Health capabilities by using the Dynamics 365 Field Service application and Dynamics 365 Field Service mobile app. Care Management is a Dynamics 365 model-driven application, which has no prerequisite Dynamics 365 applications.
 

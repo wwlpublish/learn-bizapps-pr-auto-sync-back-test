@@ -41,7 +41,7 @@ quiz:
     - content: Flow actions trigger the flow to occur as long as the defined value of the trigger is met.
       explanation: Triggers invoke actions. 
       isCorrect: false
-  - content: You would like to be alerted to when a change is made to a SharePoint list, what are some ways in which Power Automate can help?
+  - content: You would like to be alerted to when a change is made to a list, what are some ways in which Power Automate can help?
     choices: 
     - content:  Power Automate can send up a flare near you to alert you of changes.
       explanation: No, but that would be cool.

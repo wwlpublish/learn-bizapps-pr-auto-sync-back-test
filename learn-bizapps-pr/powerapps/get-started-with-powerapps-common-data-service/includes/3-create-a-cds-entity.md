@@ -24,7 +24,7 @@ Sign in to [Power Apps](https://make.powerapps.com) and follow these steps to cr
 
 1. At the bottom, select **Create**.
 
-You will notice in our example, the new table and primary column begins with **cree0_**. More columns created for this table will also begin with **cree0**, this is specific to our demo environment. When testing in your own environment this may look different.
+You will notice in our example, the new table and primary column begins with **cree0_**. More columns created for this table will also begin with **cree0**. This is specific to our demo environment. When testing in your own environment this may look different.
 
 ## Add and customize columns
 

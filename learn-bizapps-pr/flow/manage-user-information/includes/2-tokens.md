@@ -1,8 +1,8 @@
 You can build button flows that use information like Global Positioning System (GPS) data, date information, or email. This information is available as *trigger tokens*. Trigger tokens are data points that are known and available to the device that a button flow is running on. These tokens change, based on factors like the current time or the current geographic location of the device.
 
-For example, if you run a button flow on a phone, the phone probably knows the time at your current location, the date, and your current address. In other words, the time and date, and the address where the phone is located, are all determined when the button flow runs. They're automatically available for use in any button flows that are run on the device.
+For example, if you run a button flow on a phone, the phone probably knows the time at your current location, the date, and your current address. In other words, the time and date, and the address where the phone is located, are determined when the button flow runs. They're automatically available for use in any button flows that are run on the device.
 
-You can use these trigger tokens to build useful flows that minimize repetitive tasks like providing your location to someone or tracking how much time you spent on a particular job/service call.
+You can use these trigger tokens to build useful flows that minimize repetitive tasks. Such tasks include providing your location to someone or tracking how much time you spent on a particular job or service call.
 
 ### List of button trigger tokens
 
@@ -27,7 +27,7 @@ Here's the list of button trigger tokens that are available to you when you crea
 
 When you create a button, you can use trigger tokens to add rich functionality to it.
 
-Let's create a button flow on a mobile device to let your colleagues know you are working from home today. 
+Let's create a button flow on a mobile device to let your colleagues know you're working from home today.
 
 Although the procedures in this unit show screenshots from an Apple iOS device, the experience is similar on Android and Windows Phone devices.
 
@@ -43,35 +43,42 @@ Although the procedures in this unit show screenshots from an Apple iOS device, 
 
 1. Select **Browse**.
 
-    ![Screenshot of Power Automate with the Browse button highlighted.](../media/browse.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of Power Automate with the Browse button highlighted.](../media/browse.png)
 
-1. Search for *Working from home today* and select the **Send a "Working from home today "email to your colleagues** service.
+1. Search for *Working from home today* and select the **Send a "Working from home today" email to your colleagues** service.
 
-    ![Screenshot of a 'Working from home today' email.](../media/send-email.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of a 'Working from home today' email.](../media/send-email.png)
 
 1. Select **Use this template**.
 
-    ![Screenshot of the Send a Working from home today email action with the Use this template button highlighted.](../media/template.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Send a Working from home today email action with the Use this template button highlighted.](../media/template.png)
 
 1. Press the title of the **Send an email** card to expand your options. This is a part of simultaneous actions.
 
-    ![Screenshot of the Edit view of the flow with the Send an email action highlighted.](../media/edit-view-send-email.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Edit view of the flow with the Send an email action highlighted.](../media/edit-view-send-email.png)
 
 1. Select the **Subject** field, and enter *WFH today*. Notice that when you selected the **Subject** field, a list of tokens appeared. While the cursor is still in the **Subject** field, scroll through the list of tokens, and select **Date**. Notice that the date token now appears in the **Subject** field.
 
-    ![Screenshot of the Date token added to the Subject field and the Done button highlighted.](../media/data.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Date token added to the Subject field and the Done button highlighted.](../media/data.png)
 
 1. Scroll to the **Body** field and select the default message so that you can add tokens there.
 
 1. In the Search field, enter *Full Address* and select the **Full Address** token.
 
-    ![Screenshot of the Full address token added to the Body field.](../media/full-address.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Full address token added to the Body field.](../media/full-address.png)
 
 1. In the upper right corner, select **Done**.
 
 1. Select **Create**.
 
-    ![Screenshot of the Complete the flow page with the Create button highlighted.](../media/create.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the Complete the flow page with the Create button highlighted.](../media/create.png)
 
 1. Select **Done**. Your button flow is now created.
 
@@ -82,13 +89,14 @@ Although the procedures in this unit show screenshots from an Apple iOS device, 
 
 1. Select the **Buttons** tab at the bottom of the window. You'll see a list of the buttons that you have permissions to use. Select the button that represents the button flow that you created:
 
-    ![Screenshot of Buttons tab with the Send a Working from home today email to your colleagues highlighted.](../media/buttons-email.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of Buttons tab with the Send a Working from home today email to your colleagues highlighted.](../media/buttons-email.png)
 
 1. Your device may prompt you to let the button flow access your device's location information. If necessary, press **Allow**
 
     In a few moments, you'll notice that the email was sent successfully.
 
-    ![Screenshot showing that the work from home Email was sent successfully.](../media/success-message.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot showing that the work from home Email was sent successfully.](../media/success-message.png)
 
 Congratulations! You just created a button flow that uses both the **Date** and **Full Address** trigger tokens.
-

@@ -191,7 +191,7 @@ In this task, you'll create model relationships.
 
     - **Salesperson | EmployeeKey** to **Sales | EmployeeKey**
 
-    In this lab, the **SalespersonRegion** and **Targets** tables will remain disconnected. There's a many-to-many relationship between salesperson and region. You'll work with this advanced scenario in the **Model data in Power BI Desktop, Part 2** lab.
+    In this lab, the **SalespersonRegion** and **Targets** tables will remain disconnected. There's a one-to-many relationship between salesperson and region. You'll work with this advanced scenario in the **Model data in Power BI Desktop, Part 2** lab.
 
 1. In the diagram, place the **Sales** table in the center and arrange the related tables around it. Place the disconnected tables to the side.
 

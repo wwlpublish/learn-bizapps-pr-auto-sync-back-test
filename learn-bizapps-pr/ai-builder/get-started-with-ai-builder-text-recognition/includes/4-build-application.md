@@ -23,7 +23,7 @@ To provide feedback to the user about recognized text, follow these steps:
 
 1. Select **Insert a new label**.
 2. Beneath the **Text Recognizer** component, change the **Text** property to **Selected text:**
-3. Beside the **Insert a text** field, change the **Default** property to **TextRecognizer1.SelectedText**. This property will display the text that was manually selected by the user from the list of texts that were recognized by AI Builder.
+3. Beside the **Insert a text** field, change the **Default** property to **TextRecognizer1.Selected.Text**. This property will display the text that was manually selected by the user from the list of texts that were recognized by AI Builder.
 
 ## Retrieve the list of all text lines and display it to the user
 
@@ -55,4 +55,4 @@ The selected text will now appear in the **Selected text:** field.
 
 AI Builder Text recognition is able to recognize various printed character fonts and handwritten text.
 
-You can use these results in many possible ways, such as saving it on your Microsoft Dataverse environment or other database with the help of connectors. For more information, see [Show, edit, or add a record in a canvas app](/powerapps/maker/canvas-apps/add-form/?azure-portal=true).
+You can use these results in many possible ways, such as saving it on your Microsoft Dataverse environment or other database with the help of connectors. For more information, see [Show, edit, or add a record in a canvas app](/power-apps/maker/canvas-apps/add-form/?azure-portal=true).

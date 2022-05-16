@@ -9,7 +9,7 @@ metadata:
   ms.author: robde 
   ms.topic: interactive-tutorial 
   ms.prod: learning-power-bi 
-durationInMinutes: 12
+durationInMinutes: 18
 content: | 
  [!include[](../includes/unit-banner.md)] 
  [!include[](includes/5-directquery-models.md)] 

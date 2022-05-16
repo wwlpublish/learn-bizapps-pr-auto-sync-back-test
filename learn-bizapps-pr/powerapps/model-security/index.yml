@@ -3,7 +3,7 @@ uid: learn-bizapps.model-security
 metadata: 
  title: "Solution architect series: Model security for Power Platform solutions"
  description: Lean about security functionality within Microsoft Dataverse.
- ms.date: 04/19/2021
+ ms.date: 04/11/2022
  author: DaveBeasley  
  ms.author: dbeasley   
  ms.topic: interactive-tutorial  
@@ -27,12 +27,15 @@ products:
 - power-platform
 - common-data-service
 - dynamics-365
-units: 
+subjects:
+- security
+units:
 - learn-bizapps.model-security.1-introduction
 - learn-bizapps.model-security.2-environment
 - learn-bizapps.model-security.3-data-loss-prevention
 - learn-bizapps.model-security.4-dataverse
 - learn-bizapps.model-security.5-apps
+- learn-bizapps.model-security.exercise
 - learn-bizapps.model-security.6-check
 - learn-bizapps.model-security.7-summary
 badge: 

@@ -96,7 +96,7 @@ Once you have completed all the previous tasks to install and configure the prer
 1.  Select the **Deploy** button in the upper right.
 
 	> [!NOTE]
-	> Health assistant is not a required Healthcare solution to complete any lab in this series. If you do want to deploy Health assistant, Sales Insights is a required license.
+	> Patient insights is not a required Healthcare solution to complete any lab in this series. If you do want to deploy Patient insights, Sales Insights is a required license.
 
 1.  In Additional Components, select both **sample data** and **codeable concepts** to include them in installation. This is important as the lab content is based off this data. Select **Next**.
 

@@ -27,11 +27,13 @@ products:
 - power-platform
 - power-apps
 - office-excel
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.transform-business-process.1-introduction 
 - learn-bizapps.transform-business-process.2-canvas-app 
 - learn-bizapps.transform-business-process.3-new-data-model 
 - learn-bizapps.transform-business-process.4-check 
 - learn-bizapps.transform-business-process.5-summary 
 badge: 
-  uid: learn-bizapps.transform-business-process.badge 
+  uid: learn-bizapps.transform-business-process.badge

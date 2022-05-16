@@ -20,7 +20,7 @@ After a custom connector has become available, makers can start building assets 
 
 Individual connections can also be shared explicitly, which adds flexibility for the maker to select between securing the connection or delegating the permission management to the connector.
 
-The other option to make a custom connector available to other users is to [share an app](/powerapps/share-app/?azure-portal=true) or [share a cloud flow](/power-automate/create-team-flows/?azure-portal=true) that uses the connector. Connectors that are shared through an app or a cloud flow can only be used within that app or flow.
+The other option to make a custom connector available to other users is to [share an app](/power-apps/share-app/?azure-portal=true) or [share a cloud flow](/power-automate/create-team-flows/?azure-portal=true) that uses the connector. Connectors that are shared through an app or a cloud flow can only be used within that app or flow.
 
 > [!IMPORTANT]
 > As a maker, you should be aware of the dependencies that are taken on your custom connector by other users. When a connector is shared, deleting the connector will delete all associated connections.

@@ -3,7 +3,7 @@ uid: learn-bizapps.security-governance-intro
 metadata: 
  title: Introduction to Microsoft Power Platform security and governance  
  description: Learn how to secure and govern Microsoft Power Platform apps.
- ms.date: 12/01/2021
+ ms.date: 02/25/2022
  author: DaveBeasley 
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
@@ -29,7 +29,9 @@ products:
 - power-automate
 - power-platform 
 - power-apps
-units: 
+subjects:
+- information-protection-governance
+units:
 - learn-bizapps.security-governance-intro.1-introduction 
 - learn-bizapps.security-governance-intro.2-environments 
 - learn-bizapps.security-governance-intro.3-data-loss-prevention 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.security-governance-intro.6-check 
 - learn-bizapps.security-governance-intro.7-summary 
 badge: 
-  uid: learn-bizapps.security-governance-intro.badge 
+  uid: learn-bizapps.security-governance-intro.badge

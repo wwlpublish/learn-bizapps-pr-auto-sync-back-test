@@ -23,6 +23,8 @@ roles:
 products:
 - office-excel
 - power-bi
+subjects:
+- productivity
 modules:
 - learn.wwl.analytics-excel
 - learn.wwl.mapping-learning-to-power-bi

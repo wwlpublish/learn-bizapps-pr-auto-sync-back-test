@@ -28,7 +28,9 @@ products:
 - power-platform
 - industry-solutions 
 - mscloud-financial
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.financial-services-overview.1-introduction 
 - learn-bizapps.financial-services-overview.2-customer-experiences 
 - learn-bizapps.financial-services-overview.3-financial-crime 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.financial-services-overview.6-check 
 - learn-bizapps.financial-services-overview.7-summary 
 badge: 
-  uid: learn-bizapps.financial-services-overview.badge 
+  uid: learn-bizapps.financial-services-overview.badge

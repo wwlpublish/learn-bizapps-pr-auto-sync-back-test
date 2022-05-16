@@ -46,7 +46,7 @@ Now you can find out what day of the week that is by using another Compose actio
 dayOfWeek(outputs('Compose'))
 ```
 
-This returns the value of 4, which represents Thursday as it counts up from Sunday as 0. Here's a screenshot of the current flow to validate what you have built. Note the expressions have been placed in a comment to make them easier to read.
+This returns the value of 4, which represents Thursday as it counts up from Sunday as 0. Here's a screenshot of the current flow to validate what you have built. Note the expressions have been placed in a note to make them easier to read.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of validate flow built with Manually trigger a flow, Compose, and Compose 2.](../media/flow-built-ss.png)](../media/flow-built-ss.png#lightbox)

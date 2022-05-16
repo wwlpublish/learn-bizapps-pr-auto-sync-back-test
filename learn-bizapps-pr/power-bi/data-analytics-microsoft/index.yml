@@ -25,7 +25,9 @@ roles:
 products:   
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.data-analytics-microsoft.1-introduction 
 - learn-bizapps.data-analytics-microsoft.2-data-analysis 
 - learn-bizapps.data-analytics-microsoft.3-roles 
@@ -33,4 +35,4 @@ units:
 - learn-bizapps.data-analytics-microsoft.5-check 
 - learn-bizapps.data-analytics-microsoft.6-summary 
 badge: 
-  uid: learn-bizapps.data-analytics-microsoft.badge 
+  uid: learn-bizapps.data-analytics-microsoft.badge

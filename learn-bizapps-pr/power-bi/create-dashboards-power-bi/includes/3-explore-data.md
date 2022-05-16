@@ -20,7 +20,7 @@ The Q&A visual consists of three main elements:
 
 -   **Question box** - In this element, the user can enter their question about the data. An example of a question could be: What was the average sales amount by category? Entering this question will trigger Power BI's natural-language analysis engine to parse and determine the appropriate data to display.
 
--   **Pre-populated suggestion tiles** - This element contains tiles with pre-populated suggestions for questions that the user can consider asking. When the user selects one of these tiles, they will be shown analysis. For example, if you select the **top product category named by march sales** tile, you would get the following visual that is converted from the Q&A visual.
+-   **Pre-populated suggestion tiles** - This element contains tiles with pre-populated suggestions for questions that the user can consider asking. When the user selects one of these tiles, they will be shown analysis. For example, if you select the **top product category names by march sales** tile, you would get the following visual that is converted from the Q&A visual.
 
 	> [!div class="mx-imgBorder"]
 	> [![Example of selecting convert icon](../media/03-converting-visual-icon-ss.png)](../media/03-converting-visual-icon-ss.png#lightbox)

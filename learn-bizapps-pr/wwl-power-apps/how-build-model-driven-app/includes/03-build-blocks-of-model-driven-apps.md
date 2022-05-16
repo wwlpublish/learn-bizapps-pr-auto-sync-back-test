@@ -23,7 +23,7 @@ The table below shows the user interface components which determine how users wi
 | **Component**      | **Description**                                                                                                                                                                                 | **Designer**      |
 | App                | Apps determine the app fundamentals, like components, properties, the client type, and the URL.                                                                                                 | App designer      |
 | Site map           | A site map specifies the navigation for your app.                                                                                                                                               | Site map designer |
-| Form               | Forms include a set of data entry columns for a given table. A form can be used to create or edit an existing data row.                                                                         | Form designer     |
+| Form               | Forms include a set of data entry columns for a given table. A form can be used to create a new data row or edit an existing one.                                                                         | Form designer     |
 | View               | Views define how a list of rows for a specific table appears in your app. A view defines the columns shown, the width of each column, the sorting behavior, and the default filters.            | View designer     |
 
 [![App designer and form designer](../media/user-interface-form.png)](../media/user-interface-form.png#lightbox)
@@ -56,5 +56,7 @@ The visualization components determine what type of data and reporting the app w
 
 Some examples of visualizations in a model-driven app:
 [![Sample dashboard](../media/model-driven-visualizations.png)](../media/model-driven-visualizations.png#lighbox)
+
+
 
 

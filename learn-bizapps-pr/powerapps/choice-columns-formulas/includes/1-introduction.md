@@ -61,7 +61,7 @@ One common data modeling decision is choosing between a choice column and a look
 | Treated as a solution component with full ALM support | Treated as reference data |
 | Only has label and value, and only label is useable in formulas (for example, filter and sorting only on display label) | Can add other data to a look-up target table that can be used in formulas (for example, filter and sorting on any column that is added to table) |
 | Localization built in | Handle localization yourself |
-| No built-in support of dependent choice columns | Easier to data model and implement dependent columns (see [Create a dependent dropdown list in a canvas app](/powerapps/maker/canvas-apps/dependent-drop-down-lists/?azure-portal=true)) |
+| No built-in support of dependent choice columns | Easier to data model and implement dependent columns (see [Create a dependent dropdown list in a canvas app](/power-apps/maker/canvas-apps/dependent-drop-down-lists/?azure-portal=true)) |
 
 After you have created the column, you can't change the data type; therefore, before you create the column, consider how the apps and automation will be using the data.
 

@@ -22,14 +22,14 @@ Three actions are available for **Approvals**:
 
 ## In sequence or simultaneously
 
-It is possible to have a scenario where you need to send approval actions to a list of users whose names are from a SharePoint list. In this case, the approval action is automatically added to an **Apply to each** filter, and the approval action by default will run in sequential order based on the names that it gets from the SharePoint list. However, you do have the option to have all those actions in the **Apply to each** filter run in parallel, which will send all approval actions simultaneously.
+It is possible to have a scenario where you need to send approval actions to a list of users whose names are from a Microsoft list. In this case, the approval action is automatically added to an **Apply to each** filter, and the approval action by default will run in sequential order based on the names that it gets from the list. However, you do have the option to have all those actions in the **Apply to each** filter run in parallel, which will send all approval actions simultaneously.
 
-For example, consider a scenario where you have a SharePoint list that has items such as PTO, travel, and expense, and each item has its respective approver.
+For example, consider a scenario where you have a list that has items such as PTO, travel, and expense, and each item has its respective approver.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of a list of approvers for PTO, travel, and expense.](../media/approvers.png)](../media/approvers.png#lightbox)
 
-Based on the approval type that is added, the flow will filter through the SharePoint list and find the respective approvers.
+Based on the approval type that is added, the flow will filter through the list and find the respective approvers.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of a Travel type approval flow.](../media/travel-type.png)](../media/travel-type.png#lightbox)

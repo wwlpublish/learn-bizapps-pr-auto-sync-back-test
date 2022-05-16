@@ -27,6 +27,8 @@ roles:
 products:
 - industry-solutions
 - mscloud-nonprofit
+subjects:
+- modern-work
 units:
 - learn-bizapps.manage-volunteers-groups.1-introduction
 - learn-bizapps.manage-volunteers-groups.2-work-volunteers

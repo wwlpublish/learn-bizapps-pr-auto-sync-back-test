@@ -30,7 +30,9 @@ roles:
 products:  
 - power-platform
 - power-apps 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.integrate-common-data-service.1-introduction 
 - learn-bizapps.integrate-common-data-service.2-table-forms 
 - learn-bizapps.integrate-common-data-service.3-web-form-processes 
@@ -40,4 +42,4 @@ units:
 - learn-bizapps.integrate-common-data-service.7-check 
 - learn-bizapps.integrate-common-data-service.8-summary 
 badge: 
-  uid: learn-bizapps.integrate-common-data-service.badge 
+  uid: learn-bizapps.integrate-common-data-service.badge

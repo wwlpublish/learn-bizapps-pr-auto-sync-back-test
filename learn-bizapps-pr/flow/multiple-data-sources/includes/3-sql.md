@@ -1,6 +1,6 @@
 This unit shows how to create a flow that monitors a source for new or changed items, and then copies those changes to a destination. You might create a flow of this type if your users enter data in one location, but your team needs that data in a different location or format.
 
-In this unit, you'll copy data from a [Microsoft SharePoint list](https://support.office.com/article/SharePoint-lists-I-An-introduction-f11cd5fe-bc87-4f9e-9bfe-bbd87a22a194/?azure-portal=true), the source, to a [Microsoft Azure SQL Database](/azure/sql-database/sql-database-technical-overview/?azure-portal=true) table, the destination.
+In this unit, you'll copy data from a list in [Microsoft Lists](https://support.office.com/article/SharePoint-lists-I-An-introduction-f11cd5fe-bc87-4f9e-9bfe-bbd87a22a194/?azure-portal=true), the source, to a [Microsoft Azure SQL Database](/azure/sql-database/sql-database-technical-overview/?azure-portal=true) table, the destination.
 
 Keep in mind that you can copy data over more than [275 services](https://flow.microsoft.com/connectors/?azure-portal=true) that Power Automate supports.
 
@@ -53,7 +53,7 @@ First, we'll set up the SharePoint site to monitor changes.
 
 1. Select **Create**.
 
-1. On the **When an item is created or modified** card, enter the site address, and then select the name of the SharePoint list that your flow monitors for new or updated items.
+1. On the **When an item is created or modified** card, enter the site address, and then select the name of the list in Microsoft Lists that your flow monitors for new or updated items.
 
     ![Screenshot of When an item is created or modified with the Site Address set to a SharePoint teams address, and List Name set to TravelTimeList.](../media/configure-sharepoint-trigger.png)
 
@@ -145,8 +145,7 @@ Next, if the item exists in the destination, update it with the changes.
 
     ![Screenshot of the finished flow. When an item is created or modified, get rows. If length is equal to zero, Insert row. If not, Update row.](../media/finished-flow.png)
 
-Now, whenever an item in your SharePoint list, the source, changes, your flow is triggered. It either inserts a new item or updates an existing item in SQL Database, the destination.
+Now, whenever an item in your list, the source, changes, your flow is triggered. It either inserts a new item or updates an existing item in SQL Database, the destination.
 
 > [!NOTE]
 > Your flow isn't triggered when an item is deleted from the source. If this scenario is important to you, consider adding a separate column that indicates when an item is no longer needed.
-

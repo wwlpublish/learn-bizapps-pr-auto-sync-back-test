@@ -3,7 +3,7 @@ uid: learn-bizapps.visuals-power-bi
 metadata: 
  title: Work with Power BI visuals
  description: Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs).
- ms.date: 07/28/2021
+ ms.date: 03/18/2022
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
@@ -28,7 +28,9 @@ roles:
 products:   
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-visualization
+units:
 - learn-bizapps.visuals-power-bi.1-introduction 
 - learn-bizapps.visuals-power-bi.2-add-visualization 
 - learn-bizapps.visuals-power-bi.3-effective-visualization 
@@ -40,4 +42,4 @@ units:
 - learn-bizapps.visuals-power-bi.9-check 
 - learn-bizapps.visuals-power-bi.10-summary 
 badge: 
-  uid: learn-bizapps.visuals-power-bi.badge 
+  uid: learn-bizapps.visuals-power-bi.badge

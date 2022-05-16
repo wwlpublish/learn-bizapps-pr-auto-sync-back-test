@@ -2,7 +2,7 @@ The pains of version control are common. For example, working on a project with 
 
 ![Image of the problem with working with different versions of a report.](../media/1-4/power-bi-versioning-problem7.png)
 
-Power BI simplifies collaboration and improves the outcome by allowing you and your colleagues to work simultaneously on the same dashboards and reports. And, while you and your colleagues explore the data and make changes to the reports and dashboards, the underlying is not affected.
+Power BI simplifies collaboration and improves the outcome by allowing you and your colleagues to work simultaneously on the same dashboards and reports. And, while you and your colleagues explore the data and make changes to the reports and dashboards, the underlying data is not affected.
 
 ![Image showing that everyone is working with the same version of a Power B I report.](../media/1-4/power-bi-versioning-solution7.png)
 

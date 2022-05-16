@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.author-advanced-formulas 
 metadata: 
   title: Create formulas that use tables, records, and collections in a canvas app in Power Apps
@@ -29,7 +29,9 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.author-advanced-formulas.1-formulas-multiple-records 
 - learn-bizapps.author-advanced-formulas.2-math-operation 
 - learn-bizapps.author-advanced-formulas.3-combine-separate-records 
@@ -38,5 +40,4 @@ units:
 - learn-bizapps.author-advanced-formulas.5-knowledge-check 
 - learn-bizapps.author-advanced-formulas.6-summary 
 badge: 
-  uid: learn-bizapps.author-advanced-formulas.badge 
-
+  uid: learn-bizapps.author-advanced-formulas.badge

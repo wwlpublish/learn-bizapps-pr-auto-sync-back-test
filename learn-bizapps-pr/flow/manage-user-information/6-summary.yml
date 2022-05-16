@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.manage-user-information.6-summary 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.manage-user-information.6-summary
 title: Summary
-metadata: 
+metadata:
   title: Summary
   description: Summary of creating flows to manage user information.
-  ms.date: 12/01/2021 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-automate 
-durationInMinutes: 1 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/6-summary.md)] 
+  ms.date: 03/29/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-automate
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/6-summary.md)]

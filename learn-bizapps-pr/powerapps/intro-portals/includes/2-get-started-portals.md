@@ -82,4 +82,4 @@ The high-level steps to provision a starter portal are:
 >
 >
 >
-Step-by-step instructions to provision a portal are available at [Provision a portal](/dynamics365/customer-engagement/portals/provision-portal/?azure-portal=true).
+Step-by-step instructions to provision a portal are available at [Provision a portal](/dynamics365/portals/provision-portal?azure-portal=true).

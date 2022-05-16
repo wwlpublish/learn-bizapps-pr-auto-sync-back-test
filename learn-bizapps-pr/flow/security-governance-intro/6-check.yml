@@ -4,7 +4,7 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 12/01/2021 
+ ms.date: 02/25/2022 
  author: DaveBeasley 
  ms.author: dbeasley 
  ms.topic: interactive-tutorial 
@@ -32,7 +32,7 @@ quiz:
     - content: The new Microsoft Power Platform Admin portal provides an experience that will automatically detect if a pending change to a DLP policy will break existing apps.
       isCorrect: false
       explanation: Breaking an existing app due to a new DLP policy change will create a negative experience for app makers and users. However, using the DLP Strategy app can mitigate these issues by detecting changes before they are made. An experience also exists that allows the administrator to send an email within the app.
-    - content: The DLP Strategy app, found within the Center of Excellence Starter Kit, includes functionality that will detect if a pending change to a DLP policy will break existing apps.
+    - content: The DLP Editor V2 app, found within the Center of Excellence Starter Kit, includes functionality that will detect if a pending change to a DLP policy will break existing apps.
       isCorrect: true
       explanation: Breaking an existing app due to a new DLP policy change will create a negative experience for app makers and users. However, using the DLP Strategy app can mitigate these issues by detecting changes before they are made. An experience also exists that allows the administrator to send an email within the app.
     - content: Microsoft Power Platform management connectors will automatically detect these breaking changes and notify the administrator.

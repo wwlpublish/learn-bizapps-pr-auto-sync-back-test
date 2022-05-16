@@ -23,6 +23,8 @@ products:
 - power-platform
 - common-data-service
 - azure-application-insights
+subjects:
+- custom-app-development
 modules:
 - learn-bizapps.testing-performance-checks
 - learn-bizapps.monitor-to-troubleshoot

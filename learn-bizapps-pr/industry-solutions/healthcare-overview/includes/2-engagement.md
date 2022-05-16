@@ -101,7 +101,7 @@ Various features that are included in **Patient Service Center** are:
 
 ### Azure Health Bot
 
-Azure Health Bot Service is a cloud platform that empowers developers in healthcare organizations to build and deploy their own compliant, AI-powered virtual health assistants and health bots, improving processes and reducing costs.
+Azure Health Bot Service is a cloud platform that empowers developers in healthcare organizations to build and deploy their own compliant, AI-powered patient insights and health bots, improving processes and reducing costs.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Azure Health Bot Service showing Language models.](../media/health-bot-service.png)](../media/health-bot-service.png#lightbox)

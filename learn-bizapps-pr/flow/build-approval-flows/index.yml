@@ -3,7 +3,7 @@ uid: learn-bizapps.build-approval-flows
 metadata: 
  title: Build approval flows with Power Automate
  description: Learn how to build approval flows with Power Automate.
- ms.date: 12/01/2021  
+ ms.date: 02/25/2022  
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
@@ -28,7 +28,9 @@ roles:
 products: 
 - power-platform
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.build-approval-flows.1-introduction 
 - learn-bizapps.build-approval-flows.2-create-approval-request 
 - learn-bizapps.build-approval-flows.3-process-approval-request 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.build-approval-flows.7-check 
 - learn-bizapps.build-approval-flows.8-summary 
 badge: 
-  uid: learn-bizapps.build-approval-flows.badge 
+  uid: learn-bizapps.build-approval-flows.badge

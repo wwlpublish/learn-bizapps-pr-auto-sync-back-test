@@ -91,7 +91,7 @@ When a user starts a business process flow, the process bar at the top of the pa
 
         1. Enter a display name.
         1. Select when the workflow should be triggered.
-        1. Search for an existing on-demand active workflow that matches the stage table, or create a workflow by selecting **New**.
+        1. Search for an existing on-demand active workflow that matches the stage table or create a workflow by selecting **New**.
         1. When you've finished, select **Apply**.
 
 1. To validate the business process flow, select **Validate** on the action bar.
@@ -138,7 +138,7 @@ Keep the following points in mind when you edit the stages of a business process
 
   - **Stage Name**: You can change the stage name after you create the stage.
   - **Table**: You can change the table for any stage except the first one.
-  - **Stage Category**: A category lets you group stages by the type of action. It's useful for reports that will group records by the stage that they're in. The options for the stage category come from the Stage Category global option set. You can add more options to this global option set and change the labels of existing options. You can also delete options, but we recommend that you keep the existing options. If you delete an option, you won't be able to add it back later. If you don't want an option to be used, change the label to *Do not use*.
+  - **Stage Category**: A category lets you group stages by the type of action. It's useful for reports that will group records by the stage that they're in. The options for the stage category come from the Stage Category global choice set. You can add more choices to this global choice set and change the labels of existing choices. You can also delete choices, but we recommend that you keep the existing choices. If you delete a choice, you won't be able to add it back later. If you don't want a choice to be used, change the label to *Do not use*.
   - **Relationship**: Enter a relationship when the preceding stage in the process is based on a different table than the current stage. For the current stage, select **Select relationships**, and then specify the relationship that should be used when the flow moves between the two stages. We recommend that you specify relationships, because they provide the following benefits:
 
     - Attribute maps are often defined for relationships. These attribute maps automatically carry over data between records. Therefore, they help minimize the amount of data entry that's required.

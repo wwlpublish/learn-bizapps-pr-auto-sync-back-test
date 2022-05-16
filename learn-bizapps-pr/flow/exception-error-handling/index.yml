@@ -31,7 +31,9 @@ roles:
 products:  
 - power-platform 
 - power-automate
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.exception-error-handling.1-introduction 
 - learn-bizapps.exception-error-handling.2-exception-error-handling-levels 
 - learn-bizapps.exception-error-handling.3-exception-handling-level-one-two 
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.exception-error-handling.7-check-knowledge
 - learn-bizapps.exception-error-handling.8-summary 
 badge: 
-  uid: learn-bizapps.exceptions-handling.badge 
+  uid: learn-bizapps.exceptions-handling.badge

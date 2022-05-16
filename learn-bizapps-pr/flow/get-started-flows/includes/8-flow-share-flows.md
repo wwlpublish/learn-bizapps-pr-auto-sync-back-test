@@ -38,17 +38,31 @@ You create a shared flow by adding more owners to an existing flow. After new ow
 
 Keep in mind that when you share a flow, it appears on the **Shared with me** tab. It no longer appears on the **Cloud flows** tab.
 
-## Add a SharePoint list as a co-owner of a flow
+## Add Microsoft Lists as a co-owner of a flow
 
-You can add a Microsoft SharePoint list as a co-owner of a flow. In that way, everyone who has edit access to the list automatically gets edit access to the flow. After the flow is shared, you can just distribute a link to it.
+You can add a list created using Microsoft Lists as a co-owner of a flow. In that way, everyone who has edit access to the list automatically gets edit access to the flow. After the flow is shared, you can just distribute a link to it.
+
+> [!IMPORTANT]
+>SharePoint users must have Edit permission or be a member of the Members or Owners group to run flows in SharePoint.
 
 ## Restrictions on changes to flows
 
-Any owner of a shared flow can contribute connections to a flow. After another person has access to the flow, that person can use any connections in it, but only within the scope of that flow.
+Adding an owner to a cloud flow is the most common way to share a cloud flow. The new owner of the cloud flow can also perform these actions:
 
-For example, John creates a flow that updates items in SharePoint with his account, and he shares the flow with Mary. In this case, Mary will be able to change the use of SharePoint inside that flow, but not in any of her personal flows. Likewise, Mary can change the flow so that it uses her SharePoint connection, but John still won't able to use that new SharePoint connection in any of his flows.
+1. View the run history.
 
-To view all the connections that are used by a flow, select the **Share** button, and inspect the list of embedded connections.
+1. Manage the properties of the flow (for example, start or stop the flow, add owners, or update credentials for a connection).
+
+1. Edit the definition of the flow (for example, add or remove an action or condition).
+
+1. Add or remove other owners (but not the flow's creator).
+
+1. Delete the flow.
+
+Once a flow has been shared it is no longer in the **Cloud flows** but in the **Shared with me**.
+
+> [!IMPORTANT]
+> Owners can use services in a cloud flow but can't modify the credentials for a connection that another owner created. Also, shared connections can be used only in the flow in which they were created.
 
 ## Remove an owner
 

@@ -2,7 +2,7 @@
 uid: learn-bizapps.cloud-retail-get-started
 metadata:
  title: Get started with Microsoft Cloud for Retail
- description: In this module, we explore Microsoft Cloud for Retail and first steps to get started in your organization.
+ description: In this module, you'll explore Microsoft Cloud for Retail and the first steps to get it started in your organization.
  ms.date: 02/18/2022
  author: DaveBeasley
  ms.author: dbeasley
@@ -11,12 +11,12 @@ metadata:
 title: Get started with Microsoft Cloud for Retail
 summary: |
   [!include[](../includes/module-banner.md)]
-  Microsoft Cloud for Retail is a solution tailored for retail and offers many capabilities to help your retail business grow. With Cloud for Retail, you can elevate the shopping experience, build a real-time and sustainable supply chain. Empower store associates and maximize the value of your data.
+  Microsoft Cloud for Retail is a solution that is tailored for retail and offers many capabilities to help your retail business grow. With Cloud for Retail, you can elevate the shopping experience and build a real-time and sustainable supply chain. Moreover, you can empower store associates and maximize the value of your data.
 abstract: |
     In this module, you'll:
-    - Understand the capabilities of Microsoft Cloud for Retail
-    - Evaluate the use of Microsoft Cloud for Retail in your organization
-prerequisites: Basic understanding of Microsoft Power Platform, Azure, and retail use case scenarios.
+    - Discover the capabilities of Microsoft Cloud for Retail.
+    - Evaluate the use of Microsoft Cloud for Retail in your organization.
+prerequisites: Basic understanding of Microsoft Power Platform, Microsoft Azure, and retail use case scenarios
 iconUrl: /learn/achievements/cloud-retail-get-started.svg
 levels:
 - beginner
@@ -26,6 +26,8 @@ roles:
 products:
 - industry-solutions
 - mscloud-retail
+subjects:
+- modern-work
 units:
 - learn-bizapps.cloud-retail-get-started.1-introduction
 - learn-bizapps.cloud-retail-get-started.2-unified-profiles

@@ -1,14 +1,17 @@
-You can view a summary of the number of times that each flow succeeded or failed today, yesterday, and on previous days. You can also explore details about each run, like when it ran, how long each step took, and, if a step failed, why it failed.
+You can view a summary of the number of times that each flow succeeded or failed today, yesterday, and on previous days. You can also explore details about each run, such as:
+
+- When it ran
+- How long each step took
+- If a step failed, why it failed
 
 ## Prerequisites
 
 - Install the Power Automate mobile app for [Google Android](https://aka.ms/flowmobiledocsandroid/?azure-portal=true) or [Apple iOS](https://aka.ms/flowmobiledocsios/?azure-portal=true) on a supported device. The screenshots in this unit were taken on the Apple iPhone version of the app, but the mobile app for Android and Windows Phone is similar.
 
-- If you have completed all of the Units in this Learning Path, you will have many flow runs available for review. If you don't already have a flow, you will want to create one now on the [Power Automate website](https://flow.microsoft.com/?azure-portal=true) before proceeding with this unit. For easier testing, use a flow that you can trigger yourself instead of waiting for an external event.
+- If you've completed all of the Units in this Learning Path, you'll have many flow runs available for review. If you don't already have a flow, you'll want to create one now on the [Power Automate website](https://flow.microsoft.com/?azure-portal=true) before proceeding with this unit. For easier testing, use a flow that you can trigger yourself instead of waiting for an external event.
 
 > [!TIP]
 > For testing, you can set up the flow with your personal email address. Then, when the flow is ready for real use, you can set it up with a different address (for example, your manager's).
-
 
 ## Show a summary of activity
 
@@ -42,7 +45,7 @@ You can view a summary of the number of times that each flow succeeded or failed
 
     ![Screenshot of Activity details. Run details are On new email, Get my profile, Get manager, and Check if it is my manager.](../media/activity-icons.png)
 
-1. In the upper right-hand corner of the screen, select the **...** and then select **See previous runs**. 
+1. In the upper right-hand corner of the screen, select the **...** and then select **See previous runs**.
 
     ![Screenshot of the Run history showing Flow successful and the date and time for each run under TODAY (17).](../media/history-mixed.png)
 
