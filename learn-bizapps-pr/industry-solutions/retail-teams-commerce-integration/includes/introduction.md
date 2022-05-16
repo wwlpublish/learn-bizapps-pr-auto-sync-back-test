@@ -25,7 +25,7 @@ Additionally, you’ll experience simplified task management:
 This lab will focus on the retail story of Fabrikam Retail.
 
 > [!div class="mx-imgBorder"]
-> [![Diagram of the retail story showing different needs and tailored experiences.](../media/story.svg)](../media/story.svg#lightbox)
+> [![Diagram of the retail story showing different needs and tailored experiences.](../media/story.png)](../media/story.png#lightbox)
 
 In the following exercises, you'll be playing the role of a system administrator, a retail communications manager, a store manager, and a retail employee, as follows:
 
