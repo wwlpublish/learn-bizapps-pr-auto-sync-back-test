@@ -3,12 +3,11 @@ uid: learn-bizapps.wwl.introduction-power-platform
 metadata:
   title: Introduction to Microsoft Power Platform
   description: "Introduction to Microsoft Power Platform"
-  ms.date: 06/01/2021
+  ms.date: 05/10/2022
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
   ms.prod: learning-power-apps
-  ms.custom: intro-internal
 title: Introduction to Microsoft Power Platform
 summary: Learn about the components of Microsoft Power Platform, the business value for customers, and security of the technology.
 abstract: |
@@ -33,6 +32,7 @@ products:
 units:
 - learn-bizapps.wwl.introduction-power-platform.introduction
 - learn-bizapps.wwl.introduction-power-platform.power-platform
+- learn-bizapps.wwl.introduction-power-platform.business-value
 - learn-bizapps.wwl.introduction-power-platform.data-connectors
 - learn-bizapps.wwl.introduction-power-platform.data-loss-prevention-compliance-privacy-accessibility
 - learn-bizapps.wwl.introduction-power-platform.pulling-together

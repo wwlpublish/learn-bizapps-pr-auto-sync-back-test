@@ -191,7 +191,7 @@ In this task, you'll create model relationships.
 
     - **Salesperson | EmployeeKey** to **Sales | EmployeeKey**
 
-    In this lab, the **SalespersonRegion** and **Targets** tables will remain disconnected. There's a many-to-many relationship between salesperson and region. You'll work with this advanced scenario in the **Model data in Power BI Desktop, Part 2** lab.
+    In this lab, the **SalespersonRegion** and **Targets** tables will remain disconnected. There's a one-to-many relationship between salesperson and region. You'll work with this advanced scenario in the **Model data in Power BI Desktop, Part 2** lab.
 
 1. In the diagram, place the **Sales** table in the center and arrange the related tables around it. Place the disconnected tables to the side.
 
@@ -341,7 +341,7 @@ In this task, you will configure the **Sales** table.
 
 In this task, you will update multiple columns in a single bulk update. You will use this approach to hide columns, and format column values.
 
-1. While pressing the **Ctrl** key, select the following 14 columns (spanning multiple tables):
+1. While pressing the **Ctrl** key, select the following 13 columns (spanning multiple tables):
 
     - Product | ProductKey
 
