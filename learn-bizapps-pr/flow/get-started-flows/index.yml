@@ -1,4 +1,4 @@
-﻿### YamlMime:Module
+### YamlMime:Module
 uid: learn-bizapps.flow-get-started
 metadata:
   title: Get started with Power Automate
@@ -29,6 +29,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- process-workflow
 units:
 - learn-bizapps.flow-get-started.1-flow-introduction
 - learn-bizapps.flow-get-started.2-flow-create-first
@@ -40,4 +42,3 @@ units:
 - learn-bizapps.flow-get-started.11-summary-cleanup
 badge:
   uid: learn.flow-get-started.badge
-

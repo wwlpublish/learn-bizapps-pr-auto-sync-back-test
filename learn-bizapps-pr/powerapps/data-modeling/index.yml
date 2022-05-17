@@ -28,7 +28,10 @@ products:
 - power-platform
 - common-data-service
 - dynamics-customer-engagement
-units: 
+subjects:
+- data-modeling
+- business-applications
+units:
 - learn-bizapps.data-modeling.1-introduction
 - learn-bizapps.data-modeling.2-common-data-model
 - learn-bizapps.data-modeling.3-data-model

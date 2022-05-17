@@ -14,7 +14,7 @@ The reasons why XLOOKUP() is more optimal than VLOOKUP() are as follows:
 
 XLOOKUP() includes a syntax with three required parameters. The function performs an exact match by default.
 
-> [!div class="mx-imgBorder"]
+> 
 > [![Screenshot of Excel Formula bar with XLOOKUP() function syntax.](../media/xlookup.png)](../media/xlookup.png#lightbox)
 
 XLOOKUP() has the following features:
@@ -39,7 +39,7 @@ XLOOKUP() has six parameters with the last three being optional parameters:
 
 -   '**search\_mode**' - Specify search from top or from bottom with this optional parameter.
 
-> [!div class="mx-imgBorder"]
+> 
 > [![Screenshot of XLookup() examples.](../media/examples.png)](../media/examples.png#lightbox)
 
 In the previous dataset example, notice the XLOOKUP() formula to the right in the black box that shows the returned results. The three examples answer the following questions:
@@ -70,12 +70,12 @@ The following details explain the three parameters that are included with FILTER
 
 -   '**if\_empty**' - Optional parameter value to return if no rows meet the conditions.
 
-> [!div class="mx-imgBorder"]
+> 
 > [![Screenshot of a Filter() Single example.](../media/filter.png)](../media/filter.png#lightbox)
 
 The previous dataset example shows the FILTER() formula in the black box with the returned results. Notice that it uses a table instead of a range. We recommend that you always use a table when you can. The previous example filters the SalesTable table, where **Region = West**, and it returns all matching rows within the result.
 
-> [!div class="mx-imgBorder"]
+> 
 > [![Screenshot of a Filter() Multiple example.](../media/filter-multiple.png)](../media/filter-multiple.png#lightbox)
 
 This example uses the same dataset but applies three filters to the table. The formula will filter the table on the following criteria (all criteria must be met for the row to be included):
@@ -94,12 +94,12 @@ An asterisk (\*) is used for **AND** conditions, and the plus (**+**) sign is us
 
 The LET() function offers considerable flexibility for complex calculations and provides a simpler way to digest the different pieces of the formula. It combines the ability for storage of calculations and values that use variables with the native formula syntax of Excel.
 
-> [!div class="mx-imgBorder"]
+> 
 > [![Diagram of LET() Function Syntax.](../media/let-function.png)](../media/let-function.png#lightbox)
 
 The variables are used to assign a name to a value or calculation. These variables are used to recall the syntax without having to repeatedly rewrite the formula. You can define up to 126 different variables in the function, but at a minimum, you are required to have the three components (variable, value of variable, calculation). You can also take advantage of other array functions like FILTER() within the LET() function. The following example builds on the FILTER() example from earlier but now with variables assigned.
 
-> [!div class="mx-imgBorder"]
+> 
 > [![Screenshot of LET() example.](../media/let-example.png)](../media/let-example.png#lightbox)
 
 In the preceding screenshot, numbers one through four are variables and definitions. The last statement is the calculation that uses the variables.

@@ -1,7 +1,7 @@
-**Nice work!** You've completed **Lab 03 Microsoft Teams integration with Dynamics 365**.
+Congratulations, you've now completed **Lab 03 - Microsoft Teams integration with Dynamics 365 Commerce**.
 
-In this lab, you learned how to do the following:
+In this lab, you learned how to:
 
-- How to enable Dynamics 365 Commerce integration with Microsoft Teams, which helps customers, and their employees improve productivity by synchronizing task management between the two applications.
+- Enable Dynamics 365 Commerce integration with Microsoft Teams, which helps customers and their employees improve productivity by synchronizing task management between the two applications.
 
-- Configure Dynamics 365 commerce POS to perform task management that lets store managers and employees create task lists, assign tasks to multiple stores, and track the status of tasks across stores, from either application.
+- Set up the POS app from Dynamics 365 Commerce to perform task management that allows store managers and employees to create task lists, assign tasks to multiple stores, and track the status of tasks across stores from either application.

@@ -27,7 +27,9 @@ products:
 - power-apps
 - power-platform
 - common-data-service 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.build-dataverse-table-structure.1-introduction 
 - learn-bizapps.build-dataverse-table-structure.2-create-dataverse-tables 
 - learn-bizapps.build-dataverse-table-structure.3-exercise 
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.build-dataverse-table-structure.6-check 
 - learn-bizapps.build-dataverse-table-structure.7-summary 
 badge: 
-  uid: learn-bizapps.build-dataverse-table-structure.badge 
+  uid: learn-bizapps.build-dataverse-table-structure.badge

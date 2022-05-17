@@ -28,7 +28,9 @@ roles:
 products:  
 - power-apps 
 - power-platform
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.portals-metadata.1-introduction 
 - learn-bizapps.portals-metadata.2-metadata 
 - learn-bizapps.portals-metadata.3-web-pages 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.portals-metadata.6-check 
 - learn-bizapps.portals-metadata.7-summary 
 badge: 
-  uid: learn-bizapps.portals-metadata.badge 
+  uid: learn-bizapps.portals-metadata.badge

@@ -31,6 +31,8 @@ roles:
 products:
 - power-platform
 - power-virtual-agents
+subjects:
+- chatbot
 units:
 - learn.wwl.how-to-build-basic-chatbot.introduction
 - learn.wwl.how-to-build-basic-chatbot.create-chatbot

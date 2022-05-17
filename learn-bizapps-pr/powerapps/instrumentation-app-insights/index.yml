@@ -28,7 +28,9 @@ products:
 - power-apps
 - azure-application-insights
 - common-data-service
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.instrumentation-app-insights.1-introduction 
 - learn-bizapps.instrumentation-app-insights.2-configure 
 - learn-bizapps.instrumentation-app-insights.3-view-app-insights 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.instrumentation-app-insights.6-check 
 - learn-bizapps.instrumentation-app-insights.7-summary 
 badge: 
-  uid: learn-bizapps.instrumentation-app-insights.badge 
+  uid: learn-bizapps.instrumentation-app-insights.badge

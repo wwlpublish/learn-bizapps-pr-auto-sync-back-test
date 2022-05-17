@@ -25,6 +25,8 @@ roles:
 products:
 - power-platform
 - power-apps
+subjects:
+- custom-app-development
 modules:
 - learn-bizapps.intro-portals 
 - learn-bizapps.explore-portals

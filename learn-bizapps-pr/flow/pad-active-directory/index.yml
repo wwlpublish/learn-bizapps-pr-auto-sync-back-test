@@ -33,11 +33,14 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- identity-access
+- process-workflow
+units:
 - learn-bizapps.pad-active-directory.1-introduction 
 - learn-bizapps.pad-active-directory.2-active-directory-actions 
 - learn-bizapps.pad-active-directory.3-exercise 
 - learn-bizapps.pad-active-directory.4-check-knowledge 
 - learn-bizapps.pad-active-directory.5-summary 
 badge:  
-  uid: learn-bizapps.pad-active-directory.badge 
+  uid: learn-bizapps.pad-active-directory.badge

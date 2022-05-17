@@ -28,7 +28,9 @@ roles:
 products:  
 - dynamics-365  
 - power-apps 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.extend-power-app-portals.1-introduction 
 - learn-bizapps.extend-power-app-portals.2-portal-application-lifecycle 
 - learn-bizapps.extend-power-app-portals.3-portal-javascript 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.extend-power-app-portals.7-check 
 - learn-bizapps.extend-power-app-portals.8-summary 
 badge: 
-  uid: learn-bizapps.extend-power-app-portals.badge 
+  uid: learn-bizapps.extend-power-app-portals.badge

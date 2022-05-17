@@ -1,4 +1,4 @@
-﻿### YamlMime:Module
+### YamlMime:Module
 uid: learn-bizapps.build-your-first-report
 metadata:
   title: Create and share your first Power BI report
@@ -29,6 +29,8 @@ roles:
 products:
 - power-platform
 - power-bi
+subjects:
+- data-visualization
 units:
 - learn-bizapps.build-your-first-report.1-introduction
 - learn-bizapps.build-your-first-report.2-connect-to-data-sources-in-power-bi-desktop
@@ -39,4 +41,3 @@ units:
 - learn-bizapps.power-bi.7-build-your-first-power-bi-report-quiz
 badge:
   uid: learn-bizapps.build-your-first-report.badge
-

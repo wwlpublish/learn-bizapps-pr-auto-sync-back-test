@@ -27,6 +27,8 @@ roles:
 - business-user
 products:
 - power-bi
+subjects:
+- data-visualization
 units:
 - learn-bizapps.wwl.build-simple-dashboard.introduction
 - learn-bizapps.wwl.build-simple-dashboard.connect-data

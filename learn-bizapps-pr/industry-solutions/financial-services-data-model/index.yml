@@ -27,6 +27,10 @@ roles:
 products:
 - industry-solutions
 - mscloud-financial
+subjects:
+- data-modeling
+- modern-work
+- finance-accounting
 units:
 - learn-bizapps.financial-services-data-model.1-introduction
 - learn-bizapps.financial-services-data-model.2-common-data-model

@@ -40,6 +40,8 @@ roles:
 products:
 - power-platform
 - power-bi
+subjects:
+- data-analytics
 units:
 - learn-bizapps.power-bi-embedded-intro.introduction
 - learn-bizapps.power-bi-embedded-intro.embed-power-bi-content

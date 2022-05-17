@@ -26,6 +26,8 @@ roles:
 - student
 products:
 - power-bi
+subjects:
+- data-visualization
 units:
 - learn-bizapps.wwl.introduction-power-bi.introduction
 - learn-bizapps.wwl.introduction-power-bi.what-power-bi

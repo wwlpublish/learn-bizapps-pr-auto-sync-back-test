@@ -27,6 +27,8 @@ roles:
 products:
 - power-automate
 - power-platform
+subjects:
+- process-workflow
 units:
 - learn-bizapps.wwl.introduction-power-automate.introduction
 - learn-bizapps.wwl.introduction-power-automate.what-power-automate-value-brings-you

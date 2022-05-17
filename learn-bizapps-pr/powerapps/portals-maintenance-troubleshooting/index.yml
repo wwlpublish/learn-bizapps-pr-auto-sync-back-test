@@ -28,11 +28,13 @@ roles:
 products:  
 - power-platform  
 - power-apps 
-units: 
+subjects:
+- productivity
+units:
 - learn-bizapps.portals-maintenance-troubleshooting.1-introduction 
 - learn-bizapps.portals-maintenance-troubleshooting.2-portal-maintenance 
 - learn-bizapps.portals-maintenance-troubleshooting.3-exercise 
 - learn-bizapps.portals-maintenance-troubleshooting.4-check 
 - learn-bizapps.portals-maintenance-troubleshooting.5-summary 
 badge: 
-  uid: learn-bizapps.portals-maintenance-troubleshooting.badge 
+  uid: learn-bizapps.portals-maintenance-troubleshooting.badge

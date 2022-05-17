@@ -31,7 +31,9 @@ roles:
 products:  
 - power-platform
 - power-automate
-units:  
+subjects:
+- process-workflow
+units:
 - learn-bizapps.pad-excel-automation.1-introduction
 - learn-bizapps.pad-excel-automation.2-launching-saving-closing
 - learn-bizapps.pad-excel-automation.3-reading-excel-document
@@ -42,4 +44,4 @@ units:
 - learn-bizapps.pad-excel-automation.8-check-knowledge 
 - learn-bizapps.pad-excel-automation.9-summary 
 badge:  
-  uid: learn-bizapps.pad-excel-automation.badge 
+  uid: learn-bizapps.pad-excel-automation.badge

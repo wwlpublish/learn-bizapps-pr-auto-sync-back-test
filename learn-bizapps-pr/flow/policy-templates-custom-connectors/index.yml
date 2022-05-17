@@ -25,7 +25,9 @@ roles:
 products:  
 - power-platform 
 - power-automate
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.policy-templates-custom-connectors.1-introduction 
 - learn-bizapps.policy-templates-custom-connectors.2-expressions-runtime 
 - learn-bizapps.policy-templates-custom-connectors.3-policies-data-conversion 
@@ -35,4 +37,4 @@ units:
 - learn-bizapps.policy-templates-custom-connectors.7-check 
 - learn-bizapps.policy-templates-custom-connectors.8-summary 
 badge: 
-  uid: learn-bizapps.policy-templates-custom-connectors.badge 
+  uid: learn-bizapps.policy-templates-custom-connectors.badge

@@ -30,6 +30,8 @@ roles:
 products:
 - industry-solutions
 - mscloud-nonprofit
+subjects:
+- modern-work
 units:
 - learn-bizapps.onboard-approve-volunteer-management.1-introduction
 - learn-bizapps.onboard-approve-volunteer-management.2-work-volunteer-applications
