@@ -26,10 +26,7 @@ The prerequisites for installation are:
 		> [!div class="mx-imgBorder"]
 		> ![Screenshot of the Install button for Azure App Service.](../media/azure-install.png)
 
--   A local [copy of a sample Fabrikam Application](https://github.com/microsoft/BAS-Ecosystem-Engineering/tree/main/Microsoft-Cloud-For-Retail/In-A-Day-Labs/Lab%20Resources/?azure-portal=true) is available in GitHub.
-
-	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the Clarity download zip file.](../media/clarity-download.png)
+-   Download the code for the sample [Fabrikam Application website](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/retail-cloud/MC4R-Clarity.zip)..
 
 ## Microsoft Clarity
 
