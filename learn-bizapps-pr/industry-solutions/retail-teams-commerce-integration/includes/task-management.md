@@ -60,9 +60,17 @@ Congratulations, you’ve successfully created a list of tasks and have assigned
 
 ## Task 2: View and assign the tasks in the POS app in Commerce
 
-In this task, you'll act as store manager and sign in to the POS app in a Dynamics 365 Commerce store by using the credentials of user Chris Gallagher (`chrisg@powerplatformopenhacks.onmicrosoft.com`) whom you created in Exercise 2 - Task 1. After signing in to POS, you'll view unassigned tasks and assign them to the store employees.
+In this task, you'll act as store manager and sign in to the POS app in a Dynamics 365 Commerce store by using the credentials of user Emma Harris that you created in Exercise 2 - Task 1. After signing in to POS, you'll view unassigned tasks and assign them to the store employees.
 
-1. Sign in to the POS app in Dynamics 365 Commerce. Select a store in which you want to manage and assign tasks.
+1. To find the Commerce POS URL specific to a store from the Devices screen, navigate to **Retail and commerce > Channel setup > POS setup > Devices**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Retail and commerce > Channel setup > POS setup > Devices.](../media/devices.png)](../media/devices.png#lightbox)
+
+1. On the Devices form, scroll to the **Houston-16** device. Copy the Cloud POS URL and sign in to POS.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Devices with Houston-16 selected.](../media/devices-2.png)](../media/devices-2.png#lightbox)
 
 1. After you’ve signed in to the POS app in Commerce, select **Task management**.
 
@@ -71,7 +79,7 @@ In this task, you'll act as store manager and sign in to the POS app in a Dynami
 
 1. In **Task management,** select **All tasks**. The task that you created in Teams and completed in the previous exercise should show up in the **All tasks** list.
 
-1. Select the **Set up Women's Spring Lineup ** task.
+1. Select the **Set up Women's Spring Lineup** task.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the task selected in Task management, showing a status of Not Started.](../media/task.png)](../media/task.png#lightbox)
@@ -81,18 +89,18 @@ In this task, you'll act as store manager and sign in to the POS app in a Dynami
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the buttons along the bottom with the Assign a task icon highlighted.](../media/assign.png)](../media/assign.png#lightbox)
 
-1. Select user **Emma Harris** (the store employee) to assign the task to.
+1. Select user **Chris Gallagher** (the store employee) to assign the task to.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Choose an employee option showing Emma Harris selected.](../media/choose-employee.png)](../media/choose-employee.png#lightbox)
 
-1. In the **Assigned to** field in the task list, confirm that the task is assigned to Emma Harris.
+1. In the **Assigned to** field in the task list, confirm that the task is assigned to Chris Gallagher.
 
 Congratulations, you’ve successfully viewed the unassigned tasks and have assigned them to store employees.
 
 ## Task 3 - Review assigned tasks in Teams and mark them as complete
 
-In this task, you'll function as a store employee (Emma Harris, for this example), and you’ll review the assigned tasks in Teams and mark them as complete after the assigned task has been completed.
+In this task, you'll function as a store employee (Chris Gallagher, for this example), and you’ll review the assigned tasks in Teams and mark them as complete after the assigned task has been completed.
 
 1. Sign in to [Microsoft Teams](https://teams.microsoft.com/?azure-portal=true) and go to the assigned store.
 
