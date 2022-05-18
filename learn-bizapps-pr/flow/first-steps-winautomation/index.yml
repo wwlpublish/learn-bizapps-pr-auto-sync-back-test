@@ -32,7 +32,9 @@ roles:
 products:  
 - power-platform
 - power-automate
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.first-steps-winautomation.1-introduction
 - learn-bizapps.first-steps-winautomation.2-console-overview
 - learn-bizapps.first-steps-winautomation.3-process-designer-overview
@@ -42,4 +44,4 @@ units:
 - learn-bizapps.first-steps-winautomation.7-check
 - learn-bizapps.first-steps-winautomation.8-summary
 badge: 
-  uid: learn-bizapps.first-steps-winautomation.badge 
+  uid: learn-bizapps.first-steps-winautomation.badge

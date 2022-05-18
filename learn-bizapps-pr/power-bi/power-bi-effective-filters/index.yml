@@ -30,7 +30,9 @@ roles:
 products: 
 - power-platform
 - power-bi 
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.power-bi-effective-filters.1-introduction 
 - learn-bizapps.power-bi-effective-filters.2-report-structure 
 - learn-bizapps.power-bi-effective-filters.3-slicers 
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.power-bi-effective-filters.8-check 
 - learn-bizapps.power-bi-effective-filters.9-summary 
 badge: 
-  uid: learn-bizapps.power-bi-effective-filters.badge 
+  uid: learn-bizapps.power-bi-effective-filters.badge

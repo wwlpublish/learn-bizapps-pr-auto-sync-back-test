@@ -82,7 +82,7 @@ The system will create a workflow for the handling of documents. When you create
 
 ### Add branding or theming
 
-All model-driven apps from Power Apps allow makers to apply themes to certain elements in the user interface. This feature allows your users to quickly identify your own brand colors, logos, and more. To define and apply a theme, go to **Advanced Settings**. For more information, go to [Use a theme to create a custom look for your app](/powerapps/maker/model-driven-apps/create-themes-organization-branding/?azure-portal=true).
+All model-driven apps from Power Apps allow makers to apply themes to certain elements in the user interface. This feature allows your users to quickly identify your own brand colors, logos, and more. To define and apply a theme, go to **Advanced Settings**. For more information, go to [Use a theme to create a custom look for your app](/power-apps/maker/model-driven-apps/create-themes-organization-branding/?azure-portal=true).
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of editing and applying a different theme to your app.](../media/theme.png)](../media/theme.png#lightbox)

@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn.wwl.how-to-build-basic-chatbot
+metadata:
+  title: How to build a basic chatbot
+  description: "How to build a basic chatbot"
+  ms.date: 04/15/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+title: How to build a basic chatbot
+summary: |
+  Learn how you can leverage Power Virtual Agents to quickly and easily create powerful bots
+  using a guided, no-code graphical experience.
+abstract: |
+  In this module, you will:
+  -   Create a bot for the first time
+  -   Add topics to your bot
+  -   Test content changes in real time
+  -   Deploy your bot to a test page
+  -   Analyze the performance of your bot after it has been deployed
+prerequisites: |
+  None
+iconUrl: /learn/achievements/how-to-build-a-basic-chatbot.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- developer
+- maker
+products:
+- power-platform
+- power-virtual-agents
+subjects:
+- chatbot
+units:
+- learn.wwl.how-to-build-basic-chatbot.introduction
+- learn.wwl.how-to-build-basic-chatbot.create-chatbot
+- learn.wwl.how-to-build-basic-chatbot.create-topics
+- learn.wwl.how-to-build-basic-chatbot.test-chatbot
+- learn.wwl.how-to-build-basic-chatbot.publish-chatbot
+- learn.wwl.how-to-build-basic-chatbot.analyze-chatbot
+- learn.wwl.how-to-build-basic-chatbot.knowledge-check
+- learn.wwl.how-to-build-basic-chatbot.summary
+badge:
+  uid: learn.wwl.how-to-build-basic-chatbot.badge

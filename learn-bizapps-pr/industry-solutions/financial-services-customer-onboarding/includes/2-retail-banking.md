@@ -15,7 +15,7 @@ The following image is an example what should display after you have set up and 
 > [!div class="mx-imgBorder"]
 > [![Screenshot example of the Retail Banking Portal.](../media/portal.png)](../media/portal.png#lightbox)
 
-For more information, see [What are Power Apps portals?](/powerapps/maker/portals/overview/?azure-portal=true).
+For more information, see [What are Power Apps portals?](/power-apps/maker/portals/overview/?azure-portal=true).
 
 ## Task 1: Set up the Retail Banking Portal
 

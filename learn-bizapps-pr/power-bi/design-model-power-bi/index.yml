@@ -3,7 +3,7 @@ uid: learn-bizapps.design-model-power-bi
 metadata: 
  title: Design a data model in Power BI 
  description: The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.
- ms.date: 10/26/2021
+ ms.date: 04/25/2022
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
@@ -27,7 +27,10 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- custom-app-development
+- data-modeling
+units:
 - learn-bizapps.design-model-power-bi.1-introduction 
 - learn-bizapps.design-model-power-bi.2-tables 
 - learn-bizapps.design-model-power-bi.3-date-table 
@@ -40,4 +43,4 @@ units:
 - learn-bizapps.design-model-power-bi.10-check 
 - learn-bizapps.design-model-power-bi.11-summary 
 badge: 
-  uid: learn-bizapps.design-model-power-bi.badge 
+  uid: learn-bizapps.design-model-power-bi.badge

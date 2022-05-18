@@ -1,6 +1,6 @@
 You can export and import bots using solutions to move your bots across multiple environments. For example, you may build your chatbot in a development environment, then move it to a different environment for testing purposes. Once the testing is complete, you can move it to a production environment for the chatbot to be deployed to end users.
 
-Solutions are the mechanism for implementing application lifecycle management (ALM). The solution acts as a carrier for the bots. You use solutions to export the bot from one environment and import it into another. For more information, see [Solutions.](/powerapps/maker/data-platform/solutions-overview/?azure-portal=true)
+Solutions are the mechanism for implementing application lifecycle management (ALM). The solution acts as a carrier for the bots. You use solutions to export the bot from one environment and import it into another. For more information, see [Solutions.](/power-apps/maker/data-platform/solutions-overview/?azure-portal=true)
 
 ## Export your bot
 
@@ -32,7 +32,7 @@ If you add more components to your bot, such as creating new topics, you can add
 
 Once your solution is ready, you can export the package. This will download a .zip file of the solution, which will be used for importing the bot into another environment. If you're moving your bot to a test or production environment, you should export as a managed solution.
 
-For more information, see [Export solutions](/powerapps/maker/data-platform/export-solutions/?azure-portal=true).
+For more information, see [Export solutions](/power-apps/maker/data-platform/export-solutions/?azure-portal=true).
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of Power Apps solutions list showing customer service bot selected and the export button highlighted.](../media/export.png)](../media/export.png#lightbox)
@@ -46,7 +46,7 @@ You'll use the solution package downloaded at the export stage to import your bo
 
 From Power Apps Solutions in the new environment, select **Import**, and select your solution .zip file. You can then proceed with the import steps.
 
-For more information, see [Import solutions](/powerapps/maker/data-platform/import-update-export-solutions/?azure-portal=true).
+For more information, see [Import solutions](/power-apps/maker/data-platform/import-update-export-solutions/?azure-portal=true).
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of Power Apps solutions page with the import button highlighted.](../media/import.png)](../media/import.png#lightbox)

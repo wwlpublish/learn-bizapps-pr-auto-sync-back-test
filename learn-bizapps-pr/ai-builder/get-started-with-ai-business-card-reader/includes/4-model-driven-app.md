@@ -1,6 +1,6 @@
 Your goal for this exercise is to accelerate the process of creating an appointment by using information from business cards. Users will extract contact information from a business card and prefill the **Quick Create: Appointment** form with the contact information.
 
-You will build a model-driven Power App and use the Business card reader component for this exercise. For more information, see the [What are model-driven apps in Power Apps?](/powerapps/maker/model-driven-apps/model-driven-app-overview/?azure-portal=true) and the [Use the business card reader in model-driven apps](/ai-builder/business-card-reader-component-model-driven/?azure-portal=true) documentation.
+You will build a model-driven Power App and use the Business card reader component for this exercise. For more information, see the [What are model-driven apps in Power Apps?](/power-apps/maker/model-driven-apps/model-driven-app-overview/?azure-portal=true) and the [Use the business card reader in model-driven apps](/ai-builder/business-card-reader-component-model-driven/?azure-portal=true) documentation.
 
 ## Create a model-driven app in Power Apps
 

@@ -18,9 +18,9 @@ quiz:
     - content: Process advisor
       isCorrect: false
       explanation: Process advisor allows you to record and analyze business processes. It does not connect to systems.
-    - content: Power Automate Desktop
+    - content: Power Automate for desktop
       isCorrect: false
-      explanation: Because the system has an API, you could use Power Automate Desktop, but you should create a custom connector.
+      explanation: Because the system has an API, you could use Power Automate for desktop, but you should create a custom connector.
     - content: Custom connector
       isCorrect: true
       explanation: Because the system has an API, you can create a custom connector. You can use a scheduled flow to poll the API or specify polling within the custom connector definition.

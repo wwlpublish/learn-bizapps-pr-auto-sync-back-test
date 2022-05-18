@@ -27,11 +27,13 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.dax-power-bi-time-intelligence.1-introduction 
 - learn-bizapps.dax-power-bi-time-intelligence.2-functions 
 - learn-bizapps.dax-power-bi-time-intelligence.3-calculations 
 - learn-bizapps.dax-power-bi-time-intelligence.4-check 
 - learn-bizapps.dax-power-bi-time-intelligence.5-summary 
 badge: 
-  uid: learn-bizapps.dax-power-bi-time-intelligence.badge 
+  uid: learn-bizapps.dax-power-bi-time-intelligence.badge

@@ -35,7 +35,9 @@ roles:
 products:  
 - power-automate 
 - power-platform
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.winautomation-options.1-introduction
 - learn-bizapps.winautomation-options.2-configure-notification-settings
 - learn-bizapps.winautomation-options.3-backup-database
@@ -46,4 +48,4 @@ units:
 - learn-bizapps.winautomation-options.8-check-knowledge
 - learn-bizapps.winautomation-options.9-summary
 badge: 
-  uid: learn-bizapps.winautomation-options.badge 
+  uid: learn-bizapps.winautomation-options.badge

@@ -21,7 +21,7 @@ There are apps for all sorts of online services. The following image shows a pag
 
 ![Power BI services](../media/pbi-touring_03.png)
 
-For our purposes, we'll choose **GitHub**. GitHub is an application for online source control. When you select the **Get it now** button in the box for the GitHub app, the **Connect to GitHub** dialog box appears. Note that Github does not support Internet Explorer, so make sure you are working in another browser.
+For our purposes, we'll choose **GitHub**. Note that the GitHub app requires Power BI Pro. GitHub is an application for online source control. When you select the **Get it now** button in the box for the GitHub app, the **Connect to GitHub** dialog box appears. Note that Github does not support Internet Explorer, so make sure you are working in another browser.
 
 ![The GitHub app](../media/pbi-touring_03b.png)
 

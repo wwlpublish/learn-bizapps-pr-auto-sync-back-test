@@ -1,6 +1,6 @@
 Your goal for this exercise is to take a picture or upload an existing photo from the file system and extract contact information that is present in the image. You will then build a canvas app in Power Apps and use the Business card reader component. 
 
-For more information, see the [What are canvas apps in Power Apps?](/powerapps/maker/canvas-apps/getting-started/?azure-portal=true) and the [Use the Business card reader component in a canvas app](/ai-builder/business-card-reader-component-in-powerapps/?azure-portal=true) documentation.
+For more information, see the [What are canvas apps in Power Apps?](/power-apps/maker/canvas-apps/getting-started/?azure-portal=true) and the [Use the Business card reader component in a canvas app](/ai-builder/business-card-reader-component-in-powerapps/?azure-portal=true) documentation.
 
 ### Create an application in Power Apps
 

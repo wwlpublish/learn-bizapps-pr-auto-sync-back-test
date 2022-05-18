@@ -30,7 +30,9 @@ roles:
 products: 
 - industry-solutions
 - mscloud-healthcare
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.patient-outreach.1-introduction 
 - learn-bizapps.patient-outreach.2-patient-segment 
 - learn-bizapps.patient-outreach.3-marketing-email 
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.patient-outreach.6-check 
 - learn-bizapps.patient-outreach.7-summary 
 badge: 
-  uid: learn-bizapps.patient-outreach.badge 
+  uid: learn-bizapps.patient-outreach.badge

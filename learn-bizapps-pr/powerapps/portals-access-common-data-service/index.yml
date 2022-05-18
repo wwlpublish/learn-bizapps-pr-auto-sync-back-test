@@ -30,7 +30,9 @@ roles:
 products:  
 - power-apps 
 - power-platform
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.portals-access-common-data-service.1-introduction 
 - learn-bizapps.portals-access-common-data-service.2-entity-lists 
 - learn-bizapps.portals-access-common-data-service.3-entity-forms 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.portals-access-common-data-service.5-check 
 - learn-bizapps.portals-access-common-data-service.6-summary 
 badge: 
-  uid: learn-bizapps.portals-access-common-data-service.badge 
+  uid: learn-bizapps.portals-access-common-data-service.badge

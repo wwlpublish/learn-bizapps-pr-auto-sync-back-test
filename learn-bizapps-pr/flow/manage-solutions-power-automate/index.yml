@@ -32,7 +32,10 @@ products:
 - power-automate 
 - power-platform
 - power-apps
-units: 
+subjects:
+- custom-app-development
+- process-workflow
+units:
 - learn-bizapps.manage-solutions-power-automate.1-introduction 
 - learn-bizapps.manage-solutions-power-automate.2-add-remove-flow 
 - learn-bizapps.manage-solutions-power-automate.3-edit-solution-aware-flow 
@@ -42,4 +45,4 @@ units:
 - learn-bizapps.manage-solutions-power-automate.7-check 
 - learn-bizapps.manage-solutions-power-automate.8-summary 
 badge: 
-  uid: learn-bizapps.manage-solutions-power-automate.badge 
+  uid: learn-bizapps.manage-solutions-power-automate.badge

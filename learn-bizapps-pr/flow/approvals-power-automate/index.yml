@@ -28,6 +28,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- process-workflow
 units:
 - learn-bizapps.approvals-power-automate.1-introduction
 - learn-bizapps.approvals-power-automate.2-types

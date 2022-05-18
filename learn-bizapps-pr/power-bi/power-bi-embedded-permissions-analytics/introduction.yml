@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-embedded-permissions-analytics.introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to enforcing data permissions for Power BI embedded analytics
+  ms.date: 04/07/2022 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-bi 
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

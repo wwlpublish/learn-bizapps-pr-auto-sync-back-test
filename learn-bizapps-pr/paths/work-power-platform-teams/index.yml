@@ -26,6 +26,9 @@ products:
 - power-virtual-agents
 - office-teams
 - common-data-service
+subjects:
+- chatbot
+- custom-app-development
 modules:
 - learn-bizapps.get-started-dataverse-teams 
 - learn-bizapps.build-app-dataverse-teams

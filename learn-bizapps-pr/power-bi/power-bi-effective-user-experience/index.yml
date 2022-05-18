@@ -32,7 +32,9 @@ roles:
 products: 
 - dynamics-365 
 - power-bi 
-units: 
+subjects:
+- data-visualization
+units:
 - learn-bizapps.power-bi-effective-user-experience.1-introduction 
 - learn-bizapps.power-bi-effective-user-experience.2-design-reports 
 - learn-bizapps.power-bi-effective-user-experience.3-design-app-reports 
@@ -44,4 +46,4 @@ units:
 - learn-bizapps.power-bi-effective-user-experience.9-check 
 - learn-bizapps.power-bi-effective-user-experience.10-summary 
 badge: 
-  uid: learn-bizapps.power-bi-effective-user-experience.badge 
+  uid: learn-bizapps.power-bi-effective-user-experience.badge

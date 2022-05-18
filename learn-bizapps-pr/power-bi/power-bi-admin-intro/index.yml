@@ -27,7 +27,9 @@ roles:
 products: 
 - power-platform 
 - power-bi 
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.power-bi-admin-intro.1-introduction 
 - learn-bizapps.power-bi-admin-intro.2-tools 
 - learn-bizapps.power-bi-admin-intro.3-steward 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.power-bi-admin-intro.7-check 
 - learn-bizapps.power-bi-admin-intro.8-summary 
 badge: 
-  uid: learn-bizapps.power-bi-admin-intro.badge 
+  uid: learn-bizapps.power-bi-admin-intro.badge

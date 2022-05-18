@@ -55,4 +55,4 @@ The selected text will now appear in the **Selected text:** field.
 
 AI Builder Text recognition is able to recognize various printed character fonts and handwritten text.
 
-You can use these results in many possible ways, such as saving it on your Microsoft Dataverse environment or other database with the help of connectors. For more information, see [Show, edit, or add a record in a canvas app](/powerapps/maker/canvas-apps/add-form/?azure-portal=true).
+You can use these results in many possible ways, such as saving it on your Microsoft Dataverse environment or other database with the help of connectors. For more information, see [Show, edit, or add a record in a canvas app](/power-apps/maker/canvas-apps/add-form/?azure-portal=true).
