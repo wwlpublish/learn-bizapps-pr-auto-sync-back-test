@@ -2,11 +2,11 @@ Microsoft Cloud for Retail capability relies on various components from Dynamics
 
 - Dynamics 365 Intelligent Order Management trial
 
-- Microsoft Office E5 trial
+- Microsoft 365 E5 trial
 
 - Microsoft Cloud for Retail add-on
 
-- Dynamics 365 Commerce trial
+- Dynamics 365 Finance and Operations trial
 
 ## Task 1: Obtain a Dynamics 365 Intelligent Order Management trial
 
@@ -47,13 +47,13 @@ In this task, you'll add the necessary add-on to deploy and use the Intelligent 
     > [!Important]
     > It might take up to 24 hours for Dynamics 365 Intelligent Order Management to become available in your Dynamics 365 apps after you’ve obtained the trial license.
 
-## Task 2: Obtain a Microsoft Office E5 trial
+## Task 2: Obtain a Microsoft 365 E5 trial
 
-In this task, you'll add the necessary Office 365 trial to use Outlook and Microsoft Teams in the later labs.
+In this task, you'll add the necessary Microsoft 365 trial to use Outlook and Microsoft Teams in the later labs.
 
 1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/?azure-portal=true).
 
-1. Go to **Billing > Purchase services** and select Office 365. Scroll down to Office 365 E5 and then select **Details**. You can also use the search box.
+1. Go to **Billing > Purchase services** and select Microsoft 365. Scroll down to Microsoft 365 E5 and then select **Details**. You can also use the search box.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Purchase services page in the Microsoft 365 admin center, with the Office 365 category selected and the Office 365 E5 tile's Details button highlighted.](../media/purchase-2.png)](../media/purchase-2.png#lightbox)
@@ -78,12 +78,12 @@ In this task, you'll add the necessary Office 365 trial to use Outlook and Micro
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the order receipt with the confirmation number for the Office 365 E5 trial.](../media/continue-3.png)
 
-1. Assign the newly acquired Office 365 E5 trial license to your user. Go to **Users > Active users**, select your user, and then select **Manage product licenses**.
+1. Assign the newly acquired Microsoft 365 E5 trial license to your user. Go to **Users > Active users**, select your user, and then select **Manage product licenses**.
 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Microsoft 365 admin center Active users page, showing the Manage product licenses option.](../media/manage-licenses-3.png)
 
-1. Select the **Office 365 E5** license and then select **Save changes**.
+1. Select the **Microsoft 365 E5** license and then select **Save changes**.
 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Licenses and apps tab with Office 365 E5 selected.](../media/office-e-5-license.png)
@@ -121,7 +121,7 @@ In this task, you'll request and add the Microsoft Cloud for Retail add-on to de
 
 ## Task 4: Obtain and deploy Dynamics 365 Finance and Operations apps
 
-In this task, we will obtain a trial license for Dynamics 365 Finance and Operations apps and create a new Dynamics 365 Finance and Operations and a linked Power Platform environment.
+If you have also requested for D365 Finance and Operations trial license then, in this task, we will obtain a trial license for Dynamics 365 Finance and Operations apps and create a new Dynamics 365 Finance and Operations and a linked Power Platform environment.
 
 1. Copy and paste the URL from your email to add the Dynamics 365 Finance and Operations trial license in your tenant.
 
