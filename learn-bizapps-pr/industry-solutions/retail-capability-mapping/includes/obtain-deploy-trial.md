@@ -6,7 +6,7 @@ Microsoft Cloud for Retail capability relies on various components from Dynamics
 
 - Microsoft Cloud for Retail add-on
 
-- Dynamics 365 Financial and Operations trial
+- Dynamics 365 Finance and Operations trial
 
 ## Task 1: Obtain a Dynamics 365 Intelligent Order Management trial
 
