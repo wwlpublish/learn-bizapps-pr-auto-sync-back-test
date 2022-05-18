@@ -5,12 +5,12 @@ Power Apps is a low-code development platform with a suite of apps, services, an
 > [!div class="mx-imgBorder"]
 > [![Diagram of Power Apps with description of functionality.](../media/apps-descriptions.png)](../media/apps-descriptions.png#lightbox)
 
-> [!div class="mx-imgBorder"]
-> [![Demonstration of app example and ease of use.](../media/app-example.gif)](../media/app-example.gif#lightbox)
-
 ## Simple and easy to use interface
 
 Power Apps simplifies the custom app building experience by enabling users to build feature-rich apps without writing thousands of lines of custom code. With Power Apps, drag and drop controls where you want in the app and you're off to a great start!
+
+> [!div class="mx-imgBorder"]
+> [![Demonstration of app example and ease of use.](../media/app-example.gif)](../media/app-example.gif#lightbox)
 
 ## Multiple ways to create an App
 
@@ -39,12 +39,12 @@ Templates use sample data to help you determine what's possible. By opening temp
 
 ## Share your app with others
 
-> [!div class="mx-imgBorder"]
-> ![Diagram showing sharing an app with others.](../media/share.png)
-
 Once your app is ready to be rolled out, make sure to publish the latest version and then you can share it with anyone (properly licensed) in your tenant. Users will be able to access the app via Desktop, Tablet, or on a Mobile device.
 
 For more information about sharing Power Apps, see [Share a canvas app with your organization](/power-apps/maker/canvas-apps/share-app/?azure-portal=true).
+
+> [!div class="mx-imgBorder"]
+> ![Diagram showing sharing an app with others.](../media/share.png)
 
 ## Can't forget about our professional developer friends
 

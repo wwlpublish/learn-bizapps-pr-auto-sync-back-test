@@ -41,11 +41,11 @@ The following video will walk you through what the app is capable of, adding new
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the app name field with my expenses app entered and create button.](../media/create-expenses-app.png)](../media/create-expenses-app.png#lightbox)
 
-After a few moments, you may get an "Almost there ..." pop up, select **Allow**.
+	After a few moments, you may get an "Almost there ..." pop up, select **Allow**.
 
 1.  On the **Welcome to Power Apps Studio** pop up, select **Skip**.
 
-As a best practice, once the app is created you should immediately **Save** your app. Power Apps has an AutoSave feature that will save your app every 2 minutes but doesn't start until the app has been saved for the first time.
+	As a best practice, once the app is created you should immediately **Save** your app. Power Apps has an AutoSave feature that will save your app every 2 minutes but doesn't start until the app has been saved for the first time.
 
 1.  In the upper left, select **File**.
 
