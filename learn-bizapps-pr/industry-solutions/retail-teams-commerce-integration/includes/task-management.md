@@ -70,7 +70,7 @@ In this task, you'll act as store manager and sign in to the POS app in a Dynami
 1. On the Devices form, scroll to the **Houston-16** device. Copy the Cloud POS URL and sign in to POS.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Retail and commerce > Channel setup > POS setup > Devices.](../media/devices-2.png)](../media/devices-2.png#lightbox)
+    > [![Screenshot of the Devices with Houston-16 selected.](../media/devices-2.png)](../media/devices-2.png#lightbox)
 
 1. After you’ve signed in to the POS app in Commerce, select **Task management**.
 

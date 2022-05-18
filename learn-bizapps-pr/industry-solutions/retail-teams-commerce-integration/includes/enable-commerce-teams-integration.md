@@ -177,7 +177,7 @@ To create an external identity for the worker in Commerce, follow these steps:
     1. On the **Users** form, in the **Username** field, search for the username "Chris" as below. Then select the **User ID** field to open the user details.
 
         > [!div class="mx-imgBorder"]
-        > [![Screenshot of the Commerce page for an employee, showing them being connected to an external identity.](../media/users-3.png)](../media/users-3.png#lightbox)
+        > [![Screenshot of the Commerce page with Chris selected.](../media/users-3.png)](../media/users-3.png#lightbox)
 
     1. On the person, drop down the lookup field for person and choose “Chris Gallagher” as shown below.
 
