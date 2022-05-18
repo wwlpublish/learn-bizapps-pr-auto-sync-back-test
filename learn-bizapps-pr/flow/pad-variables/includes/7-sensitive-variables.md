@@ -14,6 +14,6 @@ To set a variable as sensitive, right-click on its name in the variables pane an
 
 Apart from the context menus, you can use the dedicated icon next to each variable name to mark it as sensitive or not sensitive.
 
-![Screenshot of the Mark as sensitive icon in the flow designer.](..\media\mark-sensitive-variable-option-icon.png)
+You can mark any variable as sensitive independently of its type. When a structured datatype, such as a list, a datarow or a datatable, is marked as sensitive, the variable is marked as a whole.
 
-You can mark any variable as sensitive independently of its type. When a structured datatype, such as a list, a datarow or a datatable, is set to sensitive, the variable is marked as a whole.
+![Screenshot of the Mark as sensitive icon in the flow designer.](..\media\mark-sensitive-variable-option-icon.png)
