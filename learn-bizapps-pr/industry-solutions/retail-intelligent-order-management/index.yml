@@ -31,6 +31,8 @@ roles:
 products:
 - mscloud-retail
 - industry-solutions
+subjects:
+- modern-work
 units:
 - learn-bizapps.retail-intelligent-order-management.introduction
 - learn-bizapps.retail-intelligent-order-management.training-environment
