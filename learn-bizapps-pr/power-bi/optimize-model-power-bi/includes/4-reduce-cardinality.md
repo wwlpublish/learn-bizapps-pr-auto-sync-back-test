@@ -11,7 +11,7 @@ Previously, when you used Power Query Editor to analyze the metadata, the **Colu
 > [!div class="mx-imgBorder"]
 > [![Screenshot of column distribution statistics.](../media/4-column-distribution-statistics-ssm.png)](../media/4-column-distribution-statistics-ssm.png#lightbox)
 
-A column that has a lot of repeated values in its range (distinct count is high) will have a low level of cardinality. Conversely, a column that has a lot of unique values in its range (unique count is high) will have a high level of cardinality.
+A column that has a lot of repeated values in its range (distinct count is low) will have a low level of cardinality. Conversely, a column that has a lot of unique values in its range (unique count is high) will have a high level of cardinality.
 
 Lower cardinality leads to more optimized performance, so you might need to reduce the number of high cardinally columns in your dataset.
 
@@ -23,11 +23,11 @@ When you create or edit a relationship, you can configure additional options. By
 
 The relationships can have different cardinality. Cardinality is the direction of the relationship, and each model relationship must be defined with a cardinality type. The cardinality options in Power BI are:
 
--   **Many-to-one (*:1)** - This relationship is the most common, default type. It means that the column in one table can have more than one instance of a value, and the other related table, often known as the lookup table, has only one instance of a value.
+-   **Many-to-one (`*`:1)** - This relationship is the most common, default type. It means that the column in one table can have more than one instance of a value, and the other related table, often known as the lookup table, has only one instance of a value.
 
 -   **One-to-one (1:1)** - In this relationship type, the column in one table has only one instance of a particular value, and the other related table has only one instance of a particular value.
 
--   **One-to-many (1:*)** - In this relationship type, the column in one table has only one instance of a particular value, and the other related table can have more than one instance of a value.
+-   **One-to-many (1:`*`)** - In this relationship type, the column in one table has only one instance of a particular value, and the other related table can have more than one instance of a value.
 
 -   **Many-to-many (:)** - With composite models, you can establish a many-to-many relationship between tables, which removes requirements for unique values in tables. It also removes previous workarounds, such as introducing new tables only to establish relationships.
 

@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.custom-connector-lifecycle-management.1-introduction 
 - learn-bizapps.custom-connector-lifecycle-management.2-updates 
 - learn-bizapps.custom-connector-lifecycle-management.3-solutions 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.custom-connector-lifecycle-management.7-check 
 - learn-bizapps.custom-connector-lifecycle-management.8-summary 
 badge: 
-  uid: learn-bizapps.custom-connector-lifecycle-management.badge 
+  uid: learn-bizapps.custom-connector-lifecycle-management.badge

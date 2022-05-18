@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.vaccination-management
 metadata:
   title: Get up and running quickly with Microsoft Vaccination Management
@@ -26,6 +26,8 @@ roles:
 products:
 - industry-solutions
 - mscloud-healthcare
+subjects:
+- modern-work
 modules:
 - learn-bizapps.microsoft-vaccination-management-overview
 - learn-bizapps.cloud-licensing
@@ -37,4 +39,3 @@ modules:
 - learn-bizapps.vaccination-dashboard 
 trophy:
   uid: learn.vaccination-management.trophy
-

@@ -24,11 +24,13 @@ roles:
 - administrator
 products:  
 - industry-solutions
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.vaccination-environment-prep.1-introduction 
 - learn-bizapps.vaccination-environment-prep.2-tenant 
 - learn-bizapps.vaccination-environment-prep.3-access 
 - learn-bizapps.vaccination-environment-prep.4-check 
 - learn-bizapps.vaccination-environment-prep.5-summary 
 badge: 
-  uid: learn-bizapps.vaccination-environment-prep.badge 
+  uid: learn-bizapps.vaccination-environment-prep.badge

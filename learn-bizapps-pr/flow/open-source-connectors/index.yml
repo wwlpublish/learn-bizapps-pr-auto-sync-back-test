@@ -27,7 +27,9 @@ roles:
 products:  
 - power-automate
 - power-platform 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.open-source-connectors.1-introduction 
 - learn-bizapps.open-source-connectors.2-certify 
 - learn-bizapps.open-source-connectors.3-download-connector 
@@ -35,4 +37,4 @@ units:
 - learn-bizapps.open-source-connectors.5-check 
 - learn-bizapps.open-source-connectors.6-summary 
 badge: 
-  uid: learn-bizapps.open-source-connectors.badge 
+  uid: learn-bizapps.open-source-connectors.badge

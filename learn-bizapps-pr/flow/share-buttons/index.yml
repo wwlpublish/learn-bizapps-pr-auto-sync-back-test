@@ -29,7 +29,9 @@ roles:
 products:   
 - power-automate
 - power-platform 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.share-buttons.1-introduction 
 - learn-bizapps.share-buttons.2-link 
 - learn-bizapps.share-buttons.3-reshare 
@@ -42,4 +44,4 @@ units:
 - learn-bizapps.share-buttons.9-check 
 - learn-bizapps.share-buttons.10-summary 
 badge: 
-  uid: learn-bizapps.share-buttons.badge 
+  uid: learn-bizapps.share-buttons.badge

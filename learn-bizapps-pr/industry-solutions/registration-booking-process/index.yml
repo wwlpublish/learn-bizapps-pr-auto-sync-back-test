@@ -26,7 +26,9 @@ roles:
 - administrator   
 products:  
 - industry-solutions 
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.registration-booking-process.1-introduction 
 - learn-bizapps.registration-booking-process.2-portal-overview 
 - learn-bizapps.registration-booking-process.3-vaccination-phase 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.registration-booking-process.9-check 
 - learn-bizapps.registration-booking-process.10-summary 
 badge: 
-  uid: learn-bizapps.registration-booking-process.badge 
+  uid: learn-bizapps.registration-booking-process.badge

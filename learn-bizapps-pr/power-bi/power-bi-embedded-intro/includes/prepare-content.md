@@ -9,12 +9,12 @@ When you're creating embeddable content for an app, it's good practice to store 
 The embedding identity that's used to embed workspace content must have specific permissions.
 
 > [!NOTE]
-> To learn about workspace permissions for internal and external users, work through the Set up permissions to embed Power BI content module.
+> To learn about workspace permissions for internal and external users, work through the [Set up permissions to embed Power BI content](/learn/modules/power-bi-embedded-permissions-content/?azure-portal=true) module.
 
 When designing a multi-tenancy solution, you can achieve the separation of tenants by creating one workspace for each tenant. This design pattern is known as *workspace separation*.
 
 > [!NOTE]
-> To learn about workspace separation, work through the Automate Power BI solution management module.
+> To learn about workspace separation, work through the [Automate Power BI solution management](/learn/modules/power-bi-embedded-automate/?azure-portal=true) module.
 
 Every Power BI workspace is uniquely identified by its **GroupID**. Often, the app config file includes hard-coded references to the workspace GroupIDs. The Power BI REST API has operations to enumerate workspace artifacts to retrieve specific properties for embedding purposes.
 
@@ -25,7 +25,7 @@ A Power BI dataset is an artifact that represents a source of data. It typically
 When the app must restrict data access for specific users, datasets can implement [row-level security (RLS)](/power-bi/admin/service-admin-rls/?azure-portal=true). For example, in embedded reports, the sales representative app users must only view their assigned customers. Conversely, the sales manager app users, who view those same reports, can view all customers.
 
 > [!NOTE]
-> To learn how to restrict data access with RLS, work through the Enforce data permissions for Power BI embedded analytics module.
+> To learn how to restrict data access with RLS, work through the [Enforce data permissions for Power BI embedded analytics](/learn/modules/power-bi-embedded-permissions-analytics/?azure-portal=true) module.
 
 If the app embeds the Q&A experience, it's a good idea to optimize the dataset for Q&A. This process could involve:
 
@@ -49,9 +49,7 @@ To achieve a visually appealing result, strive to format reports to complement o
 Consider adding report elements that can enhance the app experience:
 
 - The app can programmatically set slicers and filters.
-
 - Buttons, when selected, can trigger client-side code that interacts with the app.
-
 - The app can apply bookmarks, which capture specific report state.
 
 If the Power BI report has a mobile view set up, you can embed the report in that view.

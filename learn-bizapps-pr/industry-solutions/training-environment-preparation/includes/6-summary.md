@@ -4,7 +4,7 @@ In this module, you learned how to set up a Microsoft Cloud for Financial Servic
 
 - Obtain the necessary trial licenses to deploy Microsoft Cloud for Financial Services.
 
-- Assign and set up the trial licenses.
+- Assign and configure those trial licenses.
 
 - Create a Power Apps portal.
 

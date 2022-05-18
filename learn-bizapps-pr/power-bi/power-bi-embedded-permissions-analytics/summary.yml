@@ -3,8 +3,8 @@ uid: learn-bizapps.power-bi-embedded-permissions-analytics.summary
 title: Summary
 metadata: 
   title: Summary
-  description: Summary of enforcing data permissions for Power BI embedded analytics.
-  ms.date: 04/10/2022 
+  description: Summary of enforcing data permissions for Power BI embedded analytics
+  ms.date: 04/07/2022 
   author: heyrob 
   ms.author: robde 
   ms.topic: interactive-tutorial 

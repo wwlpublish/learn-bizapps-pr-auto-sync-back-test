@@ -27,11 +27,13 @@ roles:
 products:   
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.dax-power-bi-iterator-functions.1-introduction 
 - learn-bizapps.dax-power-bi-iterator-functions.2-aggregation-iterator-functions 
 - learn-bizapps.dax-power-bi-iterator-functions.3-calculate-ranks 
 - learn-bizapps.dax-power-bi-iterator-functions.4-check 
 - learn-bizapps.dax-power-bi-iterator-functions.5-summary 
 badge: 
-  uid: learn-bizapps.dax-power-bi-iterator-functions.badge 
+  uid: learn-bizapps.dax-power-bi-iterator-functions.badge

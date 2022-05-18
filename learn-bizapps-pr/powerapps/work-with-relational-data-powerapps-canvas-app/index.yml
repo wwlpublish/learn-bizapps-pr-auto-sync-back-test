@@ -28,6 +28,8 @@ roles:
 products:
 - power-platform
 - power-apps
+subjects:
+- data-management
 units:
 - learn-bizapps.work-with-relational-data.1-relational-data
 - learn-bizapps.work-with-relational-data.2-work-with-relationships
@@ -37,4 +39,3 @@ units:
 - learn-bizapps.work-with-relational-data.5-summary
 badge:
   uid: learn-bizapps.work-with-relational-data.badge
-

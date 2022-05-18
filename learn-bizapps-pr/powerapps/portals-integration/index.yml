@@ -29,7 +29,9 @@ roles:
 products:  
 - power-platform
 - power-apps 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.portals-integration.1-introduction 
 - learn-bizapps.portals-integration.2-sharepoint 
 - learn-bizapps.portals-integration.3-power-bi 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.portals-integration.5-check 
 - learn-bizapps.portals-integration.6-summary 
 badge: 
-  uid: learn-bizapps.portals-integration.badge 
+  uid: learn-bizapps.portals-integration.badge

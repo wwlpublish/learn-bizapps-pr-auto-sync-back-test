@@ -29,7 +29,9 @@ roles:
 products:  
 - power-platform  
 - power-bi 
-units: 
+subjects:
+- data-visualization
+units:
 - learn-bizapps.power-bi-tableau-organize-fields.1-introduction 
 - learn-bizapps.power-bi-tableau-organize-fields.2-field-properties 
 - learn-bizapps.power-bi-tableau-organize-fields.3-organize 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.power-bi-tableau-organize-fields.5-check 
 - learn-bizapps.power-bi-tableau-organize-fields.6-summary 
 badge: 
-  uid: learn-bizapps.power-bi-tableau-organize-fields.badge 
+  uid: learn-bizapps.power-bi-tableau-organize-fields.badge

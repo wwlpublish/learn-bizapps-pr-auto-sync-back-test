@@ -28,7 +28,9 @@ roles:
 products: 
 - industry-solutions
 - mscloud-nonprofit
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.process-gifts.1-introduction 
 - learn-bizapps.process-gifts.2-transactions 
 - learn-bizapps.process-gifts.3-donor-commitments 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.process-gifts.6-check 
 - learn-bizapps.process-gifts.7-summary 
 badge: 
-  uid: learn-bizapps.process-gifts.badge 
+  uid: learn-bizapps.process-gifts.badge

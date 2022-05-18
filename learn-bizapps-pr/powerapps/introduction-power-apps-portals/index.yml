@@ -31,6 +31,8 @@ roles:
 products:
 - power-apps
 - power-platform
+subjects:
+- custom-app-development
 units:
 - learn.wwl.introduction-to-power-apps-portals.introduction-power-apps-portals
 - learn.wwl.introduction-to-power-apps-portals.power-apps-portals
