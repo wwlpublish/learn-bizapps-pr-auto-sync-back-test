@@ -6,7 +6,7 @@ Make sure that all prerequisites from the previous unit are met before you start
 
 In this task, you’ll open the provided website code and inspect its CSS and HTML code. Additionally, you’ll find where the **<HEAD\></HEAD\>** and the **<HEADER\></HEADER\>** blocks of the HTML code are stored.
 
-1.  Download the code for the sample Fabrikam Application website from the GitHub location that was provided in the previous prerequisites section.
+1.  Download the code for the sample [Fabrikam Application website](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/retail-cloud/MC4R-Clarity.zip).
 
 1.  Create a directory called **MC4R-Clarity** under your **C:\\** drive and then extract the project zip file to that path. The following folder structure should display when you expand the folder in your File Explorer navigation pane tree view.
 
