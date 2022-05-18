@@ -12,4 +12,4 @@ metadata:
 durationInMinutes: 15
 content: | 
  [!include[](../includes/unit-banner.md)] 
- [!include[](includes/7-exercise-create-manipulate-variables.md)] 
+ [!include[](includes/8-exercise-create-manipulate-variables.md)] 
