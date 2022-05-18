@@ -32,6 +32,8 @@ roles:
 products:
 - industry-solutions
 - mscloud-retail
+subjects:
+- modern-work
 units:
 - learn-bizapps.retail-teams-commerce-integration.introduction
 - learn-bizapps.retail-teams-commerce-integration.app-registration-permissions
