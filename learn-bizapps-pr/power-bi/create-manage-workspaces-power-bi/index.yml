@@ -28,7 +28,9 @@ roles:
 products:  
 - power-bi
 - power-platform 
-units: 
+subjects:
+- collaboration
+units:
 - learn-bizapps.create-manage-workspaces-power-bi.1-introduction 
 - learn-bizapps.create-manage-workspaces-power-bi.2-distribute-report-dashboard 
 - learn-bizapps.create-manage-workspaces-power-bi.3-monitor-usage-performance 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.create-manage-workspaces-power-bi.8-check 
 - learn-bizapps.create-manage-workspaces-power-bi.9-summary 
 badge: 
-  uid: learn-bizapps.create-manage-workspaces-power-bi.badge 
+  uid: learn-bizapps.create-manage-workspaces-power-bi.badge

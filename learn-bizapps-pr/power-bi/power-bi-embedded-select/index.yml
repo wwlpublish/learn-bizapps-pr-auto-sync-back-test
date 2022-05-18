@@ -35,7 +35,9 @@ roles:
 products: 
 - power-apps 
 - power-bi 
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.power-bi-embedded-select.introduction 
 - learn-bizapps.power-bi-embedded-select.product 
 - learn-bizapps.power-bi-embedded-select.resources-requirements 
@@ -43,4 +45,4 @@ units:
 - learn-bizapps.power-bi-embedded-select.check 
 - learn-bizapps.power-bi-embedded-select.summary 
 badge: 
-  uid: learn-bizapps.power-bi-embedded-select.badge 
+  uid: learn-bizapps.power-bi-embedded-select.badge

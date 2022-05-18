@@ -29,7 +29,9 @@ products:
 - power-platform
 - power-apps
 - common-data-service
-units: 
+subjects:
+- data-modeling
+units:
 - learn-bizapps.powerapps-common-data-service.1-introduction
 - learn-bizapps.powerapps-common-data-service.2-learn-about-entities
 - learn-bizapps.powerapps-common-data-service.2b-dual-write-vs-virtual-table

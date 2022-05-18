@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform  
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.integrate-flow-outlook.1-introduction 
 - learn-bizapps.integrate-flow-outlook.2-setup 
 - learn-bizapps.integrate-flow-outlook.3-cloud-flow 
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.integrate-flow-outlook.5-check 
 - learn-bizapps.integrate-flow-outlook.6-summary 
 badge: 
-  uid: learn-bizapps.integrate-flow-outlook.badge 
+  uid: learn-bizapps.integrate-flow-outlook.badge

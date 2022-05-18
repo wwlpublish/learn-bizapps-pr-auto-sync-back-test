@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.write-data 
 metadata: 
   title: Write data in a Power Apps canvas app
@@ -29,7 +29,10 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- data-management
+- custom-app-development
+units:
 - learn-bizapps.write-data.1-introduction-to-forms 
 - learn-bizapps.write-data.2-form-modes 
 - learn-bizapps.write-data.3-adding-customizing-edit-form 
@@ -38,5 +41,4 @@ units:
 - learn-bizapps.write-data.6-knowledge-check 
 - learn-bizapps.write-data.7-summary 
 badge: 
-  uid: learn.write-data.badge 
-
+  uid: learn.write-data.badge

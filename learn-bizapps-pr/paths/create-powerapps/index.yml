@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.create-powerapps
 metadata:
   title: Create a canvas app in Power Apps
@@ -29,10 +29,11 @@ roles:
 products:
 - power-platform
 - power-apps
+subjects:
+- custom-app-development
 modules:
 - learn-bizapps.powerapps-get-started
 - learn-bizapps.powerapps-customize
 - learn-bizapps.powerapps-manage
 trophy:
   uid: learn.create-powerapps.trophy
-

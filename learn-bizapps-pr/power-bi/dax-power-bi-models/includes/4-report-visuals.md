@@ -14,9 +14,9 @@ The following example shows how to configure the analytic query for a report vis
 
 1.  **Filter** the page by using **Fiscal Year** from the Date table and then selecting **FY2020**.
 
-1.  **Group** the visual by adding **Month** from the Date table to the **Axis** field well.
+1.  **Group** the visual by adding **Month** from the Date table to the **X-axis** field well.
 
-1.  **Summarize** the visual by adding **Sales Amount** from the Sales table to the **Values** field well.
+1.  **Summarize** the visual by adding **Sales Amount** from the Sales table to the **Y-axis** field well.
 
 > [!div class="mx-imgBorder"]
 > [![An image shows the configuration of the stacked column chart, using the instructions provided above.](../media/dax-analytic-query-1-ssm.png)](../media/dax-analytic-query-1-ssm.png#lightbox)

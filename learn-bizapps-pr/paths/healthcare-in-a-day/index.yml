@@ -25,6 +25,8 @@ roles:
 products:
 - industry-solutions
 - mscloud-healthcare
+subjects:
+- modern-work
 modules:
 - learn-bizapps.healthcare-overview
 - learn-bizapps.healthcare-data-model
@@ -37,4 +39,3 @@ modules:
 - learn-bizapps.virtual-visits
 trophy:
   uid: learn.healthcare-in-a-day.trophy
-

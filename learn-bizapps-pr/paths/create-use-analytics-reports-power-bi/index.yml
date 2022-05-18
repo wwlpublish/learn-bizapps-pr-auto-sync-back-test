@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.create-use-analytics-reports-power-bi
 metadata:
   title: Create and use analytics reports with Power BI
@@ -29,6 +29,8 @@ roles:
 products:
 - power-platform
 - power-bi
+subjects:
+- data-analytics
 modules:
 - learn-bizapps.get-started-with-power-bi
 - learn-bizapps.get-data-power-bi
@@ -38,4 +40,3 @@ modules:
 - learn-bizapps.publish-share-power-bi
 trophy:
   uid: learn.create-use-analytics-reports-power-bi.trophy
-

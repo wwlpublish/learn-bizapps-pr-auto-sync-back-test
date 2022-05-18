@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.create-business-process-flow
 metadata:
   title: Create a business process flow in Power Automate 
@@ -27,6 +27,8 @@ roles:
 products:
 - power-automate
 - power-platform
+subjects:
+- process-workflow
 modules:
 - learn-bizapps.intro-business-process-flows 
 - learn-bizapps.create-immersive-flow 
@@ -34,4 +36,3 @@ modules:
 - learn-bizapps.introduction-expressions
 trophy:
   uid: learn.create-business-process-flow.trophy
-

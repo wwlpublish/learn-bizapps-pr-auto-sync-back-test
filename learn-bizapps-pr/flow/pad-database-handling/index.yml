@@ -28,10 +28,13 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- database
+- process-workflow
+units:
 - learn-bizapps.pad-database-handling.1-introduction 
 - learn-bizapps.pad-database-handling.2-database-actions 
 - learn-bizapps.pad-database-handling.3-check-knowledge 
 - learn-bizapps.pad-database-handling.4-summary 
 badge: 
-  uid: learn-bizapps.pad-database-handling.badge 
+  uid: learn-bizapps.pad-database-handling.badge

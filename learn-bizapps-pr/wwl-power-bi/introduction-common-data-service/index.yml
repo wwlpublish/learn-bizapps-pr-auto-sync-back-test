@@ -28,6 +28,8 @@ roles:
 products:
 - common-data-service
 - power-platform
+subjects:
+- data-modeling
 units:
 - learn-bizapps.wwl.introduction-common-data-service.introduction
 - learn-bizapps.wwl.introduction-common-data-service.overview-common-data-service

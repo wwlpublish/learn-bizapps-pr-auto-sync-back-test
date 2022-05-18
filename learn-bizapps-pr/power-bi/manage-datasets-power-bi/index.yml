@@ -31,7 +31,9 @@ roles:
 products:   
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.manage-datasets-power-bi.1-introduction 
 - learn-bizapps.manage-datasets-power-bi.2-report-parameters 
 - learn-bizapps.manage-datasets-power-bi.3-what-if-parameters 
@@ -44,4 +46,4 @@ units:
 - learn-bizapps.manage-datasets-power-bi.10-check 
 - learn-bizapps.manage-datasets-power-bi.11-summary 
 badge: 
-  uid: learn-bizapps.manage-datasets-power-bi.badge 
+  uid: learn-bizapps.manage-datasets-power-bi.badge

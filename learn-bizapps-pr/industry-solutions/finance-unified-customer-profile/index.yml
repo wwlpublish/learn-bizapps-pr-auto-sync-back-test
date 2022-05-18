@@ -28,7 +28,9 @@ roles:
 products: 
 - mscloud-financial
 - industry-solutions 
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.finance-unified-customer-profile.1-introduction 
 - learn-bizapps.finance-unified-customer-profile.2-data-model 
 - learn-bizapps.finance-unified-customer-profile.3-explore-application 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.finance-unified-customer-profile.6-check 
 - learn-bizapps.finance-unified-customer-profile.7-summary 
 badge: 
-  uid: learn-bizapps.finance-unified-customer-profile.badge 
+  uid: learn-bizapps.finance-unified-customer-profile.badge

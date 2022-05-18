@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform
 - power-automate
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.pad-power-automate-desktop-recording-features.1-introduction 
 - learn-bizapps.pad-power-automate-dekstop-recording-features.2-recording-actions
 - learn-bizapps.pad-power-automate-desktop-recording-features.3-exercise-recording-web-flows
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.pad-power-automate-desktop-recording-features.5-check-your-knowledge 
 - learn-bizapps.pad-power-automate-desktop-recording-features.6-summary 
 badge: 
-  uid: learn-bizapps.pad-power-automate-desktop-recording-features.badge 
+  uid: learn-bizapps.pad-power-automate-desktop-recording-features.badge

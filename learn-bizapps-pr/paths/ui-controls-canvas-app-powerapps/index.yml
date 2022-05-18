@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.ui-controls-canvas-app-powerapps
 metadata:
   title: Use the UI and controls in a canvas app in Power Apps
@@ -25,6 +25,8 @@ roles:
 products:
 - power-platform
 - power-apps
+subjects:
+- custom-app-development
 modules:
 - learn-bizapps.navigation-canvas-app
 - learn-bizapps.how-to-build-ui-canvas-app
@@ -32,4 +34,3 @@ modules:
 - learn-bizapps.use-documentation 
 trophy:
   uid: learn-bizapps.ui-controls-canvas-app-powerapps.trophy
-

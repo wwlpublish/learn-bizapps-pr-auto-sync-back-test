@@ -22,6 +22,9 @@ roles:
 - data-analyst
 products:
 - power-bi 
+subjects:
+- collaboration
+- data-analytics
 modules:
 - learn-bizapps.create-manage-workspaces-power-bi  
 - learn-bizapps.manage-datasets-power-bi

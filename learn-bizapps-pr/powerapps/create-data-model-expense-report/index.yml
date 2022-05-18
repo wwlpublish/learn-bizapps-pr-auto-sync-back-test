@@ -26,7 +26,9 @@ roles:
 products: 
 - power-apps
 - common-data-service
-units: 
+subjects:
+- data-modeling
+units:
 - learn-bizapps.create-data-model-expense-report.1-introduction 
 - learn-bizapps.create-data-model-expense-report.2-use-predefined-tables 
 - learn-bizapps.create-data-model-expense-report.3-create-expense-report-table 
@@ -34,4 +36,4 @@ units:
 - learn-bizapps.create-data-model-expense-report.5-check 
 - learn-bizapps.create-data-model-expense-report.6-summary 
 badge: 
-  uid: learn-bizapps.create-data-model-expense-report.badge 
+  uid: learn-bizapps.create-data-model-expense-report.badge

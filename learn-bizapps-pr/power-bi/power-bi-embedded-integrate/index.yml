@@ -33,6 +33,9 @@ roles:
 products:
 - power-platform
 - power-bi
+subjects:
+- custom-app-development
+- data-modeling
 units:
 - learn-bizapps.power-bi-embedded-integrate.introduction
 - learn-bizapps.power-bi-embedded-integrate.insights-quick-action
