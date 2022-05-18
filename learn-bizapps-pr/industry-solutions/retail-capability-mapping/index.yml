@@ -28,6 +28,8 @@ roles:
 products:
 - industry-solutions
 - mscloud-retail
+subjects:
+- modern-work
 units:
 - learn-bizapps.retail-capability-mapping.introduction
 - learn-bizapps.retail-capability-mapping.set-up-tenant
