@@ -18,14 +18,14 @@ When creating apps, you have the flexibility and power of choice to decide what 
 
 ### Blank App
 
-> Build an app from the ground up, you add all of the screens, controls, and functionality. You have complete control of everything, from start to finish by starting from blank.
+Build an app from the ground up, you add all of the screens, controls, and functionality. You have complete control of everything, from start to finish by starting from blank.
 
 > [!div class="mx-imgBorder"]
 > ![Diagram showing a blank app to build for your solution.](../media/blank.png)
 
 ### Data source
 
-> Connect directly to your business data from multiple sources Microsoft Dataverse, SharePoint, Excel, SQL Server, and more. Once connected, Power Apps will automatically build you a three-screen app that lets you display, edit, delete, and create new records.
+Connect directly to your business data from multiple sources Microsoft Dataverse, SharePoint, Excel, SQL Server, and more. Once connected, Power Apps will automatically build you a three-screen app that lets you display, edit, delete, and create new records.
 
 > [!div class="mx-imgBorder"]
 > ![Diagram showing a data source app to build for your solution.](../media/data-source.png)
