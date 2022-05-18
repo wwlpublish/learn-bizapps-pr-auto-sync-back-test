@@ -13,7 +13,7 @@ summary: |
   [!include[](../includes/module-banner.md)]
   With retail workforce management, you can manage shifts seamlessly, connect to your existing workforce, simplify task dissemination, and help your team complete tasks more easily.
 abstract: |
-    In this module, you’ll:
+    In this module, you'll:
     - Create an app registration and set up the required permissions.
     - Enable the integration between Dynamics 365 Commerce and the Task management app in Teams.
     - Play the role of a retail communications manager who will sign in to Teams and publish a task.
