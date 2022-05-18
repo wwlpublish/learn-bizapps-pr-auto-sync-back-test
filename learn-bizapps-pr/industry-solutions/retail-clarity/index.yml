@@ -32,6 +32,8 @@ roles:
 products: 
 - mscloud-retail
 - industry-solutions 
+subjects:
+- modern-work
 units: 
 - learn-bizapps.retail-clarity.introduction 
 - learn-bizapps.retail-clarity.install-prerequisites 
