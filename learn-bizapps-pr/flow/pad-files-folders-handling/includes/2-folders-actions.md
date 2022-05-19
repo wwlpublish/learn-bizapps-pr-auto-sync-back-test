@@ -28,7 +28,7 @@ The output of this action is a Folder type variable and contains the attributes 
 |.FoldersCount|Numeric value|
 |.Parent|Folder|
 
-To copy a folder to a different directory, use the **Copy folder** action. This action requires you to fill in the **Folder to copy** and **Destination folder** fields. As shown in the following screenshot, information in these fields can be provided as paths (**1**) or as folder-type variables (**2**).
+To copy a folder to a different directory, use the **Copy folder** action. This action requires you to fill in the **Folder to copy** and **Destination folder** fields. As shown in the following screenshot, information in these fields can be provided as paths or as folder-type variables.
 
 If a folder already exists with the same name as the one that you want to copy into the **Destination folder** field, use the **If folder exists** drop-down menu to set this option to **Overwrite** to overwrite the folder in the destination, or you can set it to **Do nothing**.
 

@@ -33,7 +33,7 @@ After your workbook's data has been imported, a dataset is created in Power BI a
 
 ![Screenshot of the My Workspace, Datasets window.](../media/06b-power-bi-desktop-excel-dataset.png)
 
-Now, you can begin exploring your data by creating reports and dashboards. Select the **Open menu** icon next to the dataset and then select **Explore**. A new blank report canvas appears. On the right-hand side, under **Fields**, are your tables and columns. Select the fields for which you want to create a new visualization on the canvas.
+Now, you can begin exploring your data by creating reports and dashboards. Select the **Open menu** icon next to the dataset and then select **Create from Scratch**. A new blank report canvas appears. On the right-hand side, under **Fields**, are your tables and columns. Select the fields for which you want to create a new visualization on the canvas.
 
 ![Screenshot of the Fields pane and the Report view canvas.](../media/06b-power-bi-desktop-excel-fields.png)
 

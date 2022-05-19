@@ -18,7 +18,7 @@ To begin, download [**Orders.zip**](https://github.com/MicrosoftDocs/mslearn-dev
 
 1. Deploy the **Get first free column/row from Excel worksheet** action to retrieve the first free column and row in the Excel worksheet.
 
-   ![Screenshot of the Get first free column or row from Excel worksheet action.](..\media\get-first-free-column-row-exercise.png)
+   ![Screenshot of the Get first free column row from Excel worksheet action.](..\media\get-first-free-column-row-exercise.png)
 
 1. Use the **Write to Excel worksheet** action to add a **Discount** header in the first free column of the Excel file.
 
