@@ -77,7 +77,7 @@ You can analyze the duration of the queries that are being sent to the underlyin
 
 You don't need to use a special approach when optimizing a DirectQuery model; you can apply the same optimization techniques that you used on the imported data to tune the data from the DirectQuery source. For example, you can reduce the number of visuals on the report page or reduce the number of fields that are used in a visual. You can also remove unnecessary columns and rows.
 
-For more detailed guidance on how a optimize a DirectQuery query, see: [DirectQuery model guidance in Power BI Desktop](/power-bi/guidance/directquery-model-guidance/?azure-portal=true) and [Guidance for using DirectQuery successfully](/power-bi/connect-data/desktop-directquery-about#guidance-for-using-directquery-successfully/?azure-portal=true).
+For more detailed guidance on how to optimize a DirectQuery query, see: [DirectQuery model guidance in Power BI Desktop](/power-bi/guidance/directquery-model-guidance/?azure-portal=true) and [Guidance for using DirectQuery successfully](/power-bi/connect-data/desktop-directquery-about#guidance-for-using-directquery-successfully/?azure-portal=true).
 
 ### Optimize the underlying data source (connected database)
 
