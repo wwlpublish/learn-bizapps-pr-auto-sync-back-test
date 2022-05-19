@@ -1,3 +1,5 @@
+Congratulations, you’ve completed Lab 02 - Microsoft Clarity
+
 In this lab, you learned how to:
 
 -   Deploy a website to Azure with Visual Studio Code.
@@ -5,8 +7,6 @@ In this lab, you learned how to:
 -   Create a Microsoft Clarity project.
 
 -   Integrate a Microsoft Clarity project with a custom website.
-
--   Integrate a Microsoft Clarity project with an E-Commerce website.
 
 -   Monitor website usage with Microsoft Clarity capabilities.
 

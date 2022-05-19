@@ -1,7 +1,7 @@
 > [!NOTE]
-> To start this exercise, you should have created some traffic on your website and waited around 30 minutes (minimum) to reflect the data. If you haven’t met the prerequisites, you can still follow the steps of Exercise 4 by using the publicly available [Microsoft Clarity Demo Project](https://clarity.microsoft.com/demo/projects/view/3t0wlogvdz/dashboard/?azure-portal=true).
+> To start this exercise, you should have created some traffic on your website and waited around 30 minutes (minimum) to reflect the data. If you haven’t met the prerequisites, you can still follow the steps of this exercise by using the publicly available [Microsoft Clarity Demo Project](https://clarity.microsoft.com/demo/projects/view/3t0wlogvdz/dashboard/?azure-portal=true).
 
-In this final exercise, you'll explore the Microsoft Clarity capabilities to monitor and understand the usage patterns of your own application.
+In this final task, you'll explore the Microsoft Clarity capabilities to monitor and understand the usage patterns of your own application.
 
 ## Task 1: Discover Clarity dashboard capabilities
 
