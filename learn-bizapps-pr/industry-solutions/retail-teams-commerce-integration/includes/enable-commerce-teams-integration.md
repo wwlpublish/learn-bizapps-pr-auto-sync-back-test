@@ -74,7 +74,7 @@ In this task, you’ll create user roles for the retail communication manager, s
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Basics page filled out for the store manager.](../media/manager.png)](../media/manager.png#lightbox)
 
-1. Because the store manager will sign in to POS, assign the Microsoft Dynamics AX7 User Trial license.
+1. Because the store manager will sign in to POS to assign tasks to store employees, assign the Microsoft Dynamics AX7 User Trial license.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Product licenses page in the Add a user dialog with Microsoft Dynamics AX7 User Trial selected.](../media/commerce.png)](../media/commerce.png#lightbox)
@@ -253,7 +253,12 @@ By default, the **Task management** button isn't available in the POS screen lay
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the navigation pane with Channel setup expanded to show Channel profiles, P O S setup, P O S, with Screen layouts highlighted.](../media/screen-layouts.png)](../media/screen-layouts.png#lightbox)
 
-1. On the **Screen layouts** page, you can choose to design any screen layout and then assign it to the worker who’s associated with your user. For this example, select **A3MGR**, which is the screen layout assigned to the store manager (Emma Harris). Select the screen layout to navigate the screen layout form. Use the designer to customize the button grids. In this example, you’ll choose **Welcome screen1** and then select **Designer**.
+1. On the **Screen layouts** page, you can choose to design any screen layout and then assign it to the worker who’s associated with your user. For this example, select **A3MGR**, which is the screen layout assigned to the store manager (Emma Harris). 
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of screen layout ID for user.](../media/screen-layout.png)](../media/screen-layout.png#lightbox)
+
+1. Select the screen layout to navigate the screen layout form. Use the designer to customize the button grids. In this example, you’ll choose **Welcome screen1** and then select **Designer**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Screen layouts page with the Designer button highlighted.](../media/designer.png)](../media/designer.png#lightbox)
