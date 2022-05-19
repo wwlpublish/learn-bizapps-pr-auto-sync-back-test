@@ -35,7 +35,7 @@ Follow these steps to upload sample data input files to a container in a storage
     1. [grocery_msrc_session.zip](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/retail-cloud/Grocery_msrc_session.zip)
     1. [grocery_contact.zip](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/retail-cloud/grocery_contact.zip)
    
-1. Upload all three files you downloaded in the previous step to the container: **Grocery\_contact.csv**, **Grocery\_msrc\_session.csv**, and **Grocery\_msrc\_session.csv**.
+1. Upload all three files you downloaded in the previous step to the container: **Grocery_contact.csv**, **Grocery_msrc_session.csv**, and **Grocery_msrc_transaction.csv**.
 
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the Upload blob dialog, showing a file to upload.](../media/upload.png)
