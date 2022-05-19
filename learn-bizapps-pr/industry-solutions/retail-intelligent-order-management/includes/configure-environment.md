@@ -36,7 +36,7 @@ To set up system connections, follow these steps:
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Getting Started page in Dynamics 365 Intelligent Order Management.](../media/manage.png)](../media/manage.png#lightbox)
 
-   A list of **System Connection References** should display. These references are used by Intelligent Order Management to communicate with Microsoft Dataverse, Power Automate, and IOM Data Transformer. The general setup process for each system connection is the same. Administrator privileges are required to set up these system connections.
+1. A list of **System Connection References** should display. These references are used by Intelligent Order Management to communicate with Microsoft Dataverse, Power Automate, and IOM Data Transformer. The general setup process for each system connection is the same. Administrator privileges are required to set up these system connections.
 
 1. Select the **IOM Data Transformer** record.
 

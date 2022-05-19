@@ -106,23 +106,25 @@ To create a BigCommerce API key, follow these steps:
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Add country zone dialog.](../media/add-country-zone.png)](../media/add-country-zone.png#lightbox)
 
-   The country zone will appear, as shown in the following image.
+1. The country zone will appear, as shown in the following image.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the shipping rules set to United States.](../media/united-states.png)](../media/united-states.png#lightbox)
 
-> [!Note]
-> To troubleshoot and check if an API key is valid, you can use command line tools, such as CLI tools, or CURL to test/call BigCommerce API. This step is for validation/troubleshooting purposes.
->
-> Using CLI, such as Git Bash, will set the variable value for access_token.
->
-> ![Screenshot of the command to set the variable for access_token.](../media/access-token.png)
->
-> By using the access token that’s published by BigCommerce, you’ll call Products API. This following command will print the output in JSON format. If a list of products displays, then the APIs and the access token are working properly.
->
-> [![Screenshot of the JSON code to access the token.](../media/json.png)](../media/json.png#lightbox)
->
-> Similarly, you can use [Postman](https://www.postman.com/?azure-portal=true), which supports a GUI experience to troubleshoot API issues.
+    > [!Note]
+    > To troubleshoot and check if an API key is valid, you can use
+    > command line tools, such as CLI tools, or CURL to test/calling
+    >Commerce API. This step is for validation/troubleshooting purposes.
+    >
+    > Using CLI, such as Git Bash, will set the variable value for access_token.
+    >
+    > ![Screenshot of the command to set the variable for access_token.](../media/access-token.png)
+    >
+    > By using the access token that’s published by BigCommerce, you’ll call Products API. This following command will print the output in JSON format. If a list of products displays, then the APIs and the access token are working properly.
+    >
+    > [![Screenshot of the JSON code to access the token.](../media/json.png)](../media/json.png#lightbox)
+    >
+    > Similarly, you can use [Postman](https://www.postman.com/?azure-portal=true), which supports a GUI experience to troubleshoot API issues.
 
 1. Select **View store** to navigate to the Bigcommerce e-commerce site.
 
