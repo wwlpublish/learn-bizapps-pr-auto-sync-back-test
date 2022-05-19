@@ -22,7 +22,6 @@ abstract: |
 prerequisites: |
     - Dynamics 365 Commerce
     - Microsoft Teams
-    - [Create an Azure Active Directory app](/graph/toolkit/get-started/add-aad-app-registration?azure-portal=true#add-new-application-registration-in-azure-active-directory)
 iconUrl: /learn/achievements/retail-teams-commerce-integration.svg
 levels:
 - intermediate
