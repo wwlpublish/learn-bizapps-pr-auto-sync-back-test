@@ -93,7 +93,13 @@ To add API permissions to the registered app, follow these steps:
 
 1. Select **+ Add a permission** again to add more permissions.
 
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of the add a permission button to add additional permissions.](../media/add-permission.png)](../media/add-permission.png#lightbox)
+
 1. In the **Request API permissions** pop-up window, select **Microsoft Graph**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Microsoft Graph selected from permissions.](../media/graph.png)](../media/graph.png#lightbox)
 
 1. Select **Application permissions**.
 
@@ -108,6 +114,9 @@ To add API permissions to the registered app, follow these steps:
     > [![Screenshot of the group search results with Group Read Write All selected.](../media/group.png)](../media/group.png#lightbox)
 
 1. In **API permissions**, select **+ Add permissions**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the permissions page with the Add a permission button highlighted.](../media/add-permission.png)](../media/add-permission.png#lightbox)
 
 1. In the **Request API permissions** pop-up window, select the **APIs my organization uses** tab, and then search for and select **Microsoft Teams Retail Service**.
 
@@ -177,6 +186,9 @@ To set up a client application to access a web API, follow these steps:
 1. Go to **App registrations** and then select the app registration that you created in Task 1.
 
 1. Select **API permissions > Add a permission > My APIs** tab.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of the add a permission button with My A P I tab.](../media/permission.png)](../media/permission.png#lightbox)
 
 1. In the **My APIs** tab, select the Application ID that you registered in the previous step.
 
@@ -277,3 +289,5 @@ To add application permissions to access Microsoft Graph, follow these steps:
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the files search results with Files Read All selected.](../media/files.png)](../media/files.png#lightbox)
+
+Congratulations! In this exercise you have created an App registration and assigned the appropriate permissions. 
