@@ -18,7 +18,7 @@ Microsoft Clarity focuses on the **Shopper and operations analytics** part of th
 > [!div class="mx-imgBorder"]
 > [![Diagram of the retail story with Shopper and operations analytics highlighted.](../media/shopper-operations-analytics.png)](../media/shopper-operations-analytics.png#lightbox)
 
-In this lab, you'll assume the role of a system administrator of Fabrikam UK and Fabrikam US websites. Fabrikam US has recently migrated to E-Commerce for Dynamics 365; however, Fabrikam UK is still using an ASP.NET website. You want to track, monitor, and analyze the user behavior on both websites to provide a better user experience. For that purpose, you'll integrate both websites with Microsoft Clarity.
+In this lab, you'll assume the role of a system administrator of Fabrikam UK website. Fabrikam UK is using an ASP.NET website. You want to track, monitor, and analyze the user behavior on both websites to provide a better user experience. For that purpose, you'll integrate both websites with Microsoft Clarity.
 
 > [!NOTE] 
 > For the sake of Azure deployment simplicity, you’ve been provided with a basic, multipage, no image-containing web application to represent the Fabrikam UK website.
@@ -28,8 +28,6 @@ In this module, you'll learn how to:
 -   Create a Microsoft Clarity project.
 
 -   Integrate Microsoft Clarity with a custom website.
-
--   Integrate Microsoft Clarity with an E-Commerce for Dynamics 365 Commerce webpage.
 
 -   Interact with Microsoft Clarity dashboards, heatmaps, and recordings.
 

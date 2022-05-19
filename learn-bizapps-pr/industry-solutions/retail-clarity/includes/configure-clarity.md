@@ -45,7 +45,7 @@ To sign in to Microsoft Clarity and then create your project, follow these steps
     If you forget to copy the tracking code, you can go to **My Projects**, choose the project that you want to integrate with your website, and then select **Settings > Setup**. In the **How to install Clarity** expandable section, you'll find the tracking code in the **Install tracking code manually** section.
 
 	> [!IMPORTANT]
-	> Read the warning under the **Install tracking code manually** section, which states that the data flow from your application to Clarity Portal can take up to 2 hours. Therefore, after performing the steps in Exercise 2, you’ll continue with other labs and then return to Exercise 2 later, when the data from your application will be synced to Microsoft Clarity.
+	> Read the warning under the **Install tracking code manually** section, which states that the data flow from your application to Clarity Portal can take up to 2 hours. Therefore, after performing the steps in this exercise, you’ll continue with other labs and then return to this exercise later, when the data from your application will be synced to Microsoft Clarity.
 
 ## Task 2: Embed/install the Clarity tracking code to the custom website and redeploy the website
 
