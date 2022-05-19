@@ -14,9 +14,9 @@ This module consists of two lessons:
 
  - Explain that advanced role-based courses go into more detail 
 
-- Understand the purpose of this module is to get familiar with the fundamentals 
+- Understand the fundamentals, which is the purpose of this module 
 
-- Brainstorm with students where they've interacted with a Virtual Agent 
+- Brainstorm with students, where they've interacted with a Virtual Agent 
 
  - Consider using Microsoft Whiteboard to list student experiences with a bad or poorly designed bot. Use these examples as a guideline as students design their own Virtual Agents during labs 
 
