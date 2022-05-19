@@ -127,6 +127,9 @@ If you have also requested for D365 Finance and Operations trial license then, i
 
 1. Sign in using the new Azure Active Directory credentials.
 
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of email received for a trial envionment."](../media/trial-email.png)](../media/trial-email.png#lightbox)
+
 1. Select **Yes, add it to my account**.
 
     > [!div class="mx-imgBorder"]
