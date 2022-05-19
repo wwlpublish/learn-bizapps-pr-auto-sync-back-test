@@ -12,8 +12,8 @@ Similar to the **Get subfolders in folder** action, you can sort the output and 
 
 > [!TIP]
 > For example, if the file filter is set to
-> *backup*; *.txt*,
-> only text files (with the extension .txt) whose file names contain the string backup will be stored in the list of files.
+> \*backup\*; \*.txt\*,
+> all text files (with the extension .txt) and the files whose names contain the string backup will be stored in the list of files.
 
 To copy or move files, use the **Copy file(s)** and **Move file(s)** actions, respectively. These actions take as input a file, or a list of files, and a destination folder. Set **If file exists** to **Overwrite** or **Do nothing**.
 
