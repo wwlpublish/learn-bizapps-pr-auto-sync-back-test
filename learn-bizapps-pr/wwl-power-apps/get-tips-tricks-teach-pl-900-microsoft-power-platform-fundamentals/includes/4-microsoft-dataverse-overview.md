@@ -4,7 +4,7 @@ This module consists of one lesson:
 
 - **Lesson 1** – Microsoft Dataverse overview 
 
- [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XU1I] 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XU1I] 
 
 ### Module 2 Tips and Tricks 
 

@@ -6,7 +6,7 @@ This module consists of two lessons:
 
 **Lesson 2** – How to Build a Simple Dashboard 
 
- [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XU1R]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XU1R]
 
 ### Module 5 Tips and Tricks 
 

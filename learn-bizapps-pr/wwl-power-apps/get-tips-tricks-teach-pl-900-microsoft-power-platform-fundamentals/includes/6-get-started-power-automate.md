@@ -6,7 +6,7 @@ This module consists of two lessons:
 
 - **Lesson 2** – How to Build an Automated Solution 
 
- [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XZnh]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XZnh]
 
 ### Module 4 Tips and Tricks 
 

@@ -6,7 +6,7 @@ This module consists of two lessons:
 
 - **Lesson 2** – How to build a basic chatbot 
 
- [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XZnk]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XZnk]
 
 ### Module 6 Tips and Tricks 
 

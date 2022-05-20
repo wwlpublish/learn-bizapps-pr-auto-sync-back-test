@@ -4,7 +4,7 @@ This module consists of one lesson:
 
 - **Lesson 1** – Power Platform overview 
 
- [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XU1H]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XU1H]
 
 ### Module 1 Tips and Tricks 
 

@@ -10,7 +10,7 @@ This module consists of four lessons:
 
 - **Lesson 4** – Introduction to Power Apps portals 
 
- [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XZnf]  
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XZnf]  
 
 ### Module 3 Tips and Tricks 
 
