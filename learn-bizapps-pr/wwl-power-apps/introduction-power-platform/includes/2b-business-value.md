@@ -40,7 +40,7 @@ solution where citizen developers and professional developers work together to
 build targeted solutions based on needs of the people who will be using these
 applications every day.
 
-For example, technicians in the field may encounter scenarios where. They need a
+For example, technicians in the field may encounter scenarios where, they need a
 part to execute a job. Ideally if that part is in inventory, they can easily
 request the part so they can continue to work. However, many times, there's a
 bottleneck in this process. They need to submit a request to the parts person
