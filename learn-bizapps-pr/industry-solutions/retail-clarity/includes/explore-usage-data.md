@@ -67,7 +67,7 @@ In this task, you'll sign in to Microsoft Clarity and discover the main dashboar
 
 In this task, you'll use the **Filters** feature and then save filters by creating segments. You can use filters in all capability views of Clarity, such as dashboards that you’ve seen or recordings and heatmaps that you'll view in subsequent tasks.
 
-1.  Use filters** to view data that’s coming from specific interest groups and create **segments** to have specific views for specific purposes.
+1.  Use **filters** to view data that’s coming from specific interest groups and create **segments** to have specific views for specific purposes.
 
     1.  On the **My Projects** page, select the **Filters** button.
 

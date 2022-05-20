@@ -88,7 +88,7 @@ In this task, you'll deploy the sample application to Azure App Service by using
 1.  Choose your operating system. For this application, in the **Select an OS** menu, select **Windows**.
 
 	> [!div class="mx-imgBorder"]
-	> ![Screenshot of the operating system menu, showing Widows selected.](../media/operating-system.png)
+	> ![Screenshot of the operating system menu, showing Windows selected.](../media/operating-system.png)
 
 1.  Select an Azure region that will host the Azure App Service. Choose a region that’s geographically closest to you to have the maximum network performance.
 

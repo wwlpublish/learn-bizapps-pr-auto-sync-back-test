@@ -11,7 +11,7 @@ You can monitor and understand engagement by:
 > [!div class="mx-imgBorder"]
 > [![Diagram of the Microsoft Cloud for Retail priority scenarios, showing Shopper and operations analytics highlighted.](../media/analytics.png)](../media/analytics.png#lightbox)
 
-Microsoft Clarity focuses on the **Shopper and operations analytics** part of the **Maximize the value of your data ** priority scenario of Microsoft Cloud for Retail. It provides insight on your website’s usage patterns as an e-commerce web shop that’s built on [Microsoft Dynamics 365 Commerce](/commerce/overview/?azure-portal=true), a custom e-commerce website, or a website for providing information about your physical shop.
+Microsoft Clarity focuses on the **Shopper and operations analytics** part of the **Maximize the value of your data** priority scenario of Microsoft Cloud for Retail. It provides insight on your website’s usage patterns as an e-commerce web shop that’s built on [Microsoft Dynamics 365 Commerce](/commerce/overview/?azure-portal=true), a custom e-commerce website, or a website for providing information about your physical shop.
 
 ## Learning objectives
 
