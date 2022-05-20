@@ -91,9 +91,6 @@ In this task, you'll use the **Filters** feature and then save filters by creati
 
     1.  Choose a name for your segment, enter that name in the **Segment name** field, and then select **Save**. 
 
-		> [!div class="mx-imgBorder"]
-		> ![Screenshot of the Segment name field and the Save button.](../media/segment-name.png)
-
     1.  Complete the previous actions for the **PC** device option as well.
 
     1.  Select **Clear** to clean the remaining filters from the dashboard and return to the default view.
