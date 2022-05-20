@@ -64,7 +64,7 @@ In this task, you'll add the necessary Microsoft 365 trial to use Outlook and Mi
     > ![Screenshot of the product details page for Office 365 E5, showing the Start free trial option.](../media/start-trial-3.png)
 
     > [!NOTE]
-    > In this exercise Microsoft 365 E5 is chosen as it includes Microsoft Teams, however if you do not see an option to choose Microsoft 365 E5 in your region, you can choose alternatively Microsoft 365 business premium standard or alternative versions available that include license to Microsoft Teams.
+    > In this exercise Microsoft 365 E5 is chosen as it includes Microsoft Teams. However, in case you do not see an option to choose Microsoft 365 E5 in your region, you can choose alternatively Microsoft 365 business premium standard or alternative versions available that include license to Microsoft Teams.
 
 1. Enter a **valid phone number** to prove that you're not a robot.
 
