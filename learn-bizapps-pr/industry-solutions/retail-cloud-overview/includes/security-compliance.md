@@ -6,7 +6,7 @@ The following issues make security and compliance a unique challenge for the ret
 
 - Consumer privacy is imperative, and it impacts a brand's reputation and value when it isn't protected. However, only 22 percent of retailers have optimally integrated a privacy plan into their business strategy (source: [Deloitte](https://www2.deloitte.com/us/en/pages/consumer-business/articles/consumer-privacy-in-retail.html/?azure-portal=true)).
 
-- Increasing compliance mandates have been established across the globe that pertain to customer privacy. Nearly half of US states are developing data policy legislation, meaning that a patchwork of law will be established, making compliance confusing and complex to manage. In Europe, the General Data Protection Regulation (GDPR) law and the ePrivacy Regulation (EPR) aim at controlling the flow of data in the EU. The mandate applies to US websites that offer services to EU residents. The laws evolve constantly, and management of this complex system is foundational to any business strategy.
+- Increasing compliance mandates have been established across the globe that pertain to customer privacy. Nearly half of US states are developing data policy legislation, meaning that a patchwork of law will be established, making compliance confusing and complex to manage. 
 
 ## Security, identity, and threat protection
 
@@ -69,7 +69,7 @@ The **ISO 27001** and **SSAE 18 SOC 2** partner certifications will accelerate y
 
 - Microsoft's Zero Standing Access (ZSA) policy for partners, enforcement of multifactor authentication, and full audit logging will help minimize and secure partner access to your environment and will provide you with full transparency over such access.
 
-- Partner data security and privacy commitments include in-region data storage, data encryption in transit and at rest, presence of data retention and disposal policies, and validation of alignment against external regulations such as GDPR.
+- Partner data security and privacy commitments include in-region data storage, data encryption in transit and at rest, presence of data retention and disposal policies, and validation of alignment against external regulations.
 
 - Where applicable, Microsoft reviews partners' operational security processes and infrastructure security. This review includes checks for the presence of anti-malware and firewalls. It also includes validation of change, development, and other operational processes for the presence of adequate security and compliance controls.
 
