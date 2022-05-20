@@ -35,9 +35,6 @@ Microsoft Cloud for Retail uses a combination of Microsoft products to address t
 
 Unified customer profile is a key capability of Microsoft Cloud for Retail. To some extent, it's where the data story comes together. Unified customer profile helps you gain insights across the complete view of a shopper's journey.
 
-> [!div class="mx-imgBorder"]
-> ![Screenshot of Microsoft Dynamics 365 Customer Insights showing the Customers page with a customer's detailed dashboard.](../media/unified.png)
-
 With Unified customer profile, you can gain a 360-degree perspective of the customer in a clear and intuitive way. As a result, you can provide personalized experiences, reveal important opportunities, prevent potential loss or churn, and improve customer satisfaction.
 
 Unified customer profile bolsters unification, where you can:
