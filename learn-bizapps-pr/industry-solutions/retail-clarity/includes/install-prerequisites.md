@@ -26,7 +26,7 @@ The prerequisites for installation are:
 		> [!div class="mx-imgBorder"]
 		> ![Screenshot of the Install button for Azure App Service.](../media/azure-install.png)
 
--   Download the code for the sample [Fabrikam Application website](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/retail-cloud/MC4R-Clarity.zip)..
+-   Download the code for the sample [Fabrikam Application website](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/retail-cloud/MC4R-Clarity.zip).
 
 ## Microsoft Clarity
 
