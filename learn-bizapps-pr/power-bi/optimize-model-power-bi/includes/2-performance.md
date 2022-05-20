@@ -64,7 +64,7 @@ The results of your analysis will identify areas for improvement and opportuniti
 
 If you identify visuals as the bottleneck leading to poor performance, you should find a way to improve performance with minimal impact to user experience.
 
-Consider the number of visuals on the report page; less visuals means better performance. Ask yourself if a visual is really necessary and if it adds value to the end user. If the answer is no, you should remove that visual. Rather than using multiple visuals on the page, consider other ways to provide additional details, such as drill-through pages and report page tooltips.
+Consider the number of visuals on the report page; fewer visuals means better performance. Ask yourself if a visual is really necessary and if it adds value to the end user. If the answer is no, you should remove that visual. Rather than using multiple visuals on the page, consider other ways to provide additional details, such as drill-through pages and report page tooltips.
 
 Examine the number of fields in each visual. The more visuals you have on the report, the higher chance for performance issues. In addition, the more visuals, the more the report can appear crowded and lose clarity. The upper limit for visuals is 100 fields (measures or columns), so a visual with more than 100 fields will be slow to load. Ask yourself if you really need all of this data in a visual. You might find that you can reduce the number of fields that you currently use.
 
