@@ -198,7 +198,7 @@ To unify your data, follow these steps:
 1. Select the **transactions** entity and then select the **msrc\_transactionid** and **msrc\_sessionid** fields. Name the rule **transactionssession** and then select **Done**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Create rule view for the transactions entity.](../media/transactions-entity-rule.png)
+	> ![Screenshot of the Create rule view for the transactions entity.](../media/transactions-entity-rule.png)
 
 1. Select **Save**.
 
