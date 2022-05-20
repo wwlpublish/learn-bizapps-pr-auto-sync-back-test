@@ -31,9 +31,8 @@ Follow these steps to upload sample data input files to a container in a storage
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the new container details.](../media/container-details.png)]
 
-1. Download the compressed file and extract three CSV files to your local computer for use in the next step:
-    1. [CSV grocery files](https://baglabspublic.azureedge.net/baglabspublic/grocery_csv_files.zip)
-   
+1. Download [CSV grocery files](https://baglabspublic.azureedge.net/baglabspublic/grocery_csv_files.zip) and extract three CSV files to your local computer for use in the next step.
+      
 1. Upload all three files you downloaded in the previous step to the container: **Grocery_contact.csv**, **Grocery_msrc_session.csv**, and **Grocery_msrc_transaction.csv**.
 
 	> [!div class="mx-imgBorder"]
