@@ -124,7 +124,7 @@ In this task, you'll request and add the Microsoft Cloud for Retail add-on to de
 
 ## Task 4: Obtain and deploy Dynamics 365 Finance and Operations apps
 
-If you have also requested for D365 Finance and Operations trial license then, in this task, we will obtain a trial license for Dynamics 365 Finance and Operations apps and create a new Dynamics 365 Finance and Operations and a linked Power Platform environment.
+If you have also requested for a Dynamics 365 Finance and Operations trial license then, in this task, we will obtain a trial license for Dynamics 365 Finance and Operations apps and create a new Dynamics 365 Finance and Operations and a linked Power Platform environment.
 
 1. Copy and paste the URL from your email to add the Dynamics 365 Finance and Operations trial license in your tenant.
 
