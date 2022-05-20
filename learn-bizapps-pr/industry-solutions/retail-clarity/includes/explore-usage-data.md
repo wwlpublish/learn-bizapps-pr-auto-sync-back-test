@@ -108,21 +108,21 @@ In this task, you'll use the **Filters** feature and then save filters by creati
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the extra product filters.](../media/product-filters.png)](../media/product-filters.png#lightbox)
 
-	- **Price** - Select data for the price value of the product that’s viewed based on the currency that’s used on your site. Choose to view data based on the minimum and maximum values that you enter.
+    1. **Price** - Select data for the price value of the product that’s viewed based on the currency that’s used on your site. Choose to view data based on the minimum and maximum values that you enter.
 
-	- **Brand** - Select data that includes the product brand. This filter helps you view more from the specific brand.
+    1. **Brand** - Select data that includes the product brand. This filter helps you view more from the specific brand.
 
-	- **Product name** - Select data based on a product name.
+    1. **Product name** - Select data based on a product name.
 
-	- **Availability** - Select data that includes whether a viewed product was in stock or not. The dropdown list includes **In stock**, **None**, or **Out of stock**.
+    1. **Availability** - Select data that includes whether a viewed product was in stock or not. The dropdown list includes **In stock**, **None**, or **Out of stock**.
 
-	- **Rating** - Select data with an average user rating. Enter the star minimum and maximum rating from one to five.
+    1. **Rating** - Select data with an average user rating. Enter the star minimum and maximum rating from one to five.
 
-	- **Number of ratings** - Select data with the total number of users rated. Enter a numeric value in minimum and maximum count.
+    1. **Number of ratings** - Select data with the total number of users rated. Enter a numeric value in minimum and maximum count.
 
-	- **Purchases** - Select the sessions where site visitors did or didn't purchase a product. Choose to view sessions based on **Yes** or **No**.
+    1. **Purchases** - Select the sessions where site visitors did or didn't purchase a product. Choose to view sessions based on **Yes** or **No**.
 
-	- **Checkout abandonment** - Select sessions where the user abandoned the checkout process at a specific step. Choose to view sessions based on the step in the checkout process that was abandoned.
+    1. **Checkout abandonment** - Select sessions where the user abandoned the checkout process at a specific step. Choose to view sessions based on the step in the checkout process that was abandoned.
 
 > [!NOTE]
 > Filters **a-f** are available for site instrumenting with Product JSON-LD. Filter **g** is available for Clarity projects of Shopify sites. Filter **h** is available for only Shopify plus sites.
