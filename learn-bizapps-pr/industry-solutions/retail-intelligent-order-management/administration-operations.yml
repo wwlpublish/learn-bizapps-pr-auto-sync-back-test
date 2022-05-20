@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-intelligent-order-management.administration-operations
+title: Exercise 6 - Administration and operations
+metadata:
+  title: Exercise 6 - Administration and operations
+  description: Follow the steps to administer and operate Intelligent Order Management.
+  ms.date: 05/02/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-industry-solutions
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/administration-operations.md)]
