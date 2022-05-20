@@ -125,7 +125,7 @@ In this task, you'll use the **Filters** feature and then save filters by creati
 	- **Checkout abandonment** - Select sessions where the user abandoned the checkout process at a specific step. Choose to view sessions based on the step in the checkout process that was abandoned.
 
 > [!NOTE]
-> Filters **a-f** (as numbered on the preceding screenshot) are available for site instrumenting with Product JSON-LD. Filter **g** is available for Clarity projects of Shopify sites, and filter **h** is available for only Shopify plus sites.
+> Filters **a-f** are available for site instrumenting with Product JSON-LD. Filter **g** is available for Clarity projects of Shopify sites. Filter **h** is available for only Shopify plus sites.
 
 ## Task 3: Discover Clarity recording capabilities
 
