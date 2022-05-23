@@ -30,7 +30,7 @@ Power Apps Studio is where you can fully develop your apps to make them more eff
 
 -   **Middle pane** - Shows the canvas app that you're working on.
 
--   **Right pane** - Where you will set options, such as the layout, properties, and data sources for certain controls.
+-   **Right pane** - Where you can set options, such as the layout, properties, and data sources for certain controls.
 
 > [!div class="mx-imgBorder"]
 > [![Demonstration of Power Apps Studio functionality.](../media/studio.gif)](../media/studio.gif#lightbox)
