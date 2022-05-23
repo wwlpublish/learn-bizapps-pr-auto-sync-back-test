@@ -1,78 +1,71 @@
-You're ready to create your first app!
-
-You probably have a bunch of questions right now, maybe you're still unsure if Power Apps has the functionality you specifically are looking for. That is exactly why it's the perfect time to create your first app. By getting in there and actually clicking the buttons, some of your questions will have answers.
-
-Just think, in a few minutes you'll be able to call yourself an app creator. But let's not get ahead of ourselves.
-
-In this exercise, you'll create an Expenses App for mobile devices. To simplify things, this app will start from the "My Expenses" template. There are many templates to choose from, each one is pre-configured with different logic/functionality to support its use case. As a first-time app creator, taking some time to explore them further may help to spark ideas when you're creating custom apps.
+In this exercise, you'll create an expenses app for mobile devices. This app will start from the **My Expenses** template. Many templates are available for you to choose from, each preconfigured with different logic/functionality to support its use case. As a first-time app creator, make sure that you explore these templates further to help inspire you when you're creating custom apps.
 
 Keep in mind that you can use data from many other sources, including Microsoft Dataverse, SharePoint, cloud services like Salesforce, and on-premises sources like Microsoft SQL Server.
 
 > [!NOTE]
-> Power Apps requires either an Office 365 license or a free trial. Learn more about your licensing options. [Microsoft products include Microsoft Power Apps and Power Automate](/power-apps/administrator/pricing-billing-skus/?azure-portal=true).
+> Power Apps requires a Microsoft Office 365 license or a free trial. For more information, see [Licensing overview for Microsoft Power Platform](/power-apps/administrator/pricing-billing-skus/?azure-portal=true).
 
-Before you begin, watch this video for a brief overview of what to expect when creating your first Power App.
-
-The following video will walk you through what the app is capable of, adding new items and editing existing.
+Before you begin, watch the video for a brief overview of what to expect when creating your first canvas app with Power Apps. The video demonstrates the app's capabilities and how to add new items and edit existing ones.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/]
 
 ## Create your first app
+To create your first app, follow these steps:
 
-1.  Open your browser and go to [https://make.powerapps.com](https://make.powerapps.com/?azure-portal=true). When prompted to sign in and enter your organizational account credentials.
+1.  Open your browser and go to [https://make.powerapps.com](https://make.powerapps.com/?azure-portal=true). When prompted to sign in, enter your organizational account credentials.
 
-1.  From the **Home** screen, on the far right, select **More create options**.
+1.  From the **Home** screen, on right side of the screen, select **More create options**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the more create options button.](../media/more-create-options.png)](../media/more-create-options.png#lightbox)
+	> [![Screenshot of the More create options button.](../media/more-create-options.png)](../media/more-create-options.png#lightbox)
 
 1.  In the **Search all templates** field, enter **Expenses**.
 
 1.  Under **Start from template**, select **My Expenses**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the My expenses option under start from template.](../media/expenses.png)](../media/expenses.png#lightbox)
+	> [![Screenshot of the My Expenses option under Start from template.](../media/expenses.png)](../media/expenses.png#lightbox)
 
 	> [!NOTE]
-	> After the template has been selected, you can click **Preview** to test it out.
+	> After you've selected the template, select **Preview** to test it.
 
-1.  For the **App name**, enter **My Expenses App** and select **Create**.
+1.  In the **App name** field, enter **My Expenses App** and then select **Create**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the app name field with my expenses app entered and create button.](../media/create-expenses-app.png)](../media/create-expenses-app.png#lightbox)
+	> [![Screenshot of the App name field, showing My Expenses App entered and the Create button.](../media/create-expenses-app.png)](../media/create-expenses-app.png#lightbox)
 
-	After a few moments, you may get an "Almost there ..." pop up, select **Allow**.
+	After a few moments, an "Almost there" pop-up window might display. If so, select **Allow**.
 
-1.  On the **Welcome to Power Apps Studio** pop up, select **Skip**.
+1.  On the **Welcome to Power Apps Studio** pop-up window, select **Skip**.
 
-	As a best practice, once the app is created you should immediately **Save** your app. Power Apps has an AutoSave feature that will save your app every 2 minutes but doesn't start until the app has been saved for the first time.
+	As a best practice, after you've created the app, immediately select **Save** to save your app. Power Apps has an AutoSave feature that will save your app every two minutes; however, that feature doesn't start until the app has been saved for the first time.
 
-1.  In the upper left, select **File**.
+1.  In the upper-left corner of the screen, select **File**.
 
-1.  It will already be on the **Save as** tab, name it **My Expenses** and select **Save** in the bottom right corner.
+1.  On the **Save as** tab, name the app **My Expenses** and then select **Save** in the lower-right corner.
 
-1.  Once the app is saved successfully, in the upper-left select the back arrow, to return to the app.
+1.  When the app has saved successfully, in the upper-left, select the back arrow to return to the app.
 
-## Explore and edit your new app (explore the generated app)
+## Explore and edit your new app
 
-Your My Expenses will open in the Power Apps Studio allowing you to review the various screens, controls, and functionality that make this app work.
+Your newly created **My Expenses** app will open in Power Apps Studio, which will allow you to review the various screens, controls, and functionality that make this app work.
 
-If you want to play/preview the app, select the **Play** in the upper-right corner. When you're ready to get back into edit mode, select the X in the upper-right corner.
+If you want to play/preview the app, select the **Play** button in the upper-right corner. When you're ready to return to edit mode, select the **X** in the upper-right corner.
 
 > [!NOTE]
-> This sample app includes locally saved information using [collections](/power-apps/maker/canvas-apps/create-update-collection/?azure-portal=true). If you would like to use the app for business purposes, a data source would need to be created to mimic the existing collections. Then you would add the connection to this app.
+> This sample app includes locally saved information by using [collections](/power-apps/maker/canvas-apps/create-update-collection/?azure-portal=true). If you want to use the app for business purposes, you'll need to create a data source to mimic the existing collections. Then, you'll need to add the connection to this app.
 
-Once you're done, you can close the app by going to **File** > **Close**. To view the app on your phone, you first need to install the Power Apps Mobile app.
+When you're finished, you can close the app by going to **File > Close**. To view the app on your phone, make sure that you install Power Apps for mobile first.
 
-## Install Power Apps (mobile) on your device
+## Install Power Apps for mobile devices
 
-When building or updating an app, it's always a good idea to test it in the same form factor as the users. This app was designed for phone factor, so best practices would be to test it on a phone before putting the app into production.
+When building or updating an app, you should test it in the same form factor as the users. This app was designed for phone factor, so make sure that you test it on a phone before putting the app into production.
 
-1.  Download **Power Apps** **Mobile** from the app store, for the platform you want to use.
+1.  Download Power Apps for mobile from the app store for the platform that you want to use.
 
-1.  Sign in, using your Office365 username and password.
+1.  Sign in by using your Office 365 username and password.
 
-1.  On your phone or tablet, run the **My Expenses app** in Power Apps Mobile. If you don't want to install the app, you can run it in a browser.
+1.  On your phone or tablet, run the **My Expenses** app** in Power Apps for mobile. If you don't want to install the app, you can run it in a browser.
 
-1.  If you don't see the **My Expenses** app in your Power Apps Mobile app, select the user account menu and toggle on **Show non-production apps**. You may need to swipe to the left or tap your profile icon to get this option.
+1.  If the **My Expenses** app doesn't show in Power Apps for mobile, select the user account menu and then turn on the **Show non-production apps** toggle. You might need to swipe to the left or tap your profile icon to get this option.
 

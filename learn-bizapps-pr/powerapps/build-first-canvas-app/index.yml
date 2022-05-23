@@ -1,23 +1,23 @@
 ### YamlMime:Module 
 uid: learn-bizapps.build-first-canvas-app 
 metadata: 
- title: Build your first Power Apps canvas app
- description: Learn to create your first Power Apps app.
+ title: Build your first canvas app with Power Apps
+ description: Learn how to create your first canvas app with Power Apps.
  ms.date: 05/23/2022  
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
  ms.prod: learning-power-apps  
-title: Build your first Power Apps canvas app
+title: Build your first canvas app with Power Apps
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  This module is an introduction to Power Apps. It will walk you through creating your first Power Apps app and provide additional information Power Apps creators should think about when creating their first app. In this module, you'll also learn about the related technologies that users can apply to create a more complete and automated business solution.
+  This module is an introduction to Power Apps. It will explain the process of creating your first app with Power Apps and will provide extra information that Power Apps creators should consider when creating their first app. Additionally, you'll learn about the related technologies that you can apply to create a more complete and automated business solution.
 abstract: |  
-    By the end of this module, you will: 
-    - Be able to create an app from a Template.  
-    - Be able to better understand the related technologies that can be used in Power Apps.
-    - Be able to better understand various Power Apps data sources and basic data modeling.
-prerequisites: Microsoft Office 365 License/Access to Office 365 environment and Microsoft Power Apps License/Trial.
+    In this module, you’ll: 
+    - Learn how to create an app from a template.  
+    - Discover the related technologies that you can use in Power Apps.
+    - Learn about the various Power Apps data sources and basic data modeling.
+prerequisites: Microsoft Office 365 license/access to Office 365 environment and Microsoft Power Apps license/trial
 iconUrl: /learn/achievements/build-first-canvas-app.svg  
 levels:  
 - beginner   
