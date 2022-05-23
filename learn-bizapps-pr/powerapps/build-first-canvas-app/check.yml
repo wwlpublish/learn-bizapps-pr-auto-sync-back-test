@@ -38,7 +38,7 @@ quiz:
     - content: Power Apps uses connectors to connect to data sources. If the data source supports it, Power Apps can read and write to the data source.
       isCorrect: true 
       explanation: Correct. You can use many external data sources, including Twitter, Facebook, Microsoft SQL Server, and Salesforce.
-  - content: When creating an app, what are the three options that you can start from? 
+  - content: When you're creating an app, what are the three options that you can start from? 
     choices: 
     - content: Blank app, Microsoft Dataverse, SQL Server
       isCorrect: false 
