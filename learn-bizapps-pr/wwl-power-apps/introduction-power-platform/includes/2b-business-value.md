@@ -43,18 +43,18 @@ applications every day.
 For example, technicians in the field may encounter scenarios where, they need a
 part to execute a job. Ideally if that part is in inventory, they can easily
 request the part so they can continue to work. However, many times, there's a
-bottle neck in this process. They need to submit a request to the parts person
+bottleneck in this process. They need to submit a request to the parts person
 first. This means that they can be potentially spending time waiting for the
 parts person to get back to them only to find out later that the part isn't in
 stock. This could be easily solved by building a dedicated Power App. By being
 able to check inventory levels while onsite, technicians do not have to spend
 time onsite waiting to determine if the part is available. Not only can they see
 if the part is available, but they can easily request the part as needed. Since
-they best understand what they would need, they can use their first hand
-knowledge of what would be required,to build out a prototype of the application
+they best understand what they would need, they can use their first-hand
+knowledge of what would be required, to build out a prototype of the application
 using Power Apps that reflects the best user interface and overall experience.
 This is something that would have to be done by a developer in the past. Once
-prototyped, the organizations developers can be used to fill in the gaps that go
+prototyped, the organizations' developers can be used to fill in the gaps that go
 beyond the technician’s ability, such as developing the APIs that will do the
 checking in the company’s inventory system. Once created, the APIs can be
 easily added to the Power App and to any Power Automate Flows that may be
