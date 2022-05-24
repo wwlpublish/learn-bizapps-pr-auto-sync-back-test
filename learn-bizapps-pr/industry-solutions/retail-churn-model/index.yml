@@ -1,14 +1,14 @@
 ### YamlMime:Module 
 uid: learn-bizapps.retail-churn-model 
 metadata: 
- title: Microsoft Cloud for Retail churn model
- description: Learn about Microsoft Cloud for Retail churn model.
+ title: Create a unified customer profile in Microsoft Cloud for Retail
+ description: Learn about Microsoft Cloud for Retail unified customer profile
  ms.date: 04/22/2022  
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
  ms.prod: learning-industry-solutions  
-title: Microsoft Cloud for Retail churn model
+title: Create a unified customer profile in Microsoft Cloud for Retail
 summary: |  
   [!include[](../includes/module-banner.md)] 
   Unified customer profile is a key capability of Microsoft Cloud for Retail. In some ways, it’s where the data story comes together. Unified customer profile can help you gain insights across the complete view of a shopper’s journey.
