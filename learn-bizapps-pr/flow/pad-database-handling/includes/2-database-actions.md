@@ -20,7 +20,7 @@ Alternatively, use the connection string wizard:
 
    ![The advanced tab of the data link properties window](..\media\data-link-properties-advanced-tab.png)
 
-Query the database using the **Execute SQL Statement** action. Under **Get connection by** select ** Configure the action using the already established SQL connection and by setting the SQL connection variable that was created by the previous action. 
+Query the database using the **Execute SQL Statement** action. Under **Get connection by** select **SQL connection variable**. In the **SQL connection** field, specify the already established SQL connection you assigned to the **%SQLConnection%** variable in the previous action.
 
 Alternatively, the action can connect to the database directly, with the method described in the **Open SQL Connection** action.
 
