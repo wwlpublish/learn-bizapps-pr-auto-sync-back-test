@@ -1,14 +1,14 @@
 ### YamlMime:Module
 uid: learn-bizapps.cloud-retail-get-started
 metadata:
- title: Get started with Microsoft Cloud for Retail
+ title: Microsoft Cloud for Retail overview
  description: In this module, you'll explore Microsoft Cloud for Retail and the first steps to get it started in your organization.
  ms.date: 02/18/2022
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
  ms.prod: learning-mscloud-retail
-title: Get started with Microsoft Cloud for Retail
+title: Microsoft Cloud for Retail overview
 summary: |
   [!include[](../includes/module-banner.md)]
   Microsoft Cloud for Retail is a solution that is tailored for retail and offers many capabilities to help your retail business grow. With Cloud for Retail, you can elevate the shopping experience and build a real-time and sustainable supply chain. Moreover, you can empower store associates and maximize the value of your data.
