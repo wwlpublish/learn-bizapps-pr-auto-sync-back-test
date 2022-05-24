@@ -18,7 +18,7 @@ Microsoft Clarity focuses on the **Shopper and operations analytics** part of th
 > [!div class="mx-imgBorder"]
 > [![Diagram of the retail story with Shopper and operations analytics highlighted.](../media/shopper-operations-analytics.png)](../media/shopper-operations-analytics.png#lightbox)
 
-In this lab, you'll assume the role of a system administrator of Fabrikam UK website. Fabrikam UK is using an ASP.NET website. You want to track, monitor, and analyze the user behavior on both websites to provide a better user experience. For that purpose, you'll integrate both websites with Microsoft Clarity.
+In this module, you'll assume the role of a system administrator of Fabrikam UK website. Fabrikam UK is using an ASP.NET website. You want to track, monitor, and analyze the user behavior on both websites to provide a better user experience. For that purpose, you'll integrate both websites with Microsoft Clarity.
 
 > [!NOTE] 
 > For the sake of Azure deployment simplicity, you’ve been provided with a basic, multipage, no image-containing web application to represent the Fabrikam UK website.
@@ -31,4 +31,4 @@ In this module, you'll learn how to:
 
 -   Interact with Microsoft Clarity dashboards, heatmaps, and recordings.
 
-**Bonus learning opportunity** - Because part of this lab needs an up-and-running sample website to do the integration, you'll also learn how to deploy an ASP.NET website to Microsoft Azure App Service with Visual Studio Code in the upcoming exercises.
+**Bonus learning opportunity** - Because part of this module needs an up-and-running sample website to do the integration, you'll also learn how to deploy an ASP.NET website to Microsoft Azure App Service with Visual Studio Code in the upcoming exercises.
