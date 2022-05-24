@@ -14,7 +14,7 @@ Flexible fulfillment delivers on enhanced customer experiences by:
 > [![Infographic showing the capabilities of Intelligent Order Management.](../media/capabilities.png)](../media/capabilities.png#lightbox)
 
 ## Retail story
-This lab will focus on the retail story of Fabrikam Retail.
+This module will focus on the retail story of Fabrikam Retail.
 
 > [!div class="mx-imgBorder"]
 > [![Infographic showing the flow of the retail story.](../media/retail-story.png)](../media/retail-story.png#lightbox)

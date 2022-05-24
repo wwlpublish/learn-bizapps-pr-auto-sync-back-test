@@ -31,4 +31,4 @@ In this module, you'll learn how to:
 
 -   Interact with Microsoft Clarity dashboards, heatmaps, and recordings.
 
-**Bonus learning opportunity** - Because part of this lab needs an up-and-running sample website to do the integration, you'll also learn how to deploy an ASP.NET website to Microsoft Azure App Service with Visual Studio Code in the upcoming exercises.
+**Bonus learning opportunity** - Because part of this module needs an up-and-running sample website to do the integration, you'll also learn how to deploy an ASP.NET website to Microsoft Azure App Service with Visual Studio Code in the upcoming exercises.
