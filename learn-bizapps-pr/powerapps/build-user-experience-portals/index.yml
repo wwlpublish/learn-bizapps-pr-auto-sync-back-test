@@ -10,7 +10,8 @@ metadata:
  ms.prod: learning-power-apps  
 title: Build user experience in Power Apps portals
 summary: |  
-  [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)] 
   A portal maker should consider specific details when designing and building portals. Implementing a portal solution requires knowledge of the specific business requirements and needs of the customer. Along with being simplistic and well-designed, a successful portal should provide functionality in consideration of geographical location, language, and accessibility needs. Additionally, portal makers should ensure that portal metadata is backed up to source control and deployed to test and production environments in a consistent and structured way.
 abstract: |  
     In this module, you will: 

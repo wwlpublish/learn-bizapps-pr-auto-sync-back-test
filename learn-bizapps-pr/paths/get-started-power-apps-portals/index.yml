@@ -11,6 +11,7 @@ metadata:
 title: Get Started with Power Apps portals
 summary: |
   [!include[](../../includes/lp-banner.md)]
+  [!include[](../../includes/power-pages-banner.md)]
   Power Apps portals provide a great way to allow internal and external audiences to view and interact with data from Microsoft Dataverse or Dynamics 365, and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Power Apps portals that can be quickly provisioned to serve a variety of different audiences and workloads. We also cover fundamentals of portal architecture, components, features, and tooling. 
 prerequisites: |
   - Power Apps trial subscription.
@@ -25,8 +26,6 @@ roles:
 products:
 - power-platform
 - power-apps
-subjects:
-- custom-app-development
 modules:
 - learn-bizapps.intro-portals 
 - learn-bizapps.explore-portals

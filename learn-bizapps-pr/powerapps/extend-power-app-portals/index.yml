@@ -10,7 +10,8 @@ metadata:
  ms.prod: learning-power-apps  
 title: Extend Power Apps portals
 summary: |  
-  [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)] 
   The world of business software applications has embraced a movement toward building apps that use low-code/no-code methods. This movement is one of the pillars of Microsoft Power Platform, including Power Apps portals. However, many projects often include functionality or features that can only be addressed with advanced software development techniques. This module explains how to extend portal functionality by using software development and how to use application lifecycle management (ALM) techniques to deploy portals.
 abstract: |  
     In this module, you will: 
