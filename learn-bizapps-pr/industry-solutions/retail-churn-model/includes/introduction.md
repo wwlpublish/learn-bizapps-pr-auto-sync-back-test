@@ -27,7 +27,7 @@ Furthermore, Unified customer profile gives you better access to customer insigh
 
 ## Learning objectives 
 
-This lab will focus on the retail story of Fabrikam Retail.
+This module will focus on the retail story of Fabrikam Retail.
 
 > [!div class="mx-imgBorder"]
 > [![Diagram of the retail story with Retail Churn Model highlighted.](../media/retain-churn-model.png)](../media/retain-churn-model.png#lightbox)
@@ -38,7 +38,7 @@ In **Exercise 1**, you'll create a Microsoft Dynamics 365 Customer Insights envi
 
 ### Prerequisites
 
-To complete the exercises in this lab, you’ll need to install  Dynamics 365 Customer Insights in your environment.
+To complete the exercises in this module, you’ll need to install  Dynamics 365 Customer Insights in your environment.
 You’ll also need to ensure that you have at least Contributor permissions in Dynamics 365 Customer Insights. For more information, see [User permissions](/dynamics365/customer-insights/audience-insights/permissions/?azure-portal=true).
 
 ## Customer intelligence
