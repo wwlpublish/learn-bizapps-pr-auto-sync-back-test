@@ -13,20 +13,20 @@ durationInMinutes: 6
 quiz:
   title: Answer the following questions to see what you've learned.
   questions:
-  - content: Which one of the following licenses is required to enable the Seamless customer service capability in Microsoft Cloud for Retail?
+  - content: Which one of the following licenses is required to use Intelligent order management capability in Microsoft Cloud for Retail?
     choices:
     - content: Dynamics 365 Marketing
       isCorrect: false
-      explanation: Incorrect. Dynamics 365 Marketing isn't required to enable the Seamless customer service capability.
-    - content: Dynamics 365 Customer Service
+      explanation: Incorrect. Dynamics 365 Marketing isn't required to use Intelligent order management capability.
+    - content: Dynamics 365 Intelligent Order Management trial
       isCorrect: true
-      explanation: Correct. Dynamics 365 Customer Service is required to enable the Seamless customer service capability.
-    - content: Dynamics 365 Project Operations
+      explanation: Correct. Dynamics 365 Intelligent Order Management trial is required to use Intelligent order management capability.
+    - content: Dynamics 365 Inventory Management trial
       isCorrect: false
-      explanation: Incorrect. Dynamics 365 Project Operations isn't required to enable the Seamless customer service capability.
+      explanation: Incorrect. Dynamics 365 Inventory Management trial isn't required to use Intelligent order management capability.
     - content: Dynamics 365 Field Service
       isCorrect: false
-      explanation: Incorrect. Dynamics 365 Field Service isn't required to enable the Seamless customer service capability.
+      explanation: Incorrect. Dynamics 365 Field Service isn't required to use Intelligent order management capability.
   - content: Where do you go to deploy Microsoft Cloud for Retail?
     choices:
     - content: Microsoft Power Platform admin center
