@@ -34,7 +34,7 @@ In this task, you'll create a new trial Customer Insights sandbox environment. T
 
 1.  Fill out the appropriate fields and then select **Next**.
 
-    1.  **Name** - <<UserName\>\> Retail Churn
+    1.  **Name** - Retail Churn
 
     1.  **Choose your business** - Individual consumers (B-to-C)
 

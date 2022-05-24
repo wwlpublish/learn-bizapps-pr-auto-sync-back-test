@@ -11,6 +11,7 @@ metadata:
   ms.custom: intro-internal
 title: Introduction to Power Apps portals
 summary: |
+  [!include[](../includes/power-pages-banner.md)]
   Learn about the value of Power Apps portals and how you can leverage it to allow internal and external audiences
   to view and interact with data from Microsoft Dataverse or Dynamics 365.
 abstract: |

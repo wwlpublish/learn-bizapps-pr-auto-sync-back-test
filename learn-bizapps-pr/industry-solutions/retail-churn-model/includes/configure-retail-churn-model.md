@@ -19,7 +19,7 @@ In this task, you'll add a data source for your Retail churn model.
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of Azure Blobs set as the connector.](../media/azure-blobs.png)
 
-	Use the following steps to retrieve the **Storage Account name** and **Access Key** from the storage account that you created in Exercise 2, Task 1, and then update them in the **Azure Blobs** connection settings in Customer Insights.
+	Use the following steps to retrieve the **Storage Account name** and **Access Key** from the storage account that you created in [Exercise - Create a storage account and upload the input data files, Task 1: Create storage account](/learn/modules/retail-churn-model/create-storage-upload-data/?azure-portal=true), and then update them in the **Azure Blobs** connection settings in Customer Insights.
 
 1.  Open a new internet browser tab and then go to the [Azure portal](https://ms.portal.azure.com/?azure-portal=true).
 
