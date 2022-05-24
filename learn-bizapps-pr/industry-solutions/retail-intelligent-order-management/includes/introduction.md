@@ -37,7 +37,7 @@ In the following exercises, you'll play the role of a system administrator, deve
 
 ## Prerequisites
 
-To complete the exercises in this lab, you'll need to meet the following prerequisites:
+To complete the exercises in this module, you'll need to meet the following prerequisites:
 
 - Dynamics 365 Intelligent Order Management
 

@@ -38,7 +38,7 @@ Initially, you'll create a Microsoft Dynamics 365 Customer Insights environment,
 
 ### Prerequisites
 
-To complete the exercises in this lab, you’ll need to install  Dynamics 365 Customer Insights in your environment.
+To complete the exercises in this module, you’ll need to install  Dynamics 365 Customer Insights in your environment.
 You’ll also need to ensure that you have at least Contributor permissions in Dynamics 365 Customer Insights. For more information, see [User permissions](/dynamics365/customer-insights/audience-insights/permissions/?azure-portal=true).
 
 ## Customer intelligence
