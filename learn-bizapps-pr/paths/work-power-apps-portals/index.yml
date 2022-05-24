@@ -11,6 +11,7 @@ metadata:
 title: Work with Power Apps portals
 summary: |
   [!include[](../../includes/lp-banner.md)]
+  [!include[](../../includes/power-pages-banner.md)]
   Power Apps portals are designed for interaction with the internal and external audiences. There are additional requirements for content management and design, as well as the need to secure the content. This learning path describes how portal components work within context of Dynamics 365 to deliver the content and Microsoft Dataverse data to external and internal audiences. We will cover the topics of user authentication and how to secure access to different parts of the portal content based on the target audience and relationship to the content. 
 prerequisites: |
   - Power Apps trial subscription.

@@ -11,6 +11,7 @@ metadata:
 title: Work with Power Apps portals metadata
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   Makers are required to understand the various Power Apps portals metadata components so they can configure the portals app for a variety of unique requirements. This module uses the Portal Management app to configure various portals features by editing the portals metadata.
 abstract: |  
     In this module, you will: 

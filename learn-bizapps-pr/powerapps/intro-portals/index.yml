@@ -12,6 +12,7 @@ metadata:
 title: Core components of Power Apps portals 
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   Extend Dataverse interaction to external and internal audiences such as customers, partners, and employees. Use portals to set up an interactive, web-based sales, services, support, and social engagement application platform to connect with customers, engage with communities, manage site content, and empower your channel partners. Empower anyone inside or outside your organization to interact with Dataverse data by using portals.
 abstract: |  
     In this module, you will: 

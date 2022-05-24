@@ -11,6 +11,7 @@ metadata:
 title: Administer Power Apps portals
 summary: |
   [!include[](../../includes/lp-banner.md)]
+  [!include[](../../includes/power-pages-banner.md)]
   Administrators need to understand how to configure various features and add-ons to ensure the portal runs securely and efficiently.  Power Apps portals provides additional features and functionalities including integration with other Microsoft technologies such as SharePoint document libraries and Power BI reports. This learning path describes tools and techniques available for administrators to configure and maintain Power Apps portals, as well as efficiently troubleshoot the issues. 
 prerequisites: |
   - Power Apps trial subscription.
