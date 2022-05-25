@@ -16,11 +16,10 @@ source or add a data source.
 
 ![Screenshot of Choose Fields options in studio.](../media/choose-fields.png)
 
-Adding columns
--------------
+## Adding fields
 
-When you choose a data source, you can click on **Edit columns** and
-**Add column** to select which columns you would like to display on the form.
+When you choose a data source, you can click on **Edit fields** and
+**Add field** to select which columns you would like to display on the form.
 
 ![Screenshot of Adding Fields in studio.](../media/adding-fields.png)
 
@@ -45,8 +44,7 @@ may be required. For example, if you change a **Text** column from the
 configure the values in the drop-down list. Before you can customize the
 drop-down control inside the card, you will need to unlock the card.
 
-Customizing a card
-------------------
+## Customizing a card
 
 To unlock a card, select the card in the form and then from the **Card**
 pane select **Advanced**. Click the **lock** icon. The card is now a
@@ -65,8 +63,7 @@ finding your custom card.
 Select the ellipses **(...)** to the right and select **Remove**. Now you can
 click **Add column** at the top and select the column again.
 
-Designing the Form control
---------------------------
+## Designing the Form control
 
 When designing a form, the first decision should be your form layout.
 
@@ -121,8 +118,7 @@ the design concepts applied.
 
 ![Screenshot of a different view of New Customer Info form.](../media/new-customer-info.png)
 
-Displaying a specific record in the form
-----------------------------------------
+## Displaying a specific record in the form
 
 Earlier in this module, you configured your form to use a data source.
 Next, you need to configure the form to display the specific record that you

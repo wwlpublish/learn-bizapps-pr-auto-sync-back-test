@@ -3,7 +3,7 @@ uid: learn-bizapps.write-data
 metadata: 
   title: Write data in a Power Apps canvas app
   description: Learn how to write data in a Power Apps canvas app.
-  ms.date: 04/27/2020  
+  ms.date: 05/25/2022 
   author: DaveBeasley
   ms.author: dbeasley  
   ms.topic: interactive-tutorial  
@@ -38,6 +38,7 @@ units:
 - learn-bizapps.write-data.3-adding-customizing-edit-form 
 - learn-bizapps.write-data.4-submit-your-form 
 - learn-bizapps.write-data.5-special-properties 
+- learn-bizapps.write-data.exercise 
 - learn-bizapps.write-data.6-knowledge-check 
 - learn-bizapps.write-data.7-summary 
 badge: 
