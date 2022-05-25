@@ -28,7 +28,7 @@ This hands-on lab shows you how to work with Forms to show and edit data.
 
     You can ignore the error that will be given, as it will be resolved in the next step.
 
-1.  Select **New Screen** in the top left hand corner of the stuido, and select **Blank**.
+1.  Select **New Screen** in the top left hand corner of the studio, and select **Blank**.
 
 	![Screenshot of the Collection Button control with three displayed and highlighted.](../media/new-screen.png)
 

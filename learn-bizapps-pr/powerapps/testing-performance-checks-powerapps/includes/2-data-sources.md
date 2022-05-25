@@ -156,7 +156,7 @@ optimal experience.
 
 ## Summary
 
-As you can seen, there are many options for how you build your app and
+As you can see, there are many options for how you build your app and
 interact with data sources. The list in this unit is far from exhaustive. The guidance here's meant to guide you toward
 better performance, but your results may vary. As you begin applying
 these techniques to your apps, you'll learn what works best for you
