@@ -30,13 +30,13 @@ This hands-on lab shows you how to work with Forms to show and edit data.
 
 1.  Select **New Screen** in the top left hand corner of the stuido, and select **Blank**.
 
-	![Screenshot of the Collection Button control with three displayed and highlighted.](../media/new-screen.png)]
+	![Screenshot of the Collection Button control with three displayed and highlighted.](../media/new-screen.png)
 
 1. Select the **Insert** tab and add an Edit Form, set the **DataSource** property to **FlooringEstimates** and the **Item** property to **Gallery1.Selected**.
 
 1. Select the **Edit fields** button on the right, and add all of the available fields.
 
-	![Screenshot of the Power Apps Studio with the Edit Fields button outlined.](../media/edit-fields.png)]
+	![Screenshot of the Power Apps Studio with the Edit Fields button outlined.](../media/edit-fields.png)
 
 1. Change the **OnSuccess** property of the form to the following:
 
