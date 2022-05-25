@@ -1,8 +1,8 @@
 This hands-on lab shows you how to work with Forms to show and edit data. 
 
-1. Start by downloading the [Flooring Estimates workbook](https://az787822.vo.msecnd.net/documentation/get-started-from-data/FlooringEstimates.xlsx/?azure-portal=true) and save it to OneDrive for Business
+1. Start by downloading the [Flooring Estimates workbook](https://az787822.vo.msecnd.net/documentation/get-started-from-data/FlooringEstimates.xlsx/?azure-portal=true) and save it to OneDrive for Business.
 
-1. Go to https://make.powerapps.com and sign in with your organizational account
+1. Go to [https://make.powerapps.com](https://make.powerapps.com/?azure-portal=true) and sign in with your organizational account.
 
 1. On the Home screen select **Canvas app from blank**.
 
@@ -30,13 +30,13 @@ This hands-on lab shows you how to work with Forms to show and edit data.
 
 1.  Select **New Screen** in the top left hand corner of the stuido, and select **Blank**.
 
-	> ![Screenshot of the Collection Button control with three displayed and highlighted.](../media/new-screen.png)]
+	![Screenshot of the Collection Button control with three displayed and highlighted.](../media/new-screen.png)]
 
 1. Select the **Insert** tab and add an Edit Form, set the **DataSource** property to **FlooringEstimates** and the **Item** property to **Gallery1.Selected**.
 
 1. Select the **Edit fields** button on the right, and add all of the available fields.
 
-> ![Screenshot of the Power Apps Studio with the Edit Fields button outlined.](../media/edit-fields.png)]
+	![Screenshot of the Power Apps Studio with the Edit Fields button outlined.](../media/edit-fields.png)]
 
 1. Change the **OnSuccess** property of the form to the following:
 
