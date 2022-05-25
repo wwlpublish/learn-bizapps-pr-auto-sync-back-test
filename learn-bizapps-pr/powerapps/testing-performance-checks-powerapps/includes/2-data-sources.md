@@ -1,16 +1,15 @@
 In the previous unit, you learned that data sources are often the main reason for slow performance in your app. In this unit, you will learn about some of the common techniques you can apply to mitigate those performance issues.
 
-Use collections to cache data
------------------------------
+## Use collections to cache data
 
-Often in your app you will find yourself query the same data repeatedly,
+Often in your app, you will find yourself querying the same data repeatedly,
 like in the case of pulling the lists of departments for your drop-down menus.
 In those instances, you can query for the data once and then reuse that
 data throughout the app. This reduces the repetitive calls to the data
 source across the network. The following is an example of this process.
 
 In your app, you have several screens where you provide a drop-down menu for
-selecting the department. The list of departments is kept in Microsoft Dataverse in an table named **DepartmentList**. On each instance of the
+selecting the department. The list of departments is kept in Microsoft Dataverse in a table named **DepartmentList**. On each instance of the
 menu, you use the following formula.
 ```
 Filter(DepartmentList, Status = "Active")
@@ -37,8 +36,7 @@ By default, that means only the first 500 items will be returned from
 your data source and stored in the collection. Be sure to plan for this
 limitation as you implement the use of collections in your app.
 
-Delegation also affects performance
------------------------------------
+## Delegation also affects performance
 
 When you learned about [delegation](/learn/modules/work-with-data-source-limits-powerapps-canvas-app/?azure-portal=true),
 you focused on returning the right amount of rows for your
@@ -51,15 +49,14 @@ across the network to the app to be displayed. If a function is not
 delegable, then it is very common to change the delegation limit to
 2,000 rows. This means that the first 2,000 rows will be
 downloaded across the network and then processed locally. In scenarios
-where you are on a slow cellular connection or a low-end mobile device
+where you are on a slow cellular connection or a low-end mobile device,
 this processing can take a considerable amount of time, causing a poor
 experience for the user.
 
 Try to use only delegable functions as much as possible. If your
 function is not delegable, then plan for the impact on the end user.
 
-Use the Concurrent function to load multiple data sources
------------------------------------------------------------------
+## Use the Concurrent function to load multiple data sources
 
 Previously you learned to use collections to cache data in your app. As
 you implement that functionality in your app it is not uncommon to have
@@ -95,8 +92,7 @@ Now all three formulas run at the same time. Reducing your load time to
 3 seconds. Concurrent is a great way to avoid long delays from
 asynchronous calls.
 
-Preview and experimental features
----------------------------------
+## Preview and experimental features
 
 Within Power Apps there are additional, advanced features you can
 implement in your app. You can access them by selecting **File** on the menu
@@ -132,8 +128,7 @@ the common data sources allowing for more loading time. This might not
 make for the best user experience but perhaps if you find a way to do
 this in the background it could let you work with slower queries.
 
-OnStart versus OnVisible
----------------------
+## OnStart versus OnVisible
 
 OnStart and OnVisible are part of your toolkit for building great apps,
 but from a performance point of view, they can have a major impact.
@@ -158,10 +153,9 @@ of that user needs to view a blank screen.
 In most apps, you use a mixture of OnStart and OnVisible to get the
 optimal experience.
 
-Summary
--------
+## Summary
 
-As you can see there a lot of options for how you build your app and
+As you can seen there are a lot of options for how you build your app and
 interact with data sources. The list in this unit is far from exhaustive. The guidance here is meant to guide you toward
 better performance, but your results may vary. As you begin applying
 these techniques to your apps, you will learn what works best for you

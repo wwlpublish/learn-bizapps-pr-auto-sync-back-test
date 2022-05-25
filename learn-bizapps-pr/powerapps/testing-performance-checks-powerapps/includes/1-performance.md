@@ -7,8 +7,7 @@ In this module, you will learn about common performance problems, ways
 to mitigate their impact, and how to perform testing to discover the
 issues.
 
-The most common performance bottleneck - Data sources
-------------------------------------------------------
+## The most common performance bottleneck - Data sources
 
 The most common app performance problems come from interactions with
 data sources. Almost every app has one or more data source. Power Apps
@@ -47,14 +46,13 @@ multiple records.
 
 ### Storing data in the wrong data source
 
-Different data sources are optimized for different workloads and this should be a consideration when choosing where to store data. One example is storing images or files. A common use of Power Apps is to capture images either using the Camera control or the devices built-in camera app. After the user has taken the image, it needs to be saved. One option is to store the image in the same SQL Server database as the other app data. While possible, it is important to note that SQL Server is very inefficient in storing images. Writing and reading the image file to a SQL database is slow, causing your app to run slow. A better option is to [store Power Apps images in the Azure Blob Storage](https://powerapps.microsoft.com/blog/upload-files-from-powerapps-using-the-azure-blob-storage-connector/).
+Different data sources are optimized for different workloads and this should be a consideration when choosing where to store data. One example is storing images or files. A common use of Power Apps is to capture images either using the Camera control or the device's built-in camera app. After the user has taken the image, it needs to be saved. One option is to store the image in the same SQL Server database as the other app data. While possible, it is important to note that SQL Server is very inefficient in storing images. Writing and reading the image file to a SQL database is slow, causing your app to run slow. A better option is to [store Power Apps images in the Azure Blob Storage](https://powerapps.microsoft.com/blog/upload-files-from-powerapps-using-the-azure-blob-storage-connector/).
 Azure Blob Storage is much faster than writing the same data to SQL Server. This minor change to the underlying structure of your app can have a useful impact on user satisfaction.
 
 >[!NOTE]
 > Choose the optimal data source for your app to get maximum performance.
 
-Other performance considerations
---------------------------------
+## Other performance considerations
 
 While data sources might be the largest bottlenecks, there are other
 easily overlooked changes you can make to get optimal performance. Some
@@ -84,15 +82,13 @@ other common issues include:
     reduces the size of the app. If you have one app for everything,
     consider breaking it into smaller apps by role.
 
-Optimize performance in small steps
------------------------------------
+## Optimize performance in small steps
 
 As you work through this module, you are going to learn about the different techniques and options for optimizing performance. Before you get too deep in optimizing your app, remember that the most important thing is that your app works. A fast-performing app that only throws errors when the user uses it has no value.
 
 It is often easier to build your app so that it accomplishes its goals and is fully functional. After the app works then you can revisit the app for changes you can make to increase performance - making those changes one at a time confirming they don't break functionality. This methodology, of making small changes, will have the highest rate of success. As you become more comfortable with the different performance concepts, you will learn to build the app with them from the start. But in the meantime, build an app that works and then optimize.
 
-Additional information
-----------------------
+## Additional information
 
 To supplement the concepts in this module, there are two additional
 reading options to help you increase your performance mindset.
