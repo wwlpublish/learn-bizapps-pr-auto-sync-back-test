@@ -1,10 +1,10 @@
 To get started with the **Edit Form** control, go to the **Insert** menu
 and select **Forms**. You can choose from an **Edit** or
-**Display** form. In most cases, it is recommended to choose an **Edit Form** in most. 
+**Display** form. In most cases, it's recommended to choose an **Edit Form** in most. 
 A **Display** form only allows you to view information and has
 limited customization options. The **Edit** form allows you to do
 everything that a **Display** form allows plus the form can also be used to
-edit existing records and to create new records. Additionally, it is
+edit existing records and to create new records. Additionally, it's
 fully customizable giving the app maker the ability to build your
 solution. When in doubt, choose an **Edit** form.
 
@@ -18,7 +18,7 @@ source or add a data source.
 
 ## Adding fields
 
-When you choose a data source, you can click on **Edit fields** and
+When you choose a data source, you can select **Edit fields** and
 **Add field** to select which columns you would like to display on the form.
 
 ![Screenshot of Adding Fields in studio.](../media/adding-fields.png)
@@ -38,16 +38,16 @@ card and selecting one of the other options.
 
 ![Screenshot of changing control type in drop-down.](../media/control-type.png)
 
-Note that when changing control types, additional configuration
+When changing control types, another configuration
 may be required. For example, if you change a **Text** column from the
 **Edit text** control type to **Allowed Values** you might need to
 configure the values in the drop-down list. Before you can customize the
-drop-down control inside the card, you will need to unlock the card.
+drop-down control inside the card, you'll need to unlock the card.
 
 ## Customizing a card
 
 To unlock a card, select the card in the form and then from the **Card**
-pane select **Advanced**. Click the **lock** icon. The card is now a
+pane select **Advanced**. Select the **lock** icon. The card is now a
 custom card, which allows you to modify all of the settings.
 
 ![Screenshot of how advanced options to customize a card.](../media/customize-card.png)
@@ -55,13 +55,13 @@ custom card, which allows you to modify all of the settings.
 If after working with the custom card you decide that you want to return to
 the original settings, you can delete the custom card and add the column
 back to your form again. To do this, select the entire form,
-click **Properties** on the **Edit** pane, click **Edit columns**, and
+select **Properties** on the **Edit** pane, select **Edit columns**, and
 finding your custom card.
 
 ![Screenshot of custom card property settings.](../media/custom-card.png)
 
 Select the ellipses **(...)** to the right and select **Remove**. Now you can
-click **Add column** at the top and select the column again.
+select **Add column** at the top and select the column again.
 
 ## Designing the Form control
 
@@ -87,7 +87,7 @@ drag-and-drop design of a form with a 4-column layout.
 In this screenshot, **First Name** and **Last Name** are two columns,
 **Street 1** is set to span all four columns, **City** uses three
 columns, and **State/Province** uses one. With a few clicks of the
-mouse, you can layout your forms in a logical manner. Using the 6 or 12
+mouse, you can lay out your forms in a logical manner. Using the 6 or 12
 column layout gives you the most sizing flexibility and is preferred
 over setting **Snap to columns** to **Off**.
 
@@ -129,19 +129,19 @@ The two most common ways of returning a record are by connecting the
 **Form** control to a **Gallery** control's selected property or by using a
 **LookUp** function.
 
-To use a **Gallery** control to specify the record, you will need to set the
+To use a **Gallery** control to specify the record, you'll need to set the
 **Gallery** control to use the same data source as the **Form** control. You can
 confirm this by checking that the **Items** property of the **Gallery** control
 is the same as the **DataSource** property of the **Form** control. Then, in the
-**Item** property of the **Form** control you will set the value to be
+**Item** property of the **Form** control you'll set the value to be
 **GalleryName.Selected.** In this example, replace "GalleryName" with
 the name of your gallery. That is all that is required. Power Apps will
 then display the selected record from the **Gallery** control in the **Form**
 control if the **Form** control is in **View** or **Edit** mode.
 
-If you are not using a **Gallery** control to display all of the records,
+If you aren't using a **Gallery** control to display all of the records,
 then you can use the **LookUp** function to query for the record that you
-want to present in the form. An example of this is if you have stored
+want to present in the form. An example of this is if you've stored
 the record's ID in a variable named varID. Then in the **Item**
 property, you would use a function such as LookUp(CustomerList, ID =
 varID). This example assumes your data source is named CustomerList and
