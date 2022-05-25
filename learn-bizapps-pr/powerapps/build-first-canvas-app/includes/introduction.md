@@ -1,6 +1,6 @@
-Microsoft Power Apps is a low-code development platform with a suite of apps, services, and connectors that you can use to build apps. Previously, to build custom applications, you would have needed to be highly technical and proficient in the various coding languages, but not with Power Apps.
-
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XQss]
+
+Microsoft Power Apps is a low-code development platform with a suite of apps, services, and connectors that you can use to build apps. Previously, to build custom applications, you would have needed to be highly technical and proficient in the various coding languages, but not with Power Apps.
 
 > [!div class="mx-imgBorder"]
 > [![Diagram of Power Apps with a description of its functionality.](../media/apps-descriptions.png)](../media/apps-descriptions.png#lightbox)
