@@ -7,7 +7,7 @@ Keep in mind that you can use data from many other sources, including Microsoft 
 
 Before you begin, watch the video for a brief overview of what to expect when creating your first canvas app with Power Apps. The video demonstrates the app's capabilities and how to add new items and edit existing ones.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XYrX]
 
 ## Create your first app
 To create your first app, follow these steps:

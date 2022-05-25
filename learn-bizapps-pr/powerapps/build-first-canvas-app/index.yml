@@ -13,7 +13,7 @@ summary: |
   [!include[](../includes/module-banner.md)] 
   This module is an introduction to Power Apps. It will explain the process of creating your first app with Power Apps and will provide extra information that Power Apps creators should consider when creating their first app. Additionally, you'll learn about the related technologies that you can apply to create a more complete and automated business solution.
 abstract: |  
-    In this module, you’ll: 
+    In this module, you will: 
     - Learn how to create an app from a template.  
     - Discover the related technologies that you can use in Power Apps.
     - Learn about the various Power Apps data sources and basic data modeling.
