@@ -11,6 +11,7 @@ metadata:
 title: Power Apps portals administration
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   This module will focus on the Microsoft Power Apps Portals administration and using the Power Apps admin center. Additional actions and features are available that you can use to enhance portal functionality.
 abstract: |  
     In this module, you will: 

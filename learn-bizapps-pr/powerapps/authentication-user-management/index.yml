@@ -11,6 +11,7 @@ metadata:
 title: Authentication and user management in Power Apps portals
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   An individual, external user might have several identities from which to choose when registering and accessing a portal. Portal users can be onboarded in many ways, and several options are available to portal users for validating their identity and maintaining their profiles. Microsoft Power Apps portals supports a variety of authentication options and provides powerful user-management capabilities. Administrators can choose between using local authentication or delegating authentication to a trusted authentication provider. Power Apps portals supports multiple authentication providers and various industry standards. 
 abstract: |  
     In this module, you will: 

@@ -1,8 +1,8 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.retail-capability-mapping.azure-setup
-title: Azure setup
+title: Exercise 2 - Azure setup
 metadata:
-  title: Azure setup
+  title: Exercise 2 - Azure setup
   description: Learn how to set up a trial Azure subscription.
   ms.date: 04/22/2022
   author: DaveBeasley

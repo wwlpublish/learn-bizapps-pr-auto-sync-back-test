@@ -11,6 +11,7 @@ metadata:
 title: Access Dataverse in Power Apps portals 
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   The ability to show and interact with Dataverse data on a website is a core benefit of implementing a Microsoft Power Apps portal. This module focuses on the several techniques and methods to display and interact with Dataverse data in Power Apps portals. 
 abstract: |  
     In this module, you will: 

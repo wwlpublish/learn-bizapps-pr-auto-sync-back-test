@@ -39,7 +39,7 @@ list.
 1. Enter **Was anyone hurt?** as the column name. Confirm **Single line of
     text** as the type of column. Scroll down and select **OK** on the lower right of the screen.
 
-1. Follow the previous two steps to add the **Email** and **How many damaged items** columns.
+1. Follow the previous two steps to add the **Email**, **How many damaged items** and **Anyone you'd like to be CC'ed?** columns.
 
 1. Select **Create column**. Add **Date submitted** as the column
     name and, this time, select **Date and Time** as the type of column.
@@ -57,7 +57,7 @@ list.
 
 1. On the left vertical menu, select **+ Create**.
 
-1. On the top of the page is the **Three ways to make a flow** heading. Select the
+1. At the top of the page is the **Three ways to make a flow** heading. Select the
     **Instant cloud flow** option from the **Start from blank** menu.
 
 1. Enter **Report Property Damage** as your **Flow name** and select the

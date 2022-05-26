@@ -1,8 +1,8 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.retail-churn-model.create-configure-customer-insights-environment 
-title: Create and set up a Dynamics 365 Customer Insights environment
+title: Exercise 1 - Create and set up a Dynamics 365 Customer Insights environment
 metadata: 
-  title: Create and set up a Dynamics 365 Customer Insights environment
+  title: Exercise 1 - Create and set up a Dynamics 365 Customer Insights environment
   description: Learn how to create and set up a Dynamics 365 Customer Insights environment.
   ms.date: 04/22/2022 
   author: DaveBeasley 

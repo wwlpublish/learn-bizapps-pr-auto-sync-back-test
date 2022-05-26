@@ -11,6 +11,7 @@ metadata:
 title: Power Apps portals architecture 
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   This module focuses on the Power Apps portals architecture, such as how the various components work together to build a portal. Additionally, it explains how the components are installed and come to together in a working portal. The module also describes the maker and configuration tools that you can use to build and customize Power Apps portals. 
 abstract: |  
     In this module, you will: 

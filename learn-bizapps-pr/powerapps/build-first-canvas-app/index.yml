@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.build-first-canvas-app 
+metadata: 
+ title: Build your first canvas app with Power Apps
+ description: Learn how to create your first canvas app with Power Apps.
+ ms.date: 05/23/2022  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: interactive-tutorial  
+ ms.prod: learning-power-apps  
+title: Build your first canvas app with Power Apps
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module is an introduction to Power Apps. It will explain the process of creating your first app with Power Apps and will provide extra information that Power Apps creators should consider when creating their first app. Additionally, you'll learn about the related technologies that you can apply to create a more complete and automated business solution.
+abstract: |  
+    In this module, you will: 
+    - Learn how to create an app from a template.  
+    - Discover the related technologies that you can use in Power Apps.
+    - Learn about the various Power Apps data sources and basic data modeling.
+prerequisites: Microsoft Office 365 license/access to Office 365 environment and Microsoft Power Apps license/trial
+iconUrl: /learn/achievements/build-first-canvas-app.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+products: 
+- power-platform
+- power-apps 
+subjects: 
+- custom-app-development
+units: 
+- learn-bizapps.build-first-canvas-app.introduction 
+- learn-bizapps.build-first-canvas-app.building-blocks 
+- learn-bizapps.build-first-canvas-app.exercise-create-expenses-app 
+- learn-bizapps.build-first-canvas-app.manage-maintain-app 
+- learn-bizapps.build-first-canvas-app.related-technologies 
+- learn-bizapps.build-first-canvas-app.check 
+- learn-bizapps.build-first-canvas-app.summary 
+badge: 
+  uid: learn-bizapps.build-first-canvas-app.badge 

@@ -23,7 +23,7 @@ Additionally, you’ll experience simplified task management:
 
 ## Retail story
 
-This lab will focus on the retail story of Fabrikam Retail.
+This module will focus on the retail story of Fabrikam Retail.
 
 > [!div class="mx-imgBorder"]
 > [![Diagram of the retail story showing different needs and tailored experiences.](../media/story.png)](../media/story.png#lightbox)
