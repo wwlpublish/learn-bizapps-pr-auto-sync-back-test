@@ -27,7 +27,7 @@ quiz:
     - content: Dynamics 365 Field Service
       isCorrect: false
       explanation: Incorrect. Dynamics 365 Field Service isn't required to use Intelligent order management capability.
-  - content: Which one of the following technologies is used to deploy Microsoft Cloud for Retail?
+  - content: Which one of the following technologies is used to deploy the licenses?
     choices:
     - content: Microsoft Power Platform admin center
       isCorrect: false
