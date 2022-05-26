@@ -2,7 +2,7 @@ When running desktop flows through the flow designer, you can review the values 
 
 However, some scenarios handle sensitive information that mustn't be visible for security reasons. Power Automate allows you to hide the content of a variable by marking it as sensitive.
 
-The values of sensitive variables aren't visible in the flow designer. Additionally, the values aren't logged in the Power Automate portal when the flow runs from the console or a cloud flow.
+The values of sensitive variables aren't visible in the variables pane of the flow designer. Additionally, the values aren't logged in the Power Automate portal when the flow runs from the console or a cloud flow.
 
 ![Screenshot of a sensitive variables in the workspace.](..\media\sensitive-variable-example.png)
 
