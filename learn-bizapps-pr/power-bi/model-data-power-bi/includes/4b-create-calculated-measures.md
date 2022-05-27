@@ -15,7 +15,7 @@ From the Formula bar, you can enter the DAX expression that defines your measure
 
 ![Screenshot of a typed DAX function.](../media/04b-power-bi-desktop-type-new-measure.png)
 
-If your calculation is long, you can add extra line breaks in the Expression Editor by typing **ALT-Enter**.
+To ensure the new measure works make sure you have set the **Date** field in the **Date** table to type **Date**.  If your calculation is long, you can add extra line breaks in the Expression Editor by typing **ALT-Enter**.
 
 ![DAX formula with extra line breaks from typing ALT-Enter.](../media/04b-power-bi-desktop-alt-enter.png)
 
