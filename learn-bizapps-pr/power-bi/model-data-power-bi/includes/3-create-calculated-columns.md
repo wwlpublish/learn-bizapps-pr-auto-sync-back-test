@@ -23,7 +23,7 @@ The Power BI formula bar will suggest specific DAX functions and related data co
 
 ![Screenshot of the New Column button](../media/03-power-bi-desktop-calculate-column.png)
 
-After you have created the new CountryZip calculated column in the Geograpy table and the Sales table, they can be used as a unique key to establish a relationship between the two tables. By going to the **Relationship** view, you can then drag the CountryZip field from the Sales table to the Geography table to create the relationship.
+After you have created the new CountryZip calculated column in the Geography table and the Sales table, they can be used as a unique key to establish a relationship between the two tables. By going to the **Relationship** view, you can then drag the CountryZip field from the Sales table to the Geography table to create the relationship.
 
 ![Screenshot of graphical relationship between two fields.](../media/03-power-bi-desktop-mapping-fields.png)
 
