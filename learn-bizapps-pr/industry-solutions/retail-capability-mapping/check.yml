@@ -27,7 +27,7 @@ quiz:
     - content: Dynamics 365 Field Service
       isCorrect: false
       explanation: Incorrect. Dynamics 365 Field Service isn't required to use Intelligent order management capability.
-  - content: Where do you go to deploy Microsoft Cloud for Retail?
+  - content: Which one of the following technologies is used to deploy the licenses?
     choices:
     - content: Microsoft Power Platform admin center
       isCorrect: false
@@ -35,7 +35,7 @@ quiz:
     - content: Power Apps maker portal
       isCorrect: false
       explanation: Incorrect. You don't go to Power Apps maker portal to deploy Microsoft Cloud for Retail.
-    - content: Microsoft 365 admin center
+    - content: Microsoft admin center
       isCorrect: false
       explanation: Incorrect. You don't go to Microsoft 365 admin center to deploy Microsoft Cloud for Retail.
     - content: Microsoft Cloud Solutions Center

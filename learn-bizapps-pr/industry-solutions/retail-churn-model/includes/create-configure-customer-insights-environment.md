@@ -15,7 +15,7 @@ In this task, you'll create a new trial Customer Insights sandbox environment. T
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the Customer Insights page, showing the Try for free button.](../media/customer-insights.png)
 
-1.  Sign in with the account that you created as part of Lab 1: Seamless customer experience -Training environment preparation, Task 1.
+1.  Sign in with the account that you created in the Product capability mapping and training environment preparation for Microsoft Cloud for Retail module.
 
 1.  Select **Audience insights** as your focus.
 
