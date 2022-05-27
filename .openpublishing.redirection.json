@@ -434,6 +434,21 @@
       "source_path": "learn-bizapps-pr/flow/pad-power-automate-desktop-recording-features/4-exercise-desktop-recorder.md",
       "redirect_url": "https://docs.microsoft.com/en-us/learn/modules/pad-power-automate-desktop-recording-features/4-exercise-recording-desktop-flows",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/pad-variables/7-exercise-create-manipulate-variables.md",
+      "redirect_url": "https://docs.microsoft.com/en-us/learn/modules/pad-variables/8-exercise-create-manipulate-variables",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/pad-variables/8-check-knowledge.md",
+      "redirect_url": "https://docs.microsoft.com/en-us/learn/modules/pad-variables/9-check-knowledge",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/pad-variables/9-summary.md",
+      "redirect_url": "https://docs.microsoft.com/en-us/learn/modules/pad-variables/10-summary",
+      "redirect_document_id": false
     }
   ]
 }
