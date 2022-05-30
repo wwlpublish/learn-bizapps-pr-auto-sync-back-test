@@ -1,16 +1,16 @@
-The **Model view** in Power BI Desktop allows you to visually set the relationship between tables or elements. A relationship is where two or more tables are linked together because they contain related data. This enables users to run queries for related data across multiple tables.Use the Model view to see a diagrammatic view of your data.
+The **Model view** in Power BI Desktop allows you to visually set the relationship between tables or elements. A relationship is where two or more tables are linked together because they contain related data. This enables users to run queries for related data across multiple tables. Use the Model view to see a diagrammatic view of your data.
 
 Tasks in this unit include:
 ![Conceptual graphic of the tasks in this module.](../media/02-power-bi-desktop-overview.png)
 
 > [!NOTE]
-> To follow along with the examples on this page, download the sample Access database <a href="https://go.microsoft.com/fwlink/?linkid=2120368" target="_blank">**here**</a> and import into Power BI Desktop (**Get Data > Database > Access database**). If you have any issues loading the Access database, please read this <a href="https://go.microsoft.com/fwlink/?linkid=2131277" target="_blank">**article**</a>.
+> To follow along with the examples on this page, download the sample Access database <a href="https://go.microsoft.com/fwlink/?linkid=2120368" target="_blank">**here**</a> and import all the tables into Power BI Desktop (**Get Data > Database > Access database**). If you have any issues loading the Access database, please read this <a href="https://go.microsoft.com/fwlink/?linkid=2131277" target="_blank">**article**</a>.
 
 In the Model view, notice that a block represents each table and the lines between them represent relationships.
 
 ![Screenshot of the Model view.](../media/02-power-bi-desktop-model-view.png)
 
-Adding and removing relationships is straightforward. To remove a relationship, right-click the relationship and select **Delete**. To create a relationship, drag and drop the fields that you want to link between tables.
+Adding and removing relationships is straightforward. To remove a relationship, right-click the relationship and select **Delete**. To create a relationship, drag the field from one table and drop the field on the field of the other table that you want to link.
 
 ![Screenshot showing the graphical relationship between fields.](../media/02-power-bi-desktop-relationship.png)
 
