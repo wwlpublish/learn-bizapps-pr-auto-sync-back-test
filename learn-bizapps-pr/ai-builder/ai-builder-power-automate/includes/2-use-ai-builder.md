@@ -11,7 +11,7 @@ This section describes various use cases that can be fulfilled by using AI Build
 
 Companies often receive invoices in large quantities and from various sources, such as mail, fax, email, or in person. Processing these documents and manually entering them into your database can take considerable time. This process can be greatly improved by:
 
-- Using the **AI Builder form processing** model to extract the columns and tables from your documents.
+- Using the **AI Builder document processing** model to extract the columns and tables from your documents.
 
 - Creating a Power Automate flow to automatically move information into your database.
 

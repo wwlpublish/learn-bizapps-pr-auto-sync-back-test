@@ -16,7 +16,7 @@ AI Builder comes with a wide variety of models to enhance your apps and business
 
 Each AI Builder model has an introductory experience where you can learn more about the model.
 
-![Form Processing (preview) on the Get started tab has info about how it automatically processes documents on several slides.](../media/image-3.jpg)
+![Document Processing on the Get started tab has info about how it automatically processes documents on several slides.](../media/image-3.jpg)
 
 For those models that require customization, AI Builder provides a summary of the steps that you need to take and what you need to get started. The **Examples** tab also includes examples of how you can use the model.
 

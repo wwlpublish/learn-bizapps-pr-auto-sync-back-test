@@ -1,4 +1,4 @@
-Learn how to use your Form processing model in Power Apps and Power Automate.
+Learn how to use your Document processing model in Power Apps and Power Automate.
 
 ## Quick test
 
@@ -8,7 +8,7 @@ After your model has completed training, you can view important details about yo
 
 To see your model in action, select **Quick test**.
 
-Drag and drop or upload an image from your device to test. From the provides sample data, use the files from the Test folders that we didn’t use for training (either from **AI Builder Form processing Sample Data\Adatum\Test** or **AI Builder Form processing Sample Data\Contoso\Test**).
+Drag and drop or upload an image from your device to test. From the provides sample data, use the files from the Test folders that we didn’t use for training (either from **AI Builder Document processing Sample Data\Adatum\Test** or **AI Builder Document processing Sample Data\Contoso\Test**).
 
 You will now be able to view the detected fields that you chose and the associated confidence scores for retrieving the individual fields compared to the trained model.
 
@@ -18,7 +18,7 @@ Your model can\'t be used until you publish it. If you are satisfied with your m
 
 ## Use your model in Power Automate
 
-After your Form processing model is published, you can also use it in a flow. You can use the **AI Builder** action in Power Automate to take advantage of the results of your model.
+After your Document processing model is published, you can also use it in a flow. You can use the **AI Builder** action in Power Automate to take advantage of the results of your model.
 
 1. Select **Use model**.
 
@@ -46,7 +46,7 @@ Congratulations! You’ve built an intelligent automation flow. You can then cus
 
 ## Use your model in Power Apps
 
-Now that your model is published, you can use your Form processing model in a canvas app. A special component is available for you to add that analyzes any image and extracts the text based on your trained Form processing model.
+Now that your model is published, you can use your Document processing model in a canvas app. A special component is available for you to add that analyzes any image and extracts the text based on your trained Document processing model.
 
 ![Screenshot of Power Apps with an Analyze component and a label.](../media/image-9.png)
 
@@ -54,7 +54,7 @@ Now that your model is published, you can use your Form processing model in a ca
 
 2. Select **+ New app in Power Apps** to begin the canvas app creation experience.
 
-3. Within your canvas app, a Form processor component is automatically added and linked to your published Form processing model.
+3. Within your canvas app, a Form processor component is automatically added and linked to your published Document processing model.
 
     > Going forward, you can select **Insert > AI Builder** to view the list of AI Builder components and then select **Form processor** to add a Form processor component. Make sure that you select the correct model. Only published models will appear in the drop-down list.
 

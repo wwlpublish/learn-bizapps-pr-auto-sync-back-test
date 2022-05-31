@@ -4,7 +4,7 @@ After creating your AI Builder model, you can use it in Power Apps and Power Aut
 
 After your model has completed training, you can view important details about your newly trained model on a details page for that model. The information might vary depending on the model type.
 
-![Models > My Form Processing model shows a Training document with Publish and Quick Test buttons, a Selected fields list, and how your model is used.](../media/image-4.jpg)
+![Models > My Document Processing model shows a Training document with Publish and Quick Test buttons, a Selected fields list, and how your model is used.](../media/image-4.jpg)
 
 On the model details page, you can see the customizations that you made to train your model.
 In some cases, it shows additional insights on the training performance.
@@ -52,7 +52,7 @@ your model type supports it.
 This selection redirects you to the flow template page in Power Automate. Confirm
 the connections and then select **Continue**.
 
-![My Form Processing flow shows Manually trigger a flow, and Predict.](../media/image-7.jpg)
+![My Document Processing flow shows Manually trigger a flow, and Predict.](../media/image-7.jpg)
 
 In the flow creation experience, you'll find the AI Builder action
 already added to your flow and your model automatically linked to the

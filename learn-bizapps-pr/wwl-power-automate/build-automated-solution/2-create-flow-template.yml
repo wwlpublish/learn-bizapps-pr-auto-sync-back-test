@@ -4,12 +4,13 @@ title: Create a flow from a template
 metadata:
   title: Create a flow from a template
   description: "Create a flow from a template"
-  ms.date: 05/18/2021
+  ms.date: 05/30/2022
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 azureSandbox: false
+labModal: false
 durationInMinutes: 15
 content: |
   [!include[](includes/2-create-flow-template.md)]

@@ -33,7 +33,7 @@ Select **+ New step** and then search for and select **Predict** under AI Builde
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Choose an operation dialog box showing search results for Predict.](../media/17-predict-action.png)](../media/17-predict-action.png#lightbox)
 
-Select the model that you want to use, which in this case is **Form Processing**. After your model is selected, more fields will appear. For the form processing model, a document is required. Because this flow is triggered by receiving an email with an attachment, you can specify that attachment with dynamic content. For the document type, search for and select **Attachments Content-Type** in the **Dynamic content** menu.
+Select the model that you want to use, which in this case is **Document processing**. After your model is selected, more fields will appear. For the document processing model, a document is required. Because this flow is triggered by receiving an email with an attachment, you can specify that attachment with dynamic content. For the document type, search for and select **Attachments Content-Type** in the **Dynamic content** menu.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Predict action with dynamic content for Attachments Content-Type selected.](../media/18-dynamic-content.png)](../media/18-dynamic-content.png#lightbox)

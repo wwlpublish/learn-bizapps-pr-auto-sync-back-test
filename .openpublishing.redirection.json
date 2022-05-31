@@ -449,6 +449,21 @@
       "source_path": "learn-bizapps-pr/flow/pad-variables/9-summary.md",
       "redirect_url": "https://docs.microsoft.com/en-us/learn/modules/pad-variables/10-summary",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/wwl-power-automate/build-automated-solution/4-build-business-process-flow.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/build-automated-solution/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/wwl-power-automate/build-automated-solution/5-knowledge-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/build-automated-solution/4-knowledge-check",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "learn-bizapps-pr/wwl-power-automate/build-automated-solution/6-summary-resources.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/build-automated-solution/5-summary-resources",
+      "redirect_document_id": true
     }
   ]
 }

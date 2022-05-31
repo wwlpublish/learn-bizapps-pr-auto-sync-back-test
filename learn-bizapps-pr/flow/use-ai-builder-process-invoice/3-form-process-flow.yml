@@ -1,8 +1,8 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.use-ai-builder-process-invoice.3-form-process-flow 
-title: Create a form processing flow
+title: Create a document processing flow
 metadata: 
-  title: Create a form processing flow
+  title: Create a document processing flow
   description: Learn how to create a flow to process forms.
   ms.date: 05/02/2022
   author: DaveBeasley 
