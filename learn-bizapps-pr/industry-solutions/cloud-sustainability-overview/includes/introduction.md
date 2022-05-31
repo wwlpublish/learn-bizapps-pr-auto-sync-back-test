@@ -1,4 +1,4 @@
-[!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XIdw]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4XIdw]
 
 Microsoft Cloud for Sustainability helps organizations build more enduring IT infrastructures through identifying opportunities to replace tools, systems, and activities with more efficient options. Organizations can minimize the environmental footprint of their operational systems and processes. Furthermore, they can drive more sustainable value chains with greater transparency and accountability, from sourcing of materials through product distribution. 
 
