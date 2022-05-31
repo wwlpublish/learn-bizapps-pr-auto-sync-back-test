@@ -62,7 +62,7 @@ When master data is set up in the application, you can perform calculations at s
 
 You need a way to choose the correct emission factors for the calculation. In this case, you would select the **Factor library** option from the dropdown menu, which holds your emission and estimation factors. You could also use a Microsoft Power Fx model for extra flexibility. Power Fx is a Microsoft Excel-like language that lets you express more complex mathematical models. Considerable flexibility and power are offered in this solution.
 
-You can correlate multiple variables to create an output. These formulas (or calculations) that are configured in the models can be as simple as multiplication of an emission factor times an activity quantity. Alternatively, for more granularity, you could use a Power FX experience. 
+You can correlate multiple variables to create an output. These formulas (or calculations) that are configured in the models can be as simple as multiplication of an emission factor times an activity quantity. Alternatively, for more granularity, you could use a Power Fx experience. 
 Go to **Data > Calculations > Calculation Models > New**.
 
 > [!div class="mx-imgBorder"]
