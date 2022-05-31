@@ -17,13 +17,13 @@ The following sections explore what you can do with the models that you customiz
 
 Select the tile for one of the following model types:
 
-- Form processing
+- Document processing
 
 - Object detection
 
 - Prediction
 
-- Text classification
+- Category classification
 
 Make sure that you have everything you need to create your model, as listed
 on the **Get started** tab. You can also use [sample

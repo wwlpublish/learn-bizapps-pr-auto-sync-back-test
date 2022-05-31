@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit 
 uid: learn-dynamics.get-started-with-form-processing.1-intro-to-form-processing 
-title: Introduction to Form processing
+title: Introduction to Document processing
 metadata: 
-  title: Introduction to Form processing
-  description: Learn about Form processing in AI Builder.
+  title: Introduction to Document processing
+  description: Learn about Document processing in AI Builder.
   ms.date: 03/15/2020 
   author: heyrob 
   ms.author: robde 

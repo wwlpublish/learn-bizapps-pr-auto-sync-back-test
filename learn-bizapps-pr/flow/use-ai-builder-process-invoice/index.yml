@@ -14,7 +14,7 @@ summary: |
   This module explains how to integrate AI builder into an existing API-based flow to facilitate a robust automated process.
 abstract: |  
     In this module, you will: 
-    - Build a new AI model for form processing.
+    - Build a new AI model for document processing.
     - Train the new AI model to process Contoso Invoice forms.
     - Integrate the new AI model into an existing cloud flow.
     - Test the updated cloud flow and associated AI Builder-based predictions.

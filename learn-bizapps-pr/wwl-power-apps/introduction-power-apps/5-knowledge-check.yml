@@ -32,7 +32,7 @@ quiz:
     choices:
     - content: "Train and use an Object Detection model in your app with AI Builder."
       isCorrect: true
-      explanation: "Correct. Power Apps makes available to you the ability to use artificial intelligence without writing code. This allows you to do Form Processing, Object Detection, Prediction, and Text Classification all powered by Azure services."
+      explanation: "Correct. Power Apps makes available to you the ability to use artificial intelligence without writing code. This allows you to do Document processing, Object Detection, Prediction, and Text Classification all powered by Azure services."
     - content: "This is not possible."
       isCorrect: false
       explanation: "Incorrect. Power Apps offers multiple wizard-driven artificial intelligence features including Object Detection."
