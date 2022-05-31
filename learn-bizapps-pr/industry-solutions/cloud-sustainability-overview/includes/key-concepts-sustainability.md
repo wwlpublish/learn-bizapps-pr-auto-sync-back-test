@@ -16,7 +16,7 @@ Human-created emissions come from a wide range of sources, including energy gene
 ## Global Warming Potential 
 Human activities produce carbon dioxide, methane, refrigerants, and other greenhouse gases, each with its own Global Warming Potential (GWP). These emissions are converted to a single unit of measurement, carbon dioxide equivalent (or CO<sub>2</sub>e), by using their GWP.
 
-Global Warming Potential (GWP) is the potency with which each gas traps heat from the sun. The Sustainability Manager uses GWP to convert an organization’s multifaceted emissions into carbon dioxide 
+GWP is the potency with which each gas traps heat from the sun. The Sustainability Manager uses GWP to convert an organization’s multifaceted emissions into carbon dioxide 
 equivalent (CO<sub>2</sub>e).
 
 Carbon dioxide equivalent (CO<sub>2</sub>e) is a unified metric for multiple greenhouse gases.
@@ -31,7 +31,7 @@ Different human-emitted gases cause global warming at varying intensities and ti
 - Ozone (O<sub>3</sub>) 
 
 
-## Greenhouse Gas Protocol
+## Greenhouse gas protocol
 Emissions activities are divided into a classification system that’s based on the [Greenhouse Gas Protocol](https://ghgprotocol.org/?azure-portal=true), which is a methodology that’s most accepted globally. 
 
 [![Diagram showing scope and emissions across the value chain.](../media/scope-emission.png)](../media/scope-emission.png#lightbox)
