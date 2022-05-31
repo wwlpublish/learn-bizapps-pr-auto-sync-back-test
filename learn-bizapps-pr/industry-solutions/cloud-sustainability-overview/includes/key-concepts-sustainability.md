@@ -5,7 +5,7 @@ Carbon accounting is the process by which organizations measure the amount of gr
 
 ## Greenhouse effect 
  
-> [![Picture showing green house effect.](../media/green-house-gas-effect.png)](../media/green-house-gas-effect.png#lightbox)
+[![Picture showing green house effect.](../media/green-house-gas-effect.png)](../media/green-house-gas-effect.png#lightbox)
 
 The greenhouse effect is a condition that’s caused by the presence of greenhouse gases (GHGs) in the atmosphere that trap some of the heat that’s emitted by the sun. Until relatively recently, the earth has had a balance whereby the oceans, forests, and soils recycled GHG emissions (principally carbon). 
 
@@ -34,7 +34,7 @@ Different human-emitted gases cause global warming at varying intensities and ti
 ## Greenhouse Gas Protocol
 Emissions activities are divided into a classification system that’s based on the [Greenhouse Gas Protocol](https://ghgprotocol.org/?azure-portal=true), which is a methodology that’s most accepted globally. 
 
-> [![Diagram showing scope and emissions across the value chain.](../media/scope-emission.png)](../media/scope-emission.png#lightbox)
+[![Diagram showing scope and emissions across the value chain.](../media/scope-emission.png)](../media/scope-emission.png#lightbox)
 
 
 Thereafter, emissions are classified into the following scopes:
