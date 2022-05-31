@@ -1,6 +1,6 @@
 Microsoft isn't new to the topic of sustainability. For more than a decade, Microsoft has steadily built on a commitment toward innovation and investment in technologies to address environmental sustainability. 
 
-> [![Diagram representing decades of action of Microsoft sustainability.](../media/journey.png)](../media/journey.png#lightbox)
+[![Diagram representing decades of action of Microsoft sustainability.](../media/journey.png)](../media/journey.png#lightbox)
 
 
 Microsoft has landed important work since setting the first carbon emission reduction goal in 2009. Additionally, attention has been focused on where technology can have the greatest impact: in the areas of carbon, water, waste, and ecosystems. 
