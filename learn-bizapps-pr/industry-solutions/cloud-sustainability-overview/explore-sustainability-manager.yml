@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.cloud-sustainability-overview.explore-sustainability-manager 
+title: Explore Sustainability Manager
+metadata: 
+  title: Explore Sustainability Manager
+  description: Learn how Sustainability Manager can be used to record, report, and reduce environmental impact by using data connections and actionable insights.
+  ms.date: 05/24/2022 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-mscloud-sustainability 
+durationInMinutes: 25 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/explore-sustainability-manager.md)] 
