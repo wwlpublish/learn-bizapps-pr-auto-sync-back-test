@@ -67,7 +67,7 @@ The volume of greenhouse gas (GHG) emissions and their low concentration in the 
 
 Activity x Emission factor = Emission
 
-An emission factor shows the quantity of GHGs that are emitted in relation to a particular activity, in carbon dioxide equivalent (CO2e) for each accounting unit of the activity (for example, Lbs CO<sub>2</sub>e/KWh).
+An emission factor shows the quantity of GHGs that are emitted in relation to a particular activity, in carbon dioxide equivalent (CO<sub>2</sub>e) for each accounting unit of the activity (for example, Lbs CO<sub>2</sub>e/KWh).
 
 **Important**: Efficiencies and changes in an activity can impact the emission factors, so it’s important to constantly update the factors based on the latest standards and research. 
 
