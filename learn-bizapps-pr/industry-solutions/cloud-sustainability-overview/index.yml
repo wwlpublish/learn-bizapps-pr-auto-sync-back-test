@@ -1,0 +1,46 @@
+### YamlMime:Module 
+uid: learn-bizapps.cloud-sustainability-overview 
+metadata: 
+ title: Microsoft Cloud for Sustainability overview
+ description: Learn about Microsoft Cloud for Sustainability that helps organizations to build more enduring IT infrastructures through identifying opportunities to replace tools, systems, and activities with more efficient options. 
+ ms.date: 05/24/2022  
+ author: AshokSudhaMCRSOFT  
+ ms.author: sudhaashok  
+ ms.topic: interactive-tutorial  
+ ms.prod: learning-mscloud-sustainability  
+title: Microsoft Cloud for Sustainability overview
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Microsoft Cloud for Sustainability helps organizations build more enduring IT infrastructures through identifying opportunities to replace tools, systems, and activities with more efficient options. Microsoft Cloud for Sustainability helps organizations minimize the environmental footprint of their operational systems and processes. Furthermore, they can drive more sustainable value chains with greater transparency and accountability, from sourcing of materials through product distribution.
+abstract: |  
+    In this module, you will: 
+    -	Explore the core capabilities of Microsoft Cloud for Sustainability.
+    -	Discover key terminology that’s used in sustainability. 
+    -	Learn about the differences between scope 1, scope 2, and scope 3 carbon emissions.
+    -	Learn about Microsoft’s sustainability journey.
+    -	Review key use cases of Microsoft Sustainability Manager.
+    -	Learn how Sustainability Manager connects to data and uses calculations and learn how organizations can set goals from a business point of view.
+prerequisites: | 
+  None
+iconUrl: /learn/achievements/cloud-sustainability-overview.svg  
+levels:  
+- beginner   
+roles:  
+- functional-consultant  
+- business-user  
+products: 
+- industry-solutions
+subjects: 
+- business-applications 
+- modern-work
+units: 
+- learn-bizapps.cloud-sustainability-overview.introduction 
+- learn-bizapps.cloud-sustainability-overview.key-concepts-sustainability 
+- learn-bizapps.cloud-sustainability-overview.microsoft-sustainability-journey 
+- learn-bizapps.cloud-sustainability-overview.about-microsoft-cloud 
+- learn-bizapps.cloud-sustainability-overview.microsoft-sustainability-manager 
+- learn-bizapps.cloud-sustainability-overview.explore-sustainability-manager 
+- learn-bizapps.cloud-sustainability-overview.check 
+- learn-bizapps.cloud-sustainability-overview.summary 
+badge: 
+  uid: learn-bizapps.cloud-sustainability-overview.badge 

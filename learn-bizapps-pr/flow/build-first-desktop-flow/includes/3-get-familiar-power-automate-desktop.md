@@ -1,6 +1,6 @@
 You have now downloaded the appropriate software and have the necessary licenses to create your first desktop flow. Your next task is to become familiar with the software.
 
-Open and explore Power Automate. The upper-right corner indicates which environment you are in. Take a moment to make sure that this is the same environment that you created a database for previously. Under **Flows**, you will see existing desktop flows that you have, and you will be able to edit, start, or delete them. You can explore what creating or editing a flow looks like by selecting the **+ New flow** button in the upper-left corner.
+Open and explore Power Automate. Under **Flows**, you will see existing desktop flows that you have, and you will be able to edit, start, or delete them. You can explore what creating or editing a flow looks like by selecting the **+ New flow** button in the upper-left corner.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Power Automate page with New flow button.](../media/desktop.png)](../media/desktop.png#lightbox)
