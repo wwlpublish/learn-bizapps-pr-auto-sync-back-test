@@ -2,8 +2,6 @@ Sustainability Manager unifies data intelligence to help organizations monitor a
 
 Sustainability Manager helps organizations record the emissions footprint of their organization and value chain more accurately through direct data connections and automation, streamlining the process of data collection and calculation.
 
-[![Diagram showing data, insights and action.](../media/data-insights-action.png)](../media/data-insights-action.png#lightbox)
-
 The solution is flexible, allowing a blend of data ingestion methods. From manual input or file imports to direct connections to data sources that allow organizations to increasingly automate data collection, the solution helps eliminate manual uploads. Organizations can set up data connections from a growing catalog of prebuilt connections to internal or external data sources.
 
 Sustainability Manager connects data from almost any existing business system, ERP system, or cloud platform that your customers use. 
