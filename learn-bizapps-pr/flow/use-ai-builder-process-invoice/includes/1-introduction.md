@@ -2,7 +2,7 @@ Robotic processing automation (RPA) helps you to reduce or eliminate burdensome 
 
 In this module, you will:
 
-- Build a new AI model for document processing.
+- Build a new AI model for form processing.
 
 - Train the new AI model to process Contoso Invoice forms.
 
