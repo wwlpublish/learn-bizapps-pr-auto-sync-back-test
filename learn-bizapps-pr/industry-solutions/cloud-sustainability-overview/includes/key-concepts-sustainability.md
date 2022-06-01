@@ -5,8 +5,6 @@ Carbon accounting is the process by which organizations measure the amount of gr
 
 ## Greenhouse effect 
  
-[![Picture showing green house effect.](../media/green-house-gas-effect.png)](../media/green-house-gas-effect.png#lightbox)
-
 The greenhouse effect is a condition that’s caused by the presence of greenhouse gases (GHGs) in the atmosphere that trap some of the heat that’s emitted by the sun. Until relatively recently, the earth has had a balance whereby the oceans, forests, and soils recycled GHG emissions (principally carbon). 
 
 Now, extra GHGs that are released by human activities have become so excessive that it's not all recycled by ecosystems. As a result, climate change has occurred, including increasing temperature and extreme weather patterns that have already influenced many physical systems.
@@ -69,7 +67,8 @@ Activity x Emission factor = Emission
 
 An emission factor shows the quantity of GHGs that are emitted in relation to a particular activity, in carbon dioxide equivalent (CO<sub>2</sub>e) for each accounting unit of the activity (for example, Lbs CO<sub>2</sub>e/KWh).
 
-**Important**: Efficiencies and changes in an activity can impact the emission factors, so it’s important to constantly update the factors based on the latest standards and research. 
+> [!IMPORTANT] 
+> Efficiencies and changes in an activity can impact the emission factors, so it’s important to constantly update the factors based on the latest standards and research. 
 
 For example, if you have a certain amount of gasoline or diesel, and you drive a certain distance, and your vehicle is off road or on road, each detail will translate to a specific factor that’s used. To calculate your emissions, multiply the activity by the emission factor, which will give you the emissions.
 

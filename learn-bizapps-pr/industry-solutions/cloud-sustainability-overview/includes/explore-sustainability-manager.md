@@ -41,7 +41,7 @@ With Sustainability Manager, you can:
 
 In this scenario with Contoso Coffee, one of the connectors is a direct connector to the **Emissions impact** dashboard, which provides transparency into the emissions that are produced from a Microsoft customer’s use of Azure services.
 
-Go to ****Data > Data Connections > Create new data connection > Pre-calculated emissions > Scope 3 > Purchased goods and services**.
+Go to **Data > Data Connections > Create new data connection > Pre-calculated emissions > Scope 3 > Purchased goods and services**.
 
 The solution breaks down data silos by using the Microsoft Cloud for Sustainability data model that centralizes emissions data from disparate sources with a shared data language. This data model streamlines data ingestion, integration, calculations, and reporting.
 
@@ -98,7 +98,7 @@ You can set up goals on the **Scorecards** page so that they’re monitored auto
 Go to the **Scorecards** page. The following screenshot is an example of a Scorecard, but not specific to this scenario.
  
 > [!div class="mx-imgBorder"]
-> [![Screenshot showing scorecards that are data-driven based on data that's coming from all activities and calculations.](../media/score-card.png)](../media/score-card.png#lightbox)
+> [![Screenshot showing scorecards that are data-driven based on data that's coming from all activities and calculations.](../media/scorecard.png)](../media/scorecard.png#lightbox)
 
 Alternatively, you can open one of the goals to demonstrate the different rules that you can set for tracking individual goals.
 

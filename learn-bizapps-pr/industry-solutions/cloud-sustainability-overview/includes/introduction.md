@@ -12,11 +12,7 @@ The world is facing an extraordinary challenge due to industrialization and over
 
 Amid this uncertainty is the clear notion that organizations of all types, sizes, and sectors will need to fundamentally transform common practices to meet a new sustainability imperative. Essentially, companies need to operate with less environmental impact while changing their business to meet the demands of a changing world. 
 
-[![Picture showing our climate future.](../media/climate-future.png)](../media/climate-future.png#lightbox)
-
 The corporate vision and strategy will need to align with sustainability ambitions, and that cultural shift will need to happen across the organization, with sustainability a part of every organization’s core business. 
-
-[![Picture showing different sustainability drivers.](../media/sustainability-drivers.png)](../media/sustainability-drivers.png#lightbox)
 
 The good news is that these changes will create new business value with more circular and sustainable products, services, and investment areas, and it helps meet growing expectations among customers, investors, regulators, and employees. These stakeholders expect organizations to be more accountable for their impact, with greater transparency and action.
 
