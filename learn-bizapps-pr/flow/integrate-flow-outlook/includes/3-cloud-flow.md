@@ -18,7 +18,7 @@ This screen is where you will create and edit flows that are specific to this so
 > [!div class="mx-imgBorder"]
 > [![Screenshot of Cloud flow selected in the new menu.](../media/cloud-flow.png)](../media/cloud-flow.png#lightbox)
 
-Name your flow. The following flow has been named **Use Outlook email to trigger a Desktop flow**, but you can choose whatever name you want. Search the actions to find **When a new email arrives (V3)**. Click on **Create**
+Name your flow. The following flow has been named **Use Outlook email to trigger a Desktop flow**, but you can choose whatever name you want. Search the actions to find **When a new email arrives (V3)**. Click on **Create**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the flow named and the action of When a new email arrives (V3) selected.](../media/new-email.png)](../media/new-email.png#lightbox)
