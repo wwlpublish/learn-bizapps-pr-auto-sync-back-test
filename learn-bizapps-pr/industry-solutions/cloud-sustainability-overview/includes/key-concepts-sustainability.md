@@ -32,7 +32,7 @@ Different human-emitted gases cause global warming at varying intensities and ti
 ## Greenhouse gas protocol
 Emissions activities are divided into a classification system that’s based on the [Greenhouse Gas Protocol](https://ghgprotocol.org/?azure-portal=true), which is a methodology that’s most accepted globally. 
 
-[![Diagram showing scope and emissions across the value chain.](../media/scope-emission.png)](../media/scope-emission.png#lightbox)
+[![Diagram showing scope 1, 2 and 3 and emissions across the value chain.](../media/scope-emission.png)](../media/scope-emission.png#lightbox)
 
 
 Thereafter, emissions are classified into the following scopes:
