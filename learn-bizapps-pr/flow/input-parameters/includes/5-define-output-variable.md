@@ -5,7 +5,7 @@ To define an output variable, select the plus (**+**) icon beside the **Input/ou
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Variables dialog box with the plus icon selected and Output highlighted.](../media/11-add-output-variable.png)](../media/11-add-output-variable.png#lightbox)
 
-Fewer parameters are required for you to define as part of an output variable. The reason is because the information is being pulled from the process of running the flow. You don't need a default or to define the data type. For the values that do require definition, you can use values that are relevant to your solution, or if you're using the Contoso Invoicing app, you can use the values that are shown in the following screenshot.
+Fewer parameters are required for you to define as part of an output variable. The reason is that the information is being pulled from the process of running the flow. You don't need a default or to define the data type. For the values that do require definition, you can use values that are relevant to your solution, or if you're using the Contoso Invoicing app, you can use the values that are shown in the following screenshot.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Add a new output variable dialog box.](../media/12-output-variable-info.png)](../media/12-output-variable-info.png#lightbox)

@@ -1,4 +1,4 @@
-Now, you have learned how to design an end-to-end robotic process automation (RPA), from automated emails and document processing to approvals and performing actions in desktop applications. You can use these concepts to build nearly any process in Power Automate, which will reduce the amount of time that you spend on necessary but repetitive tasks.
+Now, you have learned how to design an end-to-end robotic process automation (RPA), from automated emails and form processing to approvals and performing actions in desktop applications. You can use these concepts to build nearly any process in Power Automate, which will reduce the amount of time that you spend on necessary but repetitive tasks.
 
 In this module, you learned how to:
 
