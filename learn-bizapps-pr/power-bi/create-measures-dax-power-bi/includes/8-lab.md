@@ -316,7 +316,7 @@ In this task, you will create a sales YoY growth measure.
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot to verify YoY growth.](../media/lab-8-14-ssm.png)](../media/lab-8-14-ssm.png#lightbox)
 
-	This means that July 2018 sales (`$`2,411,559) represents a nearly 400% (almost 4x) improvement over the sales achieved for the prior year (`$`489,328).
+	This means that July 2018 sales (`$`2,411,559) represents a nearly 400% (almost 5x) improvement over the sales achieved for the prior year (`$`489,328).
 
 1. In Model view, place the two new measures into a display folder named **Time Intelligence**. 
 
