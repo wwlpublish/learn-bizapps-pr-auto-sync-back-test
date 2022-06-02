@@ -11,7 +11,7 @@ This is not the only challenge that face today’s businesses. As the business
 climate changes, new factors are impacting businesses. These impacts include:
 
 -   **Changing workforce expectations:** As millennials and Gen Z come to represent
-    become most of the workforce, organizations need to adapt to fit the way they work. They have
+    most of the workforce, organizations need to adapt to fit the way they work. They have
     grown up in a world of tailored experiences and collaborating through social
     media. To best apply their abilities, organizations need to be able to
     deliver more custom, streamlined, and collaborative digital experiences.
