@@ -2,7 +2,7 @@ Now that you have a new business process flow, you can try it out and discover h
 
 1.  Select the **Update** button in the top ribbon.
 
-1.  Close the business process flow designer after you see the message that the process flow has updated successfully.
+1.  Close the business process flow designer after you see the message that the process flow has been updated successfully.
 
 1.  Go back to **My Flows**. Select **Business process flows**, where you should see the new flow listed.
 
@@ -15,6 +15,12 @@ Now that you have a new business process flow, you can try it out and discover h
 	> [![Screenshot of Power Automate on the Flows page Business process flows tab. Customer Check In and the Run button next to it are highlighted.](../media/21-run-check-business-process-flow.png)](../media/21-run-check-business-process-flow.png#lightbox)
 
     This selection will launch a new instance of the flow that you created.
+
+	> [!NOTE]
+	> You should see both the **Customer Info** and **Automobile Information** stages in this flow. If not, then redo the previous unit to confirm you followed the steps and clicked on **update**.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of Power Automate on the Flows page Business process flows tab with both stages displayed.](../media/stages.png)](../media/stages.png#lightbox)
 
 1.  Enter a name in the **Name** field on the **General** form (main form) and then select **Save**, as shown in the following figure.
 
@@ -70,7 +76,7 @@ You can view the data that you created for running the flow by following these s
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot zoomed in to show the Select View All Columns.](../media/33-select-all-columns-view.png)](../media/33-select-all-columns-view.png#lightbox)    
 
-Now, you can view the all the data that you created with your new immersive business process flow.
+Now, you can view all of the data that you created with your new immersive business process flow.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot shows the Customers entered with the immersive business process flow.](../media/34-close-up-all-data-view.png)](../media/34-close-up-all-data-view.png#lightbox)

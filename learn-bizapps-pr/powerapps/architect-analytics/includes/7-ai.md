@@ -67,7 +67,7 @@ AI Builder has five model types for prediction, vision, and language:
 
 - **Category Classification** - Performs natural language processing on text data and classifies into separate categories.
 - **Entity Extraction** - Recognizes specific data in text data. Entity extraction transforms unstructured text into structured data that can be used in apps and flows.
-- **Form Processing** - Reads and extracts information from documents such as invoices and purchase orders.
+- **Document processing** - Reads and extracts information from documents such as invoices and purchase orders.
 - **Object Detection** - Finds objects within images.
 - **Prediction** - Analyzes patterns in historical data to predict the outcome of new data.
 

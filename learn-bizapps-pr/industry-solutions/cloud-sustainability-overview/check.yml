@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.cloud-sustainability-overview.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 05/24/2022 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: interactive-tutorial 
+ ms.prod: learning-mscloud-sustainability 
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is the definition of the scope 2 category for emissions?
+    choices: 
+    - content: Direct emissions created by organization’s activities.
+      isCorrect: false
+      explanation: Incorrect. Direct emissions created by organization’s activities are a scope 1 category.
+    - content: Indirect emissions from purchase of electricity or heat used in offices or manufacturing plants.
+      isCorrect: true 
+      explanation: Correct. Indirect emissions from purchase of electricity or heat used in offices or manufacturing plants is a scope 2 category.
+    - content: Indirect value chain emissions from all other activities in which an organization is engaged. 
+      isCorrect: false 
+      explanation: Incorrect. Indirect value chain emissions from all other activities in which an organization is engaged, is a scope 3 category.
+  - content: What phrase best represents carbon negative?
+    choices: 
+    - content: Reduce emissions and/or pay others to not emit an equivalent to their remaining emissions.
+      isCorrect: false
+      explanation: Incorrect. Reducing emissions and/or paying others to not emit an equivalent to their remaining emissions is considered carbon neutral.
+    - content: Remove as much carbon as it emits.
+      isCorrect: false 
+      explanation: Incorrect. An organization is considered net zero carbon when it removes as much carbon as it emits.
+    - content: Remove more carbon than emitted each year. 
+      isCorrect: true
+      explanation: Correct. The term carbon negative means removing more carbon than they’re emitting each year.
+  - content: Which application helps customers record, report, and reduce their emissions?
+    choices: 
+    - content: Microsoft Sustainability Manager
+      isCorrect: true 
+      explanation: Correct. Microsoft Sustainability Manager helps customers record, report, and reduce their emissions.
+    - content: Emissions impact dashboard
+      isCorrect: false 
+      explanation: Incorrect. The Emissions impact dashboard provides customers consolidated emissions data visualizations that represent the organization’s carbon footprint and insights that the team can use to accelerate their sustainability strategy.
+    - content: Dynamics 365 Supply Chain Management
+      isCorrect: false 
+      explanation: Incorrect. Dynamics 365 Supply Chain Management does not help customers record, report, and reduce their emissions.           

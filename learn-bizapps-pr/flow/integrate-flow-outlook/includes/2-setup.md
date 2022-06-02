@@ -18,7 +18,7 @@ Now that you are in your chosen environment, add a database by selecting **Add d
 
 Creating your database might take up to one minute, but afterward, you can continue to the next steps.
 
-If you're using a trial environment, consider setting up a profile in your browser to prevent from being signed out of your existing Microsoft account.
+If you're using a trial environment, consider setting up a profile in your browser to prevent you from being signed out of your existing Microsoft account.
 
 ## Software installation
 
@@ -41,7 +41,7 @@ When the download completes, select the file to open and run the installer. Sele
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the installation details and Install button.](../media/installer-2.png)](../media/installer-2.png#lightbox)
 
-When installation is complete, select the link of your preferred browser and then follow the instructions to enable the extension. After the extension has been enabled, you can launch the Power Automate for desktop app.
+When the installation is complete, select the link of your preferred browser and then follow the instructions to enable the extension. After the extension has been enabled, you can launch the Power Automate for desktop app.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the successful installation message with Launch Power Automate for desktop button.](../media/installer-3.png)](../media/installer-3.png#lightbox)

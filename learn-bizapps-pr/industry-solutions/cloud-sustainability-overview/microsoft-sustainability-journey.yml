@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.cloud-sustainability-overview.microsoft-sustainability-journey 
+title: Microsoft’s sustainability journey 
+metadata: 
+  title: Microsoft’s sustainability journey 
+  description: Learn how Microsoft has steadily built on a commitment toward innovation and investment in technologies to address environmental sustainability. 
+  ms.date: 05/24/2022 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-mscloud-sustainability 
+durationInMinutes: 6 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/microsoft-sustainability-journey.md)] 

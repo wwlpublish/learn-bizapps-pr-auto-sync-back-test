@@ -1,5 +1,5 @@
-Congratulations on creating your first Form processing model with AI Builder.
-In this module, you discovered the basics of the Form processing AI capability and how you can use a published model in Power Apps and Power Automate.
+Congratulations on creating your first Document processing model with AI Builder.
+In this module, you discovered the basics of the Document processing AI capability and how you can use a published model in Power Apps and Power Automate.
 
 Specifically, you learned that:
 

@@ -4,12 +4,13 @@ title: Build a button flow
 metadata:
   title: Build a button flow
   description: "Build a button flow"
-  ms.date: 05/18/2021
+  ms.date: 05/30/2022
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 azureSandbox: false
+labModal: false
 durationInMinutes: 10
 content: |
   [!include[](includes/2b-build-button-flow.md)]

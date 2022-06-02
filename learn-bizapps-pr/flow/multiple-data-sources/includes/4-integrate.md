@@ -80,7 +80,6 @@ Power Apps and Power Automate share a common connector framework. The framework 
 - Google
 - MailChimp
 - Twitter
-- Wunderlist
 
 1. From a list in Microsoft Lists, select **Integrate** on the top toolbar, and then hover your cursor over **Power Apps**.
 
