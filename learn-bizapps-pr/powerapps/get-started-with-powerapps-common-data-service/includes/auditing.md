@@ -14,7 +14,7 @@ The following bullets identify some key auditing concepts:
 
 There are three levels where auditing can be configured: organization, table, and column. The organization level is the highest level, followed by the table level, and finally the column level. For column auditing to take place, auditing must be enabled at the column, table, and organization levels. For table auditing to take place, auditing must be enabled at the table and organization levels.
 
-There is a slight difference in how auditing is enabled or disable for an organization compared to a table or column. You enable or disable auditing at the organization level by setting a particular column value of the organization record. However, for tables and columns, you set a property value of the table or column definition.
+There is a slight difference in how auditing is enabled or disabled for an organization compared to a table or column. You enable or disable auditing at the organization level by setting a particular column value of the organization record. However, for tables and columns, you set a property value of the table or column definition.
 
 A user must be assigned the System Administrator or System Customizer role to enable or disable auditing.
 
