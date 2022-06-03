@@ -133,7 +133,7 @@ The Power Query options include:
 
 -   **Unnecessary columns** - Evaluates the need for each column. If one or more columns will not be used in the report and are therefore unnecessary, you should remove them by using the **Remove Columns** option on the **Home** tab.
 
--   **Unnecessary rows** - Checks the first few rows in the dataset to see if they are empty or if they contain data that you do not need in your reports; if so, it removes those rows by using the **Remove Top Rows** option on the **Home** tab.
+-   **Unnecessary rows** - Checks the first few rows in the dataset to see if they are empty or if they contain data that you do not need in your reports; if so, it removes those rows by using the **Remove Rows** option on the **Home** tab.
 
 -   **Data type** - Evaluates the column data types to ensure that each one is correct. If you identify a data type that is incorrect, change it by selecting the column, selecting **Data Type** on the **Transform** tab, and then selecting the correct data type from the list.
 
