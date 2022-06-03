@@ -160,7 +160,7 @@ marketplace](https://app.powerbi.com/getdata/services) and on [Microsoft
 AppSource](https://appsource.microsoft.com/?product=power-bi). If you're
 interested in creating template apps yourself for distribution outside your
 organization, see [Create a template app in Power
-BI](https://docs.microsoft.com/power-bi/connect-data/service-template-apps-create). 
+BI](/power-bi/connect-data/service-template-apps-create). 
 
 ### Install a template app
 --------------------------
@@ -199,7 +199,7 @@ further [customization](/power-bi/connect-data/service-template-apps-install-dis
 >   To be able to install a template app that is not listed on AppSource, you
 >   need to request the relevant permissions from your admin. See the [Template
 >   app
->   settings](https://docs.microsoft.com/power-bi/admin/service-admin-portal#template-apps-settings) in
+>   settings](/power-bi/admin/service-admin-portal#template-apps-settings) in
 >   Power BI admin portal for details.
 
 When the installation finishes successfully, a notification tells you that
