@@ -34,7 +34,7 @@ This lab is one of many in a series of labs that was designed as a complete stor
 
 1. [Create a Power BI dashboard](https://docs.microsoft.com/learn/modules/create-dashboards-power-bi/9-lab/?azure-portal=true)
 
-1. [Perform data analysis in Power BI Desktop](https://docs.microsoft.com/learn/modules/ai-visuals-power-bi/5-lab/?azure-portal=true)
+1. [Perform data analysis in Power BI Desktop](/learn/modules/ai-visuals-power-bi/5-lab?azure-portal=true)
 
 1. [Create a Power BI paginated report](https://docs.microsoft.com/learn/modules/create-paginated-reports-power-bi/6-lab/?azure-portal=true)
 

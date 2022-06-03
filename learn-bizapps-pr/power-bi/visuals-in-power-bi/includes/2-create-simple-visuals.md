@@ -27,7 +27,7 @@ Select the paintbrush icon on the Visualizations pane to make cosmetic changes t
 The available options for cosmetic changes to your visual vary depending on the type of visual that you've selected.
 
 > [!NOTE] 
-> Generally, visuals are used to compare two or more different values. However, sometimes when you are building reports, you might want to track a single metric over time. For more information, see [Radial gauge charts in Power BI](https://docs.microsoft.com/power-bi/visuals/power-bi-visualization-radial-gauge-charts/?azure-portal=true). 
+> Generally, visuals are used to compare two or more different values. However, sometimes when you are building reports, you might want to track a single metric over time. For more information, see [Radial gauge charts in Power BI](/power-bi/visuals/power-bi-visualization-radial-gauge-charts?azure-portal=true). 
 
 ## Create combination charts
 *Combination charts* are an effective way to visualize multiple measures that have different scales in a single visualization.
