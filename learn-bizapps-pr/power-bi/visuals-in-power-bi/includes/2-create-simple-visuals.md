@@ -1,8 +1,5 @@
 This unit explains how to create new bar charts, pie charts, and tree maps, and how to customize these elements to suit your reports.
 
-**Video**: Create simple visuals
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3x1Gm]
-
 Two ways to create a new visualization in Power BI Desktop are:
 
 * Drag field names from the Fields pane and then drop them on the report canvas. By default, your visualization appears as a table of data. 
@@ -32,10 +29,7 @@ The available options for cosmetic changes to your visual vary depending on the 
 ## Create combination charts
 *Combination charts* are an effective way to visualize multiple measures that have different scales in a single visualization.
 
-**Video**: Combination charts
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3oQlU]
-
-You might want to visualize two measures with different scales, such as revenue and units. Use a combination chart to show a line and a bar with different axis scales. Power BI supports many different types of combination charts by default, including Line and Stacked Columns charts.
+You might want to visualize two measures with different scales, such as revenue and units. Use a combination chart to show a line and a bar with different axis scales. Power BI supports many different types of combination charts by default. To get the image below click on the line and clustered column chart in the Visualizations pane
 
 ![Image of a line and bar chart combined in the same visual.](../media/3-3-1.png)
 
