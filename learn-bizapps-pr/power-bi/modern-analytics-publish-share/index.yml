@@ -21,7 +21,7 @@ abstract: |
     -  Control access to a workspace.
     - Create comments and personal bookmarks in a report.
     - Use endorsements to certify or promote datasets.
-    - Protect data with Microsoft Information Protection (MIP).
+    - Protect data with Microsoft Purview Information Protection.
     - Apply refresh and alert schedules for a Power BI report.
 prerequisites: None
 iconUrl: /learn/achievements/modern-analytics-publish-share.svg  
