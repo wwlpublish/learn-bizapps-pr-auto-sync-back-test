@@ -10,7 +10,7 @@ metadata:
   ms.prod: learning-power-apps
 title: Introduction to Microsoft Power Platform
 summary: |
-  [!include[](../includes/power-pages-banner.md)]
+  [!include[](../../includes/power-pages-banner.md)]
   Learn about the components of Microsoft Power Platform, the business value for customers, and security of the technology.
 abstract: |
   In this module, you will:
