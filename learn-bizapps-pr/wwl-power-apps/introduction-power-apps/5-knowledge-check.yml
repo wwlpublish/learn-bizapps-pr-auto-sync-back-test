@@ -4,7 +4,7 @@ title: Knowledge check
 metadata:
   title: Knowledge check
   description: "Knowledge check"
-  ms.date: 04/29/2022
+  ms.date: 06/06/2022
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
@@ -32,7 +32,7 @@ quiz:
     choices:
     - content: "Train and use an Object Detection model in your app with AI Builder."
       isCorrect: true
-      explanation: "Correct. Power Apps makes available to you the ability to use artificial intelligence without writing code. This allows you to do Document processing, Object Detection, Prediction, and Text Classification all powered by Azure services."
+      explanation: "Correct. Power Apps makes available to you the ability to use artificial intelligence without writing code. This allows you to do Form Processing, Object Detection, Prediction, and Text Classification all powered by Azure services."
     - content: "This is not possible."
       isCorrect: false
       explanation: "Incorrect. Power Apps offers multiple wizard-driven artificial intelligence features including Object Detection."
@@ -49,4 +49,4 @@ quiz:
       explanation: "Incorrect. Power Apps is built on top of the Microsoft Dataverse and can leverage this internal data source."
     - content: "Power Apps can use multiple internal and external data sources in the same app."
       isCorrect: true
-      explanation: "Correct. Power Apps allows you complete control of which data sources you use in your app. There are over 600 data connectors available, and the ability to build a customer connector if one doesn't exist."
+      explanation: "Correct. Power Apps allows you complete control of which data sources you use in your app. There are over 600 data connectors available, and the ability to build a custom connector if one doesn't exist."
