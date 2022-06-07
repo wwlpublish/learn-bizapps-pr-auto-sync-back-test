@@ -30,6 +30,7 @@ roles:
 - business-user  
 products: 
 - industry-solutions
+- mscloud-sustainability
 subjects: 
 - business-applications 
 - modern-work
