@@ -8,7 +8,7 @@ metadata:
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
  ms.prod: learning-power-automate  
-title: Integrate desktop flows with Outlook connector in Power Automate Desktop
+title: Integrate desktop flows with Outlook connector in Power Automate for desktop
 summary: |  
   [!include[](../includes/module-banner.md)] 
   This module will show how to build on an existing gateway to integrate Microsoft Outlook with a desktop UI flow.
