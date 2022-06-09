@@ -15,3 +15,4 @@ In this module, you will:
 
 - See Power Apps in action and learn some of the options for making your first
     app
+    
