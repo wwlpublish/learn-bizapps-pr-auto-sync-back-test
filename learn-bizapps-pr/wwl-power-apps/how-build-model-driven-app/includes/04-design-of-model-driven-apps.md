@@ -157,4 +157,4 @@ Health, Financial, Banking, Education, Non- Profit, Automotive, or Media,
 Microsoft has released a number of accelerators or foundational components to
 assist you with quickly standing up your solution. For more information, see
 [Industry accelerators
-overview](https://docs.microsoft.com/common-data-model/industry-accelerators?azureportal=true).
+overview](/common-data-model/industry-accelerators?azureportal=true).
