@@ -7,6 +7,6 @@ Too often a person creating a canvas app gathers requirements for a canvas app, 
 The following animation quickly demonstrates how a desktop or tablet experience doesn't always translate to a good mobile phone experience that has the same layout. Special design considerations must be considered for the best user experience.
 
 > [!div class="mx-imgBorder"]
-> [![Demonstration of a desktop experience that isn't the same on a mobile device.](../media/mobile-experience.png)](../media/mobile-experience.png#lightbox)
+> [![Demonstration of a desktop experience that isn't the same on a mobile device.](../media/mobile-experience.gif)](../media/mobile-experience.gif#lightbox)
 
 In this module, we'll review the different design considerations for designers to create a canvas app that is optimized for the mobile experience.
