@@ -91,4 +91,4 @@ Select **OK**. You have now successfully created a many-to-many relationship.
 > [!div class="mx-imgBorder"]
 > [![Screenshot of many-to-many relationship in Manage Relationship.](../media/06-manage-relationships-04-ssm.png)](../media/06-manage-relationships-04-ssm.png#lightbox)
 
-For more information, see [Many-to-many relationships in Power BI](https://docs.microsoft.com/power-bi/transform-model/desktop-many-to-many-relationships/?azure-portal=true).
+For more information, see [Many-to-many relationships in Power BI](/power-bi/transform-model/desktop-many-to-many-relationships?azure-portal=true).

@@ -136,9 +136,7 @@ workflows can provide visuals on next steps based on the status of the data and
 facilitate other actions that you want to occur as the user uses the app.
 Business Process Flows let you bring automation to your app and make it more of
 a guided experience than just a place to enter data. If you would like to go
-more in-depth with Business Process Flows check out this additional Microsoft
-Learn module:
-https://docs.microsoft.com/learn/modules/work-with-business-process-flows-dynamics-365/
+more in-depth with Business Process Flows, see the learning path [Create a business process flow in Power Automate](/learn/paths/create-business-process-flow/).
 
 ### Dashboards
 
@@ -159,4 +157,4 @@ Health, Financial, Banking, Education, Non- Profit, Automotive, or Media,
 Microsoft has released a number of accelerators or foundational components to
 assist you with quickly standing up your solution. For more information, see
 [Industry accelerators
-overview](https://docs.microsoft.com/common-data-model/industry-accelerators?azureportal=true).
+overview](/dynamics365/industry/accelerators/overview?azureportal=true).
