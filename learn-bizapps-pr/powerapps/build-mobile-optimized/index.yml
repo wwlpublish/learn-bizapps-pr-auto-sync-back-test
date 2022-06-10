@@ -11,7 +11,7 @@ metadata:
 title: Build a mobile-optimized Power App
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  Microsoft Power Apps is an powerful platform to build applications that can run on a user’s desktop or mobile device. Depending on the requirements of the application, the canvas Power App may be used by users on mobile devices exclusively. In those instances, the canvas app must be mobile-optimized to provide the best user experience possible, which can be achieved through various design factors that will be covered in this module.  
+  Microsoft Power Apps is a powerful platform to build applications that can run on a user’s desktop or mobile device. Depending on the requirements of the application, the canvas Power App may be used by users on mobile devices exclusively. In those instances, the canvas app must be mobile-optimized to provide the best user experience possible, which can be achieved through various design factors that will be covered in this module.  
 abstract: |  
     In this module, you will: 
     - Understand the concept of a mobile-optimized application
