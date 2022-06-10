@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-mobile-optimized.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 6/30/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: interactive-tutorial 
+ ms.prod: learning-power-apps 
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which design concept assures that a canvas app will automatically adjust to different layouts and device configurations?
+    choices: 
+    - content: Responsive
+      isCorrect: true 
+      explanation: Correct. A responsive design layout ensures that the canvas app will operate on many layouts and designs.
+    - content: Optimized
+      isCorrect: false 
+      explanation: Incorrect. A responsive design for a canvas app is one that facilitates a similar experience across multiple orientations, dimensions, and types of devices.
+    - content: Resilient
+      isCorrect: false 
+      explanation: Incorrect. A responsive design for a canvas app is one that facilitates a similar experience across multiple orientations, dimensions, and types of devices.
+    - content: Robust
+      isCorrect: false 
+      explanation: Incorrect. A responsive design for a canvas app is one that facilitates a similar experience across multiple orientations, dimensions, and types of devices.
+  - content: Which configuration should you select to ensure that a canvas app aligns to the edges of the device on all four sides of the app?
+    choices: 
+    - content: Scale to fit
+      isCorrect: true 
+      explanation: Correct. Scale to fit scales the app to the edges of a device’s dimensions.
+    - content: Lock aspect ratio
+      isCorrect: false 
+      explanation: Incorrect. Lock aspect ratio locks the aspect ratio of the application as it was defined; it doesn't align the application against all four sides of the application.
+    - content: Orientation
+      isCorrect: false 
+      explanation: Incorrect. The orientation configuration sets the application to portrait or landscape.
+    - content: Lock orientation
+      isCorrect: false 
+      explanation: Incorrect. The lock orientation configuration locks the orientation as either portrait or landscape.
+  - content: Where is a tool to monitor the performance of your canvas app located?
+    choices: 
+    - content: Visual Studio
+      isCorrect: false
+      explanation: Incorrect. The Power Apps Monitor is located only in Power App Studio.
+    - content: Azure DevOps
+      isCorrect: false 
+      explanation: Incorrect. The Power Apps Monitor is located only in Power App Studio.
+    - content: Power Apps Admin Portal
+      isCorrect: false 
+      explanation: Incorrect. The Power Apps Monitor is located only in Power App Studio.
+    - content: Power Apps Studio
+      isCorrect: true 
+      explanation: Correct. The Power Apps Studio designer contains the Power Apps Monitor tool, which tracks all the actions and execution times for a canvas app.
