@@ -1,4 +1,4 @@
-The [Transform existing process to a canvas app module](https://docs.microsoft.com/learn/modules/transform-business-process/) explains how you can transfer a Microsoft Excel expense report to a canvas app solution, including a new data model. As a reminder, the following screenshot shows the resulting data model from that module.
+The [Transform existing process to a canvas app module](/learn/modules/transform-business-process/) explains how you can transfer a Microsoft Excel expense report to a canvas app solution, including a new data model. As a reminder, the following screenshot shows the resulting data model from that module.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of a data model showing the relationship between Users, Expense Report, and Expense Report Details.](../media/1-expense-data-model.png)](../media/1-expense-data-model.png#lightbox)
