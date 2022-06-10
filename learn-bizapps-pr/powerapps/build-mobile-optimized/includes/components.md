@@ -62,7 +62,7 @@ In the event one of the responsive layouts won't meet the business requirements,
 Buttons should be easy for users to locate and select. Consider placing them at the top or bottom of a form that spans the application from edge to edge. If it's an action such as a delete action, place the button to the side of the record where users are likely to be holding the device (right hand or left hand).
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of a canvas app that has buttons and icons displayed in a mobile-optimized design.](../media/imagebutton-positionpng)](../media/button-position.png#lightbox)
+> [![Screenshot of a canvas app that has buttons and icons displayed in a mobile-optimized design.](../media/button-positionpng)](../media/button-position.png#lightbox)
 
 When you include fields on a form, add enough of a spacing buffer between fields and the edge of the phone to be forgiving of inaccurate screen touch selections. Users will likely inconsistently touch directly in the middle of a field and the experience shouldn't accidentally move the focus to another unintentional field. Buffers between the edge of a field and the edge of the form will help users avoid accidentally triggering phone swipe actions such as navigating back to a previous form by accident. If there are mandatory fields, try to prioritize those as the first fields.
 
