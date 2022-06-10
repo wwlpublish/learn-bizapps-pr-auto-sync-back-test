@@ -17,11 +17,12 @@ abstract: |
     - Understand the difference between custom and prebuilt AI Builder models
     - Examine AI Builder models available for model-driven Power Apps apps
     - Examine AI Builder models available for canvas Power Apps apps
-prerequisites:
-- A Power Apps license
-- Access to Microsoft Dataverse
-- An AI Builder add-on or trial
-- The Bring AI to your business with AI Builder learning path
+prerequisites: |
+  You need the following in order to complete this module:
+  - A Power Apps license
+  - Access to Microsoft Dataverse
+  - An AI Builder add-on or trial
+  - The Bring AI to your business with AI Builder learning path
 iconUrl: /learn/achievements/use-ai-builder.svg
 levels:
 - beginner
