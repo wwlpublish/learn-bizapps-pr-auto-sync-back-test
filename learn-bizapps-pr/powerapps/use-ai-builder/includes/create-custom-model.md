@@ -21,7 +21,7 @@ If you're creating your first model for the selected type or need to review the 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Classify texts into custom categories dialog with the link to View documentation highlighted.](../media/custom-model-selection.png)](../media/custom-model-selection.png#lightbox)
 
-Make sure that you have everything you need to create your model. You can also use [sample data](https://docs.microsoft.com/ai-builder/samples/?azure-portal=true) to create any of these models. When you're ready, select the **Get started** button and follow the guided steps that are specific to the selected model.
+Make sure that you have everything you need to create your model. You can also use [sample data](/ai-builder/samples/?azure-portal=true) to create any of these models. When you're ready, select the **Get started** button and follow the guided steps that are specific to the selected model.
 
 ## Follow the guided experience
 
