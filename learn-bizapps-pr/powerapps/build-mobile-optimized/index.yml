@@ -1,0 +1,49 @@
+### YamlMime:Module 
+uid: learn-bizapps.build-mobile-optimized 
+metadata: 
+ title: Build a mobile-optimized Power App
+ description: Learn about building a mobile-optimized Power App.
+ ms.date: 6/30/2022  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: interactive-tutorial  
+ ms.prod: learning-power-apps  
+title: Build a mobile-optimized Power App
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Microsoft Power Apps is a powerful platform to build applications that can run on a user’s desktop or mobile device. Depending on the requirements of the application, the canvas Power App may be used by users on mobile devices exclusively. In those instances, the canvas app must be mobile-optimized to provide the best user experience possible, which can be achieved through various design factors that will be covered in this module.  
+abstract: |  
+    In this module, you will: 
+    - Understand the concept of a mobile-optimized application
+    - Identify the components of a mobile-optimized canvas app
+    - Build a mobile-optimized canvas app
+    - Identify the performance considerations in a canvas app
+    - Monitor the performance of a canvas app
+prerequisites: |  
+    - A Power Apps trial environment
+    - Access to Microsoft Excel
+iconUrl: /learn/achievements/build-mobile-optimized.svg  
+levels:  
+- beginner   
+roles:  
+- business-user   
+- business-analyst 
+- maker
+- developer
+- functional-consultant
+products: 
+- power-platform
+- power-apps 
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.build-mobile-optimized.introduction 
+- learn-bizapps.build-mobile-optimized.mobile-optimized-applications 
+- learn-bizapps.build-mobile-optimized.components 
+- learn-bizapps.build-mobile-optimized.responsive-designs 
+- learn-bizapps.build-mobile-optimized.performance 
+- learn-bizapps.build-mobile-optimized.monitor-performance 
+- learn-bizapps.build-mobile-optimized.check 
+- learn-bizapps.build-mobile-optimized.summary 
+badge: 
+  uid: learn-bizapps.build-mobile-optimized.badge 

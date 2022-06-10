@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-mobile-optimized.mobile-optimized-applications 
+title: Understand what makes an application mobile-optimized
+metadata: 
+  title: Understand what makes an application mobile-optimized
+  description: Learn about mobile-optimized applications.
+  ms.date: 6/30/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-apps 
+durationInMinutes: 9 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/mobile-optimized-applications.md)] 
