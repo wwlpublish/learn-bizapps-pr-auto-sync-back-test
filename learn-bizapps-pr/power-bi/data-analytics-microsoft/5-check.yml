@@ -4,7 +4,7 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 06/30/2020 
+ ms.date: 06/09/2022 
  author: heyrob 
  ms.author: robde 
  ms.topic: interactive-tutorial 
@@ -13,7 +13,7 @@ durationInMinutes: 6
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: Which data role enables advanced analytics capabilities through reports and visualizations?
+  - content: Which data role enables advanced analytics capabilities specifically through reports and visualizations?
     choices: 
     - content: Data scientist
       isCorrect: false
@@ -35,7 +35,7 @@ quiz:
     - content: Visualize
       isCorrect: false 
       explanation: The visualize task provides data insights but does not have a direct correlation to performance.
-  - content: Which one of the following options is a key benefit of data analysis?
+  - content: Which one of the following options is the most important key benefit of data analysis?
     choices: 
     - content: Decisive analytics
       isCorrect: false
