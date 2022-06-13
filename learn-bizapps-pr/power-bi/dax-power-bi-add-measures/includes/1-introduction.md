@@ -84,7 +84,7 @@ Implicit measures do have limitations. Despite setting an appropriate summarizat
 > [!div class="mx-imgBorder"]
 > [![An image shows a matrix visual with year and month on the rows, and Sales Amount and Sum of Unit Price columns. Several rows of data are shown. The Unit Price values are very large because they're the sum of unit prices.](../media/dax-matrix-visual-3-ss.png)](../media/dax-matrix-visual-3-ss.png#lightbox)
 
-The report visual obeys your set up, but it has now produced a **Sum of Unit Price** column, which presents misleading data.
+The report visual obeys your setup, but it has now produced a **Sum of Unit Price** column, which presents misleading data.
 
 The most significant limitation of implicit measures is that they only work for simple scenarios, meaning that they can only summarize column values that use a specific aggregation function. Therefore, in situations when you need to calculate the ratio of each month's sales amount over the yearly sales amount, you'll need to produce an explicit measure by writing a Data Analysis Expressions (DAX) formula to achieve that more sophisticated requirement.
 
