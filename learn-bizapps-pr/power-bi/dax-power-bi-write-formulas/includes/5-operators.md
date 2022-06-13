@@ -1,4 +1,4 @@
-Your DAX formulas can use *DAX operators* to create expressions that perform arithmetic calculations, compare values, work with strings, or test conditions.
+Your DAX formulas can use operators to create expressions that perform arithmetic calculations, compare values, work with strings, or test conditions.
 
 > [!TIP]
 > Many DAX operators and precedence order are the same as those found in Excel.
@@ -15,7 +15,7 @@ The following table lists the arithmetic operators.
 |     /           |     Division          |
 |     ^           |     Exponentiation    |
 
-Remember, when you are dividing two expressions, and when the denominator could return zero or BLANK, it's more efficient and safer to use the [DIVIDE](/dax/divide-function-dax/?azure-portal=true) DAX function.
+Remember, when you are dividing two expressions, and when the denominator could return zero or BLANK, it's more efficient and safer to use the `[DIVIDE](/dax/divide-function-dax/?azure-portal=true)` DAX function.
 
 ### Comparison operators
 
@@ -31,14 +31,14 @@ The following table lists the comparison operators, which are used to compare tw
 |     <=          |     Less than or equal to       |
 |     <>          |     Not equal to                  |
 
-All comparison operators, except **strict equal to** (**==**), treat BLANK as equal to the number zero, an empty string (""), the date December 30, 1899, or FALSE. It means that the expression `[Revenue] = 0` will be TRUE when the value of [Revenue] is either zero or BLANK. In contrast, `[Revenue] == 0` is TRUE only when the value of [Revenue] is zero.
+All comparison operators, except **strict equal to** (**==**), treat BLANK as equal to the number zero, an empty string (""), the date December 30, 1899, or FALSE. It means that the expression `[Revenue] = 0` will be TRUE when the value of `[Revenue]` is either zero or BLANK. In contrast, `[Revenue] == 0` is TRUE only when the value of `[Revenue]` is zero.
 
 ### Text concatenation operator
 
 Use the ampersand (&) character to connect, or concatenate, two text values to produce one continuous text value. For example, consider the following calculated column definition:
 
 ```dax
-Model Color = Product[Model] & "-" & Product[Color]
+Model Color = 'Product'[Model] & "-" & 'Product'[Color]
 ```
 
 ### Logical operators
@@ -47,25 +47,24 @@ Use logical operators to combine expressions that produce a single result. The f
 
 |     Operator              |     Description                                                                                                                                                                                                                |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     &&                    |     Creates an AND condition between two expressions where each has a Boolean result. If both expressions return TRUE, the combination of the expressions also returns TRUE; otherwise the combination returns FALSE.    |
-|     \|\| (double pipe)    |     Creates an OR condition between two logical expressions. If either expression returns TRUE, the result is TRUE; only when both expressions are FALSE is the result FALSE.                                            |
-|     IN                    |     Creates a logical OR condition between each row that is being compared to a table. Note: The table constructor syntax uses braces.                                                                                       |
-|     NOT                   |     Inverts the state of a Boolean expression (FALSE to TRUE, and vice versa).                                                                                                                                               |
+|     &&                    |     Creates an AND condition between two expressions where each has a Boolean result. If both expressions return TRUE, the combination of the expressions also returns TRUE; otherwise the combination returns FALSE. |
+|     \|\| (double pipe)    |     Creates an OR condition between two logical expressions. If either expression returns TRUE, the result is TRUE; only when both expressions are FALSE is the result FALSE. |
+|     IN                    |     Creates a logical OR condition between each row that is being compared to a table. Note: The table constructor syntax uses braces. |
+|     NOT                   |     Inverts the state of a Boolean expression (FALSE to TRUE, and vice versa). |
 
-An example that uses the IN logical operator is the **ANZ Revenue** measure definition, which uses the [CALCULATE](/dax/calculate-function-dax/?azure-portal=true) DAX function to enforce a specific filter of two countries: Australia and New Zealand.
+An example that uses the `IN` logical operator is the **ANZ Revenue** measure definition, which uses the `[CALCULATE](/dax/calculate-function-dax/?azure-portal=true)` DAX function to enforce a specific filter of two countries: Australia and New Zealand.
 
 > [!NOTE]
-> You'll be introduced to the powerful CALCULATE function when you learn how to modify the filter context.
+> You'll be introduced to the powerful `CALCULATE` function when you learn how to modify the filter context.
 
 ```dax
 ANZ Revenue =
 CALCULATE(
-	[Revenue],
-	Customer[Country-Region]
-		IN {
-		"Australia",
-		"New Zealand"
-	}
+    [Revenue],
+    Customer[Country-Region] IN {
+        "Australia",
+        "New Zealand"
+    }
 )
 ```
 
@@ -83,7 +82,7 @@ When your DAX formula includes multiple operators, DAX uses rules to determine t
 |     &                    |     Concatenation of two strings of text    |
 |     =,==,<,>,<=,>=,<>    |     Comparison                                |
 
-When the operators have equal precedence value, they are ordered from left to right.
+When the operators have equal precedence value, they're ordered from left to right.
 
 In general, operator precedence is the same as what's found in Excel. If you need to override the evaluation order, then group operations within parentheses.
 
@@ -110,8 +109,7 @@ When writing a DAX formula that uses operators to combine different data types, 
 
 However, some limitations might exist on the values that can be successfully converted. If a value or a column has a data type that's incompatible with the current operation, DAX returns an error. For example, the attempt to multiply a date value will create an error because it isn't logical.
 
-The BLANK formula is handled differently, depending on the operator that is used. It's handled similar to how Excel treats BLANK, but differently to how databases (SQL) treat NULL. BLANK is treated as zero when acted on by arithmetic operators and as an empty string when concatenated to a string.
+BLANK is handled differently, depending on the operator that is used. It's handled similar to how Excel treats BLANK, but differently to how databases (SQL) treat NULL. BLANK is treated as zero when acted on by arithmetic operators and as an empty string when concatenated to a string.
 
 > [!TIP]
-> Remembering how BLANK is handled can be challenging, especially for DAX beginners. Consequently, we recommend that you test your formulas thoroughly. When BLANKs create unexpected results, consider using the [IF](/dax/if-function-dax) and [ISBLANK](/dax/isblank-function-dax) DAX functions to test for BLANK, and then respond in an appropriate way.
-
+> Remembering how BLANK is handled can be challenging, especially for DAX beginners. Consequently, we recommend that you test your formulas thoroughly. When BLANKs create unexpected results, consider using the `[IF](/dax/if-function-dax)` and `[ISBLANK](/dax/isblank-function-dax)` DAX functions to test for BLANK, and then respond in an appropriate way.
