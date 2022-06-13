@@ -39,7 +39,7 @@ Predictive analytics help answer questions about what will happen in the future.
 
 ## Prescriptive analytics
 
-Prescriptive analytics help answer questions about which actions should be taken to achieve a goal or target. By using insights from predictive analytics, organizations can make data-driven decisions. This technique allows businesses to make informed decisions in the face of uncertainty. Prescriptive analytics techniques rely on machine learning strategies to find patterns in large datasets. By analyzing past decisions and events, organizations can estimate the likelihood of different outcomes.
+Prescriptive analytics help answer questions about which actions should be taken to achieve a goal or target. By using insights from predictive analytics, organizations can make data-driven decisions. This technique allows businesses to make informed decisions in the face of uncertainty. Prescriptive analytics techniques rely on machine learning as one of the strategies to find patterns in large datasets. By analyzing past decisions and events, organizations can estimate the likelihood of different outcomes.
 
 ## Cognitive analytics
 
