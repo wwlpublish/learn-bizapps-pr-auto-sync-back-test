@@ -156,5 +156,4 @@ third-party solutions available to you. Depending on the industry you are in,
 Health, Financial, Banking, Education, Non- Profit, Automotive, or Media,
 Microsoft has released a number of accelerators or foundational components to
 assist you with quickly standing up your solution. For more information, see
-[Industry accelerators
-overview](/common-data-model/industry-accelerators?azureportal=true).
+[Industry accelerators overview](/common-data-model/industry-accelerators?azureportal=true).

@@ -70,5 +70,4 @@ When you navigate to your dashboard, notice that both visuals are now pinned, re
 
 Now that you have learned how to pin individual tiles, you can learn how to pin an entire report page, which will be discussed later in this module.
 
-For more information, see [Introduction to dashboard tiles.](https://docs.microsoft.com/power-bi/create-reports/service-dashboard-tiles/?azure-portal=true)
-
+For more information, see [Introduction to dashboard tiles.](/power-bi/create-reports/service-dashboard-tiles?azure-portal=true)
