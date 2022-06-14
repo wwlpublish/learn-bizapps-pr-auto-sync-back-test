@@ -307,7 +307,7 @@ After you've cleaned your data into a usable format, you can begin to create
 powerful visuals in Power BI.
 
 For more information, see [Tutorial: Combine sales data from Excel and an OData
-feed ](https://docs.microsoft.com/power-bi/desktop-tutorial-analyzing-sales-data-from-excel-and-an-odata-feed/).
+feed](/power-bi/connect-data/desktop-tutorial-analyzing-sales-data-from-excel-and-an-odata-feed).
 
 ## Work with aggregates in the Power BI service
 
@@ -354,7 +354,7 @@ Sold *by Product*", "Units Sold *by Month*" and "Manufacturing Price *by
 Segment*". Power BI refers to some numeric fields as **measures**. It's easy to
 identify measures in the Power BI report editor -- The **Fields** list shows
 measures with the ∑ symbol next to them. See [The report editor... take a
-tour](https://docs.microsoft.com/power-bi/create-reports/service-the-report-editor-take-a-tour)
+tour](/power-bi/create-reports/service-the-report-editor-take-a-tour)
 for more info.
 
 ![Screenshot of Power BI with the Fields list called out](../media/power-bi-fields.png) 
@@ -370,7 +370,7 @@ Typically, the underlying issue is the field definition in the dataset. Maybe
 the dataset owner defined the field as text and that explains why Power BI can't
 sum or average it. Unfortunately, [only the dataset owner can change the way a
 field is
-categorized](https://docs.microsoft.com/power-bi/transform-model/desktop-data-categorization).
+categorized](/power-bi/transform-model/desktop-data-categorization).
 So if you have owner permissions to the dataset, either in Desktop or the
 program used to create the dataset (for example, Excel), you can fix this
 problem. Otherwise, you'll need to contact the dataset owner for help.
