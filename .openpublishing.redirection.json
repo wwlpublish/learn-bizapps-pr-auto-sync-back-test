@@ -1,6 +1,36 @@
 {
   "redirections": [
     {
+      "source_path": "learn-bizapps-pr/flow/create-immersive-flow/5-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
+      "redirect_document_id⁯": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/create-immersive-flow/4-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
+      "redirect_document_id⁯": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/create-immersive-flow/3-run-flow.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
+      "redirect_document_id⁯": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/create-immersive-flow/2-immersive-flow.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
+      "redirect_document_id⁯": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/create-immersive-flow/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
+      "redirect_document_id⁯": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/create-immersive-flow/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
+      "redirect_document_id⁯": false
+    },
+    {
       "source_path": "learn-bizapps-pr/industry-solutions/training-environment-preparation/3-obtain-deploy-trial-licenses.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/training-environment-preparation/install-configure-prerequisites",
       "redirect_document_id⁯": false
