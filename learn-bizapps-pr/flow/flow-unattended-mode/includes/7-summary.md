@@ -17,3 +17,5 @@ Three key takeaways for this module are:
 - Follow best practices to avoid overloading your machine or having your flows time out.
 
 - Ensure that the device that is running your unattended flow doesn't have signed-in users.
+
+For more information about grouping, see [manage machine groups](/power-automate/desktop-flows/manage-machine-groups).
