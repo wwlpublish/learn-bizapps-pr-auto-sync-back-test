@@ -8,4 +8,4 @@ If you've used Microsoft Excel functions, you'll be comfortable building apps in
 
 This is a small sampling of the large library of Power Apps functions that are available. Also, remember you can combine functions into one formula to solve complex problems. This is the power of the platform. You start with simple formulas and then as your comfort grows you learn to combine them. 
 
-For a complete list of all of the functions available in Power Apps, check out the documentation [here](/power-apps/maker/canvas-apps/formula-reference#s). To learn more about using formulas, check out the Microsoft Learning Path - Use basic formulas to make better Power Apps canvas apps](/learn/paths/use-basic-formulas-powerapps-canvas-app/).
+For a complete list of all of the functions available in Power Apps, check out the documentation [here](/powerapps/maker/canvas-apps/formula-reference#s). To learn more about using formulas, check out the Microsoft Learning Path - Use basic formulas to make better Power Apps canvas apps(https://docs.microsoft.com/learn/paths/use-basic-formulas-powerapps-canvas-app/).
