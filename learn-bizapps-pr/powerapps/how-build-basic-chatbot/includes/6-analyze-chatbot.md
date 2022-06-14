@@ -29,17 +29,17 @@ table under Summary charts for more information on these metrics).
 The Summary page includes a variety of charts with graphical views of your bot's
 key performance indicators. For information about each chart, see:
 
--   [Summary charts](https://docs.microsoft.com/power-virtual-agents/analytics-summary#summary-charts)
+-   [Summary charts](/power-virtual-agents/analytics-summary#summary-charts)
 
--   [Engagement over time chart](https://docs.microsoft.com/power-virtual-agents/analytics-summary#engagement-over-time-chart)
+-   [Engagement over time chart](/power-virtual-agents/analytics-summary#engagement-over-time-chart)
 
--   [Session outcomes over time chart](https://docs.microsoft.com/power-virtual-agents/analytics-summary#session-outcomes-over-time-chart)
+-   [Session outcomes over time chart](/power-virtual-agents/analytics-summary#session-outcomes-over-time-chart)
 
--   [Resolution rate drivers chart](https://docs.microsoft.com/power-virtual-agents/analytics-summary#resolution-rate-drivers-chart)
+-   [Resolution rate drivers chart](/power-virtual-agents/analytics-summary#resolution-rate-drivers-chart)
 
--   [Escalation rate drivers chart](https://docs.microsoft.com/power-virtual-agents/analytics-summary#escalation-rate-drivers-chart)
+-   [Escalation rate drivers chart](/power-virtual-agents/analytics-summary#escalation-rate-drivers-chart)
 
--   [Abandon rate drivers chart](https://docs.microsoft.com/power-virtual-agents/analytics-summary#abandon-rate-drivers-chart)
+-   [Abandon rate drivers chart](/power-virtual-agents/analytics-summary#abandon-rate-drivers-chart)
 
 ![Summary charts](../media/summary-charts.png)
 

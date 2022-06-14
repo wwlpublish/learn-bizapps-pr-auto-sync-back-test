@@ -19,4 +19,4 @@ AI splits work by considering all available fields and determining which one to 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the high value AI split in a decomposition tree.](../media/4-apply-ai-split-decomposition-tree-ss.png)](../media/4-apply-ai-split-decomposition-tree-ss.png#lightbox)
 
-For more information, see [Create and view decomposition tree visuals in Power BI](https://docs.microsoft.com/power-bi/visuals/power-bi-visualization-decomposition-tree/?azure-portal=true).
+For more information, see [Create and view decomposition tree visuals in Power BI](/power-bi/visuals/power-bi-visualization-decomposition-tree?azure-portal=true).

@@ -33,4 +33,4 @@ With Power BI, you can experiment with transformations and determine which will 
 
 After you've cleaned your data into a usable format, you can begin to create powerful visuals in Power BI.
 
-For more information, see [Tutorial: Combine sales data from Excel and an OData feed](https://docs.microsoft.com/power-bi/desktop-tutorial-analyzing-sales-data-from-excel-and-an-odata-feed/?azure-portal=true).
+For more information, see [Tutorial: Combine sales data from Excel and an OData feed](/power-bi/connect-data/desktop-tutorial-analyzing-sales-data-from-excel-and-an-odata-feed?azure-portal=true).

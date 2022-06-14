@@ -1,12 +1,10 @@
-An *analytic query* is a query that produces a result from a data model. Each Power BI visual, in the background, submits an analytic query to Power BI to query the model. The analytic query is written as a Data Analysis Expressions (DAX) query statement. However, you don't need to write a native DAX statement; you only need to configure report visuals by mapping dataset fields. 
+An *analytic query* is a query that produces a result from a data model. Each Power BI visual, in the background, submits an analytic query to Power BI to query the model. The analytic query is written as a Data Analysis Expressions (DAX) query statement. However, you don't need to write a native DAX statement; you only need to configure report visuals by mapping dataset fields.
 
 An analytic query has three phases that are implemented in the following order:
 
-1.  Filter
-
-1.  Group
-
-1.  Summarize
+1. Filter
+1. Group
+1. Summarize
 
 > [!div class="mx-imgBorder"]
 > [![An animation shows the sequence of the three analytic query phases: Filter, Group, and Summarize.](../media/dax-filter-group-summarize-c.gif)](../media/dax-filter-group-summarize-c.gif#lightbox)
@@ -19,8 +17,6 @@ An analytic query has three phases that are implemented in the following order:
 
 Not all analytic queries need to filter, group, and summarize:
 
--   Commonly, report visuals are filtered, perhaps by a time period or geographic location.
-
--   Grouping is optional. For example, a card visual, which is used to display a single value, isn't concerned with grouping.
-
--   Typically, report visuals summarize. One notable exception, however, is the slicer visual, which isn't concerned with summarization.
+- Commonly, report visuals are filtered, perhaps by a time period or geographic location.
+- Grouping is optional. For example, a card visual, which is used to display a single value, isn't concerned with grouping.
+- Typically, report visuals summarize. One notable exception, however, is the slicer visual, which isn't concerned with summarization.

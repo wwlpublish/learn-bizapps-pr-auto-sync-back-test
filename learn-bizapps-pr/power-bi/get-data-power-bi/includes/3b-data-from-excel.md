@@ -41,4 +41,4 @@ You can change the type of visualization and apply filters and other properties 
 
 If you use any of Excel's advanced BI features like **Power Query**, **Power Pivot**, or **Power View**, you can import that data into Power BI, too.
 
-For more information, see [Get data from Excel workbook files](https://docs.microsoft.com/power-bi/service-excel-workbook-files).
+For more information, see [Get data from Excel workbook files](/power-bi/connect-data/service-excel-workbook-files).

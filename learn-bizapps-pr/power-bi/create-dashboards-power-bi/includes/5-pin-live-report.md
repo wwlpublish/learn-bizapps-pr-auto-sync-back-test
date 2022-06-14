@@ -25,5 +25,4 @@ Any changes that you make to the tickets report will automatically show on the d
 
 You have now learned how to pin visuals as individual tiles and as entire live report pages. A word of caution: Dashboards are intended to be a collection from various sources, not just as a "launching pad" for reports. We recommend that you pin at the tile level first and foremost, and if needed, the entire report page can also be pinned. Seeing an entire report page in a dashboard tile can be difficult.
 
-For more information, see [Pin an entire report page](https://docs.microsoft.com/power-bi/create-reports/service-dashboard-pin-live-tile-from-report/?azure-portal=true).
-
+For more information, see [Pin an entire report page](/power-bi/create-reports/service-dashboard-pin-live-tile-from-report?azure-portal=true).

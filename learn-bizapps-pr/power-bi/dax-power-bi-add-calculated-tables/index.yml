@@ -2,8 +2,8 @@
 uid: learn-bizapps.dax-power-bi-add-calculated-tables 
 metadata: 
  title: Add calculated tables and columns to Power BI Desktop models
- description: By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query computed columns.
- ms.date: 07/07/2020  
+ description: By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table by using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query custom columns.
+ ms.date: 06/15/2022  
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
@@ -11,7 +11,7 @@ metadata:
 title: Add calculated tables and columns to Power BI Desktop models
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query computed columns.
+  By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query custom columns.
 abstract: |  
     By the end of this module, you'll be able to:
     - Create calculated tables.
