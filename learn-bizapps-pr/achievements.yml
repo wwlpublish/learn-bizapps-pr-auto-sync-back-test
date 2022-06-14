@@ -1,5 +1,9 @@
 ### YamlMime:Achievements
 achievements:
+- uid: learn-bizapps.create-immersive-flow.badge
+  type: badge
+  title: Create an immersive business process flow in Power Automate
+  iconUrl: /learn/achievements/create-immersive-flow-social.png
 - uid: learn-bizapps.work-healthcare-solution.trophy
   type: trophy
   title: Work with Microsoft Cloud for Healthcare
