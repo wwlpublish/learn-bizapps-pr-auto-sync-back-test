@@ -111,7 +111,7 @@ your Microsoft Dataverse data model in order. With that in place, you can
 connect Power Apps, and a model-driven app will be created for you from that
 model.
 
-Model-driven apps are created using the App Designer. You will choose the
+Model-driven apps are created using the App Designer. You'll choose the
 tables, dashboards, business process flows, forms, and other components that
 you want to make available in your app, and then the app will be created for
 you. This means you will need to spend more time understanding what your user
@@ -123,7 +123,7 @@ When incorporating business logic in your app, there are two primary options
 available. You can set **Business Rules** on your Microsoft Dataverse tables or
 you can build **Business Process Flows**.
 
-With **Business Rules,** you will define behaviors at the data layer. Business Rules are
+With **Business Rules,** you'll define behaviors at the data layer. Business Rules are
 great for setting conditions for when a field is required, setting a default
 value, or even showing or hiding a field based on criteria. An example could be
 a table for tracking expenses. You could have a column for type of travel and
@@ -136,7 +136,9 @@ workflows can provide visuals on next steps based on the status of the data and
 facilitate other actions that you want to occur as the user uses the app.
 Business Process Flows let you bring automation to your app and make it more of
 a guided experience than just a place to enter data. If you would like to go
-more in-depth with Business Process Flows, see the learning path [Create a business process flow in Power Automate](/learn/paths/create-business-process-flow/).
+more in-depth with Business Process Flows check out this additional Microsoft
+Learn module:
+https://docs.microsoft.com/learn/modules/work-with-business-process-flows-dynamics-365/
 
 ### Dashboards
 
@@ -151,9 +153,10 @@ dive deeper into the data if needed.
 
 ### Additional third-party solutions and app accelerators
 
-It is also important to know about the different App accelerators and
+It's also important to know about the different App accelerators and
 third-party solutions available to you. Depending on the industry you are in,
 Health, Financial, Banking, Education, Non- Profit, Automotive, or Media,
 Microsoft has released a number of accelerators or foundational components to
 assist you with quickly standing up your solution. For more information, see
-[Industry accelerators overview](/common-data-model/industry-accelerators?azureportal=true).
+[Industry accelerators
+overview](https://docs.microsoft.com/common-data-model/industry-accelerators?azureportal=true).
