@@ -25,9 +25,9 @@ They will also allow you to provide additional information when you are explaini
 - [Power BI ideas](http://ideas.powerbi.com/)
 - [Power BI release guidance and roadmap](https://dynamics.microsoft.com/roadmap/overview/)
 - [Power BI blog](https://blog.powerbi.com/)
-- [Power BI documentation](https://docs.microsoft.com/power-bi/)
-- [Paginated reports in Power BI: FAQ](https://docs.microsoft.com/power-bi/paginated-reports/paginated-reports-faq)
-- [What are paginated reports in Power BI Premium?](https://docs.microsoft.com/power-bi/paginated-reports-report-builder-power-bi)
+- [Power BI documentation](/power-bi/)
+- [Paginated reports in Power BI: FAQ](/power-bi/paginated-reports/paginated-reports-faq)
+- [What are paginated reports in Power BI Premium?](/power-bi/paginated-reports/paginated-reports-report-builder-power-bi)
 
 ## Power BI paginated reports in a day
 The instructor-led course content is available at: [https://aka.ms/priad-video-course](https://aka.ms/priad-video-course).  
