@@ -41,14 +41,14 @@ quiz:
     - content: Calculated columns can't be related to non-calculated columns.
       isCorrect: false 
       explanation: Calculated columns behave like columns that are sourced from Power Query. They can be related to any other column in the model, provided that it's in a different table.
-  - content: You're developing a Power BI desktop model that sources data from a Microsoft Azure SQL database. The database has an employee table that stores one row for each employee. Each row has a reference to the employee's manager, which is also a row in the employee table. You need to add several columns to the Employee table in your model to analyze payroll data within the organization hierarchy. Which technique will you use to add the columns?
+  - content: You're developing a Power BI desktop model that sources data from an Excel workbook. The workbook has an employee table that stores one row for each employee. Each row has a reference to the employee's manager, which is also a row in the employee table. You need to add several columns to the Employee table in your model to analyze payroll data within the organization hierarchy (like, executive level, manager level, and so on). Which technique will you use to add the columns?
     choices: 
     - content: Add persisted columns to a table by using T-SQL.
       isCorrect: false
-      explanation: The columns require naturalizing the parent-child relationship into columns. T-SQL doesn't have built-in functions to complete this operation.
+      explanation: The columns require naturalizing the parent-child relationship into columns. T-SQL can't be used to query the Excel workbook.
     - content: Add column expressions in a view by using T-SQL.
       isCorrect: false 
-      explanation: The columns require naturalizing the parent-child relationship into columns. T-SQL doesn't have built-in functions to complete this operation.
+      explanation: The columns require naturalizing the parent-child relationship into columns. T-SQL can't be used to query the Excel workbook.
     - content: Add computed columns by using M.
       isCorrect: false 
       explanation: The columns require naturalizing the parent-child relationship into columns. M doesn't have built-in functions to complete this operation.
