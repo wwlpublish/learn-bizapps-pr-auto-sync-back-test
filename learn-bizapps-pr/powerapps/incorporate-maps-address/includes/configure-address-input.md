@@ -28,11 +28,11 @@ When you search for the fields, the search results can be restricted to certain 
 When the user selects an address, the Address field provides access to several output properties that can interact with other controls in the Power Apps app, such as the interactive map control. This control provides the following output properties.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the output fields that the address input provides to the canvas app creator.](../media/addess-output-properties.png)](../media/addess-output-properties.png#lightbox)
+> [![Screenshot of the output fields that the address input provides to the canvas app creator.](../media/address-output-properties.png)](../media/address-output-properties.png#lightbox)
 
 The following screenshot displays the raw output values for an example from the address input using a text field. These fields can be used elsewhere in your application, such as finding distances, validating existing data, and finding a point on a map to name a few.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the data returned from an address input field.](../media/addess-output-example.png)](../media/addess-output-example.png#lightbox)
+> [![Screenshot of the data returned from an address input field.](../media/address-output-example.png)](../media/address-output-example.png#lightbox)
 
 For more information, see the article [Use the address input control to easily enter addresses](/power-apps/maker/canvas-apps/geospatial-component-input-address/?azure-portal=true).
