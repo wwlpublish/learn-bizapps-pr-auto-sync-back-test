@@ -1,0 +1,45 @@
+### YamlMime:Module 
+uid: learn-bizapps.incorporate-maps-address 
+metadata: 
+ title: Incorporate maps and address input in your app
+ description: In this module, the maps and address input controls will be evaluated in relation to the business value that they add to the Power Apps. 
+ ms.date: 06/30/2022  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: interactive-tutorial  
+ ms.prod: learning-power-apps  
+title: Incorporate maps and address input in your app
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Microsoft Power Apps is an powerful platform to build applications that can run on a user’s desktop or mobile device. There are several Power App geolocational controls that can be added to Power Apps to provide robust functionality that previously could only be done through complex coding and multiple controls all working in tandem. In this module, the maps and address input controls will be evaluated in relation to the business value that they add to the Power Apps.  
+abstract: |  
+    In this module, you will: 
+    - Identify the use cases for maps and address inputs in a canvas app
+    - Identify how a map and address inputs interact with each other in a canvas app
+    - Build a canvas app with map and address input fields 
+    - Identify the aspects of interactive maps
+    - Pin locations on a map from a data source
+    - Understand Geolocation and signals in a canvas app
+prerequisites: None
+iconUrl: /learn/achievements/incorporate-maps-address.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- functional-consultant 
+products: 
+- power-platform
+- power-apps 
+subjects: 
+- data-modeling 
+units: 
+- learn-bizapps.incorporate-maps-address.introduction 
+- learn-bizapps.incorporate-maps-address.configure-address-input 
+- learn-bizapps.incorporate-maps-address.exercise 
+- learn-bizapps.incorporate-maps-address.configure-map-control 
+- learn-bizapps.incorporate-maps-address.build-canvas-app 
+- learn-bizapps.incorporate-maps-address.additional-features 
+- learn-bizapps.incorporate-maps-address.check 
+- learn-bizapps.incorporate-maps-address.summary 
+badge: 
+  uid: learn-bizapps.incorporate-maps-address.badge 
