@@ -1,0 +1,7 @@
+Power Apps enables users to create powerful mobile applications with little to no code creation required by users. Users can add controls to the Power Apps app to create robust functionality tied together with low code formulas and variables.
+
+Typically, entering an address of a location and viewing its location in an integrated map in a canvas app can be a complicated process that involves multiple controls and interconnected formulas and references to execute correctly. Addresses often must be exact or require the manual consumption of a web service to confirm the user entered the address correctly. The maps that show the address are typically a static image that is retrieved from a web service. More form controls are required to specify zoom locations, perspectives, and more.
+
+Power Apps canvas apps can use the address input and map controls to greatly simplify this entire process. The previous process that involved multiple controls is consolidated into a single address entry field and a map control. The address input allows users to enter an address and receive back suggestions without using any formulas. The map control contains many navigation features, such as zooming and perspectives, embedded in the control itself. Connecting these two objects uses a simple formula as well.
+
+In this module, the address input and map controls will be explored at a much more in-depth level so that the users can immediately begin using these controls in their canvas app.
