@@ -46,9 +46,9 @@ You can monitor what people are saying about your business by creating a flow th
 
 You can create actions to connect the data you collect to Microsoft Power BI, spot trends in that data, and ask questions about it.
 
-The following example shows a flow that saves tweets with the hashtag #MicrosoftFlow to an Excel file.
+The following example shows a flow that saves tweets with the hashtag #PowerAutomate to an Excel file.
 
-![Screenshot of a Microsoft Flow Tweet with the hashtag #MicrosoftFlow.](../media/tweets-to-excel.png)
+![Screenshot of a Microsoft Flow Tweet with the hashtag #PowerAutomate.](../media/tweets-to-excel.png)
 
 ![Screenshot of the same tweet in an Excel spreadsheet.](../media/excel-tweets.png)
 
