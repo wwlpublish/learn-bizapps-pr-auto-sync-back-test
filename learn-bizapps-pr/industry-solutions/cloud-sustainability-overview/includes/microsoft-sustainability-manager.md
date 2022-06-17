@@ -8,6 +8,8 @@ Sustainability Manager connects data from almost any existing business system, E
 
 Sustainability Manager is built on the Microsoft Cloud for Sustainability data model, which streamlines data ingestion, sharing, calculations, and reporting. It breaks down data silos across emissions sources and centralizes emissions data in a common format. Organizations can share this publicly available data model with their teams, vendors, and trading partners to drive data integrity and consistent reporting upstream and downstream.
 
+[![Diagram showing data, insights and action.](../media/data-insights-action.png)](../media/data-insights-action.png#lightbox)
+
 Sustainability Manager also includes prebuilt, dynamic calculation models that simplify complex calculations at scale, delivering a more accurate record of emissions activities.
 
 Key capabilities of Sustainability Manager include: 

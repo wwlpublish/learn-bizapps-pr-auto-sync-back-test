@@ -1,5 +1,7 @@
 Microsoft Cloud for Sustainability empowers organizations to accelerate sustainability progress and business growth by bringing together a set of environmental, social, and governance capabilities across the Microsoft cloud portfolio plus solutions from Microsoft’s global ecosystem of partners.
 
+[Diagram showing cycle of Microsoft Sustainability Manager.](../media/sustainability-features.png)](../media/sustainability-features.png#lightbox)
+
 Microsoft Cloud for Sustainability is working closely with customers and partners on the following:
 
 - Unifying data intelligence to drive sustainability reporting, sustainability efforts, and business transformation.
