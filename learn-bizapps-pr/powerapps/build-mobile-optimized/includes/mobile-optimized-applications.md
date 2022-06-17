@@ -1,140 +1,129 @@
-When a user designs and creates a mobile-optimized Power Apps canvas app, the user should keep in mind several design components.
+When you design and create a mobile-optimized canvas app from Power Apps, you'll need to consider several design components.
 
-A mobile-optimized canvas app should have the following design characteristics, which will be further examined in this lesson.
+A mobile-optimized canvas app should have the following design characteristics:
 
-- Have a clearly defined purpose
+- A clearly defined purpose
 
-- Have a responsive design [Bring your own device (BYOD)]
+- A responsive design [Bring your own device (BYOD)]
 
-- Have a simplistic user interface
+- Simplistic user interface
 
-- Use intuitive navigation
+- Intuitive navigation
 
-- Not require external peripherals
+- External peripherals aren't required
 
-- Include offline capabilities
+- Offline capabilities
 
-- Include connectivity alerts
+- Connectivity alerts
 
-- Have a seamless setup
+- Seamless setup
 
-- Optimize for performance
+- Optimized for performance
 
-## Have a clearly defined purpose
+## Clearly defined purpose
 
-A mobile-optimized application should have a clearly defined purpose. When users are using apps in a mobile capacity, the fewest actions to accomplish the task directly correlate to a better user experience.
+A mobile-optimized application should have a clearly defined purpose. When people use apps in a mobile capacity, the fewest actions that are required to accomplish the task will directly correlate to a better user experience.
 
-Determine if you want a single app with many different actions, such as a mobile warehouse application that will do all of the actions for maintaining inventory, or a single application for a specific purpose such as creating customers.
+Determine if you want a single app with many different actions, such as a mobile warehouse application that will do all actions for maintaining inventory, or a single application for a specific purpose, such as creating customers. Then, ask yourself the following clarifying questions: 
 
--   Is it easier to navigate back to a home page to do different actions or to exit the Power Apps app to do another action?
+-   Is it easier to navigate back to a home page to complete different actions, or is it easier to exit the app to complete another action?
 
--   Is it a better experience for someone within an organization to navigate through multiple Power Apps apps?
+-   Is it a better experience for someone within an organization to navigate through multiple apps?
 
--   If there's a single application, does it try to do too much and complicate the purpose?
+-   If a single application exists, does it try to do too much, therefore complicating the purpose?
 
-When a user designs the forms for the app, each form should have a purpose that can be defined in a single, simple sentence.
+When you're designing the forms for the app, make sure that each form has a purpose that you can define in a single, simple sentence. Avoid the urge to have a single form that contains too many purposes, such as creating customers and customer contacts. Instead, consider creating multiple forms, each with a specific purpose.
 
--   Avoid the urge to have a single form that contains too many purposes, such as creating customers and customer contacts.
-
--   Instead, consider creating multiple forms, each with a specific purpose.
-
-## Have a responsive design
+## Responsive design
 
 Any mobile application or website that is considered mobile-optimized should adapt to the application in which it's viewed.
 
-As an example, a website such as Microsoft.com can be viewed either in a desktop or mobile view. The application or website adjusts its layout for the design in which it's viewed. The following example shows Microsoft.com in a desktop and then a mobile-optmized view.
+For example, a website such as Microsoft.com can be viewed in desktop or mobile view. The application or website adjusts its layout for the design in which it's viewed. The following example shows Microsoft.com in a desktop view and then a mobile-optimized view.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of a website with the desktop and mobile device views.](../media/desktop-mobile-views.png)](../media/desktop-mobile-views.png#lightbox)
 
 
-## Have a simplistic user interface
+## Simplistic user interface
 
 Resist the urge to include too many fields and input controls on a form.
 
--   It may seem like a good idea to include all the fields that users may want to use for a task, such as creating a customer, so that the canvas app is comprehensive.
+It might seem like a good idea to include all fields that people might want to use for a task, such as creating a customer, so that the canvas app is comprehensive.  However, providing several extra controls that people will rarely use will create a cluttered interface and create more scrolling and "field hunting" to find the fields that they use most often. Instead, consider creating a succinct form and creating a new form for advanced field entry that people would use only on rare occasions.
 
--   However, many extra controls that users will likely not use often will create a cluttered interface and create more scrolling and "field hunting" to find the fields they use most often.
+If users must navigate to multiple screens, they might have a negative experience.
 
--   Instead, consider creating a succinct form and creating a new form for advanced field entry that users would use only on rare occasion.
+When buttons are needed, such as a **Submit** button, consider where to place the button in relation to where it's easiest for users to select.
 
-If users must navigate to multiple screens, users may have a negative experience.
+Design with simplicity:
 
-When buttons are needed, such as a Submit button, consider where to place the button in relation to where it's easiest for the users to select.
+-   If too many buttons and fields are on a screen, users might select a button or field by accident.
 
-Design with simplicity.
+-   Consider adding buffer space around fields and **Submit** buttons to allow for user error variance.
 
--   If too many buttons and fields are in a screen, users may accidentally select a button or field by accident.
+## Intuitive navigation
 
--   Consider adding buffer space around fields and Submit buttons to allow for user error variance.
+A mobile-optimized app shouldn't have to come with a complex user manual. Instead, organize the tasks and business actions in a way that guides the user through their daily operations.
 
-## Use intuitive navigation
+ > [!Note] 
+ > No single, correct way exists for creating a user interface. 
+   
+Determine the most logical way to organize the tasks for a user based on the previously defined purpose. Consider the following two design scenarios:
 
-A mobile-optimized app shouldn't have to come with a complex user manual.
+- The mobile app is used to create sales orders 90 percent of the time and create new customers 20 percent of the time. As a result, the first navigation button should be to the sales order creation form, and the second navigation button should be to the customer creation form.
 
--   Organize the tasks and business actions in a way that guides the user through their day-to-day operations.
+- The mobile app is used for the business use case of finding new customers by creating their first order. As a result, the first navigation button should be to the customer form, and the second navigation button should be to the sales order creation form.
 
--   Note: There's no single, correct way to create a user interface. Determine the most logical way to organize the tasks for a user based on the defined purpose determined earlier. Consider the following two design scenarios:
+Users will always want an easier way to "return home" or go back to the main screen. Therefore, keep the following considerations in mind when creating return navigation:
 
-    -   If the mobile app is used to create sales orders 90 percent of the time and create new customers 20 percent of the time, include navigation to the sales order creation form as the first button and the customer creation after.
+- Each form should include a simple way to return to the main screen to conduct another action.
 
-    -   If the mobile app is used for the business use case to find new customers by creating their first order, include the navigation to the customer form as the first button and the sales order creation after.
+- Requiring a customer to return to a central point through multiple actions will result in a poor user experience.
 
-A user will always want an easy way to "return home" or go back to the main screen.
-
--   Each form should include an easy way to get back to the main screen to conduct another action.
-
--   It's a poor user experience to require a customer to navigate back to a central point through multiple actions.
-
--   If a user finishes a specific task and there are no new tasks to complete, automatically return users to the home location where they can conduct their next actions.
+- If a user finishes a specific task and has no new tasks to complete, then that user should be returned automatically to the home location, where they can conduct their next actions.
 
 ## Exclude external peripherals
 
-Users on a phone or tablet will more than likely not have a mouse and keyboard.
+Likely, users who are on a phone or tablet won't have a mouse and keyboard.
 
--   When designing the application's user interface, imagine holding a specific device in your hand and interacting with the application with your hands or eyes and determine if it's a good experience.
-
--   When entering field information, a keyboard will likely appear on the device. Will this impact the user experience?
+When designing the application's user interface, you should try to imagine yourself holding a specific device in your hand and interacting with the application to help you determine whether it's a good experience or not. For example, when a user enters field information, a keyboard will likely appear on the device, so you should determine whether that factor will impact the user's experience.
 
 ## Include offline capabilities
 
-A mobile application will traverse multiple locations.
+A mobile application will traverse multiple locations. As a result, ask yourself the following questions to help determine when users might need offline capabilities:
 
--   Is there a chance this application will be used in a location where the user will need to conduct an action without internet connectivity?
+-   Could this application be used in a location where the user might need to conduct an action without internet connectivity?
 
--   There are complexities to including offline capabilities in a canvas app. Are the efforts to make the actions offline capable worth the effort?
+-   Because including offline capabilities in a canvas app can be complex, will the efforts to make the actions offline-capable worth the effort?
 
--   Are the actions that need to be conducted offline reading/writing data that is only available at a location not on the device?
+-   Are the actions that need to be conducted offline unavailable on the device, such as reading/writing data that's only available at a specific location?
 
-## Include connectivity alerts
+## Connectivity alerts
 
-In a cloud-first solution, connectivity to the cloud is imperative. Most users will assume they have connectivity to the internet when they access the canvas app.
+In a cloud-first solution, connectivity to the cloud is imperative. Most users will assume that they have connectivity to the internet when they access the canvas app.
 
--   Different forms and actions that have internet connectivity requirements should include a form verification to alert the user that the mobile application is in offline mode and the action isn't available before the user attempts to enter data.
+Different forms and actions that have internet connectivity requirements should include a form verification. Before the user attempts to enter data, this form verification can alert the user that the mobile application is in offline mode and that the action isn't available. For example, if the action of creating a customer requires connectivity, then the application shouldn't allow a user to access the customer creation form and enter data when the mobile application is offline.
 
-    -   For example, if creating a customer requires connectivity, the application shouldn't allow a user to access the customer creation form and enter data when the mobile application is offline.
+Alerting the user as soon as possible will help reduce potential data entry rework. You should consider including an alert indicator, such as a banner on the top of the screen indicating that the mobile application doesn't have connectivity.
 
--   Try to alert the user as soon as possible to reduce any potential data entry rework.
+## Seamless setup
 
--   Consider including an alert indicator, such as a banner on the top of the screen that indicates the mobile application doesn't have connectivity.
+Seamless setup is vital to users who are adopting the app. Microsoft's deployment of Power Apps makes the deployment seamless, but configuration might be required in scenarios where you're connecting those apps to necessary data sources or user access.
 
-## Have a seamless setup
+When prompting the user to enter data that's required to run the application, such as a URL to an application or API, you should consider including tips for users to find that data. Assume that this time is the user's first for using the application and that they need guidance.
 
-A seamless setup is vital to users adopting the Power Apps app. Microsoft's deployment of Power Apps makes the deployment seamless. But connecting those apps to necessary data sources or user access may be where configuration is required.
-
--   When prompting the user to enter data required to run the application, such as a URL to an application or API, include tips for users to find that data. Assume this is the first time they've used the application and that they need guidance.
-
--   Include a comprehensive and direct description of the mobile application that tells users what the app is used.
+Additionally, you should consider including a comprehensive and direct description of the mobile application that tells users what app is being used.
 
 ## Optimize for performance
 
-Performance is more important for mobile applications than desktop applications. The limitations of multi-tasking multiple tasks on a mobile phone make performance a significant factor. Desktop users can navigate to another application while the canvas app does specific tasks with little effort.
+Performance is more important for mobile applications than desktop applications. The limitations of multitasking with several tasks on a mobile phone make performance a significant factor. Desktop users can almost effortlessly navigate to another application while the canvas app does specific tasks.
 
--   Consider the datasources being used and the complexity of the data being retrieved.
+When optimizing the app for performance, you should:
 
--   Evaluate the data connectors being used for the application.
+-   Consider the data sources that are being used and the complexity of the data that's being retrieved.
 
--   Try to eliminate complex or unnecessary datasources.
+-   Evaluate the data connectors that are being used for the application.
 
--   Try to only retrieve the specific number of records required for a given action.
+-   Try to eliminate complex or unnecessary data sources.
+
+-   Try to only retrieve the specific number of records that are required for a given action.
 
