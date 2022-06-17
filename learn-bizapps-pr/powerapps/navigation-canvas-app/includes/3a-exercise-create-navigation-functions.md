@@ -34,8 +34,7 @@ demonstrate the **Navigate** and **Back()** functionality.
 
 	[![Screenshot of the OnSelect property for the back button set to Back() on Screen3.](../media/back-ss.png)](../media/back-ss.png#lightbox)
 
-1.  To test this, select Screen1, and put the app in **Preview** or **Play** mode and navigate.
-    through the app as a user would.
+1.  To test this, select Screen1, and put the app in **Preview** or **Play** mode and navigate through the app as a user would.
 
 As you select each button, notice the subtle visual transitions of each
 ScreenTransition. Remember, the Navigate function can include a
