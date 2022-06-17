@@ -80,6 +80,6 @@ For more information, see [Develop offline-capable canvas apps](/power-apps/make
 
 ## Alert users about no connectivity
 
-If you want to alert a user that the canvas app is offline, you can use the **Notify** function to alert the user that the function might not be available at the current time. By default, the notification  will appear for 10 seconds and then disappear, or it'll remain on the screen until the user dismisses the alert manually.
+If you want to alert a user that the canvas app is offline, you can use the **Notify** function to alert the user that the function might not be available at the current time. By default, the notification  will appear for 10 seconds and then disappear, or it will remain on the screen until the user dismisses the alert manually.
 
 For more information, see [Notify function in Power Apps](/power-apps/maker/canvas-apps/functions/function-showerror/?azure-portal=true).
