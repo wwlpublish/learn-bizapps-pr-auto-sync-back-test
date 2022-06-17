@@ -49,7 +49,7 @@ When you create a new screen or form within an app from Power Apps, several pred
 > [!div class="mx-imgBorder"]
 > [![Screenshot showing the different screen layouts that are mobile-optimized.](../media/mobile-layout.png)](../media/mobile-layout.png#lightbox)
 
-In the event that one of the responsive layouts won't meet the business requirements, you can create your own responsive layout by using formulas and conditions. For more information, see [Create responsive layouts in canvas apps](/power-apps/maker/canvas-apps/create-responsive-layout/?azure-portal=true).
+If one of the responsive layouts won't meet the business requirements, you can create your own responsive layout by using formulas and conditions. For more information, see [Create responsive layouts in canvas apps](/power-apps/maker/canvas-apps/create-responsive-layout/?azure-portal=true).
 
 ## Control and form design considerations
 
