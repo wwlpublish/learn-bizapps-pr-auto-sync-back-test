@@ -77,4 +77,4 @@ Format the **Revenue Avg Order** measure as currency with two decimal places, 
 
 As expected, the average revenue for an order is always higher than the average revenue for a single order line.
 
-Notice that the formula uses the `[VALUES](/dax/values-function-dax/?azure-portal=true)` DAX function. This function lets your formulas determine what values are in filter context. In this case, the `AVERAGEX` function iterates over each sales order *in filter context*. In other words, it iterates over each sales order for the month. Filter context and the `VALUES` function are introduced in the filter context module.
+Notice that the formula uses the [`VALUES`](/dax/values-function-dax/?azure-portal=true) DAX function. This function lets your formulas determine what values are in filter context. In this case, the `AVERAGEX` function iterates over each sales order *in filter context*. In other words, it iterates over each sales order for the month. Filter context and the `VALUES` function are introduced in the filter context module.

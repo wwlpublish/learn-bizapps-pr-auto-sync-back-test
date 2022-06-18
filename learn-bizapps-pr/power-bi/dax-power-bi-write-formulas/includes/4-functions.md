@@ -19,7 +19,7 @@ For more information, see the [DAX function reference](/dax/dax-function-referen
 
 The following sections consider several useful functions that you might already be familiar with because they exist in Excel.
 
-The `[IF](/dax/if-function-dax/?azure-portal=true)` DAX function tests whether a condition that's provided as the first argument is met. It returns one value if the condition is TRUE and returns the other value if the condition is FALSE. The function's syntax is:
+The [`IF`](/dax/if-function-dax/?azure-portal=true) DAX function tests whether a condition that's provided as the first argument is met. It returns one value if the condition is TRUE and returns the other value if the condition is FALSE. The function's syntax is:
 
 ```dax
 IF(<logical_test>, <value_if_true>[, <value_if_false>])
@@ -40,11 +40,11 @@ Two useful DAX functions that aren't specific to modeling and that don't origina
 
 #### DISTINCTCOUNT function
 
-You can use the `[DISTINCTCOUNT](/dax/distinctcount-function-dax/?azure-portal=true)` DAX function to count the number of distinct values in a column. This function is especially powerful in an analytics solution. Consider that the count of customers is different from the count of *distinct* customers. The latter doesn't count repeat customers, so the difference is "How many customers" compared with "How many *different* customers."
+You can use the [`DISTINCTCOUNT`](/dax/distinctcount-function-dax/?azure-portal=true) DAX function to count the number of distinct values in a column. This function is especially powerful in an analytics solution. Consider that the count of customers is different from the count of *distinct* customers. The latter doesn't count repeat customers, so the difference is "How many customers" compared with "How many *different* customers."
 
 #### DIVIDE function
 
-You can use the `[DIVIDE](/dax/divide-function-dax/?azure-portal=true)` DAX function to achieve division. You must pass in numerator and denominator expressions. Optionally, you can pass in a value that represents an *alternate result*. The `DIVIDE` function's syntax is:
+You can use the [`DIVIDE`](/dax/divide-function-dax/?azure-portal=true) DAX function to achieve division. You must pass in numerator and denominator expressions. Optionally, you can pass in a value that represents an *alternate result*. The `DIVIDE` function's syntax is:
 
 ```dax
 DIVIDE(<numerator>, <denominator>[, <alternate_result>])

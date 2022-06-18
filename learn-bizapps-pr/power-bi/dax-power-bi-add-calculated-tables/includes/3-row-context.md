@@ -16,8 +16,8 @@ When the formula is evaluated for each row, the `'Due Date'[Due Date]` column re
 
 However, row context doesn't extend beyond the table. If your formula needs to reference columns in other tables, you have two options:
 
-- If the tables are related, directly or indirectly, you can use the `[RELATED](/dax/related-function-dax/?azure-portal=true)` or `[RELATEDTABLE](/dax/relatedtable-function-dax/?azure-portal=true)` DAX function. The `RELATED` function retrieves the value at the one-side of the relationship, while the `RELATEDTABLE` retrieves values on the many-side. The `RELATEDTABLE` function returns a table object.
-- When the tables aren't related, you can use the `[LOOKUPVALUE](/dax/lookupvalue-function-dax/?azure-portal=true)` DAX function.
+- If the tables are related, directly or indirectly, you can use the [`RELATED`](/dax/related-function-dax/?azure-portal=true) or [`RELATEDTABLE`](/dax/relatedtable-function-dax/?azure-portal=true) DAX function. The `RELATED` function retrieves the value at the one-side of the relationship, while the `RELATEDTABLE` retrieves values on the many-side. The `RELATEDTABLE` function returns a table object.
+- When the tables aren't related, you can use the [`LOOKUPVALUE`](/dax/lookupvalue-function-dax/?azure-portal=true) DAX function.
 
 Generally, try to use the `RELATED` function whenever possible. It will usually perform better than the `LOOKUPVALUE` function due to the ways that relationship and column data is stored and indexed.
 
