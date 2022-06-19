@@ -1,4 +1,4 @@
-The `[RANKX](/dax/rankx-function-dax/?azure-portal=true)` DAX function is a special iterator function you can use to calculate ranks. Its syntax is as follows:
+The [`RANKX`](/dax/rankx-function-dax/?azure-portal=true) DAX function is a special iterator function you can use to calculate ranks. Its syntax is as follows:
 
 ```dax
 RANKX(<table>, <expression>[, <value>[, <order>[, <ties>]]])
@@ -28,7 +28,7 @@ RANKX(
 
 Add the **Product Quantity Rank** measure to the table visual that is found on **Page 2** of the report. The table visual groups bike products and displays quantity, which orders products by descending quantity.
 
-The `RANKX` function iterates over a table that is returned by the `[ALL](/dax/all-function-dax/?azure-portal=true)` DAX function. The `ALL` function is used to return all rows in a model table or values in one or more columns, and it *ignores all filters*. Therefore, in this case, it returns a table that consists of all **Product** column values in the **Product** table. The `RANKX` function must use the `ALL` function because the table visual will group by product (which is a filter on the **Product** table).
+The `RANKX` function iterates over a table that is returned by the [`ALL`](/dax/all-function-dax/?azure-portal=true) DAX function. The `ALL` function is used to return all rows in a model table or values in one or more columns, and it *ignores all filters*. Therefore, in this case, it returns a table that consists of all **Product** column values in the **Product** table. The `RANKX` function must use the `ALL` function because the table visual will group by product (which is a filter on the **Product** table).
 
 In the table visual, notice that two products tie for tenth place and that the next product's rank is 12. This visual is an example of using the **Skipped** ties argument.
 
@@ -77,6 +77,6 @@ IF(
 > [!div class="mx-imgBorder"]
 > [![An image shows the Product Quantity Rank total is BLANK.](../media/dax-table-bike-product-quantity-rank-dense-total-gone-ssm.png)](../media/dax-table-bike-product-quantity-rank-dense-total-gone-ssm.png#lightbox)
 
-Notice that the total **Product Quantity Rank** is now BLANK, which was achieved by using the `[HASONEVALUE](/dax/hasonevalue-function-dax/?azure-portal=true)` DAX function to test whether the **Product** column in the **Product** table has a single value in filter context. It's the case for each product group, but not for the total, which represents all products.
+Notice that the total **Product Quantity Rank** is now BLANK, which was achieved by using the [`HASONEVALUE`](/dax/hasonevalue-function-dax/?azure-portal=true) DAX function to test whether the **Product** column in the **Product** table has a single value in filter context. It's the case for each product group, but not for the total, which represents all products.
 
 Filter context and the `HASONEVALUE` function will be introduced in the filter context module.

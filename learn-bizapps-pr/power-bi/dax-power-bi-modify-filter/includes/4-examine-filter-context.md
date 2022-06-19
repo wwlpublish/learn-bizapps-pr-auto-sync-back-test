@@ -1,4 +1,4 @@
-The `[VALUES](/dax/values-function-dax/?azure-portal=true)` DAX function lets your formulas determine what values are in filter context.
+The [`VALUES`](/dax/values-function-dax/?azure-portal=true) DAX function lets your formulas determine what values are in filter context.
 
 The `VALUES` function syntax is as follows:
 
@@ -8,7 +8,7 @@ VALUES(<TableNameOrColumnName>)
 
 The function requires passing in a table reference or a column reference. When you pass in a table reference, it returns a table object with the same columns that contain rows for what's in filter context. When you pass in a column reference, it returns a single-column table of unique values that are in filter context.
 
-The function always returns a table object and it's possible for a table to contain multiple rows. Therefore, to test whether a specific value is in filter context, your formula must first test that the `VALUES` function returns a single row. Two functions can help you accomplish this task: the `[HASONEVALUE](/dax/hasonevalue-function-dax/?azure-portal=true)` and the `[SELECTEDVALUE](/dax/selectedvalue-function/?azure-portal=true)` DAX functions.
+The function always returns a table object and it's possible for a table to contain multiple rows. Therefore, to test whether a specific value is in filter context, your formula must first test that the `VALUES` function returns a single row. Two functions can help you accomplish this task: the [`HASONEVALUE`](/dax/hasonevalue-function-dax/?azure-portal=true) and the [`SELECTEDVALUE`](/dax/selectedvalue-function/?azure-portal=true) DAX functions.
 
 The `HASONEVALUE` function returns `TRUE` when a given column reference has been filtered down to a single value.
 
@@ -36,9 +36,9 @@ Notice that the total **Sales Commission** result is BLANK. The reason is becau
 
 Three other functions that you can use to test filter state are:
 
-- `[ISFILTERED](/dax/isfiltered-function-dax/?azure-portal=true)` - Returns `TRUE` when a passed-in column reference is *directly* filtered.
-- `[ISCROSSFILTERED](/dax/iscrossfiltered-function-dax/?azure-portal=true)` - Returns `TRUE` when a passed-in column reference is *indirectly* filtered. A column is cross-filtered when a filter that is applied to another column in the same table, or in a related table, affects the reference column by filtering it.
-- `[ISINSCOPE](/dax/isinscope-function-dax/?azure-portal=true)` - Returns `TRUE` when a passed-in column reference is the level in a hierarchy of levels.
+- [`ISFILTERED`](/dax/isfiltered-function-dax/?azure-portal=true) - Returns `TRUE` when a passed-in column reference is *directly* filtered.
+- [`ISCROSSFILTERED`](/dax/iscrossfiltered-function-dax/?azure-portal=true) - Returns `TRUE` when a passed-in column reference is *indirectly* filtered. A column is cross-filtered when a filter that is applied to another column in the same table, or in a related table, affects the reference column by filtering it.
+- [`ISINSCOPE`](/dax/isinscope-function-dax/?azure-portal=true) - Returns `TRUE` when a passed-in column reference is the level in a hierarchy of levels.
 
 Return to **Page 2** of the report, and then modify the **Revenue % Total Country** measure definition to test that the **Region** column in the **Sales Territory** table is in scope. If it's not in scope, the measure result should be BLANK.
 

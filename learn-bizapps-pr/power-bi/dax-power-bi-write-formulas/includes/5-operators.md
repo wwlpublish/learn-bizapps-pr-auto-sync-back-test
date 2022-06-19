@@ -15,7 +15,7 @@ The following table lists the arithmetic operators.
 |     /           |     Division          |
 |     ^           |     Exponentiation    |
 
-Remember, when you are dividing two expressions, and when the denominator could return zero or BLANK, it's more efficient and safer to use the `[DIVIDE](/dax/divide-function-dax/?azure-portal=true)` DAX function.
+Remember, when you are dividing two expressions, and when the denominator could return zero or BLANK, it's more efficient and safer to use the [`DIVIDE`](/dax/divide-function-dax/?azure-portal=true) DAX function.
 
 ### Comparison operators
 
@@ -52,7 +52,7 @@ Use logical operators to combine expressions that produce a single result. The f
 |     IN                    |     Creates a logical OR condition between each row that is being compared to a table. Note: The table constructor syntax uses braces. |
 |     NOT                   |     Inverts the state of a Boolean expression (FALSE to TRUE, and vice versa). |
 
-An example that uses the `IN` logical operator is the **ANZ Revenue** measure definition, which uses the `[CALCULATE](/dax/calculate-function-dax/?azure-portal=true)` DAX function to enforce a specific filter of two countries: Australia and New Zealand.
+An example that uses the `IN` logical operator is the **ANZ Revenue** measure definition, which uses the [`CALCULATE`](/dax/calculate-function-dax/?azure-portal=true) DAX function to enforce a specific filter of two countries: Australia and New Zealand.
 
 > [!NOTE]
 > You'll be introduced to the powerful `CALCULATE` function when you learn how to modify the filter context.
@@ -112,4 +112,4 @@ However, some limitations might exist on the values that can be successfully con
 BLANK is handled differently, depending on the operator that is used. It's handled similar to how Excel treats BLANK, but differently to how databases (SQL) treat NULL. BLANK is treated as zero when acted on by arithmetic operators and as an empty string when concatenated to a string.
 
 > [!TIP]
-> Remembering how BLANK is handled can be challenging, especially for DAX beginners. Consequently, we recommend that you test your formulas thoroughly. When BLANKs create unexpected results, consider using the `[IF](/dax/if-function-dax)` and `[ISBLANK](/dax/isblank-function-dax)` DAX functions to test for BLANK, and then respond in an appropriate way.
+> Remembering how BLANK is handled can be challenging, especially for DAX beginners. Consequently, we recommend that you test your formulas thoroughly. When BLANKs create unexpected results, consider using the [`IF`](/dax/if-function-dax) and [`ISBLANK`](/dax/isblank-function-dax) DAX functions to test for BLANK, and then respond in an appropriate way.
