@@ -61,7 +61,7 @@ In our example scenario, we identified these key contributors:
 
 - Tom and Steve's average cost is $40 per hour, which equals to $540 per day.
 
-- The Dive Shop spends an average of $74 in parts daily to service the gear.
+- The dive shop spends an average of $74 in parts daily to service the gear.
 
   This brings the total cost of service to the shop to $770 per day.
 

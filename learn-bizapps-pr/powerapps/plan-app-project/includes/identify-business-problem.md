@@ -2,7 +2,7 @@
 
 The first step in using Microsoft Power Platform to solve a business problem is deciding what problem you want to tackle.
 
-The app that we'll be creating in these modules will be based on processes, problems and challenges from a Scuba Shop's Service Department.
+The app that we'll be creating in these modules will be based on processes, problems and challenges from a scuba shop's service department.
 
 Remember that before you embark on "solving a problem" with a Power Apps project, you need to determine if the project is worthwhile. Start with understanding the cost of not solving the problem.
 
