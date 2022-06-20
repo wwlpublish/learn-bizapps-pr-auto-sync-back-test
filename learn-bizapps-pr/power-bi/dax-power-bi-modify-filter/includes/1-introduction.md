@@ -34,4 +34,4 @@ The numerator expression doesn't need to modify filter context; it should use th
 >
 > Mastering these concepts takes practice and time. Rarely will students understand the concepts from the beginning of training. Therefore, be patient and persevere with the theory and activities. We recommend that you repeat this module at a later time to help reinforce key lessons.
 
-The next unit introduces the `[CALCULATE](/dax/calculate-function-dax/?azure-portal=true)` DAX function. It's one of the most powerful DAX functions, allowing you to modify filter context when your formulas are evaluated.
+The next unit introduces the [`CALCULATE`](/dax/calculate-function-dax/?azure-portal=true) DAX function. It's one of the most powerful DAX functions, allowing you to modify filter context when your formulas are evaluated.

@@ -24,8 +24,8 @@ Due Fiscal Year =
 The calculated column definition adds the **Due Fiscal Year** column to the **Due Date** table. The following steps describe how Microsoft Power BI evaluates the calculated column formula:
 
 1. The addition operator (+) is evaluated before the text concatenation operator (&).
-1. The `[YEAR](/dax/year-function-dax/?azure-portal=true)` DAX function returns the whole number value of the due date year.
-1. The `[IF](/dax/if-function-dax/?azure-portal=true)` DAX function returns the value when the due date month number is 7-12 (July to December); otherwise, it returns BLANK. (For example, because the Adventure Works financial year is July-June, the last six months of the calendar year will use the next calendar year as their financial year.)
+1. The [`YEAR`](/dax/year-function-dax/?azure-portal=true) DAX function returns the whole number value of the due date year.
+1. The [`IF`](/dax/if-function-dax/?azure-portal=true) DAX function returns the value when the due date month number is 7-12 (July to December); otherwise, it returns BLANK. (For example, because the Adventure Works financial year is July-June, the last six months of the calendar year will use the next calendar year as their financial year.)
 1. The year value is added to the value that is returned by the `IF` function, which is the value one or BLANK. If the value is BLANK, it's implicitly converted to zero (0) to allow the addition to produce the fiscal year value.
 1. The literal text value `"FY"` concatenated with the fiscal year value, which is implicitly converted to text.
 
@@ -58,7 +58,7 @@ Due Month =
 FORMAT('Due Date'[Due Date], "yyyy mmm")
 ```
 
-The calculated column definition adds the **Due Month** column to the **Due Date** table. The `[FORMAT](/dax/format-function-dax/?azure-portal=true)` DAX function converts the **Due Date** column value to text by using a format string. In this case, the format string produces a label that describes the year and abbreviated month name.
+The calculated column definition adds the **Due Month** column to the **Due Date** table. The [`FORMAT`](/dax/format-function-dax/?azure-portal=true) DAX function converts the **Due Date** column value to text by using a format string. In this case, the format string produces a label that describes the year and abbreviated month name.
 
 > [!NOTE]
 > Many user-defined date/time formats exist. For more information, see [Custom date and time formats for the FORMAT function](/dax/custom-date-and-time-formats-for-the-format-function/?azure-portal=true).

@@ -16,4 +16,4 @@ Model data types aren't the same as DAX data types, though a direct relationship
 
 The BLANK data type deserves a special mention. DAX uses BLANK for both database NULL and for blank cells in Excel. BLANK doesn't mean zero. Perhaps it might be simpler to think of it as the *absence of a value*.
 
-Two DAX functions are related to the BLANK data type: the `[BLANK](/dax/blank-function-dax/?azure-portal=true)` DAX function returns BLANK, while the `[ISBLANK](/dax/isblank-function-dax/?azure-portal=true)` DAX function tests whether an expression evaluates to BLANK.
+Two DAX functions are related to the BLANK data type: the [`BLANK`](/dax/blank-function-dax/?azure-portal=true) DAX function returns BLANK, while the [`ISBLANK`](/dax/isblank-function-dax/?azure-portal=true) DAX function tests whether an expression evaluates to BLANK.

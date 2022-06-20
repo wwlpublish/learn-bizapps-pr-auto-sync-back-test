@@ -2,10 +2,10 @@ When using the `CALCULATE` function, you can pass in filter modification functio
 
 ## Remove filters
 
-Use the `[REMOVEFILTERS](/dax/removefilters-function-dax/?azure-portal=true)` DAX function as a `CALCULATE` filter expression to remove filters from filter context. It can remove filters from one or more columns or from all columns of a single table.
+Use the [`REMOVEFILTERS`](/dax/removefilters-function-dax/?azure-portal=true) DAX function as a `CALCULATE` filter expression to remove filters from filter context. It can remove filters from one or more columns or from all columns of a single table.
 
 > [!NOTE]
-> The `REMOVEFILTERS` function is relatively new. In previous versions of DAX, you removed filters by using the `[ALL](/dax/all-function-dax/?azure-portal=true)` DAX function or variants including the `[ALLEXCEPT](/dax/allexcept-function-dax/?azure-portal=true)` and the `[ALLNOBLANKROW](/dax/allnoblankrow-function-dax/?azure-portal=true)` DAX functions. These functions behave as both filter modifiers and as functions that return table objects of distinct values. These functions are mentioned now because you're likely to find documentation and formula examples that remove filters by using them.
+> The `REMOVEFILTERS` function is relatively new. In previous versions of DAX, you removed filters by using the [`ALL`](/dax/all-function-dax/?azure-portal=true) DAX function or variants including the [`ALLEXCEPT`](/dax/allexcept-function-dax/?azure-portal=true) and the [`ALLNOBLANKROW`](/dax/allnoblankrow-function-dax/?azure-portal=true) DAX functions. These functions behave as both filter modifiers and as functions that return table objects of distinct values. These functions are mentioned now because you're likely to find documentation and formula examples that remove filters by using them.
 
 In the following example, you will add a new measure to the **Sales** table that evaluates the **Revenue** measure but does so by removing filters from the **Sales Territory** table. Format the measure as currency with two decimal places.
 
@@ -116,7 +116,7 @@ When you remove filters from the **Region** and **Country** columns in the **Sal
 
 ## Preserve filters
 
-You can use the `[KEEPFILTERS](/dax/keepfilters-function-dax/?azure-portal=true)` DAX function as a filter expression in the `CALCULATE` function to preserve filters.
+You can use the [`KEEPFILTERS`](/dax/keepfilters-function-dax/?azure-portal=true) DAX function as a filter expression in the `CALCULATE` function to preserve filters.
 
 To observe how to accomplish this task, switch to **Page 1** of the report. Then, modify the **Revenue Red** measure definition to use the `KEEPFILTERS` function.
 
@@ -135,7 +135,7 @@ In the table visual, notice that only one **Revenue Red** value exists. The rea
 
 ## Use inactive relationships
 
-An inactive model relationship can only propagate filters when the `[USERELATIONSHIP](/dax/userelationship-function-dax/?azure-portal=true)` DAX function is passed as a filter expression to the `CALCULATE` function. When you use this function to engage an inactive relationship, the active relationship will automatically become inactive.
+An inactive model relationship can only propagate filters when the [`USERELATIONSHIP`](/dax/userelationship-function-dax/?azure-portal=true) DAX function is passed as a filter expression to the `CALCULATE` function. When you use this function to engage an inactive relationship, the active relationship will automatically become inactive.
 
 Review an example of a measure definition that uses an inactive relationship to calculate the **Revenue** measure by shipped dates:
 
@@ -149,6 +149,6 @@ CALCULATE (
 
 ## Modify relationship behavior
 
-You can modify the model relationship behavior when an expression is evaluated by passing the `[CROSSFILTER](/dax/crossfilter-function/?azure-portal=true)` DAX function as a filter expression to the `CALCULATE` function. It's an advanced capability.
+You can modify the model relationship behavior when an expression is evaluated by passing the [`CROSSFILTER`](/dax/crossfilter-function/?azure-portal=true) DAX function as a filter expression to the `CALCULATE` function. It's an advanced capability.
 
 The `CROSSFILTER` function can modify filter directions (from both to single or from single to both) and even disable a relationship.
