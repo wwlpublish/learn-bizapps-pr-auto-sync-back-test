@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.plan-app-project.optimize-process
+title: Optimize the business process with your solution
+metadata:
+  title: Optimize the business process with your solution
+  description: Learn to optimize your business process.
+  ms.date: 06/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/optimize-process.md)]
