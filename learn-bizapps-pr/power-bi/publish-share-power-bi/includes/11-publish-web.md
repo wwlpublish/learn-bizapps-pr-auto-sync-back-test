@@ -1,27 +1,21 @@
 In this lesson, you're going to share a Power BI report on a webpage or share it through email. This feature of Power BI is often referred to as **Publish to web**.
 
-In the Power BI service, select the report that you want to share so that it's displayed on the canvas. Then from the menu, select **Share > Embed Report > Publish to web (public)**. A dialog box will appear, explaining that you'll receive an *embed code* that will allow you to include the report on a website or in an email.
+In the Power BI service, select the report that you want to share so that it's displayed on the canvas. Then from the menu, select **Share**. A dialog box will appear so that you can share a link to the report.  
 
 ![Screenshot of the "Embed in a public website" dialog.](../media/6-6-2-embed-public-website.png)
 
-When you select **Create embed code**, Power BI presents another dialog box stating that you're about to share your data with everyone on the Internet. Verify that sharing publicly is acceptable before moving ahead.
+Power BI presents a dialog box where you can:
 
-Power BI presents a dialog box with two links:
+- Share a link using email, which shows the report as a webpage
 
-- A link that you can share in an email, which shows the report as a webpage
+- Copy the link to the report
 
-- HTML code (a link plus within an iframe) so that you can embed the report directly into a webpage
+- Share the report using Microsoft Teams
 
-For the HTML link, you can choose from predefined sizes for the embedded report, or you can modify the iframe code and customize its size.
+- Embed live data in a Microsoft PowerPoint file
 
 You can paste the email link into a browser and see your report as a webpage. You can interact with that webpage just as you would if you were viewing the report in Power BI. The following image shows a **Publish to web** page when its link was copied directly from that dialog box into a browser.
 
 ![Screenshot of a Power BI "Publish to web" page.](../media/6-6-4.png)
-
-You can also embed the iframe link into a blog post, website, or Sway.
-
-If you want to delete an embedded code that you created, Power BI can help. In Power BI, select the gear icon in the upper-right corner and then select **Manage embed codes**.
-
-The Power BI workspace shows the embed codes that you've created.
 
 For more information, see [Publish to web from Power BI](/power-bi/service-publish-to-web/?azure-portal=true).
