@@ -43,7 +43,7 @@ When you start documenting the business process, you'll want to rely on these pe
 In our example scenario, we identified these key contributors:
 
 > [!div class="mx-imgBorder"]
-> [![Diagram of key contributors showing people and their roles.](../media/contributors.png)](../media/contributors.png#lightbox)
+> ![Diagram of key contributors showing people and their roles.](../media/contributors.png)
 
 ## Example: The cost of the current gear service process
 

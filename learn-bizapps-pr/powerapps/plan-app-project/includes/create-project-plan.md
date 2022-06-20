@@ -11,7 +11,7 @@ Make sure you scope the project so that you know how much you'll be trying to ac
 To define the project scope, you should consider the following constraints:
 
 > [!div class="mx-imgBorder"]
-> [![Diagram showing time, people, budget, and feasibility constraints.](../media/constraints.png)](../media/constraints.png#lightbox)
+> ![Diagram showing time, people, budget, and feasibility constraints.](../media/constraints.png)
 
 - **Time**: Set a deadline for when you'd like to accomplish the project objectives. With smaller projects, this might be a few weeks, whereas larger projects might take several months.
 

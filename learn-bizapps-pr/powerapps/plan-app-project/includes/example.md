@@ -2,7 +2,7 @@ We reviewed the current service process and found some obvious improvements to m
 
 - Go paperless for the entire process. (We noted the savings and environmental impact as a project benefit as well.)
 
-- Automatically look up the gear being service based on the customer's purchase history.
+- Automatically look up the gear being serviced based on the customer's purchase history.
 
 - Do initial assessment checks and gather pictures if needed through the app (greatly reducing the time it takes to gather that information from four potential sales team members and end-to-end process time).
 
