@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.plan-app-project.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/30/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What is the first step to build a project plan?
+    choices:
+    - content: Determine the users who will use the app
+      isCorrect: false
+      explanation: Incorrect. It's important to know who will use the app, but not for the first step.
+    - content: Identify what problem will be resolved by the app
+      isCorrect: true
+      explanation: Correct. To justify the time and effort to build the app, it's important to first identify what problem the app will solve.
+    - content: List the goals and objectives your app will meet for users
+      isCorrect: false
+      explanation: Incorrect. This is important, but not for the first step.
+  - content: What are constraints you need to consider when defining a project scope?
+    choices:
+    - content: Connectivity, Innovation, Mobility, Training
+      isCorrect: false
+      explanation: Incorrect. These are key components when building your app, but not when defining project scope.
+    - content: Data, Processes, Testing, Upgrades
+      isCorrect: false
+      explanation: Incorrect. These are key components when building your app, but not when defining project scope.
+    - content: Time, People, Budget, Feasibility
+      isCorrect: true
+      explanation: Correct. All four of these components are constraints you should consider when defining your project scope.
+  - content: What is the overall goal of each project you plan for?
+    choices:
+    - content: Provide business value
+      isCorrect: true
+      explanation: Correct. Providing business value is the key to each app project you plan to build.
+    - content: Automate all business transactions
+      isCorrect: false
+      explanation: Incorrect. Automating all business transactions may not be worth the time and effort.
+    - content: Redesign ineffective processes
+      isCorrect: false
+      explanation: Incorrect. Redesigning ineffective processes may not be worth the time and effort.

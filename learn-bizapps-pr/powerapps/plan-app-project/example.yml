@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.plan-app-project.example
+title: Example - Identify automation opportunities
+metadata:
+  title: Example - Identify automation opportunities
+  description: Learn about some examples of opportunities to automate processes.
+  ms.date: 06/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/example.md)]
