@@ -2,7 +2,7 @@ The timeline helps app users view all activity history. You can use the timeline
 
 The timeline control provides a common framework to view activity information that's related to any table, which gives users a better understanding and helps them deliver more personalized service in an efficient manner. If you want to add a custom activity, you'll need to create an *activity type table*. An activity type table is based on the time dimensions that help track the occurrence of an action. The **Enable attachments** setting in the table will allow users to add attachments and notes to the custom activity table.
 
-For more information about activity tables, see Module 3, Unit 2, "Create a table."
+We will discuss activity tables in more detail in the next module within this learning path.
 
 To use the timeline control, you should have activity type tables in Dataverse. The timeline control can establish a relationship between the activity table and the standard table.
 
