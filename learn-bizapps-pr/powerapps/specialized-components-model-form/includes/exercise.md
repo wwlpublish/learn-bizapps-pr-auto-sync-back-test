@@ -65,7 +65,7 @@ If a relationship between two tables exists, a relationship block will appear in
 
 ## Branching capability
 
-To design a business scenario, you can create a linear business process flow. To manage a complex business process flow, you'll need to use branching. The branching condition consists of multiple logical expressions that use a combination of ***AND**/**OR** operators.
+To design a business scenario, you can create a linear business process flow. To manage a complex business process flow, you'll need to use branching. The branching condition consists of multiple logical expressions that use a combination of **AND**/**OR** operators.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of AND or OR operators in branching.](../media/branching.png)](../media/branching.png#lightbox)
