@@ -1,10 +1,10 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.build-mobile-optimized.components 
-title: Identify the components to use to make a canvas app mobile-optimized
+title: Identify components to make a canvas app mobile-optimized
 metadata: 
-  title: Identify the components to use to make a canvas app mobile-optimized
-  description: Learn about the components used to make a canvas app mobile-optimized.
-  ms.date: 6/30/2022 
+  title: Identify components to make a canvas app mobile-optimized
+  description: Learn about the components that you can use to make a canvas app mobile-optimized.
+  ms.date: 6/17/2022 
   author: jadaphillips 
   ms.author: jadaphillips 
   ms.topic: interactive-tutorial 

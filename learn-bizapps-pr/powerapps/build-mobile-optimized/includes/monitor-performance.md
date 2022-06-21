@@ -2,10 +2,10 @@ To identify bottlenecks and performance of your mobile application, you can use 
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/]
 
-For more information about monitoring the performance of a mobile app, see the following resources:
+For more information, see the following resources:
 
 - Introducing Monitor to debug apps and improve performance
 
-- Performance considerations with PowerApps
+- Performance considerations with Power Apps
 
-- PowerApps Optimization Techniques
+- Power Apps optimization techniques
