@@ -1,10 +1,10 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.specialized-components-model-form.add-timeline
-title: Add a timeline in a model driven form
+title: Add a timeline in a model-driven form
 metadata:
-  title: Add a timeline in a model driven form
-  description: Learn to add and configure the timeline control.
-  ms.date: 06/30/2022
+  title: Add a timeline in a model-driven form
+  description: Learn how to add and set up the timeline control.
+  ms.date: 06/21/2022
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial

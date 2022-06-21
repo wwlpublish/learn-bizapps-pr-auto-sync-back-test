@@ -1,4 +1,4 @@
-In this module, you learned how to use specialized controls in a model-driven app form. With these controls, you learned how to create business process flows. You then learned how to customize the form by embedding a canvas app, adding a timeline, and creating a report in the model-driven form.
+In this module, you learned how to use specialized controls in a model-driven app form. Additionally, you learned how to create business process flows by using these controls. Then, you learned how to customize the form by embedding a canvas app, adding a timeline, and creating a report in the model-driven form.
 
 For more information, see:
 
