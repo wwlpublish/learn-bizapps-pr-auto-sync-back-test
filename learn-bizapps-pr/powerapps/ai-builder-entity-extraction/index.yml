@@ -11,7 +11,7 @@ metadata:
 title: Get started with AI Builder entity extraction  
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  In this module, you’ll explore how to use AI Builder entity extraction to identify key elements from text, such as email messages, and to classify those elements into different categories. 
+  You will explore how to use AI Builder entity extraction to identify key elements from text, such as email messages, and to classify those elements into different categories. 
 abstract: |  
     In this module, you'll: 
     - Learn about AI Builder entity extraction.
