@@ -1,10 +1,10 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.specialized-components-model-form.create-report
-title: Create a report in a model driven form
+title: Create a report in a model-driven form
 metadata:
-  title: Create a report in a model driven form
-  description: Learn to create a report using the wizard and learn some performance tips.
-  ms.date: 06/30/2022
+  title: Create a report in a model-driven form
+  description: Learn how to create a report by using the wizard and receive some performance tips.
+  ms.date: 06/21/2022
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial
