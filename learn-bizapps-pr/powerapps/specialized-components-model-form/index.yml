@@ -2,7 +2,7 @@
 uid: learn-bizapps.specialized-components-model-form
 metadata:
  title: Use specialized components in a model-driven form
- description: Learn to use specialized components in a model-driven form.
+ description: Learn how to use specialized components in a model-driven form.
  ms.date: 06/30/2022
  author: jadaphillips
  ms.author: jadaphillips
@@ -11,15 +11,15 @@ metadata:
 title: Use specialized components in a model-driven form
 summary: |
   [!include[](../includes/module-banner.md)]
-  A model-driven app is a powerful app development tool within the Microsoft Power Platform. Model-driven apps can build enterprise applications that run on user desktops or mobile devices. A form is an important component of a model-driven app. Forms function as an interface between the user and data stored in Microsoft Dataverse. Forms consist of controls, data, and business logic. Apart from regular controls, there are specialized controls to perform some typical business requirements.
+  A model-driven app is a powerful app development tool within Microsoft Power Platform. Model-driven apps can build enterprise applications that run on user desktops or mobile devices. A form is an important component of a model-driven app. Forms function as an interface between the user and data that's stored in Microsoft Dataverse. Forms consist of controls, data, and business logic. Apart from regular controls, specialized controls are available to help you complete typical business requirements.
 abstract: |
-    In this module, you will:
+    In this module, you'll:
     - Learn about other components in a model-driven form.
     - Create a business process flow.
     - Embed a canvas app in a model-driven form.
     - Add a timeline in a model-driven form.
-    - Create report in a model-driven form.
-prerequisites: A Power Apps trial environment.
+    - Create a report in a model-driven form.
+prerequisites: A Microsoft Power Apps trial environment
 iconUrl: /learn/achievements/specialized-components-model-form.svg
 levels:
 - beginner
