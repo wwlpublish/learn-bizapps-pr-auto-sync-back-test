@@ -210,12 +210,12 @@ To create a general comment on the report, follow these steps:
 1. Use **@mention** to alert others to your comment so that they can respond. Select **Post** when you are finished.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Comments pane with a message and a teammate tagged with the @mention function.](../media/image-59.png)](../media/image-59.png#lightbox)
+    > [![Screenshot of the Comments pane with a message and a teammate tagged with the at mention function.](../media/image-59.png)](../media/image-59.png#lightbox)
 
    An email will be sent to the person who is tagged in the **@mention** function.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the email message sent to the person who is tagged in the @mention function.](../media/image-60.png)](../media/image-60.png#lightbox)
+    > [![Screenshot of the email message sent to the person who is tagged in the at mention function.](../media/image-60.png)](../media/image-60.png#lightbox)
 
 When the person selects **Open Comments**, a browser window will open to the report on the Power BI website, where they can reply to the comment.
 
