@@ -1,4 +1,4 @@
-You can use the `[CALCULATE](/dax/calculate-function-dax/?azure-portal=true)` DAX function to modify filter context in your formulas. The syntax for the CALCULATE function is as follows:
+You can use the [`CALCULATE`](/dax/calculate-function-dax/?azure-portal=true) DAX function to modify filter context in your formulas. The syntax for the CALCULATE function is as follows:
 
 ```dax
 CALCULATE(<expression>, [[<filter1>], <filter2>]…)
@@ -11,7 +11,7 @@ Filters can be Boolean expressions or table expressions. It's also possible to p
 When you have multiple filters, they're evaluated by using the `AND` logical operator, which means that all conditions must be `TRUE` at the same time.
 
 > [!NOTE]
-> The `[CALCULATETABLE](/dax/calculatetable-function-dax/?azure-portal=true)` DAX function performs exactly the same functionality as the `CALCULATE` function, except that it modifies the filter context that's applied to an expression that returns a table object. In this module, the explanations and examples use the `CALCULATE` function, but keep in mind that these scenarios could also apply to the `CALCULATETABLE` function.
+> The [`CALCULATETABLE`](/dax/calculatetable-function-dax/?azure-portal=true) DAX function performs exactly the same functionality as the `CALCULATE` function, except that it modifies the filter context that's applied to an expression that returns a table object. In this module, the explanations and examples use the `CALCULATE` function, but keep in mind that these scenarios could also apply to the `CALCULATETABLE` function.
 
 ## Apply Boolean expression filters
 
@@ -48,7 +48,7 @@ Revenue Expensive Products = CALCULATE([Revenue], 'Product'[List Price] > 1000)
 
 A table expression filter applies a table object as a filter. It could be a reference to a model table; however, it's likely a DAX function that returns a table object.
 
-Commonly, you'll use the `[FILTER](/dax/filter-function-dax/?azure-portal=true)` DAX function to apply complex filter conditions, including those that can't be defined by a Boolean filter expression. The `FILTER` function is classed as an iterator function, and so you would pass in a table, or table expression, and an expression to evaluate for each row of that table.
+Commonly, you'll use the [`FILTER`](/dax/filter-function-dax/?azure-portal=true) DAX function to apply complex filter conditions, including those that can't be defined by a Boolean filter expression. The `FILTER` function is classed as an iterator function, and so you would pass in a table, or table expression, and an expression to evaluate for each row of that table.
 
 The `FILTER` function returns a table object with exactly the same structure as one that the table passed in. Its rows are a subset of those rows that were passed in, meaning the rows where the expression evaluated as `TRUE`.
 
@@ -106,4 +106,4 @@ Switching the first column of the table visual from **Region** to **Color** will
 
 The **Revenue Red** measure formula evaluates the **Revenue** measure by adding a filter on the **Color** column (to red) in the **Product** table. Consequently, in this visual that groups by color, the measure formula overwrites the filter context with a new filter.
 
-This result might or might not be what you want. The next unit introduces the `[KEEPFILTERS](/dax/keepfilters-function-dax/?azure-portal=true)` DAX function, which is a filter modification function that you can use to preserve filters rather than overwrite them.
+This result might or might not be what you want. The next unit introduces the [`KEEPFILTERS`](/dax/keepfilters-function-dax/?azure-portal=true) DAX function, which is a filter modification function that you can use to preserve filters rather than overwrite them.

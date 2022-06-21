@@ -10,7 +10,9 @@ As part of Microsoft Cloud for Sustainability:
 
 The world is facing an extraordinary challenge due to industrialization and overuse of limited resources. Climate change is already disrupting operations, supply chains, and economies. 
 
-Amid this uncertainty is the clear notion that organizations of all types, sizes, and sectors will need to fundamentally transform common practices to meet a new sustainability imperative. Essentially, companies need to operate with less environmental impact while changing their business to meet the demands of a changing world. 
+Amid this uncertainty is the clear notion that organizations of all types, sizes, and sectors will need to fundamentally transform common practices to meet a new sustainability imperative. Essentially, companies need to operate with less environmental impact while changing their business to meet the demands of a changing world.
+
+[![Picture showing our climate future.](../media/climate-future.png)](../media/climate-future.png#lightbox)
 
 The corporate vision and strategy will need to align with sustainability ambitions, and that cultural shift will need to happen across the organization, with sustainability a part of every organization’s core business. 
 

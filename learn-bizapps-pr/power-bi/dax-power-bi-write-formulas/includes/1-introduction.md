@@ -22,7 +22,7 @@ Calculated tables can be useful in various scenarios:
 
 ### Date tables
 
-Date tables are required to apply special time filters known as *time intelligence*. DAX time intelligence functions only work correctly when a date table is set up. When your source data doesn't include a date table, you can create one as calculated tables by using the `[CALENDAR](/dax/calendar-function-dax/?azure-portal=true)` or `[CALENDARAUTO](/dax/calendarauto-function-dax/?azure-portal=true)` DAX functions.
+Date tables are required to apply special time filters known as *time intelligence*. DAX time intelligence functions only work correctly when a date table is set up. When your source data doesn't include a date table, you can create one as calculated tables by using the [`CALENDAR`](/dax/calendar-function-dax/?azure-portal=true) or [`CALENDARAUTO`](/dax/calendarauto-function-dax/?azure-portal=true) DAX functions.
 
 ### Role-playing dimensions
 
@@ -31,7 +31,7 @@ When two model tables have multiple relationships, it could be because your mode
 > [!div class="mx-imgBorder"]
 > [![The image shows two tables: Sales and Date. There are two relationships between the tables. Only one relationship is active.](../media/dax-sales-data-relationships-1-ss.png)](../media/dax-sales-data-relationships-1-ss.png#lightbox)
 
-Microsoft Power BI models only allow one active relationship between tables, which in the model diagram is indicated as a solid line. The active relationship is used by default to propagate filters, which in this case would be from the **Date** table to the **OrderDateKey** column in the **Sales** table. Any remaining relationships between the two tables are inactive. In a model diagram, the relationships are represented as dashed lines. Inactive relationships are only used when they're expressly requested in a calculated formula by using the `[USERELATIONSHIP](/dax/userelationship-function-dax/?azure-portal=true)` DAX function.
+Microsoft Power BI models only allow one active relationship between tables, which in the model diagram is indicated as a solid line. The active relationship is used by default to propagate filters, which in this case would be from the **Date** table to the **OrderDateKey** column in the **Sales** table. Any remaining relationships between the two tables are inactive. In a model diagram, the relationships are represented as dashed lines. Inactive relationships are only used when they're expressly requested in a calculated formula by using the [`USERELATIONSHIP`](/dax/userelationship-function-dax/?azure-portal=true) DAX function.
 
 Perhaps a better model design could have two date tables, each with an active relationship to the **Sales** table. Thus, report users can filter by order date or ship date, or both at the same time. A calculated table can duplicate the **Date** table data to create the **Ship Date** table.
 

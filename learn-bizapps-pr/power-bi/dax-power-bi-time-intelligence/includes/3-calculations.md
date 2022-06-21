@@ -1,6 +1,6 @@
 Other DAX time intelligence functions exist that are concerned with returning a single date. You'll learn about these functions by applying them in two different scenarios.
 
-The `[FIRSTDATE](/dax/firstdate-function-dax/?azure-portal=true)` and the `[LASTDATE](/dax/lastdate-function-dax/?azure-portal=true)` DAX functions return the first and last date in the current filter context for the specified column of dates.
+The [`FIRSTDATE`](/dax/firstdate-function-dax/?azure-portal=true) and the [`LASTDATE`](/dax/lastdate-function-dax/?azure-portal=true) DAX functions return the first and last date in the current filter context for the specified column of dates.
 
 ## Calculate new occurrences
 
@@ -108,7 +108,7 @@ The measure returns BLANKs for June 2020 because no record exists for the last d
 
 Filtering by the last date in filter context has inherent problems: A recorded date might not exist because it hasn't yet happened, or perhaps because stock balances aren't recorded on weekends.
 
-Your next step is to adjust the measure formula to determine the last date *that has a non-BLANK result* and then filter by that date. You can achieve this task by using the `[LASTNONBLANK](/dax/lastnonblank-function-dax/?azure-portal=true)` DAX function.
+Your next step is to adjust the measure formula to determine the last date *that has a non-BLANK result* and then filter by that date. You can achieve this task by using the [`LASTNONBLANK`](/dax/lastnonblank-function-dax/?azure-portal=true) DAX function.
 
 Use the following measure definition to modify the **Stock on Hand** measure.
 
