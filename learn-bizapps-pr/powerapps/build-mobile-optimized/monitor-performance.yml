@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-mobile-optimized.monitor-performance 
+title: Monitor the performance of a mobile app
+metadata: 
+  title: Monitor the performance of a mobile app
+  description: Learn how to monitor the performance of a mobile app.
+  ms.date: 6/17/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-apps 
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/monitor-performance.md)] 
