@@ -40,7 +40,7 @@ To add an address input field to an app, follow these steps:
 
 ## Test the Address input field
 
-To test the Address input field, follow these steps:
+To test the **Address input** field, follow these steps:
 
 1.  Press the **F5** key on your keyboard or select the play button for the app.
 
