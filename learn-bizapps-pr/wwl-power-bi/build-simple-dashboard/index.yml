@@ -1,14 +1,14 @@
 ### YamlMime:Module
 uid: learn-bizapps.wwl.build-simple-dashboard
 metadata:
-  title: How to build a simple dashboard
-  description: "How to build a simple dashboard"
+  title: How to build a dashboard
+  description: "How to build a dashboard"
   ms.date: 06/22/2022
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
   ms.prod: learning-power-apps
-title: How to build a simple dashboard
+title: How to build a dashboard
 summary: Power BI helps business users and developers alike to easily analyze, visualize, and collaborate on data. This module will teach you how to do all of that without effecting your underlying dataset.
 abstract: |
   In this module, you will:
