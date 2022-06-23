@@ -30,7 +30,7 @@ To launch the Power Apps portals Studio, follow these steps:
 1. Select your portal app (Type = Portal).
 1. Select **Edit**, which will launch the portals Studio.
 
-![Screenshot of steps to launch portals studio in makers environment.](../media/launch-portal-studio.png)
+![Screenshot of steps to launch portals studio in makers environment.](../media/launch-portals-studio.png)
 
 ### Locate the webpage
 
