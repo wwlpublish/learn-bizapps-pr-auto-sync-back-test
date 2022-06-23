@@ -1,21 +1,21 @@
-AI Builder prebuilt model components can provide a rich user experience in your applications. One type of Power Apps app where you can include these components is a canvas app. For this unit, you'll learn about the *business card reader* that allows business card detection and extracts their information.
+In addition to adding prebuilt model components to model-driven apps, you can include these components in a canvas app. In this unit, you'll add the **business card reader** component to a canvas app from Power Apps.
 
 ## Add the business card reader
 
-The business card reader component is added to a canvas screen by following these steps:
+To add the business card reader component to a canvas app, follow these steps:
 
 1. In the top menu for a selected screen in the canvas app studio, select the **Insert** tab.
 
-1. In the AI Builder group, select **Business card reader**.
+1. In the **AI Builder** group, select **Business card reader**.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of Power Apps with the Insert tab selected and A I Builder dropped down to show Business card reader.](../media/business-card-reader-2.png)](../media/business-card-reader-2.png#lightbox)
+> [![Screenshot of Power Apps with the Insert tab selected and the A I Builder menu expanded to show Business card reader.](../media/business-card-reader-2.png)](../media/business-card-reader-2.png#lightbox)
 
-## Configure the business card reader
+## Set up the business card reader
 
-After you select the business card reader component you want to add to the screen, you need to capture the results of the reader. To capture these results, you need to configure input fields on a form or labels on the screen and link them to the business card reader values.
+After you've selected the business card reader component that you want to add to the screen, you'll need to capture the results of the reader. To capture these results, you’ll need to set up input fields on a form, or set up labels on the screen, and then link them to the business card reader values.
 
-In the following video, you walk through the configuration steps by using a form with a Microsoft Dataverse table that captures the information on a contact record.
+The following video demonstrates the configuration steps by using a form with a Microsoft Dataverse table that captures the information on a contact record.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/]
 
