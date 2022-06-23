@@ -1,10 +1,10 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.incorporate-maps-address.configure-address-input 
-title: Configure the address input in an app
+title: Set up the address input in an app
 metadata: 
-  title: Configure the address input in an app
-  description: Learn to configure the address input in an app.
-  ms.date: 06/30/2022 
+  title: Set up the address input in an app
+  description: Learn how to set up the address input in an app.
+  ms.date: 06/22/2022 
   author: jadaphillips 
   ms.author: jadaphillips 
   ms.topic: interactive-tutorial 

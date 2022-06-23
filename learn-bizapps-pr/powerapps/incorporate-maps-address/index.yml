@@ -2,8 +2,8 @@
 uid: learn-bizapps.incorporate-maps-address 
 metadata: 
  title: Incorporate maps and address input in your app
- description: In this module, the maps and address input controls will be evaluated in relation to the business value that they add to the Power Apps. 
- ms.date: 06/30/2022  
+ description: In this module, you'll learn about the maps and address input controls in relation to the business value that they add to Power Apps. 
+ ms.date: 06/22/2022  
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
@@ -11,15 +11,15 @@ metadata:
 title: Incorporate maps and address input in your app
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  Microsoft Power Apps is a powerful platform to build applications that can run on a user’s desktop or mobile device. There are several Power App geolocational controls that can be added to Power Apps to provide robust functionality that previously could only be done through complex coding and multiple controls all working in tandem. In this module, the maps and address input controls will be evaluated in relation to the business value that they add to the Power Apps.  
+Microsoft Power Apps is a powerful platform that you can use to build applications that can run on desktop or mobile devices. Power Apps offers several geolocational controls that you can add to apps to provide robust functionality, which was previously done through complex coding and multiple controls that worked in tandem. This module reviews the maps and address input controls in relation to the business value that they add to apps from Power Apps.
 abstract: |  
-    In this module, you will: 
-    - Identify the use cases for maps and address inputs in a canvas app
-    - Identify how a map and address inputs interact with each other in a canvas app
-    - Build a canvas app with map and address input fields 
-    - Identify the aspects of interactive maps
-    - Pin locations on a map from a data source
-    - Understand Geolocation and signals in a canvas app
+    In this module, you'll:
+    - Identify the use cases for maps and address inputs in a canvas app.
+    - Identify how a map and address inputs interact with each other in a canvas app.
+    - Build a canvas app with map and address input fields.
+    - Identify the aspects of interactive maps.
+    - Pin locations on a map from a data source.
+    - Learn about geolocation and signals in a canvas app.
 prerequisites: None
 iconUrl: /learn/achievements/incorporate-maps-address.svg  
 levels:  
