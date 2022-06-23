@@ -27,7 +27,7 @@ Make sure that you have everything that you need to create your model. You can a
 
 Every model type has its own set of steps for creating a model. The following video demonstrates the steps for training and publishing a custom model, which in this case is **Category Classification**.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50AqL]
 
 ## Publish your model
 

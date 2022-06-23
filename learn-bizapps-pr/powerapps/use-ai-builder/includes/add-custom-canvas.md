@@ -21,4 +21,4 @@ After you've selected the object detector that you want to add to the screen, yo
 
 The following video demonstrates the configuration steps by using two galleries to display the properties that you'd use to process an image with the object detector.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50ngO]

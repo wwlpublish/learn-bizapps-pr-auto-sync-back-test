@@ -19,6 +19,6 @@ After you've selected the business card reader component that you want to add to
 
 The following video demonstrates the configuration steps and how you can test the component in your model-driven app.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50ngM]
 
 You've now learned how to add a prebuilt model component to a model-driven app. Next, you'll learn how to add the same type of component to a canvas app.

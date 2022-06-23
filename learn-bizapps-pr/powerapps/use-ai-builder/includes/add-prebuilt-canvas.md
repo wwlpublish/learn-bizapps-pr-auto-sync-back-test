@@ -17,6 +17,6 @@ After you've selected the business card reader component that you want to add to
 
 The following video demonstrates the configuration steps by using a form with a Microsoft Dataverse table that captures the information on a contact record.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50pJ1]
 
 You've now learned how to add a prebuilt model component to a canvas app. Next, you'll learn how to add a custom one.
