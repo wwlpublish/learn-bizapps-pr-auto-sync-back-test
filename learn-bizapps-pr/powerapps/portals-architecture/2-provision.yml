@@ -9,7 +9,7 @@ metadata:
   ms.author: dbeasley 
   ms.topic: interactive-tutorial 
   ms.prod: learning-power-apps-portals 
-durationInMinutes: 2 
+durationInMinutes: 10
 content: | 
  [!include[](../includes/unit-banner.md)] 
  [!include[](includes/2-provision.md)] 
