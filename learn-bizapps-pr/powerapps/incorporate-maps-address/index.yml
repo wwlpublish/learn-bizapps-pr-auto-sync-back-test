@@ -11,7 +11,7 @@ metadata:
 title: Incorporate maps and address input in your app
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  Microsoft Power Apps is a powerful platform that you can use to build applications that can run on desktop or mobile devices. Power Apps offers several geolocational controls that you can add to apps to provide robust functionality, which was previously done through complex coding and multiple controls that worked in tandem. This module reviews the maps and address input controls in relation to the business value that they add to apps from Power Apps.
+  Microsoft Power Apps offers several geolocational controls that you can add to apps to provide robust functionality, which was previously done through complex coding and multiple controls that worked in tandem. This module reviews the maps and address input controls in relation to the business value that they add to apps from Power Apps.
 abstract: |  
     In this module, you'll:
     - Identify the use cases for maps and address inputs in a canvas app.
