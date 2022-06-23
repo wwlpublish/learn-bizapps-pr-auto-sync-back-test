@@ -1,12 +1,12 @@
 Contextual variables are similar to global variables except they are only referenced on the screen where you create them. Although it’s possible to set the user's name to a variable to reference throughout your app, there are still advantages to the fact that contextual variables cannot be used on other screens.
 
-Sometimes you have functionality you want to use on multiple screens that is variable driven. For example, many apps use pop-up dialog boxes to confirm things like deleting a record. A common way to implement this is to set a Contextual variable to true when the user selects the delete button. You do that by setting the **OnSelect** property of the button to the following.
+Sometimes you have functionality you want to use on multiple screens that is variable driven. For example, many apps use pop-up dialog boxes to confirm things like deleting a record. A common way to implement is to set a Contextual variable to true when the user selects the delete button. You do that by setting the **OnSelect** property of the button to the following.
 
 ```
 UpdateContext({varShowPopUp: true})
 ```
 
-You then set the **Visible** property of the pop-up controls to **varShowPopUp**. This is similar to the example from the global variables. The major difference is reusability. If you copy the controls (using Ctrl+C) to an additional screen, then you will have two instances of **varShowPopUp**. These two instances use the same name, but can have different values. The value of **varShowPopUp** on screen1 does not affect the value of **varShowPopUp** on screen2 because each contextual variable, even when they have the same name, are scoped to the screen they are on.
+You then set the **Visible** property of the pop-up controls to **varShowPopUp**. This is similar to the example from the global variables. The major difference is reusability. If you copy the controls (using Ctrl+C) to another screen, then you will have two instances of **varShowPopUp**. These two instances use the same name, but can have different values. The value of **varShowPopUp** on screen1 does not affect the value of **varShowPopUp** on screen2 because each contextual variable, even when they have the same name, are scoped to the screen they are on.
 
 Typically reusing variable names like this is not recommended because it can be confusing, but it’s great if you want to reuse functionality independently on different screens.
 
