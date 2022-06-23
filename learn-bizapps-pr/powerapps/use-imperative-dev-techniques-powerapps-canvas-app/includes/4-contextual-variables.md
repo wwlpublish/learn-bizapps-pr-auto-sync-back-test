@@ -1,4 +1,4 @@
-Contextual variables are similar to global variables except they are only referenced on the screen where you create them. Although it’s not possible to set the user's name to a variable to reference throughout your app, there are still advantages to the fact that contextual variables cannot be used on other screens.
+Contextual variables are similar to global variables except they are only referenced on the screen where you create them. Although it’s possible to set the user's name to a variable to reference throughout your app, there are still advantages to the fact that contextual variables cannot be used on other screens.
 
 Sometimes you have functionality you want to use on multiple screens that is variable driven. For example, many apps use pop-up dialog boxes to confirm things like deleting a record. A common way to implement this is to set a Contextual variable to true when the user selects the delete button. You do that by setting the **OnSelect** property of the button to the following.
 
