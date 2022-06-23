@@ -44,7 +44,7 @@ Power Apps portals deliver a complete content management system out of the box, 
 
 The following table describes the key capabilities of Power Apps portals.
 
-|                                                   |   Capability                | Description                                                  |
+|         Capability icon                                          |   Capability                | Description                                                  |
 | :----------------------------------------------------------: | ----------------- | :----------------------------------------------------------- |
 |         :::image type="icon" source="../media/1-icon-content.png":::         | **Content**       | Seamless, responsive, and customizable web design for any user on any device. Full tracking and context are available because Dataverse is the operating system for all interactions. |
 |         :::image type="icon" source="../media/1-icon-form.png":::          | **Functionality** | Quickly build secure, functional websites to interact with Dataverse with no coding required. Track customer interactions across all channels and capture them in a custom Power Apps or Dynamics 365 instance. |
