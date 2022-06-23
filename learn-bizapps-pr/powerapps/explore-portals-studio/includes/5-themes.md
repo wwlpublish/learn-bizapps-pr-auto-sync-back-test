@@ -11,7 +11,7 @@ You can turn on the **Enable basic themes** mode to allow makers to change to a 
 
 ## Edit CSS
 
-Power Apps portals Studio allows makers to directly edit CSS files that are applied to a portal or to upload a custom CSS file.   
+Power Apps portals Studio allows makers to directly edit CSS files that are applied to a portal or to upload a custom CSS file.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of using the edit CSS to upload customer CSS file.](../media/5-edit-css-ss.png)](../media/5-edit-css-ss.png#lightbox)
