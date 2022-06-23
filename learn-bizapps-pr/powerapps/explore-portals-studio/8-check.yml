@@ -13,7 +13,7 @@ durationInMinutes: 6
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: Which component is not part of the Power Apps portals Studio?
+  - content: Which component isn't part of the Power Apps portals Studio?
     choices: 
     - content: Canvas
       isCorrect: false 

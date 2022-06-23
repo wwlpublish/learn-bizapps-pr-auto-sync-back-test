@@ -9,7 +9,7 @@ Select the component from the toolbelt to add it to the webpage canvas. Dependin
 
 | Component      | Description                                                  |
 | -------------- | ------------------------------------------------------------ |
-| Section layout | These components will allow the maker to place a one, two, or three-column section on a page. Additional components can be embedded within the sections. |
+| Section layout | These components will allow the maker to place a one, two, or three-column section on a page. Other components can be embedded within the sections. |
 | Text           | Places a static text box on the webpage.                     |
 | Image          | Places an image control on the page. A maker can choose an existing image or upload a new image. The image file will be stored as an attachment of the web file record in the portal metadata. |
 | IFrame         | The IFrame will embed a particular URL from another website or application. |

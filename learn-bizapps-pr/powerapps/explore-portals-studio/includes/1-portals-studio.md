@@ -26,8 +26,8 @@ The portals Studio provides the tools that makers can use to modify and add cont
 
 | Section | Name | Description |
 | ------- | ---- | ----------- |
-| 1 | Command bar | Create a new webpage from an existing template<br />Delete webpage components<br />Displays autosave status<br />Sync configuration with updates from Dataverse<br />Clear cache and browse to website to view current page<br />Provide feedback |
-| 2 | Toolbelt | Navigate the site hierarchy and organize webpages<br />Add components to webpages such as section layouts and content components<br />Enable custom themes and upload custom CSS<br />View and select portal templates to edit<br />Change common portal settings (e.g. Table Permissions)<br />Enable and customize progressive web app |
+| 1 | Command bar | Create a new webpage from an existing template<br />Delete webpage components<br />Displays AutoSave status<br />Sync configuration with updates from Dataverse<br />Clear cache and browse to website to view current page<br />Provide feedback |
+| 2 | Toolbelt | Navigate the site hierarchy and organize webpages<br />Add components to webpages such as section layouts and content components<br />Enable custom themes and upload custom CSS<br />View and select portal templates to edit<br />Change common portal settings (for example, Table Permissions)<br />Enable and customize progressive web app |
 | 3 | Canvas | Workspace to arrange, add, and edit static and dynamic content to a portal webpage |
 | 4 | Footer | Provides a hyperlink to open up source code to allow editing of the current webpage |
 | 5 | Properties pane | Displays properties of the currently selected webpage or component and allows the setting of specific component properties |

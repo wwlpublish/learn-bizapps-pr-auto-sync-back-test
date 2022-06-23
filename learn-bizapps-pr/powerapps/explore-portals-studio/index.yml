@@ -2,7 +2,7 @@
 uid: learn-bizapps.explore-portals-studio 
 metadata: 
  title: Explore Power Apps portals Studio
- description: Portal makers spend the majority of their time configuring portals by using Microsoft Power Apps portals Studio. It is important that portal makers have a full understanding of the capabilities and also the limitations of using portals Studio. This module will focus on understanding and using Power Apps portals Studio to create and customize portal websites. Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, table lists, and table forms.
+ description: Portal makers spend most their time configuring portals by using Microsoft Power Apps portals Studio. It's important that portal makers have a full understanding of the capabilities and also the limitations of using portals Studio. This module will focus on understanding and using Power Apps portals Studio to create and customize portal websites. Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, table lists, and table forms.
  ms.date: 06/23/2022
  author: DaveBeasley  
  ms.author: dbeasley  
@@ -12,7 +12,7 @@ title: Explore Power Apps portals Studio
 summary: |  
   [!include[](../includes/module-banner.md)]
   [!include[](../includes/power-pages-banner.md)] 
-  Portal makers spend the majority of their time configuring portals by using Microsoft Power Apps portals Studio. It is important that portal makers have a full understanding of the capabilities and also the limitations of using portals Studio. This module will focus on understanding and using Power Apps portals Studio to create and customize portal websites. Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, table lists, and table forms.
+  Portal makers spend most their time configuring portals by using Microsoft Power Apps portals Studio. It's important that portal makers have a full understanding of the capabilities and also the limitations of using portals Studio. This module will focus on understanding and using Power Apps portals Studio to create and customize portal websites. Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, table lists, and table forms.
 abstract: |  
     In this module, you will: 
     - Learn how to launch and run Power Apps portals Studio from the maker portal.

@@ -1,19 +1,19 @@
 The purpose of this hands-on-lab is to edit webpage source code by using Power Apps portals Studio.
 
-At the end of these exercises, you will be able to:
+At the end of these exercises, you'll be able to:
 
 - Open portals Studio to edit your portal.
 - View the source code of a webpage section.
 - Add your own HTML code directly to a portal page or section.
 
-For this exercise, you will need to have the following parameters in your environment:
+For this exercise, you'll need to have the following parameters in your environment:
 
-1. A Power Apps portal that is provisioned. If you do not have a Power Apps portal available, follow the [Create Portal](/power-apps/maker/portals/create-portal/?azure-portal=true) instructions to create one.
+1. A Power Apps portal that is provisioned. If you don't have a Power Apps portal available, follow the [Create Portal](/power-apps/maker/portals/create-portal/?azure-portal=true) instructions to create one.
 1. Access to the Power Apps maker portal.
 
 ## Scenario
 
-To ensure a consistent website appearance and define the *accessible* content that can be located and indexed, it is important to be able to edit HTML content of a page. In this exercise, you will add HTML code to the webpage copy section by using the Power Apps portals Studio Code Editor, and then you will follow these processes:
+To ensure a consistent website appearance and define the *accessible* content that can be located and indexed, it's important to be able to edit HTML content of a page. In this exercise, you'll add HTML code to the webpage copy section by using the Power Apps portals Studio Code Editor, and then you'll follow these processes:
 
 1. Open your portal in Power Apps portals Studio.
 2. Create a new landing webpage.
@@ -49,7 +49,7 @@ To edit the source code, follow these steps:
 
 1. Select the **Source code editor** (**</>**) icon.
 
-![Screenshot of the select column in the first section and open source code.](../media/select-first-section.png)
+	![Screenshot of the select column in the first section and open source code.](../media/select-first-section.png)
 
 1. Insert the following HTML code into the content of the first column: 
 
@@ -61,11 +61,11 @@ To edit the source code, follow these steps:
     <p style="font-size: xxx-large;">This is big text!</p>
     ```
 
-![Screenshot of the custom HTML being added to the content of the webpage.](../media/append-html.png)
+	![Screenshot of the custom HTML being added to the content of the webpage.](../media/append-html.png)
 
 1. Select **Save**.
 
-![Screenshot of the save inserted HTML.](../media/save-added-html.png)
+	![Screenshot of the save inserted HTML.](../media/save-added-html.png)
 
 You should see the formatted text on the canvas.
 ![Screenshot of the html added.](../media/html-added.png)

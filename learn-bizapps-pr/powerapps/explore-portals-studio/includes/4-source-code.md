@@ -1,4 +1,4 @@
-Most of the design, layout, and addition of specific components can be accomplished by using point-and-click methods in Power Apps portals Studio. However, instances might occur where you will need to modify specific components or add custom HTML, JavaScript, CSS, or Liquid code to a particular page or section of a webpage.
+Most of the design, layout, and addition of specific components can be accomplished by using point-and-click methods in Power Apps portals Studio. However, instances might occur where you'll need to modify specific components or add custom HTML, JavaScript, CSS, or Liquid code to a particular page or section of a webpage.
 
 In the portals Studio canvas, you can select a specific section and then select the **Code Editor** (**</>**) button in the footer to expand the Code Editor, which will display the source code of the specific webpage. You can edit or add custom code through this editor.
 
