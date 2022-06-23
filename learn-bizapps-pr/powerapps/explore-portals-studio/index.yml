@@ -3,7 +3,7 @@ uid: learn-bizapps.explore-portals-studio
 metadata: 
  title: Explore Power Apps portals Studio
  description: Portal makers spend the majority of their time configuring portals by using Microsoft Power Apps portals Studio. It is important that portal makers have a full understanding of the capabilities and also the limitations of using portals Studio. This module will focus on understanding and using Power Apps portals Studio to create and customize portal websites. Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, table lists, and table forms.
- ms.date: 07/07/2020  
+ ms.date: 06/23/2022
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
@@ -40,6 +40,7 @@ units:
 - learn-bizapps.explore-portals-studio.4-source-code 
 - learn-bizapps.explore-portals-studio.5-themes 
 - learn-bizapps.explore-portals-studio.6-templates 
+- learn-bizapps.explore-portals-studio.settings 
 - learn-bizapps.explore-portals-studio.7-exercise 
 - learn-bizapps.explore-portals-studio.8-check 
 - learn-bizapps.explore-portals-studio.9-summary 
