@@ -14,20 +14,20 @@ Power Apps portals implements many extensions that are specific to the portals a
 - Chart
 - Power BI
 - Tablelist
-- Tableview
+- entityview
 - Fetchxml
 
 In the following example, the **Active Currencies** view is being loaded and all returned records are displayed. In portals Studio, this code produces output because of the implicit design-time privileges of the maker. However, on the portal, the user needs to have Read privileges assigned on the **currency** table for the fragment to return any data.
 
 ```twig
-{% tableview logical_name:'transactioncurrency', name:'Active Currencies' %}
-<p>We support {{ tableview.total_records }} currencies.</p>
+{% entityview logical_name:'transactioncurrency', name:'Active Currencies' %}
+<p>We support {{ entityview.total_records }} currencies.</p>
 <ul>
-  {% for cur in tableview.records -%}
+  {% for cur in entityview.records -%}
   <li>{{ cur.currencyname }}</li>
   {% endfor %}
 </ul>
-{% endtableview %}
+{% endentityview %}
 ```
 
 The output would look like the following example:
