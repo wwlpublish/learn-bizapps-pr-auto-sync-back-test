@@ -1,6 +1,6 @@
 Users of Power Apps portals are tracked in Microsoft Dataverse as contacts.
 
-The Portal Management model-driven app provides access to the contact table and has forms to manage passwords, view portal-specific contact information, and provide registration and profile management forms for the portal.
+The Portal Management model-driven app provides access to the contact table and has forms to manage security, view portal-specific contact information, and provide registration and profile management forms for the portal.
 
 ![Screenshot of the contact web authentication form.](../media/4-contact-web-authentication-form.png)
 
@@ -26,20 +26,17 @@ Portal administrators can choose to enable or disable any combination of authent
 
 ## Authorization
 
-After the user is authenticated and associated with a contact, Power Apps portals uses numerous entities to define authorization, that is, what a user is allowed to do. Selecting **Share** from the portal app options will provide information on how to share the portal app with internal and external users.
+After the user is authenticated and associated with a contact, Power Apps portals uses many tables to define authorization, that is, what a user is allowed to do. Selecting **Share** from the portal app options will provide information on how to share the portal app with internal and external users.
 
 ![Screenshot of the Portals security constructs.](../media/1-7-portal-security.png)
 
-**Web role** allows an administrator to control user access to portal content and Dataverse records.
+**Web role** allows administrators to control user access to portal content and Dataverse records. A web role can be associated with the following records:
 
-![Diagram of the security web roles permissions.](../media/4-security-web-roles-permissions.png)
-
-A web role can be associated with the following records:
-
-- **Website permissions** - Define what (if any) front-side editing permissions that a web role should have.
-- **Webpage access rules** - Define what pages are visible to a web role and what actions can be taken.
-- **Table permissions** - Define what access a web role has to individual Dataverse entities.
+- **Website Access Permissions** - Define what front-side content preview and editing permissions a web role should have.
+- **Web Page Access Control Rules** - Define what pages are visible to a web role and what actions can be taken.
+- **Table Permissions** - Define what access a web role has to individual Dataverse tables.
+- **Column Permission Profiles** - Define what access a web role has to individual columns when a Dataverse table is accessed using Portals Web API.
 
 A portal contact might be assigned to one or more web roles at a time. Access rules and permissions of individual roles are combined to calculate the resulting permissions set.
 
-One of the web roles in the portal can be marked as **Anonymous** and the other as **Authenticated**. These roles allow you to apply permissions and access rules to all portal users based on whether they are signed in or if they can access the site anonymously.
+One of the web roles in the portal can be marked as **Anonymous** and the other as **Authenticated**. These roles allow you to apply permissions and access rules to all portal users based on whether they're signed in or if they access the site anonymously.
