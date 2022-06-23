@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.test-app.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/30/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: interactive-tutorial 
+ ms.prod: learning-power-apps 
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following test types is performed programmatically within fractions of a second?
+    choices: 
+    - content: User Acceptance
+      isCorrect: false 
+      explanation: Incorrect. This test takes time, and it is to ensure that what has been built by the makers matches the requirements initially requested by the user.
+    - content: Unit
+      isCorrect: true 
+      explanation: Correct. These tests are repeatable and run programmatically within fractions of a second.
+    - content: End-to-End
+      isCorrect: false 
+      explanation: Incorrect. These tests are done by following a test scenario that\'s close to the use case of the actual business process.
+  - content: Which of the following tools can be used to write, organize, and automate tests for canvas apps?
+    choices: 
+    - content: Solution Checker
+      isCorrect: false 
+      explanation: Incorrect. Solution checker is a tool that allows you to perform static analysis check on your solutions against a set of best practice rules and quickly identify these problematic patterns.
+    - content: EasyRepro
+      isCorrect: false 
+      explanation: Incorrect. It's a testing tool, but doesn't write, organize, and automate tests for canvas apps.
+    - content: Test Studio
+      isCorrect: true 
+      explanation: Correct. You can use Test Studio to write, organize, and automate tests for canvas apps.
+  - content: Which of the following components is analyzed by the Solution Checker?
+    choices: 
+    - content: Web resources
+      isCorrect: true 
+      explanation: Correct. Solution Checker analyzes web resource components.
+    - content: Power Pages
+      isCorrect: false 
+      explanation: Incorrect. The solution checker analyzes three solution components, but this isn't one of them.
+    - content: Dataverse Themes
+      isCorrect: false 
+      explanation: Incorrect. The solution checker analyzes three solution components, but this isn't one of them.
