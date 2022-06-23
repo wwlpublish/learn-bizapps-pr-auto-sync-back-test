@@ -1,4 +1,4 @@
-Microsoft Power Platform provides a number of tools to help you administer, configure, and fine-tune a Power Apps portal to meet specific business requirements.
+Microsoft Power Platform provides many tools to help you administer, configure, and fine-tune a Power Apps portal to meet specific business requirements.
 
 ## Portals Studio
 

@@ -11,9 +11,9 @@ A portal requires a Dataverse database to be available in the environment to ins
 
 ## Portals solutions
 
-Numerous Dataverse solutions are installed in the environment. These solutions contain a model-driven portal management app, tables, forms, views, and processes to store and manage the portal metadata. Additional solutions are installed to enable the functionality of specific templates. Solutions contain several actions, classic workflows, and plug-ins that are deployed to automate the creation of specific portal rows and assist with the management of portal users.
+Numerous Dataverse solutions are installed in the environment. These solutions contain a model-driven portal management app, tables, forms, views, and processes to store and manage the portal metadata. Other solutions are installed to enable the functionality of specific templates. Solutions contain several actions, classic workflows, and plug-ins that are deployed to automate the creation of specific portal rows and assist with the management of portal users.
 
-The solutions are installed as part of the portal provisioning process and should not be installed individually.
+The solutions are installed as part of the portal provisioning process and shouldn't be installed individually.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Power Apps Portal Solutions list.](../media/1-portal-solutions-ss.png)](../media/1-portal-solutions-ss.png#lightbox)
@@ -29,7 +29,7 @@ One of the distinctive features of Power Apps portals is using Dataverse as a ce
 
 ## Portals web app
 
-A Microsoft Azure web app is configured to run the portal site by using the portal solutions and metadata. The web app is automatically configured in the same region as the Dataverse environment. This web app is accessible through a unique URL that is specified during the provisioning process. The web app is not customizable; however, portal administrators have a number of configuration options available to them. For example, they can configure the portal web app to capture detailed diagnostics logs for troubleshooting purposes.
+A Microsoft Azure web app is configured to run the portal site by using the portal solutions and metadata. The web app is automatically configured in the same region as the Dataverse environment. This web app is accessible through a unique URL that is specified during the provisioning process. The web app isn't customizable; however, portal administrators have many configuration options available to them. For example, they can configure the portal web app to capture detailed diagnostics logs for troubleshooting purposes.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot example of the Portals web app.](../media/1-portal-server-ss.png)](../media/1-portal-server-ss.png#lightbox)

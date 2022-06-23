@@ -1,14 +1,14 @@
 The purpose of this exercise is to create a webpage by using the Power Apps portals Studio.
 
-At the end of these exercises, you will be able to:
+At the end of these exercises, you'll be able to:
 
 - Open the portals Studio to edit your portal.
 - Create a new webpage by using existing page templates.
 - Add content to your webpage.
 
-For this exercise, you will need to have the following parameters set in your environment:
+For this exercise, you'll need to have the following parameters set in your environment:
 
-- A provisioned Power Apps portal. If you do not have a Power Apps portal available, follow the [Create Portal](/power-apps/maker/portals/create-portal/?azure-portal=true) instructions to create one.
+- A provisioned Power Apps portal. If you don't have a Power Apps portal available, follow the [Create Portal](/power-apps/maker/portals/create-portal/?azure-portal=true) instructions to create one.
 - Access to the Power Apps maker portal.
 
 ## Scenario
@@ -49,15 +49,15 @@ To create a new webpage, follow these steps:
 
 1. From the command bar, select **New page**.
 
-1. Select **Blank** layout which will use default studio template.
+1. Select **Blank** layout, which will use default studio template.
 
    ![Screenshot of steps to create blank page in portals Studio.](../media/create-blank-page.png)
 
 1. A new webpage will appear with the name *New page*. The navigation menu will now include *New page* item.
 
-1. In the properties pane, enter **About us** as the new name, press the **Tab** key, and the webpage will autosave.
+1. In the properties pane, enter **About us** as the new name, press the **Tab** key, and the webpage will AutoSave.
 
-1. In the properties pane, enter **about-us** as the new partial URL, press the **Tab** key, the webpage will autosave, and the navigation menu item will say *About us*.
+1. In the properties pane, enter **about-us** as the new partial URL, press the **Tab** key, the webpage will AutoSave, and the navigation menu item will say *About us*.
 
    ![Screenshot of steps to rename page and its U R L (address).](../media/rename-page.png)
 
@@ -73,7 +73,7 @@ To add static content, follow these steps:
 
 1. In the **Site components** area, select **Breadcrumb**.
 
-1. The column content will now display **Bredcrumbs** component.
+1. The column content will now display **Breadcrumbs** component.
 
    ![Screenshot of the steps to add breadcrumbs to the webpage canvas.](../media/add-breadcrumbs.png)
 

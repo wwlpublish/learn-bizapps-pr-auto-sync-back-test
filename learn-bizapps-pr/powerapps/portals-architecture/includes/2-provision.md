@@ -1,13 +1,13 @@
 A fully functional portal that is based on a template is provisioned in an environment with Microsoft Dataverse enabled. This portal can be further configured to meet specific business requirements.
 
-A maker will first choose a particular portal template. Currently, only blank website option is available for environments without Dynamics 365, while a number of portal templates are available for environments with Dynamics 365 apps installed.
+A maker will first choose a particular portal template. Currently, only blank website option is available for environments without Dynamics 365, while many portal templates are available for environments with Dynamics 365 apps installed.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the blank website selection.](../media/2-starter-portals-ssm.png)](../media/2-starter-portals-ssm.png#lightbox)
 
 ### Portal solutions installation
 
-The provisioning process first begins with the installation of a series of solutions in the environment. All portal implementations will contain base portal solutions with additional functionality added in separate solutions, depending on the portal template chosen. The solutions contain tables, forms, views, processes, and a model-driven Portal Management app that you can use to manage the portal metadata.
+The provisioning process first begins with the installation of a series of solutions in the environment. All portal implementations will contain base portal solutions with other functionality added in separate solutions, depending on the portal template chosen. The solutions contain tables, forms, views, processes, and a model-driven Portal Management app that you can use to manage the portal metadata.
 
 ### Portal metadata
 
@@ -22,7 +22,7 @@ An Azure web app will be configured for each portal that is provisioned in an en
 
 ### Portal app
 
-The provisioned portal will appear in the **Apps** list of type Portal. From this portal app, a maker will be able to edit (i.e. open portals Studio), browse, share, go to settings, delete, or view details about the portal. 
+The provisioned portal will appear in the **Apps** list of type Portal. From this portal app, a maker will be able to edit (that is, open portals Studio), browse, share, go to settings, delete, or view details about the portal. 
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Portal Apps with ellipsis drop down menu and type noted.](../media/2-portal-app-menu-ssm.png)](../media/2-portal-app-menu-ssm.png#lightbox)
@@ -44,7 +44,7 @@ If you delete a portal app, it will be removed from the list of apps and the por
 
 ### Existing website records
 
-When a portal app is deleted or when a portal configuration migrated from another environment, website records are not bound to an active website. These records can be used as a starting point to create a new portal that re-uses deleted or migrated portal configuration.
+When a portal app is deleted or when a portal configuration migrated from another environment, website records aren't bound to an active website. These records can be used as a starting point to create a new portal that reuses deleted or migrated portal configuration.
 
 To create the portal using an existing website record, check the box **Use data from existing website record** during the provisioning process, and select the website record that you want to use.
 
