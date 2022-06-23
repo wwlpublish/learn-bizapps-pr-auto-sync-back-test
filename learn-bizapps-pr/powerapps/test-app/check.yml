@@ -31,7 +31,7 @@ quiz:
       explanation: Incorrect. Solution checker is a tool that allows you to perform static analysis check on your solutions against a set of best practice rules and quickly identify these problematic patterns.
     - content: EasyRepro
       isCorrect: false 
-      explanation: Incorrect. It is a testing tool, but does not write, organize, and automate tests for canvas apps.
+      explanation: Incorrect. It's a testing tool, but doesn't write, organize, and automate tests for canvas apps.
     - content: Test Studio
       isCorrect: true 
       explanation: Correct. You can use Test Studio to write, organize, and automate tests for canvas apps.
@@ -42,7 +42,7 @@ quiz:
       explanation: Correct. Solution Checker analyzes web resource components.
     - content: Power Pages
       isCorrect: false 
-      explanation: Incorrect. The solution checker analyzes three solution components, but this is not one of them.
+      explanation: Incorrect. The solution checker analyzes three solution components, but this isn't one of them.
     - content: Dataverse Themes
       isCorrect: false 
-      explanation: Incorrect. The solution checker analyzes three solution components, but this is not one of them.
+      explanation: Incorrect. The solution checker analyzes three solution components, but this isn't one of them.
