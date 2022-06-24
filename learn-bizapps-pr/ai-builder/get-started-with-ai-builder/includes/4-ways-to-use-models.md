@@ -6,9 +6,7 @@ After your model has completed training, you can view important details about yo
 
 ![Models > My Document Processing model shows a Training document with Publish and Quick Test buttons, a Selected fields list, and how your model is used.](../media/image-4.jpg)
 
-On the model details page, you can see the customizations that you made to train your model.
-In some cases, it shows additional insights on the training performance.
-Some model types  give you the opportunity to quick test your model
+On the model details page, you can see the customizations that you made to train your model. It shows additional insights with the accuracy score so that you can improve your odel performance. Some model types  give you the opportunity to quick test your model
 to see it live in action.
 
 You can access this page at any time from the left menu by
@@ -42,7 +40,7 @@ automatically linked to the component.
 You can add AI Builder components to your existing apps at any time
 by selecting the **Insert** tab and then selecting the component from the **AI Builder** menu.
 
-![A I Builder menu is expanded to reveal Business card reader, Form Processor, Object detector, and Text recognizer options.](../media/image-6.jpg)
+![A I Builder menu is expanded to reveal Business card reader, Form Processor, Object detector, and Text recognizer options.](../media/image-6.png)
 
 ## Use your model in a flow
 
