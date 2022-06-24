@@ -43,7 +43,7 @@ While query folding is one option to optimize performance when retrieving, impor
 
 Another tool that you can use to study query performance is *query diagnostics*. This feature allows you to determine what bottlenecks (if any) exist while loading and transforming your data, refreshing your data in Power Query, running SQL statements in Query Editor, and so on.
 
-To access query diagnostics in Power Query Editor, go to **Tools** in the Home ribbon. When you are ready to begin transforming your data or making other edits in Power Query Editor, select **Start Diagnostics** on the **Session Diagnostics** tab. When you are finished, make sure that you select **Stop Diagnostics**.
+To access query diagnostics in Power Query Editor, go to **Tools** in the Home ribbon. When you are ready to begin transforming your data or making other edits in Power Query Editor, select **Start Diagnostics** in the **Session Diagnostics** section.  When you are finished, make sure that you select **Stop Diagnostics**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Tools tab with session diagnostics options in the Power query Editor.](../media/8-navigating-query-diagnostics-ss.png)](../media/8-navigating-query-diagnostics-ss.png#lightbox)
