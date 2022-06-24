@@ -13,7 +13,7 @@ For this exercise, we'll add our Power App as a tab to a team's channel.
 1. In the **Add a tab** dialog box, choose **Power Apps**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the add a tab dialog with the Power Apps tab highlighted.](../media/tab.png)](../media/tab.png#lightbox)
+    > ![Screenshot of the add a tab dialog with the Power Apps tab highlighted.](../media/tab.png)
 
 1. Select the app you want to add to Microsoft Teams and notice that the App is now available to use in the channel
 

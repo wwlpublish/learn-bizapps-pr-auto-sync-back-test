@@ -40,12 +40,12 @@ When you share a model-driven app, you can share it with all members of one or m
 1. Select the model-driven app, and then on the command bar select **Share**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Power Apps showing the app selected and the Share button highlighted.](../media/share.png)](../media/share.png#lightbox)
+    > ![Screenshot of Power Apps showing the app selected and the Share button highlighted.](../media/share.png)
 
 1. Add the users you would like to share this App with and select **Share**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Share dialog with the People search filled in and the Share button highlighted.](../media/users.png)](../media/users.png#lightbox)
+    > ![Screenshot of the Share dialog with the People search filled in and the Share button highlighted.](../media/users.png)
 
 > [!IMPORTANT]
 > If your app has one or more custom tables, in order for users to work with your custom table's records, you must configure privileges to the custom tables in a security role.
@@ -61,12 +61,12 @@ Unlike sharing canvas apps, sharing model-driven apps doesn't send an email with
 1. On the left pane, select **Solutions**, then open the **Dive Center App** Solution
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the  Power Apps Solutions page showing the Dive Center App again.](../media/solutions.png)](../media/solutions.png#lightbox)
+    > ![Screenshot of the  Power Apps Solutions page showing the Dive Center App again.](../media/solutions.png)
 
 1. Select the model-driven app, and then on the command bar select **Edit**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Power Apps with the app selected and the edit button highlighted.](../media/edit.png)](../media/edit.png#lightbox)
+    > ![Screenshot of Power Apps with the app selected and the edit button highlighted.](../media/edit.png)
 
 1. Select **Switch to classic** on the header.
 
@@ -76,7 +76,7 @@ Unlike sharing canvas apps, sharing model-driven apps doesn't send an email with
 1. In the classic designer, select the **Properties** tab, and then copy the **Unified Interface URL.**
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Power Apps showing the properties tab selected and the unified interface U R L highlighted.](../media/unified.png)](../media/unified.png#lightbox)
+    > ![Screenshot of Power Apps showing the properties tab selected and the unified interface U R L highlighted.](../media/unified.png)
 
 **Best practice:** Paste the app URL in a location so that your users can access it, such as by posting it on a SharePoint site or sending via email.
 
@@ -99,12 +99,12 @@ Before you share an app, you must [save it to the cloud](/power-apps/maker/canv
 1. Select **More Commands** (**...**), and then select **Share** from the drop-down menu.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Power Apps showing the Apps page with an app selected and the ellipsis button selected to reveal the Share option.](../media/share-2.png)](../media/share-2.png#lightbox)
+    > ![Screenshot of Power Apps showing the Apps page with an app selected and the ellipsis button selected to reveal the Share option.](../media/share-2.png)
 
 1. Specify by name or alias the users or security groups in Azure AD with whom you want to share the app and select **Share**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Share Service Requests dialog with people selected and the Share button highlighted.](../media/service.png)](../media/service.png#lightbox)
+    > ![Screenshot of the Share Service Requests dialog with people selected and the Share button highlighted.](../media/service.png)
 
     > [!NOTE]
     > You can't share an app with a distribution group in your organization or with a group outside your organization.
@@ -113,7 +113,7 @@ Before you share an app, you must [save it to the cloud](/power-apps/maker/canv
     > If you want to allow users to edit and share the app, select the **Co-owner** check box however keep in mind that no two people can edit an app at the same time. If one person opens the app for editing, other people can run it but not edit it.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Share Service Requests dialog with the co-owner checkbox selected.](../media/co-owner.png)](../media/co-owner.png#lightbox)
+    > ![Screenshot of the Share Service Requests dialog with the co-owner checkbox selected.](../media/co-owner.png)
 
 1. If your app connects to data for which users need access permissions, specify security roles as appropriate.
 
@@ -163,7 +163,7 @@ You can share an app with [Microsoft 365 groups](/microsoft-365/admin/create-gr
 3. [Connect to Azure AD](/powershell/module/azuread/connect-azuread/?azure-portal=true) by using the `Connect-AzureAD` PowerShell cmdlet.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Windows PowerShell showing the commandlet.](../media/power-shell.png)](../media/power-shell.png#lightbox)
+    > ![Screenshot of Windows PowerShell showing the commandlet.](../media/power-shell.png)
 
 4. Get the [group details](/powershell/module/AzureAD/Get-AzureADGroup/?azure-portal=true) by using `Get-AzureADGroup -ObjectId <ObjectID> | select *`.
 

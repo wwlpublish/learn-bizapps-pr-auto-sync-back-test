@@ -24,7 +24,7 @@ When the app is validated, the app designer canvas shows details about the asset
 1. Select the model-driven app, and then on the command bar select **Edit**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Power Apps with the app selected and the edit button highlighted.](../media/edit.png)](../media/edit.png#lightbox)
+    > ![Screenshot of Power Apps with the app selected and the edit button highlighted.](../media/edit.png)
 
 1. Select **Switch to Classic** on the header.
 
@@ -34,12 +34,12 @@ When the app is validated, the app designer canvas shows details about the asset
 1. In the app designer, select **Validate**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Power Apps with the Validate option highlighted.](../media/validate.png)](../media/validate.png#lightbox)
+    > ![Screenshot of Power Apps with the Validate option highlighted.](../media/validate.png)
 
     A notification bar appears and shows whether the app has any errors or warnings. The notification bar shows warnings in cases where, for example, a table has no forms or views, or the app doesn't contain any components. An error might appear if a site map isn't configured for the app. You can save and publish the app without addressing warnings, but errors must be fixed before you can publish.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Power Apps warning notification.](../media/warning.png)](../media/warning.png#lightbox)
+    > ![Screenshot of the Power Apps warning notification.](../media/warning.png)
 
 1. Add the assets that are missing. With every required asset added, the error count decreases.
 
@@ -55,7 +55,7 @@ When the app is validated, the app designer canvas shows details about the asset
 1. Select the model-driven app, and then on the command bar select **Publish**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Power Apps with the solution selected and the Publish option highlighted.](../media/publish.png)](../media/publish.png#lightbox)
+    > ![Screenshot of Power Apps with the solution selected and the Publish option highlighted.](../media/publish.png)
 
 ## Option 2: Publish a canvas app
 
@@ -76,12 +76,12 @@ Whenever you save changes to a canvas app, you automatically publish them only f
 1. To see all versions of an app, go to [Power Apps](https://make.powerapps.com/?azure-portal=true) > **Apps** > select your app > **More Commands** > **Details**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Power Apps showing the Apps page with the app selected, the ellipsis button selected, and the Details option highlighted.](../media/details.png)](../media/details.png#lightbox)
+    > ![Screenshot of Power Apps showing the Apps page with the app selected, the ellipsis button selected, and the Details option highlighted.](../media/details.png)
 
 1. Select the **Versions** tab.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Power Apps showing the Apps page on the Versions tab.](../media/versions.png)](../media/versions.png#lightbox)
+    > ![Screenshot of Power Apps showing the Apps page on the Versions tab.](../media/versions.png)
 
 The **Live** version is published for everyone with whom the app is shared. The most recent version of any app is available only to those users who have edit permissions for it.
 
