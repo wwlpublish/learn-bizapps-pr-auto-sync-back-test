@@ -50,12 +50,12 @@ The tables imported during the data preparation steps will be used to create the
 1.  To allow the model to consider the customer information, select the **City**, **ID**, and **Zip code** columns for the **BC Customer** table.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the AI Builder Prediction model with highlight on the selected table and column values.](../media/customer.png)](../media/customer.png#lightbox)
+	> [![Screenshot of the Customer table with city, ID, and zip code selected.](../media/customer.png)](../media/customer.png#lightbox)
 
 1.  To allow the model to consider the product information, select the **Category**, **Description Length**, **Height cm**, **ID**, **Length cm**, **Name Length**, **Photos Quantity**, **Weight g**, and **Width cm** columns for the **BC Product** table; then select **Next**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the AI Builder Prediction model with highlight on the selected table and column values.](../media/product.png)](../media/product.png#lightbox)
+	> [![Screenshot of the product table with the category, description length, height, ID, length, name length, photos quantity, weight, and width selected.](../media/product.png)](../media/product.png#lightbox)
 
 1.  For this exercise, no filter is required; select **Skip this step**, and then select **Next**.
 
