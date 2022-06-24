@@ -61,7 +61,7 @@ Unlike sharing canvas apps, sharing model-driven apps doesn't send an email with
 1. On the left pane, select **Solutions**, then open the **Dive Center App** Solution
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the  Power Apps Solutions page showing the Dive Center App again.](../media/solutions.png)](../media/image.png#lightbox)
+    > [![Screenshot of the  Power Apps Solutions page showing the Dive Center App again.](../media/solutions.png)](../media/solutions.png#lightbox)
 
 1. Select the model-driven app, and then on the command bar select **Edit**.
 
