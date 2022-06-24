@@ -14,7 +14,7 @@ A well-designed model-driven app consists of several components you select using
 
 ## Recommended Content
 
-[Understand model-driven app components](power-apps/maker/model-driven-apps/model-driven-app-components/?azure-portal=true)
+[Understand model-driven app components](/power-apps/maker/model-driven-apps/model-driven-app-components/?azure-portal=true)
 
 [Steps to building a model-driven app](/power-apps/maker/model-driven-apps/app-building-steps/?azure-portal=true)
 
