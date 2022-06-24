@@ -31,7 +31,7 @@ Next, you'll scan the contents of the image file for the key receipt information
 1. In the **Receipt file** field, select the **File content** dynamic content from the trigger that you added.
 
     > [!div class="mx-imgBorder"]
-    > [![Dynamic content with File name, File path, and File content as options.](../media/4-1.png)](../media/4-1.png#lightbox)
+    > [![Dynamic content with File name, File path, and File content as options.](../media/4-1.jpg)](../media/4-1.jpg#lightbox)
 
 ### Create a share link for the receipt
 
@@ -67,7 +67,7 @@ Before you begin writing your data into Excel, make sure that you have created a
 Now that your table is set up, you can add the receipt information to the Excel spreadsheet.
 
 > [!div class="mx-imgBorder"]
-> [![Process from file creation through process and save information from receipts, create share link, and add row into table.](../media/4-3.png)](../media/4-3.png#lightbox)
+> [![Process from file creation through process and save information from receipts, create share link, and add row into table.](../media/4-3.jpg)](../media/4-3.jpg#lightbox)
 
 1. Select **+ New step**.
 

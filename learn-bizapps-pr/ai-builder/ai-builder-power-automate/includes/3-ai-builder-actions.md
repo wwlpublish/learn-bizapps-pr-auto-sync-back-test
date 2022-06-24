@@ -36,15 +36,15 @@ In this example, you'll add the AI Builder action that allows sentiment analysis
 
 1. In the search field, enter "Analyze sentiment".
 
-    ![In Choose an action, search results for Analyze sentiment on the Actions tab.](../media/03-add-action.png)
+    ![In Choose an action, search results for Analyze sentiment on the Actions tab.](../media/03-add-action.jpg)
 
 1. Open the AI Builder action group.
 
-    ![Choose an action with A I Builder selected.](../media/03-ai-builder-action.png)
+    ![Choose an action with A I Builder selected.](../media/03-ai-builder-action.jpg)
 
     This action group lists all available AI Builder actions. You can pick the action from that page.
 
-    ![In A I Builder, on the Actions tab, a list of actions includes Predict and Recognize text in an image.](../media/03-ai-builder-flow.png)
+    ![In A I Builder, on the Actions tab, a list of actions includes Predict and Recognize text in an image.](../media/03-ai-builder-flow.jpg)
 
 1. From the available actions, select **Analyze positive or negative sentiment in text**.
 
@@ -82,7 +82,7 @@ For this exercise, you'll use a Microsoft Excel file in OneDrive to store the te
 
 1. In the **Column 1** field, add **My Text**, and in the **Column 2** field, add **Overall text sentiment**.
 
-    ![Add a row into a table shows My Text in Column1 and Overall text sentiment in Column2.](../media/03-add-table.png)
+    ![Add a row into a table shows My Text in Column1 and Overall text sentiment in Column2.](../media/03-add-table.jpg)
 
 1. Select **Save**.
 
@@ -96,11 +96,11 @@ Before productizing a flow, it's always a good idea to test it during design pha
 
 1. Provide the value of the **My Text** field from the trigger action. This text is what you want to analyze the sentiment for. For this example, we'll enter *It was the best sandcastle he had ever seen.*
 
-    ![My text field for trigger with text It was the best sandcastle he had ever seen.](../media/03-my-text.png)
+    ![My text field for trigger with text It was the best sandcastle he had ever seen.](../media/03-my-text.jpg)
 
 1. Select **Run flow**. If your flow ran successfully, you would see all steps shown with a green checkmark.
 
-    ![Green steps complete. Your flow ran successfully.](../media/03-steps-complete.png)
+    ![Green steps complete. Your flow ran successfully.](../media/03-steps-complete.jpg)
 
 1. You can expand the actions to view the running inputs and outputs of each action, which is a good way to debug your flow.
 
