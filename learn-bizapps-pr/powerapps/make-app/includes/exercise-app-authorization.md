@@ -83,7 +83,7 @@ Co-owners who receive an invitation get another link that opens the app for edit
 
 [Share a canvas app with guest users](/power-apps/maker/canvas-apps/share-app-guests/?azure-portal=true)
 
-## Model-Drive Apps
+## Model-driven apps
 
 Model-driven apps use role-based security for sharing. The fundamental concept in role-based security is that a security role contains privileges that define a set of actions that can be performed on tables within the app. This approach means that while two people are able to use the app, one user might only be able to read records, or records that they themselves created. The other user might be able to see all records and have the rights to delete those records.
 

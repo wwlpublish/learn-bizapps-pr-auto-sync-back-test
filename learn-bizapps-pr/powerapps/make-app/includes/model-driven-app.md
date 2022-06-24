@@ -20,10 +20,8 @@ A well-designed model-driven app consists of several components you select using
 
 [Power Apps model-driven apps documentation](/power-apps/maker/model-driven-apps/?azure-portal=true)
 
-## Build a basic Model Driven App
+## Build a basic model-driven app
 
 Create a model-driven app by using standard tables available in Microsoft Dataverse, plus custom tables added through a solution. The model-driven app should allow salespeople to perform their sales duties in addition to check dive gear in for service.
-
-We'll be adding automated processes and logic in future exercises.
 
 You can follow the procedure detailed in [this article](/power-apps/maker/model-driven-apps/build-first-model-driven-app/?azure-portal=true) in order to create your app.

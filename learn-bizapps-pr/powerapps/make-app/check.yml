@@ -20,7 +20,7 @@ quiz:
       explanation: Incorrect. Data connectors are used in model-driven app, but this isn't a pre-requisite requirement when creating your app.
     - content: Microsoft Dataverse database
       isCorrect: true 
-      explanation: Correct. Model Driven apps rely on Dataverse for data storage, so this is a pre-requisite before you can create a model-driven app.
+      explanation: Correct. Model-driven apps rely on Dataverse for data storage, so this is a pre-requisite before you can create a model-driven app.
     - content: A Power App Template
       isCorrect: false 
       explanation: Incorrect. Power App templates are optional when building an app.

@@ -1,6 +1,6 @@
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/]
 
-You can also create lists on SharePoint that can be used as data points to track the data needed by the organization in case your design only includes canvas apps. Model Driven apps rely on Dataverse for data storage.
+You can also create lists on SharePoint that can be used as data points to track the data needed by the organization in case your design only includes canvas apps. Model-driven apps rely on Dataverse for data storage.
 
 Now remember that sometimes our apps will access data and tables that are already being used, perhaps from another system the organization has been using for some time.
 
