@@ -13,6 +13,6 @@ In this module, we will build out a dashboard for Contoso Manufacturing displayi
 4. A dialogue box with the tables in your data should open. Click the box next to the financials table. You will see a preview of the data displayed. Select **Load**.
 
 You can now see that the fields have populated on the farthest right pane. You are currently in the report building tab. Select the **data tab** to see a preview of your data.
-    [ ![Excel data in Power BI](../media/data-tab.png) ](../media/data-tab.png#lightbox)
+    [ ![Screenshot of the Excel data just loaded into Power B I](../media/data-tab.png) ](../media/data-tab.png#lightbox)
 
 Now you have loaded your data and will shortly be ready to build visuals, but first, let's transform our data into exactly what we want.
