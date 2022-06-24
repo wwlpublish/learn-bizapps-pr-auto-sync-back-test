@@ -4,7 +4,7 @@ In this exercise, you'll build an AI Builder prediction model to help a Brazilia
 
 As with all custom models, one of the initial important steps is to identify and prepare data that will be used to train the model. AI Builder prediction is no different and requires historical data to determine patterns that will help predict outcomes of new events.
 
-To accelerate this exercise, follow the steps described at [Sample Dataset for prediction model](/ai-builder/prediction-data-prep?WT.mc_id=DX-MVP-5003600?azure-portal=true#sample-dataset-for-prediction-model)
+To accelerate this exercise, follow the steps described at [Sample Dataset for prediction model](/ai-builder/prediction-data-prep?WT.mc_id=DX-MVP-5003600?azure-portal=true#sample-dataset-for-prediction-model).
 
 For this exercise, you'll reference the three following tables that are part of the *Brazilian Commerce* (BC) Dataverse solution:
 
