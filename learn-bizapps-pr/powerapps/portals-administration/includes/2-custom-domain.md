@@ -7,9 +7,9 @@ The following sections describe how to add a custom URL to a Power Apps portal.
 
 ## Prerequisites
 
-* The organization needs to have a valid SSL certificate for the domain. The SSL certificate must be in PFX format, signed by a trusted certificate authority, and meet a number of additional security requirements (see [Add SSL certificates](/power-apps/maker/portals/admin/manage-ssl-certificates?azure-portal=true#ssl-certificate-requirements) for the full requirements list).
+* The organization needs to have a valid SSL certificate for the domain. The SSL certificate must be in PFX format, signed by a trusted certificate authority, and meet many other security requirements (see [Add SSL certificates](/power-apps/maker/portals/admin/manage-ssl-certificates?azure-portal=true#ssl-certificate-requirements) for the full requirements list).
 * The domain name needs to have a CNAME record set up in DNS pointing to the `contoso.powerappsportals.com` domain that was configured during the portal provisioning process.
-* The portal must be in **Production** mode (i.e. not **Trial** or **Suspended**) when you are adding a custom domain.
+* The portal must be in **Production** mode (that is, not **Trial** or **Suspended**) when you're adding a custom domain.
 
 To configure a custom domain name first open Power Apps portals admin shortcuts page.
 
@@ -29,7 +29,7 @@ To configure a custom domain name first open Power Apps portals admin shortcuts 
 
 To configure a custom domain name using a wizard.
 
-1. On the Power Apps portals admin shortcuts page select **Portal Actions**. That will open Power Apps portals admin center with the **Portal Actions** page selected.
+1. On the Power Apps portals admin shortcuts page, select **Portal Actions**. That will open Power Apps portals admin center with the **Portal Actions** page selected.
 
 1. Select **Add a Custom Domain Name**. A wizard opens to walk you through the steps required to define custom domain.
 
@@ -41,7 +41,7 @@ Certificates and custom domain name can be set up and maintained independently.
 
 ### Manage SSL certificates
 
-1. On the Power Apps portals admin shortcuts page select **Manage SSL certificates** shortcut. That will open Power Apps portals admin center with the **Manage SSL certificates** page selected.
+1. On the Power Apps portals admin shortcuts page, select **Manage SSL certificates** shortcut. That will open Power Apps portals admin center with the **Manage SSL certificates** page selected.
 
 1. Select **Add new** to upload new certificate. 
 
@@ -51,7 +51,7 @@ You can use this page to upload a renewed certificate before the existing one ex
 
 ### Set up custom domain name and SSL
 
-1. On the Power Apps portals admin shortcuts page select **Set up custom domain name and SSL**. That will open Power Apps portals admin center with **Set up custom domain name and SSL** page selected.
+1. On the Power Apps portals admin shortcuts page, select **Set up custom domain name and SSL**. That will open Power Apps portals admin center with **Set up custom domain name and SSL** page selected.
 
 	![Screenshot of Set up custom domain name and SSL page in Power Apps portals admin center.](../media/portal-custom-domain-ssl.png)
 
@@ -59,7 +59,7 @@ You can use this page to upload a renewed certificate before the existing one ex
 
 1. Enter the domain name and press TAB. Domain name will be validated.
 
-1. Click OK to add custom domain.
+1. Select OK to add custom domain.
 
     ![Screenshot of the steps to add custom domain name to a portal.](../media/portal-add-custom-domain-name.png)
 

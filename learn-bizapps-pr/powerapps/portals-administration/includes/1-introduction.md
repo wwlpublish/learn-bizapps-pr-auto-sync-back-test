@@ -3,8 +3,11 @@ The Microsoft Power Apps portals admin center provides a series of functions for
 To access the Power Apps portals admin center:
 
 1. Sign in to the [Microsoft Power Platform admin center](https://admin.powerplatform.microsoft.com/?azure-portal=true).
+
 1. In the left pane, expand **Resources** and then select **Portals**.
+
 1. Select the target portal.
+
 1. Select **Manage** at the top of the page. 
 
 > [!div class="mx-imgBorder"]
@@ -23,7 +26,7 @@ If you need to see more details about the provisioned portal, such as portal typ
 
 The **Portal Details** area allows makers to alter some key attributes of a Power Apps portal:
 
-- Change or update the portal name. This option is not visible to external portal visitors, but it helps identify the portal in the Portal Management app, Power Platform admin center, and Power Apps maker environment.
+- Change or update the portal name. This option isn't visible to external portal visitors, but it helps identify the portal in the Portal Management app, Power Platform admin center, and Power Apps maker environment.
 
 - All portals are provisioned as 30 days trials and a message is displayed in the admin center. An administrator can convert a trial portal to a production portal.
 
@@ -50,16 +53,16 @@ The **Portal Actions** section of the portals admin center allows an administrat
 | ------ | ------- |
 | Add a custom domain name | This action will go through the process to configure a vanity URL for the Power Apps portal such as `https://www.contoso.com` instead of the subdomain `https://contoso.powerappsportals.com`. This option is only available for production portals. |
 | Restart | Restarting the portal will restart the portal web application, clearing the cache or potentially stuck processes. This action is the equivalent of restarting a web server and it might take a few minutes until the portal is available again. |
-| Update Dynamics 365 URL | In the event that the Dataverse (or Dynamics 365) environment URL has been modified, this action will realign the portal web application to point to this updated URL. |
+| Update Dynamics 365 URL | If the Dataverse (or Dynamics 365) environment URL has been modified, this action will realign the portal web application to point to this updated URL. |
 | Install Project Service Automation extension | This process will load the solutions and metadata to extend the Partner portal with Project service extensions. This action will only be successful on portals that have been provisioned by using the Partner template and if the connected Dynamics 365 instance has the Project Service Automation solution installed. |
 | Install Field Service extension | This process will load the solutions and metadata to extend the Partner portal with Field Service extensions. This action will only be successful on portals that have been provisioned by using the Partner portal template and if the connected Dynamics 365 instance has the Field Service solution installed. |
 | Get Public Key | A portal public key is used by the pro developers when implementing external APIs to extend the portal. The key is required to validate security context of the requests coming from the portal client-side script. |
 | Get latest metadata translations | For multilingual portals, it's important to have the latest translated labels. This action will prompt an admin to update the portal solutions if updates are available. That will update the various portal template labels in the provisioned portal languages. |
-| Disable custom errors | While you are troubleshooting issues on a portal, disabling the custom errors will show more details about a particular issue instead of a generic user-friendly error message. |
+| Disable custom errors | While you're troubleshooting issues on a portal, disabling the custom errors will show more details about a particular issue instead of a generic user-friendly error message. |
 | Enable diagnostic logging | This action will allow an administrator to specify a Microsoft Azure Blob Storage connection string and a retention period where portal logs will be stored.  If issues occur with a portal, these logs can be examined to determine the root cause of a particular issue. |
-| Reset Portal | This action will delete all hosted resources that are associated with the portal. When the reset operation has finished, your portal URL will no longer be accessible and you can provision the portal again. The reset will not reinstall the portal solutions or delete the portal metadata. Later you can provision another portal using the sale metadata. |
-| Change base URL | This action will allow an administrator to change the base URL (`something.powerappsportals.com`). The URL will need to be unique, and portal visitors will no longer be able to access the portal by using the old URL. If you have a custom URL, you will also need to update the CNAME records in your DNS settings. |
-| Enable maintenance mode | In instances where an administrator needs to change a portal or update Dataverse, the portal can be put into maintenance mode where visitors will instead see a message that the portal is in maintenance mode or they will be redirected to a custom page. |
+| Reset Portal | This action will delete all hosted resources that are associated with the portal. When the reset operation has finished, your portal URL will no longer be accessible and you can provision the portal again. The reset won't reinstall the portal solutions or delete the portal metadata. Later you can provision another portal using the sale metadata. |
+| Change base URL | This action will allow an administrator to change the base URL (`something.powerappsportals.com`). The URL will need to be unique, and portal visitors will no longer be able to access the portal by using the old URL. If you have a custom URL, you'll also need to update the CNAME records in your DNS settings. |
+| Enable maintenance mode | In instances where an administrator needs to change a portal or update Dataverse, the portal can be put into maintenance mode where visitors will instead see a message that the portal is in maintenance mode or they'll be redirected to a custom page. |
 
 ## Set up custom domains and SSL
 
@@ -70,7 +73,7 @@ The **Set up custom domains and SSL** feature will show any existing host name a
 
 ## Manage SSL certificates
 
-The **Manage SSL certificates** section will show a listing of all uploaded SSL certificates and when they will expire. You can upload additional certificates in this section, as required.
+The **Manage SSL certificates** section will show a listing of all uploaded SSL certificates and when they'll expire. You can upload more certificates in this section, as required.
 
 ## Manage custom certificates
 
@@ -78,7 +81,7 @@ When portal functionality is extended with a client-side script calling custom A
 
 ## Manage Dynamics 365 Instance
 
-The **Manage Dynamics 365 Instance** section allows you to deploy portal solutions and metadata on another Dataverse or Dynamics 365 instance and point the current portal to that instance. Changing the Dynamics 365 instance will not delete the portal configuration or solution from the existing instance, or copy your portal configuration from the existing instance. It will deploy the default portal configuration on the new instance.
+The **Manage Dynamics 365 Instance** section allows you to deploy portal solutions and metadata on another Dataverse or Dynamics 365 instance and point the current portal to that instance. Changing the Dynamics 365 instance won't delete the portal configuration or solution from the existing instance, or copy your portal configuration from the existing instance. It will deploy the default portal configuration on the new instance.
 
 > [!IMPORTANT]
 > When changing the Dynamics 365 instance for your portal, ensure that the new instance is from the same region as the current instance. Changing the Dynamics 365 instance for Power Apps portals across regions isn't supported.
