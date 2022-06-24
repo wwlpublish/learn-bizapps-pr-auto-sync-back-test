@@ -5,7 +5,7 @@ When you sign in to Microsoft Power Automate or Power Apps, you can go to **AI 
 The AI Builder home page contains all AI capabilities that you need. Select the Identity document reader prebuilt model and you’ll learn more about this AI capability. You’ll see the output on some preloaded samples but you also can upload an ID and view the extracted data. Remember, the ID reader only works with passports (all passports) and US driver licenses (more document types might be added eventually).
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of Power Automate on the A I Builder tab.](../media/explore_page.jpg)](../media/ai-builder.png#lightbox)
+> [![Screenshot of Power Automate on the A I Builder tab.](../media/explore_page.jpg)](../media/explore_page.jpg#lightbox)
 
 ## Create an automated flow by using ID reader
 
@@ -41,12 +41,12 @@ Your next task is to add the AI Builder action that will extract the data.
 1. Select the *Extract information from identity documents** action.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Choose an operation dialog on the Actions tab.](../media/choose.jpg)](../media/choose.png#lightbox)
+    > [![Screenshot of the Choose an operation dialog on the Actions tab.](../media/choose.jpg)](../media/choose.jpg#lightbox)
 
 1. Select **File Content** for the **Identity document file** field (with this selection, AI Builder will process the file that you'll upload when you manually trigger the flow). At this point, the flow should resemble the following image.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the flow with Process and save information from identity documents added.](../media/flow.jpg)](../media/flow.png#lightbox)
+    > [![Screenshot of the flow with Process and save information from identity documents added.](../media/flow.jpg)](../media/flow.jpg#lightbox)
 
 1. Add the action that will send you the email that contains the extracted information. Select **+ New step** and then select the **Send an email** action, where you can specify your email address, the subject of the email, and what to enter in the body of the email. For this example, fill in the fields as follows:
 
@@ -59,7 +59,7 @@ Your next task is to add the AI Builder action that will extract the data.
 Your flow should now resemble the following image.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the flow with send an email added.](../media/email.jpg)](../media/email.png#lightbox)
+> [![Screenshot of the flow with send an email added.](../media/email.jpg)](../media/email.jpg#lightbox)
 
 When you're done with writing the email pattern, you can **Save** the flow and then select **Test**. Select **Manually** on the pane and then select **Save & Test**.
 
