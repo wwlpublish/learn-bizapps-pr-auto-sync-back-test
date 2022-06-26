@@ -26,7 +26,7 @@ Here are the steps to share our Canvas App.
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the people menu used to selected share feature.](../media/people.png)](../media/people.png#lightbox)
 
-    You can share an app with a list of aliases, friendly names, or a combination of those (for example, Meghan Holmes `meghan.holmes@contoso.com`) if the items are separated by semicolons. If several people have the same name but different aliases, the first person found will be added to the list. A tooltip appears if a name or alias already has permission or can't be resolved.
+    You can share an app with a list of aliases, friendly names, or a combination of those (for example, Amber Rodriguez `amber.rodriguez@contoso.com`) if the items are separated by semicolons. If several people have the same name but different aliases, the first person found will be added to the list. A tooltip appears if a name or alias already has permission or can't be resolved.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of an individual name in the lookup feature.](../media/individual-name.png)](../media/individual-name.png#lightbox)
