@@ -1,10 +1,10 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.design-app.app-logic 
-title: Determine which type of app to make and the placement of logic
+title: Determine the type of app to make and the placement of logic
 metadata: 
-  title: Determine which type of app to make and the placement of logic
-  description: Learn to determine which type of app to make and the placement of logic.
-  ms.date: 06/30/2022 
+  title: Determine the type of app to make and the placement of logic
+  description: Learn how to determine which type of app to make and the placement of logic.
+  ms.date: 06/27/2022 
   author: jadaphillips 
   ms.author: jadaphillips 
   ms.topic: interactive-tutorial 
