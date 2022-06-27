@@ -6,7 +6,7 @@ When you purchase the AI Builder Capacity add-on, corresponding capacity is made
 
 If your tenant is entitled to any Microsoft Power Platform Capacity add-ons, including the AI Builder Capacity add-on, the **Add-ons** tab appears.
 
-![A screenshot of Microsoft Power Platform admin center open to the Resources tab, Capacity page.](../media/image-5.png)](../media/image-5.png#lightbox)
+![A screenshot of Microsoft Power Platform admin center open to the Resources tab, Capacity page.](../media/image-5.png)(../media/image-5.png#lightbox)
 
 In this section, you will learn how to assign and unassign AI Builder credits to your environments.
 
