@@ -1,6 +1,6 @@
 ## Local authentication
 
-Local authentication is the common forms-based authentication that uses contact records for authentication. Local authentication settings are configured by using portal site settings, including disabling local sign-in options for the entire portal: [Set authentication identity for a portal](/power-apps/maker/portals/configure/set-authentication-identity/?azure-portal=true).
+Local authentication is the common forms-based authentication that uses contact rows for authentication. Local authentication settings are configured by using portal site settings, including disabling local sign-in options for the entire portal: [Set authentication identity for a portal](/power-apps/maker/portals/configure/set-authentication-identity/?azure-portal=true).
 
 ## External authentication
 
@@ -12,7 +12,7 @@ When external authentication is used, credentials and password management are ha
 
 ## Authentication and provider configuration
 
-Setting up authentication is a core customization in any portal. Simplified identity provider configuration in Power Apps portals provides in-app guidance for identity provider setup and abstract setup complexities. Makers and administrators can configure the portal for supported identity providers by following steps that are documented at [Simplified authentication and identity provider configuration](/power-apps/maker/portals/configure/use-simplified-authentication-configuration/?azure-portal=true).
+Setting up authentication is a core customization in any portal. Simplified identity provider configuration in Power Apps portals provides in-app guidance for identity provider setup and abstracts setup complexities. Makers and administrators can configure the portal for supported identity providers by following steps that are documented at [Simplified authentication and identity provider configuration](/power-apps/maker/portals/configure/use-simplified-authentication-configuration/?azure-portal=true).
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of authentication identity providers.](../media/portal-authentication-settings.png)](../media/portal-authentication-settings.png#lightbox)
