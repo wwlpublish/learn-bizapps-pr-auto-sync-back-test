@@ -34,7 +34,7 @@ You have entered the edition mode of the form. You can now create a new field th
 
     After the component has been added, you should see a page similar to the following image.
 
-    ![Screenshot of Quick Create Appointment form with the Scan business card component highlighted.](../media/image10.png)
+    ![Screenshot of Quick Create Appointment form with the Scan business card component highlighted.](../media/image-10.png)
 
 1. Save and publish your updated form.
 
