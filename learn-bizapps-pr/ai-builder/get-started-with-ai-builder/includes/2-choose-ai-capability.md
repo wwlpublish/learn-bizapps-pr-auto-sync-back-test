@@ -18,7 +18,7 @@ Each AI Builder model has an introductory experience where you can learn more ab
 
 ![Document Processing on the Get started tab has info about how it automatically processes documents on several slides.](../media/image-3.jpg)
 
-For those models that require customization, AI Builder provides a summary of the steps that you need to take and what you need to get started. The **Examples** tab also includes examples of how you can use the model.
+For those models that require customization, AI Builder provides a summary of the steps that you need to take and what you need to get started. The **Extraction** information tab also provides you with an overview of how you can use the model.
 
 For prebuilt models, AI Builder includes best practices on how to use them and buttons that you can select to get started using them right away.
 
