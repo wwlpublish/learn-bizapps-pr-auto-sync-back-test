@@ -14,4 +14,4 @@ The following illustration shows a simple flow with three main stages:
 1. Detect sentiment of the email body by using the AI Builder sentiment analysis model.
 1. Send an email notification with the sentiment detected in the email by using the **Overall text sentiment** output from the AI Builder model
 
-![A screenshot of a social media post description automatically generated](../media/01-social-post-flow.png)
+![A screenshot of a social media post description automatically generated](../media/01-social-post-flow.jpg)
