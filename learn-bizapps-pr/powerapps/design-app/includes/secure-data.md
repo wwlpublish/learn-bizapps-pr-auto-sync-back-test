@@ -1,4 +1,4 @@
-Now that we've determined what data structured to use, and which type of App to build, the next step is to consider how to secure your data. You should consider what data will be accessed by whom, and refer back to tasks, business processes, and personas that you listed in the planning phase.
+Now that you've determined what data structures to use and which type of app to build, the next step is to consider how to make your data more secure. You should consider what data will be accessed by whom, and then refer to tasks, business processes, and personas that you listed in the planning phase.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/]
 
