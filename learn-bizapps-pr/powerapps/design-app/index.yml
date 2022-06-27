@@ -1,22 +1,22 @@
 ### YamlMime:Module 
 uid: learn-bizapps.design-app 
 metadata: 
- title: Design your Power App like a professional
+ title: Design your app like a professional
  description: Learn how to design an app based on an identified problem.
- ms.date: 06/30/2022  
+ ms.date: 06/27/2022  
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
  ms.prod: learning-power-apps  
-title: Design your Power App like a professional
+title: Design your app like a professional
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  Okay, so you identified the problem you're trying to resolve and focused on crafting a project plan to deliver that solution effectively. Now what? We design the app! 
+  You’ve identified the problem that you're trying to resolve, and you’ve focused on creating a project plan to deliver that solution effectively. Now, your next task is to design the app.
 abstract: |  
-    In this module, you will: 
-    - Analyze the different tasks to be performed using the app
-    - Prepare the specifications and designs of your app
-    - Decide what the user experience will be like
+    In this module, you'll: 
+    - Analyze the different tasks to be done when using the app.
+    - Prepare the specifications and designs of your app.
+    - Decide what the user experience will be.
 prerequisites: Basic solutions and delivery process experience
 iconUrl: /learn/achievements/design-app.svg  
 levels:  
