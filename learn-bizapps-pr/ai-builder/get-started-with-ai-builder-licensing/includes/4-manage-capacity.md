@@ -6,7 +6,7 @@ When you purchase the AI Builder Capacity add-on, corresponding capacity is made
 
 If your tenant is entitled to any Microsoft Power Platform Capacity add-ons, including the AI Builder Capacity add-on, the **Add-ons** tab appears.
 
-![A screenshot of Microsoft Power Platform admin center open to the Resources tab, Capacity page.](../media/image5.png)
+![A screenshot of Microsoft Power Platform admin center open to the Resources tab, Capacity page.](../media/image-5.png)(../media/image-5.png#lightbox)
 
 In this section, you will learn how to assign and unassign AI Builder credits to your environments.
 
@@ -16,7 +16,7 @@ The total of assigned AI Builder credits across an environment cannot exceed the
 
 If you want to reassign credits from one environment to another, reduce the capacity for the first environment before raising the capacity in the second environment.
 
-![A screenshot of a cell phone Description automatically generated](../media/image6.png)
+![A screenshot of a cell phone Description automatically generated](../media/image-6.png)
 
 If you assign more credits than there are remaining, you won't be able to save, and an error message will warn you that the "Quantity cannot exceed the remaining."
 
@@ -26,7 +26,7 @@ The goal of this assignment step is to allow an admin to correctly manage your c
 
 As shown in the following image, the total number of assigned AI Builder credits can be seen in the first tab of **Resources > Capacity**, in the **Add-On** part of the screen, at the bottom of the page.
 
-![A screenshot of the Manage add-ons dialog with the Environment dropdown showing ProdEurope selected.](../media/image7.png)
+![A screenshot of the Manage add-ons dialog with the Environment dropdown showing ProdEurope selected.](../media/image-7.png)
 
 The preceding screenshot shows that 910,000 AI Builder credits have been assigned out of the 1,000,000 that have been purchased.
 
