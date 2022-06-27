@@ -62,7 +62,7 @@ In this exercise, we'll be using a flow template that connects to a pre-configur
 1. Select the **Route emails as per the language detected by AI Builder on new email** flow template.
 
     > [!div class="mx-imgBorder"]
-    > [![Select Route emails as per the language detected by AI Builder on new email flow.](../media/route-emails.png)](../media/route-emails.png#lightbox)
+    > [![Select Route emails as per the language detected by AI Builder on new email flow.](../media/route-emails.jpg)](../media/route-emails.jpg#lightbox)
 
 1. At the bottom of the screen, under *This flow will connect to:*, ensure all of your connections have been entered correctly and select **Continue**. If any of the connections are missing or incorrect, you can't continue.
 

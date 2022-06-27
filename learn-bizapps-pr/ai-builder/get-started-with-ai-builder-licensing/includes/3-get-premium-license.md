@@ -7,20 +7,20 @@ You need to be the billing administrator of your tenant to access this page.
 In **Billing > Purchase services**, you can search for AI
 Builder to find the **AI Builder Capacity add-on** service, as shown in the following image.
 
-![Microsoft 365 admin center open to the Billing tab Purchase services page. The A I Builder Capacity add-on appear below Other services.](../media/image1.png)
+![Microsoft 365 admin center open to the Billing tab Purchase services page. The A I Builder Capacity add-on appear below Other services.](../media/image-1.png)
 
 You can purchase several AI Builder add-ons. Each add-on will entitle your tenant to one million AI Builder credits, which is the currency that is used by AI Builder.
 
 To know how many add-ons you need, you can use the AI Builder Calculator by going to the
 [Power Apps AI Builder Calculator page](https://powerapps.microsoft.com/ai-builder-calculator/).
 
-![Power Apps A I Builder Calculator page has a Cost estimate tile that allows you to calculate the cost of A I Builder add-on units.](../media/image2.png)
+![Power Apps A I Builder Calculator page has a Cost estimate tile that allows you to calculate the cost of A I Builder add-on units.](../media/image-2.png)
 
 The AI Builder Calculator allows you to enter your estimated use (business cards that are processed each month, number of models that you will build, and so on). Based on that information, you can calculate the AI Builder add-on capacity that you need.
 
 If you purchase through a direct channel, follow the buying process in the Dynamics 365 admin center portal. You can configure the monthly or yearly billing cycle and the number of AI Builder capacity add-ons that you need on the following page.
 
-![A screenshot of the Admin center portal on the A I Builder Capacity add-on page.](../media/image3.png)
+![A screenshot of the Admin center portal on the A I Builder Capacity add-on page.](../media/image-3.png)
 
 At the end of this process, your tenant will automatically be entitled to AI Builder credits. This entitlement will remain as long as you keep your license active. You can use the same channel to purchase additional AI Builder Capacity add-ons or to remove some. This change will automatically adjust your entitlement of AI Builder credits at the end of the grace period.
 
@@ -32,7 +32,7 @@ Go to Microsoft Power Platform admin center and select **Resources > Capacity**,
 
 The **Summary** tab contains a list of add-ons, including the AI Builder credits. The graph shows you the total number of credits that you own and, among them, the number of credits that have been assigned.
 
-![A screenshot of Microsoft Power Platform admin center on the Capacity tab Summary page.](../media/image4.png)
+![A screenshot of Microsoft Power Platform admin center on the Capacity tab Summary page.](../media/image-4.png)
 
 In this case, the tenant owns one million credits (in other words, one AI Builder capacity add-on) and has assigned 300000 of them. A later lesson will explain how to assign credits.
 

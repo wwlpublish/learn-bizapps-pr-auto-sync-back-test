@@ -1,13 +1,21 @@
 A Microsoft Power Apps portal is an external-facing application that is often open to an external audience. It's critical that the portal is accessible and operational because it reflects the image of an organization.
 
+## Roles
+
+User doesn't have to be a Global Administrator to perform administrative tasks. Different administrative tasks in Power Apps portals can be performed by members of different roles. The admin and security roles required to do these tasks vary depending on the impact area.
+
+Most of the tasks can be performed by the Portal Owner or a user with System Customizer role. Some tasks might require the user to be a member of admin roles in [Microsoft 365](/microsoft-365/admin/add-users/about-admin-roles?preserve-view=true&view=o365-worldwide&azure-portal=true), and others might need membership to security roles in the [Microsoft Power Platform environment](/power-platform/admin/database-security/?azure-portal=true) or other permissions in Azure Active Directory.
+
+For more information about the security requirements for Power Apps portals management and administration, see [Roles required for portal administration](/power-apps/maker/portals/admin/portal-admin-roles/?azure-portal=true).
+
 ## Portal site issues
 
-If a portal is completely inaccessible, an administrator can investigate numerous possibilities:
+If a portal is inaccessible, an administrator can investigate numerous possibilities:
 
 - Whether the portal has been enabled or not
 - If other Microsoft Dataverse apps are accessible
-- Issues that might have occurred with the infrastructure services that portals depend on such as Microsoft Azure Active Directory (Azure AD) or the Web Apps feature of Azure App Service (Web Apps)
-- If advisories exist on the Microsoft 365 admin center
+- Issues that might have occurred with the infrastructure services that portals depend on such as Microsoft Azure Active Directory (Azure AD) or Azure App Service
+- If advisories exist in the [Service health - Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home?#/servicehealth).
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Admin Center with the Service health screen displayed.](../media/administration-center.png)](../media/administration-center.png#lightbox)
@@ -38,16 +46,16 @@ Another option is to personalize the error message by adding a content snippet c
 
 ### Diagnostic logging
 
-Along with visual errors on portal pages, potential underlying issues could occur that are not quite as obvious to isolate and troubleshoot. Power Apps portals can be configured to log diagnostic information. The diagnostic logs will be stored in Azure Blob storage in a container named **telemetry-logs**. The administrator can configure the retention period of how long to keep the logs.
+Along with visual errors on portal pages, potential underlying issues could occur that aren't as obvious to isolate and troubleshoot. Power Apps portals can be configured to log diagnostic information. The diagnostic logs will be stored in Azure Blob storage in a container named **telemetry-logs**. The administrator can configure the retention period of how long to keep the logs.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Enable Diagnostic logging window.](../media/diagnostic-logging.png)](../media/diagnostic-logging.png#lightbox)
 
-The logs can provide information of patterns, duration, and frequency of specific portal errors to assist in resolving potential errors and issues.
+The logs can provide information of patterns, duration, and frequency of specific portal errors to help resolving potential errors and issues. For more information, see [Access portal error logs](/power-apps/maker/portals/admin/view-portal-error-log?azure-portal=true#access-portal-error-logs). 
 
 ## Additional troubleshooting steps
 
-Because the portal might extend certain functionality of a model-driven app, one technique to eliminate potential portal errors is to attempt the same operation in the model-driven app. For example, if an error is generated when a record is added through the portal, try adding or updating the same data record that a portal user is attempting to create or update on a portal. After the error has been resolved in the model-driven app, it is quite often resolved on the portal.
+Because the portal might extend certain functionality of a model-driven app, one technique to eliminate potential portal errors is to attempt the same operation in the model-driven app. For example, if an error is generated when a record is added through the portal, try adding or updating the same data record that a portal user is attempting to create or update on a portal. After the error has been resolved in the model-driven app, it's often resolved on the portal.
 
 Creating the `Site/EnableCustomPluginError` site setting and then setting the value to **True** will display the contents of the plug-in error on a portal page rather than the generic error message.
 
