@@ -2,7 +2,7 @@ Microsoft Power Apps portals extends model-driven Power Apps solutions to intern
 
 For authenticated users, accessing and using the portal involves a two-part process:
 
-- **Authentication** - The process of validating the user's identity. This process is a verification of "they are who they say they are."
+- **Authentication** - The process of validating the user's identity. This process is a verification of "they're who they say they are."
 - **Authorization** - The process of verifying that a user has access to something, such as a specific portal page or a row in a Microsoft Dataverse table. This process determines if "User A can do X."
 
 The following sections discuss authentication in more detail.
@@ -38,7 +38,7 @@ These extensions allow administrators to:
 
 ## Administrator as portal user
 
-Portal users are not defined when Power Apps portals is provisioned. You, the person who provisioned the portal, already have access to Dataverse as a system administrator. It's common practice to ensure that you can access the portal as an *external* user as well.
+Portal users aren't defined when Power Apps portals is provisioned. You, the person who provisioned the portal, already have access to Dataverse as a system administrator. It's common practice to ensure that you can access the portal as an *external* user as well.
 
 - Sign in to the portal by using Azure AD authentication. If **Open Registration** is enabled (and it is by default), a contact row will be created as required.
 
@@ -53,6 +53,6 @@ Portal users are not defined when Power Apps portals is provisioned. You, the pe
 > [!div class="mx-imgBorder"]
 > [![Screenshot of assign administrator web role for administrators.](../media/assign-administrators-web-roles.png)](../media/assign-administrators-web-roles.png#lightbox)
 
-These steps will ensure that this Azure AD user has full administrative permissions when they are accessing the portal as an *external* user.
+These steps will ensure that this Azure AD user has full administrative permissions when they're accessing the portal as an *external* user.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4Amwt]

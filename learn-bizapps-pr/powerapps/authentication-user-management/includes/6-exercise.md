@@ -1,10 +1,10 @@
 The purpose of this hands-on lab is to introduce the Power Apps portals invitation-based user registration process.
 
-The exercises work best when you have sample data to work with. Depending on the environment that you are working with, you might want to install sample data to assist with the exercises. Dataverse does provide the ability to add sample data, as needed. If the environment that you are working in does not have sample data installed, follow the steps in the [Add or remove sample data](/power-platform/admin/add-remove-sample-data/?azure-portal=true) documentation to install the sample data into your environment.
+The exercises work best when you have sample data to work with. Depending on the environment that you're working with, you might want to install sample data to assist with the exercises. Dataverse does provide the ability to add sample data, as needed. If the environment that you're working in doesn't have sample data installed, follow the steps in the [Add or remove sample data](/power-platform/admin/add-remove-sample-data/?azure-portal=true) documentation to install the sample data into your environment.
 
 ## Learning objectives
 
-At the end of these exercises, you will be able to:
+At the end of these exercises, you'll be able to:
 
 - Create a Power Automate flow to email invitations to contacts.
 - Create and send invitations to contacts to register.
@@ -17,13 +17,13 @@ At the end of these exercises, you will be able to:
 The prerequisites for this exercise are as follows:
 
 1. System Administrator access to a Dataverse or Dynamics 365 instance.
-1. A provisioned portals in that environment.
+1. A provisioned portal in that environment.
 1. Maker access to Power Automate.
 2. An Office 365 email account or any other email account that can be accessed in Power Automate via a connector.
 
 ## Scenario
 
-Your organization has been using Power Apps for some time and has been recording information about customers and suppliers. You have provisioned and configured a Power Apps portal. You want to invite one of your suppliers assisting you with the portal management to register as an administrative portal user so that they are able to sign in, access administrator-only content, and perform administrator-specific front-end functions like previewing draft content.
+Your organization has been using Power Apps for some time and has been recording information about customers and suppliers. You've provisioned and configured a Power Apps portal. You want to invite one of your suppliers assisting you with the portal management to register as an administrative portal user so that they're able to sign in, access administrator-only content, and perform administrator-specific front-end functions like previewing draft content.
 
 ## High-level steps
 
@@ -41,17 +41,17 @@ To create a test contact, follow these steps:
 1. Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true).
 1. Select a target environment by using the environment selector in the upper-right corner.
 1. On the left menu, select **Apps**.
-1. Click **Portal Management** app. The **Portal Management** app will open in a new tab. Do not close the Power Apps maker environment window.
+1. Select **Portal Management** app. The **Portal Management** app will open in a new tab. Don't close the Power Apps maker environment window.
    ![Screenshot of the steps to open Portal Management app.](../media/open-portal-management-app.png)
-1. In the app select **Contacts** in the **Security** section and then select **New**.
+1. In the app, select **Contacts** in the **Security** section and then select **New**.
 1. Create a new row for Nancy Davolio. Fill in the first name, last name, and email address information (*use an email address where you can receive the email*).
 1. Select **Save**.
    ![Screenshot of the steps to create test contact.](../media/create-contact.png)
-1. Do not close this window.
+1. Don't close this window.
 
 ### Create invitation flow
 
-Power Apps portals are provisioned with a classic workflow to send the invitation email. We will use modern approach instead and create a new Power Automate flow to accomplish the same task.
+Power Apps portals are provisioned with a classic workflow to send the invitation email. We'll use modern approach instead and create a new Power Automate flow to accomplish the same task.
 
 1. Switch to Power Apps maker environment tab.
 
@@ -81,7 +81,7 @@ Power Apps portals are provisioned with a classic workflow to send the invitatio
 
 1. Add an action **Get a row by ID** from **Microsoft Dataverse** connector
 
-   - Click ... on the step and select **Rename**. Change step name to **Get Contact**.
+   - Select the step and select **Rename**. Change step name to **Get Contact**.
    - Select **Contacts** as table
    - Insert **Invite Contact** dynamic content as **Row ID**
 
@@ -91,7 +91,7 @@ Power Apps portals are provisioned with a classic workflow to send the invitatio
 1. Add an action **Compose** from **Data Operation** connector.
 
    - Set **Inputs** to `<a href="https://portalurl/register/?invitation=CODE">this link</a>`
-   - Replace **portalurl** with your portal address, e.g. `contoso.powerappsportals.com`
+   - Replace **portalurl** with your portal address, for example, `contoso.powerappsportals.com`
    - Select **CODE** and replace it with **Invitation Code** dynamic content.
    - That will create an invitation link expression that we can now use inside an HTML email
 
@@ -173,7 +173,7 @@ To redeem the invitation, follow these steps:
 
 1. Enter username **nancyd** and then a password of your choice.
 
-1. Select **Register**. Your account will be registered and you will be signed in automatically and redirected to the profile page.
+1. Select **Register**. Your account will be registered and you'll be signed in automatically and redirected to the profile page.
 
 1. Switch to the Power Apps portals app.
 

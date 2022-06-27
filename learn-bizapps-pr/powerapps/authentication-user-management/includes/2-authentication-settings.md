@@ -11,7 +11,7 @@ To view site settings:
 > [!div class="mx-imgBorder"]
 > [![Screenshot of active site settings for portals.](../media/active-site-settings.png)](../media/active-site-settings.png#lightbox)
 
-Only a few of the many available authentication-related site settings are installed when you provision a starter portal. Settings that are not created assume their documented default values.
+Only a few of the many available authentication-related site settings are installed when you provision a starter portal. Settings that aren't created assume their documented default values.
 
 ## Example of a setting
 

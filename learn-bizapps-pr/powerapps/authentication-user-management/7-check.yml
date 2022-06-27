@@ -27,20 +27,20 @@ quiz:
     - content: External Authentication
       isCorrect: false 
       explanation: Portal users can authenticate with local authentication and external authentication. Local authentication is a common forms-based authentication with usernames and password hashes that are stored in the Dataverse contact record.
-  - content: A portal user has not confirmed their email. What will they not be able to do?
+  - content: A portal user hasn't confirmed their email. What will they not be able to do?
     choices: 
     - content: Sign in to the portal
       isCorrect: false 
-      explanation: Unless the user's email is confirmed, it cannot be used for password resets or two-factor authentication. None of the other tasks require the email to be confirmed.
+      explanation: Unless the user's email is confirmed, it can't be used for password resets or two-factor authentication. None of the other tasks require the email to be confirmed.
     - content: Use two-factor authentication
       isCorrect: true 
-      explanation: Unless the user's email is confirmed, it cannot be used for password resets or two-factor authentication. None of the other tasks require the email to be confirmed.
+      explanation: Unless the user's email is confirmed, it can't be used for password resets or two-factor authentication. None of the other tasks require the email to be confirmed.
     - content: Change their email
       isCorrect: false 
-      explanation: Unless the user's email is confirmed, it cannot be used for password resets or two-factor authentication. None of the other tasks require the email to be confirmed.
+      explanation: Unless the user's email is confirmed, it can't be used for password resets or two-factor authentication. None of the other tasks require the email to be confirmed.
     - content: Register for Forums notifications
       isCorrect: false 
-      explanation: Unless the user's email is confirmed, it cannot be used for password resets or two-factor authentication. None of the other tasks require the email to be confirmed.
+      explanation: Unless the user's email is confirmed, it can't be used for password resets or two-factor authentication. None of the other tasks require the email to be confirmed.
   - content: You want to invite a group of 50 contacts from the same company to register on your portal. Which registration method would you use?
     choices: 
     - content: Closed Registration
