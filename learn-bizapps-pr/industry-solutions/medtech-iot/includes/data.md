@@ -2,9 +2,9 @@ With all of this data being collected, where does the data go? How can medical s
 
 Today, there are no clear standards for IoT data models, so it's difficult to achieve uniformity and standardization of IoT data without the tools available from MedTech service. Azure Health Data Services enables the ingestion and normalization of this data to ensure interoperability.
 
-## MedTech and event hub
+## MedTech and Azure Event Hubs
 
-Azure Health Data Services enables the optional use of Logic Apps and Event Hub to ensure data received from IoT devices is appropriately stored or connected across the cloud. Example use cases using the Event Hub include:
+Azure Health Data Services enables the optional use of Logic Apps and Event Hubs to ensure data received from IoT devices is appropriately stored or connected across the cloud. Example use cases using the Event Hubs include:
 
 -   An analytics expert can analyze patient records to build machine-learning driven rules into workflows.
 
