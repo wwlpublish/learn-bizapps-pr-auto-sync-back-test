@@ -13,7 +13,7 @@ The following information is ingested:
 The following diagram illustrates the process.
 
 > [!div class="mx-imgBorder"]
-> [![Illustration of the process.](../media/process.png)](../media/process.png#lightbox)
+> ![Illustration of the process.](../media/process.png)
 
 1. Hospital uses electronic health record data and imaging data.
 
@@ -28,21 +28,21 @@ Let's explore these in more detail.
 The first step is importing electronic health records with related medical imaging of the patient in the Azure Health Data Services workspace. In this case, Mary's medical history is connected with her latest medical imaging data via DICOMcast and ready for search and retrieval. Additionally, the de-identified records of all patients who had similar diagnosis (or were "false positive") and received cancer treatment, are ingested and ready for search and retrieval.
 
 > [!div class="mx-imgBorder"]
-> [![Illustration of the first phase of the process.](../media/import.png)](../media/import.png#lightbox)
+> ![Illustration of the first phase of the process.](../media/import.png)
 
 Second, when a new DICOM object is uploaded to DICOM service, DICOMcast will synchronize metadata within FHIR service to achieve end-to-end connected patient data within an Azure Health Data Services workspace (imaging data and text-based health data).
 
 > [!div class="mx-imgBorder"]
-> [![Illustration of the second phase of the process.](../media/service-metadata.png)](../media/service-metadata.png#lightbox)
+> ![Illustration of the second phase of the process.](../media/service-metadata.png)
 
 Third, once the data (imaging data and text-based health data) merge is complete, FHIR service can be connected to Power BI to discover available datasets for a specific cohort request.
 
 > [!div class="mx-imgBorder"]
-> [![Illustration of the third phase of the process.](../media/data-discovery.png)](../media/data-discovery.png#lightbox)
+> ![Illustration of the third phase of the process.](../media/data-discovery.png)
 
 Fourth, providers use applications that can quickly identify cohorts and suggest real-world action based on real-world data.
 
 > [!div class="mx-imgBorder"]
-> [![Example application built for using the data.](../media/app.png)](../media/app.png#lightbox)
+> ![Example application built for using the data.](../media/app.png)
 
 Mary is able to benefit from the entire collection of available data as her team seeks to improve her cancer treatment outcome.

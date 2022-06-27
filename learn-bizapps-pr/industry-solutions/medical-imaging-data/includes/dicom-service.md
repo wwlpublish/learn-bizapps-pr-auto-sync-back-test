@@ -8,7 +8,7 @@ The service ingests and persists DICOM objects from VNA (vendor neutral archives
 The following diagram is an example of the path of an image or other DICOM object through the DICOM service and then to other services such as AI, custom applications, analytics, and more.
 
 > [!div class="mx-imgBorder"]
-> [![Diagram of Imaging Data showing imaging modalities, P A C S and V N A, and any other DICOM object going into DICOM service and out into other services.](../media/imaging.png)](../media/imaging.png#lightbox)
+> ![Diagram of Imaging Data showing imaging modalities, P A C S and V N A, and any other DICOM object going into DICOM service and out into other services.](../media/imaging.png)
 
 ## Medical Imaging Server for DICOM
 
@@ -17,7 +17,7 @@ The following diagram is an example of the path of an image or other DICOM objec
 The following diagram is an example of the path of an image or other DICOM object through the DICOM service and then to other services such as AI, custom applications, analytics, and more.
 
 > [!div class="mx-imgBorder"]
-> [![Diagram of Imaging Data showing imaging modalities, P A C S and V N A, and any other DICOM object going into DICOM service and out into other services again.](../media/imaging.png)](../media/imaging.png#lightbox)
+> ![Diagram of Imaging Data showing imaging modalities, P A C S and V N A, and any other DICOM object going into DICOM service and out into other services again.](../media/imaging.png)
 
 ## DICOMcast
 
@@ -26,7 +26,7 @@ DICOMcast allows synchronizing the data from DICOM service to a FHIR service, wh
 DICOMcast is the first cloud technology to bring DICOM metadata and healthcare data together in FHIR. It enables communication across the clinical and imaging data sets of a given patient. It integrates with the FHIR service and enables integration to new solutions, such as a radiologist query by having our service deployed. We'll look closer to DICOMcast but let's review a wide spectrum of building blocks that we provide alongside of Azure Health Data Services first.
 
 > [!div class="mx-imgBorder"]
-> [![Architecture diagram of DICOMcast.](../media/dicom-cast.png)](../media/dicom-cast.png#lightbox)
+> ![Architecture diagram of DICOMcast.](../media/dicom-cast.png)
 
 1. **Poll for batch of changes**: DICOMcast polls for any changes via the [Change Feed](/azure/healthcare-apis/dicom/dicom-change-feed-overview/?azure-portal=true), which captures any changes that occur in your Medical Imaging Server for DICOM.
 

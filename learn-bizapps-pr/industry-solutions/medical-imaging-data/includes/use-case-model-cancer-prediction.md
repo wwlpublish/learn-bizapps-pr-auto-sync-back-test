@@ -36,31 +36,31 @@ Now, let's evaluate the steps above in greater detail. The series of diagrams bu
 The first step involves unblocking imaging data and connecting the imaging data to text-based PHI. Imaging and electronic health records data and the data of thousands of other patients is ingested to the DICOM service and FHIR service. Digital pathology image data is converted and stored as a DICOM file and ingested to the DICOM service and FHIR service. When a new DICOM object is uploaded to DICOM service, DICOMcast will synchronize the metadata within FHIR service to achieve end-to-end connected patient data within the Azure Health Data Services workspace.
 
 > [!div class="mx-imgBorder"]
-> [![Diagram of the first step to build and train a radiology model.](../media/unblock.png)](../media/unblock.png#lightbox)
+> ![Diagram of the first step to build and train a radiology model.](../media/unblock.png)
 
 The second step is centered on identifying similar imaging studies to create a pool of data that can be used on model training. Once all radiology images and digital pathology images are ingested, you can query and feed images into Azure Machine Learning to train your clinical models or to run through existing models for predictive outcomes.
 
 > [!div class="mx-imgBorder"]
-> [![Diagram of the second step to build and train a radiology model.](../media/query.png)](../media/query.png#lightbox)
+> ![Diagram of the second step to build and train a radiology model.](../media/query.png)
 
 Next, step three is to perform annotation via 2D DICOM labeling for images with similar tumors. This is done to prep the images as model training data.
 
 > [!div class="mx-imgBorder"]
-> [![Diagram of the third step to build and train a radiology model.](../media/feedback.png)](../media/feedback.png#lightbox)
+> ![Diagram of the third step to build and train a radiology model.](../media/feedback.png)
 
 The fourth step uses 2D labeled images with a complete set of text-based PHI data to train a prediction model in an Azure Machine Learning experimentation environment (for both radiology images and digital pathology images) that will be used as a classifier on high probable cancer images.
 
 > [!div class="mx-imgBorder"]
-> [![Diagram of the fourth step to build and train a radiology model.](../media/label.png)](../media/label.png#lightbox)
+> ![Diagram of the fourth step to build and train a radiology model.](../media/label.png)
 
 In step five, the classifier is deployed to triage images for their cancer probability (for providers to look at first as these images would be more likely to show evidence of cancer).
 
 > [!div class="mx-imgBorder"]
-> [![Diagram of the fifth step to build and train a radiology model.](../media/machine-learning.png)](../media/machine-learning.png#lightbox)
+> ![Diagram of the fifth step to build and train a radiology model.](../media/machine-learning.png)
 
 Step six, we can highlight images in the clinical workflow based on their urgency.
 
 > [!div class="mx-imgBorder"]
-> [![Diagram of the final step to build and train a radiology model.](../media/urgency.png)](../media/urgency.png#lightbox)
+> ![Diagram of the final step to build and train a radiology model.](../media/urgency.png)
 
 This is just one example of a flow of data that can transform real world evidence to improve real world outcomes.
