@@ -64,8 +64,8 @@ To check and update portal package(s) in an environment:
 
 1. Select **Check portal package(s) for upgrade** at the top of the page.
 
-   >  [!div class="mx-imgBorder"]
-   >  [![Screenshot of the check portal packages for upgrades in Power Platform admin center.](../media/update-portal-solutions-check.png)](../media/update-portal-solutions-check.png#lightbox)
+   > [!div class="mx-imgBorder"]
+   > [![Screenshot of the check portal packages for upgrades in Power Platform admin center.](../media/update-portal-solutions-check.png)](../media/update-portal-solutions-check.png#lightbox)
 
 1. If upgrades are available, you'll be prompted to navigate to the upgrade page. Select **OK** to open the environment portal page.
 
