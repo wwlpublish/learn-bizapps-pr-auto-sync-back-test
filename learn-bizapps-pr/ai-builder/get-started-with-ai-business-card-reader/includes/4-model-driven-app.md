@@ -13,7 +13,7 @@ To create a model-driven app in Power Apps, follow these steps:
 1. Select a Microsoft Dataverse table related to the form that you will create that will use the Business card reader component. For this lesson, use the **Appointment** table.
 1. Select **Save and close**.
 
-    ![Screenshot of Power Apps App Designer > Sitemap Designer with the Contoso Business Card in design view.](../media/image9.png)
+    ![Screenshot of Power Apps App Designer > Sitemap Designer with the Contoso Business Card in design view.](../media/image-9.png)
 
     Update the appointment's **Quick Create** form so it can use the Business card reader component.
 1. Select **Forms**.
@@ -46,4 +46,4 @@ Publish your app and create an appointment by using the Business card reader. Yo
 1. Test your updated form with the Business card component by selecting the plus sign (**+**), and then in **Activities**, and then in **Appointment**.
 1. You can scan a business card and the extracted contact fields will appear in the form. Fill out the remaining fields and save your appointment by selecting **Save and Close**.
 
-    ![Screenshot of the completed Quick Create Appointment form with the Save and Close button at the bottom.](../media/image11.png)
+    ![Screenshot of the completed Quick Create Appointment form with the Save and Close button at the bottom.](../media/image-11.png)
