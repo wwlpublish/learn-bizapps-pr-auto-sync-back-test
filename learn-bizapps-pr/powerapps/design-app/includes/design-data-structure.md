@@ -1,6 +1,6 @@
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/]
 
-Rarely would you start an application with no existing data. When designing your data structure, your first step is to understand where the data is located that the app will use.
+Rarely would you start an application with no existing data. When designing your data structure, you first need to understand where the data is located that the app will use.
 
 Existing data will be imported into your application or you'll integrate it into your application with an existing system or data source.
 
@@ -11,9 +11,9 @@ Typically, existing data is imported when your application will be replacing an 
 > [!div class="mx-imgBorder"]
 > ![Diagram of available data sources.](../media/data.png)
 
-Perhaps the data that you're working with is 10+ years old, but your users only need access to the last three years' worth of data. At that point, it'd be beneficial to do some data cleaning before you import it into your environment. It's also a good time to remove duplicate records, inaccurate records, and other data that will be irrelevant to the tasks that users will be completing in the application. Additionally, you should analyze the contents of legacy fields and identify any that are rarely used. If these fields aren't needed in the new system, it might not make sense to migrate data from them.
+Perhaps the data that you're working with is 10+ years old, but your users only need access to the last three years' worth of data. At that point, it would be beneficial to do some data cleaning before you import it into your environment. It's also a good time to remove duplicate records, inaccurate records, and other data that will be irrelevant to the tasks that users will be completing in the application. Additionally, you should analyze the contents of legacy fields and identify any that are rarely used. If these fields aren't needed in the new system, it might not make sense to migrate data from them.
 
-Cleaning up data won't only display relevant data to users, it'll also help you identify data storage capacity. Exceeding storage capacity is one of the greatest setbacks that an enterprise can encounter during the deployment of Microsoft Power Apps.
+Cleaning up data won't only display relevant data to users, it will also help you identify data storage capacity. Exceeding storage capacity is one of the greatest setbacks that an enterprise can encounter during the deployment of Microsoft Power Apps.
 
 Analyzing the existing data also allows you to identify columns or fields that you need to add to your app. You can create a plan that describes which origin fields will match which destination fields and how these fields will appear after migration.
 
