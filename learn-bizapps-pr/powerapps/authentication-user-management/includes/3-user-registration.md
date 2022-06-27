@@ -21,13 +21,13 @@ Invitation-based registration is the process where an existing contact is valida
 
 This registration is useful in the scenarios when contacts are known in advance. It is commonly used to register customers, partners, or employees. Invitation-based registration works in situations where users can be "pre-validated," such as when you've collected contact information from visitors of your exhibition booth.
 
-Invitations contain a number of [Invitation attributes](/power-apps/maker/portals/configure/invite-contacts?azure-portal=true#invitation-attributes) that allow you to:
+Invitations contain a number of [Invitation columns](/power-apps/maker/portals/configure/invite-contacts?azure-portal=true#invitation-attributes) or attributes that allow you to:
 
 - Send single or group invitations. Group invitations use the same invitation code for all invitees and work well with a restriction on the number of invitations to redeem. For example, a promotional email can be sent by a software company, inviting all their users to participate in a beta program, but intake is limited to the first 100 registrations.
 - Specify an expiry date, if desired.
 - Specify a portal contact as the inviter. You can use this information to customize invitation emails and in the post-registration workflows.
 - Assign the invited contact(s) automatically to an account on invite redemption. This option is useful in partner portal scenarios where all invitees are from the same company.
-- Implement a workflow automatically on invite redemption. For example, you might want to send a "Thank you" email to the contacts who accepted the invitation.
+- Implement a classic workflow automatically on invite redemption. For example, you might want to send a "Thank you" email to the contacts who accepted the invitation.
 - Assign the invited contact(s) automatically to web roles on redemption. You can use this feature to grant users who accept the invitation special access rights in your portal.
 
 > [!IMPORTANT]
@@ -37,7 +37,7 @@ The ensuing sections explain the process of sending and redeeming invitations.
 
 ### Configure automation
 
-The workflow process of sending the invitation email is generic and needs to be customized prior to use. When you are customizing the invitation email, make sure that the link to the **Invite Redemption Page** includes the invitation code. The default link should look like this sample: `https://yourportalurl/register/?returnurl=%2f&invitation={Encoded Invitation Code(Encode Invitation Code)}`
+The classic workflow process of sending the invitation email is generic and needs to be customized prior to use. When you are customizing the invitation email, make sure that the link to the **Invite Redemption Page** includes the invitation code. The default link should look like this sample: `https://yourportalurl/register/?returnurl=%2f&invitation={Encoded Invitation Code(Encode Invitation Code)}`
 
 After the invitation code has been generated, you can distribute it through other channels. For example, if you have a text (SMS) messaging solution in place, you might want to replace the steps of creating and sending the invitation email with the custom step of sending an SMS message instead.
 
@@ -46,13 +46,13 @@ After the invitation code has been generated, you can distribute it through othe
 
 ### Create Invitation
 
-**Create Invitation** is a unique invitation code that is generated when an **Invitation** record is created. The **Invitation** record can be created manually by selecting the **New** command on the **Invitations** view or by using the **Create Invitation** command on a contact record. For more information, see [Create invitations from the Portal Management app](/power-apps/maker/portals/configure/invite-contacts?azure-portal=true#create-invitations-from-portal-management-app).
+**Create Invitation** is a unique invitation code that is generated when an **Invitation** row is created. The **Invitation** row can be created manually by selecting the **New** command on the **Invitations** view or by using the **Create Invitation** command on a contact row. For more information, see [Create invitations from the Portal Management app](/power-apps/maker/portals/configure/invite-contacts?azure-portal=true#create-invitations-from-portal-management-app).
 
 ### Redeem Invitation
 
 When the contact receives the email invitation and follows the URL, they are directed to the **Redeem Invitation** tab of the **Sign In** page.
 
-On this page, they can select the **I have an existing account** option, which opens some automation opportunities where the existing portal users can be sent an invitation code. After the code has been accepted and an existing account is used, you can run a workflow that could, for example, grant user access to some protected content.
+On this page, they can select the **I have an existing account** option, which opens some automation opportunities where the existing portal users can be sent an invitation code. After the code has been accepted and an existing account is used, you can run a workflow that could, for example, grant user access to additional protected content.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of redeem invitation from an account.](../media/redeem-invitation.png)](../media/redeem-invitation.png#lightbox)
@@ -64,6 +64,6 @@ If the user does not select the **I have an existing account** option, they will
 > [!div class="mx-imgBorder"]
 > [![Screenshot of register invited contact from an account.](../media/register-invited-contact.png)](../media/register-invited-contact.png#lightbox)
 
-After the registration process is complete, depending on the invitation options, the portal user can be associated with the predefined account or an additional workflow can be run.
+After the registration process is complete, depending on the invitation options, the portal user can be associated with the predefined account or an additional classic workflow can be run.
 
-For more information, see [Invite contacts to your portals](/power-apps/maker/portals/configure/invite-contacts?azure-portal=true#invitation-attributes).
+For more information, see [Invite contacts to your portals](/power-apps/maker/portals/configure/invite-contacts?azure-portal=true).

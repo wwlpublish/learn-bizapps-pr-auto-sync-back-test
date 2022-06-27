@@ -4,12 +4,12 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 07/14/2020 
+ ms.date: 06/27/2022 
  author: DaveBeasley 
  ms.author: dbeasley 
  ms.topic: interactive-tutorial 
  ms.prod: learning-power-apps 
-durationInMinutes: 5 
+durationInMinutes: 8 
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
@@ -63,7 +63,7 @@ quiz:
     - content: Microsoft account
       isCorrect: false 
       explanation: Azure AD B2C identity provider is the recommended provider for authentication. If external provider support like Facebook is required, then it can be configured in Azure AD B2C instead of the portal.
-    - content: Facebook
+    - content: Azure AD
       isCorrect: false 
       explanation: Azure AD B2C identity provider is the recommended provider for authentication. If external provider support like Facebook is required, then it can be configured in Azure AD B2C instead of the portal.
     - content: Azure AD B2C

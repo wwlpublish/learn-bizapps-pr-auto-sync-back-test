@@ -4,6 +4,7 @@ By now, you should have a good understanding of the common authentication tasks 
 
 - Create portal contact extensions.
 - Configure and register contacts as portal users.
+- Create Power Automate flow to send invitations to contacts.
 - Align portal authentication settings with the business requirements.
 - Identify authentication provider capabilities and steps that are involved in the registration.
 - Select and configure identity providers.

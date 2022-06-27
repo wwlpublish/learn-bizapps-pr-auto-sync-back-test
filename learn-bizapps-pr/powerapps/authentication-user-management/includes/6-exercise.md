@@ -1,15 +1,14 @@
 The purpose of this hands-on lab is to introduce the Power Apps portals invitation-based user registration process.
 
-The exercises work best when you have sample data to work with. Depending on the environment that you are working with, you might want to install sample data to assist with the exercises. Dynamics 365 does provide the ability to add sample data, as needed. If the environment that you are working in does not have sample data installed, follow the steps in the [Add or remove sample data](/power-platform/admin/add-remove-sample-data/?azure-portal=true) documentation to install the sample data into your environment.
+The exercises work best when you have sample data to work with. Depending on the environment that you are working with, you might want to install sample data to assist with the exercises. Dataverse does provide the ability to add sample data, as needed. If the environment that you are working in does not have sample data installed, follow the steps in the [Add or remove sample data](/power-platform/admin/add-remove-sample-data/?azure-portal=true) documentation to install the sample data into your environment.
 
 ## Learning objectives
 
 At the end of these exercises, you will be able to:
 
-- Customize an invitation template.
+- Create a Power Automate flow to email invitations to contacts.
 - Create and send invitations to contacts to register.
 - Redeem invitations.
-- Extend the invitation process by a custom workflow.
 
 **Estimated time to complete this exercise**: 10 to 15 minutes
 
@@ -17,35 +16,20 @@ At the end of these exercises, you will be able to:
 
 The prerequisites for this exercise are as follows:
 
-1. System Administrator access to the Dynamics 365 instance with Dynamics 365 for Customer Service solution installed.
-1. A provisioned Customer self-service, Community, or Customer Power Apps portal.
-1. An enabled and working server-side email synchronization.
-
-When you provision a Dynamics 365 for Customer Engagement trial, Office 365 licenses are not provisioned automatically and the email integration will not work. To enable server-side email synchronization, follow the subsequent procedure.
-
-> [!IMPORTANT]
-> You must be an Office 365 Global Administrator to complete this configuration.
-
-1. Go to the [Admin portal](https://portal.office.com/adminportal/?azure-portal=true).
-1. Select **Billing > Purchase Services**.
-1. Locate the **Office 365 E3** product and select the **Get free trial** option.
-1. Assign the Office 365 license to your user account.
-1. Open the [Microsoft Power Platform admin center](https://aka.ms/ppac/?azure-portal=true).
-1. Select **Environments**, select your environment, and then select **Settings**.
-1. Select **Mailboxes**.
-1. Open your mailbox record and select **Approve Email**.
-1. Select **Test & Enable Mailbox**.
-1. Ensure that the **Outgoing Email Status** field has the **Success** value.
+1. System Administrator access to a Dataverse or Dynamics 365 instance.
+1. A provisioned portals in that environment.
+1. Maker access to Power Automate.
+2. An Office 365 email account or any other email account that can be accessed in Power Automate via a connector.
 
 ## Scenario
 
-Your organization has been using Dynamics 365 for Customer Engagement for some time and has been recording information about customers and suppliers. You have provisioned and configured a Power Apps portal. You want to invite one of your suppliers who is responsible for your websites to register as an administrative portal user so that they are able to sign in and administer the portal by using the front-end interface.
+Your organization has been using Power Apps for some time and has been recording information about customers and suppliers. You have provisioned and configured a Power Apps portal. You want to invite one of your suppliers assisting you with the portal management to register as an administrative portal user so that they are able to sign in, access administrator-only content, and perform administrator-specific front-end functions like previewing draft content.
 
 ## High-level steps
 
 To send invitations to your customers, and for them to redeem the invitations, complete the following tasks:
 
-- Modify the Send Invitation template.
+- Create Power Automate flow to send a single invitation.
 - Select a contact and create an invitation.
 - Ensure that the invitation contains required information.
 - Send the invitation to the contact.
@@ -54,56 +38,126 @@ To send invitations to your customers, and for them to redeem the invitations, c
 
 To create a test contact, follow these steps:
 
-1. Open [Dynamics 365 Home](https://dynamics.microsoft.com/?azure-portal=true).
-1. Select the **Power Apps portals** app.
-1. Select **Contacts** and then select **New**.
-1. Create a new record for Nancy Davolio. Fill in the first name, last name, and email address information (*use an email address where you can receive the email*).
+1. Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true).
+1. Select a target environment by using the environment selector in the upper-right corner.
+1. On the left menu, select **Apps**.
+1. Click **Portal Management** app. The **Portal Management** app will open in a new tab. Do not close the Power Apps maker environment window.
+   ![Screenshot of the steps to open Portal Management app.](../media/open-portal-management-app.png)
+1. In the app select **Contacts** in the **Security** section and then select **New**.
+1. Create a new row for Nancy Davolio. Fill in the first name, last name, and email address information (*use an email address where you can receive the email*).
 1. Select **Save**.
+   ![Screenshot of the steps to create test contact.](../media/create-contact.png)
+1. Do not close this window.
 
-### Customize the workflow
+### Create invitation flow
 
-The workflow process of sending the invitation email is generic and needs to be customized prior to use.
+Power Apps portals are provisioned with a classic workflow to send the invitation email. We will use modern approach instead and create a new Power Automate flow to accomplish the same task.
 
-1. Open the [Power Apps portal](https://make.powerapps.com/?azure-portal=true).
+1. Switch to Power Apps maker environment tab.
 
-1. Select **Solutions**, and then locate and select **Default Solution**.
-
-1. Change the filter from **All** to **Processes**.
-
-1. Locate and open the **Send Invitation** workflow process.
+1. Select **Solutions**, then locate and select **Common Data Services Default Solution**.
 
    > [!TIP]
-   > Use search to locate the process.
+   > Use search to locate the solution.
 
-1. Deactivate the workflow.
+   ![Screenshot of the steps to open Common Data Services default solution in the environment.](../media/open-default-solution.png)
 
-1. Select **Set properties** for the **Create an email to act as an email template** step.
+1. Select **New > Automation > Cloud flow > Instant**.
 
-1. Enter the **Subject** as **Join our community**.
+   ![Screenshot of the menu selection to start creating Power Automate instant flow.](../media/new-instant-flow.png)
 
-1. Replace the content of the email template with the following sample content. Use the workflow editor to insert values for the **First Name** field from **Invited Contact** and use the hyperlink button to insert the link and **Encoded Invitation Code** value.
+1. Enter **Send Invitation** as **Flow name**.
 
-   ```al
-   Dear {First Name(Invite Contact (Contact));customer}
+1. Select **When a row is selected** Dataverse trigger.
 
-   invites you to join our community. To redeem your invitation, please follow <hyperlink><name>this link</name><value>https://yourportalurl.powerappsportals.com/register/?returnurl=%2f&invitation={Encoded Invitation Code(Encode Invitation Code)}</value></hyperlink>
+1. Select **Create**.
 
-   Best regards
-   Contoso Team
-   ```
+   ![Screenshot of the dialog to provide instant flow parameters.](../media/create-instant-flow.png) 
 
-1. Activate the workflow.
+1. Enter details for **When a row is selected** step.
+
+   * Select **Default** environment
+   * Select **Invitations** table
+
+1. Add an action **Get a row by ID** from **Microsoft Dataverse** connector
+
+   - Click ... on the step and select **Rename**. Change step name to **Get Contact**.
+   - Select **Contacts** as table
+   - Insert **Invite Contact** dynamic content as **Row ID**
+
+1. Press **Save**. Your flow should look like the following:
+   ![Screenshot of the initial steps creating Power Automate flow.](../media/create-flow.png) 
+
+1. Add an action **Compose** from **Data Operation** connector.
+
+   - Set **Inputs** to `<a href="https://portalurl/register/?invitation=CODE">this link</a>`
+   - Replace **portalurl** with your portal address, e.g. `contoso.powerappsportals.com`
+   - Select **CODE** and replace it with **Invitation Code** dynamic content.
+   - That will create an invitation link expression that we can now use inside an HTML email
+
+   ![Screenshot of the compose step creating invitation U R L.](../media/invitation.png)
+
+1. Add an action **Send an email (V2)** from **Office 365 Outlook** connector.
+
+   > [!NOTE]
+   > On this step you can use any connector that supports sending HTML emails. For example, if you have a SendGrid subscription, you can use SendGrid connector.
+
+   * Insert **Email** dynamic content from **Get Contact** step as **To**.
+
+   * Enter **Join our community** as **Subject**.
+
+   * Insert the following text as email body:
+  
+     ```text
+     Dear FIRSTNAME,
+     
+     please accept our invitation to join Contoso community. To redeem your invitation, please follow LINK.
+     
+     Best regards
+     Contoso Team
+     ```
+
+   * Replace FIRSTNAME with **First Name** dynamic content from **Get Contact** step.
+
+   * Replace LINK with **Outputs** from **Compose** step.
+
+2. Select **Save**. Your flow should look like the following:
+   ![Screenshot after send email step.](../media/email.png)
+
+3. Add **Update a row** action from **Microsoft Dataverse** connector.
+
+   - Press ... on the step and select **Rename**. Change step name to **Set status as sent**.
+   - Select **Invitations** as table.
+   - Select **Invitation** dynamic content from **When a record is selected** step as **Row ID**.
+   - Expand **Show advanced options**.
+   - Select **Sent** as **Status Reason**.
+
+   ![Screenshot of set status reason for invitation.](../media/status.png)
+
+4. Select **Save** then select Go Back arrow in the top left corner.
+
+    ![Screenshot of the save and exit flow editor step.](../media/save.png)
 
 ### Create and send the invitation
 
 To create and send the invitation, follow these steps:
 
-1. Open the Nancy Davolio contact record.
-1. Select **Create Invitation**.
+1. Switch to the Power Apps portals app. Open Nancy Davolio contact row if it's not already opened.
+
+1. Select **Create Invitation** on the command bar.
+
 1. The invitation will be prepopulated. Select **Save**.
+
 1. Under **Assign to Web Roles**, select **Add Existing Web Role**.
+
 1. Search and add the **Administrators** role.
-1. Select **Flow > Send Invitation**. Confirm that the invitation has been sent.
+
+1. Select **Flow > Send Invitation**.
+
+   ![Screenshot of the Create and send invitation steps.](../media/create-send-invitation.png)
+
+   > [!TIP]
+   > If you don't see **Send Invitation** under **Flow** menu, select **See your flows** first, refresh the window, then try accessing **Flow** menu again.
 
 ### Redeem the invitation
 
@@ -113,20 +167,13 @@ To redeem the invitation, follow these steps:
 
 1. Locate and open the invitation email.
 
-   > [!NOTE]
-   > Server-side synchronization might take up to 15 minutes to synchronize and send the email.
-
-1. Select the link in the email.
-
-   The **Redeem Invitation** page will open.
+1. Select the link in the email. The **Redeem Invitation** page will open.
 
 1. Select **Register**.
 
 1. Enter username **nancyd** and then a password of your choice.
 
-1. Select **Register**.
-
-   Your account will be registered and you will be signed in automatically and redirected to the profile page. The front-side editing toolbox will appear, and you will see the **Edit** button when hovering over the elements of the page. The ability to edit indicates that you have been automatically assigned the role with sufficient front-side editing privileges (Administrators in this case).
+1. Select **Register**. Your account will be registered and you will be signed in automatically and redirected to the profile page.
 
 1. Switch to the Power Apps portals app.
 
@@ -135,3 +182,5 @@ To redeem the invitation, follow these steps:
 1. Confirm that the **Nancy Davolio** invitation is listed.
 
 1. Open the invitation and confirm that **Status Reason** is now **Redeemed**.
+
+   ![Screenshot of the redeemed invitation.](../media/redeemed-invitation.png)
