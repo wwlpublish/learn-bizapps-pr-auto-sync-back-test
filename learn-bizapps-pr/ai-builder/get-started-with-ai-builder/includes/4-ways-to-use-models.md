@@ -4,7 +4,7 @@ After creating your AI Builder model, you can use it in Power Apps and Power Aut
 
 After your model has completed training, you can view important details about your newly trained model on a details page for that model. The information might vary depending on the model type.
 
-![Models > My Document Processing model shows a Training document with Publish and Quick Test buttons, a Selected fields list, and how your model is used.](../media/image-4.jpg)(../media/image-4.jpg#lightbox)
+![Models > My Document Processing model shows a Training document with Publish and Quick Test buttons, a Selected fields list, and how your model is used.](../media/image-4.jpg)](../media/image-4.jpg#lightbox)
 
 On the model details page, you can see the customizations that you made to train your model. It shows additional insights with the accuracy score so that you can improve your model performance. Some model types  give you the opportunity to quick test your model
 to see it live in action.
