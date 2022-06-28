@@ -1,7 +1,7 @@
 There are various building blocks within Microsoft that can be coupled with DICOM service to enable end-to-end solutions in medical imaging. This reference architecture diagram demonstrates how to enable AI/ML model consumption in the field via Microsoft cloud capabilities.
 
 > [!div class="mx-imgBorder"]
-> [![Architecture diagram of Microsoft's medical imaging capabilities.](../media/architecture.png)](../media/architecture.png#lightbox)
+> [![Diagram of the architecture of Microsoft's medical imaging capabilities.](../media/architecture.png)](../media/architecture.png#lightbox)
 
 These capabilities enable scenarios such as:
 
