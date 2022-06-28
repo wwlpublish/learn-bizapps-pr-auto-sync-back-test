@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate.exercise-create-canvas-app
+title: Exercise 1 - Create canvas app
+metadata:
+  unitType: exercise
+  title: Exercise 1 - Create canvas app
+  description: "TODO this field is for search engine optimization and is not user-visible; use 2-3 complete, grammatically correct sentences to describe the unit; include relevant search keywords."
+  ms.date: 6/28/2022
+  author: Randall-Knapp
+  ms.author: chsims
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+durationInMinutes: 1
+content: |
+  [!include[](includes/3-exercise-create-canvas-app.md)]

@@ -1,0 +1,16 @@
+﻿### YamlMime:ModuleUnit 
+uid: learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate.prepare
+title: Prepare
+metadata:
+  unitType: learning-content
+  title: Prepare
+  description: "Project specification and setup requirements."
+  ms.date: 6/28/2022
+  author: Randall-Knapp
+  ms.author: chsims
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+durationInMinutes: 1
+content: |
+  [!include[](includes/2-prepare.md)]
+
