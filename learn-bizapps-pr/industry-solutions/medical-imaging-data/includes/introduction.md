@@ -45,4 +45,4 @@ Metadata in DICOM is organized as a standardized series of tags. By extracting d
 
 In the following video, we'll learn about the DICOM data model and the sharing of DICOM images.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50yw2/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50yw2]
