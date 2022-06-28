@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.azure-health-data-services 
+metadata: 
+ title: Azure Health Data Services overview
+ description: Azure Health Data Services overview
+ ms.date: 06/27/2022  
+ author: AshokSudhaMCRSOFT  
+ ms.author: sudhaashok  
+ ms.topic: interactive-tutorial  
+ ms.prod: learning-mscloud-healthcare  
+title: Azure Health Data Services overview
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Azure Health Data Services is a managed Platform-as-a-Service (PaaS) based on OpenAPI standards and frameworks that enable secure and scalable health data solutions. Azure Health Data Services empowers the Microsoft Cloud for Healthcare and other health workloads by enabling secure and compliant paths to ingest, persist and connect health data in the cloud. Azure Health Data Services is a set of tools and connectors that enable organizations to bring health data to the Microsoft Cloud and improve health through insights.
+abstract: |  
+    In this module, you will: 
+    - Understand interoperability challenges of health and life sciences data
+    - Understand the core global health data standards Azure Health Data Services supports today
+    - Describe the tools and connectors that comprise Azure Health Data Services and the benefits they provide
+prerequisites: None
+iconUrl: /learn/achievements/azure-health-data-services.svg  
+levels:  
+- beginner   
+- intermediate  
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- industry-solutions
+- mscloud-healthcare 
+subjects: 
+- modern-work 
+units: 
+- learn-bizapps.azure-health-data-services.introduction  
+- learn-bizapps.azure-health-data-services.interoperability-challenges 
+- learn-bizapps.azure-health-data-services.azure-healthdataservices-tools 
+- learn-bizapps.azure-health-data-services.check 
+- learn-bizapps.azure-health-data-services.summary 
+badge: 
+  uid: learn-bizapps.azure-health-data-services.badge 
