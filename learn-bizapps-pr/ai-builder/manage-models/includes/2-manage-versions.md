@@ -24,11 +24,11 @@ You can have three versions of your model at any given time:
 
 On the model details page, you can switch between the trained versions using the pivots at the top of the page.
 
-![Screenshot of Object Detection (preview) with tabs for Published version and Last trained version (selected).](../media/image1.jpg)
+![Screenshot of Object Detection (preview) with tabs for Published version and Last trained version (selected).](../media/image-1.jpg)
 
 When you edit your model, if you have a published version and a last trained version, you can start from the configuration of either version.
 
-![Screenshot of Edit model menu expanded to show Start from published version and Start from last trained version options.](../media/image2.jpg)
+![Screenshot of Edit model menu expanded to show Start from published version and Start from last trained version options.](../media/image-2.jpg)
 
 ### What's next?
 
