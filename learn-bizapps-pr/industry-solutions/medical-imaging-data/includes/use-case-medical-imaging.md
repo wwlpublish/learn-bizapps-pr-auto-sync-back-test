@@ -13,7 +13,7 @@ The following information is ingested:
 The following diagram illustrates the process.
 
 > [!div class="mx-imgBorder"]
-> ![Illustration of the process.](../media/process.png)
+> ![Diagram of the process of using electronic health records.](../media/process.png)
 
 1. Hospital uses electronic health record data and imaging data.
 
@@ -33,16 +33,16 @@ The first step is importing electronic health records with related medical imagi
 Second, when a new DICOM object is uploaded to DICOM service, DICOMcast will synchronize metadata within FHIR service to achieve end-to-end connected patient data within an Azure Health Data Services workspace (imaging data and text-based health data).
 
 > [!div class="mx-imgBorder"]
-> ![Illustration of the second phase of the process.](../media/service-metadata.png)
+> ![Diagram of the second phase of the process.](../media/service-metadata.png)
 
 Third, once the data (imaging data and text-based health data) merge is complete, FHIR service can be connected to Power BI to discover available datasets for a specific cohort request.
 
 > [!div class="mx-imgBorder"]
-> ![Illustration of the third phase of the process.](../media/data-discovery.png)
+> ![Diagram of the third phase of the process.](../media/data-discovery.png)
 
 Fourth, providers use applications that can quickly identify cohorts and suggest real-world action based on real-world data.
 
 > [!div class="mx-imgBorder"]
-> ![Example application built for using the data.](../media/app.png)
+> ![Diagram that shows the application built for using the data.](../media/app.png)
 
 Mary is able to benefit from the entire collection of available data as her team seeks to improve her cancer treatment outcome.
