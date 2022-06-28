@@ -1,14 +1,14 @@
 ### YamlMime:Module
 uid: learn-bizapps.medical-imaging-data
 metadata:
- title: Medical imaging data and DICOM
+ title: Work with medical imaging data and DICOM
  description: Learn about medical imaging data and DICOM® (Digital Imaging and Communications in Medicine).
  ms.date: 07/05/2022
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
  ms.prod: learning-mscloud-healthcare
-title: Medical imaging data and DICOM
+title: Work with medical imaging data and DICOM
 summary: |
   [!include[](../includes/module-banner.md)]
   DICOM® (Digital Imaging and Communications in Medicine) is the international standard for medical images, imaging formats, and related information. It's the ISO 12052 standard that defines the data quality and exchange specifications for images to meet clinical use requirements. Digitization of medical imaging data using the DICOM standard enables health data interoperability, and the Microsoft cloud is equipped to ingest, persist, and connect DICOM imaging data to help improve patient outcomes.
