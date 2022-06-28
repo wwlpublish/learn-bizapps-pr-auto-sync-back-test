@@ -30,4 +30,4 @@ The MedTech service can be configured to work with any IoT device by building ap
 The sample reference architecture below demonstrates the ingress and egress of data from an IoT device (like a smart watch or scale) into Azure Health Data Services via MedTech service. Once ingested, the data can be normalized in FHIR and transformed for a wide range of uses across the broader Microsoft cloud from scheduling, eventing and analytics to machine learning and beyond. As shown below, the IoT data from multiple device types egresses from Azure Health Data Services through connectors to these first and third party services. 
 
 > [!div class="mx-imgBorder"]
-> [![Diagram of reference architecture for IoT devices in MedTech.](../media/architecture.png)](../media/architecture.png#lightbox)
+> [![Diagram of reference architecture for IoT devices in MedTech.](../media/architecture.png)](../media/architecture-large.png#lightbox)
