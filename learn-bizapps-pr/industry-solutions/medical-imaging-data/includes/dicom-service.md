@@ -55,7 +55,7 @@ DICOMcast is the first cloud technology to bring DICOM metadata and healthcare d
 ## Connect DICOM service with other tools, services, and products
 
 > [!div class="mx-imgBorder"]
-> [![Diagram of architecture of DICOMcast.](../media/connect.png)](../media/connect.png#lightbox)
+> [![Diagram of architecture of DICOMcast showing DICOM service and F H I R service.](../media/connect.png)](../media/connect.png#lightbox)
 
 **DICOM data anonymization** [Anonymize DICOM metadata](https://github.com/microsoft/Tools-for-Health-Data-Anonymization/blob/master/docs/DICOM-anonymization.md/?azure-portal=true): A DICOM file not only contains a viewable image but also a header with a large variety of data elements. These metadata elements include identifiable information about the patient, the study, and the institution. Sharing such sensitive data demands proper protection to ensure data safety and maintain patient privacy. DICOM Anonymization Tool helps anonymize metadata in DICOM files for this purpose.
 
