@@ -56,4 +56,4 @@ Selecting **+ Build intelligent automation** and then **Other** opens the screen
 
 Selecting **Continue** opens a preconfigured flow with the custom model selected in the AI Builder action.
 
-![Select continue to open Process and save information from forms flow.](../media/04-continue-flow.png)
+[![Select continue to open Process and save information from forms flow.](../media/04-continue-flow.jpg)](../media/04-continue-flow.jpg#lightbox)
