@@ -4,7 +4,7 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 06/30/2022 
+ ms.date: 06/27/2022 
  author: jadaphillips 
  ms.author: jadaphillips 
  ms.topic: interactive-tutorial 
@@ -15,23 +15,23 @@ quiz:
   questions: 
   - content: What is the objective of a business process flowchart?
     choices: 
-    - content: Sketch the screens included in the app.
+    - content: Sketch the screens that are included in the app
       isCorrect: false 
-      explanation: Incorrect. Sketching the screens helps us design the app, but not the business process flowchart.
-    - content: Identify the tasks that are required in the app.
+      explanation: Incorrect. Sketching the screens helps you design the app, but not the business process flowchart.
+    - content: Identify the tasks that are required in the app
       isCorrect: true 
       explanation: Correct. The objective of a business process flowchart is to identify tasks that are required in the app.
-    - content: List the data sources to be included in the app.
+    - content: List the data sources to be included in the app
       isCorrect: false 
-      explanation: Incorrect. This isn't the objective of a business process flowchart.
+      explanation: Incorrect. This option isn't the objective of a business process flowchart.
   - content: Which of the following tasks are recommended before a data migration?
     choices: 
     - content: Secure your data.
       isCorrect: false 
-      explanation: Incorrect. Securing your data is indeed vital and should continuously be done within your organization.
+      explanation: Incorrect. Securing your data is vital and should be done continuously within your organization.
     - content: Determine the server location.
       isCorrect: false 
-      explanation: Incorrect. This isn't a recommended step before data migration.
+      explanation: Incorrect. This step isn't recommended before data migration.
     - content: Clean up your data.
       isCorrect: true 
       explanation: Correct. It's essential to clean up your data before you migrate the data.
@@ -42,7 +42,7 @@ quiz:
       explanation: Correct. Field-level security allows you to secure a specific column within a table.
     - content: Record-level security
       isCorrect: false 
-      explanation: Incorrect. This isn't the correct security level.
+      explanation: Incorrect. This option isn't the correct security level.
     - content: App-level security
       isCorrect: false 
-      explanation: Incorrect. This isn't the correct security level.
+      explanation: Incorrect. This option isn't the correct security level.
