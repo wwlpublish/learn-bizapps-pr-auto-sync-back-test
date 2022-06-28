@@ -18,7 +18,7 @@ To create a flow from an AI Builder template, follow these steps:
 1. Enter **AI Builder** in the search bar and then press the **Enter** key. All AI Builder templates will be displayed, as shown in the following figure.
 
     > [!div class="mx-imgBorder"]
-    > [![A screenshot of a search for A I Builder showing all flow templates.](../media/04-templates.png)](../media/04-templates.png#lightbox)
+    > [![A screenshot of a search for A I Builder showing all flow templates.](../media/04-templates.jpg)](../media/04-templates.jpg#lightbox)
 
 1. Select the **Send a notification with the sentiment of manager's email using AI Builder** template. You'll see a summary of the template with a list of the connections that will be used.
 
@@ -29,7 +29,7 @@ To create a flow from an AI Builder template, follow these steps:
 1. A preconfigured flow appears (at this stage, the flow isn't yet saved).
 
     > [!div class="mx-imgBorder"]
-    > [![Preconfigured flow template with If yes and If no conditions.](../media/04-preconfigured-flow.png)](../media/04-preconfigured-flow.png#lightbox)
+    > [![Preconfigured flow template with If yes and If no conditions.](../media/04-preconfigured-flow.jpg)](../media/04-preconfigured-flow.jpg#lightbox)
 
     You can save the flow as-is or update it at your convenience:
 
@@ -46,11 +46,13 @@ From AI Builder studio, you can launch the creation of a flow by using your favo
 The following example shows a custom document processing model. The detail page of the model contains a **Use model** button (the model must be published). Selecting this button will open a right panel that offers multiple options, as shown in the following figure.
 
 > [!div class="mx-imgBorder"]
-> [![Custom document processing model with Use model button selected to reveal the User your model panel to the right.](../media/04-custom-form.png)](../media/04-custom-form.png#lightbox)
+> [![Custom document processing model with Use model button selected to reveal the User your model panel to the right.](../media/04-custom-form.jpg)](../media/04-custom-form.jpg#lightbox)
 
-Selecting **+ New flow** opens the screen where you can create a flow from a template.
+> [![Custom document processing model.](../media/04b-custom-form.jpg)](../media/04b-custom-form.jpg#lightbox)
 
-![Select a button to read and save information from documents using A I Builder.](../media/04-new-flow.png)
+Selecting **+ Build intelligent automation** and then **Other** opens the screen where you can create a flow from a template.
+
+![Select a button to read and save information from documents using A I Builder.](../media/04-new-flow.jpg)
 
 Selecting **Continue** opens a preconfigured flow with the custom model selected in the AI Builder action.
 
