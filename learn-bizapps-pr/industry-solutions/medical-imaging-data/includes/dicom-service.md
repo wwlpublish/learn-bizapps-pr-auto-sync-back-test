@@ -3,30 +3,22 @@ DICOM service within Azure Health Data Services enables imaging data to securely
 > [!div class="mx-imgBorder"]
 > [![Diagram of P a a S Service showing health data going into Azure Health Data Services and then out into other systems.](../media/service.png)](../media/service.png#lightbox)
 
-The service ingests and persists DICOM objects from VNA (vendor neutral archives), PACS (picture archiving and communications system) and other medical imaging systems at multiple thousands of images per second. Azure Health Data Services DICOM service enables storing DICOM images in the cloud where you can query, retrieve, and delete them.
-
-The following diagram is an example of the path of an image or other DICOM object through the DICOM service and then to other services such as AI, custom applications, analytics, and more.
-
-> [!div class="mx-imgBorder"]
-> ![Diagram of Imaging Data showing imaging modalities, P A C S and V N A, and any other DICOM object going into DICOM service and out into other services.](../media/imaging.png)
+The service ingests and persists DICOM objects from VNA (vendor neutral archives), PACS (picture archiving and communications system) and other medical imaging systems at multiple thousands of images per second. Azure Health Data Services DICOM service enables storing DICOM images in the cloud where you can query, retrieve, and share medical images with ease.
 
 ## Medical Imaging Server for DICOM
 
-Additionally, there's also an open-source version, [Medical Imaging Server for DICOM](https://github.com/microsoft/dicom-server/?azure-portal=true) that you can maintain on your own with feature parity between it and the one managed by Microsoft. This, for example,  allows a developer to run the open-source version locally in a docker instance for testing and have feature parity with the Azure service.
-
-The following diagram is an example of the path of an image or other DICOM object through the DICOM service and then to other services such as AI, custom applications, analytics, and more.
-
-> [!div class="mx-imgBorder"]
-> ![Diagram of Imaging Data showing imaging modalities, P A C S and V N A, and any other DICOM object going into DICOM service and out into other services again.](../media/imaging.png)
+Additionally, there's also an open-source version, [Medical Imaging Server for DICOM](https://github.com/microsoft/dicom-server/?azure-portal=true).
 
 ## DICOMcast
 
-DICOMcast allows synchronizing the data from DICOM service to a FHIR service, which allows healthcare organizations to integrate clinical and imaging data. DICOMcast expands the use cases for health data.
+DICOMcast allows synchronizing the data from DICOM service to a FHIR service, which enables healthcare organizations to merge clinical and imaging data together into a unified database. DICOMcast opens new clinical and research possibilities by integrating textual-based health data with medical imaging data. 
 
-DICOMcast is the first cloud technology to bring DICOM metadata and healthcare data together in FHIR. It enables communication across the clinical and imaging data sets of a given patient. It integrates with the FHIR service and enables integration to new solutions, such as a radiologist query by having our service deployed. We'll look closer to DICOMcast but let's review a wide spectrum of building blocks that we provide alongside of Azure Health Data Services first.
+DICOMcast is the first cloud technology to bring DICOM metadata and healthcare data together in FHIR. The technology works by enabling communication across clinical and imaging datasets. For example, for a given patient, DICOMcast makes it possible to view the patient’s FHIR records and medical images together as though they are from the same data store. DICOMcast also enables new interoperability in medical studies, such as radiological queries using labeled attributes combined with patients’ health histories in FHIR. 
 
 > [!div class="mx-imgBorder"]
 > ![Diagram of architecture of DICOMcast.](../media/dicom-cast.png)
+
+### DICOMcast operation
 
 1. **Poll for batch of changes**: DICOMcast polls for any changes via the [Change Feed](/azure/healthcare-apis/dicom/dicom-change-feed-overview/?azure-portal=true), which captures any changes that occur in your Medical Imaging Server for DICOM.
 
@@ -35,6 +27,9 @@ DICOMcast is the first cloud technology to bring DICOM metadata and healthcare d
 1. **Merge FHIR resources and 'PUT' as a bundle in a transaction**: The FHIR resources corresponding to the DICOMcast captured changes will be merged. The FHIR resources will be 'PUT' as a bundle in a transaction into your FHIR service.
 
 1. **Persist state and process next batch**: DICOMcast will then persist the current state to prepare for the next batch of changes.
+
+    > [!div class="mx-imgBorder"]
+    > [![Diagram of architecture of DICOMcast showing DICOM service and F H I R service.](../media/connect.png)](../media/connect.png#lightbox)
 
 ## DICOM service features
 
@@ -53,9 +48,6 @@ DICOMcast is the first cloud technology to bring DICOM metadata and healthcare d
 **Role-based access**: You control your data. Role-based access control (RBAC) enables you to manage how your data is stored and accessed. Providing increased security and reducing administrative workload, you determine who has access to the datasets you create, based on role definitions you create for your environment.
 
 ## Connect DICOM service with other tools, services, and products
-
-> [!div class="mx-imgBorder"]
-> [![Diagram of architecture of DICOMcast showing DICOM service and F H I R service.](../media/connect.png)](../media/connect.png#lightbox)
 
 **DICOM data anonymization** [Anonymize DICOM metadata](https://github.com/microsoft/Tools-for-Health-Data-Anonymization/blob/master/docs/DICOM-anonymization.md/?azure-portal=true): A DICOM file not only contains a viewable image but also a header with a large variety of data elements. These metadata elements include identifiable information about the patient, the study, and the institution. Sharing such sensitive data demands proper protection to ensure data safety and maintain patient privacy. DICOM Anonymization Tool helps anonymize metadata in DICOM files for this purpose.
 
