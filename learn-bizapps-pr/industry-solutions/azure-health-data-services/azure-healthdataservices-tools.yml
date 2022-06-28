@@ -9,7 +9,7 @@ metadata:
   ms.author: sudhaashok 
   ms.topic: interactive-tutorial 
   ms.prod: learning-mscloud-healthcare 
-durationInMinutes: 5 
+durationInMinutes: 8 
 content: | 
  [!include[](../includes/unit-banner.md)] 
  [!include[](includes/azure-healthdataservices-tools.md)] 
