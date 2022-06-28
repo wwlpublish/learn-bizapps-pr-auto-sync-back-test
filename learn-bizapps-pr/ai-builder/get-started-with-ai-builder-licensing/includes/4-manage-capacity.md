@@ -26,7 +26,7 @@ The goal of this assignment step is to allow an admin to correctly manage your c
 
 As shown in the following image, the total number of assigned AI Builder credits can be seen in the first tab of **Resources > Capacity**, in the **Add-On** part of the screen, at the bottom of the page.
 
-![A screenshot of the Manage add-ons dialog with the Environment dropdown showing ProdEurope selected.](../media/image-7.png)
+![A screenshot of the Manage add-ons dialog with the Environment dropdown showing ProdEurope selected.](../media/image-7.jpg)
 
 The preceding screenshot shows that 910,000 AI Builder credits have been assigned out of the 1,000,000 that have been purchased.
 

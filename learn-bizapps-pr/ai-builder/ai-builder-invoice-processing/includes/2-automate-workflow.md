@@ -39,7 +39,7 @@ Next, you'll scan the contents of the image file for the key invoice information
 1. In the **Invoice file** field, select the **File content** dynamic content from the OneDrive trigger.
 
 > [!div class="mx-imgBorder"]
-> [![Dialogs for When a file is created, Process and save information from invoices, and Dynamic Value with File content selected.](../media/file-created.jpg)](../media/file-created.png#lightbox)
+> [![Dialogs for When a file is created, Process and save information from invoices, and Dynamic Value with File content selected.](../media/file-created.jpg)](../media/file-created.jpg#lightbox)
 
 ### Create an Excel table
 
