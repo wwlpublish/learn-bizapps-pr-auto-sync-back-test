@@ -2,8 +2,8 @@
 uid: learn-bizapps.plan-app-project
 metadata:
  title: Plan your project like a pro
- description: Learn to plan your app project effectively.
- ms.date: 06/30/2022
+ description: Learn how to plan your app project effectively.
+ ms.date: 06/27/2022
  author: jadaphillips
  ms.author: jadaphillips
  ms.topic: interactive-tutorial
@@ -11,12 +11,12 @@ metadata:
 title: Plan your project like a pro
 summary: |
   [!include[](../includes/module-banner.md)]
-  Pros don't start building a Power App without proper planning. Crafting an effective plan will save you time, energy, and costs, because this is where you answer essential questions before you begin to build your app. The planning phase is the most critical step in the Application Lifecycle Management (ALM) cycle.
+  Professionals don't start building an app from Power Apps without proper planning. Crafting an effective plan will save you time, energy, and costs because you’ll be able to answer essential questions before starting to build your app. The planning phase is the most critical step in the application lifecycle management (ALM) cycle.
 abstract: |
-    In this module, you will:
-    - Identify what problem will be resolved by the app
-    - Determine the users who will use the app
-    - List the goals and objectives will your app meet for users
+    In this module, you'll:
+    - Identify the problem that the app will resolve.
+    - Determine who will use the app.
+    - List the goals and objectives that your app will meet for users.
 prerequisites: Basic solutions and delivery process experience
 iconUrl: /learn/achievements/plan-app-project.svg
 levels:
