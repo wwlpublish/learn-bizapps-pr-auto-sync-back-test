@@ -12,7 +12,7 @@ The following diagram is an example of the path of an image or other DICOM objec
 
 ## Medical Imaging Server for DICOM
 
-​Additionally, there's also an open-source version, [Medical Imaging Server for DICOM](https://github.com/microsoft/dicom-server/?azure-portal=true) that you can maintain on your own with feature parity between it and the one managed by Microsoft. This, for example,  allows a developer to run the open-source version locally in a docker instance for testing and have feature parity with the Azure service.
+Additionally, there's also an open-source version, [Medical Imaging Server for DICOM](https://github.com/microsoft/dicom-server/?azure-portal=true) that you can maintain on your own with feature parity between it and the one managed by Microsoft. This, for example,  allows a developer to run the open-source version locally in a docker instance for testing and have feature parity with the Azure service.
 
 The following diagram is an example of the path of an image or other DICOM object through the DICOM service and then to other services such as AI, custom applications, analytics, and more.
 
@@ -26,7 +26,7 @@ DICOMcast allows synchronizing the data from DICOM service to a FHIR service, wh
 DICOMcast is the first cloud technology to bring DICOM metadata and healthcare data together in FHIR. It enables communication across the clinical and imaging data sets of a given patient. It integrates with the FHIR service and enables integration to new solutions, such as a radiologist query by having our service deployed. We'll look closer to DICOMcast but let's review a wide spectrum of building blocks that we provide alongside of Azure Health Data Services first.
 
 > [!div class="mx-imgBorder"]
-> ![Architecture diagram of DICOMcast.](../media/dicom-cast.png)
+> ![Diagram of architecture of DICOMcast.](../media/dicom-cast.png)
 
 1. **Poll for batch of changes**: DICOMcast polls for any changes via the [Change Feed](/azure/healthcare-apis/dicom/dicom-change-feed-overview/?azure-portal=true), which captures any changes that occur in your Medical Imaging Server for DICOM.
 
@@ -55,7 +55,7 @@ DICOMcast is the first cloud technology to bring DICOM metadata and healthcare d
 ## Connect DICOM service with other tools, services, and products
 
 > [!div class="mx-imgBorder"]
-> [![Another architecture diagram of DICOMcast.](../media/connect.png)](../media/connect.png#lightbox)
+> [![Diagram of architecture of DICOMcast.](../media/connect.png)](../media/connect.png#lightbox)
 
 **DICOM data anonymization** [Anonymize DICOM metadata](https://github.com/microsoft/Tools-for-Health-Data-Anonymization/blob/master/docs/DICOM-anonymization.md/?azure-portal=true): A DICOM file not only contains a viewable image but also a header with a large variety of data elements. These metadata elements include identifiable information about the patient, the study, and the institution. Sharing such sensitive data demands proper protection to ensure data safety and maintain patient privacy. DICOM Anonymization Tool helps anonymize metadata in DICOM files for this purpose.
 
