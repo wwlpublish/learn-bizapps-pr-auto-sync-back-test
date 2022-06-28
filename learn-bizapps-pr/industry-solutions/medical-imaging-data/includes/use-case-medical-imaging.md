@@ -28,7 +28,7 @@ Let's explore these in more detail.
 The first step is importing electronic health records with related medical imaging of the patient in the Azure Health Data Services workspace. In this case, Mary's medical history is connected with her latest medical imaging data via DICOMcast and ready for search and retrieval. Additionally, the de-identified records of all patients who had similar diagnosis (or were "false positive") and received cancer treatment, are ingested and ready for search and retrieval.
 
 > [!div class="mx-imgBorder"]
-> ![Illustration of the first phase of the process.](../media/import.png)
+> ![Diagram of the first phase of the process.](../media/import.png)
 
 Second, when a new DICOM object is uploaded to DICOM service, DICOMcast will synchronize metadata within FHIR service to achieve end-to-end connected patient data within an Azure Health Data Services workspace (imaging data and text-based health data).
 
