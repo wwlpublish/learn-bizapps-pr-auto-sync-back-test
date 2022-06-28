@@ -1,4 +1,4 @@
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50N9i]
 
 The first step in using Microsoft Power Platform to solve a business problem is deciding what problem that you want to overcome.
 
