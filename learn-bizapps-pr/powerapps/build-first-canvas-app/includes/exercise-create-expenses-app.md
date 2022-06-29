@@ -12,7 +12,7 @@ Before you begin, watch the video for a brief overview of what to expect when cr
 ## Create your first app
 To create your first app, follow these steps:
 
-1.  Open your browser and go to [https://make.powerapps.com](https://make.powerapps.com/?azure-portal=true). When prompted to sign in, enter your organizational account credentials.
+1.  Open your browser and go to [https://make.powerapps.com](https://make.powerapps.com/?azure-portal=true). When prompted to sign in, enter your organizational account credentials. If you are using the virtual environment, skip to step 2.
 
 1.  From the **Home** screen, on right side of the screen, select **More create options**.
 
