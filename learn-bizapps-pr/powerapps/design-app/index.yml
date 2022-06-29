@@ -1,14 +1,14 @@
 ### YamlMime:Module 
 uid: learn-bizapps.design-app 
 metadata: 
- title: Design your app like a professional
+ title: Design your app like a pro
  description: Learn how to design an app based on an identified problem.
  ms.date: 06/27/2022  
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
  ms.prod: learning-power-apps  
-title: Design your app like a professional
+title: Design your app like a pro
 summary: |  
   [!include[](../includes/module-banner.md)] 
   You’ve identified the problem that you're trying to resolve, and you’ve focused on creating a project plan to deliver that solution effectively. Now, your next task is to design the app.

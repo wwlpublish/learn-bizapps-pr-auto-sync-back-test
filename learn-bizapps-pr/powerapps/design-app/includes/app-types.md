@@ -1,4 +1,4 @@
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50N9k]
 
 Model-driven apps require a Microsoft Dataverse database. They're built on top of the data that's modeled in that database environment. 
 
