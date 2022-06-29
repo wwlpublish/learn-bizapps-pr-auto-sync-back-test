@@ -1,6 +1,6 @@
-This exercise shows you how to use the ForAll function in a gallery. 
+This hands-on lab shows you how to use the ForAll function in a gallery. 
 
-1.  Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true).
+1.  Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true). If you are using the virtual environment, skip to step 2.
   
 1.  On the Home screen, select **Canvas app from blank**.
 
