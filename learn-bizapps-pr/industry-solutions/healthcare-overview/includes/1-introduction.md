@@ -14,7 +14,7 @@ While new technologies have always promised significant clinical and operational
  > [!NOTE]
  > For more information, see the following resource links (numbers corresponding with reference numbers in the preceding screenshot): 
 
- 1. [McKinsey COVID-19 Consumer Survey](https://www.mckinsey.com/~/media/McKinsey/Industries/Healthcare%20Systems%20and%20Services/Our%20Insights/Telehealth%20A%20quarter%20trillion%20dollar%20post%20COVID%2019%20reality/Telehealth-A-quarter-trilliondollar-post-COVID-19-reality.pdf/?azure-portal=true), May 2020
+ 1. [McKinsey COVID-19 Consumer Survey](https://www.mckinsey.com/~/media/McKinsey/Industries/Healthcare%20Systems%20and%20Services/Our%20Insights/Telehealth%20A%20quarter%20trillion%20dollar%20post%20COVID%2019%20reality/Telehealth-A-quarter-trilliondollar-post-COVID-19-reality.pdf), May 2020
 
  2. [Deloitte](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2017/dark-data-analyzing-unstructured-data.html/?azure-portal=true)
 

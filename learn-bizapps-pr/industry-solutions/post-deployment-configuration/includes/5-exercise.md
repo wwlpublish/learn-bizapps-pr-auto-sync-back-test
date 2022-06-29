@@ -2,7 +2,7 @@
 
 Customer implementations can extend the [standard Power Automate flows](/dynamics365/industry/vaccination-management/configure-security-portal-flows/?azure-portal=true#configure-power-automate-flows) in Microsoft Vaccination Management to integrate Microsoft Vaccination Management with an external bulk email provider of their choice.
 
-Popular bulk email services, such as [SendGrid](https://azuremarketplace.microsoft.com/marketplace/apps/SendGrid.SendGrid?tab=Overview&azure-portal=true), have standard Power Automate connectors that customers can use, or they have other bulk email services that customers can integrate by building a Power Automate custom connector.
+Popular bulk email services, such as [SendGrid](https://azuremarketplace.microsoft.com/marketplace/apps/sendgrid.tsg-saas-offer?tab=Overview/?azure-portal=true), have standard Power Automate connectors that customers can use, or they have other bulk email services that customers can integrate by building a Power Automate custom connector.
 
 In this exercise, you'll learn how to extend an email flow to integrate with SendGrid as an example of sending higher volumes of emails.
 

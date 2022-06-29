@@ -292,7 +292,7 @@ You can accomplish numerous tasks with knowledge articles, and this module menti
 
 > [Knowledge Management](/dynamics365/industry/healthcare/use-patient-service-center#knowledge-management/?azure-portal=true#)
 >
-> [Knowledge Articles](/omnichannel/administrator/knowledge-management-oc/?azure-portal=true#)
+> [Knowledge Articles](https://community.dynamics.com/365/b/the-crm-ninja/posts/omnichannel-knowledge-articles/?azure-portal=true#)
 >
 > [Create and manage knowledge articles](/dynamics365/customer-service/customer-service-hub-user-guide-knowledge-article/?azure-portal=true#)
 >

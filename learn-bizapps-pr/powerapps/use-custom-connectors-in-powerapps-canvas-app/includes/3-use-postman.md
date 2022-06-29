@@ -32,7 +32,7 @@ custom connector:
 | **Parameter** | **Value** |
 | :---------------| :------------------------------------------------------------------------------|
 | HTTP method | "POST" |
-| Request URL | <span>https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment</span> |
+| Request URL | `https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment` |
 | Authorization | "No Auth" (you specify an API key in the next step) |
 
 2. Enter key-value pairs for the request header. For common HTTP
@@ -280,7 +280,7 @@ here's a review of the user interface.
  included in the Postman collection. In this case, the
  HTTP *verb* is **POST**, and the URL is
  "/text/analytics/v2.0/sentiment" (the full URL to the API is
- "[https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment](https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment)").
+ `"[https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment](https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment)"`).
 
 ![Screenshot of the Request area with information displayed based on the HTTP request.](../media/21-definition-request.png)
 
