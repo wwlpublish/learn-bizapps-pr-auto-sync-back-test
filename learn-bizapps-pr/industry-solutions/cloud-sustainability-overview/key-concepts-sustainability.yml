@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.cloud-sustainability-overview.key-concepts-sustainability 
+title: Key concepts in sustainability 
+metadata: 
+  title: Key concepts in sustainability 
+  description: Learn about key concepts in sustainability in details.
+  ms.date: 05/24/2022 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-mscloud-sustainability 
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/key-concepts-sustainability.md)] 

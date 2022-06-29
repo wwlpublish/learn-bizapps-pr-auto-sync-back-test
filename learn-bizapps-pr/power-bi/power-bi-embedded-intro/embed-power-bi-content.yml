@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-embedded-intro.embed-power-bi-content
+title: Embed Power BI content
+metadata:
+  title: Embed Power BI content
+  description: Learn to embed reports, visuals, paginated reports, dashboards, tiles, and Q&A.
+  ms.date: 04/10/2022
+  author: heyrob
+  ms.author: robde
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-bi
+durationInMinutes: 11
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/embed-power-bi-content.md)]

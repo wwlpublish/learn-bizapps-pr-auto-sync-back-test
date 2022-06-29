@@ -11,6 +11,7 @@ metadata:
 title: Explore Power Apps portals 
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   Dynamics 365 starter portals are pre-configured portal solutions that are available to help accelerate deployment. Typical portal projects will have unique requirements, but a starter portal provides an environment that is immediately suitable for specific scenarios and audiences.
 abstract: |  
     In this module, you will: 
@@ -31,7 +32,9 @@ roles:
 products:    
 - power-apps 
 - power-platform
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.explore-portals.1-introduction
 - learn-bizapps.explore-portals.2-community 
 - learn-bizapps.explore-portals.3-customer 
@@ -41,4 +44,4 @@ units:
 - learn-bizapps.explore-portals.7-check 
 - learn-bizapps.explore-portals.8-summary 
 badge: 
-  uid: learn-bizapps.explore-portals.badge 
+  uid: learn-bizapps.explore-portals.badge

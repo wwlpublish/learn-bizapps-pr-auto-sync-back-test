@@ -54,8 +54,6 @@ You can assign the **Environment maker** security role when sharing a bot with a
 
 When you are sharing the bot, if the specified user doesn't have sufficient permissions to use Power Virtual Agents in the environment, you will be notified that the **Environment maker** security role will be assigned to the person so that they can use the bot.
 
-### Access and authentication
-
 The **Access** and **Authentication** options control who can access your bot. You can select one of two groups:
 
 - **All bot managers** - This selection allows only bot managers to chat with the bot. You can share your bot so that other bot managers can access it.

@@ -11,6 +11,7 @@ metadata:
 title: Access Dataverse in Power Apps portals 
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   The ability to show and interact with Dataverse data on a website is a core benefit of implementing a Microsoft Power Apps portal. This module focuses on the several techniques and methods to display and interact with Dataverse data in Power Apps portals. 
 abstract: |  
     In this module, you will: 
@@ -30,7 +31,9 @@ roles:
 products:  
 - power-apps 
 - power-platform
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.portals-access-common-data-service.1-introduction 
 - learn-bizapps.portals-access-common-data-service.2-entity-lists 
 - learn-bizapps.portals-access-common-data-service.3-entity-forms 
@@ -38,4 +41,4 @@ units:
 - learn-bizapps.portals-access-common-data-service.5-check 
 - learn-bizapps.portals-access-common-data-service.6-summary 
 badge: 
-  uid: learn-bizapps.portals-access-common-data-service.badge 
+  uid: learn-bizapps.portals-access-common-data-service.badge

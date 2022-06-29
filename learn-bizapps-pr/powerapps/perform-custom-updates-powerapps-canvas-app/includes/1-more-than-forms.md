@@ -48,7 +48,7 @@ there are two options:
     function for each record in the table.
 
 -   Use the
-    [Collect](/powerapps/maker/canvas-apps/functions/function-clear-collect-clearcollect/?azure-portal=true)
+    [Collect](/power-apps/maker/canvas-apps/functions/function-clear-collect-clearcollect/?azure-portal=true)
     function to write from one table to another. Each record of the
     source table is added as a separate record to the target table.
 

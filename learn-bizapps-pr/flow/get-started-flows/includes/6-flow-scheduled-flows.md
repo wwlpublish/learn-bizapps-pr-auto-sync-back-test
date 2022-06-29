@@ -4,6 +4,9 @@ In this unit, you'll learn how to build prescheduled flows by using a trigger ca
 
 For this scenario, you’ll need to make an Excel file with a table that contains the following columns: ContactEmail, FirstName, and LastName. Save the Excel file in OneDrive for Business. You'll connect to this file in step 9.
 
+> [!NOTE] 
+> Be sure to format your Excel data as a table. This is the table referenced in step 11.
+
 Here’s what the Excel table looks like
     ![Screenshot of the Excel table.](../media/excel-table-mailchimp.png)
 
@@ -14,6 +17,15 @@ Here’s what the Excel table looks like
 1. Select **My flows**.
 
 1. Select **New**, and then select **Scheduled cloud flow**.
+
+    By default you have the option to repeat every 1 minute, however, you have the option to change it and the options available are **Minute**, **Week**, **Day**, **Hour** and **Second**.
+
+    > [!NOTE]
+    > Be mindful of the repeating module you select and how often you would like the flows to run.
+  
+      ![Screenshot of default schedule flow.](../media/default-schedule-flow.png)
+
+      ![Screenshot of default schedule options.](../media/schedule-options.png)
 
 1. Name your flow and under **Run this flow** set the flow to repeat every one Day.
 

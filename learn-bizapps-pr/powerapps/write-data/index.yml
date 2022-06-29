@@ -1,9 +1,9 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.write-data 
 metadata: 
   title: Write data in a Power Apps canvas app
   description: Learn how to write data in a Power Apps canvas app.
-  ms.date: 04/27/2020  
+  ms.date: 05/25/2022 
   author: DaveBeasley
   ms.author: dbeasley  
   ms.topic: interactive-tutorial  
@@ -29,14 +29,17 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- data-management
+- custom-app-development
+units:
 - learn-bizapps.write-data.1-introduction-to-forms 
 - learn-bizapps.write-data.2-form-modes 
 - learn-bizapps.write-data.3-adding-customizing-edit-form 
 - learn-bizapps.write-data.4-submit-your-form 
 - learn-bizapps.write-data.5-special-properties 
+- learn-bizapps.write-data.exercise 
 - learn-bizapps.write-data.6-knowledge-check 
 - learn-bizapps.write-data.7-summary 
 badge: 
-  uid: learn.write-data.badge 
-
+  uid: learn.write-data.badge

@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.testing-performance-checks 
 metadata: 
   title: Complete testing and performance checks in a Power Apps canvas app
@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.testing-performance-checks.1-performance 
 - learn-bizapps.testing-performance-checks.2-data-sources 
 - learn-bizapps.testing-performance-checks.3-testing-troubleshooting 
@@ -36,5 +38,4 @@ units:
 - learn-bizapps.testing-performance-checks.4-knowledge-check 
 - learn-bizapps.testing-performance-checks.5-summary 
 badge: 
-  uid: learn-bizapps.testing-performance-checks.badge 
-
+  uid: learn-bizapps.testing-performance-checks.badge

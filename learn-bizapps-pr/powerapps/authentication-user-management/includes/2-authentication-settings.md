@@ -1,11 +1,17 @@
-Many authentication options that are supported by Power Apps portals are configured by using site settings. Site settings are stored in the **Site Settings** entity, where each setting is defined as a Name/Value pair.
+Many authentication options that are supported by Power Apps portals are configured by using site settings. Site settings are stored in the **Site Settings** table, where each setting is defined as a Name/Value pair.
 
-To view site settings, open the Power Apps portals app by going to [Dynamics 365 Home](https://home.dynamics.com/?azure-portal=true) and selecting **Power Apps portals**. In the app, select **Site Settings** in the navigation panel.
+To view site settings:
+
+1. Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true).
+1. Select a target environment by using the environment selector in the upper-right corner.
+1. On the left menu, select **Apps**.
+1. Select **Portal Management** app.
+1. In the app, select **Site Settings** in the navigation panel.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of active site settings for portals.](../media/active-site-settings.png)](../media/active-site-settings.png#lightbox)
 
-Only a few of the many available authentication-related site settings are installed when you provision a starter portal. Settings that are not created assume their documented default values.
+Only a few of the many available authentication-related site settings are installed when you provision a starter portal. Settings that aren't created assume their documented default values.
 
 ## Example of a setting
 
@@ -41,7 +47,7 @@ Authentication settings can be grouped into three broad categories, each coverin
 | Group                                | Description                                                  |
 | ------------------------------------ | ------------------------------------------------------------ |
 | **Authentication/Registration**      | The most extensive group of settings that cover options such as enabling/disabling specific authentication methods, controlling invitation behaviors, password resets, confirmation emails, two-factor authentication, and more. |
-| **Authentication/UserManager**       | [User credential validation](/powerapps/maker/portals/configure/set-authentication-identity#user-credential-validation/?azure-portal=true) are settings for adjusting username and password validation parameters. Validation occurs when users sign up for a new local account or change a password. Also included are [user account lockout settings](/powerapps/maker/portals/configure/set-authentication-identity#user-account-lockout-settings/?azure-portal=true). |
-| **Authentication/ApplicationCookie** | It's not uncommon to see enterprise requirements for specific cookie behaviors such as expiration time span. This group defines [Cookie authentication site settings](/powerapps/maker/portals/configure/set-authentication-identity#cookie-authentication-site-settings/?azure-portal=true) for modifying the default authentication cookie behavior. |
+| **Authentication/UserManager**       | [User credential validation](/power-apps/maker/portals/configure/set-authentication-identity?azure-portal=true#user-credential-validation) are settings for adjusting username and password validation parameters. Validation occurs when users sign up for a new local account or change a password. Also included are [user account lockout settings](/power-apps/maker/portals/configure/set-authentication-identity?azure-portal=true#user-account-lockout-settings). |
+| **Authentication/ApplicationCookie** | It's not uncommon to see enterprise requirements for specific cookie behaviors such as expiration time span. This group defines [Cookie authentication site settings](/power-apps/maker/portals/configure/set-authentication-identity?azure-portal=true#cookie-authentication-site-settings) for modifying the default authentication cookie behavior. |
 
-For more information, see [Set authentication identity for a portal](/powerapps/maker/portals/configure/set-authentication-identity/?azure-portal=true).
+For more information, see [Set authentication identity for a portal](/power-apps/maker/portals/configure/set-authentication-identity/?azure-portal=true).

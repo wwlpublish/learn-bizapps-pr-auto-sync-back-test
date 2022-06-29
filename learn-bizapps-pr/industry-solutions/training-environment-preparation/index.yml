@@ -3,7 +3,7 @@ uid: learn-bizapps.financial-training-environment-preparation
 metadata:
  title: Financial Services training environment preparation
  description: Learn how to prepare an environment for Microsoft Cloud for Financial Services.
- ms.date: 01/14/2022
+ ms.date: 05/11/2022
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
@@ -30,7 +30,7 @@ products:
 units:
 - learn-bizapps.financial-training-environment-preparation.1-introduction
 - learn-bizapps.financial-training-environment-preparation.2-set-up-tenant
-- learn-bizapps.financial-training-environment-preparation.3-obtain-deploy-trial-licenses
+- learn-bizapps.financial-training-environment-preparation.install-configure-prerequisites
 - learn-bizapps.financial-training-environment-preparation.4-deploy-cloud
 - learn-bizapps.financial-training-environment-preparation.5-check
 - learn-bizapps.financial-training-environment-preparation.6-summary

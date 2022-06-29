@@ -3,7 +3,7 @@ uid: learn-bizapps.build-first-workflow
 metadata: 
  title: Build your first workflow with Power Automate and Dataverse for Teams
  description: Bring automation and workflows to Microsoft Teams by using Microsoft Power Automate and Microsoft Dataverse for Teams.
- ms.date: 10/29/2021  
+ ms.date: 03/23/2022 
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
@@ -27,7 +27,9 @@ roles:
 products: 
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.build-first-workflow.1-introduction 
 - learn-bizapps.build-first-workflow.2-workflow-types 
 - learn-bizapps.build-first-workflow.3-create-workflow 
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.build-first-workflow.6-check 
 - learn-bizapps.build-first-workflow.7-summary 
 badge: 
-  uid: learn-bizapps.build-first-workflow.badge 
+  uid: learn-bizapps.build-first-workflow.badge

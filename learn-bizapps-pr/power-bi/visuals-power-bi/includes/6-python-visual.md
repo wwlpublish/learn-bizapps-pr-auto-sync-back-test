@@ -1,7 +1,7 @@
 If you use the R or Python programming language, you can use them to visualize your data within Power BI Desktop. Power BI Desktop has an out-of-the-box visualization option for both R and Python that you can access on the **Visualizations** pane, and the process for creating these visuals is almost the same. You can also import a custom R or Python visual from Microsoft AppSource.
 
 > [!NOTE]
-> If you decide to use an R or Python visual, and you want to refresh the data in Power BI service, you'll need to use a personal gateway. For more information, see [Use personal gateways in Power BI](/power-bi/connect-data/service-gateway-personal-mode/?azure-portal=true).
+> If you decide to use an R or Python visual, and you want to refresh the data in Power BI service, you'll need to use a personal gateway. For more information, see [Use personal gateways in Power BI](/power-bi/connect-data/service-gateway-personal-mode?azure-portal=true).
 
 ## Create an R visual
 

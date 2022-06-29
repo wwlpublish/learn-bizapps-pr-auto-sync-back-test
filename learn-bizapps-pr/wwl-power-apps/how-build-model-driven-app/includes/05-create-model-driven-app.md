@@ -9,126 +9,100 @@ entities that is available in your Microsoft Power Apps environment.
 2.  Select the environment you want, or go to the [Power Apps admin
     center](https://admin.powerapps.com/) to create a new one.
 
-3.  On the **Home** page, select **Model-driven app from blank**.
+3.  On the **Home** page, select **Blank App**.
 
-4.  Select **Classic App Designer** and click **Create**.
+4.  On the Create screen, select **Blank app based on Dataverse**, and click
+    **Create**.
 
-    ![Model-driven](../media/model-driven-app-from-blank.png)
+    ![Model-driven app from blank](../media/model-driven-app-from-blank.png)
 
-5.  On the **Create a New App** page, enter a name and description for the app.
+5. On the **New model-driven app** page, enter a **name** and **description** for the app. (For example, enter My first app for the name, and this is my first model-driven application for the description.)
 
-6.  Select **Done**. Your new app appears in the App Designer, and you can now
-    add components to it.
+6. After a few minutes, your new app will appear.
 
-## Add components to your app
+    ![Model-driven app designer](../media/app-designer-configuration-screen.png)
 
-You add components to your app by using the App Designer.
+## Add Account table to your app
 
-1.  Select the **Open the Site Map Designer** pencil icon to open the site map
-    designer.
+You can add pages to your app by using the App Designer.
 
-    [![Create a new site map](../media/app-designer-configuration.png)](../media/app-designer-configuration.png#lightbox)
+1.  If necessary, using the navigation on the left, select the **show or hide
+    menu names button** (looks like 3 horizontal lines) to show the menu names.
 
-2.  In the site map designer, select **New Subarea**, and then, in the right
-    pane on the **Properties** tab, select the following properties:
+2.  Select the **Group1** text. On the right-hand side of the screen change the
+    Title to **Customers**.
 
-    -   **Type**: *Entity*
+    ![Renaming the customer group](../media/app-designer-rename-group.png)
 
-    -   **Entity**: *Account*
+3. Using the command bar at the top, select the **+ Add Page** button. 
 
-        [![Add components to the site map](../media/sitemap-designer.png)](../media/sitemap-designer.png#lightbox)
+4. On the Add Page screen, select **Table based view and form,** then select the **Next** button.
 
-3.  Select **Save And Close**.
+5. On the Add table view and form pages screen, select **Account** then select the **Add** button.  
 
-4.  In the App Designer, select **Forms**, and then, in the right pane
-    under **Main Forms**, select the **Account** form.
+## Add forms and views to your app
+
+Now that we have added a table to our app, we are going to specify which Account
+forms and views should be used with the application.
+
+1.  Using the navigation on the left, select **Pages.**
+
+2.  Expand **Account** and select **Account** form.
+
+3.  On the right-hand side of the screen, select **Add form**.
+
+4.  From the list of Forms that appears, select **Account.** 
 
     ![Account main form](../media/account-forms.png)
 
-5.  In the App Designer, select **Views**, then select the following properties:
+5.  Under **Pages** on the left, select **Account** view.
 
-    -   Active Accounts
+6.  On the right-hand side of the screen, select **Add view**.
 
-    -   All Accounts
+7. Select the **My Active Accounts** view. 
 
-    -   My Active Accounts
+8. Select **Add view** again.
 
-6.  In the App Designer, select **Charts**, then select the **Accounts by Industry** chart.
+9. Select **Active Accounts**.
 
-7.  On the App Designer toolbar, select **Save And Close**.
+10. Select **Add view**.
 
-## Create a form
+11. Select **Inactive Accounts.**
 
-1.	On the left navigation pane, expand **Dataverse**, and then select **Tables**.
+	- My Active Accounts
 
-2.	Select a table, such as the account table, and then select the **Forms** tab.
+	- Active Accounts
 
-3.	Select **Add form**, and then select one of the following
-    *	**Main form**
-            The contents of the new form are filled using the existing main form definition. If multiple main forms exist, the form at the top of the list in the form order is used to fill the new form.
-    
-    *   **Quick create form**
- 	
-    *   **Quick view form**
+	- Inactive Accounts
 
-4.	When you are done making changes to the form, select **Save** to save the form.
+## Add Contact page to your app
 
-## Edit a form
+Next, we are going to add another table to our application. In this case we are
+going to add the Contacts table since a customer could be either an account or a
+contact.
 
-1.	On the left navigation pane, expand **Dataverse**, and then select **Tables**.
+1.  On the command bar at the top, select the **Add Page** button.
 
-2.	Select a table, such as the account table, and then select the **Forms** tab.
+2.  On the Add page screen, choose **table based view and form**, then select
+    the **Next** button.
 
-3.	Select the form name that you want to edit.
+3.  In the **Search** field, enter **Contact**, then select the **Contact**
+    table.
 
-    *   You can also select the row for a form, and then in the command bar, select **Edit form**
+4.  Select the **Add** button.
 
-    *   Another alternative is to select **...** next to the form name, and then in the menu, select **Edit form**.
-    
-4.	When you are done making changes to the form, select **Save** to save the form.
+## Save and publish your app
 
-## Open and add a view in the app designer
-The following steps explain how to open and add a view in the app designer.
+Now that you have successfully created your first model driven application,
+let’s get ready to use it.
 
-1.	In the app designer **Entity View** section, select **Views**.
-    *   In this example, we have selected **Views** from the **Account** table.
+1.  Using the command bar at the top select the **Save** button.
 
-    [![Account views](../media/app-designer-add-view.png)](../media/app-designer-add-view.png#lightbox)
+2.  Once your application has been saved, select the **Publish** button.
 
-2.	To add a view, select it by using view types such as Public, Advanced Find, Associated, and Lookup. The view is automatically added to the **Views** list.
+3.  To test your application, select the **Play** button.
 
-    > [!NOTE]
-    > Views are displayed based on the table that you have selected. For example, when you select Account, views that are related to the Account table are displayed.
+    ![Playing the published app](../media/published-app.png)
 
-For more information about the app designer visit [Design custom business apps by using the app designer](/powerapps/maker/model-driven-apps/design-custom-business-apps-using-app-designer)
-
-## Add a column to your view in app designer
-
-Views display rows and columns in a table. Each row is a record with columns you add to the view.
-
-1.	In app designer, select the entity view that you want and then on the right pane next to the view that you want select edit (pencil button).
-
-2.	On the **Components** tab, select the **Column Attributes** list for either the **Primary Entity** or **Related Entity**.
-
-    ![Column Attributes](../media/column-attributes.png)
-
-3.	From the list, select the column you want and drag it to the column heading. You can also add the column by double-clicking it.
-
-4.	Repeat step 3 until you have added all the columns you want to display in your view.
-
-As you add columns, you can drag them to any position among existing column headings. You can also move columns around after you add them to your view.
-
-For more detailed options on creating and editing views visit https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-edit-views-app-designer 
-
-## Publish your app
-
-On the App Designer toolbar, select **Publish**. After you publish the app, it
-is ready for you to run or share with others.
-
-Above My Active Accounts, select **Show Chart**.
-
-If the sample data for your accounts does not have an Industry populated, go
-into a few accounts and add an Industry. Once you have updated a few accounts
-with an industry, the chart will update as well.
-
-[![Simple account entity app](../media/account-charts.png)](../media/account-charts.png#lightbox)
+> [!NOTE]
+> It is possible that you will not have any data in your environment. Select either Account or Contact and add a few sample records to test functionality. 

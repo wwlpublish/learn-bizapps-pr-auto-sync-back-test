@@ -2,7 +2,7 @@ You can create a flow that performs one or more tasks (for example, sending a re
 
 - Once a day, an hour, or a minute
 - On a date that you specify
-- After many days, hours, or minutes that you specify
+- After the quantity of days, hours, or minutes that you specify
 
 ## Prerequisites
 
@@ -16,6 +16,8 @@ You can create a flow that performs one or more tasks (for example, sending a re
 1. In the left pane, select **My flows**.
 
 1. Select **+ New flow**, and then select **Scheduled cloud flow**.
+
+    ![Screenshot of the scheduled cloud flow.](../media/scheduled-cloud-flow.png)
 
 1. In the dialog box, specify the flow's name and how often the flow should run.
 

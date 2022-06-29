@@ -1,6 +1,6 @@
-This exercise shows you how to use the ForAll function in a gallery. 
+This hands-on lab shows you how to use the ForAll function in a gallery. 
 
-1.  Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true).
+1.  Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true). If you are using the virtual environment, skip to step 2.
   
 1.  On the Home screen, select **Canvas app from blank**.
 
@@ -26,11 +26,6 @@ This exercise shows you how to use the ForAll function in a gallery.
 	Country:"Germany", Population:1494000}, {City:"Milan",
 	Country:"Italy", Population:1344000})
 	```
-
-    To copy and paste the text in the virtual environment, select the Commands button on the top left corner of the screen, select Type text, then select Type clipboard text. Paste the copied text in the window.
-
-    > [!div class="mx-imgBorder"]
-	> [![Screenshot of the command button selected and the type text button highlighted.](../media/copy-instructions.png)](../media/copy-instructions.png#lightbox)
 
 1.  Select the **Button** control, and set its **Text** property to "Collect." Hold the **Alt Key** and press the **Button** control.
 (This will create your collection and store all the information).

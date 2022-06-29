@@ -1,4 +1,4 @@
-This module introduced you to some concepts that explain why Power BI is a market leader in data visualization. Power BI's interactive data visuals create opportunities to look at data from different perspectives. Conditional formatting and themes give you detailed control over the coloring and formatting of the data and presentation. The PowerPoint-like canvas and design features make Power BI a user-friendly tool for experiencing a rich data experience. With Power BI you can make incredible data visualizations and reporting possible.
+This module introduced you to some concepts that explain why Power BI is a market leader in data visualization. Power BI's interactive data visuals create opportunities to look at data from different perspectives. Conditional formatting and themes give you detailed control over the coloring and formatting of the data and presentation. Power BI's canvas and design features make it easy for you to build a rich data experience. With Power BI you can make incredible data visualizations and reporting possible.
 
 ## Reference links
 
@@ -9,3 +9,5 @@ This module introduced you to some concepts that explain why Power BI is a marke
 [What if](/power-bi/transform-model/desktop-what-if/?azure-portal=true#)
 
 [Themes](/power-bi/create-reports/desktop-report-themes/?azure-portal=true#)
+
+[Accessibility](https://docs.microsoft.com/power-bi/create-reports/desktop-accessibility-creating-reports)

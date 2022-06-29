@@ -1,39 +1,41 @@
-### YamlMime:Module 
-uid: learn-bizapps.manage-user-information 
-metadata: 
+### YamlMime:Module
+uid: learn-bizapps.manage-user-information
+metadata:
  title: Build flows to manage user information
  description: Learn to build flow to manage user information.
- ms.date: 12/01/2021  
- author: DaveBeasley  
- ms.author: dbeasley  
- ms.topic: interactive-tutorial  
- ms.prod: learning-power-automate  
+ ms.date: 03/29/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-automate
 title: Build flows to manage user information
-summary: |  
-  [!include[](../includes/module-banner.md)] 
+summary: |
+  [!include[](../includes/module-banner.md)]
   Power Automate is an online workflow service that automates actions across the most common apps and services. In this module, you'll build more flows to manage user information.
-abstract: |  
-    In this module, you will: 
+abstract: |
+    In this module, you will:
     - Build a flow that uses information like locations or date
     - Build a flow accepts user input when run
-    - Create a flow that stores documents
+    - Create a flow that blocks time on a calendar
 prerequisites: You must have signed up for Power Automate, and have a OneDrive for Business account.
-iconUrl: /learn/achievements/manage-user-information.svg  
-levels:  
-- beginner   
-roles:  
-- business-user   
+iconUrl: /learn/achievements/manage-user-information.svg
+levels:
+- beginner
+roles:
+- business-user
 - maker
-- functional-consultant 
-products: 
+- functional-consultant
+products:
 - power-platform
-- power-automate 
-units: 
-- learn-bizapps.manage-user-information.1-introduction 
-- learn-bizapps.manage-user-information.2-tokens 
-- learn-bizapps.manage-user-information.3-user-input 
-- learn-bizapps.manage-user-information.4-store-documents 
-- learn-bizapps.manage-user-information.5-check 
-- learn-bizapps.manage-user-information.6-summary 
-badge: 
-  uid: learn-bizapps.manage-user-information.badge 
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.manage-user-information.1-introduction
+- learn-bizapps.manage-user-information.2-tokens
+- learn-bizapps.manage-user-information.3-user-input
+- learn-bizapps.manage-user-information.4-store-documents
+- learn-bizapps.manage-user-information.5-check
+- learn-bizapps.manage-user-information.6-summary
+badge:
+  uid: learn-bizapps.manage-user-information.badge

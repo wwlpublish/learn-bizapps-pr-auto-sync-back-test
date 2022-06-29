@@ -13,42 +13,42 @@ durationInMinutes: 4
 quiz:
   title: Answer the following questions to see what you've learned.
   questions:
-  - content: Which of the following entities is required to configure the retail churn model?
+  - content: Which of the following entities is required to set up the retail churn model?
     choices:
-    - content: External data.
+    - content: External data
       isCorrect: false
-      explanation: Incorrect. Three data entities require mapping to the retail churn model, customer data, session data and transaction data.
-    - content: Session data.
+      explanation: Incorrect. The three data entities that require mapping to the retail churn model are customer data, session data, and transaction data.
+    - content: Session data
       isCorrect: true
-      explanation: Correct. Three data entities require mapping to the retail churn model, customer data, session data and transaction data.
-    - content: Insights data.
+      explanation: Correct. The three data entities that require mapping to the retail churn model are customer data, session data, and transaction data.
+    - content: Insights data
       isCorrect: false
-      explanation: Incorrect. Three data entities require mapping to the retail churn model, customer data, session data and transaction data.
+      explanation: Incorrect. The three data entities that require mapping to the retail churn model are customer data, session data, and transaction data.
   - content: What is Clarity Insights?
     choices:
-    - content: The collection of projects in Microsoft Clarity.
+    - content: The collection of projects in Microsoft Clarity
       isCorrect: false
-      explanation: Incorrect. Clarity Insights are a set of Machine Learning (ML) based filters and recommendations on what content should be most important for you.
-    - content: Sites and masking definitions.
+      explanation: Incorrect. Clarity Insights are machine learning based filters and recommendations on what content should be most important for you.
+    - content: Sites and masking definitions
       isCorrect: false
-      explanation: Incorrect. Clarity Insights are a set of Machine Learning (ML) based filters and recommendations on what content should be most important for you.
-    - content: Machine Learning based filters and recommendations.
+      explanation: Incorrect. Clarity Insights are machine learning based filters and recommendations on what content should be most important for you.
+    - content: Machine learning based filters and recommendations
       isCorrect: true
-      explanation: Correct. Clarity Insights are a set of Machine Learning (ML) based filters and recommendations on what content should be most important for you.
-    - content: Filters for retail sites.
+      explanation: Correct. Clarity Insights are machine learning based filters and recommendations on what content should be most important for you.
+    - content: Filters for retail sites
       isCorrect: false
-      explanation: Incorrect. Clarity Insights are a set of Machine Learning (ML) based filters and recommendations on what content should be most important for you.
+      explanation: Incorrect. Clarity Insights are machine learning based filters and recommendations on what content should be most important for you.
   - content: Where does Dynamics 365 Connected Spaces store its data?
     choices:
-    - content: Local storage.
+    - content: Local storage
       isCorrect: false
-      explanation: Incorrect. The data from Dynamics 365 Connected Spaces is stored in Microsoft Dataverse, part of the Power Platform.
-    - content: Microsoft Dataverse.
+      explanation: Incorrect. The data from Dynamics 365 Connected Spaces is stored in Microsoft Dataverse, part of Microsoft Power Platform.
+    - content: Microsoft Dataverse
       isCorrect: true
-      explanation: Correct. The data from Dynamics 365 Connected Spaces is stored in Microsoft Dataverse, part of the Power Platform.
-    - content: Microsoft OneDrive.
+      explanation: Correct. The data from Dynamics 365 Connected Spaces is stored in Microsoft Dataverse, part of Microsoft Power Platform.
+    - content: Microsoft OneDrive
       isCorrect: false
-      explanation: Incorrect. The data from Dynamics 365 Connected Spaces is stored in Microsoft Dataverse, part of the Power Platform.
-    - content: Power Automate.
+      explanation: Incorrect. The data from Dynamics 365 Connected Spaces is stored in Microsoft Dataverse, part of Microsoft Power Platform.
+    - content: Power Automate
       isCorrect: false
-      explanation: Incorrect. The data from Dynamics 365 Connected Spaces is stored in Microsoft Dataverse, part of the Power Platform.
+      explanation: Incorrect. The data from Dynamics 365 Connected Spaces is stored in Microsoft Dataverse, part of Microsoft Power Platform.

@@ -1,5 +1,7 @@
 Microsoft Power Platform has many different security features in environments, data, and application deployment. Security is a fundamental component in a Microsoft Power Platform solution design. Often, security requirements are ignored until a later time during a project. By including security modeling in the solution's design, you can avoid the need for significant change later in a project.
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4U3G2]
+
 > [!IMPORTANT]
 > Security must be considered up front, rather than as an afterthought, before deployment.
 

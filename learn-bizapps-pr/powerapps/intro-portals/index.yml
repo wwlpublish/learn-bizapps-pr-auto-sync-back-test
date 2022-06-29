@@ -1,17 +1,18 @@
 ### YamlMime:Module 
 uid: learn-bizapps.intro-portals 
 metadata: 
- title: Introduction to Power Apps portals
+ title: Core components of Power Apps portals
  description: Extend Microsoft Dataverse interaction to external and internal audiences such as customers, partners, and employees. Use portals to set up an interactive, web-based sales, services, support, and social engagement application platform to connect with customers, engage with communities, manage site content, and empower your channel partners. Empower anyone inside or outside your organization to interact with Dataverse data by using portals.
- ms.date: 6/30/2020  
+ ms.date: 6/23/2022  
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
  ms.prod: learning-power-apps-portals
  ms.custom: intro-internal
-title: Introduction to Power Apps portals 
+title: Core components of Power Apps portals 
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   Extend Dataverse interaction to external and internal audiences such as customers, partners, and employees. Use portals to set up an interactive, web-based sales, services, support, and social engagement application platform to connect with customers, engage with communities, manage site content, and empower your channel partners. Empower anyone inside or outside your organization to interact with Dataverse data by using portals.
 abstract: |  
     In this module, you will: 
@@ -30,7 +31,9 @@ products:
 - dynamics-365  
 - power-platform
 - power-apps 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.intro-portals.1-introduction 
 - learn-bizapps.intro-portals.2-get-started-portals 
 - learn-bizapps.intro-portals.3-portals-core-components 
@@ -39,4 +42,4 @@ units:
 - learn-bizapps.intro-portals.6-check 
 - learn-bizapps.intro-portals.7-summary 
 badge: 
-  uid: learn-bizapps.intro-portals.badge 
+  uid: learn-bizapps.intro-portals.badge

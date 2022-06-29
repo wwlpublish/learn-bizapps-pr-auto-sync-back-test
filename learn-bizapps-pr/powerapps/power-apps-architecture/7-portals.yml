@@ -12,4 +12,5 @@ metadata:
 durationInMinutes: 6
 content: |
  [!include[](../includes/unit-banner.md)]
+ [!include[](../includes/power-pages-banner.md)]
  [!include[](includes/7-portals.md)]

@@ -3,12 +3,12 @@ To begin recording, you first need to have a process. If you've already created 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the New recording button in a process.](../media/add-recording.png)](../media/add-recording.png#lightbox)
 
-If you don't have a process yet, select **Process advisor > Create > Create a new process**.
+If you don't have a process yet, select **Process advisor > Create > Blank process**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Create button within process advisor.](../media/create-new-process.png)](../media/create-new-process.png#lightbox)
 
-Name your process. Provide a description to help you and your users understand the process that is being analyzed. The **Recordings** process is by default selected. Leave that as is and then select **Create**.
+Name your process. Provide a description to help you and your users understand the process that is being analyzed. The **Data (preview)** process is by default selected. Select **Recordings** and then click **Create**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Process name field and the Create button.](../media/name-create.png)](../media/name-create.png#lightbox)

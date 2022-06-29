@@ -38,12 +38,12 @@ You need to choose the data type for columns wisely. This notion is especially t
 
 | Data type             | Comments                                           |
 | --------------------- | -------------------------------------------------- |
-| Yes/No                | Ensure that you never need more choices                 |
+| Yes/No                | Ensure that you never need more choices            |
 | File and Image        | Allows you to store file and images inline in Dataverse |
-| Customer              | Can be either contact or customer                  |
-| Lookup/Choice         | Make sure that you choose the best one                  |
-| Date/Time             | Make sure that you choose the appropriate behavior      |
-| Numeric               | Many to choose from, so choose wisely                 |
+| Customer              | Can be either contact or account                   |
+| Lookup/Choice         | Make sure that you choose the best one             |
+| Date/Time             | Make sure that you choose the appropriate behavior |
+| Numeric               | Many to choose from, so choose wisely              |
 
 ### Choice table vs. lookup table
 
@@ -51,7 +51,7 @@ How you decide between using a lookup table or a choice table depends on the cir
 
 Use a choice table when you want a table that:
 
-- Only stores label and value as a jet-value pair.
+- Only stores label and value as a key-value pair.
 - Has localization built-in.
 - Is treated as a solution component.
 - Doesn't have a built-in way to retire values.

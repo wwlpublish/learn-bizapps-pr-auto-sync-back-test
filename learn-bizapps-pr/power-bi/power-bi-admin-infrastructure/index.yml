@@ -29,7 +29,9 @@ roles:
 products:  
 - power-platform 
 - power-bi 
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.power-bi-admin-infrastructure.1-introduction 
 - learn-bizapps.power-bi-admin-infrastructure.2-gateways 
 - learn-bizapps.power-bi-admin-infrastructure.3-refresh-data 
@@ -44,4 +46,4 @@ units:
 - learn-bizapps.power-bi-admin-infrastructure.12-check 
 - learn-bizapps.power-bi-admin-infrastructure.13-summary 
 badge: 
-  uid: learn-bizapps.power-bi-admin-infrastructure.badge 
+  uid: learn-bizapps.power-bi-admin-infrastructure.badge

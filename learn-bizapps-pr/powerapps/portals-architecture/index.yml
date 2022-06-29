@@ -3,7 +3,7 @@ uid: learn-bizapps.portals-architecture
 metadata: 
  title: Power Apps portals architecture
  description: This module focuses on the Power Apps portals architecture, such as how the various components work together to build a portal. Additionally, it explains how the components are installed and come to together in a working portal. The module also describes the maker and configuration tools that you can use to build and customize Power Apps portals.
- ms.date: 06/30/2020  
+ ms.date: 06/23/2022 
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
@@ -11,6 +11,7 @@ metadata:
 title: Power Apps portals architecture 
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   This module focuses on the Power Apps portals architecture, such as how the various components work together to build a portal. Additionally, it explains how the components are installed and come to together in a working portal. The module also describes the maker and configuration tools that you can use to build and customize Power Apps portals. 
 abstract: |  
     In this module, you will: 
@@ -27,7 +28,10 @@ roles:
 products:  
 - power-apps 
 - power-platform
-units: 
+subjects:
+- custom-app-development
+- architecture
+units:
 - learn-bizapps.portals-architecture.1-introduction 
 - learn-bizapps.portals-architecture.2-provision 
 - learn-bizapps.portals-architecture.3-tools 
@@ -35,4 +39,4 @@ units:
 - learn-bizapps.portals-architecture.5-check 
 - learn-bizapps.portals-architecture.6-summary 
 badge: 
-  uid: learn-bizapps.portals-architecture.badge 
+  uid: learn-bizapps.portals-architecture.badge

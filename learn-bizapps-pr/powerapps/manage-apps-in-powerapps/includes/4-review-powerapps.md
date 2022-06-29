@@ -15,7 +15,7 @@ One goal of this module is to provide a clearer picture of what Power Apps is an
 
 ### Power Apps resources
 
-- Explore further with the [Power Apps documentation](/powerapps/?azure-portal=true).
+- Explore further with the [Power Apps documentation](/power-apps/?azure-portal=true).
 - Stay current with the [Power Apps blog](https://powerapps.microsoft.com/blog/?azure-portal=true).
 - Join the [Power Apps community](https://powerusers.microsoft.com/t5/PowerApps-Community/ct-p/PowerApps1/?azure-portal=true).
 - Expand your expertise with additional Power Apps learning paths:

@@ -3,7 +3,7 @@ uid: learn-bizapps.wwl.build-app-solution
 metadata:
   title: How to build a canvas app
   description: "How to build a canvas app"
-  ms.date: 12/31/2021
+  ms.date: 06/15/2022
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
@@ -27,6 +27,8 @@ roles:
 products:
 - power-apps
 - power-platform
+subjects:
+- custom-app-development
 units:
 - learn-bizapps.wwl.build-app-solution.introduction
 - learn-bizapps.wwl.build-app-solution.learn-basic-elements

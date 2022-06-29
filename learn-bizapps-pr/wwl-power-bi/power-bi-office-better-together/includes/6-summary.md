@@ -18,10 +18,9 @@ The files required to teach the instructor-led course **Modern Excel Analyst in 
 
 These resources will help you better understand Power BI, Power BI reporting and Power BI paginated reports.
 They will also allow you to provide additional information when you are explaining these topics to your customers. 
-- [Embed Power BI content in Microsoft Teams](https://docs.microsoft.com/power-bi/collaborate-share/service-embed-report-microsoft-teams)
-- [Embed a report web part in SharePoint Online](https://docs.microsoft.com/power-bi/collaborate-share/service-embed-report-spo)
+- [Embed Power BI content in Microsoft Teams](/power-bi/collaborate-share/service-embed-report-microsoft-teams)
+- [Embed a report web part in SharePoint Online](/power-bi/collaborate-share/service-embed-report-spo)
 
 
 > [!TIP]
 > Take a moment to visit these sites, review their content, and bookmark them for future use.
-

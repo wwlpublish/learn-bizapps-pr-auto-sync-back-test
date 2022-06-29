@@ -4,7 +4,7 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 12/01/2021 
+ ms.date: 02/25/2022 
  author: DaveBeasley 
  ms.author: dbeasley 
  ms.topic: interactive-tutorial 
@@ -13,16 +13,16 @@ durationInMinutes: 6
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: What are connectors used for in Power Automate? 
+  - content: What is a common business process achieved in Power Automate? 
     choices:  
-    - content: Connectors are used to start a flow.
-      explanation: Connectors let you connect to a service like Salesforce, Microsoft 365, Twitter. 
+    - content: Creating a request for cloud storage.
+      explanation: Connectors let you connect to an Azure service to increase or decrease your cloud storage.
       isCorrect: false 
-    - content: Connectors let you build a flow that accepts user input.
-      explanation: Connectors let you connect to a service like Twitter.
+    - content: Using Artificial Intelligence.
+      explanation: Connectors let you connect with Azure Cognitive Services to leverage Artificial Intelligence.
       isCorrect: false 
-    - content: Connectors let you connect to a service like Salesforce, Microsoft 365, Twitter.
-      explanation: Connectors let you connect to a service like Salesforce, Microsoft 365, Twitter.
+    - content: Creating an approval flow.
+      explanation: Approvals in Power Automate flow can be used to create a business approval process with either a single or multiple approval.
       isCorrect: true 
   - content: What are templates used for in Power Automate?
     choices: 

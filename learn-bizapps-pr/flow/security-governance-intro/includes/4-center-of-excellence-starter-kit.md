@@ -15,14 +15,11 @@ encouraged to expand on their efforts.
 
 The Starter Kit does have some prerequisites, including:
 
-- A global tenant admin, Microsoft Power Platform Service admin, or Dynamics 365 service admin role is required
-    to access the tenant resources.
+- A global tenant admin, or a Microsoft Power Platform Service admin, or Dynamics 365 service admin role is required to access the tenant resources.
 
-- A Power Apps premium license for accessing Microsoft Dataverse.
+- A Power Apps Per-User license for accessing Microsoft Dataverse.
 
-- An environment with Dataverse because the Starter Kit solution
-    will need to store metadata about the apps and flows that are detected
-    within an environment.
+- An environment with Dataverse because the Starter Kit solution will need to store metadata about the apps and flows that are detected within an environment.
 
 - Power BI Desktop to view the reports and visualizations that
     highlight app and flow use within the tenant.
@@ -30,23 +27,32 @@ The Starter Kit does have some prerequisites, including:
 Within the Starter Kit, administrators will discover the tools
 and features that are discussed in the following sections.
 
-### DLP Strategy
+### DLP Editor V2
+Data loss prevention (DLP) policies act as guardrails to protect information security in the tenant and help prevent users from unintentionally exposing organizational data. These policies enforce which connectors are enabled for each environment and which connectors can be used together. DLP policies should be one of the first things you set up as an administrator.
 
-By using the DLP Editor app, an administrator can explore existing DLP policies
-and evaluate the impact of moving a connector from one data group to
-another. If a change to a data group has an impact on an existing
-app, that will be highlighted in the **Affected Power Apps** list. Then, an
-administrator can send an email, through an in-app experience, to the
-owner of that application and warn them of the upcoming change.
+If admins create policies that block specific connectors or disallow certain connectors to be used together, these restrictions will impact apps and flows at design and run-time.
 
-This current, in-product DLP editor experience doesn't provide this
-type of *what-if* analysis, so we recommend that you use the DLP Strategy app that comes
-with the COE Starter Kit when making DLP changes.
-Using the DLP Strategy app will also help you understand the impact
-to existing apps when DLP changes are made and help you reduce the chance of
-unknowingly breaking someone's app.
+We are excited to introduce you to the DLP Editor – a new app that is part of the Center of Excellence Starter Kit. You can use the DLP Editor to observe the impact of an existing policy or the potential impact of policy changes you’re considering.
 
-![Screenshot of the C O E Data Loss Prevention editor.](../media/4-coe-dlp-editor.png)
+The goal of the DLP Editor is to provide admins with a view of currently impacted apps and flows, and a view of resources that would be disabled if new or updated policies were to be enforced. The tool reads and updates DLP policies while showing a list of apps and flows that are impacted by the policy configurations.
+
+You can use this app to:
+
+- Review whether existing policies impact canvas apps and cloud flows in your tenant.
+
+- Create new or change existing DLP policies and update the connector grouping in the policy.
+
+- See what flows or apps would be impacted by the change, before you save the policy.
+
+- Mitigate the risk by contacting makers and informing them about the best course of action for their app or flow.
+
+- Use the DLP Editor to create new policies:
+
+![Demonstration of the C O E Data Loss Prevention editor for new policies.](../media/dlp-editor-new.gif)
+
+You can use the DLP Editor to update existing policies:
+
+![Demonstration of the C O E Data Loss Prevention editor for existing policies.](../media/dlp-editor-existing.gif)
 
 ### Catalog tenant resources, visualize data in Power BI
 
@@ -75,6 +81,8 @@ contains tabs that provide the following reports:
         Production, Sandbox, Trial), and then identifies the creators of the
         environments and when the environment was created.
 
+![Screenshot of the Center Of Excellence environments.](../media/coe-environments.png)
+
 - **Apps** - Provides insights into the usage of apps, including
         the number of sessions and users that the app has been shared
         with. This report also breaks down usage by department by pivoting data
@@ -83,6 +91,8 @@ contains tabs that provide the following reports:
 
   - **App detail** - Examines the specifics of the app, including
         the connection type and when the app was last published.
+
+![Screenshot of the Center Of Excellence apps.](../media/coe-apps.png)
 
 - **Flows** - Displays a flow creation trend that will break down
         when flows were created. This report will also pivot data based
@@ -103,7 +113,7 @@ contains tabs that provide the following reports:
         insight into the popularity of specific connectors within your
         tenant.
 
-![Screenshot of the Center Of Excellence P B I.](../media/5-coe-pbi-1.png)
+![Screenshot of the Center Of Excellence flows.](../media/coe-flows.png)
 
 ### App Audit
 

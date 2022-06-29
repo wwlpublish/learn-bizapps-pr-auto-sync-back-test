@@ -4,7 +4,7 @@ Consider the scenario where you are building reports for the Sales team in your 
 
 ## Optimize performance in Power Query
 
-The performance in Power Query depends on the performance at the data source level. The variety of data sources that Power Query offers is very wide, and the performance tuning techniques for each source are equally wide. For instance, if you extract data from a Microsoft SQL Server, you should follow the performance tuning guidelines for the product. Good SQL Server performance tuning techniques includes index creation, hardware upgrades, execution plan tuning, and data compression. These topics are beyond the scope here, and are covered only as an example to build familiarity with your data source and reap the benefits when using Power BI and Power Query.
+The performance in Power Query depends on the performance at the data source level. The variety of data sources that Power Query offers is very wide, and the performance tuning techniques for each source are equally wide. For instance, if you extract data from a Microsoft SQL Server, you should follow the performance tuning guidelines for the product. Good SQL Server performance tuning techniques include index creation, hardware upgrades, execution plan tuning, and data compression. These topics are beyond the scope here, and are covered only as an example to build familiarity with your data source and reap the benefits when using Power BI and Power Query.
 
 Power Query takes advantage of good performance at the data source through a technique called Query Folding.
 
@@ -27,7 +27,7 @@ The following scenario shows query folding in action. In this scenario, you appl
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the last applied step right-clicked to show the context menu.](../media/8-view-native-query-ss.png)](../media/8-view-native-query-ss.png#lightbox)
 
-If the **View Native Query** option is not available (not displayed in bold type), than query folding is not possible for this step, and you will have to work backward in the **Applied Steps** area until you reach the step in which **View Native Query** is available (displays in bold type). This process will reveal the native query that is used to transform the dataset.
+If the **View Native Query** option is not available (not displayed in bold type), then query folding is not possible for this step, and you will have to work backward in the **Applied Steps** area until you reach the step in which **View Native Query** is available (displays in bold type). This process will reveal the native query that is used to transform the dataset.
 
 Native queries are not possible for the following transformations:
 
@@ -43,7 +43,7 @@ While query folding is one option to optimize performance when retrieving, impor
 
 Another tool that you can use to study query performance is *query diagnostics*. This feature allows you to determine what bottlenecks (if any) exist while loading and transforming your data, refreshing your data in Power Query, running SQL statements in Query Editor, and so on.
 
-To access query diagnostics in Power Query Editor, go to **Tools** in the Home ribbon. When you are ready to begin transforming your data or making other edits in Power Query Editor, select **Start Diagnostics** on the **Session Diagnostics** tab. When you are finished, make sure that you select **Stop Diagnostics**.
+To access query diagnostics in Power Query Editor, go to **Tools** in the Home ribbon. When you are ready to begin transforming your data or making other edits in Power Query Editor, select **Start Diagnostics** in the **Session Diagnostics** section.  When you are finished, make sure that you select **Stop Diagnostics**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Tools tab with session diagnostics options in the Power query Editor.](../media/8-navigating-query-diagnostics-ss.png)](../media/8-navigating-query-diagnostics-ss.png#lightbox)

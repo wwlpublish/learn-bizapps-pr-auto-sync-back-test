@@ -52,9 +52,9 @@ quiz:
     - content: Power Apps visual table editor
       isCorrect: false 
       explanation: The visual table editor has only the most common data types available when you are creating a new column.
-    - content: SharePoint list editor
+    - content: Microsoft Lists editor
       isCorrect: false 
-      explanation: The SharePoint list editor can only edit SharePoint lists and not Dataverse for Teams tables.
+      explanation: The Microsoft Lists editor can only edit lists in Microsoft Lists and not Dataverse for Teams tables.
     - content: Power Apps table editor
       isCorrect: true 
       explanation: The Power Apps table editor gives you the full list of data types when you are creating a new column.

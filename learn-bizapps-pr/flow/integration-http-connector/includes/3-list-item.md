@@ -3,10 +3,10 @@ The SharePoint connector in Microsoft Power Automate comes with a **Send an HTTP
 > [!div class="mx-imgBorder"]
 > [![Screenshot of SharePoint action to send an HTTP request to SharePoint.](../media/image-1.png)](../media/image-1.png#lightbox)
 
-The following sections will describe how to use the **GET**, **POST**, and **DELETE** methods to change a SharePoint list.
+The following sections will describe how to use the **GET**, **POST**, and **DELETE** methods to change a list in Microsoft Lists.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of available methods to change a SharePoint list.](../media/image-2.png)](../media/image-2.png#lightbox)
+> [![Screenshot of available methods to change a list in Microsoft Lists.](../media/image-2.png)](../media/image-2.png#lightbox)
 
 ## Use the GET method to get an item from SharePoint
 
@@ -28,7 +28,7 @@ When the flow runs successfully, it confirms that the list exists and provides i
 
 ## Use the POST method to add and edit an item
 
-To add an item to a SharePoint list, you need an action with the following settings:
+To add an item to a list, you need an action with the following settings:
 
 - **Site Address** - `https://domainame.sharepoint.com/sites/sitename`
 
@@ -50,10 +50,10 @@ The following screenshot shows an example of a successful run.
 
 Editing requires you to provide the exact item number and other headers.
 
-Consider a SharePoint list that contains the items that are shown in the following image.
+Consider a list that contains the items that are shown in the following image.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot example of a SharePoint list of items.](../media/image-7.png)](../media/image-7.png#lightbox)
+> [![Screenshot example of a list of items.](../media/image-7.png)](../media/image-7.png#lightbox)
 
 By using the following **HTTP request to SharePoint** action, change the **Test 3** title of item 3 to **New Test 3**.
 

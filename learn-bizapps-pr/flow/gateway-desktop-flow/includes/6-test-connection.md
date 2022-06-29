@@ -5,7 +5,7 @@ Select **Test** in the upper-right corner of the screen, select the **Manually**
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Manually option selected for Test Flow.](../media/test-manually.png)](../media/test-manually.png#lightbox)
 
-After a moment, a green check mark should appear by your flow to indicate that it's ready for testing. Select **Continue**.
+After a moment, a green checkmark should appear by your flow to indicate that it's ready for testing. Select **Continue**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Continue button on the Run flow window.](../media/continue.png)](../media/continue.png#lightbox)

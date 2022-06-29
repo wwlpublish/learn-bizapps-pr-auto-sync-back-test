@@ -32,7 +32,7 @@ Controls are one of the biggest components of a Power App because implementation
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the on select property.](../media/onselect-property.png)
 
--   **Reset** - Whether a control reverts to its default value. For more information, see [Reset function in Power Apps](/powerapps/maker/canvas-apps/functions/function-reset/?azure-portal=true).
+-   **Reset** - Whether a control reverts to its default value. For more information, see [Reset function in Power Apps](/power-apps/maker/canvas-apps/functions/function-reset/?azure-portal=true).
 
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the reset property.](../media/reset-property.png)
@@ -52,4 +52,4 @@ Controls are one of the biggest components of a Power App because implementation
 	> [!div class="mx-imgBorder"]
 	> ![Screenshot of the visible property.](../media/visible-property.png)
 
-To view a list of all the controls and their properties, see [Controls and properties in Power Apps](/powerapps/maker/canvas-apps/reference-properties/?azure-portal=true).
+To view a list of all the controls and their properties, see [Controls and properties in Power Apps](/power-apps/maker/canvas-apps/reference-properties/?azure-portal=true).

@@ -11,3 +11,5 @@ Specifically, you learned that:
 
 - You can use your model in several different ways: in your apps, in
     your flows, and in your database.
+    
+ For more information, see [bring your own model](/ai-builder/byo-model).

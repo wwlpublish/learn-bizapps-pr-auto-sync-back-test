@@ -4,12 +4,13 @@ title: Knowledge check
 metadata:
   title: Knowledge check
   description: "Knowledge check"
-  ms.date: 06/01/2021
+  ms.date: 06/28/2022
   author: wwlpublish
-  ms.author: chsims
+  ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-power-platform
 azureSandbox: false
+labModal: false
 durationInMinutes: 3
 content: |
   [!include[](includes/5-knowledge-check.md)]
@@ -54,7 +55,7 @@ quiz:
     - content: "Microsoft Power Platform offers the ability to create custom connectors for this purpose which allow you to connect to Power Apps and Power Automate."
       isCorrect: true
       explanation: "Correct. You can build out a custom connector to bridge your app or workflow to the API."
-    - content: "Microsoft Power Platform has over 270 connectors to use in these situations."
+    - content: "Microsoft Power Platform has over 600 connectors to use in these situations."
       isCorrect: false
       explanation: "Incorrect. While the statement is accurate, a custom API would require a custom connector."
     - content: "Microsoft Power Platform uses connectors that hold a series of functions available for developers."

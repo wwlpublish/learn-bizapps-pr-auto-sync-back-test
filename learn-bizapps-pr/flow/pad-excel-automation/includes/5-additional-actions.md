@@ -6,11 +6,11 @@ The Read and Write actions can use the currently selected cell as a point of ref
 
 ![Screenshot of Get selected cell range Excel worksheet action properties dialog.](..\media\get-selected-cell-range-excel-action-properties.png)
 
-To change the selected cells, use the **Select cells in Excel worksheet** action. Set the **Select** option to **Absolutely specified cell** to select cells by specifying the upper-left and bottom-right corner cells.
+To change the selected cells, use the **Select cells in Excel worksheet** action. Set the **Select** option to **Range of cells** to select cells by specifying the upper-left and bottom-right corner cells.
 
 ![Screenshot of Select cells in Excel worksheet action properties dialog.](..\media\select-cells-in-excel-action-properties.png)
 
-Alternatively, set the **Select** option to **Relatively specified cell** to select a number of cells from the currently selected cell.
+Alternatively, set the **Select** option to **Range of cells relative to active cell** to select a number of cells from the currently selected cell.
 
 To activate a particular cell, use the **Activate cell in Excel worksheet** action. In the **Activate** field, you can either choose to specify a cell by its coordinates (**Absolutely specified cell**) or relative to the currently active cell (**Relatively specified cell**).
 

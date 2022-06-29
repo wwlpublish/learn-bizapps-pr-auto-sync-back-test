@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-embedded-permissions-analytics.datasets 
+title: Determine the type of Power BI dataset
+metadata: 
+  title: Determine the type of Power BI dataset
+  description: Learn how to determine the type of Power BI dataset.
+  ms.date: 04/07/2022 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-bi 
+durationInMinutes: 4
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/datasets.md)] 

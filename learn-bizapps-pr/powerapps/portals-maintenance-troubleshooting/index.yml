@@ -2,8 +2,8 @@
 uid: learn-bizapps.portals-maintenance-troubleshooting 
 metadata: 
  title: Power Apps portals maintenance and troubleshooting
- description: When building a Microsoft Power Apps portal, administrators should consider various techniques, best practices, and features. This module will cover the various troubleshooting tools that are available and explain the importance of using the Portal Checker tool.
- ms.date: 07/14/2020  
+ description: Learn about Power Apps portals maintenance and troubleshooting.
+ ms.date: 06/27/2022   
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
@@ -11,6 +11,7 @@ metadata:
 title: Power Apps portals maintenance and troubleshooting
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   When building a Microsoft Power Apps portal, administrators should consider various techniques, best practices, and features. This module will cover the various troubleshooting tools that are available and explain the importance of using the Portal Checker tool.
 abstract: |  
     In this module, you will: 
@@ -28,11 +29,13 @@ roles:
 products:  
 - power-platform  
 - power-apps 
-units: 
+subjects:
+- productivity
+units:
 - learn-bizapps.portals-maintenance-troubleshooting.1-introduction 
 - learn-bizapps.portals-maintenance-troubleshooting.2-portal-maintenance 
 - learn-bizapps.portals-maintenance-troubleshooting.3-exercise 
 - learn-bizapps.portals-maintenance-troubleshooting.4-check 
 - learn-bizapps.portals-maintenance-troubleshooting.5-summary 
 badge: 
-  uid: learn-bizapps.portals-maintenance-troubleshooting.badge 
+  uid: learn-bizapps.portals-maintenance-troubleshooting.badge

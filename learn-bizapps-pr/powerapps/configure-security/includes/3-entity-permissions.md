@@ -13,8 +13,11 @@ You can create a table permission in the Portal Management app and associate it 
 Follow these steps to create a new **Table Permission** row:
 
 1. Identify the table that will be secured.
+
 1. Define scope.
+
 1. For any scope other than Global, select the relationships that define that scope.
+
 1. Determine the privileges that are being granted to the role through this permission.
 
 > [!IMPORTANT]
@@ -90,4 +93,4 @@ To apply table permissions to table list or table form components, a maker will 
 <!--VIDEO tablePermissions.mp4-->
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4AjtN]
 
-For more information, see [Add row-based security by using table permissions for portals](/powerapps/maker/portals/configure/assign-entity-permissions/?azure-portal=true).
+For more information, see [Add row-based security by using table permissions for portals](/power-apps/maker/portals/configure/assign-entity-permissions/?azure-portal=true).

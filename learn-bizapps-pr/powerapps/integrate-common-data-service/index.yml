@@ -11,6 +11,7 @@ metadata:
 title: Integrate Power Apps portals with Dataverse
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   The ability to find and interact with Dataverse data on a website is one of the core benefits of implementing a Power Apps portal. Several methods are available for you to display Dataverse data. Learning and knowing about these different options will help you have successful portal implementations. This module will focus on the techniques that you can use to configure entity lists, entity forms, and web forms to build powerful web applications.
 abstract: |  
     In this module, you will: 
@@ -30,7 +31,9 @@ roles:
 products:  
 - power-platform
 - power-apps 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.integrate-common-data-service.1-introduction 
 - learn-bizapps.integrate-common-data-service.2-table-forms 
 - learn-bizapps.integrate-common-data-service.3-web-form-processes 
@@ -40,4 +43,4 @@ units:
 - learn-bizapps.integrate-common-data-service.7-check 
 - learn-bizapps.integrate-common-data-service.8-summary 
 badge: 
-  uid: learn-bizapps.integrate-common-data-service.badge 
+  uid: learn-bizapps.integrate-common-data-service.badge

@@ -2,7 +2,7 @@ Microsoft Cloud for Healthcare relies on various components from Dynamics 365, M
 
 |     Microsoft Cloud for Healthcare Capability      |     Required   Microsoft Technology License     |
 |----------------------------------------------------|-------------------------------------------------|
-|     Health Assistant                               |     Dynamics 365 Sales                          |
+|     Patient insights                               |     Dynamics 365 Sales                          |
 |     Microsoft Cloud for Healthcare (all   apps)    |     Microsoft Cloud for Healthcare              |
 |     Patient Outreach                               |     Dynamics 365 Marketing                      |
 |     Patient Service Center                         |     Omnichannel Customer Service   Messaging    |

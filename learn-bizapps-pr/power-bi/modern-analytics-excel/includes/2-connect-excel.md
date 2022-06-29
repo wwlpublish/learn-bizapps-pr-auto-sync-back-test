@@ -4,14 +4,14 @@ Multiple ways are available for you to choose from when setting up a connection 
 
 - In the **Insert** tab, select **PivotTable** > **From Power BI (xxxx\*)**.
 
-> [!div class="mx-imgBorder"]
+> 
 > [![Screenshot of Insert PivotTable from Power BI dataset.](../media/insert.png)](../media/insert.png#lightbox)
 
 ## Option 2: Get data connection
 
 - In the **Data** tab, select **Get Data** > **From Power BI** **(xxxx\*)**.
 
-> [!div class="mx-imgBorder"]
+> 
 > [![Screenshot of the Get Data menu with Power BI selected.](../media/get-data.png)](../media/get-data.png#lightbox)
 
 \*xxxx = Your organization's name
@@ -21,7 +21,7 @@ Multiple ways are available for you to choose from when setting up a connection 
 
 The **Power BI Datasets** pane will appear on the right side of the screen, listing the possible datasets that you can connect to. Select the dataset that you want to connect to.
 
-> [!div class="mx-imgBorder"]
+> 
 > [![Screenshot of PBI Datasets pane showing certifications.](../media/datasets.png)](../media/datasets.png#lightbox)
 
 After you have selected the dataset that you want to use, a field list will appear that includes all possible fields from all tables that are included in the dataset, including the measures. This connection allows you to create PivotTables based off any field from the dataset. Use the same drag-and-drop process with the fields to create the desired format for your PivotTables.

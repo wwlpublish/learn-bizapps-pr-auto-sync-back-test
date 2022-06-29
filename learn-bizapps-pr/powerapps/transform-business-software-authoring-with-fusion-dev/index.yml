@@ -11,6 +11,10 @@ metadata:
   ms.author: masoucou
   ms.topic: interactive-tutorial
   ms.prod: learning-powerapps
+  ms.custom:
+  - team=cloud_advocates
+  ms.contributors:
+  - masoucou-04262021
 abstract: |
   In this module you will:
   - Grow productivity across business units with fusion development teams
@@ -30,6 +34,9 @@ roles:
 products: 
   - power-platform
   - power-apps
+subjects:
+- productivity
+- custom-app-development
 units:
   - learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.1-meet-the-team
   - learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.2-tech-intensity

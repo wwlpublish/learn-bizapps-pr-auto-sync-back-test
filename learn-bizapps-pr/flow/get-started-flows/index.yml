@@ -1,9 +1,9 @@
-﻿### YamlMime:Module
+### YamlMime:Module
 uid: learn-bizapps.flow-get-started
 metadata:
   title: Get started with Power Automate
   description: Learn how to create simple flows to make your life easier.
-  ms.date: 02/01/2022
+  ms.date: 03/29/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
@@ -29,16 +29,16 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- process-workflow
 units:
 - learn-bizapps.flow-get-started.1-flow-introduction
 - learn-bizapps.flow-get-started.2-flow-create-first
-- learn-bizapps.flow-get-started.3-learn-to-use-flow-mobile-app
 - learn-bizapps.flow-get-started.6-flow-scheduled-flows
-- learn-bizapps.flow-get-started.7-flow-post-tweets
+- learn-bizapps.flow-get-started.flow-monitor-incoming-emails
 - learn-bizapps.flow-get-started.8-flow-share-flows
 - learn-bizapps.flow-get-started.9-troubleshoot-flows
 - learn-bizapps.flow-get-started.10-knowledge-check
 - learn-bizapps.flow-get-started.11-summary-cleanup
 badge:
   uid: learn.flow-get-started.badge
-

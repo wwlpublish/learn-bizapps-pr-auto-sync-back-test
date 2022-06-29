@@ -35,9 +35,9 @@ To create a new chatbot, follow these steps:
 
 1. Select the team to own and manage your chatbot from the drop-down list and then select **Continue**.
     
-    When you are creating a new chatbot, team owners and the bot creator have read/write access by default. Team members only have read access to the chatbot.
+    When you're creating a new chatbot, team owners and the bot creator have read/write access by default. Team members only have read access to the chatbot.
 
-    If this is your first time creating a chatbot or Power Apps application in the team, you will receive a notification that the process will be slightly longer than usual while the system sets up. Select **Close** to continue and then wait a few minutes for Teams to notify you that the chatbot is ready. After setup has completed, open the notification under **Activity** and then select **Next**.
+    If this is your first time creating a chatbot or Power Apps application in the team, you'll receive a notification that the process will be slightly longer than usual while the system sets up. Select **Close** to continue and then wait a few minutes for Teams to notify you that the chatbot is ready. After setup has been completed, open the notification under **Activity** and then select **Next**.
     
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the setup is complete notification.](../media/image-3.png)](../media/image-3.png#lightbox)
@@ -46,7 +46,7 @@ To create a new chatbot, follow these steps:
 
 1. Select **Create** to complete creating a new chatbot.
 
-From the Power Virtual Agents editor, you can manage topics, edit and test your chatbot, and then publish it to the rest of the team or the entire organization. Topics are how chatbot conversations transpire and they are covered in the next section.
+From the Power Virtual Agents editor, you can manage topics, edit and test your chatbot, and then publish it to the rest of the team or the entire organization. Topics are how chatbot conversations transpire and they're covered in the next section.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the test bot, edit, and manage topics features.](../media/image-4.png)](../media/image-4.png#lightbox)

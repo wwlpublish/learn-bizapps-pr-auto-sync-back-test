@@ -1,9 +1,9 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.model-data-power-bi 
 metadata: 
  title: Model data in Power BI
  description: Connect Power BI to multiple data sources to create reports. Define the relationship between your data sources. 
- ms.date: 07/28/2021
+ ms.date: 05/25/2022
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
@@ -31,7 +31,10 @@ roles:
 products:  
 - power-platform
 - power-bi 
-units: 
+subjects:
+- data-modeling
+- data-visualization
+units:
 - learn-bizapps.model-data-power-bi.1-overview-power-bi 
 - learn-bizapps.model-data-power-bi.2-how-to-manage-data-relationships 
 - learn-bizapps.model-data-power-bi.3-create-calculated-columns 
@@ -42,5 +45,4 @@ units:
 - learn-bizapps.model-data-power-bi.7-check 
 - learn-bizapps.model-data-power-bi.8-summary 
 badge: 
-  uid: learn-bizapps.model-data-with-power-bi-desktop.badge 
-
+  uid: learn-bizapps.model-data-with-power-bi-desktop.badge

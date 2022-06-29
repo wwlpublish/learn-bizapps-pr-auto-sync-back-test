@@ -7,19 +7,19 @@ Measures don't store values in the model. Instead, they're used at query time to
 
 A *simple* measure is one that aggregates the values of a single column; it does what implicit measures do automatically.
 
-In the next example, you will add a measure to the Sales table. In the **Fields** pane, select the Sales table. To create a measure, in the **Table Tools** contextual ribbon, from inside the **Calculations** group, select **New measure**.
+In the next example, you will add a measure to the **Sales** table. In the **Fields** pane, select the **Sales** table. To create a measure, in the **Table Tools** contextual ribbon, from inside the **Calculations** group, select **New measure**.
 
 > [!div class="mx-imgBorder"]
 > [![An image shows the Table Tools contextual ribbon for the Sales table. The New Measure command is highlighted.](../media/dax-sale-table-new-measure-ssm.png)](../media/dax-sale-table-new-measure-ssm.png#lightbox)
 
-In the formula box, enter the following measure definition and then press the **Enter** key.
+In the formula bar, enter the following measure definition and then press **Enter**.
 
 ```dax
 Revenue =
 SUM(Sales[Sales Amount])
 ```
 
-The measure definition adds the **Revenue** measure to the Sales table. It uses the [SUM](/dax/sum-function-dax/?azure-portal=true) DAX function to sum the values of the **Sales Amount** column.
+The measure definition adds the **Revenue** measure to the **Sales** table. It uses the [`SUM`](/dax/sum-function-dax/?azure-portal=true) DAX function to sum the values of the **Sales Amount** column.
 
 On the **Measure tools** contextual ribbon, inside the **Formatting** group, set the decimal places to **2**.
 
@@ -56,7 +56,7 @@ Quantity =
 SUM(Sales[Order Quantity])
 ```
 
-Create three unit price measures and then set the format of each with two decimal places. Notice the different DAX aggregation functions that are used: [MIN](/dax/min-function-dax/?azure-portal=true), [MAX](/dax/max-function-dax/?azure-portal=true), and [AVERAGE](/dax/average-function-dax/?azure-portal=true).
+Create three unit price measures and then set the format of each with two decimal places. Notice the different DAX aggregation functions that are used: [`MIN`](/dax/min-function-dax/?azure-portal=true), [`MAX`](/dax/max-function-dax/?azure-portal=true), and [`AVERAGE`](/dax/average-function-dax/?azure-portal=true).
 
 ```dax
 Minimum Price =
@@ -90,9 +90,9 @@ Order Count =
 DISTINCTCOUNT('Sales Order'[Sales Order])
 ```
 
-The [COUNT](/dax/count-function-dax/?azure-portal=true) DAX function counts the number of non-BLANK values in a column, while the [DISTINCTCOUNT](/dax/distinctcount-function-dax/?azure-portal=true) DAX function counts the number of distinct values in a column. Because an order can have one or more order lines, the **Sales Order** column will have duplicate values. A distinct count of values in this column will correctly count the number of orders.
+The [`COUNT`](/dax/count-function-dax/?azure-portal=true) DAX function counts the number of non-BLANK values in a column, while the [`DISTINCTCOUNT`](/dax/distinctcount-function-dax/?azure-portal=true) DAX function counts the number of distinct values in a column. Because an order can have one or more order lines, the **Sales Order** column will have duplicate values. A distinct count of values in this column will correctly count the number of orders.
 
-Alternatively, you can choose the better way to write the **Order Line Count** measure. Instead of counting values in a column, it's semantically clearer to use the [COUNTROWS](/dax/countrows-function-dax/?azure-portal=true) DAX function. Unlike the previously introduced aggregation functions, which aggregate column values, the COUNTROWS function counts the number of rows *for a table*.
+Alternatively, you can choose the better way to write the **Order Line Count** measure. Instead of counting values in a column, it's semantically clearer to use the [`COUNTROWS`](/dax/countrows-function-dax/?azure-portal=true) DAX function. Unlike the previously introduced aggregation functions, which aggregate column values, the `COUNTROWS` function counts the number of rows *for a table*.
 
 Modify the **Order Line Count** measure formula you created above to the following parameters:
 

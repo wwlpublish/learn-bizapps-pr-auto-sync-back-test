@@ -29,7 +29,7 @@ Links are part of the rich text option that is available in the body of the emai
 
 Power Automate gives you the flexibility to get the file name and the file content dynamically from SharePoint if you have the necessary actions before it.
 
-Consider a scenario where you want to send a link to an attachment of a new SharePoint list item.
+Consider a scenario where you want to send a link to an attachment of a new Microsoft Lists list item.
 
 In this case, you would use the **Get attachments** action to get the file link and the file name and then add those items to the link of the email body. You can add multiple links.
 

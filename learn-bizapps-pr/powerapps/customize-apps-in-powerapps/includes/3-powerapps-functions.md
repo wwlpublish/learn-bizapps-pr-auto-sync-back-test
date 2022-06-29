@@ -30,7 +30,7 @@ By default, Power Apps pulls in a price value for each item. This value is set a
 > [!NOTE]
    > If your formula returns an error, then please note that the language setting of your Power Apps environment can affect some separators and operators. For example, the above formula is expressed in a language and region that uses dot or period as the decimal separator, such as Japan or the United Kingdom. However, this same formula in a language and region where a comma is used for the decimal separator, such as France or Spain, the formula will need to be: `Text(ThisItem.Price; "$ ##,00")`
    > 
-   > The property selection operator . (dot or period) in ThisItem.Price is always the same, no matter what the decimal separator is, but notice that the decimal separator and the chaining operation separator changed to a comma and semicolon respectively. Internally the formula doesn't change, all that changes is how it's displayed and edited by the author. See [Formula separators and chaining operator](/powerapps/maker/canvas-apps/global-apps?azure-portal=true#formula-separators-and-chaining-operator) for more information.
+   > The property selection operator . (dot or period) in ThisItem.Price is always the same, no matter what the decimal separator is, but notice that the decimal separator and the chaining operation separator changed to a comma and semicolon respectively. Internally the formula doesn't change, all that changes is how it's displayed and edited by the author. See [Formula separators and chaining operator](/power-apps/maker/canvas-apps/global-apps?azure-portal=true#formula-separators-and-chaining-operator) for more information.
 
 The **Text** function specifies how to format the number. The formula is like an Excel function, but Power Apps formulas refer to controls and other app elements instead of cells in a workbook.
 
@@ -68,6 +68,6 @@ Power Apps uses a couple of formulas in every app that it generates. Both exampl
 
 The app contains many other formulas, so take some time to select controls and determine what formulas are set for various properties.
 
-For more information about these and other functions, refer to [formula reference for Power Apps](/powerapps/maker/canvas-apps/formula-reference/?azure-portal=true) page.
+For more information about these and other functions, refer to [formula reference for Power Apps](/power-apps/maker/canvas-apps/formula-reference/?azure-portal=true) page.
 
 For additional information on customizing a canvas app, refer to the Use the UI and controls in a canvas app in Power Apps learning path and the Use basic formulas to make a better canvas app in Power Apps learning path.

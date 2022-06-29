@@ -4,7 +4,7 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 11/01/2021
+ ms.date: 06/01/2022
  author: DaveBeasley 
  ms.author: dbeasley 
  ms.topic: interactive-tutorial 
@@ -13,9 +13,9 @@ durationInMinutes: 3
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: Which of the following would not make running an unattended desktop flow simpler or more efficient?
+  - content: Which of the following would make running an unattended desktop flow simpler or more efficient?
     choices: 
-    - content: Signing in and opening all necessary programs before running the flow
+    - content: Not have to Sign in and open all necessary programs before running the flow
       isCorrect: true 
       explanation: An unattended desktop flow can't be run if a user is signed in. 
     - content: Running the desktop flow on a virtual machine

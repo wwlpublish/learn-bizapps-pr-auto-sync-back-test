@@ -52,4 +52,4 @@ Right-click the tab that you want to copy and then select **Duplicate Page**.
 
 ![Screenshot of the "Duplicate Page" option on the bottom of the page.](../media/12-power-bi-desktop-duplicate-page.png)
 
-For more information, see [Tutorial: Adding formatting options to a Power BI custom visual](https://docs.microsoft.com/power-bi/developer/custom-visual-develop-tutorial-format-options/?azure-portal=true).
+For more information, see [Tutorial: Adding formatting options to a Power BI custom visual](/power-bi/developer/visuals/custom-visual-develop-tutorial-format-options?azure-portal=true).

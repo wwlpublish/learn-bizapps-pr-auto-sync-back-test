@@ -1,9 +1,9 @@
-When you look at the *convertToUtc* expression you wrote earlier, you might notice that you need to scroll to see the whole formula in the function bar. A common technique to make reviewing your expression easier is to use comments and paste the whole formula into the comment.
+When you look at the *convertToUtc* expression you wrote earlier, you might notice that you need to scroll to see the whole formula in the function bar. A common technique to make reviewing your expression easier is to use notes and paste the whole formula into the note.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of pasting the formula into the comment.](../media/paste-formula-ss.png)](../media/paste-formula-ss.png#lightbox)
 
-To add a comment, select the ellipse to show the menu. Then select **Add a comment**.
+To add a note, select the ellipse to show the menu. Then select **Add a note**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of selecting the ellipsis to reveal the the "Add a comment" option.](../media/ellipsis-comment-ssm.png)](../media/ellipsis-comment-ssm.png#lightbox)

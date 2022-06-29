@@ -5,7 +5,7 @@ When you edit a canvas app in Microsoft Power Apps Studio, a visual representati
 
 You can drag and drop a control on the screen, use the formula bar to edit your expressions, and use the **Properties** panel to edit control property values. Most makers use these tools to create and modify apps.
 
-You can save a copy of a canvas app to your computer as a single file with an .msapp extension. If the canvas app is a part of a Microsoft Dataverse solution, then you can use the [Microsoft Power Platform CLI (command-line interface)](/powerapps/developer/data-platform/powerapps-cli/?azure-portal=true) to download the solution and extract the app. The app file is self-contained and represents the entire app, including screens, controls, components, connections, formulas, and so on. However, internally, the app contains many separate files, each describing a part of the app. You can use the **unpack** command of Power Platform CLI to extract these files. After the files have been unpacked, you can edit most of the files by using any text editor. The following screenshot shows an example of the same app opened in Microsoft Visual Studio Code after it's been unpacked.
+You can save a copy of a canvas app to your computer as a single file with an .msapp extension. If the canvas app is a part of a Microsoft Dataverse solution, then you can use the [Microsoft Power Platform CLI (command-line interface)](/power-apps/developer/data-platform/powerapps-cli/?azure-portal=true) to download the solution and extract the app. The app file is self-contained and represents the entire app, including screens, controls, components, connections, formulas, and so on. However, internally, the app contains many separate files, each describing a part of the app. You can use the **unpack** command of Power Platform CLI to extract these files. After the files have been unpacked, you can edit most of the files by using any text editor. The following screenshot shows an example of the same app opened in Microsoft Visual Studio Code after it's been unpacked.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of Visual Studio Code editor with the folder opened that contains individual files for the canvas app.](../media/visual-studio-code.png)](../media/visual-studio-code.png#lightbox)
@@ -22,9 +22,9 @@ The source to your app is represented by a subset of [YAML](https://yaml.org/?az
 
 ## Power Platform CLI 
 
-[Power Platform CLI](/powerapps/developer/data-platform/powerapps-cli/?azure-portal=true) (or CLI) is a command-line tool that you can use for many development and administrative tasks in Microsoft Power Platform, such as building Power Apps component framework components, managing environments, working with solutions and portals, and more. You can use the CLI from a simple command prompt, as part of an automated build, or from the terminal in Visual Studio Code.
+[Power Platform CLI](/power-apps/developer/data-platform/powerapps-cli/?azure-portal=true) (or CLI) is a command-line tool that you can use for many development and administrative tasks in Microsoft Power Platform, such as building Power Apps component framework components, managing environments, working with solutions and portals, and more. You can use the CLI from a simple command prompt, as part of an automated build, or from the terminal in Visual Studio Code.
 
-This module focuses on the canvas app and solution functionality of Power Platform CLI. You can review the other capabilities and how they work in the [product documentation](/powerapps/developer/data-platform/powerapps-cli#common-commands/?azure-portal=true). You can download and install [Power Platform CLI](https://aka.ms/PowerAppsCLI/?azure-portal=true). If you already have the CLI installed, ensure that you have the latest version by using the following command:
+This module focuses on the canvas app and solution functionality of Power Platform CLI. You can review the other capabilities and how they work in the [product documentation](/power-apps/developer/data-platform/powerapps-cli?azure-portal=true#common-commands). You can download and install [Power Platform CLI](https://aka.ms/PowerAppsCLI/?azure-portal=true). If you already have the CLI installed, ensure that you have the latest version by using the following command:
 
 ```pac install latest```
 
@@ -36,7 +36,7 @@ To unpack the .msapp file of a canvas app, use the following command:
 
 ```pac canvas unpack --msapp "Account Manager.msapp" --sources src```
 
-The target output folder is identified by the source's switch by using the [following folder structure](/powerapps/developer/data-platform/powerapps-cli?azure-portal=true#folder-structure).
+The target output folder is identified by the source's switch by using the [following folder structure](/power-apps/developer/data-platform/powerapps-cli?azure-portal=true#folder-structure).
 
 > [!div class="mx-imgBorder"]
 > [![Diagram of the file hierarchy for individual files for the canvas app.](../media/file-hierarchy.png)](../media/file-hierarchy.png#lightbox)

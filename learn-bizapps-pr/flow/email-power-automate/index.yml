@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.email-power-automate.1-introduction 
 - learn-bizapps.email-power-automate.2-sharepoint-triggers 
 - learn-bizapps.email-power-automate.3-send-outlook 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.email-power-automate.6-check 
 - learn-bizapps.email-power-automate.7-summary 
 badge: 
-  uid: learn-bizapps.email-power-automate.badge 
+  uid: learn-bizapps.email-power-automate.badge

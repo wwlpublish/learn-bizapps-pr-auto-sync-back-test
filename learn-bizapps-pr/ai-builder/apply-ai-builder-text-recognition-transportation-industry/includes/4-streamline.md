@@ -1,6 +1,6 @@
 ## Build a canvas Power App
 
-The goal is to streamline the work of front-line worker. We will build a canvas Power Apps (See [What are canvas apps in Power Apps?](/powerapps/maker/canvas-apps/getting-started/?azure-portal=true)) that will allow to take a picture, automatically recognize the container identifier, and provide a guided experience to update state, shipment and arrival dates.
+The goal is to streamline the work of front-line worker. We will build a canvas Power Apps (See [What are canvas apps in Power Apps?](/power-apps/maker/canvas-apps/getting-started/?azure-portal=true)) that will allow to take a picture, automatically recognize the container identifier, and provide a guided experience to update state, shipment and arrival dates.
 
 Use "Create" in Power Apps left menu and then "Canvas app from blank", name it Contoso Container Check-in, select "Phone" and then click on "Create".
 
@@ -8,7 +8,7 @@ Use "Create" in Power Apps left menu and then "Canvas app from blank", name it C
 
 Let's enable John and Chandra to take a picture of a container and automatically retrieve the container identifiers. From "Insert" menu and "AI Builder" bar choose "Text Recognizer". This is the control that will allow to take or upload a picture and automatically recognize the container identifier.
 
-![The A I Builder menu is expanded to reveal Business card reader, Form processor, Object detector, and Text recognizer options.](../media/image10.png)
+![The A I Builder menu is expanded to reveal Business card reader, Form processor, Object detector, and Text recognizer options.](../media/image10.jpg)
 
 Resize the control to fit in the screen and insert on the top a label editing the "Text" property to "Container Check-in" with blue background and white text centered.
 
@@ -38,13 +38,13 @@ You should see this:
 
 ## Streamline work
 
-To streamline the work of the front line worker minimizing information requested, we will provide a guided experience that allows the user to update the table data but ask him only the information relevant at this stage of the shipment. Insert a new Form Screen (See [Add a screen to a canvas app and navigate between screens](/powerapps/maker/canvas-apps/add-screen-context-variables/?azure-portal=true))
+To streamline the work of the front line worker minimizing information requested, we will provide a guided experience that allows the user to update the table data but ask him only the information relevant at this stage of the shipment. Insert a new Form Screen (See [Add a screen to a canvas app and navigate between screens](/power-apps/maker/canvas-apps/add-screen-context-variables/?azure-portal=true))
 
 ![New Form screen offers Blank, Scrollable, List, Form, Success, and Tutorial options.](../media/image12.png)
 
 Change the title "Text" property to "Update shipping."
 
-Edit the EditForm1 (See [Show, edit, or add a record in a canvas app](/powerapps/maker/canvas-apps/add-form/?azure-portal=true))
+Edit the EditForm1 (See [Show, edit, or add a record in a canvas app](/power-apps/maker/canvas-apps/add-form/?azure-portal=true))
 
 - To bind the edit form to the table previously created, Click on connect to data on the view and select 'Container Shipments' on the left pane**
 
@@ -64,7 +64,7 @@ Retrieve the one corresponding to the text previously selected by the user.** Th
 
 The screen will behave differently depending on the state of the container. When it is waiting to be shipped, the user will be able to change the "Shipping Date" and when receiving it the "Arrival Date".
 
-Edit "Shipping Date\_DataCard1" (unlock the properties on the left pane, see [Unlock and customize a card](/powerapps/maker/canvas-apps/customize-card?azure-portal=true#unlock-and-customize-a-card)).
+Edit "Shipping Date\_DataCard1" (unlock the properties on the left pane, see [Unlock and customize a card](/power-apps/maker/canvas-apps/customize-card?azure-portal=true#unlock-and-customize-a-card)).
 
 - To force the user filling the shipment date, change the "Required" property to True
 

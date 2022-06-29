@@ -10,7 +10,7 @@ Your student’s tasks in this lab are to:
 * Build a Report Page with Visuals Types: Card, Slicer, Matrix, Custom Visual
 * Add Conditional Formatting Icons to Matrix Visual 
 
-Lab document available at <PresentationFolder>\MAIAD\Attendee\Lab Materials\Lab 02
+Lab document available at \<PresentationFolder>\MAIAD\Attendee\Lab Materials\Lab 02
 
 > [!TIP]
 > Watch the video of a delivery of Lab 02 that is included in the instructor files, and then try it yourself before teaching this class.

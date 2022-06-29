@@ -3,7 +3,7 @@ uid: learn-bizapps.authentication-user-management
 metadata: 
  title: Authentication and user management in Power Apps portals
  description: Learn how to authenticate with Power Apps portals.
- ms.date: 07/14/2020  
+ ms.date: 06/27/2022  
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
@@ -11,6 +11,7 @@ metadata:
 title: Authentication and user management in Power Apps portals
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   An individual, external user might have several identities from which to choose when registering and accessing a portal. Portal users can be onboarded in many ways, and several options are available to portal users for validating their identity and maintaining their profiles. Microsoft Power Apps portals supports a variety of authentication options and provides powerful user-management capabilities. Administrators can choose between using local authentication or delegating authentication to a trusted authentication provider. Power Apps portals supports multiple authentication providers and various industry standards. 
 abstract: |  
     In this module, you will: 
@@ -31,7 +32,9 @@ roles:
 products:  
 - power-platform  
 - power-apps 
-units: 
+subjects:
+- identity-access
+units:
 - learn-bizapps.authentication-user-management.1-introduction 
 - learn-bizapps.authentication-user-management.2-authentication-settings 
 - learn-bizapps.authentication-user-management.3-user-registration 
@@ -41,4 +44,4 @@ units:
 - learn-bizapps.authentication-user-management.7-check 
 - learn-bizapps.authentication-user-management.8-summary 
 badge: 
-  uid: learn-bizapps.authentication-user-management.badge 
+  uid: learn-bizapps.authentication-user-management.badge

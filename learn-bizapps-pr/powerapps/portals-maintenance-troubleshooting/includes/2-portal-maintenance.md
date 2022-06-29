@@ -6,61 +6,78 @@ The **Portal Checker** feature is available in the Power Apps Portals admin cent
 
 To run the Portal Checker, follow these steps:
 
-1. From [Power Apps](https://make.powerapps.com/?azure-portal=true), locate your portal app.
-1. Select the ellipsis (...) and then select **Settings**.
-1. Select **Administration**.
-1. Select **Run Portal Checker** from the list of options on the left.
-1. Select the **Run Portal Checker** button.
-
-After a few minutes, you should see a list of diagnostic results.
-
-> [!div class="mx-imgBorder"]
-> [![Screenshot of the Run Portal Checker with diagnostic results listed.](../media/portal-checker.png)](../media/portal-checker.png#lightbox)
+1. Sign in to the [Microsoft Power Platform admin center](https://admin.powerplatform.microsoft.com/?azure-portal=true).
+1. In the left pane, expand **Resources** and then select **Portals**.
+1. Select the target portal.
+1. Select **Manage** at the top of the page. 
+1. Select **Run Portal Checker** link on the Power Platform portals admin shortcuts page.
+   ![Run Portal Checker shortcut on Power Platform admin center](../media/portal-checker-shortcut.png)
+1. On the Power Apps Portals admin center, select **Run Portal Checker** button. After a few minutes, you should see a list of diagnostic results.
+   > [!div class="mx-imgBorder"]
+   > [![Screenshot of the Run Portal Checker with diagnostic results listed.](../media/portal-checker.png)](../media/portal-checker.png#lightbox)
 
 The result will also provide mitigation steps or links to help you understand the impact of the issue.
 
-For more information, see [Portal Checker](/powerapps/maker/portals/admin/portal-checker/?azure-portal=true).
+For more information, see [Portal Checker](/power-apps/maker/portals/admin/portal-checker/?azure-portal=true).
 
 ## Enable maintenance mode
 
 As an administrator, you might have occasions when you don't want portal users to visit or sign in to the Power Apps portal. The reason could be because you might be migrating or updating a series of portal webpages and functionality or uploading a large dataset that you don't want to be available on the portal until the load process is complete.
 
-While you can change the portal state to **Off**, selecting this option would present the portal visitors with a message that the portal cannot be found, leaving the visitors wondering what has happened.
+While you can change the portal state to **Off**, selecting this option would present the portal visitors with a message that the portal can't be found, leaving the visitors wondering what has happened.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Portal Off error message.](../media/portal-off.png)](../media/portal-off.png#lightbox)
 
-Within the Portals admin center actions is the option to enable the **Portal Maintenance** mode. Selecting this mode will provide the portal visitors with a more informational page indicating that the portal is temporarily unavailable.
+Within the Portals admin center actions are the option to enable the **Portal Maintenance** mode. Selecting this mode will provide the portal visitors with a more informational page indicating that the portal is temporarily unavailable.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Portal Maintenance Mode message.](../media/maintenance-mode.png)](../media/maintenance-mode.png#lightbox)
 
-The maintenance mode page can also be replaced with a custom HTML page that is hosted elsewhere and publicly accessible. For more information, see [Enable maintenance mode](/powerapps/maker/portals/admin/enable-maintenance-mode?azure-portal=true#enable-maintenance-mode).
+The maintenance mode page can also be replaced with a custom HTML page that is hosted elsewhere and publicly accessible. For more information, see [Enable maintenance mode](/power-apps/maker/portals/admin/enable-maintenance-mode?azure-portal=true#enable-maintenance-mode).
 
-## Upgrade the portal
+## Portal upgrades
 
-A benefit of software as a service (SaaS) applications is that many of the software components are updated automatically. Several Power Apps portals components, such as the Azure web application and the various tools, are updated automatically.  
+A benefit of software as a service (SaaS) applications is that many of the software components are updated automatically and regularly. Several Power Apps portals components, such as the Azure app services and the various tools, are updated automatically.  
 
-An administrator can also opt to receive early updates in the Portals admin center.
+An administrator can also opt to receive early updates in the Power Apps portals admin center.
+
+![Screenshot of the enable portal for early upgrades checkbox.](../media/early-upgrades.png)
 
 > [!CAUTION]
 > You should opt for early updates in development or testing portals only, which will ensure that your production portal remains operational in the unlikely event that an early update might cause issues with your portal application.
 
-While underlying infrastructure is maintained automatically, portal solutions aren't automatically updated. These solutions are installed on Microsoft Dataverse and will always be compatible with the current portal web host. An administrator might be advised of the available solution updates from the Microsoft 365 message center.
+While underlying infrastructure is maintained automatically, portal solutions aren't automatically updated. An administrator might be advised of the available solution updates from the Microsoft 365 message center.
 
-An administrator can update the portal solutions during an appropriate maintenance window because the update process might cause some performance degradation and portal instability.
+A Power Apps portal consists of solutions from different packages in an environment. You can use the Power Platform admin center to view the details and update the installed packages.
 
-Portal solutions can be updated by using the Dynamics 365 admin center (even for Dataverse portals that don't have Dynamics 365 apps installed).
+> [!IMPORTANT]
+> Solutions in a package are upgraded for an environment. Hence, the selected package will be upgraded for all portals in the environment using the package.
 
-1. Go to the [Microsoft Power Platform admin center](https://aka.ms/ppac/?azure-portal=true).
-1. Expand **Admin Centers**.
-1. Select **Dynamics 365**.
-1. Select the environment where the portal is provisioned.
-1. In the **Details** section, select the **Manage your solutions** icon.
-1. Select the portal solution that has a status of **Upgrade available**.
-1. Select **Upgrade** to start the solution upgrade process.
+To check and update portal package(s) in an environment:
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot of the Starter Portal with the Upgrade icon highlighted.](../media/update-portal-solutions.png)](../media/update-portal-solutions.png#lightbox)
+1. Sign in to the [Microsoft Power Platform admin center](https://admin.powerplatform.microsoft.com/?azure-portal=true).
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4AprS]
+1. In the left pane, expand **Resources** and then select **Portals**.
+
+1. Select the target portal.
+
+1. Select **Check portal package(s) for upgrade** at the top of the page.
+
+   > [!div class="mx-imgBorder"]
+   > [![Screenshot of the check portal packages for upgrades in Power Platform admin center.](../media/update-portal-solutions-check.png)](../media/update-portal-solutions-check.png#lightbox)
+
+1. If upgrades are available, you'll be prompted to navigate to the upgrade page. Select **OK** to open the environment portal page.
+
+   > [!div class="mx-imgBorder"]
+   > [![Screenshot of the prompt to confirm portal packages upgrade.](../media/update-portal-solutions-available.png)](../media/update-portal-solutions-available.png#lightbox)
+
+1. On the environment portals page select **Portals package(s) details**.
+
+1. Select packages with the updates available and then select **Update**.
+
+   > [!div class="mx-imgBorder"]
+   > [![Screenshot of the Starter Portal with the upgrade packages available.](../media/update-portal-solutions.png)](../media/update-portal-solutions.png#lightbox)
+
+> [!IMPORTANT]
+> Updating packages might take some time. It's recommended to update the portal solutions during an appropriate maintenance window to avoid any possible performance degradation and portal instability.

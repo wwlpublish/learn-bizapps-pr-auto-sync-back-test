@@ -2,8 +2,8 @@
 uid: learn-bizapps.dax-power-bi-add-measures 
 metadata: 
  title: Add measures to Power BI Desktop models
- description: In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more detailed measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.
- ms.date: 07/07/2020  
+ description: In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more complex measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.
+ ms.date: 06/15/2022 
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
@@ -11,7 +11,7 @@ metadata:
 title: Add measures to Power BI Desktop models 
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more detailed measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.
+  In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more complex measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.
 abstract: |  
     By the end of this module, you'll be able to: 
     - Determine when to use implicit and explicit measures.
@@ -29,7 +29,9 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.dax-power-bi-add-measures.1-introduction 
 - learn-bizapps.dax-power-bi-add-measures.2-simple-measures 
 - learn-bizapps.dax-power-bi-add-measures.3-compound-measures 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.dax-power-bi-add-measures.6-check 
 - learn-bizapps.dax-power-bi-add-measures.7-summary 
 badge: 
-  uid: learn-bizapps.dax-power-bi-add-measures.badge 
+  uid: learn-bizapps.dax-power-bi-add-measures.badge

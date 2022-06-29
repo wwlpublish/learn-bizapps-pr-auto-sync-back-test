@@ -10,7 +10,8 @@ metadata:
  ms.prod: learning-power-apps  
 title: Build custom Power Apps portals web templates
 summary: |  
-  [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)] 
   This module describes custom web templates and how they can be built and configured to extend and enhance a Power Apps portal. A portal is provisioned with a series of prebuilt web templates. As makers encounter more complex scenarios, they need to understand how to use Liquid template language to create their own web templates that address project requirements.
 abstract: |  
     In this module, you will: 
@@ -32,7 +33,9 @@ products:
 - dynamics-365
 - power-platform
 - power-apps 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.portal-custom-web.1-introduction 
 - learn-bizapps.portal-custom-web.2-build-web-templates 
 - learn-bizapps.portal-custom-web.3-build-api 
@@ -40,4 +43,4 @@ units:
 - learn-bizapps.portal-custom-web.5-check 
 - learn-bizapps.portal-custom-web.6-summary 
 badge: 
-  uid: learn-bizapps.portal-custom-web.badge 
+  uid: learn-bizapps.portal-custom-web.badge

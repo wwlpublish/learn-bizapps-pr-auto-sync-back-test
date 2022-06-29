@@ -12,7 +12,7 @@ No triggers are available for mail on actions. The following action is the only 
 
 The SharePoint connector has a trigger for new items in Power Automate flows. This example shows a workflow process being started when a new item for a travel reimbursement request has been submitted. Email notifications are sent by using the Mail connector.
 
-The following table provides an overview of the column types for the SharePoint list called **Travel Reimbursement**.
+The following table provides an overview of the column types for the list in Microsoft Lists called **Travel Reimbursement**.
 
 | **Column** | **Type** | **Required** | **Additional information** |
 |------------|----------|--------------|----------------------------|
@@ -22,10 +22,10 @@ The following table provides an overview of the column types for the SharePoint 
 | Cost | Currency | Yes | |
 | Manager | Person or Group | No | Person |
 
-The following screenshot shows the SharePoint list. SharePoint automatically adds the **Created**, **Created By**, **Modified**, and **Modified By** columns.
+The following screenshot shows the list in Microsoft Lists. Lists automatically adds the **Created**, **Created By**, **Modified**, and **Modified By** columns.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the SharePoint list of Columns.](../media/4-1-columns.png)](../media/4-1-columns.png#lightbox)
+> [![Screenshot of the list of Columns.](../media/4-1-columns.png)](../media/4-1-columns.png#lightbox)
 
 Return to the **Travel Reimbursement** list and, from the ribbon, select **Integrate > Power Automate > Create a flow**.
 

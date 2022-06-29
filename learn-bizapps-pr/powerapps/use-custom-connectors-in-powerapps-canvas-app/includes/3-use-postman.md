@@ -153,7 +153,7 @@ to create the custom connector from the Postman collection created earlier:
  for the Cognitive Services Text Analytics API
 
 - A
- [Power Apps](/powerapps/signup-for-powerapps/?azure-portal=true)
+ [Power Apps](/power-apps/signup-for-powerapps/?azure-portal=true)
  subscription
 
 Import the Postman collection

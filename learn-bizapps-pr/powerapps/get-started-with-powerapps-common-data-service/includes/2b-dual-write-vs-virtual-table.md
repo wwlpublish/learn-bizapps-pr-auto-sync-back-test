@@ -13,7 +13,7 @@ Virtual tables (also known as virtual entities) enable the integration of data r
 
 Virtual tables replace previous client-side and server-side approaches to integrating external data, which required customized code and suffered from numerous limitations, including imperfect integration, data duplication, or extensive commitment of development resources. In addition, for administrators and system customizers, the use of virtual tables greatly simplifies administration and configuration.
 
-Find more information on [configuring virtual tables](/powerapps/maker/data-platform/create-edit-virtual-entities/?azure-portal=true).
+Find more information on [configuring virtual tables](/power-apps/maker/data-platform/create-edit-virtual-entities/?azure-portal=true).
 
 ## When to use Dual-write vs. virtual tables?
 

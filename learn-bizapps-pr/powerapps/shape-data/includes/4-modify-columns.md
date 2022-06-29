@@ -1,13 +1,13 @@
 Functions like Filter and Search are used to modify the returned
-records, but sometimes you need to modify the columns of the records
-while using the records. For example, if you were creating a shopping
+rows, but sometimes you need to modify the columns of the rows
+while using the rows. For example, if you were creating a shopping
 cart app for sending digital assets to a customer, you would need a way
 to keep track of the selected assets. Ideally, you would have a
-temporary column for tracking the selected records that only exists
+temporary column for tracking the selected rows that only exist
 inside of Power Apps and does not modify the original data source.
 Fortunately, Power Apps offers a solution.
 
-With Power Apps there a series of functions that modify the columns of your
+With Power Apps there's a series of functions that modify the columns of your
 table only within Power Apps, which means that they don't modify or change
 the actual data source. Those functions are:
 
@@ -35,9 +35,9 @@ ClearCollect(collectDigitalAssets, AddColumns(YourDataSource,"UserSelected", fal
 ```
 
 When this button is selected, the formula creates a collection named
-**collectDigitalAssets** that has all of the records from
+**collectDigitalAssets** that has all of the rows from
 **YourDataSource** and adds the column, "**UserSelected**". The column
-value is **false** for all of the records.
+value is **false** for all of the rows.
 
 Now in your **Gallery** control, set the **items** property to the
 following.
@@ -54,7 +54,7 @@ Patch(collectDigitalAssets, ThisItem, {UserSelected: true})
 ```
 
 Now in the **collectDigitalAssets** collection you are tracking the
-records the user has selected in your app without modifying the columns
+rows the user has selected in your app without modifying the columns
 in your data source.
 
 DropColumns
@@ -79,7 +79,7 @@ while the users is using the app.
 When the user is done, one way to save the information back to a data
 source is to use the **Collect** function. If the columns match between
 the data source, the **Collect** function will write all of the
-records to your collection. In this example, **Name**, **HoursWorked**,
+rows to your collection. In this example, **Name**, **HoursWorked**,
 and **DateWorked** are the only columns in the data source.
 **LastScreen** and **Status** do not exist in the data source and do not
 need to be saved. You can use **DropColumns** to send just
@@ -122,7 +122,7 @@ of the previous example.
 Collect(collectProjectData, RenameColumns(ProjectDataSource, "Date","ProjectDate"))
 ```
 
-You have the same records. Now, instead of the column being named
+You have the same rows. Now, instead of the column being named
 **Date,** it is now named **ProjectDate** within your collection. This
 gives you the flexibility to name columns to something that will be less
 confusing to work with in the app.
@@ -170,5 +170,5 @@ Dropdown1, edit the formula accordingly.
 Dropdown1.Selected.ID
 ```
 
-The formula returns the value from the ID column for the selected record
+The formula returns the value from the ID column for the selected row
 in your **Dropdown** control. 

@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.intro-to-power-bi-mobile-apps 
 metadata: 
   title: Get to your data on the go with the Power BI mobile apps
@@ -32,7 +32,9 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.intro-to-power-bi-mobile-apps.1-power-bi-mobile-apps 
 - learn-bizapps.intro-to-power-bi-mobile-apps.2-find-your-data 
 - learn-bizapps.intro-to-power-bi-mobile-apps.3-view-interact-with-your-data 

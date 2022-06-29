@@ -26,6 +26,8 @@ roles:
 products:
 - office-excel
 - power-bi
+subjects:
+- productivity
 units:
 - learn.wwl.wrap-up.introduction
 - learn.wwl.wrap-up.excel-power-bi

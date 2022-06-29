@@ -30,7 +30,9 @@ roles:
 products:  
 - power-automate 
 - power-platform  
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.winautomation-variables.1-introducing-variables
 - learn-bizapps.winautomation-variables.2-create-edit-use-variables
 - learn-bizapps.winautomation-variables.3-variable-data-types
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.winautomation-variables.8-check-knowledge
 - learn-bizapps.winautomation-variables.9-summary
 badge: 
-  uid: learn-bizapps.winautomation-variables.badge 
+  uid: learn-bizapps.winautomation-variables.badge

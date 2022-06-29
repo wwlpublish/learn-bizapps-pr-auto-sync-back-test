@@ -3,7 +3,7 @@ In this unit, you'll generate a mobile app where the data source is a Microsoft 
 Keep in mind that you can use data from many other sources, including Microsoft SharePoint, cloud services like Salesforce, and on-premises sources like Microsoft SQL Server.
 
 > [!NOTE]
-> Power Apps requires either an Office 365 license or a free trial. Learn more about your licensing options. [Microsoft products include Microsoft Power Apps and Power Automate.](/powerapps/administrator/pricing-billing-skus/?azure-portal=true)
+> Power Apps requires either an Office 365 license or a free trial. Learn more about your licensing options. [Microsoft products include Microsoft Power Apps and Power Automate.](/power-apps/administrator/pricing-billing-skus/?azure-portal=true)
 
 Before you begin, watch this video for a brief overview of what to expect when creating your first Power App.
 
@@ -17,11 +17,9 @@ To connect to a data source, use the following procedure:
 
 1. Go to [https://make.powerapps.com](https://make.powerapps.com/?azure-portal=true) and sign in with your organizational account.
 
-1. On the **Home** screen, under the **Start from data** section, select **Other data sources**.
+1. On the **Home** screen, select **Create** and then, select **More data sources** on the right.
 
-    ![Screenshot of the Canvas app from blank screen with Phone layout and Create highlighted.](../media/powerapps-home-screen-data-sources.png)
-
-    Generated apps are always based on a single list or table, but you can add more data to the app later. The next four steps explain how to connect to the Excel workbook.
+   Generated apps are always based on a single list or table, but you can add more data to the app later. The next four steps explain how to connect to the Excel workbook.
 
 1. In the **New** tab section, under **Connections**, select **OneDrive for Business** and browse to the file location.
     You might need to select **New Connection** to see the **OneDrive for Business** connection.

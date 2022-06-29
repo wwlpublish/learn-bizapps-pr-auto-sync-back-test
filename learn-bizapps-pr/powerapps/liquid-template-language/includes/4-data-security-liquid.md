@@ -21,9 +21,9 @@ In this example, the code:
 
 - Displays data only if the user is signed in.
 - Retrieves the parent account record.
-- Checks that the account exists and that the user has permissions to read that record. The **Permissions** property of the **table** object returns the [Table Permissions](/powerapps/maker/portals/liquid/liquid-objects#table-permissions/?azure-portal=true) object that can be used to verify specific privileges.
+- Checks that the account exists and that the user has permissions to read that record. The **Permissions** property of the **table** object returns the [Table Permissions](/power-apps/maker/portals/liquid/liquid-objects#table-permissions/?azure-portal=true) object that can be used to verify specific privileges.
 - Displays the name of the account, if available; otherwise, it displays the "Unknown company" message.
 
 You can test the code inside portals Studio and then browse to the site. Check the different values that are rendered by the code because of the maker privileges within portals Studio.
 
-For more information, see [Work with Liquid templates](/powerapps/maker/portals/liquid/liquid-overview/?azure-portal=true).
+For more information, see [Work with Liquid templates](/power-apps/maker/portals/liquid/liquid-overview/?azure-portal=true).

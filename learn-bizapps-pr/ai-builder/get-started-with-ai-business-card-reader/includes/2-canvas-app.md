@@ -1,6 +1,6 @@
 Your goal for this exercise is to take a picture or upload an existing photo from the file system and extract contact information that is present in the image. You will then build a canvas app in Power Apps and use the Business card reader component. 
 
-For more information, see the [What are canvas apps in Power Apps?](/powerapps/maker/canvas-apps/getting-started/?azure-portal=true) and the [Use the Business card reader component in a canvas app](/ai-builder/business-card-reader-component-in-powerapps/?azure-portal=true) documentation.
+For more information, see the [What are canvas apps in Power Apps?](/power-apps/maker/canvas-apps/getting-started/?azure-portal=true) and the [Use the Business card reader component in a canvas app](/ai-builder/business-card-reader-component-in-powerapps/?azure-portal=true) documentation.
 
 ### Create an application in Power Apps
 
@@ -18,7 +18,7 @@ Follow these steps to give users the ability to automatically retrieve contact i
 1. From the **Insert** menu and **AI Builder** bar, select **Business card reader**. This control will allow you to take or upload a picture and automatically recognize contact information from business cards.
 2. Resize the control to fit the screen.
 
-    ![The A I Builder menu is expanded to reveal Business card reader, Form processor, Object detector, and Text recognizer options.](../media/image2.png)
+    ![The A I Builder menu is expanded to reveal Business card reader, Form processor, Object detector, and Text recognizer options.](../media/image-2.png)
 
 ### Bind the contact information to an existing table from Microsoft Dataverse
 
@@ -34,7 +34,7 @@ To bind the extracted contact information to the form, follow these steps:
 
 1. Go to each of the form's data cards and, in the **Advanced** tab, select **Unlock to change properties**.
 
-    ![Screenshot of the Advanced tab, with Unlock to change properties circled.](../media/image3.png)
+    ![Screenshot of the Advanced tab, with Unlock to change properties circled.](../media/image-3.png)
 
 2. You can now change the default value of each data card to map the Business card reader extracted properties. Set the following default values:
 
@@ -78,13 +78,13 @@ To add a button to trigger the creation of a new contact, follow these steps:
 
     The following image shows an example of the screen that should appear.
 
-    ![A screenshot of the Scan business card form with Full Name, Email, Business Phone, and Website fields and a Create contact button.](../media/image4.png)
+    ![A screenshot of the Scan business card form with Full Name, Email, Business Phone, and Website fields and a Create contact button.](../media/image-4.png)
 
     Test that the application is working properly before moving on to the next step.
 
 3. Select the **run** button on right side of the screen.
 
-    ![A screenshot of the tool bar with the Run button circled.](../media/image5.png)
+    ![A screenshot of the tool bar with the Run button circled.](../media/image-5.png)
 
 4. To analyze a business card, select **Scan business card** and then select an image that you have saved. You can also use your mobile device to take a picture.
 
@@ -92,7 +92,7 @@ AI Builder Business card reader will process the business card and display extra
 
 The extracted contact information is now displayed in the form's data cards. You can review it and create a new contact by selecting **Create contact**.
 
-![A screenshot of a scanned business card with the information populating the fields.](../media/image6.png)
+![A screenshot of a scanned business card with the information populating the fields.](../media/image-6.png)
 
 You can add new fields to the form; AI Builder Business card reader will recognize various contact information from business cards. You can also use the extracted information to create records in other tables from Dataverse and to use it in external data sources.
 

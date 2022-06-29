@@ -28,7 +28,10 @@ products:
 - power-automate
 - power-platform
 - common-data-service
-units: 
+subjects:
+- architecture
+- process-workflow
+units:
 - learn-bizapps.power-automate-architecture.1-introduction
 - learn-bizapps.power-automate-architecture.2-triggers
 - learn-bizapps.power-automate-architecture.3-actions

@@ -1,14 +1,14 @@
 ### YamlMime:Module 
 uid: learn-bizapps.integrate-flow-outlook 
 metadata: 
- title: Integrate desktop flow with Outlook connector in Power Automate Desktop
- description: Learn how to integrate desktop flows with Microsoft Outlook in Power Automate Desktop.
- ms.date: 11/01/2021 
+ title: Integrate desktop flows with Outlook connector in Power Automate for desktop
+ description: Learn how to integrate desktop flows with Microsoft Outlook in Power Automate for desktop.
+ ms.date: 06/01/2022 
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
  ms.prod: learning-power-automate  
-title: Integrate desktop flow with Outlook connector in Power Automate Desktop
+title: Integrate desktop flows with Outlook connector in Power Automate for desktop
 summary: |  
   [!include[](../includes/module-banner.md)] 
   This module will show how to build on an existing gateway to integrate Microsoft Outlook with a desktop UI flow.
@@ -18,7 +18,7 @@ abstract: |
     - Create a new cloud flow that initiates the invoicing process through receipt of an email.
     - Integrate a desktop flow into a cloud flow.
     - Test the new cloud flow.
-prerequisites: Basic understanding of Microsoft Power Automate. This module builds from the Build your first Power Automate Desktop UI flow, the Use input and output parameters, and the Create a Gateway to Desktop UI flow modules. 
+prerequisites: Basic understanding of Microsoft Power Automate. This module builds from the Build your first Power Automate for desktop UI flow, the Use input and output parameters, and the Create a Gateway to Desktop UI flow modules. 
 iconUrl: /learn/achievements/integrate-flow-outlook.svg  
 levels:  
 - intermediate   
@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform  
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.integrate-flow-outlook.1-introduction 
 - learn-bizapps.integrate-flow-outlook.2-setup 
 - learn-bizapps.integrate-flow-outlook.3-cloud-flow 
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.integrate-flow-outlook.5-check 
 - learn-bizapps.integrate-flow-outlook.6-summary 
 badge: 
-  uid: learn-bizapps.integrate-flow-outlook.badge 
+  uid: learn-bizapps.integrate-flow-outlook.badge

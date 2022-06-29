@@ -18,4 +18,4 @@ When creating model-driven apps, it's important to focus on three areas:
 - Defining business processes
 - Composing the app.
 
-More information on creating model-driven apps is included in the Create relationships, business rules, calculations, and rollups in Dataverse Learning Path and in [Overview of building model-driven apps](/powerapps/maker/model-driven-apps/model-driven-app-overview/?azure-portal=true).
+More information on creating model-driven apps is included in the Create relationships, business rules, calculations, and rollups in Dataverse Learning Path and in [Overview of building model-driven apps](/power-apps/maker/model-driven-apps/model-driven-app-overview/?azure-portal=true).

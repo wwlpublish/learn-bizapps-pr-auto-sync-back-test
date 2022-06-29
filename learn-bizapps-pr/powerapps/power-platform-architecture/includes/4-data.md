@@ -70,7 +70,7 @@ An OData v4 Data Provider configuration is included with Dataverse that allows y
 > [!NOTE]
 > Dataverse requires that all tables have an ID attribute. This ID is known as a unique identifier and the value must be a GUID. You can only map ID columns to external columns with the **Edm.Guid** data type. Hence, the external web service must use a GUID as its ID column.
 
-See [Virtual tables](/powerapps/developer/data-platform/virtual-entities/get-started-ve/?azure-portal=true) for more information.
+See [Virtual tables](/power-apps/developer/data-platform/virtual-entities/get-started-ve/?azure-portal=true) for more information.
 
 ## Dataverse capabilities
 

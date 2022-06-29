@@ -10,7 +10,7 @@ metadata:
   ms.topic: interactive-tutorial 
   ms.prod: learning-power-platform 
    
-durationInMinutes: 6 
+durationInMinutes: 8
 content: |
   [!include[](../includes/unit-banner.md)]
   [!include[](includes/03-optimize-performance.md)] 

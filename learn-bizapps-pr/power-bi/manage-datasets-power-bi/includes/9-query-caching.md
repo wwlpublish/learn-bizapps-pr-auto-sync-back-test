@@ -16,7 +16,7 @@ When using query caching, the query results are only specific to a user, and you
 
 -   All security labels are followed.   
 
--   It reduces the load on your dedicated capacity because query caching allows for usage of dedicated capacity and not on the dataset.  
+-   It reduces the load on your dedicated capacity. 
 
 To access and configure query caching, follow these steps:
 

@@ -3,7 +3,7 @@ uid: learn-bizapps.publish-share-power-bi.12-check
 metadata: 
  title: Check your knowledge
  description: Answer the following questions to see what you've learned.
- ms.date: 07/31/2019 
+ ms.date: 06/20/2022
  author: heyrob 
  ms.author: robde 
  ms.topic: interactive-tutorial 
@@ -42,7 +42,7 @@ quiz:
     - content: To define a set of colleagues who have access to specific dashboards, reports, and data.
       isCorrect: true 
       explanation: Workspaces are places to collaborate with colleagues to create collections of dashboards, reports, and paginated reports. 
-  - content: What happens if you update content that's part of an app you already published?
+  - content: What happens when you click **Update** after changing content that's part of an app you already published?
     choices: 
     - content: Nothing. You have now created a new fork of that content. 
       isCorrect: false 

@@ -3,7 +3,7 @@ uid: learn-bizapps.portal-features
 metadata: 
  title: Discover Power Apps portals features
  description: Power Apps portals provide a common set of core features to app makers to build powerful portal applications. Numerous Power Apps features map directly to Microsoft Dynamics 365 apps that are specific to particular business requirements and external audiences. Other Dynamics 365 applications, such as Marketing and Supply Chain Management, also use components of portals or alternate technologies.
- ms.date: 06/30/2020  
+ ms.date: 06/23/2022 
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
@@ -11,6 +11,7 @@ metadata:
 title: Discover Power Apps portals features 
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   Power Apps portals provide a common set of core features to app makers to build powerful portal applications. Numerous Power Apps features map directly to Microsoft Dynamics 365 apps that are specific to particular business requirements and external audiences. Other Dynamics 365 applications, such as Marketing and Supply Chain Management, also use components of portals or alternate technologies. 
 abstract: |  
     In this module, you will: 
@@ -28,11 +29,13 @@ roles:
 products:  
 - power-apps 
 - power-platform
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.portal-features.1-introduction 
 - learn-bizapps.portal-features.2-dynamics-365-features 
 - learn-bizapps.portal-features.3-alternate-applications 
 - learn-bizapps.portal-features.4-check 
 - learn-bizapps.portal-features.5-summary 
 badge: 
-  uid: learn-bizapps.portal-features.badge 
+  uid: learn-bizapps.portal-features.badge

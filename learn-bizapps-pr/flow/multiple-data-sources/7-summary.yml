@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.multiple-data-sources.7-summary 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.multiple-data-sources.7-summary
 title: Summary
-metadata: 
+metadata:
   title: Summary
   description: Summary of build flows across multiple data sources.
-  ms.date: 12/01/2021 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-automate 
-durationInMinutes: 1 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/7-summary.md)] 
+  ms.date: 03/30/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-automate
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/7-summary.md)]

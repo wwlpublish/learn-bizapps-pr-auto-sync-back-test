@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.best-practices-environments
 metadata:
   title: Use best practices to secure and govern Microsoft Power Platform environments
@@ -27,6 +27,8 @@ products:
 - power-automate
 - power-platform
 - power-apps
+subjects:
+- security
 modules:
 - learn-bizapps.security-governance-intro
 - learn-bizapps.plan-manage-environment
@@ -38,4 +40,3 @@ modules:
 - learn-bizapps.templates-governance-policies
 trophy:
   uid: learn.best-practices-environments.trophy
-

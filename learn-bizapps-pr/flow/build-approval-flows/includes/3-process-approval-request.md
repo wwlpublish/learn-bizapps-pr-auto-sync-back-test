@@ -1,11 +1,11 @@
-In the previous unit, you learned how to build an approval process for tweets that are stored in a Microsoft SharePoint list. In this unit, you'll see what the experience looks like when an approver receives a new approval request.
+In the previous unit, you learned how to build an approval process for tweets that are stored in a Microsoft Lists list. In this unit, you'll see what the experience looks like when an approver receives a new approval request.
 
 ## Customize the SharePoint form via Power Apps 
 
-Before we test the Flow created in the previous unit, it's important to take the time to customize the SharePoint Form via PowerApps. If you're curious as to why, go to the ContosoTweets SharePoint List and select **+ New** to create an Item. The first thing you will most likely notice is that users can create new SharePoint Items and Approve those Items themselves within the default SharePoint Form. For our example, this isn't significant but in real-world scenarios, like you will be creating for your companies and or organizations, restricting users from approving their own items as they are created is an important part of the Approval Process (when using SharePoint as a Datasource). There are many ways to customize your SharePoint Form to hide/show certain fields, these will not be covered in-depth in this unit, rather, we can open the list via Power Apps and remove the fields. By removing the fields from the SharePoint Form, the only way ApprovalStatus and ApprovalComments can be populated is via the Approval Flow process. 
+Before we test the Flow created in the previous unit, it's important to take the time to customize the SharePoint Form with Power Apps. If you're curious as to why, go to the ContosoTweets Microsoft Lists list and select **+ New** to create an Item. The first thing you'll most likely notice is that users can create new SharePoint Items and Approve those Items themselves within the default SharePoint Form. For our example, this isn't significant, but in real-world scenarios, like you'll be creating for your companies and or organizations, restricting users from approving their own items as they're created is an important part of the Approval Process (when using SharePoint as a Datasource). There are many ways to customize your SharePoint Form to hide/show certain fields, these won't be covered in-depth in this unit, instead we'll open the list via Power Apps and remove the fields. By removing the fields from the SharePoint Form, the only way ApprovalStatus and ApprovalComments can be populated is through the Approval Flow process. 
            
 
-1. Navigate to the ContosoTweets SharePoint list, if you're not already there and select **Integrate**.
+1. Navigate to the ContosoTweets list if you're not already there and select **Integrate**.
 
 1. From the dropdown, select **Power Apps** and then select **Customize forms**.
 
@@ -17,12 +17,11 @@ Before we test the Flow created in the previous unit, it's important to take the
 
 1. Once the Form has Saved, select **Publish to SharePoint** and then select **Publish to SharePoint** again.
 
-1. Navigate back to the ContosoTweets SharePoint List, refresh your browser and then select **+ New** to create a New Item. If the SharePoint Form is still showing the old Form with the fields you removed, try refreshing the browser again and then select **+ New** again. It can sometimes take a few minutes for the published changes to take effect, this is normal behavior when customizing a SharePoint Form via Power Apps.
+1. Navigate back to the ContosoTweets list, refresh your browser and then select **+ New** to create a New Item. If the SharePoint Form is still showing the old Form with the fields you removed, try refreshing the browser again and then select **+ New** again. It can sometimes take a few minutes for the published changes to take effect, this is normal behavior when customizing a SharePoint Form with Power Apps.
 
+## Create a new item in our Microsoft Lists list
 
-## Create a new item in our SharePoint list 
-
-First, we need to add an item to our SharePoint list. We can then process an approval request for that item.
+First, we need to add an item to our list. We can then process an approval request for that item.
 
 1. In SharePoint, open the **ContosoTweets** list that you set up in the previous unit, and then select **+ New** to create a list item (tweet).
 
@@ -54,7 +53,7 @@ First, we need to add an item to our SharePoint list. We can then process an app
 
 1. In SharePoint, refresh the **ContosoTweets** list. Make sure that the **ApprovalStatus** field is set to *Yes*, and that the comment that you just entered is shown.
 
-    ![Screenshot of the refreshed SharePoint list showing an ApprovalStatus of Yes and ApproverComments of Good Tweet.](../media/sharepoint-list-approved.png)
+    ![Screenshot of the refreshed list showing an ApprovalStatus of Yes and ApproverComments of Good Tweet.](../media/sharepoint-list-approved.png)
 
 In this unit, you saw the experience from the approver's point of view, from receiving an approval request email to processing the request in the Approval Center.
 

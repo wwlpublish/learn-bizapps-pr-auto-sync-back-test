@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.understand-advanced-topics
 metadata:
   title: Master advanced formula techniques and custom updates
@@ -29,6 +29,9 @@ products:
 - power-apps
 - common-data-service
 - vs-code
+subjects:
+- business-applications
+- data-analytics
 modules:
 - learn-bizapps.author-advanced-formulas
 - learn-bizapps.choice-columns-formulas
@@ -38,4 +41,3 @@ modules:
 - learn-bizapps.canvas-app-source-code
 trophy:
   uid: learn-bizapps.understand-advanced-topics.trophy
-

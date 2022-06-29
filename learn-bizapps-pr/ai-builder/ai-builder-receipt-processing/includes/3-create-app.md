@@ -1,7 +1,7 @@
 Receipt processing uses a prebuilt AI model, which means that no prior training or configuration is required. You can use this model immediately in your canvas app by using the **Receipt processor** component.
 
 > [!div class="mx-imgBorder"]
-> [![Power Apps Studio with an A I Builder Receipt processor component open on Screen1.](../media/3-1.png)](../media/3-1.png#lightbox)
+> [![Power Apps Studio with an A I Builder Receipt processor component open on Screen1.](../media/3-1.jpg)](../media/3-1.jpg#lightbox)
 
 In this exercise, you will create an app that scans a receipt and then displays the extracted information.
 
@@ -16,7 +16,7 @@ To add the **Receipt processor** component to your app, follow these steps:
 3. Select **Receipt processor (preview)**.
 
     > [!div class="mx-imgBorder"]
-    > [![AI Builder menu expanded to reveal the Receipt processor (preview).](../media/3-2.png)](../media/3-2.png#lightbox)
+    > [![AI Builder menu expanded to reveal the Receipt processor (preview).](../media/3-2.jpg)](../media/3-2.jpg#lightbox)
 
 Select the **Play** button in the upper-right corner of the screen to preview your app. You can then select the **Scan receipt** button on the component to upload a test image, which will scan and outline the key detected information from the receipt.
 
@@ -32,7 +32,7 @@ The AI model will look for the most commonly used fields in receipts. The values
 1. After you have selected the newly created label component, set its **Text** property by using the formula bar to the **Total** property of the **Receipt processor** component.
 
     > [!div class="mx-imgBorder"]
-    > [![The model can also extract the list of purchased items.](../media/3-4.png)](../media/3-4.png#lightbox)
+    > [![The model can also extract the list of purchased items.](../media/3-4.jpg)](../media/3-4.jpg#lightbox)
 
 1. Select **Insert > Data table**.
 
@@ -45,7 +45,7 @@ The AI model will look for the most commonly used fields in receipts. The values
 1. Select all field options and then select **Add**.
 
     > [!div class="mx-imgBorder"]
-    > [![ReceiptProcessor1.PurchasedItems field returns two purchased items.](../media/3-5.png)](../media/3-5.png#lightbox)
+    > [![ReceiptProcessor1.PurchasedItems field returns two purchased items.](../media/3-5.jpg)](../media/3-5.jpg#lightbox)
 
     You can retrieve additional information about your receipts by using the **DetectedFields** and **DetectedText** properties.
 
@@ -54,7 +54,7 @@ The AI model will look for the most commonly used fields in receipts. The values
     **DetectedFields** contains advanced information about the key fields, such as the confidence score, bounding box, and page number.
 
     > [!div class="mx-imgBorder"]
-    > [![Detected fields shows formula for ReceiptProcessor1.DetectedFields.Total.Confidence with a value of 0.691.](../media/3-6.png)](../media/3-6.png#lightbox)
+    > [![Detected fields shows formula for ReceiptProcessor1.DetectedFields.Total.Confidence with a value of 0.691.](../media/3-6.jpg)](../media/3-6.jpg#lightbox)
 
     For instance, to show the confidence score for the **Total** field that you displayed earlier, follow the next two steps.
 
@@ -62,7 +62,7 @@ The AI model will look for the most commonly used fields in receipts. The values
 
 1. After you have selected the newly created label component, set its **Text** property by using the formula bar to the **DetectedFields.Total.Confidence** property of the **Receipt processor** component.
 
-After you have all values that you want to retrieve, save this information locally to your device as a collection or to the cloud, such as in Microsoft Dataverse or a SharePoint list.
+After you have all values that you want to retrieve, save this information locally to your device as a collection or to the cloud, such as in Microsoft Dataverse or a list.
 
 Congratulations, you have created an app by using receipt processing.
 

@@ -14,7 +14,7 @@ At the end of these exercises, you will be able to:
 
 For this exercise, you will need to have the following parameters set up in your environment:
 
-- A Power Apps portal that is provisioned. If you do not have a Power Apps portal available, follow the [Create Portal](/powerapps/maker/portals/create-portal/?azure-portal=true) instructions to create one.
+- A Power Apps portal that is provisioned. If you do not have a Power Apps portal available, follow the [Create Portal](/power-apps/maker/portals/create-portal/?azure-portal=true) instructions to create one.
 - Access to the Power Apps maker portal.
 
 ## High-level steps
@@ -47,9 +47,9 @@ Your first task is to create a partial template that will not be used to render 
     ```twig
     {% fetchxml accounts %}
     <fetch>
-      <table name="account">
+      <entity name="account">
         <attribute name="name" />
-      </table>
+      </entity>
     </fetch>
     {% endfetchxml %}
     
@@ -107,12 +107,12 @@ In this exercise, you will create a page template that will use your new web tem
 Your next step is to test that your new template works:
 
 1. Open Power Apps portals Studio in a new browser tab. Then, follow these steps:
-   1. Go to Power Apps maker portal at https://make.powerapps.com.
+   1. Go to the Power Apps maker portal at https://make.powerapps.com.
    2. Select the target environment by using the environment selector in the upper-right corner.
    3. From the **Apps** list, select the application of type **Portal**.
    4. Select the **Edit** menu.
 2. On the toolbelt, select the **Pages** icon.
-3. Select an existing page, for example **Product A** under **Services**. Note: names and hierarchy of pages on your portal might differ.
+3. Select an existing page, for example, **Product A** under **Services**. Note: names and hierarchy of pages on your portal might differ.
 4. Locate the **Template** property in the **Component** panel on the right side.
 5. Select **Directory Page Template** as the new template.
    The list of accounts should be displayed because portals Studio runs under the maker account and uses Dataverse security instead of table permissions to filter the data.

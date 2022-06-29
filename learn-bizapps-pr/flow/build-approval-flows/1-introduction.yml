@@ -1,10 +1,10 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.build-approval-flows.1-introduction 
-title: Learn to build more complex flows
+title: Provide solutions to real-world scenarios.
 metadata: 
-  title: Learn to build more complex flows
+  title: Provide solutions to real-world scenarios.
   description: Create more advanced flows to get notifications, copy files, posts tweets, and more. 
-  ms.date: 12/01/2021 
+  ms.date: 03/29/2022
   author: DaveBeasley 
   ms.author: dbeasley 
   ms.topic: interactive-tutorial 

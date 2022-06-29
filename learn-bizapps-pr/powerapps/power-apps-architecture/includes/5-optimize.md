@@ -31,7 +31,7 @@ With OnStart, you should encourage makers to use the **ClearCollect** function t
 
 ![Diagram showing concurrent dataset loading.](../media/5-onstart-2.png)
 
-With so many options, performance needs to be considered often. Analysis and improving optimizations are ongoing efforts. You should validate best practices by referring to [slow performance sources](/powerapps/maker/canvas-apps/slow-performance-sources/?azure-portal=true), [common performance issues](/powerapps/maker/canvas-apps/common-performance-issue-resolutions/?azure-portal=true), and [performance tips](/powerapps/maker/canvas-apps/performance-tips/?azure-portal=true).
+With so many options, performance needs to be considered often. Analysis and improving optimizations are ongoing efforts. You should validate best practices by referring to [slow performance sources](/power-apps/maker/canvas-apps/slow-performance-sources/?azure-portal=true), [common performance issues](/power-apps/maker/canvas-apps/common-performance-issue-resolutions/?azure-portal=true), and [performance tips](/power-apps/maker/canvas-apps/performance-tips/?azure-portal=true).
 
 The solution architect should implement a canvas app performance-tuning strategy.
 
@@ -76,4 +76,4 @@ With your app connected to Application Insights, you can collect telemetry on ho
 
 As a solution architect, you should decide if Application Insights will be included in the apps that you create.
 
-For more information, see [Application Insights](/powerapps/maker/canvas-apps/application-insights/?azure-portal=true).
+For more information, see [Application Insights](/power-apps/maker/canvas-apps/application-insights/?azure-portal=true).

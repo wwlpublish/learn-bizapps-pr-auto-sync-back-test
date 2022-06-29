@@ -5,7 +5,7 @@ Go to [Power Automate](https://flow.microsoft.com/?azure-portal=true) and select
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the install on-premises data gateway feature.](../media/install-gateway.png)](../media/install-gateway.png#lightbox)
 
-When the download completes, select the file to open and run the installer. After completing installation, enter your email address to sign in. Next, select the **Register a new gateway on this computer** option and then select **Next**.
+When the download completes, select the file to open and run the installer. After completing the installation, enter your email address to sign in. Next, select the **Register a new gateway on this computer** option and then select **Next**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Register a new gateway on this computer feature.](../media/gateway-2.png)](../media/gateway-2.png#lightbox)
