@@ -1,0 +1,4 @@
+In this module, you learned that Azure Health Data Services is a set of managed API services based on open standards and frameworks that enable workflows to improve healthcare and offer scalable and secure healthcare solutions.  The service also supports connectors bridging the egress of data to authorized users or applications.
+
+You learned the most common challenges to interoperability and how Azure Health Data Services using the Fast Healthcare Interoperability Resources (FHIR®) standards addresses these. You now have a high-level understanding of the key components of Azure Health Data Services, which include workspaces, [FHIR service](/azure/healthcare-apis/fhir/overview), [DICOM service](/azure/healthcare-apis/dicom/dicom-services-overview) and [MedTech service](/azure/healthcare-apis/iot/iot-connector-overview).
+
