@@ -33,7 +33,7 @@ subjects:
 units: 
 - learn-bizapps.azure-health-data-services.introduction  
 - learn-bizapps.azure-health-data-services.interoperability-challenges 
-- learn-bizapps.azure-health-data-services.azure-healthdataservices-tools 
+- learn-bizapps.azure-health-data-services.azure-services-tools 
 - learn-bizapps.azure-health-data-services.check 
 - learn-bizapps.azure-health-data-services.summary 
 badge: 
