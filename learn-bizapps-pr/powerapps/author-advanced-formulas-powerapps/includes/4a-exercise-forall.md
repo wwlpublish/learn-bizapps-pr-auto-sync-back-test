@@ -27,6 +27,9 @@ This hands-on lab shows you how to use the ForAll function in a gallery.
 	Country:"Italy", Population:1344000})
 	```
 
+     To copy and paste the text in the  virtual environment, select the **Commands** button on the top left corner of the screen, select **Type text**, then select **Type clipboard text**. Paste the copied text in the window.
+    ![Screenshot of commands button selected with the type text and type clipboard text highlighted.](../media/copy-instructions.png)
+
 1.  Select the **Button** control, and set its **Text** property to "Collect." Hold the **Alt Key** and press the **Button** control.
 (This will create your collection and store all the information).
 
