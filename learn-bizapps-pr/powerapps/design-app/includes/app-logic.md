@@ -1,4 +1,4 @@
-> [!VIDEO  https://www.microsoft.com/videoplayer/embed/RE50E2d]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50E2d]
 
 The following sections review the requirements for your three personas: sales team, service team, and the general manager.
 
