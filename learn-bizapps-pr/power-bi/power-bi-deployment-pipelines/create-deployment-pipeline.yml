@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-deployment-pipelines.create-deployment-pipeline 
+title: Create a deployment pipeline
+metadata: 
+  title: Create a deployment pipeline
+  description: Learn how to create deployment pipelines using different methods.
+  ms.date: 07/08/2022 
+  author: Heyrob 
+  ms.author: Robde 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-bi 
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/create-deployment-pipeline.md)] 

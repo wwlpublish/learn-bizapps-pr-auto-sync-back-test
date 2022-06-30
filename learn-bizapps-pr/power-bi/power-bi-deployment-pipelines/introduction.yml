@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-deployment-pipelines.introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Learn how Power BI creators and developers deliver updates faster, while maintaining excellent quality to ensure end-users that will maintain trust in the data.  
+  ms.date: 07/08/2022 
+  author: Heyrob 
+  ms.author: Robde 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-bi 
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 
