@@ -19,7 +19,7 @@ For this exercise, you'll reference the **healthcare_feedback** table that is pa
 - Staff
 
 > [!div class="mx-imgBorder"]
-> ![Screenshot of the healthcare feedback table in the Power Apps Studio with highlight on the text and tags columns.](../media/feedback.png)
+> [![Screenshot of the healthcare feedback table in the Power Apps Studio with highlight on the text and tags columns.](../media/feedback.png)](../media/feedback.png#lightbox)
 
 ## Get started
 
@@ -30,17 +30,17 @@ After having identified the historical data that will be used for training, it's
 1. In the Power Apps studio, in the left navigation menu, under **AI Builder**, select **Explore**, and then select the **Category classification (Custom model)**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Power Apps Studio displaying the category classification model tile and AI Builder navigation menu.](../media/custom-model.png)
+    > [![Screenshot of the Power Apps Studio displaying the category classification model tile and AI Builder navigation menu.](../media/custom-model.png)](../media/custom-model.png#lightbox)
 
 1. Select **Get Started**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the classify text model presentation with highlight on Get Started.](../media/get-started.png)
+    > [![Screenshot of the classify text model presentation with highlight on Get Started.](../media/get-started.png)](../media/get-started.png#lightbox)
 
 1. Select the **Select text** button.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the category classification model in the Power Apps studio with highlight on the Select text button.](../media/select-text.png)
+    > [![Screenshot of the category classification model in the Power Apps studio with highlight on the Select text button.](../media/select-text.png)](../media/select-text.png#lightbox)
 
 1. Search for the **healthcare_feedback** table and select it.
 
@@ -55,7 +55,7 @@ After having identified the historical data that will be used for training, it's
 1. Review the tagged text for the selected column, and then select **Next**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the category classification model in the Power Apps Studio with a list of records for the selected text column with highlight on Next.](../media/next.png)
+    > [![Screenshot of the category classification model in the Power Apps Studio with a list of records for the selected text column with highlight on Next.](../media/next.png)](../media/next.png#lightbox)
 
 1. Select the **Select tags** button.
 
@@ -70,17 +70,17 @@ After having identified the historical data that will be used for training, it's
 1. Review the different tag separator options, select **Comma**, and then select **Next**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the category classification model in the Power Apps Studio with a presentation of different separator options and the results with highlight on the option for comma.](../media/comma.png)
+    > [![Screenshot of the category classification model in the Power Apps Studio with a presentation of different separator options and the results with highlight on the option for comma.](../media/comma.png)](../media/comma.png#lightbox)
 
 1. Review the text and tags to validate your selections, and then select **Next**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the category classification model in the Power Apps Studio with a presentation of a list of records with the text and tags with highlight on Next.](../media/review.png)
+    > [![Screenshot of the category classification model in the Power Apps Studio with a presentation of a list of records with the text and tags with highlight on Next.](../media/review.png)](../media/review.png#lightbox)
 
 1. Select **English** as the text language, then select **Next**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the category classification model in the Power Apps Studio with a drop-down list of languages where English is selected and highlight on Next.](../media/language.png)
+    > [![Screenshot of the category classification model in the Power Apps Studio with a drop-down list of languages where English is selected and highlight on Next.](../media/language.png)](../media/language.png#lightbox)
 
 1. Review the model summary. Select **Train** to move to the next portion of this exercise.
 
@@ -111,22 +111,22 @@ To complete this series of tasks, follow these steps:
 1. Confirm the performance of the model by selecting **Quick test**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the category classification model in the Power Apps Studio with performance indicator and highlight on Quick test.](../media/quick-test.png)
+    > [![Screenshot of the category classification model in the Power Apps Studio with performance indicator and highlight on Quick test.](../media/quick-test.png)](../media/quick-test.png#lightbox)
 
 1. Submit any text value that will allow you to determine if the model performs as expected, and then select **Test**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Quick test pop-up window with the following text: I have a knee that hurts. Highlight on Test.](../media/test.png)
+    > [![Screenshot of the Quick test pop-up window with the following text: I have a knee that hurts. Highlight on Test.](../media/test.png)](../media/test.png#lightbox)
 
 1. Review the suggested tags and confidence. You can repeat these tests multiple times. When tests are completed, select **Close**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of Quick test pop-up window with the following text: I have a knee that hurts. Highlight on suggested tag and confidence: Care - 70% and on Close.](../media/care.png)
+    > [![Screenshot of Quick test pop-up window with the following text: I have a knee that hurts. Highlight on suggested tag and confidence: Care - 70% and on Close.](../media/care.png)](../media/care.png#lightbox)
 
 1. If tests and performance level are adequate, select **Publish**. For situations where the performance level isn't satisfactory, you can edit the model and revise the configuration.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the category classification model in the Power Apps Studio with performance indicator and highlight on Publish.](../media/publish.png)
+    > [![Screenshot of the category classification model in the Power Apps Studio with performance indicator and highlight on Publish.](../media/publish.png)](../media/publish.png#lightbox)
 
 1. Once the model is published, you can move to the next portion of this exercise.
 
@@ -142,7 +142,7 @@ To create this Power Automate cloud flow, follow these steps:
 1. For the newly published model, select **Use model**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the category classification model in the Power Apps Studio with performance indicator and highlight on Use model.](../media/use-model.png)
+    > [![Screenshot of the category classification model in the Power Apps Studio with performance indicator and highlight on Use model.](../media/use-model.png)](../media/use-model.png#lightbox)
 
 1. Select **Build intelligent automations**.
 
@@ -152,7 +152,7 @@ To create this Power Automate cloud flow, follow these steps:
 1. You'll be redirected in a new browser tab, in Power Automate Studio, with a template that corresponds to the scenario of this exercise. Select the **Analyze incoming emails and route them to the right person** tile.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the templates available in Power Automate Studio with a tile for Analyze incoming emails and route them to the right person is highlighted.](../media/templates.png)
+    > [![Screenshot of the templates available in Power Automate Studio with a tile for Analyze incoming emails and route them to the right person is highlighted.](../media/templates.png)](../media/templates.png#lightbox)
 
 1. You'll be redirected to a presentation of the template. After you validated the required connections, select **Continue**.
 
@@ -167,7 +167,7 @@ To create this Power Automate cloud flow, follow these steps:
 1. Select the **AI Builder** connector, and then in the list of actions, select **Classify text into categories with one of your custom models**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the selected flow in Power Automate Studio with highlight on AI Builder connector and Classify text into categories with one of your custom models action.](../media/classify.png)
+    > [![Screenshot of the selected flow in Power Automate Studio with highlight on AI Builder connector and Classify text into categories with one of your custom models action.](../media/classify.png)](../media/classify.png#lightbox)
 
 1. Define the required parameters by selecting the custom model created during this exercise and using the output of the previous action as the text to process.
 
@@ -208,7 +208,7 @@ To test the flow, follow these steps:
 1. Create and send a new email message to the monitored email address, with **Feedback** as the subject, and a sample text as the body, such as: **The doctors were very professional, nurses were kind and attentive, the room was nice but the food at the cafeteria and in room is terrible**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of a sample email with highlight on the To option, the subject as Feedback, content as The doctors were very professional, nurses were kind and attentive, the room was nice but the food at the cafeteria and in room is terrible, and Send.](../media/email.png)
+    > [![Screenshot of a sample email with highlight on the To option, the subject as Feedback, content as The doctors were very professional, nurses were kind and attentive, the room was nice but the food at the cafeteria and in room is terrible, and Send.](../media/email.png)](../media/email.png#lightbox)
 
 1. You should then receive a new email with the category classification. This confirms the flow processed the sent message.
 
