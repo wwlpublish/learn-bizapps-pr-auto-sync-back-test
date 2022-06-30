@@ -152,7 +152,7 @@ Consider the following parameters if you want to change permissions for a user o
 
 Keep in mind the following security group considerations:
 
-- All existing members of the security group will inherit the app permissions. New users who join the security group will inherit the security group permissions on the app. Users who leave the group will no longer have access through that group, but those users can continue to have access by having permissions assigned to them directly or through membership in another security group.
+- All existing members of the security group will inherit the app permissions. New users who join the security group will inherit the security group permissions on the app. Users who leave the group will no longer have access through that group. However, you can assign permissions to them directly or through membership in another security group to allow those users to have continued access after they’ve left.
 
 - Every member of a security group has the same permissions for an app as the overall group does. However, you can specify greater permissions for one or more members of that group to allow them greater access. For example, you can give Security Group A permission to run an app. Then, you can give User B, who belongs to that group, **Co-owner** permissions. Every member of the security group can run the app, but only User B can edit it. If you give **Co-owner** permissions to Security Group A, and you give User B permission to run the app, that user can still edit the app.
 
