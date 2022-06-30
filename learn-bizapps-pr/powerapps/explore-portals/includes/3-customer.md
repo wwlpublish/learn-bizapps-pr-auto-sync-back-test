@@ -5,7 +5,7 @@ The Customer self-service starter portal is for any organization that needs to p
 
 Similar to the Community portal, the features for both self-service and assisted service scenarios are included, though the emphasis is on the assisted service scenarios. Some self-service features, such as blogs, are not included.
 
-The Customer self-service portal provides the following methods for customers to resolve their own issues: 
+The Customer self-service portal provides the following methods for customers to resolve their own issues:
 
 - Knowledge articles
 - Forums

@@ -1,47 +1,48 @@
-### YamlMime:Module 
-uid: learn-bizapps.explore-portals 
-metadata: 
+### YamlMime:Module
+uid: learn-bizapps.explore-portals
+metadata:
  title: Explore Power Apps portals
  description: Dynamics 365 starter portals are pre-configured portal solutions that are available to help accelerate deployment. Typical portal projects will have unique requirements, but a starter portal provides an environment that is immediately suitable for specific scenarios and audiences.
- ms.date: 06/30/2020  
- author: DaveBeasley  
- ms.author: dbeasley  
- ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps-portals  
-title: Explore Power Apps portals 
-summary: |  
-  [!include[](../includes/module-banner.md)] 
+ ms.date: 06/30/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps-portals
+title: Explore Power Apps portals
+summary: |
+  [!include[](../includes/module-banner.md)]
   [!include[](../includes/power-pages-banner.md)]
   Dynamics 365 starter portals are pre-configured portal solutions that are available to help accelerate deployment. Typical portal projects will have unique requirements, but a starter portal provides an environment that is immediately suitable for specific scenarios and audiences.
-abstract: |  
-    In this module, you will: 
-    - Identify the features of the Community portal. 
+abstract: |
+    In this module, you will:
+    - Identify the features of the Community portal.
     - Discover the features of the Customer self-service portal.
     - Learn about the features of the Employee self-service portal.
-    - Review the features of the Partner portal. 
+    - Review the features of the Partner portal.
     - Identify the features of the Portal from blank.
     - Learn about licensing requirements when portals are used by employees.
-    - Learn about the process to incorporate specific features from different starter portals to another portal type or the custom portal. 
-prerequisites: Basic understanding of how to navigate and customize model-driven apps 
-iconUrl: /learn/achievements/explore-portals.svg  
-levels:  
-- intermediate   
-roles:  
+    - Learn about the process to incorporate specific features from different starter portals to another portal type or the custom portal.
+prerequisites: Basic understanding of how to navigate and customize model-driven apps
+iconUrl: /learn/achievements/explore-portals.svg
+levels:
+- intermediate
+roles:
 - maker
-- functional-consultant  
-products:    
-- power-apps 
+- functional-consultant
+products:
+- power-apps
 - power-platform
 subjects:
 - custom-app-development
 units:
 - learn-bizapps.explore-portals.1-introduction
-- learn-bizapps.explore-portals.2-community 
-- learn-bizapps.explore-portals.3-customer 
-- learn-bizapps.explore-portals.4-employee 
-- learn-bizapps.explore-portals.5-partner 
-- learn-bizapps.explore-portals.6-custom 
-- learn-bizapps.explore-portals.7-check 
-- learn-bizapps.explore-portals.8-summary 
-badge: 
+- learn-bizapps.explore-portals.2-community
+- learn-bizapps.explore-portals.3-customer
+- learn-bizapps.explore-portals.4-employee
+- learn-bizapps.explore-portals.5-partner
+- learn-bizapps.explore-portals.6-custom
+- learn-bizapps.explore-portals.modern-community
+- learn-bizapps.explore-portals.7-check
+- learn-bizapps.explore-portals.8-summary
+badge:
   uid: learn-bizapps.explore-portals.badge
