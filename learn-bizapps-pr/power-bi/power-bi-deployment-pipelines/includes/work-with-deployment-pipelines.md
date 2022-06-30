@@ -24,7 +24,7 @@ When two sequential stages aren't the same, a link appears underneath the orange
 
 |     NEW    |     DIFFERENT    |     MISSING    |
 |---|---|---|
-|     A new item in the source stage.   This is an item that doesn't exist in the target stage. After deployment,   this item will be cloned to the target stage.    |     An item that exists both in the source   and the target stage, where one of the versions was changed after the last   deployment. After deployment, the item in the source stage will overwrite the   item in the target stage, regardless of where the change was made.    |     This label indicates that an item   appears in the target stage, but not in the source stage.    |
+|     A new item in the source stage.   This item doesn't exist in the target stage. After deployment,   this item will be cloned to the target stage.    |     An item that exists both in the source   and the target stage, where one of the versions was changed after the last   deployment. After deployment, the item in the source stage will overwrite the   item in the target stage, regardless of where the change was made.    |     This label indicates that an item   appears in the target stage, but not in the source stage.    |
 
  
 > [!div class="mx-imgBorder"]
@@ -33,9 +33,9 @@ When two sequential stages aren't the same, a link appears underneath the orange
 
 ## Deployment rules enable customization of stages
 
-When working in a deployment pipeline, different stages may have different configurations. For example, each stage can have different databases or different query parameters. For example, the development stage might query sample data from the database, while the test and production stages query the entire database.
+While working in a deployment pipeline, different stages may have different configurations. For example, each stage can have different databases or different query parameters. For example, the development stage might query sample data from the database, while the test and production stages query the entire database.
 
-Configuring deployment rules enables you to allow changes to content when you deploy content between pipeline stages. For example, if you want a dataset in a production stage to point to a production database, you can define a rule for this. The rule is defined in the production stage, under the appropriate dataset. Once the rule is defined, content deployed from test to production will inherit the value as defined in the deployment rule, and will always apply it as long as the rule is unchanged and valid.
+Configuring deployment rules enables you to allow changes to content when you deploy content between pipeline stages. For example, if you want a dataset in a production stage to point to a production database, you can define a rule for dataset. The rule is defined in the production stage, under the appropriate dataset. Once the rule is defined, content deployed from test to production will inherit the value as defined in the deployment rule, and will always apply it as long as the rule is unchanged and valid.
 
 See [Create deployment rules](/power-bi/create-reports/deployment-pipelines-get-started#step-4---create-deployment-rules/?azure-portal=true) for detailed information on how to configure deployment rules.
 
