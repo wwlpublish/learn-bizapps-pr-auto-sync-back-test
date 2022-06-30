@@ -15,7 +15,7 @@ quiz:
   questions: 
   - content: How would you add a SharePoint document library to a Power Apps portals page?
     choices: 
-    - content: Add an Iframe element that points to the SharePoint URL.
+    - content: Add an iFrame element that points to the SharePoint URL.
       isCorrect: false 
       explanation: Adding a document location subgrid on a model-driven form that is used for a table form will display a SharePoint document library on the portal page. A SharePoint Liquid tag or component is not available. Adding an Iframe element that points to the SharePoint URL won't show the documents that are related to that table, provide security, or an ideal layout.
     - content: Use the `{% sharepoint %}` Liquid tag.
@@ -35,20 +35,26 @@ quiz:
     - content: You will need to refresh the cache.
       isCorrect: false 
       explanation: By default, the Power BI Liquid tag uses anonymous authentication, which means that Power BI will ignore the filter. Portal users do not need to be signed in. Refreshing the cache has no effect on Power BI data. Row-level security won't affect Publish to web Power BI reports.
-    - content: The Power BI Liquid tag is not set to `authentication_type:"AAD"`.
+    - content: The Power BI Liquid tag does not have Azure AD authentication set using `authentication_type:"aad"` parameter.
       isCorrect: true
       explanation: By default, the Power BI Liquid tag uses anonymous authentication, which means that Power BI will ignore the filter. Portal users do not need to be signed in. Refreshing the cache has no effect on Power BI data. Row-level security won't affect Publish to web Power BI reports.
     - content: You need to configure row-level security in Power BI Dashboard.
       isCorrect: false 
       explanation: By default, the Power BI Liquid tag uses anonymous authentication, which means that Power BI will ignore the filter. Portal users do not need to be signed in. Refreshing the cache has no effect on Power BI data. Row-level security won't affect Publish to web Power BI reports.
-  - content: It is possible to add Power Virtual Agents to the portal. (True or False)
+  - content: How to add Power Virtual Agents to a portal page.
     choices: 
-    - content: 'True'
+    - content: Insert Chatbot component.
       isCorrect: true 
-      explanation: Power Virtual Agents can be added by using the Iframe component.
-    - content: 'False'
+      explanation: Power Virtual Agents can be added by using the Chatbot component.
+    - content: Insert Power Virtual Agents component.
       isCorrect: false 
-      explanation: Power Virtual Agents can be added by using the Iframe component.
+      explanation: Power Virtual Agents can be added by using the Chatbot component. Power Virtual Agents component is not a valid portal component.
+    - content: Insert `{% chat %} Liquid tag`.
+      isCorrect: false
+      explanation: Power Virtual Agents can be added by using the Chatbot component. There is no Liquid tag called `chat`.
+    - content: Power Virtual Agents cannot be added to a portal page.
+      isCorrect: false 
+      explanation: Power Virtual Agents can be added by using the Chatbot component.
   - content: Document management in Power Apps portals works with what version of SharePoint?
     choices: 
     - content: SharePoint 2013 or above

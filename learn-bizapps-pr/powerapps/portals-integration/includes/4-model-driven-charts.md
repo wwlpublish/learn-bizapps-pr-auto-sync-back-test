@@ -1,4 +1,4 @@
-You add a chart to a webpage by using the Liquid tag [chart](/learn/modules/liquid-template-language/?azure-portal=true). As with any Liquid code, you can add the `chart` tag in the page content inside a content snippet, or you can insert it as part of a web template.
+You add a chart to a webpage by using the Liquid tag [chart](/power-apps/maker/portals/liquid/portals-entity-tags?azure-portal=true#chart). As with any Liquid code, you can add the `chart` tag directly into the page content, embed it inside a content snippet, or add it as part of a web template.
 
 ```twig
 {% chart id:"EE3C733D-5693-DE11-97D4-00155DA3B01E" viewid:"00000000-0000-0000-00AA-000010001006" %}
@@ -19,11 +19,11 @@ Showing a model-driven chart in Power Apps portals doesn't require additional co
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4Avkv]
 
-Read privilege is asserted for the target table that is being queried in the chart. To allow users to view the chart, ensure that the appropriate **Table Permission** records are created and assigned to applicable web roles. If permission is not granted, the user will see an access denied message.
+To allow users to view the chart, ensure that the appropriate **Table Permission** records are created and assigned to applicable web roles to allow read data from the target table. If permission is not granted, the user will see an access denied message.
 
 > [!NOTE]
-> Different users might see different resulting charts based on their specific table permissions
+> Different users might see different resulting charts based on their specific table permissions.
 
 Some chart types and some out-of-the-box charts aren't supported. For more information, see [Unsupported charts and chart types](/power-apps/maker/portals/configure/add-chart?azure-portal=true#unsupported-charts-and-chart-types).
 
-For more information, see [Add a chart created in a model-driven app to a webpage in portal](/power-apps/maker/portals/configure/add-chart/?azure-portal=true).
+For more information and step-by-step instructions, see [Add a chart created in a model-driven app to a webpage in portal](/power-apps/maker/portals/configure/add-chart/?azure-portal=true).
