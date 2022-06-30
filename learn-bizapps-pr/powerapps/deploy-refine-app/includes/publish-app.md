@@ -1,32 +1,34 @@
-Congratulations! You made your first app, and it's tested and ready to go!
+Congratulations, you've made your first app, and now it's been tested and is ready to go.
 
-As soon as your app is ready to use, you need to publish and share it.
+When your app is ready to use, you'll need to publish and share it.
 
 ## Option 1: Publish a model-driven app
 
-Model-driven apps can't be published if they don't include all the required components. Some components rely on others and this relationship between components is known as a dependency.
+Model-driven apps can't be published if they don't include all required components. Some components rely on others, and this relationship between components is known as a dependency.
 
-For example, you can't display a table on the Sitemap if the table isn't included within the app.
+For example, you can't display a table on the site map if the table isn't included within the app.
 
 The process of checking for dependencies within a model-driven app is known as **validation**.
 
-When the app is validated, the app designer canvas shows details about the assets that are missing.
+When the app has been validated, the app designer canvas will show details about the assets that are missing.
 
-### How to validate an app and add in dependencies
+### Validate an app and add dependencies
+
+To validate an app and add dependencies, follow these steps:
 
 1. Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true).
 
-1. On the left pane, select **Solutions**, then open the **Dive Center App** Solution.
+1. On the left pane, select **Solutions** and then open the **Dive Center App** solution.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Power Apps Solutions page showing the Dive Center App.](../media/solutions.png)
+    > ![Screenshot of the Solutions page in Power Apps, showing the Dive Center App solution.](../media/solutions.png)
 
-1. Select the model-driven app, and then on the command bar select **Edit**.
+1. Select the model-driven app, and then on the command bar, select **Edit**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of Power Apps with the app selected and the edit button highlighted.](../media/edit.png)
+    > ![Screenshot of Power Apps with the app selected and the Edit button highlighted.](../media/edit.png)
 
-1. Select **Switch to Classic** on the header.
+1. Select **Switch to classic** on the header.
 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of Power Apps with the Switch to classic option highlighted.](../media/classic.png)
@@ -36,54 +38,58 @@ When the app is validated, the app designer canvas shows details about the asset
     > [!div class="mx-imgBorder"]
     > ![Screenshot of Power Apps with the Validate option highlighted.](../media/validate.png)
 
-    A notification bar appears and shows whether the app has any errors or warnings. The notification bar shows warnings in cases where, for example, a table has no forms or views, or the app doesn't contain any components. An error might appear if a site map isn't configured for the app. You can save and publish the app without addressing warnings, but errors must be fixed before you can publish.
+    A notification bar will appear and show whether the app has errors or warnings. The notification bar shows warnings in cases where, for example, a table has no forms or views or when the app doesn't contain components. An error might appear if a site map isn't set up for the app. You can save and publish the app without addressing warnings, but you'll need to fix errors before you can publish.
 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Power Apps warning notification.](../media/warning.png)
 
-1. Add the assets that are missing. With every required asset added, the error count decreases.
+1. Add the assets that are missing. For every required asset that's added, the error count will decrease.
 
 ### Publish an app inside a solution
 
+To publish an app inside a solution, follow these steps:
+
 1. Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true).
 
-1. On the left pane, select **Solutions**, then open the **Dive Center App** Solution
+1. On the left pane, select **Solutions** and then open the **Dive Center App** solution.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Power Apps Solutions page showing the Dive Center App again.](../media/solutions.png)
+    > ![Screenshot of the Solutions page, showing the Dive Center App solution.](../media/solutions.png)
 
-1. Select the model-driven app, and then on the command bar select **Publish**.
+1. Select the model-driven app, and then on the command bar, select **Publish**.
 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of Power Apps with the solution selected and the Publish option highlighted.](../media/publish.png)
 
 ## Option 2: Publish a canvas app
 
-Whenever you save changes to a canvas app, you automatically publish them only for yourself and anyone else who has permissions to edit the app. When you finish making changes, you must explicitly publish them to make them available to everyone with whom the app is shared.
+Whenever you save changes to a canvas app, you'll automatically publish them only for you and anyone else who has permissions to edit the app. When you finish making changes, you'll need to explicitly publish them to make them available to everyone with whom the app is shared.
 
 1. In Power Apps Studio, select **Save** on the **File** menu (on the left edge), and then select **Publish**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of Power Apps showing the canvas apps Publish button.](../media/canvas.png)
+    > ![Screenshot of Power Apps. showing the canvas app Publish button.](../media/canvas.png)
 
-1. In the **Publish** dialog box, select **Publish this version** to publish the app to all users with whom the app is shared.
+1. In the **Publish** dialog, select **Publish this version** to publish the app to all users with whom the app is shared.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Publish dialog showing the Publish this version button.](../media/publish-version.png)
+    > ![Screenshot of the Publish dialog, showing the Publish this version option.](../media/publish-version.png)
 
 ### Identify the live version
 
-1. To see all versions of an app, go to [Power Apps](https://make.powerapps.com/?azure-portal=true) > **Apps** > select your app > **More Commands** > **Details**.
+To identify the live version of the app, follow these steps
+
+1. To view all versions of an app, go to [Power Apps](https://make.powerapps.com/?azure-portal=true). Select **Apps** and then find and select your app. Select **More Commands > Details**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of Power Apps showing the Apps page with the app selected, the ellipsis button selected, and the Details option highlighted.](../media/details.png)
+    > ![Screenshot of Power Apps, showing the Apps page with the app selected, the More Commands menu selected, and the Details option highlighted.](../media/details.png)
 
 1. Select the **Versions** tab.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of Power Apps showing the Apps page on the Versions tab.](../media/versions.png)
+    > ![Screenshot of Power Apps, showing the Apps page on the Versions tab.](../media/versions.png)
 
 The **Live** version is published for everyone with whom the app is shared. The most recent version of any app is available only to those users who have edit permissions for it.
 
 > [!div class="mx-imgBorder"]
-> ![Screenshot of the Power Apps Save page showing the See all versions button.](../media/all-versions.png)
+> ![Screenshot of the Save page in Power Apps, showing the See all versions button.](../media/all-versions.png)
