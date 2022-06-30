@@ -1,22 +1,13 @@
-The **Portal from blank** template provides organizations with a basic portal that does not fit the requirements of the specific portal audience or workload features.
+The **Blank website** template provides organizations with a basic portal that does not fit the requirements of the specific portal audience or workload features.
 
 This portal is an ideal starting point for unique line-of-business applications with portal requirements. Examples of custom portals could be event and registration management, grant management, or government citizen service solutions. Any custom business app that is built on Microsoft Dataverse can be extended to an external-facing audience.
 
-The Custom portal contains core features such as content management, security, ability to transact with Dataverse, and extensibility.
+The **Blank website** portal contains core features such as content management, security, ability to transact with Dataverse, and extensibility.
 
->[!NOTE]
->The blank portal will appear different if provisioned in a Dataverse environment with Dynamics 365 apps enabled versus one without Dynamics 365 apps.
+![Screenshot of home page of a Blank website portal.](../media/6-custom-portal.png "CDS Blank Portal") |
 
-| Environment with Dynamics 365 apps                           | Dataverse environment without Dynamics 365 apps                    |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Screenshot of Dynamics 365 Apps - Custom Home Page](../media/6-custom-portal.png "Custom Home Dynamics 365 apps") | ![Screenshot of blank CDS only for blank portal setup.](../media/6-cds-blank-Portal.png "CDS Blank Portal") |
+A maker can configure the **Blank website** portal to address business requirements by adding web links and custom pages and by surfacing Dataverse records. A **Blank website** portal can be further extended by using lists, basic forms, advanced forms, or custom templates.
 
-> [!NOTE]
-> When **Portal from blank** is provisioned in a Dataverse environment with Dynamics 365 apps enabled, it will include an additional **Contact Us** page that allows anonymous enquiries to be recorded as leads within the Dynamics 365 app. 
-
-A functional consultant can configure the Custom portal to address business requirements by adding web links and custom pages and by surfacing Dataverse records. A Custom portal can be further extended by using table lists, table forms, web forms, or custom templates.
-
-Features from other portals can be applied to a Custom portal in an environment with Dynamics 365 apps enabled.
+Features from other portals can be applied to a **Blank website** portal in a Dataverse environment with Dynamics 365 apps enabled.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4ynsK]
-

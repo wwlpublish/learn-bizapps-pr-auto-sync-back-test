@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.explore-portals.4-employee 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.explore-portals.4-employee
 title: Employee self-service portal
-metadata: 
-  title: Employee self-service portal 
-  description: Learn about the Employee self-service portal.   
-  ms.date: 06/30/2020 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps-portals   
+metadata:
+  title: Employee self-service portal
+  description: Learn about the Employee self-service portal.
+  ms.date: 06/30/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps-portals
 durationInMinutes: 2
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/4-employee.md)] 
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-employee.md)]

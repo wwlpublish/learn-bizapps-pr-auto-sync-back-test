@@ -1,20 +1,20 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.explore-portals.7-check 
-title: Check your knowledge 
-metadata: 
- title: Check your knowledge 
- description: Answer the following questions to see what you've learned. 
- ms.date: 06/30/2020 
- author: DaveBeasley 
- ms.author: dbeasley 
- ms.topic: interactive-tutorial 
- ms.prod: learning-power-apps-portals  
-durationInMinutes: 4 
-quiz: 
-  title: Answer the following questions to see what you've learned. 
-  questions: 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.explore-portals.7-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/30/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps-portals
+durationInMinutes: 4
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
   - content: You have provisioned a new Power Platform environment without enabling any of the Dynamics 365 apps. What starter portal templates are available for you to provision?
-    choices: 
+    choices:
     - content: Customer service portal
       isCorrect: false
       explanation: The Portal from blank template is the only option to provision on a Microsoft Dataverse Environment without Dynamics 365. Customer service and Community portals require Dynamics 365 apps. The Not for Profit portal is not an available portal template.
@@ -28,7 +28,7 @@ quiz:
       isCorrect: false
       explanation: The Portal from blank template is the only option to provision on a Dataverse Environment without Dynamics 365. Customer service and Community portals require Dynamics 365 apps. The Not for Profit portal is not an available portal template.
   - content: What starter portals are not available for the customer audience?
-    choices: 
+    choices:
     - content: Customer self-service
       isCorrect: false
       explanation: When Customer is selected as the portal audience during the portal provisioning process, the Customer self-service, Custom, and Community portals are available. eCommerce portal is not a valid starter portal type.
@@ -42,7 +42,7 @@ quiz:
       isCorrect: false
       explanation: When Customer is selected as the portal audience during the portal provisioning process, the Customer self-service, Custom, and Community portals are available. eCommerce portal is not a valid starter portal type.
   - content: Where do you write new knowledge articles for the portal?
-    choices: 
+    choices:
     - content: Portal Studio
       isCorrect: false
       explanation: Knowledge articles cannot be written within the portal at all, only viewed. While knowledge articles are listed in the Portal Management app, they can only be written in the Customer Service Hub app.
@@ -50,18 +50,18 @@ quiz:
       isCorrect: false
       explanation: Knowledge articles cannot be written within the portal at all, only viewed. While knowledge articles are listed in the Portal Management app, they can only be written in the Customer Service Hub app.
     - content: Dynamics 365 Customer Service Hub
-      isCorrect: true    
+      isCorrect: true
       explanation: Knowledge articles cannot be written within the portal at all, only viewed. While knowledge articles are listed in the Portal Management app, they can only be written in the Customer Service Hub app.
     - content: Portal Management app
       isCorrect: false
       explanation: Knowledge articles cannot be written within the portal at all, only viewed. While knowledge articles are listed in the Portal Management app, they can only be written in the Customer Service Hub app.
   - content: Which feature is only available in the Community starter portal?
-    choices: 
+    choices:
     - content: Forums
       isCorrect: false
       explanation: Forums and Knowledge Articles features are available in all starter portals except the Custom portal. The Blogs feature is available only in the Community starter portal. Event Management is not a valid starter portal feature.
     - content: Blogs
-      isCorrect: true 
+      isCorrect: true
       explanation: Forums and Knowledge Articles features are available in all starter portals except the Custom portal. The Blogs feature is available only in the Community starter portal. Event Management is not a valid starter portal feature.
     - content: Event Management
       isCorrect: false

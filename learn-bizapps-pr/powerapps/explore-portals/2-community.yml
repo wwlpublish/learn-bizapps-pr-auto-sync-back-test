@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.explore-portals.2-community 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.explore-portals.2-community
 title: Community portal
-metadata: 
-  title: Community portal 
-  description: Learn about the Community portal.  
-  ms.date: 06/30/2020 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps-portals  
-durationInMinutes: 15 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/2-community.md)] 
+metadata:
+  title: Community portal
+  description: Learn about the Community portal.
+  ms.date: 06/30/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps-portals
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-community.md)]
