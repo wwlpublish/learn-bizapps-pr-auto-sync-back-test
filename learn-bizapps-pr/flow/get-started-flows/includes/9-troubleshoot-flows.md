@@ -61,7 +61,7 @@ You might have run out of data that you can use.
 > [!IMPORTANT]
 > If you exceed your data limit, Power Automate throttles your flow runs.
 
-Learn more about [usage limits](https://flow.microsoft.com/pricing/).
+Learn more about [usage limits](https://docs.microsoft.com/power-automate/limits-and-config/?azure-portal=true).
 
 ## You might be running flows too often
 
@@ -69,7 +69,7 @@ Your plan determines how often your flows run. For example, your flows might run
 
 Whenever a flow is triggered, whether by an automatic trigger or because you manually start it, the action counts as a run. Checks for new data don't count as runs.
 
-Learn more about [usage limits](https://flow.microsoft.com/pricing/).
+Learn more about [usage limits](https://docs.microsoft.com/power-automate/limits-and-config/?azure-portal=true).
 
 ## You might be using an incorrect account
 
