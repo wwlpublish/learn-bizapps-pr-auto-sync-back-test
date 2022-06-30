@@ -18,9 +18,7 @@ To allow a quick visual insight into the differences between two sequential stag
 
 > [![Appears if one of these conditions is met: Some of the content items in each stage, were changed or updated (have different metadata).There is a difference in the number of items between the stages.](../media/deny-symbol.png)](../media/deny-symbol.png#lightbox)
 
-
 > [![The metadata for each content item in both stages, is the same.](../media/approve-symbol.png)](../media/approve-symbol.png#lightbox)
-
 
 When two sequential stages aren't the same, a link appears underneath the orange comparison icon. Clicking the link opens the content item list in both stages in Compare view. Compare view helps you track changes or differences between items, in each pipeline stage. Changed items get one of the following labels:
 
@@ -37,7 +35,7 @@ When two sequential stages aren't the same, a link appears underneath the orange
 
 When working in a deployment pipeline, different stages may have different configurations. For example, each stage can have different databases or different query parameters. For example, the development stage might query sample data from the database, while the test and production stages query the entire database.
 
-Configuring deployment rules enables you to allow changes to content when you deploy content between pipeline stages. For example, if you want a dataset in a production stage to point to a production database, you can define a rule for this. The rule is defined in the production stage, under the appropriate dataset. Once the rule is defined, content deployed from test to production will inherit the value as defined in the deployment rule and will always apply it as long as the rule is unchanged and valid.
+Configuring deployment rules enables you to allow changes to content when you deploy content between pipeline stages. For example, if you want a dataset in a production stage to point to a production database, you can define a rule for this. The rule is defined in the production stage, under the appropriate dataset. Once the rule is defined, content deployed from test to production will inherit the value as defined in the deployment rule, and will always apply it as long as the rule is unchanged and valid.
 
 See [Create deployment rules](/power-bi/create-reports/deployment-pipelines-get-started#step-4---create-deployment-rules/?azure-portal=true) for detailed information on how to configure deployment rules.
 

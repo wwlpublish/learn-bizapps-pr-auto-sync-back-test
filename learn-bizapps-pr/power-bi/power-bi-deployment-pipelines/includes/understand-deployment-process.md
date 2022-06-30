@@ -2,13 +2,11 @@ The **Deployment pipelines** tool is a feature within the Power BI Service (Prem
 The tool is designed to be an efficient and reusable pipeline that automates the movement of content (reports, paginated reports, dashboards, datasets, and dataflows) through three stages:
 - **Development** – design, review, and revise content in a development workspace. 
     - Engage other creators on new content
-    - Use minimal datasets
-    When it’s ready to be tested and reviewed, deploy the content to the test stage.
+    - Use minimal datasets. When it’s ready to be tested and reviewed, deploy the content to the test stage.
 - **Test** – test and verify that the content is accurate in this preproduction workspace. 
     - Share content with testers and reviewers
     - Load and run tests with larger volumes of data
-    - Test your app to see how it will look for your end users
-    When it’s ready to be distributed to your users, deploy the content to the production stage.
+    - Test your app to see how it will look for your end users. When it’s ready to be distributed to your users, deploy the content to the production stage.
 - **Production** – the workspace content has been tested and is ready to be consumed by your users either in an app or by access to the production workspace.
     - Share the final version of your content with business users across the organization
 ## Workflow
@@ -18,7 +16,7 @@ A workflow view is helpful to review.
  
 There are few key items to note about the above graphic:
 - The content (workspace) can be different in each stage above. For example: 
-    - In this example the data source size (table and data icons) is increased as it gets closer to production. However, it’s possible that between the development and test stages, the dataset could be made smaller to accommodate testing.  
+    - In this example, the data source size (table and data icons) is increased as it gets closer to production. However, it’s possible that between the development and test stages, the dataset could be made smaller to accommodate testing.  
     - The reports (chart icon) change in each stage.
 - Other creators and developers can work on stages separately.
 - The pipeline on its 3 stages and is built out of three copied (cloned) workspaces that were created when the **Deploy** button is clicked for the first time.
