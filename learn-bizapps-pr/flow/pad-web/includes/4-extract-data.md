@@ -45,6 +45,6 @@ If you want to modify the CSS selectors manually, select the **Advanced settings
 
 To discard a selection you have made, select the **Reset** button on the **Live web helper** dialog.
 
-Lastly, you have both the **Pause** and the **Reset** button options available. The pause will stop the recording to occur and reset wll clear all the existing recordings. You can clear individual actions by clicking on the trash icon next to it.
+Lastly, you have both the **Pause** and the **Reset** button options available. The pause will stop the recording to occur and reset will clear all the existing recordings. You can clear individual actions by clicking on the trash icon next to it.
 
 ![Screenshot of the Live web helper dialog.](..\media\web-helper-dialog.png)
