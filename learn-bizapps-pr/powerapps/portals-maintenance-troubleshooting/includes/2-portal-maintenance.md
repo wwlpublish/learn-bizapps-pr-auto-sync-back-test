@@ -1,8 +1,8 @@
-An administrator's role goes beyond ensuring that a Power Apps portal is running correctly yet also configured to run efficiently and quickly. Numerous tools are available to help administrators check the settings and status of a Power Apps portal and provide users with clear messaging if the portal is undergoing maintenance.
+An administrator's role goes beyond ensuring that a Power Apps portal is running correctly; it also includes configuring it to run efficiently and quickly. Numerous tools are available to help administrators check the settings and status of a Power Apps portal and provide users with clear messaging if the portal is undergoing maintenance.
 
 ## Portal Checker
 
-The **Portal Checker** feature is available in the Power Apps Portals admin center and will run diagnostic checks to protect and advise against common issues that might be encountered when operating a portal.
+The **Portal Checker** feature is available in the Power Apps Portals admin center and will run diagnostic checks to protect and advise of common issues that might be encountered when operating a portal.
 
 To run the Portal Checker, follow these steps:
 
@@ -16,7 +16,7 @@ To run the Portal Checker, follow these steps:
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the Run Portal Checker with diagnostic results listed.](../media/portal-checker.png)](../media/portal-checker.png#lightbox)
 
-The result will also provide mitigation steps or links to help you understand the impact of the issue.
+The result will also provide mitigation steps or links to help you understand the impact of the issue and how to resolve it.
 
 For more information, see [Portal Checker](/power-apps/maker/portals/admin/portal-checker/?azure-portal=true).
 
@@ -29,7 +29,7 @@ While you can change the portal state to **Off**, selecting this option would pr
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Portal Off error message.](../media/portal-off.png)](../media/portal-off.png#lightbox)
 
-Within the Portals admin center actions are the option to enable the **Portal Maintenance** mode. Selecting this mode will provide the portal visitors with a more informational page indicating that the portal is temporarily unavailable.
+Within the Portals admin center actions is the option to enable the **Portal Maintenance** mode. Selecting this mode will provide the portal visitors with a more informational page indicating that the portal is temporarily unavailable.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Portal Maintenance Mode message.](../media/maintenance-mode.png)](../media/maintenance-mode.png#lightbox)
@@ -52,7 +52,7 @@ While underlying infrastructure is maintained automatically, portal solutions ar
 A Power Apps portal consists of solutions from different packages in an environment. You can use the Power Platform admin center to view the details and update the installed packages.
 
 > [!IMPORTANT]
-> Solutions in a package are upgraded for an environment. Hence, the selected package will be upgraded for all portals in the environment using the package.
+> Solutions in a package are upgraded for an environment. The selected package will be upgraded for all portals in the environment using the package.
 
 To check and update portal package(s) in an environment:
 
@@ -72,7 +72,7 @@ To check and update portal package(s) in an environment:
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the prompt to confirm portal packages upgrade.](../media/update-portal-solutions-available.png)](../media/update-portal-solutions-available.png#lightbox)
 
-1. On the environment portals page select **Portals package(s) details**.
+1. On the environment portals page, select **Portals package(s) details**.
 
 1. Select packages with the updates available and then select **Update**.
 

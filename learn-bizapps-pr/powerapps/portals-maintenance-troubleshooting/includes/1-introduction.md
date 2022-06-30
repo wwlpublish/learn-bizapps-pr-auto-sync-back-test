@@ -2,9 +2,9 @@ A Microsoft Power Apps portal is an external-facing application that is often op
 
 ## Roles
 
-User doesn't have to be a Global Administrator to perform administrative tasks. Different administrative tasks in Power Apps portals can be performed by members of different roles. The admin and security roles required to do these tasks vary depending on the impact area.
+A user doesn't have to be a Global Administrator to perform administrative tasks. Different administrative tasks in Power Apps portals can be performed by members of different roles. The admin and security roles required to do these tasks vary depending on the impact area.
 
-Most of the tasks can be performed by the Portal Owner or a user with System Customizer role. Some tasks might require the user to be a member of admin roles in [Microsoft 365](/microsoft-365/admin/add-users/about-admin-roles?preserve-view=true&view=o365-worldwide&azure-portal=true), and others might need membership to security roles in the [Microsoft Power Platform environment](/power-platform/admin/database-security/?azure-portal=true) or other permissions in Azure Active Directory.
+Most of the tasks can be performed by the Portal Owner or a user with the System Customizer role. Some tasks might require the user to be a member of admin roles in [Microsoft 365](/microsoft-365/admin/add-users/about-admin-roles?preserve-view=true&view=o365-worldwide&azure-portal=true), and others might need a membership to security roles in the [Microsoft Power Platform environment](/power-platform/admin/database-security/?azure-portal=true) or other permissions in Azure Active Directory.
 
 For more information about the security requirements for Power Apps portals management and administration, see [Roles required for portal administration](/power-apps/maker/portals/admin/portal-admin-roles/?azure-portal=true).
 
@@ -20,13 +20,13 @@ If a portal is inaccessible, an administrator can investigate numerous possibili
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Admin Center with the Service health screen displayed.](../media/administration-center.png)](../media/administration-center.png#lightbox)
 
-An administrator should also investigate whether some of the portal metadata has been recently modified, such as the website or website binding records that also might affect portal functionality.
+An administrator should also investigate whether some of the portal metadata has been recently modified, such as the website or website binding rows, which also might affect portal functionality.
 
 Running the **Portal Checker** might also identify potential issues with the site.
 
 ## Portal page and functionality issues
 
-Occasionally, a portal administrator might be faced with having to resolve errors with specific Power Apps portal pages or functions.
+Occasionally, a portal administrator might be faced with having to resolve errors with specific portal pages or functions.
 
 Power Apps portals have several tools that will allow an administrator to quickly identify and resolve issues without needing to contact Microsoft support.
 
@@ -51,7 +51,7 @@ Along with visual errors on portal pages, potential underlying issues could occu
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Enable Diagnostic logging window.](../media/diagnostic-logging.png)](../media/diagnostic-logging.png#lightbox)
 
-The logs can provide information of patterns, duration, and frequency of specific portal errors to help resolving potential errors and issues. For more information, see [Access portal error logs](/power-apps/maker/portals/admin/view-portal-error-log?azure-portal=true#access-portal-error-logs). 
+The logs can provide information on patterns, duration, and frequency of specific portal errors to help resolving potential errors and issues. For more information, see [Access portal error logs](/power-apps/maker/portals/admin/view-portal-error-log?azure-portal=true#access-portal-error-logs). 
 
 ## Additional troubleshooting steps
 
