@@ -36,13 +36,6 @@ While the platform displays the **Live web helper** dialog, right-click on the d
 
 ![Screenshot of an extracted single value.](..\media\extract-single-value.png)
 
-If you repeat the selection for another corresponding value, the action will extract a list containing each related element's respective value.
-
-![Screenshot of an extracted list of values.](..\media\extract-list.png)
-
-If you select an additional value, Power Automate for desktop will return a data table containing each element's corresponding data in the list.
-
-![Screenshot of an extracted table of values.](..\media\extract-table.png)
 
 To extract data spread throughout multiple pages, right-click on the website's pager button and select **Set element as pager**.
 
@@ -52,6 +45,6 @@ If you want to modify the CSS selectors manually, select the **Advanced settings
 
 To discard a selection you have made, select the **Reset** button on the **Live web helper** dialog.
 
-Lastly, you can select the **Refresh** button to highlight which data to extract based on the current selection. You can take advantage of this feature when you want to repeat a similar extraction for multiple pages.
+Lastly, you have both the **Pause** and the **Reset** button options available. The pause will stop the recording to occur and reset wll clear all the existing recordings. You can clear individual actions by clicking on the trash icon next to it.
 
 ![Screenshot of the Live web helper dialog.](..\media\web-helper-dialog.png)
