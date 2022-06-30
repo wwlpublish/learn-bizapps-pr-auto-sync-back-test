@@ -14,7 +14,7 @@ Pad text by adding whitespace, a word or phrase before or after the text or a li
 
 Reverse text reverses the order of letters in a text string. 
 
-![Screenshot of the pad text action properties.](..\media\pad-reverse-text-action.png)
+![Screenshot of the pad reverse text action properties.](..\media\pad-reverse-text-action.png)
 
 To remove whitespace from a text string, use the **Trim text** action. Trim whitespaces from the beginning of a text string, the end of a text string, or both.
 
