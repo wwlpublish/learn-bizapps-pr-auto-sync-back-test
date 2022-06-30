@@ -4,7 +4,7 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 07/08/2020 
+ ms.date: 06/30/2022 
  author: DaveBeasley 
  ms.author: dbeasley 
  ms.topic: interactive-tutorial 
@@ -18,16 +18,16 @@ quiz:
     - content: React
       isCorrect: false 
       explanation: Out of the box, Power Apps portals includes the jQuery library, which helps make manipulation of the page content and appearance a reasonably simple task.
+    - content: jQuery
+      isCorrect: true 
+      explanation: Out of the box, Power Apps portals includes the jQuery library, which helps make manipulation of the page content and appearance a reasonably simple task.
     - content: Vue
       isCorrect: false 
       explanation: Out of the box, Power Apps portals includes the jQuery library, which helps make manipulation of the page content and appearance a reasonably simple task.
     - content: Angular
       isCorrect: false 
       explanation: Out of the box, Power Apps portals includes the jQuery library, which helps make manipulation of the page content and appearance a reasonably simple task.
-    - content: jQuery
-      isCorrect: true 
-      explanation: Out of the box, Power Apps portals includes the jQuery library, which helps make manipulation of the page content and appearance a reasonably simple task.
-  - content: You have a requirement to set a default value on table form and also to hide the column. What is the most efficient method to complete the task?
+  - content: You have a requirement to set a default value on basic form and also to hide the column. What is the most efficient method to complete the task?
     choices: 
     - content: Use business rules on the model-driven form.
       isCorrect: false 
@@ -38,34 +38,34 @@ quiz:
     - content: Hide the column on the model-driven form designer.
       isCorrect: false 
       explanation: Business rules on the model-driven form will not apply to the portal. A JavaScript function would work, but it is not the most efficient method. Hiding the column on the form designer will not set the default value. An Table Form Metadata record has the ability to set a default value and hide the column by using the CSS class value of "hide."
-    - content: Create Table Form Metadata record to set the default value and CSS class values.
+    - content: Create Basic Form Metadata record to set the default value and CSS class values.
       isCorrect: true 
       explanation: Business rules on the model-driven form will not apply to the portal. A JavaScript function would work, but it is not the most efficient method. Hiding the column on the form designer will not set the default value. An Table Form Metadata record has the ability to set a default value and hide the column by using the CSS class value of "hide."
   - content: You have configured a Power Apps portal on a development environment and you need to move the configuration to your test environment. What tool would you use to accomplish this task?
     choices: 
     - content: Power Apps portals admin center
       isCorrect: false 
-      explanation: The Power Apps portals admin center does not have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. The Configuration Data Migration tool can use the Portal Schema files to export and import portal metadata. Microsoft Dataverse does not contain portal metadata.
+      explanation: The Power Apps portals admin center does not have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Power Platform CLI can export and import portal metadata. Microsoft Dataverse solutions do not include portal metadata.
     - content: Export and Import Excel files
       isCorrect: false 
-      explanation: The Power Apps portals admin center does not have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. The Configuration Data Migration tool can use the Portal Schema files to export and import portal metadata. Dataverse does not contain portal metadata.
-    - content: Configuration Data Migration tool
+      explanation: The Power Apps portals admin center does not have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Power Platform CLI can export and import portal metadata. Microsoft Dataverse solutions do not include portal metadata.
+    - content: Power Platform CLI
       isCorrect: true 
-      explanation: The Power Apps portals admin center does not have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. The Configuration Data Migration tool can use the Portal Schema files to export and import portal metadata. Dataverse does not contain portal metadata.
+      explanation: The Power Apps portals admin center does not have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Power Platform CLI can export and import portal metadata. Microsoft Dataverse solutions do not include portal metadata.
     - content: Export and Import the Dataverse solution
       isCorrect: false 
-      explanation: The Power Apps portals admin center does not have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. The Configuration Data Migration tool can use the Portal Schema files to export and import portal metadata. Dataverse does not contain portal metadata.
-  - content: How would you calculate taxes based on rates that are stored in Dataverse on work orders that were entered on web forms on the portal?
+      explanation: The Power Apps portals admin center does not have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Power Platform CLI can export and import portal metadata. Microsoft Dataverse solutions do not include portal metadata.
+  - content: You need to apply different background color to all pages in the `/products` section of your Power Apps portal. How would you accomplish this task? 
     choices: 
-    - content: Add JavaScript to the Web Form steps.
+    - content: Add JavaScript to the portal that would use page URL to dynamically modify page styles.
       isCorrect: false 
-      explanation: You would not be able to query the rate information by using JavaScript on the Web Form steps. Creating an external web service would not be the most efficient way to calculate the taxes. A plug-in would launch when the data is saved to Dataverse and can update a tax value based on rates in another table. Dataverse calculated columns can’t pull information (rates) from other records.
-    - content: Create an external web application.
-      isCorrect: false 
-      explanation: You would not be able to query the rate information by using JavaScript on the Web Form steps. Creating an external web service would not be the most efficient way to calculate the taxes. A plug-in would launch when the data is saved to Dataverse and can update a tax value based on rates in another table. Dataverse calculated columns can’t pull information (rates) from other records.
-    - content: Write a Dataverse plug-in.
+      explanation: Javascript is not required for style changes. CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section is not a feasible approach. Styles can be applied to individual pages as well as entire sections of a portal.
+    - content: Create Web File record under `/products` page and upload CSS file with the required color changes.
       isCorrect: true 
-      explanation: You would not be able to query the rate information by using JavaScript on the Web Form steps. Creating an external web service would not be the most efficient way to calculate the taxes. A plug-in would launch when the data is saved to Dataverse and can update a tax value based on rates in another table. Dataverse calculated columns can’t pull information (rates) from other records.
-    - content: Add calculated columns to the work order table.
+      explanation: Javascript is not required for style changes. CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section is not a feasible approach. Styles can be applied to individual pages as well as entire sections of a portal.
+    - content: Edit all pages in the section and add inline CSS instructions to every page.
       isCorrect: false 
-      explanation: You would not be able to query the rate information by using JavaScript on the Web Form steps. Creating an external web service would not be the most efficient way to calculate the taxes. A plug-in would launch when the data is saved to Dataverse and can update a tax value based on rates in another table. Dataverse calculated columns can’t pull information (rates) from other records.
+      explanation: Javascript is not required for style changes. CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section is not a feasible approach. Styles can be applied to individual pages as well as entire sections of a portal.
+    - content: Styles always apply to the entire site and you cannot style just a section of the site.
+      isCorrect: false 
+      explanation: Javascript is not required for style changes. CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section is not a feasible approach. Styles can be applied to individual pages as well as entire sections of a portal.

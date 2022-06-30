@@ -17,26 +17,42 @@ Portals use the [Bootstrap front-end framework](http://getbootstrap.com/?azure-p
 
 A theme determines the appearance of all webpages in your portal to ensure visual consistency. It controls the navigational structure, the banner, colors and fonts, and other visual elements of a webpage.
 
-The web templates that are included in a starter portal are implemented by using standard Bootstrap components with minimal additional custom styles. As a result, you can take advantage of the customization options that are provided by Bootstrap to tailor the theme in a way that's applied consistently to the entire portal.
+The web templates that are included in a starter portal are implemented by using standard Bootstrap components with minimal more custom styles. As a result, you can take advantage of the customization options that are provided by Bootstrap to tailor the theme in a way that's applied consistently to the entire portal.
 
-## Upload custom CSS
+## Apply customizations
 
-Any starter portal has two files already included as child web files of the home page: `bootstrap.min.css` and `theme.css`. These files define the default styles and theme for your entire portal. You can upload and edit additional stylesheets in portals Studio by using the **Themes** section on the tool belt.
+In Power Apps portals, the **Enable basic theme** feature controls how CSS customizations are applied to the portal.
+
+### Themes
+
+When you turn on the **Enable basic theme** feature, you can use default themes called **Presets**. You can also create copies of the preset themes for another customization.
+
+![Screenshot of the selection of themes in portals Studio.](../media/theme-selection.png)
+
+Themes create an overall look and feel for the site by defining colors for different areas. 
+
+If the site requires other customizations, then the **Edit CSS** feature can be used. It's available regardless of whether the basic theme is enabled.
+
+### Edit CSS
+
+When the **Enable basic theme** feature is off, you can only apply customizations by editing existing or adding new CSS files. 
+
+Any starter portal has many files that are already included as child web files on the home page: `bootstrap.min.css` and `theme.css`. These files define default styles and a theme for your entire portal. More stylesheets can be uploaded and edited. For more information, see [Edit CSS](https://docs.microsoft.com/en-us/power-apps/maker/portals/edit-css).
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the Themes section on the tool belt.](../media/css-edit.png)](../media/css-edit.png#lightbox)
+> [![Screenshot of themes editing options from toolbelt for CSS code.](../media/css-edit.png)](../media/css-edit.png#lightbox)
 
-Make sure that you consider how you want to approach style modifications for your portal, such as:
+You need to consider how to approach style modifications for your portal:
 
-- Creating complete styling for the entire site and then replacing the content of the .css file. This method works well if you have access to skilled designers who can ensure that all relevant elements are defined. This approach creates centrally controlled styling and ensures consistency throughout the portal.
-- Redefining only the elements that require modifications, such as colors and font size. Create and upload the CSS file that contains only these incremental adjustments. This method works well if your target design is close to the starter portal design and only minor styling modifications are required. This approach allows incremental modifications that can be undone.
+- Create complete styling for the entire site and then replace the content of the CSS file. This process works well if you have access to good designers who can ensure that all relevant elements are defined. This approach creates centrally controlled styling and ensures consistency throughout the portal.
+- Redefine only the elements that require modifications, for example, colors and font size. Create and upload the CSS file that contains only these incremental adjustments. This process works well if your target design is close to the starter portal design and only minor styling modifications are required. This approach allows incremental modifications that can be easily undone.
 
 > [!WARNING]
-> If you decide to overwrite `bootstrap.min.css` or `theme.css` files, make sure that you download a backup copy of these files prior to replacing them. If your replacement CSS is invalid or incomplete, you will not be able to undo the replacement. Consequently, you will have to restore the content of these files, potentially using a Power Apps portals app if the portal is rendered non-functional.
+> If you decide to overwrite `bootstrap.min.css` or `theme.css` files, make sure that you download a backup copy of these files prior to replacing them. If your replacement CSS is invalid or incomplete, you might not be able to undo the replacement and will have to restore the content of these files if the portal is rendered non-functional.
 
 ## Apply customizations to specific portal areas
 
-You can add customizations to specific pages or sections of your portal by adding a **Web File** record by using the Portal Management app with an attachment to a CSS file. You will need to specify the parent page in the **Web File** record so that the theme will be applied to the parent page and all descendants of that page. This approach makes it possible for you to build fully customized sections of your site.
+You can add customizations to specific pages or sections of your portal by adding a **Web File** record by using the Portal Management app with a CSS file attachment to a CSS file. You'll need to specify the parent page in the **Web File** record so that the theme will be applied to the parent page and all descendants of that page. This approach makes it possible for you to build fully customized sections of your site.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Parent Page column in the web file record.](../media/custom-theme-section.png)](../media/custom-theme-section.png#lightbox)
@@ -55,7 +71,7 @@ After you have customized Bootstrap, it will generate one or more files that you
 
 ### Background images
 
-When you are starting portal customizations, one of the most common requests that you might have is to replace the background images. These images are applied by using CSS, but they can be replaced without changing CSS. Look for .jpg web files under the portal's home page, for example `homehero.jpg`. Your only requirement is to replace the attachments of these web files with your own images. Make sure that the size of the new images is compatible to maintain consistent layout.
+When you're starting portal customizations, one of the most common requests that you might have is to replace the background images. These images are applied by using CSS, but they can be replaced without changing CSS. Look for .jpg web files under the portal's home page, for example `homehero.jpg`. Your only requirement is to replace the attachments of these web files with your own images. Make sure that the size of the new images is compatible to maintain consistent layout.
 
 ### CSS for simple adjustments
 
