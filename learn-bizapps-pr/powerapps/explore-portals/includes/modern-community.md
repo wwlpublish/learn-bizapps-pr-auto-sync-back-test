@@ -1,6 +1,7 @@
 The Modern Community portal is a new template that offers a suite of capabilities that are designed to help your organization invite customer suggestions and crowdsource portfolios of outside-in ideas.
 
-![Screenshots of various screens from a Modern Community portal](../media/modern-community.png)
+> [!div class="mx-imgBorder"]
+> [![Screenshots of various screens from a Modern Community portal.](../media/modern-community.png)](../media/modern-community.png#lightbox)
 
 > [!NOTE]
 > The Modern Community portal is only available on Microsoft Dataverse environments with Dynamics 365 Customer Service enabled and Dynamics 365 Customer Service Community app installed. If you do not have Dynamics 365 Customer Service Community app installed, see [Get started with Community](/dynamics365/customer-service/community-get-started/?azure-portal=true) for installation instructions.

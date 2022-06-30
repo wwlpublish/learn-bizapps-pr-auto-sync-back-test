@@ -4,7 +4,8 @@ This portal is an ideal starting point for unique line-of-business applications 
 
 The **Blank website** portal contains core features such as content management, security, ability to transact with Dataverse, and extensibility.
 
-![Screenshot of home page of a Blank website portal.](../media/6-custom-portal.png "CDS Blank Portal") |
+> [!div class="mx-imgBorder"]
+> [![Screenshot of home page of a Blank website portal.](../media/6-custom-portal.png)](../media/6-custom-portal.png#lightbox)
 
 A maker can configure the **Blank website** portal to address business requirements by adding web links and custom pages and by surfacing Dataverse records. A **Blank website** portal can be further extended by using lists, basic forms, advanced forms, or custom templates.
 

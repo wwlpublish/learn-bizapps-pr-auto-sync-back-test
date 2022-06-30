@@ -9,7 +9,7 @@ metadata:
  ms.author: dbeasley
  ms.topic: interactive-tutorial
  ms.prod: learning-power-apps-portals
-durationInMinutes: 4
+durationInMinutes: 8
 quiz:
   title: Answer the following questions to see what you've learned.
   questions:
@@ -17,16 +17,16 @@ quiz:
     choices:
     - content: Customer service portal
       isCorrect: false
-      explanation: The Portal from blank template is the only option to provision on a Microsoft Dataverse Environment without Dynamics 365. Customer service and Community portals require Dynamics 365 apps. The Not for Profit portal is not an available portal template.
+      explanation: The Blank website template is the only option to provision on a Microsoft Dataverse Environment without Dynamics 365. Customer service and Community portals require Dynamics 365 apps. The Not for Profit portal is not an available portal template.
     - content: Community portal
       isCorrect: false
-      explanation: The Portal from blank template is the only option to provision on a Dataverse Environment without Dynamics 365. Customer service and Community portals require Dynamics 365 apps. The Not for Profit portal is not an available portal template.
-    - content: Portal from blank
+      explanation: The Blank website template is the only option to provision on a Dataverse Environment without Dynamics 365. Customer service and Community portals require Dynamics 365 apps. The Not for Profit portal is not an available portal template.
+    - content: Blank website
       isCorrect: true
-      explanation: The Portal from blank template is the only option to provision on a Dataverse Environment without Dynamics 365. Customer service and Community portals require Dynamics 365 apps. The Not for Profit portal is not an available portal template.
+      explanation: The Blank website template is the only option to provision on a Dataverse Environment without Dynamics 365. Customer service and Community portals require Dynamics 365 apps. The Not for Profit portal is not an available portal template.
     - content: Not for Profit portal
       isCorrect: false
-      explanation: The Portal from blank template is the only option to provision on a Dataverse Environment without Dynamics 365. Customer service and Community portals require Dynamics 365 apps. The Not for Profit portal is not an available portal template.
+      explanation: The Blank website template is the only option to provision on a Dataverse Environment without Dynamics 365. Customer service and Community portals require Dynamics 365 apps. The Not for Profit portal is not an available portal template.
   - content: What starter portals are not available for the customer audience?
     choices:
     - content: Customer self-service

@@ -2,7 +2,8 @@ When provisioning a Power Apps portal, the most important choices to consider ar
 
 Several portal templates are available that can be provisioned. These templates will accelerate the configuration of a portal based on the intended audience and workload.
 
-![Screenshot of portal templates that are available for provisioning.](../media/portal-templates.png)
+> [!div class="mx-imgBorder"]
+> [![Screenshot of portal templates that are available for provisioning.](../media/portal-templates.png)](../media/portal-templates.png#lightbox)
 
 If you are building a custom business application by using Microsoft Dataverse without Dynamics 365 apps enabled, your only choice is the **Blank website** option available under the **Blank app** selection.
 
