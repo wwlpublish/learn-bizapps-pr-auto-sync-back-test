@@ -1,4 +1,4 @@
-Power Apps portals administrators have several options for controlling authentication behavior for the portal users. These options are accessed through the **Web Authentication** tab on the **Portal Contact** form.
+Power Apps portals administrators have several options for controlling authentication behavior for portal users. These options are accessed through the **Web Authentication** tab on the **Portal Contact** form.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of portal contact web authentication information.](../media/portal-contact-web-authentication.png)](../media/portal-contact-web-authentication.png#lightbox)
@@ -13,7 +13,7 @@ The following table explains some of the options that are available on the **Web
 | Two Factor Enabled     | Defines if two-factor authentication has been enabled for the contact. A confirmed email address is required for two-factor authentication to be used. |
 | Log in Enabled          | Clearing this check box (or setting the column value in a workflow) will disable all forms of authentication for the contact, including external providers. |
 | Lockout Enabled        | Defines if the contact can be locked after a preconfigured number of failed attempts. |
-| Lockout End Date       | When the contact is locked out, this column defines when it's going to be unlocked automatically. Traditional use of this value is to lock out a contact for many minutes (which is controlled in site settings) after a preconfigured number of failed sign-in attempts. |
+| Lockout End Date       | When the contact is locked out, this column defines when it's going to be unlocked automatically. A common use of this value is to lock out a contact for many minutes (which is controlled in site settings) after a preconfigured number of failed sign-in attempts. |
 | Local log in Disabled   | Defines if the local authentication option is available for the user. Site settings might disable local authentication for all users, in which case, this flag will have no effect. |
 
 For more information, see [Set authentication identity for a portal](/power-apps/maker/portals/configure/set-authentication-identity/?azure-portal=true).

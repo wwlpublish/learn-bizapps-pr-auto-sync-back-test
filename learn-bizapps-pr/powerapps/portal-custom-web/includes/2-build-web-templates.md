@@ -1,18 +1,26 @@
-**Web Template** is a simple table that contains the following attributes:
+To create custom page templates, you can use the Web Template row, which is basically a layout template. For example, if a web template includes static HTML, this HTML will be rendered "as-is" in the page output that uses that template. The real power of web templates comes from the ability to contain Liquid code, which adds processing capabilities to the static content, including access to Dataverse data.
 
-- **Name** - When a template is included in other content, or extended by other templates, it is referred to by this name.
+> [!div class="mx-imgBorder"]
+> [![Screenshot of the Power Apps Portal Code Editor screen.](../media/web-templates.png)](../media/web-templates.png#lightbox)
+
+**Web Template** is a simple table that contains the following columns:
+
+- **Name** - When a template is included in other content, or extended by other templates, it's referred to by this name.
 - **Source** - The source content of the template. It can be static text, an HTML fragment, or most often, a layout by using Liquid.
-- **MIME type** - Defines what MIME type that the server will send to the client when the template is rendered. If value is not provided, the value is assumed to be `text/html`, which is a standard type for HTML pages. It's possible to create a web template that will render specialized content. For example, you can create a web template that will return some Microsoft Dataverse data in `json` format. In this case, the MIME type would be set to `application/json`. 
+- **MIME type** - Defines what MIME type that the server will send to the client when the template is rendered. If value isn't provided, the value is assumed to be `text/html`, which is a standard type for HTML pages. It's possible to create a web template that will render specialized content. For example, you can create a web template that will return some Microsoft Dataverse data in `json` format. In this case, the MIME type would be set to `application/json`. 
+
+> [!NOTE] 
+> Web templates can be edited but not created in Power Apps portals Studio.
 
 ## Web template management
 
-Liquid implementations within Power Apps portals contain a number of [Template tags](/power-apps/maker/portals/liquid/template-tags/?azure-portal=true) that help manage templates and promote reusability.
+Liquid implementations within Power Apps portals contain many [Template tags](/power-apps/maker/portals/liquid/template-tags/?azure-portal=true) that help manage templates and promote reusability.
 
 ### FetchXML tag
 
 The `fetchxml` tag allows users to query data from Dataverse and renders the results in a page.
 
-```xml
+```html
 {% fetchxml varResults %}
 <!— Fetchxml query -->
 <fetch>
@@ -25,20 +33,20 @@ The `fetchxml` tag allows users to query data from Dataverse and renders the res
 
 The `varResults` variable will contain the results of the query.
 
-```xml
+```twig
 {% for account in varResults.results.entities %} 
-  {{ account.name }}<br />
+  <p>{{ account.name }}</p>
 {% endfor %}
 ```
 
 > [!IMPORTANT]
-> Table permissions are always applied to the `fetchxml` tag.
+> Table permissions are always applied to the data retrieved using Liquid including `fetchxml` tag.
 
 ### Comment tag
 
-With the `comment` tag, any content within the block will not be rendered, and any Liquid code within will not be run. This tag is useful for including extended comments in complex templates and to temporarily comment out blocks of code when you are troubleshooting.
+With the `comment` tag, any content within the block won't be rendered, and any Liquid code within won't be run. This tag is useful for including extended comments in complex templates and to temporarily comment out blocks of code when you're troubleshooting.
 
-```xml
+```twig
 This is a {% comment %}very useful {% endcomment %}comment.
 ```
 
@@ -50,7 +58,7 @@ The preceding logic will generate the following result:
 
 The `raw` tag allows the output of Liquid code on a page without having it parsed and implemented. This tag is useful for generating content that uses conflicting client-side syntax, such as Handlebars.
 
-```xml
+```twig
 Hello, {% raw %}{{ user.fullname }}.{% endraw %} Nice to meet you.
 ```
 
@@ -62,7 +70,7 @@ Notice how `user.fullname` is rendered explicitly instead of being processed as 
 
 ### Include tag
 
-The `include` tag includes the contents of one template in another, by name. This tag allows for the reuse of common template fragments in multiple places, for example, rendering of social links. The included template will have access to any variables that are defined in the parent template, and it is possible to pass parameters.
+The `include` tag includes the contents of one template in another, by name. This tag allows for the reuse of common template fragments in multiple places, for example, rendering of social links. The included template will have access to any variables that are defined in the parent template, and it's possible to pass parameters.
 
 ```xml
 {% include 'Breadcrumbs', separator: '>' %}
@@ -76,13 +84,13 @@ By using the `block` tag, you can define a block within a template, which define
 
 ### Extend tag
 
-When used in conjunction with the `block` tag, the `extend` tag provides template inheritance. This tag allows multiple templates to use a shared layout while overriding specific areas of the parent layout. When `extends` is used, it must be the first content in the template and can only be followed by one or more block tags.
+When used with the `block` tag, the `extend` tag provides template inheritance. This tag allows multiple templates to use a shared layout while overriding specific areas of the parent layout. When `extends` is used, it must be the first content in the template and can only be followed by one or more block tags.
 
 #### Base template
 
 The base template logic is as follows:
 
-```xml
+```twig
 <div>
 Hello
 {% block content %}default content{% endblock %}
@@ -93,7 +101,7 @@ Hello
 
 The child template logic is as follows:
 
-```xml
+```twig
 {% extends 'Base Template' %}
 {% block content %}Power Apps portals{% endblock%}
 ```
@@ -115,7 +123,7 @@ For a comprehensive Liquid code sample that demonstrates template inheritance wi
 
 The following steps will help you improve template structure and make the web templates more manageable: 
 
-- Choose descriptive names for your templates because they will be referenced or included as part of other templates.
+- Choose descriptive names for your templates because they'll be referenced or included as part of other templates.
 
 - Break down the page layout and separate layout from content. These layouts will be candidates for extendable templates.
 
@@ -129,7 +137,7 @@ The following steps will help you improve template structure and make the web te
 
 - Identify editable fragments. Determine which parts of the webpage where you want users to be responsible for content management and maintenance.
 
-- Be generous with the layout when you are writing a template, but avoid excessive blank lines by using hyphens in your tags, for example: 
+- Be generous with the layout when you're writing a template, but avoid excessive blank lines by using hyphens in your tags, for example: 
 
   ```xml
   {%- if username -%}
@@ -139,10 +147,9 @@ The following steps will help you improve template structure and make the web te
 
 - Use the `comments` tag to describe complex parts of the template.
 
-- Study templates that are already deployed with the starter portal and look for Liquid techniques in [Create advanced templates for portals](/power-apps/maker/portals/liquid/create-custom-template/?azure-portal-true).
+- Study templates that are already deployed with the starter portal and look for Liquid techniques in [Create advanced templates for portals](/power-apps/maker/portals/liquid/create-custom-template/?azure-portal=true).
 
-Numerous ready-to-use Liquid templates are installed when you provision a starter portal: [Built-in web templates](/power-apps/maker/portals/liquid/store-content-web-templates?azure-portal-true#built-in-web-templates). Their names are fixed, and the templates are not available for editing.
+Numerous ready-to-use Liquid templates are installed when you provision a starter portal: [Built-in web templates](/power-apps/maker/portals/liquid/store-content-web-templates?azure-portal=true#built-in-web-templates). Their names are fixed, and the templates aren't available for editing.
 
-For more information, see [Work with Liquid templates](/power-apps/maker/portals/liquid/liquid-overview/?azure-portal-true).
-
+For more information, see [Work with Liquid templates](/power-apps/maker/portals/liquid/liquid-overview/?azure-portal=true).
 
