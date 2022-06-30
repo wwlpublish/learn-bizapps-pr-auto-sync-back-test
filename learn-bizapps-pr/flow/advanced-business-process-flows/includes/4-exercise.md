@@ -31,11 +31,14 @@ the changes are saved and ready to use.
     > Power Apps, select your environment, expand **Data** and select **Tables**
     > to see the modern UI.
 
-1. Select the **Add column** button in the ribbon above the fields that are shown for
-  the **Customer Check In** entity, as shown in the following figure, and then add the following
-  fields.
+1. In **Schema**, select **Columns**
 
     ![Screenshot of Power Apps Solutions > Default Solution > Customer Check In page with the Add field button highlighted.](../media/14-add-field-customer-check-entity.png)
+
+1. Select the **+ New column** button in the ribbon above the fields, as shown in the following figure, and then add the following
+  fields.
+
+    ![Screenshot of the new column button in the tables view.](../media/new-column.png)
 
     - Smog Pump Intact - Yes/No - Set Yes as default
 
@@ -75,10 +78,6 @@ the changes are saved and ready to use.
 
       - Bitcoin
 
-    After you’ve created the new fields, select the **Save Table** button and then
-    close the screen and return to the **Business process flow** designer. Refresh the designer to ensure your newly created columns can be used.
-
-    ![Screenshot of Power Apps Solutions > Default Solution > Customer Check In page on the Fields tab with the Save Entity button highlighted.](../media/16-save-entity.png)
 
 1. Select the **Condition** flow control under the **Components** tab and then drag
 it to the right of the **Customer Check In** stage, as shown in the following image.
