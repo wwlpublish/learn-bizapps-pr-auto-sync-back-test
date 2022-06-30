@@ -2,7 +2,7 @@ The **Page Template** table has a setting that specifies whether the page should
 
 ![Page template setting to use site header and footer](../media/3-page-template.png)
 
-When the website header and footer are not used, the template assumes responsibility for generating the entire page output. In the case when you're rendering HTML, this output includes everything from the doctype to the root `<html>` tags, and everything in between. This approach could be useful in a couple different scenarios:
+When the website header and footer aren't used, the template assumes responsibility for generating the entire page output. In the case when you're rendering HTML, this output includes everything from the doctype to the root `<html>` tags, and everything in between. This approach could be useful in a couple different scenarios:
 
 - Special purpose pages need to appear different from the rest of the portal, for example, marketing campaign landing pages.
 
@@ -11,20 +11,20 @@ When the website header and footer are not used, the template assumes responsibi
 For example, you can create a web template that returns a list of accounts, or any other data that the current user has access to, in `json` format. 
 
 ```twig
-{% tableview logical_name:'account', name:'Active Accounts' %}
+{% entityview logical_name:'account', name:'Active Accounts' %}
 [
-{% for acc in tableview.records -%}
+{% for acc in entityview.records -%}
     {
         "name": "{{ acc.name }}",
         "phone": "{{ acc.telephone1 }}"
     }{% unless forloop.last %},{% endunless %}
 {% endfor -%}
 ]
-{% endtableview %}
+{% endentityview %}
 ```
 
 > [!NOTE]
-> In this example, instead of the `tableview` tag,  you can use a FetchXML query inside the `fetchxml` tag. Using inline FetchXML adds some flexibility to the query. The query can be built dynamically by using template parameters or even a `request` object that contains query string parameters of a current HTTP page request.
+> In this example, instead of the `entityview` tag,  you can use a FetchXML query inside the `fetchxml` tag. Using inline FetchXML adds some flexibility to the query. The query can be built dynamically by using template parameters or even a `request` object that contains query string parameters of a current HTTP page request.
 
 This template would be used without a header and footer, with the MIME type set to `application/json`. The output would be similar to the following example:
 
@@ -52,6 +52,9 @@ This template would be used without a header and footer, with the MIME type set 
   }
 ]
 ```
+
+> [!TIP]
+> Consider using Portals Web API for the data retrieval where applicable. Portal Web API is fast and avoids server-side template processing altogether. However, if any data transformation is required, it needs to be done using JavaScript on the client side. Liquid templates, on the other hand, can transform and use the data entirely on the server side. For more information, see [Portals read operations using the Web API](/power-apps/maker/portals/read-operations/?azure-portal=true).
 
 The page that uses this web template wouldn't be used by people who are in a browser; instead, it will be called from JavaScript code, effectively defining an API endpoint for your solution. JavaScript on another page would be able to load and render this data as required.
 

@@ -37,7 +37,7 @@ If the site requires other customizations, then the **Edit CSS** feature can be 
 
 When the **Enable basic theme** feature is off, you can only apply customizations by editing existing or adding new CSS files. 
 
-Any starter portal has many files that are already included as child web files on the home page: `bootstrap.min.css` and `theme.css`. These files define default styles and a theme for your entire portal. More stylesheets can be uploaded and edited. For more information, see [Edit CSS](https://docs.microsoft.com/en-us/power-apps/maker/portals/edit-css).
+Any starter portal has many files that are already included as child web files on the home page: `bootstrap.min.css` and `theme.css`. These files define default styles and a theme for your entire portal. More stylesheets can be uploaded and edited. For more information, see [Edit CSS](/power-apps/maker/portals/edit-css/?azure-portal=true).
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of themes editing options from toolbelt for CSS code.](../media/css-edit.png)](../media/css-edit.png#lightbox)

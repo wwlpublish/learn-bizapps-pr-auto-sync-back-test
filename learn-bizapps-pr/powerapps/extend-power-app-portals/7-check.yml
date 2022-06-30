@@ -31,41 +31,41 @@ quiz:
     choices: 
     - content: Use business rules on the model-driven form.
       isCorrect: false 
-      explanation: Business rules on the model-driven form will not apply to the portal. A JavaScript function would work, but it is not the most efficient method. Hiding the column on the form designer will not set the default value. An Table Form Metadata record has the ability to set a default value and hide the column by using the CSS class value of "hide."
+      explanation: Business rules on the model-driven form won't apply to the portal. A JavaScript function would work, but it isn't the most efficient method. Hiding the column on the form designer won't set the default value. A Table Form Metadata record has the ability to set a default value and hide the column by using the CSS class value of "hide."
     - content: Create a JavaScript function.
       isCorrect: false 
-      explanation: Business rules on the model-driven form will not apply to the portal. A JavaScript function would work, but it is not the most efficient method. Hiding the column on the form designer will not set the default value. An Table Form Metadata record has the ability to set a default value and hide the column by using the CSS class value of "hide."
+      explanation: Business rules on the model-driven form won't apply to the portal. A JavaScript function would work, but it isn't the most efficient method. Hiding the column on the form designer won't set the default value. A Table Form Metadata record has the ability to set a default value and hide the column by using the CSS class value of "hide."
     - content: Hide the column on the model-driven form designer.
       isCorrect: false 
-      explanation: Business rules on the model-driven form will not apply to the portal. A JavaScript function would work, but it is not the most efficient method. Hiding the column on the form designer will not set the default value. An Table Form Metadata record has the ability to set a default value and hide the column by using the CSS class value of "hide."
+      explanation: Business rules on the model-driven form won't apply to the portal. A JavaScript function would work, but it isn't the most efficient method. Hiding the column on the form designer won't set the default value. A Table Form Metadata record has the ability to set a default value and hide the column by using the CSS class value of "hide."
     - content: Create Basic Form Metadata record to set the default value and CSS class values.
       isCorrect: true 
-      explanation: Business rules on the model-driven form will not apply to the portal. A JavaScript function would work, but it is not the most efficient method. Hiding the column on the form designer will not set the default value. An Table Form Metadata record has the ability to set a default value and hide the column by using the CSS class value of "hide."
-  - content: You have configured a Power Apps portal on a development environment and you need to move the configuration to your test environment. What tool would you use to accomplish this task?
+      explanation: Business rules on the model-driven form won't apply to the portal. A JavaScript function would work, but it isn't the most efficient method. Hiding the column on the form designer won't set the default value. A Table Form Metadata record has the ability to set a default value and hide the column by using the CSS class value of "hide."
+  - content: You've configured a Power Apps portal on a development environment and you need to move the configuration to your test environment. What tool would you use to accomplish this task?
     choices: 
     - content: Power Apps portals admin center
       isCorrect: false 
-      explanation: The Power Apps portals admin center does not have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Power Platform CLI can export and import portal metadata. Microsoft Dataverse solutions do not include portal metadata.
+      explanation: The Power Apps portals admin center doesn't have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Power Platform CLI can export and import portal metadata. Microsoft Dataverse solutions don't include portal metadata.
     - content: Export and Import Excel files
       isCorrect: false 
-      explanation: The Power Apps portals admin center does not have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Power Platform CLI can export and import portal metadata. Microsoft Dataverse solutions do not include portal metadata.
+      explanation: The Power Apps portals admin center doesn't have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Power Platform CLI can export and import portal metadata. Microsoft Dataverse solutions don't include portal metadata.
     - content: Power Platform CLI
       isCorrect: true 
-      explanation: The Power Apps portals admin center does not have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Power Platform CLI can export and import portal metadata. Microsoft Dataverse solutions do not include portal metadata.
+      explanation: The Power Apps portals admin center doesn't have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Power Platform CLI can export and import portal metadata. Microsoft Dataverse solutions don't include portal metadata.
     - content: Export and Import the Dataverse solution
       isCorrect: false 
-      explanation: The Power Apps portals admin center does not have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Power Platform CLI can export and import portal metadata. Microsoft Dataverse solutions do not include portal metadata.
+      explanation: The Power Apps portals admin center doesn't have tools to migrate portal metadata. Exporting and Importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Power Platform CLI can export and import portal metadata. Microsoft Dataverse solutions don't include portal metadata.
   - content: You need to apply different background color to all pages in the `/products` section of your Power Apps portal. How would you accomplish this task? 
     choices: 
     - content: Add JavaScript to the portal that would use page URL to dynamically modify page styles.
       isCorrect: false 
-      explanation: Javascript is not required for style changes. CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section is not a feasible approach. Styles can be applied to individual pages as well as entire sections of a portal.
+      explanation: JavaScript isn't required for style changes. CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section isn't a feasible approach. Styles can be applied to individual pages and entire sections of a portal.
     - content: Create Web File record under `/products` page and upload CSS file with the required color changes.
       isCorrect: true 
-      explanation: Javascript is not required for style changes. CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section is not a feasible approach. Styles can be applied to individual pages as well as entire sections of a portal.
+      explanation: JavaScript isn't required for style changes. CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section isn't a feasible approach. Styles can be applied to individual pages and entire sections of a portal.
     - content: Edit all pages in the section and add inline CSS instructions to every page.
       isCorrect: false 
-      explanation: Javascript is not required for style changes. CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section is not a feasible approach. Styles can be applied to individual pages as well as entire sections of a portal.
-    - content: Styles always apply to the entire site and you cannot style just a section of the site.
+      explanation: JavaScript isn't required for style changes. CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section isn't a feasible approach. Styles can be applied to individual pages and entire sections of a portal.
+    - content: Styles always apply to the entire site and you can't style just a section of the site.
       isCorrect: false 
-      explanation: Javascript is not required for style changes. CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section is not a feasible approach. Styles can be applied to individual pages as well as entire sections of a portal.
+      explanation: JavaScript isn't required for style changes. CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section isn't a feasible approach. Styles can be applied to individual pages and entire sections of a portal.

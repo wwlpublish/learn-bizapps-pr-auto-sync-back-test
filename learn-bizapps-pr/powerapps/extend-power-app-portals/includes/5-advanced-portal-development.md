@@ -24,16 +24,16 @@ For more information, see [Use code components in portals](/power-apps/maker/por
 
 Pro developers can use portals Web API to interact with Dataverse data directly from JavaScript and create a richer user experience inside portal pages. You can use the Web API to perform create, read, update, and delete operations across all Microsoft Dataverse tables.
 
-The data is protected by using a combination of web roles as well as table and column permissions to ensure that portal visitors only have the appropriate access to Dataverse rows and columns.
+The data is protected by using a combination of web roles and table and column permissions to ensure that portal visitors only have the appropriate access to Dataverse rows and columns.
 
 For more information, see [Overview of portals Web API ](/power-apps/maker/portals/web-api-overview/?azure-portal=true).
 
 ## Companion apps and services
 
-Situations might occur where you want to communicate securely with external services while maintaining the security context, such as when you are processing online payments. Power Apps portals enables this scenario by providing support for [OAuth 2.0 implicit grant flow within your portal](/power-apps/maker/portals/oauth-implicit-grant-flow/?azure-portal=true).
+Situations might occur where you want to communicate securely with external services while maintaining the security context, such as when you're processing online payments. Power Apps portals enables this scenario by providing support for [OAuth 2.0 implicit grant flow within your portal](/power-apps/maker/portals/oauth-implicit-grant-flow/?azure-portal=true).
 
 This feature allows a customer to make client-side calls to external APIs and secure them by using OAuth implicit grant flow. This method helps ensure that the identity information of a signed-in user is passed in a secured manner to the external calls.
 
 In this scenario, you build a custom web application and Power Apps portals would communicate to this application by using JavaScript to call the API.  
 
-CSS and JavaScript enable a number of integration and extensibility scenarios that range from simple UI adjustments, to validation and data input, to sophisticated client-side applications that interact with other services.
+CSS and JavaScript enable many integration and extensibility scenarios that range from simple UI adjustments, to validation and data input, to sophisticated client-side applications that interact with other services.

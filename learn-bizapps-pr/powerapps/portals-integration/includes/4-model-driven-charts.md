@@ -10,16 +10,16 @@ Two parameters are available for you to provide with the `chart` tag:
 
 - **id** - Visualization identifier of the chart. You can get this parameter by exporting the chart.
 
-- **viewid** - Table view identifier when it is opened in the model-driven view editor. If it's not specified, the default view will be used.
+- **viewid** - Table view identifier when it's opened in the model-driven view editor. If it's not specified, the default view will be used.
 
-Showing a model-driven chart in Power Apps portals doesn't require additional configuration. Only system charts and system views are supported in configuration.
+Showing a model-driven chart in Power Apps portals doesn't require more configuration. Only system charts and system views are supported in configuration.
 
 - To obtain the `chart id`, export the chart definition from a model-driven app and then look for `visualizationid` in the exported chart file.
 - To obtain the `viewid`, start customizing the view and then copy the view ID from the URL.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4Avkv]
 
-To allow users to view the chart, ensure that the appropriate **Table Permission** records are created and assigned to applicable web roles to allow read data from the target table. If permission is not granted, the user will see an access denied message.
+To allow users to view the chart, ensure that the appropriate **Table Permission** records are created and assigned to applicable web roles to allow read data from the target table. If permission isn't granted, the user will see an access denied message.
 
 > [!NOTE]
 > Different users might see different resulting charts based on their specific table permissions.
