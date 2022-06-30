@@ -38,7 +38,7 @@ The high-level steps are as follows:
 
 1. Run the Portal Checker.
 
-1. Note the warning for Header Output cache has been cleared.
+1. Make a note of the warning for the Header Output cache has been cleared.
 
 ## Detailed instructions
 
@@ -46,16 +46,16 @@ The high-level steps are as follows:
 
 1. Sign in to the [Power Apps maker portal](https://make.powerapps.com/?azure-portal=true).
 
-1. Make sure that the correct environment is selected in the environment selector in the upper-right corner.
+1. Make sure that the correct environment that has the portal provisioned is selected in the environment selector in the upper-right corner.
 
 1. From the **Apps** list, select the **Portal Management** app to open the app in a new window.
 
-1. Select **Site Settings**.
+1 Select **Site Settings**.
 
 1. Locate the `Header/OutputCache/Enabled` site setting.
 
    > [!TIP]
-   > Use search functionality and look for **header** to quickly locate the row.
+   > Use the search functionality and look for **header** to quickly locate the row.
 
 1. Update the value to **False**, and then select **Save**.
 
@@ -65,7 +65,7 @@ The high-level steps are as follows:
 
 ### Clear portal cache
 
-1. In a new window or tab sign-in to the [Microsoft Power Platform admin center](https://admin.powerplatform.microsoft.com/?azure-portal=true).
+1. In a new window or tab, sign in to the [Microsoft Power Platform admin center](https://admin.powerplatform.microsoft.com/?azure-portal=true).
 
 1. In the left pane, expand **Resources** and then select **Portals**.
 
@@ -81,9 +81,9 @@ The high-level steps are as follows:
 
 ### Run Portal Checker
 
-1. Select **Manage** on the command bar then select **Run Portal Checker** shortcut.
+1. Select **Manage** on the command bar, then select **Run Portal Checker** shortcut.
 
-1. The Power Apps portals admin center will open with **Run Portal Checker** option preselected.
+1. The Power Apps portals admin center will open with the **Run Portal Checker** option preselected.
 
 1. On the screen, select the **Run Portal Checker** button.
 

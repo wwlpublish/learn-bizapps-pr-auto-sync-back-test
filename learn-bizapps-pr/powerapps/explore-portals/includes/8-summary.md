@@ -2,7 +2,7 @@ Power Apps portals provide a great way for an external audience to view and inte
 
 In this module, you looked at various ways to get started using Power Apps portals and features, including:
 
-- How to select a particular audience and workload before provisioning a Power Apps portal. 
+- How to select a particular audience and workload before provisioning a Power Apps portal.
 
 - The available portal templates for Dataverse environments, with and without Dynamics 365 enabled.
 
@@ -14,7 +14,7 @@ In this module, you looked at various ways to get started using Power Apps porta
 
 - Where organizations with a partner or reseller network can use the Partner portal to allow partners to manage accounts, contacts, and opportunities and to browse published knowledge articles and submit partner support cases.
 
-- That the Custom portal and Portal from blank templates provide an option to extend unique line-of-business applications to external audiences and provide another key aspect to Microsoft Power Platform.
+- That the Blank website portal template provide an option to extend unique line-of-business applications to external audiences and provide another key aspect to Microsoft Power Platform.
 
 ## Next steps
 
