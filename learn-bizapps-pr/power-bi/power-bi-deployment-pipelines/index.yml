@@ -13,7 +13,7 @@ summary: |
   [!include[](../includes/module-banner.md)] 
   Deployment pipelines enable creators to develop and test Power BI content in the Power BI service before the content is made available for consumption by users. It offers creators improved productivity, faster delivery of content updates, and reduced manual work and errors. The tool is designed as a pipeline with three stages: development, test, and production. 
 abstract: |  
-    In this module, you will: 
+    By the end of this module, you’ll be able to: 
     - Articulate the benefits of deployment pipelines
     -	Create a deployment pipeline using Premium workspaces
     -	Assign and deploy content to pipeline stages
