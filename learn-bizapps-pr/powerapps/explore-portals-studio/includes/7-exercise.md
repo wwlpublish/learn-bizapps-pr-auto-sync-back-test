@@ -30,7 +30,7 @@ To launch the Power Apps portals Studio, follow these steps:
 1. Select your portal app (Type = Portal).
 1. Select **Edit**, which will launch the portals Studio.
 
-![Screenshot of steps to launch portals studio in makers environment.](../media/launch-portals-studio.png)
+   ![Screenshot of steps to launch portals Studio in makers environment.](../media/launch-portal-studio.png)
 
 ### Locate the webpage
 
@@ -39,7 +39,7 @@ To locate the webpage, follow these steps:
 1. Select **New page**.
 1. Select **Landing page** layout.
 
-![Screenshot of the create page with landing page payout.](../media/create-page.png)
+   ![Screenshot of the create page with landing page layout.](../media/create-page.png)
 
 ### Edit source code
 
@@ -49,9 +49,9 @@ To edit the source code, follow these steps:
 
 1. Select the **Source code editor** (**</>**) icon.
 
-	![Screenshot of the select column in the first section and open source code.](../media/select-first-section.png)
+    ![Screenshot of the select column in the first section and open source code.](../media/select-first-section.png)
 
-1. Insert the following HTML code into the content of the first column: 
+1. Insert the following HTML code into the content of the first column:
 
     ```html
     <h2>This is a large header title</h2>
@@ -61,14 +61,15 @@ To edit the source code, follow these steps:
     <p style="font-size: xxx-large;">This is big text!</p>
     ```
 
-	![Screenshot of the custom HTML being added to the content of the webpage.](../media/append-html.png)
+    ![Screenshot of the custom H T M L being added to the content of the webpage.](../media/append-html.png)
 
 1. Select **Save**.
 
-	![Screenshot of the save inserted HTML.](../media/save-added-html.png)
+    ![Screenshot of the save inserted H T M L.](../media/save-added-html.png)
 
 You should see the formatted text on the canvas.
-![Screenshot of the html added.](../media/html-added.png)
+
+![Screenshot of the H T M L added.](../media/html-added.png)
 
 ### View the webpage
 
