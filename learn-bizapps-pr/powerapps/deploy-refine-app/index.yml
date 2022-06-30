@@ -11,7 +11,7 @@ metadata:
 title: Deploy and refine your app like a pro
 summary: |
   [!include[](../includes/module-banner.md)]
-  Your app has been tested and is ready to go. Now, it's time to deploy and share it with your users. After apps have been deployed, it's common for them to evolve and improve over time. As people begin using the app, you can expect requests for new features or fixes or to accommodate a business process that has changed.
+  Your app has been tested and is ready to go. Now, it's time to deploy and share it with your users. After apps have been deployed, it's common for them to evolve and improve over time. As people begin using the app, you can expect them to request new features or fixes or for you to accommodate a business process that has changed.
 abstract: |
     In this module, you'll:
     - Deploy your app and help users discover it.
