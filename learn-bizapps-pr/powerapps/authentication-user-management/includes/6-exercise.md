@@ -157,7 +157,7 @@ To create and send the invitation, follow these steps:
    ![Screenshot of the Create and send invitation steps.](../media/create-send-invitation.png)
 
    > [!TIP]
-   > If you don't see **Send Invitation** under the **Flow** menu, select **See your flows** first, refresh the window, then try accessing thee **Flow** menu again.
+   > If you don't see **Send Invitation** under the **Flow** menu, select **See your flows** first, refresh the window, then try accessing the **Flow** menu again.
 
 ### Redeem the invitation
 

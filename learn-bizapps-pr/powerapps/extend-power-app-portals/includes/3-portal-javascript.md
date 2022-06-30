@@ -29,8 +29,8 @@ $(document).ready
 > [!NOTE]
 > Blank website template uses **feedback** table and a column **title**. Other portals may use different table (e.g. **lead**) and different column (e.g. **subject**). Check  **Contact Us** page and form used in your portal and change the script if required.
 
-[!div class="mx-imgBorder"]
-[![Screenshot of script added to the source code of the page.](../media/javascript-page.png)](../media/javascript-page.png#lightbox)
+> [!div class="mx-imgBorder"]
+> [![Screenshot of script added to the source code of the page.](../media/javascript-page.png)](../media/javascript-page.png#lightbox)
 
 Select **Browse website**. New window with **Contact Us** form should open, with the **Topic** column prepopulated and hidden.
 
