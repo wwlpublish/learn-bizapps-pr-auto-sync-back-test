@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-deployment-pipelines.deploy-content 
+title: Deploy content
+metadata: 
+  title: Deploy content
+  description: The deployment process lets you clone content from one stage in the pipeline to another, typically from development to test, and from test to production.
+  ms.date: 07/08/2022 
+  author: Heyrob 
+  ms.author: Robde 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-bi 
+durationInMinutes: 6
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/deploy-content.md)] 
