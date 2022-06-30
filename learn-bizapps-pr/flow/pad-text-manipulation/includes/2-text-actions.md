@@ -8,9 +8,13 @@ To retrieve a specific portion of a text or list of text values use the **Get su
 
 ![Screenshot of the get subtext action properties.](..\media\get-subtext-action-properties.png)
 
-Pad text by adding a whitespace, word or phrase before or after the text or a list of text values with the **Pad text** action. The action adds the specified characters to the text so that the resulting text reaches the specified length. Optionally, enter the text value to pad, or the characters that are used to pad the text value, as variables. The action stores the padded text a new text variable.
+Pad text by adding whitespace, a word or phrase before or after the text or a list of text values with the **Pad text** action. The action adds the specified characters to the text so that the resulting text reaches the specified length. Optionally, enter the text value to pad, or the characters that are used to pad the text value, as variables. The action stores the padded text a new text variable.
 
 ![Screenshot of the pad text action properties.](..\media\pad-text-action-properties.png)
+
+Reverse text reverses the order of letters in a text string. 
+
+![Screenshot of the pad text action properties.](..\media\pad-reverse-text-action.png)
 
 To remove whitespace from a text string, use the **Trim text** action. Trim whitespaces from the beginning of a text string, the end of a text string, or both.
 
@@ -37,7 +41,7 @@ To ensure that numbers are stored as numerical values, use the **Convert text to
 
 ![Screenshot of the convert text to number action properties.](..\media\convert-text-to-number-action-properties.png)
 
-The **Convert number to text** action to performs the reverse conversion. Enter a number or a numeric variable to convert to a text variable. Set the number of decimal places to include, and configure the digit grouping options.
+The **Convert number to text** action performs the reverse conversion. Enter a number or a numeric variable to convert to a text variable. Set the number of decimal places to include, and configure the digit grouping options.
 
 Use the **Convert datetime to text** action to convert a datetime value to text. This action's properties contain several options regarding the format of the datetime input. For example, convert a  **datetime** variable that was created with the **Get current date and time** action to text using this action.
 
