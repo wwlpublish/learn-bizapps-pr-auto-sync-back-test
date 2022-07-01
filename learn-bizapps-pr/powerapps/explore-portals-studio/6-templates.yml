@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.explore-portals-studio.6-templates 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.explore-portals-studio.6-templates
 title: Web templates
-metadata: 
-  title: Web templates 
-  description: Learn about web templates.  
-  ms.date: 06/23/2022
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps-portals 
-durationInMinutes: 3 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/6-templates.md)] 
+metadata:
+  title: Web templates
+  description: Learn about web templates.
+  ms.date: 06/30/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps-portals
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/6-templates.md)]
