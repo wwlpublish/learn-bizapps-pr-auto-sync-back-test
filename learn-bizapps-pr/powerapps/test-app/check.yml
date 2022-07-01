@@ -15,34 +15,34 @@ quiz:
   questions: 
   - content: Which of the following test types is performed programmatically within fractions of a second?
     choices: 
-    - content: User Acceptance
+    - content: User acceptance
       isCorrect: false 
-      explanation: Incorrect. This test takes time, and it is to ensure that what has been built by the makers matches the requirements initially requested by the user.
+      explanation: Incorrect. User acceptance testing (UAT) takes time, and it's to ensure that the app that's been built by the makers matches the requirements that the user initially requested.
     - content: Unit
       isCorrect: true 
-      explanation: Correct. These tests are repeatable and run programmatically within fractions of a second.
-    - content: End-to-End
+      explanation: Correct. Unit tests are repeatable and run programmatically within fractions of a second.
+    - content: End-to-end
       isCorrect: false 
-      explanation: Incorrect. These tests are done by following a test scenario that\'s close to the use case of the actual business process.
-  - content: Which of the following tools can be used to write, organize, and automate tests for canvas apps?
+      explanation: Incorrect. End-to-end tests are done by following a test scenario that's close to the use case of the actual business process.
+  - content: Which of the following tools can you use to write, organize, and automate tests for canvas apps?
     choices: 
-    - content: Solution Checker
+    - content: Solution checker
       isCorrect: false 
-      explanation: Incorrect. Solution checker is a tool that allows you to perform static analysis check on your solutions against a set of best practice rules and quickly identify these problematic patterns.
+      explanation: Incorrect. Solution checker is a tool that allows you to perform a static analysis check on your solutions against a set of best practice rules and then quickly identify these problematic patterns.
     - content: EasyRepro
       isCorrect: false 
-      explanation: Incorrect. It's a testing tool, but doesn't write, organize, and automate tests for canvas apps.
+      explanation: Incorrect. EasyRepro is a testing tool, but it doesn't write, organize, and automate tests for canvas apps.
     - content: Test Studio
       isCorrect: true 
       explanation: Correct. You can use Test Studio to write, organize, and automate tests for canvas apps.
-  - content: Which of the following components is analyzed by the Solution Checker?
+  - content: Which of the following components is analyzed by the solution checker?
     choices: 
     - content: Web resources
       isCorrect: true 
-      explanation: Correct. Solution Checker analyzes web resource components.
-    - content: Power Pages
+      explanation: Correct. Solution checker analyzes web resource components.
+    - content: Power pages
       isCorrect: false 
-      explanation: Incorrect. The solution checker analyzes three solution components, but this isn't one of them.
-    - content: Dataverse Themes
+      explanation: Incorrect. The solution checker analyzes three solution components, but Power pages isn't one of them.
+    - content: Dataverse themes
       isCorrect: false 
-      explanation: Incorrect. The solution checker analyzes three solution components, but this isn't one of them.
+      explanation: Incorrect. The solution checker analyzes three solution components, but Dataverse themes isn't one of them.
