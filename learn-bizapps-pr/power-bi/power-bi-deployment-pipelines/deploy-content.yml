@@ -4,7 +4,7 @@ title: Deploy content
 metadata: 
   title: Deploy content
   description: The deployment process lets you clone content from one stage in the pipeline to another, typically from development to test, and from test to production.
-  ms.date: 07/08/2022 
+  ms.date: 07/01/2022 
   author: Heyrob 
   ms.author: Robde 
   ms.topic: interactive-tutorial 

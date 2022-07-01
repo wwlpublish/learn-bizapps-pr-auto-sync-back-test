@@ -3,7 +3,7 @@ uid: learn-bizapps.power-bi-deployment-pipelines
 metadata: 
  title: Create and manage a Power BI deployment pipeline
  description: The deployment pipelines tool enables Power BI creators to manage the development lifecycle of organizational content.
- ms.date: 07/08/2022  
+ ms.date: 07/01/2022  
  author: Heyrob  
  ms.author: Robde  
  ms.topic: interactive-tutorial  
