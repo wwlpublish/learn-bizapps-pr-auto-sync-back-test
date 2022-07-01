@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.explore-portals-studio.2-web-pages 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.explore-portals-studio.2-web-pages
 title: Work with webpages
-metadata: 
-  title: Work with webpages 
-  description: Learn about working with webpages.  
-  ms.date: 06/23/2022 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps-portals 
-durationInMinutes: 3 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/2-web-pages.md)] 
+metadata:
+  title: Work with webpages
+  description: Learn about working with webpages.
+  ms.date: 06/30/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps-portals
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-web-pages.md)]
