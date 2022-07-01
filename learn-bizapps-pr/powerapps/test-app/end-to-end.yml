@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.test-app.end-to-end 
-title: End-to-end tests scenarios and best practices
+title: End-to-end test scenarios and best practices
 metadata: 
-  title: End-to-end tests scenarios and best practices
-  description: Learn about end-to-end tests scenarios and best practices.
+  title: End-to-end test scenarios and best practices
+  description: Learn about end-to-end test scenarios and best practices.
   ms.date: 06/30/2022 
   author: jadaphillips 
   ms.author: jadaphillips 
