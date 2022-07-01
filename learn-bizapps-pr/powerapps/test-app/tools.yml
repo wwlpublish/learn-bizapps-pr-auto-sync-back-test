@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.test-app.tools 
-title: Tools available to help you test canvas and model-driven apps
+title: Tools for testing canvas and model-driven apps
 metadata: 
-  title: Tools available to help you test canvas and model-driven apps
-  description: Learn about tools available to help you test canvas and model-driven apps.
+  title: Tools for testing canvas and model-driven apps
+  description: Learn about the available tools to help you test canvas and model-driven apps.
   ms.date: 06/30/2022 
   author: jadaphillips 
   ms.author: jadaphillips 
