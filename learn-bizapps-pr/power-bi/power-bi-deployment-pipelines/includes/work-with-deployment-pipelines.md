@@ -13,23 +13,28 @@ When two sequential stages have content, the content is compared based on the co
 > [!div class="mx-imgBorder"]
 > [![Screenshot highlighting compare option between stages. Content is compared based on the content item's metadata.](../media/compare-stages.png)](../media/compare-stages.png#lightbox)
 
-
 To allow a quick visual insight into the differences between two sequential stages, a comparison icon indicator appears between them. The comparison indicator has two states:
 
 > [![Screenshot of the icon that appears if one of these conditions is met. Some of the content items in each stage were changed or updated (have different metadata). There is a difference in the number of items between the stages.](../media/deny-symbol.png)](../media/deny-symbol.png#lightbox)
 
+Appears if one of these conditions is met:
+- Some of the content items in each stage, were changed or updated (have different metadata).
+- There is a difference in the number of items between the stages.
+
 > [![Screenshot of the icon that shows the metadata for each content item in both stages is the same.](../media/approve-symbol.png)](../media/approve-symbol.png#lightbox)
+
+The metadata for each content item in both stages, is the same.
 
 When two sequential stages aren't the same, a link appears underneath the orange comparison icon. Clicking the link opens the content item list in both stages in Compare view. Compare view helps you track changes or differences between items, in each pipeline stage. Changed items get one of the following labels:
 
 |     NEW    |     DIFFERENT    |     MISSING    |
 |---|---|---|
+|   [![When a new item get added in source stage.](../media/four.png)](../media/four.png#lightbox) |  [![An item that exists both in the source and the target stage.](../media/one.png)](../media/one.png#lightbox)  |  [![This label indicates that an item   appears in the target stage, but not in the source stage.](../media/three.png)](../media/three.png#lightbox)   |
 |     A new item in the source stage.   This item doesn't exist in the target stage. After deployment,   this item will be cloned to the target stage.    |     An item that exists both in the source   and the target stage, where one of the versions was changed after the last   deployment. After deployment, the item in the source stage will overwrite the   item in the target stage, regardless of where the change was made.    |     This label indicates that an item   appears in the target stage, but not in the source stage.    |
 
- 
+
 > [!div class="mx-imgBorder"]
 > [![Screenshot highlighting comparision between Test stage and production stage.](../media/deploy-production.png)](../media/deploy-production.png#lightbox)
-
 
 ## Deployment rules enable customization of stages
 
