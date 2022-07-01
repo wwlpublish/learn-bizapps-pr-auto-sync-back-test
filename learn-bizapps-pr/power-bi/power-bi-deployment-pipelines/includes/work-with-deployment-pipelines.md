@@ -15,15 +15,20 @@ When two sequential stages have content, the content is compared based on the co
 
 To allow a quick visual insight into the differences between two sequential stages, a comparison icon indicator appears between them. The comparison indicator has two states:
 
-> [![Screenshot of the icon that appears if one of these conditions is met. Some of the content items in each stage were changed or updated (have different metadata). There is a difference in the number of items between the stages.](../media/deny-symbol.png)](../media/deny-symbol.png#lightbox)
 
-Appears if one of these conditions is met:
-- Some of the content items in each stage, were changed or updated (have different metadata).
-- There is a difference in the number of items between the stages.
 
-> [![Screenshot of the icon that shows the metadata for each content item in both stages is the same.](../media/approve-symbol.png)](../media/approve-symbol.png#lightbox)
 
-The metadata for each content item in both stages, is the same.
+
+
+
+
+
+
+|   |   |
+|---|---|
+[![Screenshot of the icon that appears if one of these conditions is met. Some of the content items in each stage were changed or updated (have different metadata). There is a difference in the number of items between the stages.](../media/deny-symbol.png)](../media/deny-symbol.png#lightbox)  |  Appears if one of these conditions is met: 1) Some of the content items in each stage, were changed or updated (have different metadata), or 2) There is a difference in the number of items between the stages.
+[![Screenshot of the icon that shows the metadata for each content item in both stages is the same.](../media/approve-symbol.png)](../media/approve-symbol.png#lightbox)  |  The metadata for each content item in both stages, is the same.
+
 
 When two sequential stages aren't the same, a link appears underneath the orange comparison icon. Clicking the link opens the content item list in both stages in Compare view. Compare view helps you track changes or differences between items, in each pipeline stage. Changed items get one of the following labels:
 
