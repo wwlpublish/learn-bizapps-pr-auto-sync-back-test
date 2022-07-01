@@ -1,13 +1,13 @@
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/]
 
-Your app is built but that doesn't mean it's ready to be released to users, before we do that we need to test it and make sure it works as designed.
+Your app has been built, but it might not be ready to be released to users. Before you release the app, you'll need to test it and make sure that it works as designed.
 
-In this module, you will:
+In this module, you'll:
 
--   Identify the types of testing you can perform on your app
+-   Identify the types of testing that you can complete on your app.
 
--   Plan and complete three types of tests on your app
+-   Plan and complete three types of tests on your app.
 
 ## Prerequisites
 
--   Moderate Power Apps experience
+To complete this module, you'll need to have moderate experience with Microsoft Power Apps.
