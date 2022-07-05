@@ -55,7 +55,7 @@ Below that condition, the model will ask about fuel type on both branches. The t
 
 ### Report node for distance under the true branch
 
-Now, you’ll zoom into the report node for distance in the lower-left of the screen. You’re still pulling data from the Mobile Combustion source, but now a new set of selections are in the dropdown menus on the right.
+Now, you’ll zoom into the report node for distance in the lower-left of the screen. You’re still pulling data from the Mobile Combustion source, but now a new set of selections is in the dropdown menus on the right.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot representing report node under true branch where distance, distance unit, EPA calculation history and vechile type is selected.](../media/node-true-branch.png)](../media/node-true-branch.png#lightbox)

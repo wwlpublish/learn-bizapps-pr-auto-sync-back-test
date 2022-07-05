@@ -38,7 +38,7 @@ Insights screen allow you to conduct a more in-depth analysis of your data by sc
     > [!Note]
     > Some organizations use the calendar year, while others will use fiscal year or an increment other than calendar year as a reporting period.
 
-The reporting period start date is set under the organization unit that’s set up, and it will influence how data is grouped. After a report has been generated, you can download it as an Excel file and then use it for further analysis. 
+The reporting period start date is set under the organization unit that’s set up, and it will influence how data is grouped. After a report has been generated, you can download it as an Excel file, and then use it for further analysis. 
 
 To download a report, follow these steps:
 

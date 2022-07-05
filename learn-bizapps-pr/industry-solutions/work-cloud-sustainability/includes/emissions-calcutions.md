@@ -60,7 +60,7 @@ You can build this model in three steps:
 
 1. Determine the amount of electricity that the organization has purchased.
 
-2. Determine emission factors, which will be datasets on the power-generation mix in relevant regions and times of day.
+2. Determine emission factors, which will be datasets on the power-generation mix-in relevant regions and times of day.
 
 3. Calculate emissions in the profile. 
 

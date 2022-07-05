@@ -39,8 +39,8 @@ subjects:
 - modern-work
 units: 
 - learn-bizapps.work-cloud-sustainability.introduction 
-- learn-bizapps.work-cloud-sustainability.organisation-setup 
-- learn-bizapps.work-cloud-sustainability.organisation-structure 
+- learn-bizapps.work-cloud-sustainability.organization-setup 
+- learn-bizapps.work-cloud-sustainability.organization-structure 
 - learn-bizapps.work-cloud-sustainability.data-ingestion 
 - learn-bizapps.work-cloud-sustainability.reference-data 
 - learn-bizapps.work-cloud-sustainability.data-flow-process 
