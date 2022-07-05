@@ -31,7 +31,7 @@ For more information, see the following articles:
 
 ## Build a basic canvas app
 
-You can build a canvas app to manage data that's stored in Dataverse in relation to the service department by using standard tables (which are built-in, such as **Contact**) and custom tables (which your organization creates, such as **Dive Gear** and **Service Request**).
+You can build a canvas app to manage data that's stored in Dataverse in relation to the service department by using standard tables (which are built in, such as **Contact**) and custom tables (which your organization creates, such as **Dive Gear** and **Service Request**).
 
 When you build an app from Dataverse, you don't need to create a connection from Power Apps as you do with data sources such as SharePoint, Dynamics 365, or Salesforce. You'll only need to specify the tables that you want to show or manage in the app.
 
