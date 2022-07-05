@@ -1,0 +1,58 @@
+### YamlMime:Module 
+uid: learn-bizapps.work-cloud-sustainability 
+metadata: 
+ title: Work with Microsoft Cloud for Sustainability
+ description: This module describes the solution focus areas for Microsoft Sustainability Manager.
+ ms.date: 07/05/2022  
+ author: AshokSudhaMCRSOFT  
+ ms.author: sudhaashok  
+ ms.topic: interactive-tutorial  
+ ms.prod: learning-mscloud-sustainability  
+title: Work with Microsoft Cloud for Sustainability
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module describes the solution focus areas for Microsoft Sustainability Manager. You’ll also learn how Sustainability Manager centralizes disparate data in a common data format and offers organizations a comprehensive view into the emissions impact of their entire operations and value chain. 
+abstract: |  
+    In this module, you will: 
+    - Learn about the different solution focus areas. 
+    -	Discover how several types of data flow through the solution.
+    -	Import data by using different data ingestion methods.
+    -	Learn about the concepts of a model, library, and profile and how they interact with each other.
+    -	Build a calculation model and profile.
+    -	Connect and map activity data and schedule data refresh.
+    -	Review out-of-the-box analytics data. 
+    -	Create scorecards and goals.
+prerequisites: |
+  - Basic knowledge of Microsoft Cloud for Sustainability
+  -	Knowledge of sustainability terminology
+iconUrl: /learn/achievements/work-cloud-sustainability.svg  
+levels:  
+- beginner   
+roles:  
+- functional-consultant  
+- business-user  
+products: 
+- industry-solutions
+- mscloud-sustainability
+subjects: 
+- business-applications
+- modern-work
+units: 
+- learn-bizapps.work-cloud-sustainability.introduction 
+- learn-bizapps.work-cloud-sustainability.organisation-setup 
+- learn-bizapps.work-cloud-sustainability.organisation-structure 
+- learn-bizapps.work-cloud-sustainability.data-ingestion 
+- learn-bizapps.work-cloud-sustainability.reference-data 
+- learn-bizapps.work-cloud-sustainability.data-flow-process 
+- learn-bizapps.work-cloud-sustainability.import-data 
+- learn-bizapps.work-cloud-sustainability.emissions-calcutions 
+- learn-bizapps.work-cloud-sustainability.calculate-mobile-combustion 
+- learn-bizapps.work-cloud-sustainability.connect-activities-using-profiles 
+- learn-bizapps.work-cloud-sustainability.libraries-factors-mapping 
+- learn-bizapps.work-cloud-sustainability.factors-mapping 
+- learn-bizapps.work-cloud-sustainability.analytical-reports 
+- learn-bizapps.work-cloud-sustainability.sustainability-scorecards-goals 
+- learn-bizapps.work-cloud-sustainability.check 
+- learn-bizapps.work-cloud-sustainability.summary 
+badge: 
+  uid: learn-bizapps.work-cloud-sustainability.badge 
