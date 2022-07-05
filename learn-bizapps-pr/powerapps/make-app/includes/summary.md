@@ -1,15 +1,15 @@
-In this module you learned how to make the apps that you planned for and designed as part of your solution.
+In this module, you learned how to make the apps that you planned for and designed as part of your solution.
 
 Now that you've reviewed this module, you should be able to:
 
--   Set up data sources
+-   Set up data sources.
 
--   Create a Solution
+-   Create a solution.
 
--   Set up Automation
+-   Set up automation.
 
--   Secure your app
+-   Make your app more secure.
 
 ## Learn more
 
-[Differences between Power Apps and traditional app development approaches](/power-apps/guidance/planning/app-development-approaches/?azure-portal=true)
+For more information, see [Differences between Power Apps and traditional app development approaches](/power-apps/guidance/planning/app-development-approaches/?azure-portal=true).
