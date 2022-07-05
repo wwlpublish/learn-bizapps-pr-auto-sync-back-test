@@ -85,7 +85,7 @@ Select **Transform Data** in Power BI Desktop, which will direct you to Power Qu
 
 In the resulting **New Query** view, enter the following M-formula to build a calendar table:
 
-```dax
+```MDX
 = List.Dates(#date(2011,05,31), 365*10, #duration(1,0,0,0))
 ```
 
