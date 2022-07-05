@@ -29,7 +29,7 @@ Consider the following known limitations regarding working with canvas apps, flo
 
 -   Flows that use [connectors](/connectors/connector-reference/?azure-portal=true) and are indexed can't be added into solutions. Indexing isn't supported for solution cloud flows yet. Indexing enables the quick retrieval of those flows to display in a menu or list. Indexed connectors include Power Automate instant (button) flows, Power Apps, Microsoft Teams, SharePoint, Microsoft Dynamics 365 Customer Voice, Microsoft Forms, legacy Dataverse connector, Dynamics 365, Excel Online, Microsoft Project, Microsoft Azure IOT Central V2, and Project Online.
 
-    Workarounds for this limitation:
+    **Workarounds for this limitation**:
 
     - Edit the flow to remove the indexed connector triggers/actions, add it into a solution, and then change it back.
 
