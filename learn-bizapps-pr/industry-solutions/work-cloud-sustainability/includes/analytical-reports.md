@@ -9,8 +9,8 @@ To reflect the calculated emissions in your reports, follow these steps:
 1. Go to **Analytics > Home**. 
 2. To find out when data was last refreshed, go to **Home** or **Insights**, and then check the time stamp in the upper-right corner of the screen. It’s in coordinated universal time (UTC). 
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot representing analytics overview. When data was last refreshed, you can check in Insights.](../media/analytics-overview.png)](../media/analytics-overview.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot representing analytics overview. When data was last refreshed, you can check in Insights.](../media/analytics-overview.png)](../media/analytics-overview.png#lightbox)
 
 Two main levels of detail that you’ll find in the reports: 
 - The Home page includes a summary of your progress.
@@ -29,7 +29,7 @@ All charts are organized by source type, country/region, organization unit, faci
 
 ## Insights
 
-Insights screen allow you to conduct a more in-depth analysis of your data by scope. The tabs at the top of the screen will help you organize data based on scope, renewable energy, and deep analysis. For each scope type, data is organized by emission source, which you can explore by navigating through the tabs. 
+Insights screen allows you to conduct a more in-depth analysis of your data by scope. The tabs at the top of the screen will help you organize data based on scope, renewable energy, and deep analysis. For each scope type, data is organized by emission source, which you can explore by navigating through the tabs. 
 
 - **Deep Analysis** - Deep analysis allows you more flexibility to explore your data by using the decomposition tree. You can drill down into your data by using dimensions, such as scope type, emission source facility, country/region, and organization. Additionally, you can enable the dimensions in any order that you want.
 

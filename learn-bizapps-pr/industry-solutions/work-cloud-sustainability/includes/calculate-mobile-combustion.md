@@ -30,8 +30,8 @@ This example shows why Power Fx is helpful. The value is on road isn’t availab
 
 2. Select **Power Fx to enable UI (user interface)**.
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot showing condition details and define condition function as Power Fx experience to enable UI.](../media/power-enable.png)](../media/power-enable.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot showing condition details and define condition function as Power Fx experience to enable UI.](../media/power-enable.png)](../media/power-enable.png#lightbox)
 
 ## Reports
 
@@ -77,5 +77,5 @@ On the other branch of the formula, under the false value for on-road vehicles, 
 - EPA
 - Fuel Type
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot representing node under false branch where fuel quantity, unit, EPA, fuel type is selected.](../media/node-false-branch.png)](../media/node-false-branch.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot representing node under false branch where fuel quantity, unit, EPA, fuel type is selected.](../media/node-false-branch.png)](../media/node-false-branch.png#lightbox)
