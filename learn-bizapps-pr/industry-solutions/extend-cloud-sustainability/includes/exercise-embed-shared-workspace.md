@@ -27,7 +27,7 @@ You can add a shared workspace for a custom Power BI report to Microsoft Cloud f
     > [!div class="mx-imgBorder"]
     > [![Screenshot showing demo solution's object how to create Model-driven app.](../media/model-driven.png)](../media/model-driven.png#lightbox)
 
-5. Select the **Cloud for Sustainability Preview** app. Select the ellipsis (…) next to **Cloud for Sustainability Preview > Edit > Edit in preview**.
+5. Select the **Cloud for Sustainability Preview** app. Select the ellipsis (...) next to **Cloud for Sustainability Preview > Edit > Edit in preview**.
     
     > [!div class="mx-imgBorder"]
     > [![Screenshot showing demo solution's object how to edit a created solution.](../media/edit-preview.png)](../media/edit-preview.png#lightbox)
