@@ -5,7 +5,7 @@ One of the initial processes is defining your organization.
 Complete this process before you go further. You’ll have to create a company profile, set up your organizational structure and hierarchy and then add some facilities.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot highlighting company profile, define your organisation and instruction to create company profile setting.](../media/create-company-profile.png)](../media/create-company-profile.png#lightbox)
+> [![Screenshot highlighting company profile, define your organization and instruction to create company profile setting.](../media/create-company-profile.png)](../media/create-company-profile.png#lightbox)
  
 Different ways are available for you to set up an organization’s structure in the solution. 
 
@@ -16,7 +16,7 @@ In the Company profile section, you can set up your organization and define your
 3. Enter the information on the three tabs in the **Company profile** section. 
     
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of organisation setting where you can create company profile by providing details.](../media/company-profile-information.png)](../media/company-profile-information.png#lightbox)
+    > [![Screenshot of organization setting where you can create company profile by providing details.](../media/company-profile-information.png)](../media/company-profile-information.png#lightbox)
 
 - **General** – Contains basic information.
 - **Structure** – Contains organizational units and their hierarchy.
