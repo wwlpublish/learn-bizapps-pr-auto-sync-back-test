@@ -45,13 +45,13 @@ quiz:
     choices: 
     - content: Power BI
       isCorrect: false 
-      explanation: Incorrect, Power BI is used for dashboards and visualization of data.
+      explanation: Incorrect. Power BI is used for dashboards and visualization of data.
     - content: PowerApps
       isCorrect: false 
-      explanation: Incorrect, PowerApps is used as a low code, no code extension of the platform.
+      explanation: Incorrect. PowerApps is used as a low code, no code extension of the platform.
     - content: Power Automate
       isCorrect: true
-      explanation: Correct, Power Automate is used to create custom workflows
-    - content: Workflow is not supported
+      explanation: Correct. Power Automate is used to create custom workflows
+    - content: Workflow isn't supported
       isCorrect: false 
-      explanation: Incorrect, workflow is supported by Power Automate
+      explanation: Incorrect. workflow is supported by Power Automate

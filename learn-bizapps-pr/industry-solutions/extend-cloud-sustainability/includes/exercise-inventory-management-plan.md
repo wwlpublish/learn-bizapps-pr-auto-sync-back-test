@@ -1,4 +1,4 @@
-You can add an inventory management plan to Sustainability Manager so that its more accessible to all users. 
+You can add an inventory management plan to Sustainability Manager so that it's more accessible to all users. 
 
 1. Sign in to the environment as an admin user. 
 2. Upload the **Contoso Coffee Inventory Management Plan** file to your admin user’s OneDrive.

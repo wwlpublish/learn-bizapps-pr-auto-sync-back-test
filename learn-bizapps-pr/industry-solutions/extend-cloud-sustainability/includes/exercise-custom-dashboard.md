@@ -11,7 +11,7 @@ You can create a custom dashboard by adding a custom Power BI report to Microsof
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Power apps home page showing to convert environment into production.](../media/home-environment.png)](../media/home-environment.png#lightbox)
 
-4. On the Home screen, scroll down to the list of environments, select Cloud for Sustainability Preview, and then select the More Commands ellipsis (….) next to the name. 
+4. On the Home screen, scroll down to the list of environments, select Cloud for Sustainability Preview, and then select the More Commands ellipsis (…) next to the name. 
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot showing choose your sustainability manager environment and then select More commands ellipsis.](../media/custom-dashboard-sustainability-preview.png)](../media/custom-dashboard-sustainability-preview.png#lightbox)

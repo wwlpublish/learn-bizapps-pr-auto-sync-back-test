@@ -36,7 +36,7 @@ You can add a shared workspace for a custom Power BI report to Microsoft Cloud f
 7.	Select **Overview > Add > Subarea**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot showing how to add subarea under navigation section.](../media/xyzz)](../media/xyz#lightbox)
+    > [![Screenshot showing how to add subarea under navigation section.](../media/subarea-dashboard.png)](../media/subarea-dashboard.png#lightbox)
 
 8.	In the **New subarea form**, select **Content type** as **Dashboard**.
 9.	Select **Demo Power BI report** for the **Dashboard** field.
