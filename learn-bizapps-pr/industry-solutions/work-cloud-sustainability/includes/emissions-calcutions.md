@@ -27,7 +27,7 @@ The process of building a calculation from end to end results in a more accurate
 
 The process that has been set up to calculate emissions from combustion vehicles will continuously produce accurate reporting. These calculations will continue as the customer replaces older vehicles with new ones, changes gas-powered vehicles to electric, or adds new regions to their operations. 
 
-> [![Diagram showing the process of building calcutaion that results in a more accurate measurement of greenhouse gas emissions.](../media/calculation-diagram.png)](../media/calculation-diagram.png#lightbox)
+[![Diagram showing the process of building calcutaion that results in a more accurate measurement of greenhouse gas emissions.](../media/calculation-diagram.png)](../media/calculation-diagram.png#lightbox)
 
 The process of building a calculation from end to end is as follows: 
 - **Model** - Begin by enabling models, which contain formulas and connect to specific emission factors based on the activity or scenario. You won’t run the calculation from the model; rather, it’s where you’ll build specifications for the formulas. 
@@ -47,7 +47,7 @@ The process of building a calculation from end to end is as follows:
 Keep the following important considerations in mind when you’re setting up emission calculations: 
 - Pay special attention to factor mapping to optimize the number of required models.
 - Consider special naming conventions to support specialized calculations for facilities that have specific operations that require different emission factors.
-- Test with a small set of data first and remove emissions data that produces errors. You can remove data in bulk directly in the emissions form or from the [Microsoft Power Apps maker portal](https://make.preview.powerapps.com/environments/839eace6-59ab-4243-97ec-a5b8fcc104e4/home/?azure-portal=ture).
+- Test with a small set of data first and remove emissions data that produces errors. You can remove data in bulk directly in the emissions form or from the [Microsoft Power Apps portal](https://make.preview.powerapps.com/environments/839eace6-59ab-4243-97ec-a5b8fcc104e4/home/?azure-portal=ture).
 - Observe conversion units based on activity and model units because missing conversions will cause errors during import.
 
 ## Models – Formula-in-action
