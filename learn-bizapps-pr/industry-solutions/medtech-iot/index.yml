@@ -1,21 +1,21 @@
 ### YamlMime:Module 
 uid: learn-bizapps.medtech-iot 
 metadata: 
- title: MedTech service with IoT devices
- description: Learn about MedTech service with IoT devices.
+ title: Medtech service with IoT devices
+ description: Learn about Medtech service with IoT devices.
  ms.date: 06/27/2022  
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
  ms.prod: learning-industry-solutions  
-title: MedTech service with IoT devices
+title: Medtech service with IoT devices
 summary: |  
   [!include[](../includes/module-banner.md)] 
   In this module, you'll learn how to enable IoT data scenarios for remote patient monitoring. 
 abstract: |  
-    In this module, you will: 
-    - Enable IoT data scenarios for remote patient monitoring
-    - Ingest data from devices
+    In this module, you'll: 
+    - Enable IoT data scenarios for remote patient monitoring.
+    - Ingest data from devices.
 prerequisites: None
 iconUrl: /learn/achievements/medtech-iot.svg  
 levels:  
