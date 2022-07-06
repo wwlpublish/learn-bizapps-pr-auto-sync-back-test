@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.work-cloud-sustainability.data-flow-process 
+title: Data flow process
+metadata: 
+  title: Data flow process
+  description: Learn how to examine the data flow process in detail, starting with master data. 
+  ms.date: 07/05/2022 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-mscloud-sustainability 
+durationInMinutes: 7
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/data-flow-process.md)] 
