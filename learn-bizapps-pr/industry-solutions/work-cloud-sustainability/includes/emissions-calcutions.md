@@ -72,6 +72,9 @@ For example, if you decide to begin calculating emissions for purchased electric
 
 Now that you’ve learned about the basics of what a model is and where it sits within the calculation, you can build a model.
 
+> [!div class="mx-imgBorder"]
+> [![Screenshot showing source have some mandatory definition missings and next action in calculation flow.](../media/data-calucation-source.png)](../media/data-calucation-source.png#lightbox)
+
 Always start the model by defining the source, which means the source of the emissions. In this example, you’ll use activity data for Purchased Electricity. 
 
 Some fields are mandatory in these formula descriptions. A flag will appear next to the source if fields are incomplete. These fields will document important references for the formulas, so the information is available to everyone. 

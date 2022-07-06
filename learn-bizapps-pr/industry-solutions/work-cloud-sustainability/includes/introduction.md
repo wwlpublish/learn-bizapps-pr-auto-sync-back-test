@@ -17,6 +17,9 @@ Emission calculations, insights and reporting, scorecards, and goals are importa
 
 ## Recommendations for implementing Sustainability Manager
 
+> [!div class="mx-imgBorder"]
+> [![Diagram representing recommended implementation of Sustainability Manager.](../media/recommended-solution.png)](../media/recommended-solution.png#lightbox)
+
 Consider the following recommendations when implementing Sustainability Manager:
 
 1. **Discovery** - Start simple and define a strategy that considers organization and operational boundaries and data availability and formats. 
