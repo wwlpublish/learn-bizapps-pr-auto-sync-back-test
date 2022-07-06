@@ -6,7 +6,7 @@ The following diagram shows the four steps of the data flow process:
 3. Report
 4. Reduce
 
-> [![Diagram showing four steps of the data flow process that includes use master data, record, report and reduce.](../media/master-data-record.png)](../media/master-data-record.png#lightbox)
+[![Diagram showing four steps of the data flow process that includes use master data, record, report and reduce.](../media/master-data-record.png)](../media/master-data-record.png#lightbox)
 
 ## Set up master data
 

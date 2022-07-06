@@ -27,7 +27,7 @@ The process of building a calculation from end to end results in a more accurate
 
 The process that has been set up to calculate emissions from combustion vehicles will continuously produce accurate reporting. These calculations will continue as the customer replaces older vehicles with new ones, changes gas-powered vehicles to electric, or adds new regions to their operations. 
 
-> [![Diagram showing the process of building calcutaion that results in a more accurate measurement of greenhouse gas emissions.](../media/calculation-diagram.png)](../media/calculation-diagram.png#lightbox)
+[![Diagram showing the process of building calcutaion that results in a more accurate measurement of greenhouse gas emissions.](../media/calculation-diagram.png)](../media/calculation-diagram.png#lightbox)
 
 The process of building a calculation from end to end is as follows: 
 - **Model** - Begin by enabling models, which contain formulas and connect to specific emission factors based on the activity or scenario. You won’t run the calculation from the model; rather, it’s where you’ll build specifications for the formulas. 
