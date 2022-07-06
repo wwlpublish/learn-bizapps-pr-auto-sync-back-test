@@ -1,6 +1,6 @@
 Microsoft Sustainability Manager unifies data intelligence to help organizations monitor and manage their sustainability performance. Sustainability Manager delivers insights to help you accelerate every stage of your sustainability journey. This solution enables organizations to record, report, and reduce carbon emissions.
  
-> [![Diagram representing flow of the key solution focus areas for Sustainability Manager.](../media/sustainability-solution-flow.png)](../media/sustainability-solution-flow.png#lightbox)
+[![Diagram representing flow of the key solution focus areas for Sustainability Manager.](../media/sustainability-solution-flow.png)](../media/sustainability-solution-flow.png#lightbox)
 
 ## Solution focus areas
 
@@ -18,7 +18,7 @@ Emission calculations, insights and reporting, scorecards, and goals are importa
 ## Recommendations for implementing Sustainability Manager
 
 > [!div class="mx-imgBorder"]
-[![Diagram representing recommended implementation of Sustainability Manager.](../media/recommended-solution.png)](../media/recommended-solution.png#lightbox)
+> [![Diagram representing recommended implementation of Sustainability Manager.](../media/recommended-solution.png)](../media/recommended-solution.png#lightbox)
 
 Consider the following recommendations when implementing Sustainability Manager:
 
