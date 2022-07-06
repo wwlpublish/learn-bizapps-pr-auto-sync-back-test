@@ -18,7 +18,7 @@ Emission calculations, insights and reporting, scorecards, and goals are importa
 ## Recommendations for implementing Sustainability Manager
 
 > [!div class="mx-imgBorder"]
-> [![Diagram representing recommended implementation of Sustainability Manager.](../media/recommended-solution.png)](../media/recommended-solution.png#lightbox)
+[![Diagram representing recommended implementation of Sustainability Manager.](../media/recommended-solution.png)](../media/recommended-solution.png#lightbox)
 
 Consider the following recommendations when implementing Sustainability Manager:
 
