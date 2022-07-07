@@ -37,7 +37,7 @@ In this step, you’ll create an application user that’s linked to the app reg
 
 1. Go to [Microsoft Power Platform admin center](https://admin.powerplatform.microsoft.com/?azure-portal=true).
 2. Go to **Environments** and select the environment where your Microsoft Cloud for Sustainability is installed.
-3. Note your **Environment URL** because you’ll need this information later in this exercise . The URL will resemble `org12345.crm2.dynamics.com`
+3. Note your **Environment URL** because you’ll need this information later in this exercise. The URL will resemble `org12345.crm2.dynamics.com`
 4. Select **Settings** in the toolbar at the top.
 5. Expand **Users + permissions** and then select **Application users**. 
 
@@ -60,7 +60,7 @@ In this step, you’ll create the storage account to which the data factory pipe
 1. Go to the [Azure portal](https://ms.portal.azure.com/?azure-portal=true).
 2. Create a new storage account resource:
     - Give any name, such as **samc4s**.
-    - Select a region (preferably the same region where your Microsoft Cloud for Sustainability environment is deployed) .
+    - Select a region (preferably the same region where your Microsoft Cloud for Sustainability environment is deployed).
     - In the **Redundancy** dropdown menu, select **Locally-redundant storage (LRS)** .
     - Retain everything else as default and then create the resource. 
         > [!div class="mx-imgBorder"]
@@ -113,7 +113,7 @@ To create the linked services to Dataverse (for the pipeline input) and to the s
     - **Name** - MC4S Dataverse Link
     - **Service Uri** - Enter the environment URL that you previously took note of in the exercise
     - **Service principal ID** - Enter the **Application (client) ID** that you previously took note of in the exercise
-    - **Service principal key** - Enter the secret key that you previously created in the exercise 
+    - **Service principal key** - Enter the secret key that you previously created in the exercise
 
         > [!div class="mx-imgBorder"]
         > [![Screenshot highlighting new linked sevice name, URL, service principal ID, service principal key.](../media/linked-service-name.png)](../media/linked-service-name.png#lightbox)

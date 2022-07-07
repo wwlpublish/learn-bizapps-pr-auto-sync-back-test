@@ -64,7 +64,7 @@ Now, you've created your Azure AD application and service principal. The app reg
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting that user impersonation is selected and then add permission.](../media/request-api-permissions.png)](../media/request-api-permissions.png#lightbox)
 
-The **user_impersonation** permission will show in the permissions list.
+    The **user_impersonation** permission will show in the permissions list.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot highlighting user impersonation is showing in the permissions list.](../media/user-impersonation.png)](../media/user-impersonation.png#lightbox)
