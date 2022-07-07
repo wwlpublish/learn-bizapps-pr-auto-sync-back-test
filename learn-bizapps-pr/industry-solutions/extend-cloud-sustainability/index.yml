@@ -13,7 +13,7 @@ summary: |
   [!include[](../includes/module-banner.md)] 
   Microsoft Sustainability Manager is built on top of Microsoft Power Platform as a model-driven application. Microsoft Power Platform offers a set of low-code tools that help your teams stay agile and build solutions that move your business forward. Sustainability Manager is built from the ground up so that it can work together with strong security, management, and compliance, plus room to grow. This module explains how to use Microsoft Power Platform to create no-code, low-code extensions to the Sustainability Manager solution.
 abstract: |  
-    In this module, you will: 
+    In this module, you'll: 
     - Use Microsoft Power Platform to create no-code extensions within Sustainability Manager.
     -	Add customized dashboards to Sustainability Manager.
     -	Create alerts to notify critical team members about task status.
