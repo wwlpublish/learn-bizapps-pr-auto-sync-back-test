@@ -32,7 +32,7 @@ Key FHIR service concepts:
 
 Data is sent or retrieved from one server to another by using HTTP requests through the FHIR RESTful API.
 
-:::image type="content" source="../media/azure-fhir-rest-api.png" alt-text="Diagram of the Post, Get, Put, Patch, and Delete syntax for the RESTful A P I." lightbox="../media/azure-fhir-rest-api.png":::
+:::image type="content" source="../media/azure-fhir-rest-api.png" alt-text="Diagram of the Post, Get, Put, Patch, and Delete syntax for the RESTful API." lightbox="../media/azure-fhir-rest-api.png":::
 
 ## DICOM service
 DICOM (Digital Imaging and Communications in Medicine) is the international standard to transmit, store, retrieve, print, process, and display medical imaging information. It's the primary medical imaging standard that's accepted across healthcare. For example, DICOM helps enable digitization of ultrasound, CT scan, MRI, and other common imaging procedures.
