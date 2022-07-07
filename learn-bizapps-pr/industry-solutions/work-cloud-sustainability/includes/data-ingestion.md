@@ -23,7 +23,7 @@ Three types of data in Sustainability Manager are reference or master data, tran
 ## Example – Track emissions by segment within manufacturing plants
 The following example describes a scenario that a Microsoft customer encountered.
 
-> [![Diagram representing that organisation wants to track emissions by three different segments within each plant.](../media/track-emissions.png)](../media/track-emissions.png#lightbox)
+[![Diagram representing that organisation wants to track emissions by three different segments within each plant.](../media/track-emissions.png)](../media/track-emissions.png#lightbox)
 
 This organization has facilities (or plants) where they manufacture three distinct products in each plant, and the organization wants to track emissions by three different segments within each plant.
 
