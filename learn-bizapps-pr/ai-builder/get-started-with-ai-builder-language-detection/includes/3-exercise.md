@@ -12,41 +12,41 @@ To create a flow that detects language of an email and then routes it to a speci
 
 3. Pick a name for your flow and then select **When a new email arrives** as your flow's trigger.
 
-    ![The Flow name is "Route emails according to Language using A I Builder. Under Choose your flow's trigger, "When a new email arrives" is selected.](../media/image1.png)
+    ![The Flow name is "Route emails according to Language using A I Builder. Under Choose your flow's trigger, "When a new email arrives" is selected.](../media/image-1.png)
 
 4. Select **Create** and then **New Step**.
 
 5. Search for the connector content conversion, select **HTML to text** and select **Body** from the dynamic content tab.
 
-    ![Under Choose an action, search results for "predict" appear in the Actions tab.](../media/image2.jpg)
+    ![Under Choose an action, search results for "predict" appear in the Actions tab.](../media/image-2.jpg)
 
 6. Select **New Step** and search for **Detect the language being used in text** then select it.
 
-    ![On the Predict step, Model is set to LanguageDetection model, and Text value is set to Body. You can insert parameters from previous steps.](../media/image3.jpg)
+    ![On the Predict step, Model is set to LanguageDetection model, and Text value is set to Body. You can insert parameters from previous steps.](../media/image-3.jpg)
 
 7. Select **The plain text content** from the dynamic content.
 
-    ![Under Choose an action, search results show the Condition Control.](../media/image4.jpg)
+    ![Under Choose an action, search results show the Condition Control.](../media/image-4.jpg)
 
 8. Select **New Step** and search for **Control** then select **Apply to each**.
 
-    ![Under Apply to each, Select an output from previous steps allows you to select Response Results Language.](../media/image5.jpg)
+    ![Under Apply to each, Select an output from previous steps allows you to select Response Results Language.](../media/image-5.jpg)
 
 9. Select **Result** from the dynamic content in the **Select output** from previous steps field.
 
-    ![Under Condition, select Response is equal to FR.](../media/image6.jpg)
+    ![Under Condition, select Response is equal to FR.](../media/image-6.jpg)
 
 10. Select **Condition** and add language from the dynamic content then enter fr (for French), en (for English), de (for German), and so on, to select what language you want to route to a particular email.
 
-    ![Under If yes, Choose an action, the search results for send an email appear in the Actions tab.](../media/image7.jpg)
+    ![Under If yes, Choose an action, the search results for send an email appear in the Actions tab.](../media/image-7.jpg)
 
 11. Scroll down the page and, under the **If yes** condition, add the **Send an email** action. Select a trigger according to your preferred email provider.
 
-    ![Under If yes, Send an email (V2), the To, Subject, and Body fields are filled in with parameters from previous steps.](../media/image8.jpg)
+    ![Under If yes, Send an email (V2), the To, Subject, and Body fields are filled in with parameters from previous steps.](../media/image-8.jpg)
 
 12. Customize the **To**, **Subject**, and **Body** fields by using dynamic content, such as the content shown in the following image.
 
-    ![How to customize the **To**, **Subject**, and **Body** fields](../media/image9.jpg)
+    ![How to customize the **To**, **Subject**, and **Body** fields](../media/image-9.jpg)
 
 13. Select **Save** and test the flow with a sample email.
 
