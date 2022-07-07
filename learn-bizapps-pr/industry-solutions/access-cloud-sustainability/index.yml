@@ -31,7 +31,7 @@ roles:
 - functional-consultant  
 - developer
 - administrator
-- solution architect
+- solution-architect
 products: 
 - mscloud-sustainability
 - industry-solutions
