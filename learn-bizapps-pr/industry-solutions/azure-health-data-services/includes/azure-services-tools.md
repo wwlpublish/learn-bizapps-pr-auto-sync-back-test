@@ -22,7 +22,7 @@ The following diagram illustrates how Azure Health Data Services might be provis
 ## FHIR service
 FHIR service in Azure Health Data Services enables rapid exchange of data through FHIR APIs, which are backed by a managed platform-as-a service (PaaS) offering in the cloud, with the ability to use all resources on the Microsoft stack. 
 
-Azure Health Data Services builds on the features and functionality of Microsoft’s original GA solution for FHIR (Azure API for FHIR), with other capabilities. These captabilities include transaction support for FHIR bundles and high-throughput bulk import of FHIR data into the FHIR service.
+Azure Health Data Services builds on the features and functionality of Microsoft’s original GA solution for FHIR (Azure API for FHIR), with other capabilities. These capabilities include transaction support for FHIR bundles and high-throughput bulk import of FHIR data into the FHIR service.
 
 Key FHIR service concepts:
 
