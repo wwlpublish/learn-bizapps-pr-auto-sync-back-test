@@ -1,4 +1,4 @@
-Microsoft Authentication Library (MSAL) is recommended over Azure Active Directory Authentication Library (ADAL) because MSAL comes with more security and resiliency benefits. However, you’ll still need to use ADAL if your application needs to sign in users with earlier versions of Active Directory Federation Services (ADFS). This exercise is intended for legacy or existing apps that use ADAL and aren’t yet migrated to MSAL. 
+[Microsoft Authentication Library (MSAL)](/azure/active-directory/develop/msal-net-differences-adal-net/?azure-portal=true) is recommended over [Azure Active Directory Authentication Library (ADAL)](/azure/active-directory/develop/msal-net-differences-adal-net/?azure-portal=true) because MSAL comes with more security and resiliency benefits. However, you’ll still need to use ADAL if your application needs to sign in users with earlier versions of Active Directory Federation Services (ADFS). This exercise is intended for legacy or existing apps that use ADAL and aren’t yet migrated to MSAL. 
 
 ## Step 1 - Locate the endpoint of your Dataverse environment
 
