@@ -39,6 +39,3 @@ You can enable the Microsoft Teams integration feature in Settings. You can also
 1. To initiate a conversation, create a new linked chat, find the team member that you want to contact, and then add a message. 
 
     This record will be tracked in Teams, so whenever you open a linked record, the conversation will be available. All participants have access to the specific record in context. 
-
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot representing Contoso Pod Business Renewable Energy Transition progress graph and showing that it can be tracked in teams.](../media/contoso-pod-graph.png)](../media/contoso-pod-graph.png#lightbox)
