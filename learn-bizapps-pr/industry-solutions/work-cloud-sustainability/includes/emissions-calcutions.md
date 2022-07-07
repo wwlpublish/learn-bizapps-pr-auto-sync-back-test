@@ -47,7 +47,7 @@ The process of building a calculation from end to end is as follows:
 Keep the following important considerations in mind when you’re setting up emission calculations: 
 - Pay special attention to factor mapping to optimize the number of required models.
 - Consider special naming conventions to support specialized calculations for facilities that have specific operations that require different emission factors.
-- Test with a small set of data first and remove emissions data that produces errors. You can remove data in bulk directly in the emissions form or from the [Microsoft Power Apps portal](https://make.preview.powerapps.com/environments/839eace6-59ab-4243-97ec-a5b8fcc104e4/home/?azure-portal=ture).
+- Test with a small set of data first and remove emissions data that produces errors. You can remove data in bulk directly in the emissions form or from the [Microsoft Power Apps](https://make.preview.powerapps.com/environments/839eace6-59ab-4243-97ec-a5b8fcc104e4/home/?azure-portal=ture).
 - Observe conversion units based on activity and model units because missing conversions will cause errors during import.
 
 ## Models – Formula-in-action
