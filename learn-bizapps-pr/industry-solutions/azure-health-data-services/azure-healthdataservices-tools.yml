@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.azure-health-data-services.azure-services-tools 
-title: What makes up Azure Health Data Services 
+title: Azure Health Data Services tools and connectors 
 metadata: 
-  title: What makes up Azure Health Data Services 
-  description: What makes up Azure Health Data Services 
+  title: Azure Health Data Services tools and connectors 
+  description: Learn about the tools and connectors in Azure Health Data Services. 
   ms.date: 06/27/2022 
   author: AshokSudhaMCRSOFT 
   ms.author: sudhaashok 
