@@ -8,7 +8,7 @@ For that reason, interoperability is an important global health data objective. 
 
 Microsoft Azure is a more secure cloud, so it can contain protected health information and store it in a safer way. By using Azure Health Data Services as a compliant solution where different types of health data are harmonized together, organizations can de-identify protected health information (PHI) and can connect to the machine learning and data analytics resources in the greater Azure ecosystem.
 
-By offering a Business Associate Agreement (BAA), Microsoft helps support HIPAA compliance. However, using Azure or other Microsoft cloud services doesn't automatically impart compliance to your cloud solutions. For more information, see [HIPAA overview](/azure/compliance/offerings/offering-hipaa-us). 
+Microsoft offers a Business Associate Agreement (BAA), which helps support HIPAA compliance. However, using Azure or other Microsoft cloud services doesn't automatically impart compliance with your cloud solutions. For more information, see [HIPAA overview](/azure/compliance/offerings/offering-hipaa-us). 
 
 In this module, you'll learn about the interoperability challenges of health and life sciences data and the benefits of Azure Health Data Services. Additionally, you'll explore interoperability in depth and will learn about Health Data & FHIR, Medical Imaging & DICOM, and MedTech & IoT. 
 
