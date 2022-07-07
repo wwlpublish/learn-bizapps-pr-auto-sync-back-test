@@ -32,7 +32,7 @@ Go to Microsoft Power Platform admin center and select **Resources > Capacity**,
 
 The **Summary** tab contains a list of add-ons, including the AI Builder credits. The graph shows you the total number of credits that you own and, among them, the number of credits that have been assigned.
 
-![A screenshot of Microsoft Power Platform admin center on the Capacity tab Summary page.](../media/image-4.png)
+![A screenshot of Microsoft Power Platform admin center on the Capacity tab Summary page.](../media/image-4.jpg)
 
 In this case, the tenant owns one million credits (in other words, one AI Builder capacity add-on) and has assigned 300000 of them. A later lesson will explain how to assign credits.
 
