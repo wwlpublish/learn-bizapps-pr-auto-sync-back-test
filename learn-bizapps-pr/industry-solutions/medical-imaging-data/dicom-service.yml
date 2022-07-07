@@ -3,7 +3,7 @@ uid: learn-bizapps.medical-imaging-data.dicom-service
 title: DICOM service
 metadata:
   title: DICOM service
-  description: Learn about the DICOM service in Azure Health Data Services.
+  description: Learn about DICOM service in Azure Health Data Services.
   ms.date: 06/30/2022
   author: DaveBeasley
   ms.author: dbeasley

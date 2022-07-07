@@ -17,30 +17,30 @@ quiz:
     choices:
     - content: Digital Imaging and Communications in Medicine
       isCorrect: false
-      explanation: Incorrect. DICOM® is Digital Imaging and Communications in Medicine and is the international standard for medical images, imaging format and related information. It's the ISO 12052 standard that defines the formats for medical images that can be exchanged with the data and quality that meets clinical use requirements.
-    - content: All of these
+      explanation: Incorrect. DICOM® is Digital Imaging and Communications in Medicine and is the international standard for medical images, imaging format, and related information. It's the ISO 12052 standard that defines the formats for medical images that can be exchanged with the data and quality that meets clinical use requirements.
+    - content: All of these answers
       isCorrect: true
-      explanation: Correct. DICOM® is Digital Imaging and Communications in Medicine and is the international standard for medical images, imaging format and related information. It's the ISO 12052 standard that defines the formats for medical images that can be exchanged with the data and quality that meets clinical use requirements.
+      explanation: Correct. DICOM® is Digital Imaging and Communications in Medicine and is the international standard for medical images, imaging format, and related information. It's the ISO 12052 standard that defines the formats for medical images that can be exchanged with the data and quality that meets clinical use requirements.
     - content: The international standard for medical images, imaging formats, and related information
       isCorrect: false
-      explanation: Incorrect. DICOM® is Digital Imaging and Communications in Medicine and is the international standard for medical images, imaging format and related information. It's the ISO 12052 standard that defines the formats for medical images that can be exchanged with the data and quality that meets clinical use requirements.
+      explanation: Incorrect. DICOM® is Digital Imaging and Communications in Medicine and is the international standard for medical images, imaging format, and related information. It's the ISO 12052 standard that defines the formats for medical images that can be exchanged with the data and quality that meets clinical use requirements.
     - content: ISO 12052 recognized standard
       isCorrect: false
-      explanation: Incorrect. DICOM® is Digital Imaging and Communications in Medicine and is the international standard for medical images, imaging format and related information. It's the ISO 12052 standard that defines the formats for medical images that can be exchanged with the data and quality that meets clinical use requirements.
-  - content: When DICOMcast is configured, as an image enters the DICOM service, DICOMcast detects changes in the image and matches it to a patient record. What is the expected outcome if there's no patient match?
+      explanation: Incorrect. DICOM® is Digital Imaging and Communications in Medicine and is the international standard for medical images, imaging format, and related information. It's the ISO 12052 standard that defines the formats for medical images that can be exchanged with the data and quality that meets clinical use requirements.
+  - content: When DICOMcast is set up, as an image enters the DICOM service, DICOMcast detects changes in the image and matches it to a patient record. What is the expected outcome if no patient match is found?
     choices:
     - content: An error is thrown, and a developer must intercept it to resolve
       isCorrect: false
-      explanation: Incorrect. If there's no patient, a new patient can be created via the FHIR service as well and create the connection to the DICOM image.
-    - content: This is configurable by an administrator upon setup of the service
+      explanation: Incorrect. If no patient match is found, you can create a new patient through the FHIR service and create the connection to the DICOM image.
+    - content: An administrator can set up the resolution to this issue on setup of the service
       isCorrect: false
-      explanation: Incorrect. If there's no patient, a new patient can be created via the FHIR service as well and create the connection to the DICOM image.
-    - content: A new patient record can be created
+      explanation: Incorrect. If no patient match is found, you can create a new patient through the FHIR service and create the connection to the DICOM image.
+    - content: You can create a new patient record
       isCorrect: true
-      explanation: Correct. If there's no patient, a new patient can be created via the FHIR service as well and create the connection to the DICOM image.
-    - content: The user must manually create the patient record and manually configure the connection between image and patient
+      explanation: Correct. If no patient match is found, you can create a new patient through the FHIR service and create the connection to the DICOM image.
+    - content: You'll need to manually create the patient record and manually set up the connection between image and patient
       isCorrect: false
-      explanation: Incorrect. If there's no patient, a new patient can be created via the FHIR service as well and create the connection to the DICOM image.
+      explanation: Incorrect. If no patient match is found, you can create a new patient through the FHIR service and create the connection to the DICOM image.
   - content: Which of the following isn't part of the DICOM data model?
     choices:
     - content: Electronic health records
