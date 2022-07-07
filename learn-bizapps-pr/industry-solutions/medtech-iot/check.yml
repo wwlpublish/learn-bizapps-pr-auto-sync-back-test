@@ -13,7 +13,7 @@ durationInMinutes: 6
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: The data from once-a-week weigh-ins, automatically reported by scales with IoT connectivity, would be considered what type of health data?
+  - content: The data from weekly weigh-ins, which is automatically reported by scales with IoT connectivity, would be considered what type of health data?
     choices: 
     - content: High velocity data
       isCorrect: false 
@@ -21,10 +21,10 @@ quiz:
     - content: Low velocity data
       isCorrect: true 
       explanation: Correct. The expected volume with a weekly reading and the relatively simple data to report makes weekly weigh-ins low velocity data.
-    - content: Neither of these
+    - content: Neither of these options
       isCorrect: false 
       explanation: Incorrect. The expected volume with a weekly reading and the relatively simple data to report makes weekly weigh-ins low velocity data.
-  - content: Which of the following are benefits of IoT devices?
+  - content: Which one of the following options is a benefit of IoT devices?
     choices: 
     - content: Improved doctor/patient engagement
       isCorrect: false 
@@ -35,12 +35,12 @@ quiz:
     - content: Increased patient compliance with treatment plans
       isCorrect: false 
       explanation: Incorrect. All are benefits of IoT devices.
-    - content: All of these
+    - content: All of these options
       isCorrect: true 
       explanation: Correct. All are benefits of IoT devices.
   - content: How does IoT device data become useable data?
     choices: 
-    - content: Device data is normalized and transformed into a FHIR Observation resource that is then useable by your custom, or industry, healthcare apps.
+    - content: Device data is normalized and transformed into a FHIR Observation resource that is useable by your custom, or industry, healthcare apps.
       isCorrect: true 
       explanation: Correct. Messages from the device are grouped and normalized and then transformed by the IoT connector into a normalized schema to become useable data.
     - content: Making device data useable is dependent on the intended outcome/use case.
