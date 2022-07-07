@@ -6,7 +6,7 @@ You can create a custom dashboard by adding a custom Power BI report to Microsof
     > [!div class="mx-imgBorder"]
     > [![Screenshot representing emissions tracking report for a particular year and organizational unit.](../media/emission-tracking.png)](../media/emission-tracking.png#lightbox)
 
-3. Go to [Power Apps portal](https://make.preview.powerapps.com/environments/839eace6-59ab-4243-97ec-a5b8fcc104e4/home/?azure-portal=true) and select your environment from the dropdown list in the upper-right corner.
+3. Go to [Power Apps](https://make.preview.powerapps.com/environments/839eace6-59ab-4243-97ec-a5b8fcc104e4/home/?azure-portal=true) and select your environment from the dropdown list in the upper-right corner.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Power apps home page showing to convert environment into production.](../media/home-environment.png)](../media/home-environment.png#lightbox)
