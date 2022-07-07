@@ -8,9 +8,6 @@ A profile is a job setup that will run when a recent activity is refreshed or wi
 ## View profiles
 
 Select **Calculations > Profiles**. This screen displays all existing profiles in one place. 
- 
-> [!div class="mx-imgBorder"]
-> [![Screenshot representing all existing calculation profiles in one place.](../media/calculation-profile.png)](../media/calculation-profile.png#lightbox)
 
 You can view the status of the profiles at the bottom of each card, and more information will be visible on this screen as the solution becomes more sophisticated.
 

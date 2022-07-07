@@ -38,10 +38,6 @@ To create a Data Connector for managing your data, follow these steps:
 
 4. Select **Next**. 
 5. Select **Transform data**. A name in the organization units might appear. If so, you should update the name to standardize naming conventions. 
-    
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot representing data where you can choose data and transform data to change or replace values.](../media/choose-data.png)](../media/choose-data.png#lightbox)
-
 6. Select **Transform** from the lower right, where you can change or replace values. This step is optional, depending on the quality of the data. However, after you’ve established a connection to clean data, you won’t have to do this step again.
 
     Next, you might want to map to an entity. The system will try to auto map. If you rely on templates to import data by using the appropriate columns that are labeled correctly, everything will map automatically. 
@@ -49,21 +45,13 @@ To create a Data Connector for managing your data, follow these steps:
     However, you can decide if you want to do something different. You can transform from the source and bring your clean data into Sustainability Manager. This action can be your most efficient, long-term approach if your processes involve intensive transformation. 
 
 7. Once the data has been transformed, select Map to entity, this will allow you to map the columns in the excel (or source format) to the columns in the Sustainability data model. 
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot representing transformed data to map the columns in the excel to the columns in Sustainability data model.](../media/data-mapping.png)](../media/data-mapping.png#lightbox)
-
 8.	Select **Create**, once mapping is complete select **OK**.  
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot representing entity attribute, mapping type and showing mapping is complete, now select OK.](../media/map-entity.png)](../media/map-entity.png#lightbox)
 
 9.	Select **Create**.
-    
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot representing mapping is complete and mapped querires. Now, select create.](../media/create-mapped-data.png)](../media/create-mapped-data.png#lightbox)
-
     When you’re importing data, you can do it once, or you can schedule an import for the future. 
-
 10. Select **Schedule data refresh**.  You’ll have several decisions to make, such as whether you want to remove previously imported data.
 11. Select **Remove previously imported data** and then enter a name in the **Connection Name** field. 
 12.	Select **Automatic** to set the frequency and the schedule and to enable the job. Now, the application will read the Excel file and start to report it. 
