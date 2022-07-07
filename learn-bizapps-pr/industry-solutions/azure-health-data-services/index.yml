@@ -2,7 +2,7 @@
 uid: learn-bizapps.azure-health-data-services 
 metadata: 
  title: Introduction to Azure Health Data Services
- description: Azure Health Data Services overview
+ description: Learn about Azure Health Data Services.
  ms.date: 06/27/2022  
  author: AshokSudhaMCRSOFT  
  ms.author: sudhaashok  
@@ -11,12 +11,12 @@ metadata:
 title: Introduction to Azure Health Data Services
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  Azure Health Data Services is a managed Platform-as-a-Service (PaaS) based on OpenAPI standards and frameworks that enable secure and scalable health data solutions. Azure Health Data Services empowers the Microsoft Cloud for Healthcare and other health workloads by enabling secure and compliant paths to ingest, persist and connect health data in the cloud. Azure Health Data Services is a set of tools and connectors that enable organizations to bring health data to the Microsoft Cloud and improve health through insights.
+  Azure Health Data Services is a managed platform as a service (PaaS) based on OpenAPI standards and frameworks that enable more secure and scalable health data solutions. Azure Health Data Services empowers Microsoft Cloud for Healthcare and other health workloads by enabling more secure and compliant paths to ingest, persist, and connect health data in the cloud. Azure Health Data Services is a set of tools and connectors that enable organizations to bring health data to the Microsoft Cloud and improve health through insights.
 abstract: |  
-    In this module, you will: 
-    - Explore interoperability challenges of health and life sciences data
-    - Describe the core global health data standards Azure Health Data Services supports today
-    - Examine the tools and connectors that comprise Azure Health Data Services and the benefits they provide
+    In this module, you'll: 
+    - Explore interoperability challenges of health and life sciences data.
+    - Describe the core global health data standards that Azure Health Data Services supports today.
+    - Examine the tools and connectors that comprise Azure Health Data Services and the benefits that they provide.
 prerequisites: None
 iconUrl: /learn/achievements/azure-health-data-services.svg  
 levels:  
