@@ -1,6 +1,6 @@
-With Microsoft Power Automate, you can automate a task, get or send notifications, and track the completion of tasks. The following exercise demonstrates how you can create a notification when an emission factor for Company Cooling has been recorded to have a CO2 calculation as greater than 1,800 lbs.
+With Microsoft Power Automate, you can automate a task, get or send notifications, and track the completion of tasks. The following exercise demonstrates how you can create a notification when an emission factor for Company Cooling has been recorded to have a CO<sub>2</sub> calculation as greater than 1,800 lbs.
 
-1. Sign in to [Power Apps portal](https://make.preview.powerapps.com/environments/839eace6-59ab-4243-97ec-a5b8fcc104e4/home/?azure-portal=true).
+1. Sign in to [Power Apps](https://make.preview.powerapps.com/environments/839eace6-59ab-4243-97ec-a5b8fcc104e4/home/?azure-portal=true).
 2. Expand **Data** on the left navigation pane and then select **Connections** to create a connection to Microsoft Dataverse, Microsoft Teams, and Office 365 Outlook. 
 
     > [!div class="mx-imgBorder"]

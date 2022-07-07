@@ -3,7 +3,7 @@ You can add a shared workspace for a custom Power BI report to Microsoft Cloud f
 > [!Note]
 > This exercise assumes that a Power BI report already exists in a shared workspace in Power BI in the same Office 365 tenant. Also, it assumes that the Power BI report has at least one report and one dashboard. 
 
-1. Go to [Power Apps portal](https://make.powerapps.com/?azure-portal=true) **> Solutions > New solution** to create a solution. In the given example, the name of the solution is **Demo solution**.
+1. Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true) **> Solutions > New solution** to create a solution. In the given example, the name of the solution is **Demo solution**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of power apps portal showing demo solution create as a new solution under solutions option.](../media/demo-solutions.png)](../media/demo-solutions.png#lightbox)
