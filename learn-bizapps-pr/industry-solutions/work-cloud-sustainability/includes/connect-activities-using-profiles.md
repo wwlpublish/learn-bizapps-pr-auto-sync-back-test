@@ -50,7 +50,7 @@ To edit a profile, follow these steps:
     > [!div class="mx-imgBorder"]
     > [![Screenshot of edit calculation profile showing calculation based on the first record of activity data.](../media/edit-calculation-profile-preview.png)](../media/edit-calculation-profile-preview.png#lightbox)
 
-    The screen displays the global warming impacts of CO2 and other greenhouse gases alongside resource consumption. Make sure that the correct factors apply to the correct data.  
+    The screen displays the global warming impacts of CO<sub>2</sub> and other greenhouse gases alongside resource consumption. Make sure that the correct factors apply to the correct data.  
 
     The outcome will be the calculated emissions, and you can preview and validate them before final setup. You can also remove previous calculations that are present. 
 
