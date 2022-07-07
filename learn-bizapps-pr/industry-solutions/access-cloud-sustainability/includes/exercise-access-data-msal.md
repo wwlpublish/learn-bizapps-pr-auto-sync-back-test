@@ -91,7 +91,7 @@ To create a .NET 6 console app, follow these steps:
     static async Task Main()
     {
     // TODO Specify the Dataverse environment name to connect with.
-    string resource = "Enter dataverse environment endpoint here";
+    string resource = "Enter Dataverse environment endpoint here";
     // TODO Specify the AZURE AD app registration id.
     var clientId = "Enter App ID here";
     var redirectUri = "http://localhost"; // Loopback for the interactive login.
@@ -160,7 +160,7 @@ To create a .NET 6 console app, follow these steps:
     }
 
     ```
-3. Replace the placeholder text in the **Enter dataverse environment endpoint** here field with the URL that you previously retrieved in this exercise.
+3. Replace the placeholder text in the **Enter Dataverse environment endpoint** here field with the URL that you previously retrieved in this exercise.
 
 4. Replace the placeholder text in the **Enter App ID here** field with the app registration ID that you previously copied in this exercise.
 

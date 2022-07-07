@@ -87,7 +87,7 @@ To create a Microsoft .NET Framework console app to query the **Emission** table
             static void Main()
             {
                 // TODO Specify the Dataverse environment name to connect with.
-                string resource = "Enter dataverse environment endpoint here";
+                string resource = "Enter Dataverse environment endpoint here";
                 // TODO Specify the AAD app registration id.
                 var clientId = "Enter App ID here";
                 var redirectUri = new Uri("http://localhost");
@@ -165,7 +165,7 @@ To create a Microsoft .NET Framework console app to query the **Emission** table
     }
     ```
 
-3. Replace the **Enter dataverse environment endpoint** here placeholder with the URL that you previously retrieved in this exercise.
+3. Replace the **Enter Dataverse environment endpoint** here placeholder with the URL that you previously retrieved in this exercise.
 4. Replace the **Enter App ID here** placeholder with the app registration ID that you previously copied in this exercise.
 5.	Add the following [NuGet packages](/nuget/consume-packages/install-use-packages-visual-studio/?azure-portal=true):
 
