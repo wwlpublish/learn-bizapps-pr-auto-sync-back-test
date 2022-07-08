@@ -23,7 +23,7 @@ You might want to add more descriptive details to your facility. You can add a c
 8. Search for the name of the table that you found in the URL. In this example, it’s **msdyn_facility**. This table allows for customization (the checkbox).
     
     > [!div class="mx-imgBorder"]
-    > [![Screenshot showing facility as msydn_facility under Data tables.](../media/msdyn-facility.png)](../media/msdyn-facility.png#lightbox)
+    > [![Screenshot showing facility as m s y d n underscore facility under Data tables.](../media/msdyn-facility.png)](../media/msdyn-facility.png#lightbox)
 
 9. Select the pencil icon to edit the table.
 
