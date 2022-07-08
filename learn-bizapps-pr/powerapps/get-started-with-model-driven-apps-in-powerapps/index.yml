@@ -3,7 +3,7 @@ uid: learn-bizapps.powerapps-design-model-driven-apps
 metadata: 
   title: Get started with model-driven apps in Power Apps 
   description: Model-driven app design is an approach that focuses on quickly adding components to your apps. These components include dashboards, forms, views, and charts. With no code, or very little, you can make apps that are simple or very complex. Unlike in canvas app development, where the designer has total control over the app layout, much of the layout in model-driven apps is determined by the components you add. In other words, the emphasis is more on quickly viewing your business data and making decisions than on intricate app design.
-  ms.date: 06/29/2021
+  ms.date: 07/08/2022 
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial

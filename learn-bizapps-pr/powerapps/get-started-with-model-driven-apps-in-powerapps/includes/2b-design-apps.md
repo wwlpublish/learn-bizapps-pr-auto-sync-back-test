@@ -68,7 +68,7 @@ As you think about your data model also think about column types. When adding co
 
 ### User Interface (UI) and User Experience (UX)
 
-When building a Model-driven app, most of the UI and UX are predetermined for you. You define the data model to build from, and then Power Apps determines the controls used in the app. You can influence these controls by determining what table assets you include. You define in the App Designer What Forms, Views, Charts, and Dashboards are used in the app. You also control the navigation options via the Site Map. As you are planning your app, determine which components are needed in the app design, and create them before building your app.
+When building a Model-driven app, most of the UI and UX are predetermined for you. You define the data model to build from, and then Power Apps determines the controls used in the app. You can influence these controls by determining what table assets you include. You define in the App Designer What Forms, Views, Charts, and Dashboards are used in the app. You also control the navigation options. As you are planning your app, determine which components are needed in the app design, and create them before building your app.
 
 To continue building off of the example we’ve been using throughout this module, below is a simple Model-driven Form, which captures various pieces of information for creating a New Fundraiser.
 
