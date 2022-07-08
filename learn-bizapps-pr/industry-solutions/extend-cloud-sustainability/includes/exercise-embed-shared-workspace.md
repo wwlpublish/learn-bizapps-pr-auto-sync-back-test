@@ -11,7 +11,7 @@ You can add a shared workspace for a custom Power BI report to Microsoft Cloud f
 2. Open **Demo solution** and then go to **New > Dashboard > Power BI embedded**.
     
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Demo solution's object showing how to create Power BI embeded in new dashboard.](../media/demo-solutions-object.png)](../media/demo-solutions-object.png#lightbox)
+    > [![Screenshot of Demo solution's object showing how to create Power BI embedded in new dashboard.](../media/demo-solutions-object.png)](../media/demo-solutions-object.png#lightbox)
 
 3. In the right pane, complete the following actions:
     - Enter a name in the **Display name** field.
@@ -20,7 +20,7 @@ You can add a shared workspace for a custom Power BI report to Microsoft Cloud f
     - In the **Power BI report** dropdown menu, select the existing Power BI report. 
     - Select **Save**.
         > [!div class="mx-imgBorder"]
-        > [![Screenshot representing New Power BI embedded dashboard.](../media/embeded-dashboard.png)](../media/embeded-dashboard.png#lightbox)
+        > [![Screenshot representing New Power BI embedded dashboard.](../media/embedded-dashboard.png)](../media/embedded-dashboard.png#lightbox)
 
 4. In the same solution, go to **Add existing > App > Model-driven app**. 
 
@@ -28,10 +28,6 @@ You can add a shared workspace for a custom Power BI report to Microsoft Cloud f
     > [![Screenshot showing demo solution's object how to create Model-driven app.](../media/model-driven.png)](../media/model-driven.png#lightbox)
 
 5. Select the **Cloud for Sustainability Preview** app. Select the ellipsis (...) next to **Cloud for Sustainability Preview > Edit > Edit in preview**.
-    
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot showing demo solution's object how to edit a created solution.](../media/edit-preview.png)](../media/edit-preview.png#lightbox)
-
 6. In the left pane, go to the **Navigation** section and expand **Overview**. 
 7.	Select **Overview > Add > Subarea**.
 
