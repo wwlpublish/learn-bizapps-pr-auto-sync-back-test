@@ -4,7 +4,7 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 04/25/2022
+ ms.date: 07/04/2022
  author: heyrob 
  ms.author: robde 
  ms.topic: interactive-tutorial 
@@ -43,9 +43,9 @@ quiz:
       explanation: Fact tables contain observational data such as sales orders, employees, shipping dates, and so on, while dimension tables contain information about specific entities such as product IDs and dates.
   - content: What is cardinality?
     choices: 
-    - content: Cardinality is the direction that the data flows in a relationship between two tables.
+    - content: Cardinality is the measure of unique values in a table.
       isCorrect: true 
-      explanation: Cardinality is the directionality of a relationship, such as one-to-many, one-to-one, and so on.
+      explanation: An example of high cardinality would be a Sales table as it has a high number of unique values.
     - content: Cardinality is the granularity of the data.
       isCorrect: false 
       explanation: Cardinality is the directionality that is associated with a relationship.
