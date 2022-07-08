@@ -28,7 +28,7 @@ Here you can explore your **My Active Accounts** view and the **Account** form t
 
 ## Edit your form
 You have successfully added a form to your app, now we will edit them.
-1. Navigate to [make.powerapps.com](make.powerapps.com).
+1. Navigate to [https://make.powerapps.com](https://make.powerapps.com).
 1. Select **Dataverse**, then **Tables**.
 
 1. Select the **Account** table.
@@ -40,7 +40,7 @@ You have successfully added a form to your app, now we will edit them.
 1. In this page you can adjust Form Settings, Add components, fields, business rules, event handlers, custom form libraries, edit table columns and more.
 
 ## Edit views
-1. Navigate to [make.powerapps.com](make.powerapps.com).
+1. Navigate to [https://make.powerapps.com](https://make.powerapps.com).
 
 1. Select **Dataverse**, then **Tables**.
 

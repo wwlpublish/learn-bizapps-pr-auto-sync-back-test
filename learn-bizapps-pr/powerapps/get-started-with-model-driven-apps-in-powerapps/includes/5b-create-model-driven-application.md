@@ -21,7 +21,7 @@ After you have created the *Prospects* table from the previous [exercise](/learn
 
 ### Creating a chart
 
-1. Start at [make.powerapps.com](make.powerapps.com)
+1. Start at [https://make.powerapps.com](https://make.powerapps.com)
 1. Select **Dataverse**, **Tables** and then find **Prospects**.
 1. Select **Charts** under **Data experiences**.
 1. Select **New chart**.
