@@ -2,7 +2,7 @@
 uid: learn-bizapps.ai-builder-category-classification
 metadata:
  title: Get started with AI Builder category classification
- description: Learn to start using AI Builder category classification.
+ description: Learn how to start using AI Builder category classification.
  ms.date: 06/30/2022
  author: jadaphillips
  ms.author: jadaphillips
@@ -14,12 +14,11 @@ summary: |
   Explore how you can use AI Builder category classification to assign category tags to text, such as an email message.
 abstract: |
     In this module, you'll:
-    - Learn about AI Builder category classification
-    - Create a custom category classification model
-    - Use the classification model in Power Automate
+    - Learn about AI Builder category classification.
+    - Create a custom category classification model.
+    - Use the classification model in Power Automate.
 prerequisites: |
-    To complete this module, you need:
-    - A Power Apps license
+    - A Microsoft Power Apps license
     - Access to Microsoft Dataverse
     - An AI Builder add-on or trial
 iconUrl: /learn/achievements/ai-builder-category-classification.svg
