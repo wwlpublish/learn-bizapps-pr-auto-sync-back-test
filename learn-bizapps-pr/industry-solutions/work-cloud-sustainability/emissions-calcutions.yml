@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.work-cloud-sustainability.emissions-calcutions 
+title: Set up emissions calculations
+metadata: 
+  title: Set up emissions calculations
+  description: Learn how Sustainability Manager uses dynamic calculation models based on the Greenhouse Gas (GHG) Protocol to calculate Scopes 1, 2, and 3 carbon emissions.
+  ms.date: 07/05/2022 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-mscloud-sustainability 
+durationInMinutes: 12
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/emissions-calcutions.md)] 

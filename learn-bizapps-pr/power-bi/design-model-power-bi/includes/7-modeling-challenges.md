@@ -8,11 +8,11 @@ To understand circular relationships, you first need to understand dependencies.
 
 For example, consider that you have the following calculated column **Total** in the Sales table.
 
-Sales[‘TotalCost] = Sales[‘Quantity’] * Sales[‘Price’]
+Sales[‘TotalCost'] = Sales[‘Quantity’] * Sales[‘Price’]
 
 **TotalCost** depends on **Quantity** and **Price**, so if a change occurs in either quantity or price, a change will occur in **TotalCost** as well. This example outlines a dependency of a column on other columns, but you can also have dependencies between measures, tables, and relationships.
 
-Consider the following relationships between **dSalesPerson**, **fSales**, and **dCustomer**. A change in **dCustomer** will result in a change in **fSales**, which results in changes in **dSalesPerson.** These types of dependencies can exist within relationships.
+Consider the following relationships between **SalesPerson**, **Sales**, and **Customer**. A change in **Customer** will result in a change in **Sales**, which results in changes in **SalesPerson.** These types of dependencies can exist within relationships.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Dependencies in Relationships.](../media/07-dependencies-relationships-01-ssm.png)](../media/07-dependencies-relationships-01-ssm.png#lightbox)
