@@ -1,8 +1,8 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.dax-power-bi-calculation-groups.tabular-editor 
-title: Unit 2:Set up Tabular Editor 2
+title: Set up Tabular Editor 2
 metadata: 
-  title: Unit 2:Set up Tabular Editor 2
+  title: Set up Tabular Editor 2
   description: To create or edit calculation groups, you’ll need to use an external tool because Power BI Desktop doesn’t support this functionality.
   ms.date: 07/11/2022 
   author: Heyrob 

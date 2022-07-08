@@ -75,8 +75,8 @@ The **YoY %** values will now display percentages.
 When working with calculation groups, you’ll need to keep in mind some limitations and restrictions:
 - When you add a calculation group to your model, the **DiscourageImplicitMeasures** model-level property is set to **True** automatically. This property means that you can no longer summarize columns in report visuals. Therefore, you’ll need to complete all model summarizations by using explicit measures, which you can define by using DAX.
 - You can’t define row-level security (RLS) or object-level security (OLS) on calculation groups, directly or indirectly.
-- [Detail Rows Expressions](/analysis-services/tutorial-tabular-1400/as-supplemental-lesson-detail-rows?view=power-bi-premium-current/?azure-portal=true) aren’t supported with calculation groups.
+- [Detail Rows Expressions](/analysis-services/tutorial-tabular-1400/as-supplemental-lesson-detail-rows?view=power-bi-premium-current&azure-portal=true) aren’t supported with calculation groups.
 - The smart narrative visual isn’t supported with calculation groups.
 - When you’re creating Power BI reports by using a live connection, dynamic format strings aren’t applied to report-level measures.
 
-For more information, see [Calculation groups](/analysis-services/tabular-models/calculation-groups?view=power-bi-premium-current/?azure-portal=true).
+For more information, see [Calculation groups](/analysis-services/tabular-models/calculation-groups?view=power-bi-premium-current&azure-portal=true).
