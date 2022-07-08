@@ -40,7 +40,7 @@ subjects:
 - modern-work
 units: 
 - learn-bizapps.access-cloud-sustainability.introduction 
-- learn-bizapps.access-cloud-sustainability.exercise-access-microsoft-authentication 
+- learn-bizapps.access-cloud-sustainability.exercise-microsoft-authentication 
 - learn-bizapps.access-cloud-sustainability.exercise-access-active-directory 
 - learn-bizapps.access-cloud-sustainability.exercise-build-azure-factory 
 - learn-bizapps.access-cloud-sustainability.exercise-query-data 
