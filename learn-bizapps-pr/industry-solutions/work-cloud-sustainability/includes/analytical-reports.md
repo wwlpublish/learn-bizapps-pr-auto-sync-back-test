@@ -1,6 +1,6 @@
 Analytics reports present your calculated emissions in an organized way so that you can detect trends or explore your data. These reports are updated soon after your calculations are run, and you can review the outcome of your calculations in an aggregated format. You can also export data in predefined report formats that include groupings for emissions and activity and other dimensions.
 
-For analytics and reporting, you’ll use Microsoft Power BI Embedded and Azure Data Lake. Currently, Sustainability Manager stores all analytical data in Azure Data Lake, and the Power BI interface is a managed Power BI. You can’t customize this storage option, but Microsoft plans to offer this capability in the future. 
+For analytics and reporting, you’ll use Microsoft Power BI Embedded and Azure Data Lake. Currently, Sustainability Manager stores all analytical data in Azure Data Lake, and the Power BI interface is a managed Power BI. You can’t customize this storage option.  
 
 Reports are refreshed periodically and automatically, so you don’t need to take action to do so. However, keep in mind that a few minutes will elapse between when you calculate emissions and when the impact is reflected in your reports.
 
