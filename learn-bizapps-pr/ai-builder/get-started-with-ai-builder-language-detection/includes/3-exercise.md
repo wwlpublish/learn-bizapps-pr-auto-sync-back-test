@@ -46,7 +46,7 @@ To create a flow that detects language of an email and then routes it to a speci
 
 12. Customize the **To**, **Subject**, and **Body** fields by using dynamic content, such as the content shown in the following image.
 
-    ![Screenshot showing that: How to customize the **To**, **Subject**, and **Body** fields](../media/image-9.jpg)
+    ![Screenshot showing that: How to customize the **To**, **Subject**, and **Body** fields.](../media/image-9.jpg)
 
 13. Select **Save** and test the flow with a sample email.
 

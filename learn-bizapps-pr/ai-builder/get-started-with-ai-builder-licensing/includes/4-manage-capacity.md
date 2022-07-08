@@ -16,7 +16,7 @@ The total of assigned AI Builder credits across an environment cannot exceed the
 
 If you want to reassign credits from one environment to another, reduce the capacity for the first environment before raising the capacity in the second environment.
 
-![Screenshot of a cell phone Description automatically generated](../media/image-6.png)
+![Screenshot of a cell phone Description automatically generated.](../media/image-6.png)
 
 If you assign more credits than there are remaining, you won't be able to save, and an error message will warn you that the "Quantity cannot exceed the remaining."
 
