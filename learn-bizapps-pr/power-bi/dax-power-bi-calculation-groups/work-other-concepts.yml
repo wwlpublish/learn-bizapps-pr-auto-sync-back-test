@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-calculation-groups.work-other-concepts 
+title: Work with other concepts
+metadata: 
+  title: Work with other concepts
+  description: In this unit, you’ll learn how to order calculation items, set dynamic formatting, and set calculation precedence.
+  ms.date: 07/11/2022 
+  author: Heyrob 
+  ms.author: Robde 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-bi 
+durationInMinutes: 7
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/work-other-concepts.md)] 
