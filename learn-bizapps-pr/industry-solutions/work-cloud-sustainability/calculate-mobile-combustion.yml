@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.work-cloud-sustainability.calculate-mobile-combustion 
+title: Calculate mobile combustion (EPA)
+metadata: 
+  title: Calculate mobile combustion (EPA)
+  description: Learn about greenhouse gas emissions from mobile combustion.
+  ms.date: 07/05/2022 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-mscloud-sustainability 
+durationInMinutes: 7
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/calculate-mobile-combustion.md)] 
