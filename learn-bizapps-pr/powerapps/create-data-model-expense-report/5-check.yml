@@ -13,20 +13,20 @@ durationInMinutes: 6
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: How often will Dataverse auto save when you are making changes to tables?
+  - content: How often will Dataverse AutoSave when you're making changes to tables?
     choices: 
-    - content: You will manually save once and then Dataverse will auto save every two minutes.
+    - content: You'll manually save once and then Dataverse will AutoSave every two minutes.
       isCorrect: false 
       explanation: Incorrect. This process is the case for Microsoft Power Apps, not Dataverse.
-    - content: In Dataverse settings, you need to set up the AutoSave function and then you can choose how often you want it to autosave.
+    - content: In Dataverse settings, you need to set up the AutoSave function and then you can choose how often you want it to AutoSave.
       isCorrect: false 
-      explanation: Incorrect. Dataverse doesn't have auto save functionality when you are making changes to tables.
-    - content: Dataverse will autosave every five minutes.
+      explanation: Incorrect. Dataverse doesn't have AutoSave functionality when you're making changes to tables.
+    - content: Dataverse will AutoSave every five minutes.
       isCorrect: false 
-      explanation: Incorrect. Dataverse doesn't have auto save functionality when you are making changes to tables.
+      explanation: Incorrect. Dataverse doesn't have AutoSave functionality when you're making changes to tables.
     - content: You need to manually save every time.
       isCorrect: true 
-      explanation: Correct. Though you need to select Done when you create a new column, your changes will not save until you select the Save Table button.
+      explanation: Correct. Though you need to select Done when you create a new column, your changes won't save until you select the Save Table button.
   - content: Which of the following is a reason for using Dataverse for this solution?
     choices: 
     - content: You can define relationships between existing columns in tables.
@@ -43,7 +43,7 @@ quiz:
       explanation: Incorrect. Theoretically, you could still store data in Excel or in SharePoint.
   - content: What is the difference between a one-to-many relationship and a many-to-one relationship?
     choices: 
-    - content: No difference, it depends on the table that you are starting with.
+    - content: No difference, it depends on the table that you're starting with.
       isCorrect: true 
       explanation: Correct. A one-to-many relationship for one table is a many-to-one relationship to the related table.
     - content: One-to-many relationships relate to multiple tables.
@@ -54,4 +54,4 @@ quiz:
       explanation: Incorrect. Both relationships relate one table to another.
     - content: Many-to-one relationships are only available in Dataverse.
       isCorrect: false 
-      explanation: Incorrect. Other data sources might not list many-to-one as an option, but it is the same as a one-to-many relationship.
+      explanation: Incorrect. Other data sources might not list many-to-one as an option, but it's the same as a one-to-many relationship.
