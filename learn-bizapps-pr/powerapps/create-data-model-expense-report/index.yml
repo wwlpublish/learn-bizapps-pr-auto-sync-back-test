@@ -3,7 +3,7 @@ uid: learn-bizapps.create-data-model-expense-report
 metadata: 
  title: Create a data model for an expense report app
  description: Learn how to create tables for your expense report canvas app and build the relationships between them in Microsoft Dataverse.
- ms.date: 01/12/2022  
+ ms.date: 07/08/2022 
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  

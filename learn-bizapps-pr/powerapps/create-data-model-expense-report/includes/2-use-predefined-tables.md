@@ -22,7 +22,7 @@ To explore columns in the User table, follow these steps:
 
     If no one in your organization has created tables, predefined tables will display automatically to ensure that you are only viewing tables from Common Data Model.
 
-1. Select the view filter in the upper-right corner by the search box and then select **Managed**.
+1. Select the column titled **Manage**, then select **Filter by**, click the second dropdown, and select the checkbox next to **Yes**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Microsoft Power Apps tables page with the Managed option highlighted and menu expanded.](../media/4-managed.png)](../media/4-managed.png#lightbox)
