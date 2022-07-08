@@ -96,9 +96,6 @@ To create a Data Factory resource, consider the following steps:
 4. Retain all other options as default and then create the Data Factory resource.
 5. When the resource has been created, from the **Overview** tab, select **Open Azure Data Factory Studio**. 
 
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot highlighting open azure data factory studio after creation of data factory.](../media/data-factory-overview.png)](../media/data-factory-overview.png#lightbox)
-
 ## Step 5 - Create the Data Factory Linked services
 
 To create the linked services to Dataverse (for the pipeline input) and to the storage account (for the pipeline output), follow these steps: 

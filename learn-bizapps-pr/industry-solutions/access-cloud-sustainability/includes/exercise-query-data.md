@@ -57,15 +57,12 @@ To enable tracking for Dataverse tables so that you can link them to Synapse lat
     - Purchased energy
     - Fugitive emission
 
-## Step 4 - Create the Azure Synapse link for Dataverse
+## Step 4 - Create the Azure Synapse Link for Dataverse
 
-To create the Azure Synapse link for Dataverse, complete the following steps: 
+To create the Azure Synapse Link for Dataverse, complete the following steps: 
 1. Go to **Data > Azure Synapse Link**.
 2. Select **New link to data lake**.
 3. Ensure that **Connect to your Azure Synapse workspace** is enabled and then select the **Subscription, Resource group, Workspace name**, and **Storage account** information. 
-
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot highlighting to connect Azure Synapse workspace in your storage account.](../media/connect-azure-synapse.png)](../media/connect-azure-synapse.png#lightbox)
 
 4. Select **Next**.
 5. Select the following tables:

@@ -1,5 +1,5 @@
 ### YamlMime:ModuleUnit 
-uid: learn-bizapps.access-cloud-sustainability.exercise-access-data-adal 
+uid: learn-bizapps.access-cloud-sustainability.exercise-access-active-directory
 title: Exercise - Access data through Dataverse API by using .NET Framework with ADAL
 metadata: 
   title: Exercise - Access data through Dataverse API by using .NET Framework with ADAL
@@ -12,4 +12,4 @@ metadata:
 durationInMinutes: 10
 content: | 
  [!include[](../includes/unit-banner.md)] 
- [!include[](includes/exercise-access-data-adal.md)] 
+ [!include[](includes/exercise-access-active-directory.md)] 

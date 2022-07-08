@@ -1,5 +1,5 @@
 ### YamlMime:ModuleUnit 
-uid: learn-bizapps.access-cloud-sustainability.exercise-access-data-msal 
+uid: learn-bizapps.access-cloud-sustainability.exercise-microsoft-authentication
 title: Exercise - Access data through Dataverse API by using .NET 6 with MSAL
 metadata: 
   title: Exercise - Access data through Dataverse API by using .NET 6 with MSAL
@@ -12,4 +12,4 @@ metadata:
 durationInMinutes: 10
 content: | 
  [!include[](../includes/unit-banner.md)] 
- [!include[](includes/exercise-access-data-msal.md)] 
+ [!include[](includes/exercise-microsoft-authentication.md)] 
