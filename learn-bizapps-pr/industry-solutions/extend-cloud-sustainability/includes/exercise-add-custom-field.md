@@ -1,6 +1,6 @@
 You might want to add more descriptive details to your facility. You can add a custom field to the existing **Facility** form to achieve this objective. The following exercise demonstrates how to create a field in a table and how to add that field to an existing form.
 
-1. Sign in to the application and find the existing form that you want to add the new field to. This example shows how to add a facility type field to the Facility form. 
+1. Sign in to the application and find the existing form that you want to add the new field to. This example shows how to add a facility type field to the **Facility** form. 
 2. Select **Company profile > Facilities**. 
 
     > [!div class="mx-imgBorder"]
@@ -23,7 +23,7 @@ You might want to add more descriptive details to your facility. You can add a c
 8. Search for the name of the table that you found in the URL. In this example, it’s **msdyn_facility**. This table allows for customization (the checkbox).
     
     > [!div class="mx-imgBorder"]
-    > [![Screenshot showing facility as m s y d n underscore facility under Data tables.](../media/msdyn-facility.png)](../media/msdyn-facility.png#lightbox)
+    > [![Screenshot showing facility as m s d y n underscore facility under Data tables.](../media/msdyn-facility.png)](../media/msdyn-facility.png#lightbox)
 
 9. Select the pencil icon to edit the table.
 
@@ -39,16 +39,7 @@ You might want to add more descriptive details to your facility. You can add a c
     > [![Screenshot of forms where you can edit form in new tab by clicking on ellipsis.](../media/edit-form.png)](../media/edit-form.png#lightbox)
 
 13. Select the **+ Form field** option to view the list of fields that you can add to the form.
-
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot of edit form showing you can add form field option to view list of field.](../media/form-field.png)](../media/form-field.png#lightbox)
-
 14. Select Type from the list and then drag it onto the form.
-
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot highlighting Type from the list in new facility.](../media/new-facility.png)](../media/new-facility.png#lightbox)
-
-
 15.	Select **Save** and then **Publish** the change.
 16.	Return to the application and refresh. The field should be added to the form.
 

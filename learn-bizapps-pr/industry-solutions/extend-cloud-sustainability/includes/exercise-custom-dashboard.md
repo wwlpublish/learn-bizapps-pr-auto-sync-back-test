@@ -31,7 +31,7 @@ You can create a custom dashboard by adding a custom Power BI report to Microsof
 9. Change the **URL** field to point to the URL of the Power BI report that you previously copied in a share.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot showing subarea components highlighting URL field change as you previously in a share of Power BI report.](../media/custom-dashboard-subarea.png)](../media/custom-dashboard-subarea.png#lightbox)
+    > [![Screenshot showing subarea components highlighting URL field change as you previously copied in a share of Power BI report.](../media/custom-dashboard-subarea.png)](../media/custom-dashboard-subarea.png#lightbox)
  
 10.	Select **Save** in the upper right of the window.
 11.	Select **Publish**.
