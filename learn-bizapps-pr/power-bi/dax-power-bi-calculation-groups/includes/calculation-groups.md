@@ -2,7 +2,7 @@ In this unit, you’ll create two calculation groups. Before you create the calc
 
 ## Task 1: Review the data model
 
-Download and open the [Adventure Works DW 2020 M08.pbix] file.
+Download and open the Adventure Works DW 2020 M08.pbix file.
 
 Verify that you have Tabular Editor 2 installed.
 
