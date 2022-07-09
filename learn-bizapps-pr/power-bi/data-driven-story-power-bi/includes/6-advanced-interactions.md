@@ -11,7 +11,7 @@ To enable the visual interaction controls, select a visualization, go to the **F
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Edit interactions option.](../media/6-edit-interactions-button-option-ssm.png)](../media/6-edit-interactions-button-option-ssm.png#lightbox)
 
-The **Edit interactions** button turns grey to show that it's enabled, and **Filter**, **Highlight**, and/or **None** icons are added to the other visualizations on the report page. When you hover over an icon, a grey box displays over the related visual. The icon in bold is the one that is being applied. In the following image, notice that the donut chart is cross-filtering the card visuals and cross-highlighting the column chart. You can now change how the selected visualization interacts with the other visualizations on the report page.
+The **Edit interactions** button turns grey to show that it's enabled, and **Filter**, **Highlight**, and/or **None** icons are added to the other visualizations on the report page. When you hover over an icon, a grey box displays over the related visual. The icon in bold is the one that is being applied. In the following image, notice that the donut chart is cross-filtering the card visuals and cross-highlighting the other donut charts. You can now change how the selected visualization interacts with the other visualizations on the report page.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the View interactions icon on visualizations.](../media/6-view-interactions-ssm.png)](../media/6-view-interactions-ssm.png#lightbox)
