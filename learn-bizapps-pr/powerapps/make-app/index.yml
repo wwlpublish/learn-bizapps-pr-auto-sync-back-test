@@ -1,24 +1,24 @@
 ### YamlMime:Module 
 uid: learn-bizapps.make-app 
 metadata: 
- title: Make your Power App like a professional
- description: Learn how to make your Power App like a professional.
+ title: Make your app like a professional
+ description: Learn how to make your app from Power Apps like a professional.
  ms.date: 06/30/2022  
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
  ms.prod: learning-power-apps  
-title: Make your Power App like a professional
+title: Make your app like a professional
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  You've now planned and designed your app. Time to use all the tools to our disposal and make our design real!
+  You've planned and designed your app. Now, you'll use the available tools to help make your design a reality.
 abstract: |  
-    In this module, you will: 
-    - Set up data sources
-    - Create a Solution
-    - Set up Automation
-    - Secure your app
-prerequisites: Basic Dataverse experience
+    In this module, you'll: 
+    - Set up data sources.
+    - Create a solution.
+    - Set up automation.
+    - Make your app more secure.
+prerequisites: Basic Microsoft Dataverse experience
 iconUrl: /learn/achievements/make-app.svg  
 levels:  
 - beginner   

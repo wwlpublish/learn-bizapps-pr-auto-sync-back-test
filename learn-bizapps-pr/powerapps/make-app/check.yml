@@ -13,36 +13,36 @@ durationInMinutes: 6
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: Which of the following is a pre-requisite before you can create a model-driven app?
+  - content: Which of the following options is a prerequisite for creating a model-driven app?
     choices: 
-    - content: Data Connectors
+    - content: Data connectors
       isCorrect: false 
-      explanation: Incorrect. Data connectors are used in model-driven app, but this isn't a pre-requisite requirement when creating your app.
+      explanation: Incorrect. Data connectors are used in model-driven apps, but they're not a prerequisite for creating your app.
     - content: Microsoft Dataverse database
       isCorrect: true 
-      explanation: Correct. Model-driven apps rely on Dataverse for data storage, so this is a pre-requisite before you can create a model-driven app.
-    - content: A Power App Template
+      explanation: Correct. Model-driven apps rely on Dataverse for data storage, so this option is a prerequisite for creating a model-driven app.
+    - content: Power Apps template
       isCorrect: false 
-      explanation: Incorrect. Power App templates are optional when building an app.
-  - content: Which of the following are a type of Power Automate Flow?
+      explanation: Incorrect. Power Apps templates are optional when you're building an app.
+  - content: Which one of the following selections is a type of Power Automate flow?
     choices: 
-    - content: Delay Flow
+    - content: Delay 
       isCorrect: false 
-      explanation: Incorrect. This isn't a type of Power Automate Flow.
-    - content: Real-Time Flow
+      explanation: Incorrect. Delay isn't a type of Power Automate flow.
+    - content: Real-time 
       isCorrect: false 
-      explanation: Incorrect. This isn't a type of Power Automate Flow.
-    - content: Cloud Flow
+      explanation: Incorrect. Real-time isn't a type of Power Automate flow.
+    - content: Cloud
       isCorrect: true 
       explanation: Correct. You can create cloud flows, desktop flows, or business process flows.
-  - content: Which of the following can be included in a managed solution?
+  - content: Which one of the following selections can you include in a managed solution?
     choices: 
     - content: Processes
       isCorrect: true 
-      explanation: Correct. A solution can contain one or more apps and other components such as site maps, tables, processes, web resources, choices, flows, and more.
+      explanation: Correct. A solution can contain one or more apps and other components, such as site maps, tables, processes, web resources, choices, flows, and more.
     - content: Data
       isCorrect: false 
-      explanation: Incorrect. There isn't a way to include data in a solution.
-    - content: User Licenses
+      explanation: Incorrect. A way doesn't exist for including data in a solution.
+    - content: User licenses
       isCorrect: false 
       explanation: Incorrect. You can't include user licenses in a managed solution.
