@@ -28,10 +28,10 @@ In this step, you’ll create the app registration and the underlying service pr
 2. Go to Azure Active Directory. 
 3. Go to **App registrations**.
 4. Select **New registration** to register the application. 
-    - Enter any name, such as **my-mc4s-integrated-app**.
-    - Select **Single tenant** in the **Supported account types** section.
-    - Select **Public client/native (mobile & desktop)** and then enter **http://localhost** in the **Redirect URI (optional)** section.
-    - Select **Register**.
+    1. Enter any name, such as **my-mc4s-integrated-app**.
+    1. Select **Single tenant** in the **Supported account types** section.
+    1. Select **Public client/native (mobile & desktop)** and then enter **http://localhost** in the **Redirect URI (optional)** section.
+    1. Select **Register**.
 
         > [!div class="mx-imgBorder"]
         > [![Screenshot of registration page to register an application.](../media/register-application.png)](../media/register-application.png#lightbox)
@@ -47,11 +47,11 @@ Now, you've created your Azure AD application and service principal. The app reg
     > [![Screenshot highlighting Application client ID must be different in application.](../media/intergrated-app.png)](../media/intergrated-app.png#lightbox)
 
 6. To access resources in your subscription, assign a role to the application. 
-    - Go to **API permissions**.
-    - Select **Add a permission**.
-    - Select **APIs my organization uses**.
-    - Enter **Dataverse** in the search box.
-    - Select the **Dataverse** item from the result list. 
+    1. Go to **API permissions**.
+    1. Select **Add a permission**.
+    1. Select **APIs my organization uses**.
+    1. Enter **Dataverse** in the search box.
+    1. Select the **Dataverse** item from the result list. 
 
     > [!Note]
     > By default, Azure AD applications aren't displayed in the available options. To find your application, search for it and then select the name. 
@@ -160,7 +160,7 @@ To create a .NET 6 console app, follow these steps:
     }
 
     ```
-3. Replace the placeholder text in the **Enter Dataverse environment endpoint** here field with the URL that you previously retrieved in this exercise.
+3. Replace the placeholder text in the **Enter Dataverse environment endpoint** field with the URL that you previously retrieved in this exercise.
 
 4. Replace the placeholder text in the **Enter App ID here** field with the app registration ID that you previously copied in this exercise.
 

@@ -1,4 +1,4 @@
-Azure Synapse Link for Dataverse enables you to get near real-time insights over your data in Microsoft Dataverse. With a tight, seamless integration between Dataverse and Microsoft Azure Synapse Analytics, Azure Synapse Link will help you run analytics, business intelligence, and machine learning scenarios on your data. 
+Azure Synapse Link for Dataverse enables you to get near real-time insights over your data in Microsoft Dataverse. With the integration between Dataverse and Microsoft Azure Synapse Analytics, Azure Synapse Link will help you run analytics, business intelligence, and machine learning scenarios on your data. 
 
 [![Diagram representing Dataverse continuously export data and metadata to Azure Synapse Analytics.](../media/dataverse.png)](../media/dataverse.png#lightbox)
 
@@ -46,6 +46,7 @@ To create the Azure Synapse Analytics workspace, follow these steps:
 
 To enable tracking for Dataverse tables so that you can link them to Synapse later, follow these steps: 
 1. Go to the [Power Apps portal](https://make.powerapps.com/?azure-portal=true).
+
 2. Go to **Data > Tables**.
 3. Select **Managed** in the filter in the upper-right corner.
 4. Select the **Emission** table.

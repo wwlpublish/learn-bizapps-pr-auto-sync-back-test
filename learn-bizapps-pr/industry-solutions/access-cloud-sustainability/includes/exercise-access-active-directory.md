@@ -22,10 +22,10 @@ Next, you’ll create the app registration and underlying service principal that
 2. Go to Azure Active Directory.
 3. Go to **App registrations**.
 4. Select **New registration**.
-    - Enter any name, such as **my-mc4s-integrated-app**.
-    - Select **Single tenant** for the **Supported account types**. 
-    - Select **Public client/native (mobile & desktop)** and then enter `http://localhost` in the **Redirect URI (optional)** section.
-    - Select **Register**.
+    1. Enter any name, such as **my-mc4s-integrated-app**.
+    1. Select **Single tenant** for the **Supported account types**. 
+    1. Select **Public client/native (mobile & desktop)** and then enter `http://localhost` in the **Redirect URI (optional)** section.
+    1. Select **Register**.
         > [!div class="mx-imgBorder"]
         > [![Screenshot of registration page to register an application.](../media/register-application.png)](../media/register-application.png#lightbox)
 
@@ -37,11 +37,11 @@ Next, you’ll create the app registration and underlying service principal that
     > [![Screenshot highlighting Application client ID must be different in application.](../media/intergrated-app.png)](../media/intergrated-app.png#lightbox)
 
 6. To access resources in your subscription, assign a role to the application. 
-    - Go to **API permissions**.
-    - Select **Add a permission**.
-    - Select **APIs my organization uses**.
-    - Enter **Dataverse** in the search box.
-    - Select the **Dataverse** item from the result list. 
+    1. Go to **API permissions**.
+    1. Select **Add a permission**.
+    1. Select **APIs my organization uses**.
+    1. Enter **Dataverse** in the search box.
+    1. Select the **Dataverse** item from the result list. 
  
         > [!div class="mx-imgBorder"]
         > [![Screenshot highlighting how to add a permission using API permissions.](../media/integrated-app-permissions.png)](../media/integrated-app-permissions.png#lightbox)
@@ -165,13 +165,14 @@ To create a Microsoft .NET Framework console app to query the **Emission** table
     }
     ```
 
-3. Replace the **Enter Dataverse environment endpoint** here placeholder with the URL that you previously retrieved in this exercise.
+3. Replace the **Enter Dataverse environment endpoint** placeholder with the URL that you previously retrieved in this exercise.
 4. Replace the **Enter App ID here** placeholder with the app registration ID that you previously copied in this exercise.
 5.	Add the following [NuGet packages](/nuget/consume-packages/install-use-packages-visual-studio/?azure-portal=true):
 
     - Microsoft.IdentityModel.Clients.ActiveDirectory 
         > [!Note]
         > This package is deprecated. 
+    
     - Newtonsoft.Json
 6. Run the console app. 
 7. Authenticate by using your credentials in the pop-up window. The console app should list the first 10 records of the **Emission** table.
