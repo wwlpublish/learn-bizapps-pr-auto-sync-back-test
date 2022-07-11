@@ -1,4 +1,4 @@
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50N9U]
 
 With the modern interface, makers can observe the effects of the changes that they make while they're designing, whereas with the classic interface, a level of abstraction exists between the final user experience and the design experience. 
 
