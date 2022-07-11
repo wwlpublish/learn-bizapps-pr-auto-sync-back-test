@@ -1,4 +1,4 @@
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50N9M]
 
 To get started creating a canvas app, you can automatically generate an app from one of these sources, among others:
 
