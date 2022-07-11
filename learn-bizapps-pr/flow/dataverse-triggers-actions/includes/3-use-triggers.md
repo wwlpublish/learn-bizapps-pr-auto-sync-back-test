@@ -4,13 +4,14 @@ When using a Dataverse trigger, you need to specify the following parameters:
 
 - **Environment** - Environments are like containers in which you can organize tables, flows, apps, and more. Some organizations only use a single environment, but many have multiple environments for various priorities and developments.
 
-- **Entity Name** - Entity is simply another word for table. It allows you to specify the exact table where your data is held, which should trigger your flow. If you select **User** in this drop-down menu, only actions on a record that you own will trigger the flow.
+- **Table Name** - It allows you to specify the exact table where your data is held, which should trigger your flow. 
 
 - **Scope** – This parameter allows you to specify when the flow runs according to the user who triggered it. Various scopes that you can choose from are:
 
   - **Business unit** – Actions that are taken on a record that your business unit owns will trigger the flow. 
   - **Parent: Child business unit** – A trigger with this scope will be initiated on actions that are taken on a record that your business unit or any child business units owns. 
   - **Organization** – The flow will be triggered for actions that are taken on the record, regardless of owner.
+  - **User** - Only actions on a record that you own will trigger the flow.
 
 
 > [!div class="mx-imgBorder"]
