@@ -9,7 +9,7 @@ metadata:
   ms.author: sudhaashok 
   ms.topic: interactive-tutorial 
   ms.prod: learning-mscloud-sustainability 
-durationInMinutes: 15
+durationInMinutes: 25
 content: | 
  [!include[](../includes/unit-banner.md)] 
  [!include[](includes/exercise-build-azure-factory.md)] 
