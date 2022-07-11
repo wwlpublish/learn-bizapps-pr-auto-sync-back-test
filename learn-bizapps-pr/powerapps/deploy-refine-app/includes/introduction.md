@@ -1,4 +1,4 @@
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE50ytF]
 
 You’ve planned your project and designed your app. Now, you need to get the app to your users by making it available for production use.
 
