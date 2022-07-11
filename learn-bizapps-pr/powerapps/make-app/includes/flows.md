@@ -4,7 +4,7 @@ The designing phase of this implementation identified multiple scenarios that yo
 
 Multiple types of flows are available for you to create with Power Automate. You can create [cloud flows](/power-automate/flow-types?azure-portal=true#cloud-flows), [desktop flows](/power-automate/flow-types?azure-portal=true#desktop-flows), or [business process flows](/power-automate/flow-types?azure-portal=true#business-process-flows). Watch the following video for a demonstration of the types of flows that you can create.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50ytt]
 
 ## Recommended content
 
