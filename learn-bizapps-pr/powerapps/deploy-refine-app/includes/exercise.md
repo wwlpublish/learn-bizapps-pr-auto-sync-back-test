@@ -1,4 +1,4 @@
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE50tTy]
 
 For more information, see [Guidelines and troubleshooting for embedded canvas apps](/power-apps/maker/model-driven-apps/embedded-canvas-app-guidelines/?azure-portal=true).
 
