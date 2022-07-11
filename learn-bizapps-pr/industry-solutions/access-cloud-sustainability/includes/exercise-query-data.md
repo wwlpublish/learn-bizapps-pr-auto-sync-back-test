@@ -80,7 +80,7 @@ To create the Azure Synapse Link for Dataverse, complete the following steps:
 
 9. Repeat the same process for the other linked tables. 
 
-For more information, read [Create an Azure Synapse Link for Dataverse with your Azure Synapse Workspace](/power-apps/maker/data-platform/azure-synapse-link-synapse/?azure-portal=true) .
+For more information, read [Create an Azure Synapse Link for Dataverse with your Azure Synapse Workspace](/power-apps/maker/data-platform/azure-synapse-link-synapse/?azure-portal=true).
 
 ## Step 5- Confirm that Dataverse data is linked to Synapse Analytics
 

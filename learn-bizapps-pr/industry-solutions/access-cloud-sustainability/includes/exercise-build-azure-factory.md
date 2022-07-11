@@ -81,7 +81,7 @@ To create a Data Factory resource, consider the following steps:
 1. From the Azure portal, create a new Data Factory resource. 
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot showing data factory resource creation in azure portal.](../media/data-factory.png)](../media/data-factory.png#lightbox)
+    > [![Screenshot showing data factory resource creation in Azure portal.](../media/data-factory.png)](../media/data-factory.png#lightbox)
 
 2. On the **Basics** tab, enter a name, such as **adf-mc4s**, and then select the same region that you previously selected for the storage account. 
 
@@ -181,7 +181,7 @@ To create the output dataset, follow these steps:
     - Download [this file](https://github.com/AndreaC-MSFT/MC4S-Labs/blob/main/assets/adf-sample-schema.json/?azure-portal=true) locally and then select it with the **Browse** button.
     - Select **OK**. 
         > [!div class="mx-imgBorder"]
-        > [![Screenshot showing Set properties page where you can fill details like Name, Linken Service, file path.](../media/set-properties-linked-services.png)](../media/set-properties-linked-services.png#lightbox)
+        > [![Screenshot showing Set properties page where you can fill details like Name, Linked Service, file path.](../media/set-properties-linked-services.png)](../media/set-properties-linked-services.png#lightbox)
 
 5. Review the connection and then select **Publish all > Publish**. 
 
