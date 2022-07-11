@@ -16,7 +16,7 @@ To train a new model, make sure that you identify or create a Dataverse table fo
 
 - Specify a Tags column, such as no tag, single tag, or multiple tags that are delimited by a supported separator (commas, semicolons, and tab characters).
 
-- Use at least 10 examples (rows) where a tag is referenced and 10 examples (rows) where it isn't referenced are required for each category.
+- You need at least 10 examples (rows) where a tag is referenced and 10 examples (rows) where it isn't referenced for each category.
 
 - Use a table that has between two and 200 distinct tags.
 
