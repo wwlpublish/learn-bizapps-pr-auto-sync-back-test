@@ -59,7 +59,7 @@ In this step, you’ll create an application user that’s linked to the app reg
 In this step, you’ll create the storage account to which the data factory pipeline will write the output files.
 1. Go to the [Azure portal](https://ms.portal.azure.com/?azure-portal=true).
 2. Create a new storage account resource:
-    - Give any name, such as **samc4s**.
+    - Give any name, such as samc4s.
     - Select a region (preferably the same region where your Microsoft Cloud for Sustainability environment is deployed).
     - In the **Redundancy** dropdown menu, select **Locally-redundant storage (LRS)** .
     - Retain everything else as default and then create the resource. 
