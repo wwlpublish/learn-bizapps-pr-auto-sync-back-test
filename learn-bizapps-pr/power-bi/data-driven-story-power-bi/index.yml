@@ -3,7 +3,7 @@ uid: learn-bizapps.data-driven-story-power-bi
 metadata: 
  title: Create a data-driven story with Power BI reports
  description: Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.
- ms.date: 07/23/2021
+ ms.date: 07/08/2022
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
