@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.test-app.unit
-title: Unit tests scenarios and best practices
+title: Unit test scenarios and best practices
 metadata: 
-  title: Unit tests scenarios and best practices
-  description: Learn about unit tests scenarios and best practices.
+  title: Unit test scenarios and best practices
+  description: Learn about unit test scenarios and best practices.
   ms.date: 06/30/2022 
   author: jadaphillips 
   ms.author: jadaphillips 
