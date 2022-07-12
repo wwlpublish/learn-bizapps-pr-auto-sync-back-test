@@ -8,7 +8,7 @@
 
     Example: "You'll be <building> a <Logic App> that <determines the sentiment of new tweets and reacts accordingly>. Here, we'll discuss the project <business logic and target behavior>. We'll also cover the <accounts and software> you'll need."
 -->
-You'll be creating custom tables and columns to build a canvas app, along with some notification flows. Here, we'll discuss the things you'll need to get started.
+You'll be creating custom tables and columns to build a canvas app along with some notification flows. Here, we'll discuss the things you'll need to get started.
 
 <!-- 2. Project specification -----------------------------------------------------------------------------
 
