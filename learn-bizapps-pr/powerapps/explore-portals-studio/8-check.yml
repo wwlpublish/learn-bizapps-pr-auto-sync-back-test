@@ -1,57 +1,57 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.explore-portals-studio.8-check 
-title: Check your knowledge 
-metadata: 
- title: Check your knowledge 
- description: Answer the following questions to see what you've learned. 
- ms.date: 06/23/2022 
- author: DaveBeasley 
- ms.author: dbeasley 
- ms.topic: interactive-tutorial 
- ms.prod: learning-power-apps-portals 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.explore-portals-studio.8-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/30/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps-portals
 durationInMinutes: 6
-quiz: 
-  title: Answer the following questions to see what you've learned. 
-  questions: 
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
   - content: Which component isn't part of the Power Apps portals Studio?
-    choices: 
+    choices:
     - content: Canvas
-      isCorrect: false 
+      isCorrect: false
       explanation: The canvas, Properties pane, and toolbelt are features of the portals Studio while the portal checker is in the admin section.
     - content: Properties pane
-      isCorrect: false 
+      isCorrect: false
       explanation: The canvas, Properties pane, and toolbelt are features of the portals Studio while the portal checker is in the admin section.
     - content: Toolbelt
-      isCorrect: false 
+      isCorrect: false
       explanation: The canvas, Properties pane, and toolbelt are features of the portals Studio while the portal checker is in the admin section.
     - content: Portal checker
-      isCorrect: true 
+      isCorrect: true
       explanation: The canvas, Properties pane, and toolbelt are features of the portals Studio while the portal checker is in the admin section.
   - content: What is a specific component that can't be added to a webpage by using portals Studio?
-    choices: 
+    choices:
     - content: Lists
-      isCorrect: false 
+      isCorrect: false
       explanation: The Web Forms component isn't available to add to a webpage in portals Studio.
     - content: Three-column section
-      isCorrect: false 
+      isCorrect: false
       explanation: The Web Forms component isn't available to add to a webpage in portals Studio.
     - content: IFrame
-      isCorrect: false 
+      isCorrect: false
       explanation: The Web Forms component isn't available to add to a webpage in portals Studio.
     - content: Advanced Forms
-      isCorrect: true 
+      isCorrect: true
       explanation: The Advanced Forms component isn't available to add to a webpage in portals Studio.
   - content: What theme components can be configured by using basic themes?
-    choices: 
+    choices:
     - content: Font style
-      isCorrect: false 
+      isCorrect: false
       explanation: Currently, only color components can be configured by using basic themes. Other aspects can be edited by using the CSS editor.
     - content: Color
-      isCorrect: true 
+      isCorrect: true
       explanation: Currently, only color components can be configured by using basic themes. Other aspects can be edited by using the CSS editor.
     - content: Header image
-      isCorrect: false 
+      isCorrect: false
       explanation: Currently, only color components can be configured by using basic themes. Other aspects can be edited by using the CSS editor.
     - content: Font size
-      isCorrect: false 
+      isCorrect: false
       explanation: Currently, only color components can be configured by using basic themes. Other aspects can be edited by using the CSS editor.

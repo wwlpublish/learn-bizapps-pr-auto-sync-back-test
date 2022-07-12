@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.explore-portals-studio.7-exercise 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.explore-portals-studio.7-exercise
 title: Exercise - Edit webpages
-metadata: 
-  title: Exercise - Edit webpages 
-  description: Learn how to edit webpages.  
-  ms.date: 06/23/2022 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps-portals 
-durationInMinutes: 15 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/7-exercise.md)] 
+metadata:
+  title: Exercise - Edit webpages
+  description: Learn how to edit webpages.
+  ms.date: 06/30/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps-portals
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/7-exercise.md)]

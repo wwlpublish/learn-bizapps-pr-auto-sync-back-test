@@ -58,7 +58,7 @@ For the AI Builder sentiment analysis model, **Language** and **Text** are the t
 
 1. In the **Text** field, select **My Text**, which is defined in the trigger action.
 
-    ![Analyze positive or negative sentiment in text.](../media/03-sentiment.png)
+    ![Analyze positive or negative sentiment in text.](../media/03-sentiment.jpg)
 
     The **My Text** value will be provided during flow testing, so you don't need to focus on it right now.
 
