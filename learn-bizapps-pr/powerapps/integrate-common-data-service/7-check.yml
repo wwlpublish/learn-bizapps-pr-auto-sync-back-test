@@ -41,20 +41,20 @@ quiz:
     - content: Configure On Success Settings to redirect to a Thank You page.
       isCorrect: true
       explanation: The On Success Settings feature defines behavior on the form on successful submission. Options are to display a message or to redirect to another page or URL.
-  - content: What do you need to do to display a advanced form in the portal?
+  - content: What do you need to do to display an advanced form in the portal?
     choices:
     - content: Add the advanced form component by using portals Studio.
       isCorrect: false
-      explanation: A advanced form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. A advanced form must be associated with a webpage to be rendered within the site.
+      explanation: An advanced form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. An advanced form must be associated with a webpage to be rendered within the site.
     - content: Enable the advanced form.
       isCorrect: false
-      explanation: A advanced form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. A advanced form must be associated with a webpage to be rendered within the site.
+      explanation: An advanced form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. An advanced form must be associated with a webpage to be rendered within the site.
     - content: Add the Liquid tag by using the portals Studio source code editor.
       isCorrect: true
-      explanation: A advanced form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. A advanced form must be associated with a webpage to be rendered within the site.
+      explanation: An advanced form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. An advanced form must be associated with a webpage to be rendered within the site.
     - content: Select Display on the Portal check box.
       isCorrect: false
-      explanation: A advanced form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. A advanced form must be associated with a webpage to be rendered within the site.
+      explanation: An advanced form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. An advanced form must be associated with a webpage to be rendered within the site.
   - content: Your company's rules don't allow you to delete cases from your Dynamics 365 Customer Service deployment. A new background Escalate Case workflow has been added to your instance. The company wants to make this workflow available for the portal users on the Case View form. How would you achieve that task?
     choices:
     - content: Add a real-time workflow on the Delete button and invoke the Escalate Case workflow as the first step. Rename the Delete button to Escalate.

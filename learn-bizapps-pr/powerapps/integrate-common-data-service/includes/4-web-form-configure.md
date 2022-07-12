@@ -72,6 +72,6 @@ The advanced form is not listed as a component in portals Studio, but a maker ca
 > [!div class="mx-imgBorder"]
 > [![Screenshot of Advanced form added to web page in Portal Studio.](../media/web-form-portal-studio.png)](../media/web-form-portal-studio.png#lightbox)
 
-You can also select an advanced form as the value for an **Advanced Web Form** lookup on a webpage. If the page template associated with the webpage supports this lookup value, it will uses that form definition to render the form.
+You can also select an advanced form as the value for an **Advanced Web Form** lookup on a webpage. If the page template associated with the webpage supports this lookup value, it will use that form definition to render the form.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4AoG8]
