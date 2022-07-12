@@ -10,7 +10,7 @@ All interactions and actions that a portal user takes (for example, leaving a co
 
 Portal users can authenticate by using the following methods:
 
-- **Local authentication** - Common forms-based authentication with usernames and password hashtags are stored in the Dataverse contact row.
+- **Local authentication** - Common forms-based authentication with usernames and password hashs are stored in the Dataverse contact row.
 
 - **External authentication** - Credentials and password management are handled by other identity providers. Supported authentication providers include:
   - OAuth2 (Microsoft, Twitter, Facebook, Google, LinkedIn, Yahoo)
