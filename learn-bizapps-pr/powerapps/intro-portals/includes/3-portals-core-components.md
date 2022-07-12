@@ -62,7 +62,6 @@ Webpages can be added and edited by using the Portal Studio or directly in Datav
 
    ![Open Portal Management app](../media/open-portal-management-app.png)
 
-1. In the Content section, select **Web Pages**.
 1. In the **Content** section select **Web Pages**.
 
 1. Select **New**.
