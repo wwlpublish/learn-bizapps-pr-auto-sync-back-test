@@ -23,7 +23,7 @@ Follow these steps to create a new **Table Permission** row:
 > [!IMPORTANT]
 > Rights are cumulative. If a user is in one role that grants Read rights and another role that grants Read and Write rights, the user will have Read and Write rights for any rows that overlap between the two roles. No mechanism exists to reduce the permission scope or remove a privilege by assigning another role.
 
-## Using Power Apps portals Studio
+## Use Power Apps portals Studio
 
 Power Apps portals Studio provides a user experience for creating and editing table permissions:
 

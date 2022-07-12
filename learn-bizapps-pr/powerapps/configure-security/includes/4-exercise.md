@@ -88,7 +88,7 @@ To create the **Suppliers** webpage, follow these steps:
 
 Select the **Browse website** to view the page. You will receive a message indicating that you do not have permission to view the rows.
 
-![Screenshot of the error message when attempting to access the account list without table permissions in place](../media/no-access-accounts.png)
+![Screenshot of the error message when attempting to access the account list without table permissions in place.](../media/no-access-accounts.png)
 
 ### Add a portal user
 
