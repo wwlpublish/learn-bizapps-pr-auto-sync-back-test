@@ -19,7 +19,17 @@ TODO: describe the end-state functionality after the exercise is completed
 -->
 
 ## Specification
-TODO
+Create a Power Apps canvas app called Pet Paradise Booking Requests that meets these specifications:
+- Create a custom table for Booking Requests that can store the following information: 
+    - Start and End Dates
+    - Pet Name
+    - Owner’s Name and Email
+    - Decision (with the option to choose between Undecided, Accepted, and Declined)
+    - Notes
+- The customer must provide the Start Date, End Date, Pet Name, Owner Name, and Email to submit a Booking Request.
+- New Booking Requests should default to a decision of Undecided until a Pet Paradise employee reviews it.
+- Employees can view all Undecided Booking Requests and update the Decision column to Accepted or Declined.
+- Create your app for your new custom table that allows users to create Booking Requests.
 
 <!-- 3. Validation -------------------------------------------------------------------------------------------
 
@@ -41,9 +51,10 @@ TODO
 
 ## Check your work
 <!-- Introduction paragraph -->
-1. <!-- Step 1 (if multiple steps are needed) -->
-1. <!-- Step 2 (if multiple steps are needed) -->
-1. <!-- Step n (if multiple steps are needed) -->
+1. Run your app. Create a new booking request with the Start Date, Pet Name, Owner Name, and Email populated, leaving the End Date blank. Submit the request to verify that the user cannot submit a request without the End Date populated.
+2. Run your app. Create a new booking with the Start Date, End Date, Pet Name, Owner Name, and Email populated. Submit the request to verify that the user can submit a request when all the required information is provided.
+3. View the Booking Request that you created. Verify that the Decision column is set to Undecided. Update the column to Accepted.
+
 Optional "exercise-solution" video
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
