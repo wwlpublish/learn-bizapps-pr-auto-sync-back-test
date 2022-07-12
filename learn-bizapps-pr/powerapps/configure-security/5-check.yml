@@ -1,71 +1,71 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.configure-security.5-check 
-title: Check your knowledge 
-metadata: 
- title: Check your knowledge 
- description: Answer the following questions to see what you've learned. 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.configure-security.5-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
  ms.date: 06/01/2021
- author: DaveBeasley 
- ms.author: dbeasley 
- ms.topic: interactive-tutorial 
- ms.prod: learning-power-apps 
-durationInMinutes: 4 
-quiz: 
-  title: Answer the following questions to see what you've learned. 
-  questions: 
-  - content: What entity defines the data access privileges that a web role has in Power Apps portals?
-    choices: 
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps
+durationInMinutes: 4
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What table defines the data access privileges that a web role has in Power Apps portals?
+    choices:
     - content: Contacts
-      isCorrect: false 
-      explanation: Web Page Access Rules define which pages are visible to a web role and what actions can be taken. Entity Permissions define what access that a web role has to individual Microsoft Dataverse entities.
+      isCorrect: false
+      explanation: Web Page Access Rules define which pages are visible to a web role and what actions can be taken. Table Permissions define what access that a web role has to individual Microsoft Dataverse tables.
     - content: Data Access Permissions
-      isCorrect: false 
-      explanation: Web Page Access Rules define which pages are visible to a web role and what actions can be taken. Entity Permissions define what access that a web role has to individual Dataverse entities.
-    - content: Entity Permissions
-      isCorrect: true 
-      explanation: Web Page Access Rules define which pages are visible to a web role and what actions can be taken. Entity Permissions define what access that a web role has to individual Dataverse entities.
+      isCorrect: false
+      explanation: Web Page Access Rules define which pages are visible to a web role and what actions can be taken. Table Permissions define what access that a web role has to individual Dataverse tables.
+    - content: Table Permissions
+      isCorrect: true
+      explanation: Web Page Access Rules define which pages are visible to a web role and what actions can be taken. Table Permissions define what access that a web role has to individual Dataverse tables.
     - content: Web Page Access Rules
-      isCorrect: false 
-      explanation: Web Page Access Rules define which pages are visible to a web role and what actions can be taken. Entity Permissions define what access that a web role has to individual Dataverse entities.
-  - content: You created a new role called Partner Manager and want to grant users in this role with the permission to edit all contacts within the user's parent account. What scope would you select for the entity permission?
-    choices: 
+      isCorrect: false
+      explanation: Web Page Access Rules define which pages are visible to a web role and what actions can be taken. Table Permissions define what access that a web role has to individual Dataverse tables.
+  - content: You created a new role called Partner Manager and want to grant users in this role with the permission to edit all contacts within the user's parent account. What scope would you select for the table permission?
+    choices:
     - content: Contact scope
-      isCorrect: false 
-      explanation: Use Account scope and then specify parent account relationship. With Account scope, a signed-in user in the role for which the permission record is defined will have the rights granted by that permission only for records that are related to that user's parent account record through a selected Dataverse relationship.
+      isCorrect: false
+      explanation: Use Account scope and then specify parent account relationship. With Account scope, a signed-in user in the role for which the permission row is defined will have the rights granted by that permission only for rows that are related to that user's parent account row through a selected Dataverse relationship.
     - content: Account scope
-      isCorrect: true 
-      explanation: Use Account scope and then specify parent account relationship. With Account scope, a signed-in user in the role for which the permission record is defined will have the rights granted by that permission only for records that are related to that user's parent account record through a selected Dataverse relationship.
+      isCorrect: true
+      explanation: Use Account scope and then specify parent account relationship. With Account scope, a signed-in user in the role for which the permission row is defined will have the rights granted by that permission only for rows that are related to that user's parent account row through a selected Dataverse relationship.
     - content: Self scope
-      isCorrect: false 
-      explanation: Use Account scope and then specify parent account relationship. With Account scope, a signed-in user in the role for which the permission record is defined will have the rights granted by that permission only for records that are related to that user's parent account record through a selected Dataverse relationship.
+      isCorrect: false
+      explanation: Use Account scope and then specify parent account relationship. With Account scope, a signed-in user in the role for which the permission row is defined will have the rights granted by that permission only for rows that are related to that user's parent account row through a selected Dataverse relationship.
     - content: This access is granted implicitly; no need to add any permissions
-      isCorrect: false 
-      explanation: Use Account scope and then specify parent account relationship. With Account scope, a signed-in user in the role for which the permission record is defined will have the rights granted by that permission only for records that are related to that user's parent account record through a selected Dataverse relationship.
-  - content: You added a Dynamic Lookup Filter to your entity list so that you can filter the list by currency. However, at runtime, the list of available currencies in the filter is empty. You double-checked your Dataverse instance, which shows that active currency records do exist. What do you need to do to display currencies in the filter?
-    choices: 
+      isCorrect: false
+      explanation: Use Account scope and then specify parent account relationship. With Account scope, a signed-in user in the role for which the permission row is defined will have the rights granted by that permission only for rows that are related to that user's parent account row through a selected Dataverse relationship.
+  - content: You added a Dynamic Lookup Filter to your list so that you can filter the list by currency. However, at runtime, the list of available currencies in the filter is empty. You double-checked your Dataverse instance, which shows that active currency rows do exist. What do you need to do to display currencies in the filter?
+    choices:
     - content: Remove and then add the filter again
-      isCorrect: false 
-      explanation: Whenever Dataverse data is accessed by using methods other than Entity List or Entity Form, entity permissions are applied automatically, including metadata filters where the Dynamic Lookup Filter is used. For an entity to display lookup values, an entity permission record is required.
+      isCorrect: false
+      explanation: Whenever Dataverse data is accessed regardless of the method, table permissions are applied automatically, including metadata filters where the Dynamic Lookup Filter is used. For a table to display lookup values, a table permission row is required.
     - content: Update the currency exchange rate in a Dataverse model-driven app
-      isCorrect: false 
-      explanation: Whenever Dataverse data is accessed by using methods other than Entity List or Entity Form, entity permissions are applied automatically, including metadata filters where the Dynamic Lookup Filter is used. For an entity to display lookup values, an entity permission record is required.
+      isCorrect: false
+      explanation: Whenever Dataverse data is accessed regardless of the method, table permissions are applied automatically, including metadata filters where the Dynamic Lookup Filter is used. For a table to display lookup values, a table permission row is required.
     - content: Sign in as an administrator
-      isCorrect: false 
-      explanation: Whenever Dataverse data is accessed by using methods other than Entity List or Entity Form, entity permissions are applied automatically, including metadata filters where the Dynamic Lookup Filter is used. For an entity to display lookup values, an entity permission record is required.
-    - content: Add an entity permission record for the currency entity
-      isCorrect: true 
-      explanation: Whenever Dataverse data is accessed by using methods other than Entity List or Entity Form, entity permissions are applied automatically, including metadata filters where the Dynamic Lookup Filter is used. For an entity to display lookup values, an entity permission record is required.
-  - content: You have a product list page that uses an entity list to display the data. You have configured Read  permissions for the product list entity and have set the scope to Global. Users have complained that they can browse a product listing page anonymously but are denied access to the page after they sign in. How would you resolve the issue?
-    choices: 
+      isCorrect: false
+      explanation: Whenever Dataverse data is accessed regardless of the method, table permissions are applied automatically, including metadata filters where the Dynamic Lookup Filter is used. For a table to display lookup values, a table permission row is required.
+    - content: Add a table permission row for the currency table
+      isCorrect: true
+      explanation: Whenever Dataverse data is accessed regardless of the method, table permissions are applied automatically, including metadata filters where the Dynamic Lookup Filter is used. For a table to display lookup values, a table permission row is required.
+  - content: You have a product list page that uses a list to display the data. You have configured Read permissions for the product list table and have set the scope to Global. Users have complained that they can browse a product listing page anonymously but are denied access to the page after they sign in. How would you resolve the issue?
+    choices:
     - content: Change the scope to Contact
-      isCorrect: false 
-      explanation: One of the web roles in the portal can be marked as Anonymous and another one as Authenticated. These roles allow you to apply permissions and access rules to all portal users based on whether they access the site anonymously or if they are signed in. Because users can access the data anonymously but can’t when they’re authenticated, it indicates that the entity permission is associated with the Anonymous role but not with the Authenticated one.
+      isCorrect: false
+      explanation: One of the web roles in the portal can be marked as Anonymous and another one as Authenticated. These roles allow you to apply permissions and access rules to all portal users based on whether they access the site anonymously or if they are signed in. Because users can access the data anonymously but can't when they're authenticated, it indicates that the table permission is associated with the Anonymous role but not with the Authenticated one.
     - content: Ask a developer to create a web template that can bypass the security check
-      isCorrect: false 
-      explanation: One of the web roles in the portal can be marked as Anonymous and another one as Authenticated. These roles allow you to apply permissions and access rules to all portal users based on whether they access the site anonymously or if they are signed in. Because users can access the data anonymously but can’t when they’re authenticated, it indicates that the entity permission is associated with the Anonymous role but not with the Authenticated one.
-    - content: Associate an entity permission with the All Users role
-      isCorrect: false 
-      explanation: One of the web roles in the portal can be marked as Anonymous and another one as Authenticated. These roles allow you to apply permissions and access rules to all portal users based on whether they access the site anonymously or if they are signed in. Because users can access the data anonymously but can’t when they’re authenticated, it indicates that the entity permission is associated with the Anonymous role but not with the Authenticated one.
-    - content: Associate an entity permission with the Authenticated users role
-      isCorrect: true 
-      explanation: One of the web roles in the portal can be marked as Anonymous and another one as Authenticated. These roles allow you to apply permissions and access rules to all portal users based on whether they access the site anonymously or if they are signed in. Because users can access the data anonymously but can’t when they’re authenticated, it indicates that the entity permission is associated with the Anonymous role but not with the Authenticated one.
+      isCorrect: false
+      explanation: One of the web roles in the portal can be marked as Anonymous and another one as Authenticated. These roles allow you to apply permissions and access rules to all portal users based on whether they access the site anonymously or if they are signed in. Because users can access the data anonymously but can't when they're authenticated, it indicates that the table permission is associated with the Anonymous role but not with the Authenticated one.
+    - content: Associate a table permission with the All Users role
+      isCorrect: false
+      explanation: One of the web roles in the portal can be marked as Anonymous and another one as Authenticated. These roles allow you to apply permissions and access rules to all portal users based on whether they access the site anonymously or if they are signed in. Because users can access the data anonymously but can't when they're authenticated, it indicates that the table permission is associated with the Anonymous role but not with the Authenticated one.
+    - content: Associate a table permission with the Authenticated users role
+      isCorrect: true
+      explanation: One of the web roles in the portal can be marked as Anonymous and another one as Authenticated. These roles allow you to apply permissions and access rules to all portal users based on whether they access the site anonymously or if they are signed in. Because users can access the data anonymously but can't when they're authenticated, it indicates that the table permission is associated with the Anonymous role but not with the Authenticated one.
