@@ -8,7 +8,7 @@
 
     Example: "You'll be <building> a <Logic App> that <determines the sentiment of new tweets and reacts accordingly>. Here, we'll discuss the project <business logic and target behavior>. We'll also cover the <accounts and software> you'll need."
 -->
-TODO: add your topic sentences(s)
+You'll be creating custom tables and columns to build a canvas app, along with some notification flows. Here, we'll discuss the things you'll need to get started.
 
 <!-- 2. Project specification -----------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ TODO: add your topic sentences(s)
         - List of the technologies they should use.
 -->
 ## Project specification
-TODO
+You need access to Microsoft Power Platform to complete this challenge project. 
 
 <!-- 3. Setup -------------------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ TODO
     containing a single H2.
 -->
 ## Setup
-You will need access to Microsoft Power Platform to complete this challenge project. If needed, you can sign up for a trial by following these steps:
+If needed, you can sign up for a trial by following these steps:
 ### Sign up for a Microsoft Power Platform trial
 1. Navigate to https://powerapps.microsoft.com and click **Start free**.
 2. Under **Get started**, enter your email address in the text box that says **Enter your work email address.**
