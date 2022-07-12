@@ -50,7 +50,8 @@ To update the web link set, follow these steps:
 
 1. Select and open the **Web Link Sets** row named **Secondary Navigation**.
 
-   ![Screenshot of Portal Management app with Web Link Set table and Secondary Navigation row selected.](../media/select-secondary-navigation.png)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Portal Management app with Web Link Set table and Secondary Navigation row selected.](../media/select-secondary-navigation.png)](../media/select-secondary-navigation.png#lightbox)
 
 1. Select the **Links** tab.
 
@@ -71,7 +72,8 @@ To update the web link set, follow these steps:
 
 1. Select **Save & Close**.
 
-   ![Screenshot of Web Link row containing the link to Subpage 1.](../media/subpage-navigation.png)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Web Link row containing the link to Subpage 1.](../media/subpage-navigation.png)](../media/subpage-navigation.png#lightbox)
 
 1. Select the **New Web Link** button again.
 
@@ -127,7 +129,8 @@ To create the webpage, follow these steps:
 
    - **Partial URL:** product-links
 
-  ![Screenshot showing create new page in portals Studio and set properties.](../media/create-blank-page.png)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot showing create new page in portals Studio and set properties.](../media/create-blank-page.png)](../media/create-blank-page.png#lightbox)
 
 ### Add a column component and add navigation
 
@@ -155,7 +158,8 @@ To add a column component and add navigation, follow these steps:
 
 1. Select **Browse website**. You should be able to see a page with links to both portal pages and an external URL.
 
-   ![Screenshot of a page with secondary navigation as displayed in a browser.](../media/page-secondary-navigation.png)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of a page with secondary navigation as displayed in a browser.](../media/page-secondary-navigation.png)](../media/page-secondary-navigation.png#lightbox)
 
 > [!NOTE]
 > Many portal page components, such as lists and forms, are represented by Liquid tags. In this exercise, the *include* tag references the **Web Template** called *Weblink List Group*, which describes how the secondary navigation should be rendered. For more information, see [Work with Liquid templates](/power-apps/maker/portals/liquid/liquid-overview/?azure-portal=true)
