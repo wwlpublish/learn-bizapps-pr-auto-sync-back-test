@@ -57,16 +57,16 @@ TODO
     containing a single H2.
 -->
 ## Setup
-Strong lead sentence stating the categories of what's needed: accounts, software, etc.
-Remainder of paragraph if needed.
-### Create (service) account (repeat as needed)
-Strong lead sentence stating the required account.
-Remainder of paragraph explaining why this is needed and what it will be used for.
-Inline instructions or link to setup instructions.
-### Install (product) (repeat as needed)
-Strong lead sentence stating the product needing installation.
-Remainder of paragraph explaining why this is needed and what it will be used for.
-Inline instructions or link to setup instructions.
+You will need access to Microsoft Power Platform to complete this challenge project. If needed, you can sign up for a trial by following these steps:
+### Sign up for a Microsoft Power Platform trial
+1. Navigate to https://powerapps.microsoft.com and click **Start free**.
+2. Under **Get started**, enter your email address in the text box that says **Enter your work email address.**
+3.  You see a prompt that you have an existing account with Microsoft. Select
+    **Sign in.**
+4.  Enter your password.
+5.  Select **Yes** to stay signed in.
+6.  Complete your account info and select **Get started** to sign up for your
+    Microsoft Power Platform trial.
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
