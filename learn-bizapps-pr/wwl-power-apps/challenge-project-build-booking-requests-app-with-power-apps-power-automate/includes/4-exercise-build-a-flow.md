@@ -19,7 +19,9 @@ TODO: describe the end-state functionality after the exercise is completed
 -->
 
 ## Specification
-TODO
+You need to build some automation for your app that meets the following specifications:
+- When a customer submits a Booking Request, an email is sent to them confirming that the request was received.
+- When a decision has been made on a Booking Request, the customer receives an email to update them on the decision.
 
 <!-- 3. Validation -------------------------------------------------------------------------------------------
 
@@ -41,9 +43,10 @@ TODO
 
 ## Check your work
 <!-- Introduction paragraph -->
-1. <!-- Step 1 (if multiple steps are needed) -->
-1. <!-- Step 2 (if multiple steps are needed) -->
-1. <!-- Step n (if multiple steps are needed) -->
+1. Create a new Booking Request with your email address provided as the Owner Email. Confirm that you receive an email once the Booking Request is created.
+2. Update the Decision field to Declined. Confirm that you receive an email that the Booking Request was declined.
+3. Update the Decision field to Accepted. Confirm that you receive another email that the Booking Request was accepted.
+
 Optional "exercise-solution" video
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
