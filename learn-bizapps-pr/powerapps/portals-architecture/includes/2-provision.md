@@ -1,6 +1,6 @@
 A fully functional portal that is based on a template is provisioned in an environment with Microsoft Dataverse enabled. This portal can be further configured to meet specific business requirements.
 
-A maker will first choose a particular portal template. Currently, only blank website option is available for environments without Dynamics 365, while many portal templates are available for environments with Dynamics 365 apps installed.
+A maker will first choose a particular portal template. Currently, only the blank website template is available for environments without Dynamics 365, while a number of portal templates are available for environments with Dynamics 365 apps installed.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the blank website selection.](../media/2-starter-portals-ssm.png)](../media/2-starter-portals-ssm.png#lightbox)
@@ -42,11 +42,11 @@ By default, a portal will be provisioned in Trial mode. A maker will have 30 day
 
 If you delete a portal app, it will be removed from the list of apps and the portal web application will be deleted as well. However, neither the portal solutions nor portal metadata will be deleted from Dataverse.
 
-### Existing website records
+### Existing website rows
 
-When a portal app is deleted or when a portal configuration migrated from another environment, website records aren't bound to an active website. These records can be used as a starting point to create a new portal that reuses deleted or migrated portal configuration.
+When a portal app is deleted or when a portal configuration is migrated from another environment, website rows are not bound to an active website. These rows can be used as a starting point to create a new portal that re-uses deleted or migrated portal configuration.
 
-To create the portal using an existing website record, check the box **Use data from existing website record** during the provisioning process, and select the website record that you want to use.
+To create the portal using an existing website row, check the box **Use data from existing website record** during the provisioning process, and select the website row that you want to use.
 
 ![Screenshot of the option to provision a portal and use data from existing website record.](../media/use-existing-portal.png)
 
