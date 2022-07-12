@@ -1,4 +1,4 @@
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50N9V]
 
 Your app has been built, but it might not be ready to be released to users. Before you release the app, you'll need to test it to make sure that it works as designed.
 
