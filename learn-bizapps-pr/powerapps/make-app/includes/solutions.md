@@ -1,4 +1,4 @@
-> [!VIDEO https://www.mivcrosoft.com/videoplayer/embed/RE50yts]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50yts]
 
 Solutions will help you transport apps and components from one environment to another or apply a set of customizations to existing apps. A solution can contain one or more apps and other components, such as site maps, tables, processes, web resources, choices, flows, and more.
 
