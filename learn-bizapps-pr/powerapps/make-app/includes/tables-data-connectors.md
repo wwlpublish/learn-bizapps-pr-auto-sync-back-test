@@ -1,4 +1,4 @@
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50TBD]
 
 You can create lists on SharePoint, and you can use these lists as data points to track the data that the organization needs in case your design only includes canvas apps. Model-driven apps rely on Microsoft Dataverse for data storage.
 
