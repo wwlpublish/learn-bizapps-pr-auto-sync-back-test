@@ -28,7 +28,7 @@ By using additional site settings, you can configure the portal to deny access t
 
 It's up to the organization to define how the information about a user being a minor and/or having parental consent is collected. For example, a registration form can be customized to include a **Birth Date** column and, if required, a parental consent flag. You might want to further enhance the functionality by implementing workflow rules that would calculate user age at the sign-in time and then set or clear the **Is Minor** flag.
 
-Special considerations must be given when using external providers such as Azure Active Directory B2C. Only limited information is available from the providers, and providers might or might not have a mechanism for minor protection. Therefore, when someone registers by using an external provider, and the portal is configured to block minors or minors without parental consent, the contact row is not created and the user is not authenticated.
+Special considerations must be given when using external providers such as Azure Active Directory B2C. Only limited information is available from the providers, and providers might or might not have a mechanism for minor protection. Therefore, when someone registers by using an external provider, and the portal is configured to block minors or minors without parental consent, the contact row is not created, and the user is not authenticated.
 
 For more information, see [Identifying minor portal users and obtaining parental consent](/power-apps/maker/portals/configure/implement-gdpr?azure-portal=true#identifying-minor-portal-users-and-obtaining-parental-consent).
 
@@ -36,7 +36,7 @@ For more information, see [Identifying minor portal users and obtaining parental
 
 Your organization will have policies regarding rules for using your portal. These rules are typically described in Terms and Conditions and include what portal users can do, what is prohibited, and a disclaimer to limit your liability when these users access your portal. In addition, portal users must agree to the terms and conditions to allow marketing, profiling, or access to private information.
 
-You can publish terms and conditions to get consent of the portal user before they are authenticated to the site.
+You can publish terms and conditions to get the consent of a portal user before they are authenticated to the site.
 
 Power Apps portals use content snippets to store terms and conditions and to support the process of getting consent from a portal user before they are authenticated to the site. Because content snippets are language-aware, it's possible to configure terms and conditions to be displayed in the language of the user's choice.
 

@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.build-user-experience-portals.1-introduction 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-user-experience-portals.1-introduction
 title: Introduction
-metadata: 
+metadata:
   title: Introduction
   description: Introduction to getting started with portal implementation
-  ms.date: 06/01/2021
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps 
-durationInMinutes: 3 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/1-introduction.md)] 
+  ms.date: 07/12/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/1-introduction.md)]

@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.build-user-experience-portals.7-compliance 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-user-experience-portals.7-compliance
 title: Compliance in Power Apps portals
-metadata: 
+metadata:
   title: Compliance in Power Apps portals
   description: Learn about compliance with accessibility and other standards.
-  ms.date: 06/01/2021 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps 
+  ms.date: 07/12/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps
 durationInMinutes: 3
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/7-compliance.md)] 
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/7-compliance.md)]
