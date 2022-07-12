@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.liquid-template-language.4-data-security-liquid 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.liquid-template-language.4-data-security-liquid
 title: Data security and Liquid
-metadata: 
+metadata:
   title: Data security and Liquid
   description: Learn how table permissions handle data security for Liquid.
-  ms.date: 07/15/2020 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps 
-durationInMinutes: 2 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/4-data-security-liquid.md)] 
+  ms.date: 07/12/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-data-security-liquid.md)]

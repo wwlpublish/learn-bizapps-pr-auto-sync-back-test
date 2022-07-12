@@ -3,7 +3,9 @@ Liquid is integrated natively into Power Apps portals. It adds template processi
 By now, you should be able to:
 
 - Describe Liquid template language and how it's used in portals.
+
 - Interpret the syntax of Liquid and understand the basic structure of Liquid code.
+
 - Differentiate Liquid tags, objects, and filters.
 
 ### Next steps
