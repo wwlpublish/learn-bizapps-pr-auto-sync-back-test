@@ -1,4 +1,4 @@
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE50N9W]
 
 In this section, you'll learn about the basics of how to complete testing on your app.
 
