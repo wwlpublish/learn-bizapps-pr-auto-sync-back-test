@@ -10,7 +10,8 @@
 
     [Introduction unit guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=main#rule-use-the-standard-module-introduction-format)
 -->
-TODO: add your topic sentences(s)
+Create your own data model, app, and flow to support a scenario for a fictional company. You will be provided with high-level specifications on the custom tables, columns, canvas app, and flows needed to complete this project.
+
 TODO: add a visual element
 
 <!-- 2. Scenario -----------------------------------------------------------------------------------------
@@ -46,7 +47,9 @@ TODO: add a visual element
 
  -->
 ## What will we be doing?
-TODO: add your activities
+- Create custom tables and columns in Dataverse
+- Build a Power Apps canvas app for your custom table
+- Build Power Automate cloud flows to send notifications
 
 <!-- 4. Terminal learning objective ----------------------------------------------------------------------
 
@@ -58,6 +61,6 @@ TODO: add your activities
 
  -->
 ## What is the main goal?
-By the end of this session, you'll be able to (TODO)
+By the end of this session, you'll have a working solution that validates your knowledge of concepts covered in PL-100: Microsoft Power Platform App Maker. If you haven't taken the exam already, you may be ready! 
 
 <!-- Do **not** include any other content like learning objectives, prerequisites, unit summary, "next unit" lead-in, or references. -->
