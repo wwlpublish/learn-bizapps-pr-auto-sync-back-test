@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.build-user-experience-portals.5-portal-themes 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-user-experience-portals.5-portal-themes
 title: Portal themes
-metadata: 
+metadata:
   title: Portal themes
   description: Learn about themes and customizations for your portal.
-  ms.date: 06/01/2021
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps 
+  ms.date: 07/12/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps
 durationInMinutes: 6
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/5-portal-themes.md)] 
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/5-portal-themes.md)]
