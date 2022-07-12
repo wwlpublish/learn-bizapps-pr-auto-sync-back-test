@@ -1,71 +1,71 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.integrate-common-data-service.7-check 
-title: Check your knowledge 
-metadata: 
- title: Check your knowledge 
- description: Answer the following questions to see what you've learned. 
- ms.date: 06/01/2021 
- author: DaveBeasley 
- ms.author: dbeasley 
- ms.topic: interactive-tutorial 
- ms.prod: learning-power-apps 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-common-data-service.7-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/01/2021
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps
 durationInMinutes: 4
-quiz: 
-  title: Answer the following questions to see what you've learned. 
-  questions: 
-  - content: Which of the following options is not a valid entity list view?
-    choices: 
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which of the following options is not a valid list view?
+    choices:
     - content: Map view
-      isCorrect: false 
+      isCorrect: false
       explanation: Views can be rendered as traditional grid lists, a calendar, or a map. Delivering list content as an OData feed is also supported.
     - content: Excel view
-      isCorrect: true 
+      isCorrect: true
       explanation: Views can be rendered as traditional grid lists, a calendar, or a map. Delivering list content as an OData feed is also supported.
     - content: Calendar view
-      isCorrect: false 
+      isCorrect: false
       explanation: Views can be rendered as traditional grid lists, a calendar, or a map. Delivering list content as an OData feed is also supported.
     - content: Grid list view
-      isCorrect: false 
+      isCorrect: false
       explanation: Views can be rendered as traditional grid lists, a calendar, or a map. Delivering list content as an OData feed is also supported.
-  - content: You have created a Contact Us entity form and want to ensure that users are redirected to a Thank You page after successful submission. How can you achieve this task?
-    choices: 
-    - content: Change the entity form title to "Contact Us - Thank You."
-      isCorrect: false 
+  - content: You have created a Contact Us basic form and want to ensure that users are redirected to a Thank You page after successful submission. How can you achieve this task?
+    choices:
+    - content: Change the basic form title to "Contact Us - Thank You."
+      isCorrect: false
       explanation: The On Success Settings feature defines behavior on the form on successful submission. Options are to display a message or to redirect to another page or URL.
-    - content: Set the Entity Form column to Thank You Page on the Contact Us entity form.
-      isCorrect: false 
+    - content: Set the basic form column to Thank You Page on the Contact Us basic form.
+      isCorrect: false
       explanation: The On Success Settings feature defines behavior on the form on successful submission. Options are to display a message or to redirect to another page or URL.
-    - content: Add a redirect step to the entity form.
-      isCorrect: false 
+    - content: Add a redirect step to the basic form.
+      isCorrect: false
       explanation: The On Success Settings feature defines behavior on the form on successful submission. Options are to display a message or to redirect to another page or URL.
     - content: Configure On Success Settings to redirect to a Thank You page.
-      isCorrect: true 
+      isCorrect: true
       explanation: The On Success Settings feature defines behavior on the form on successful submission. Options are to display a message or to redirect to another page or URL.
-  - content: What do you need to do to display a web form in the portal?
-    choices: 
-    - content: Add the web form component by using portals Studio.
-      isCorrect: false 
-      explanation: A web form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. A web form must be associated with a webpage to be rendered within the site.
-    - content: Enable the web form.
-      isCorrect: false 
-      explanation: A web form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. A web form must be associated with a webpage to be rendered within the site.
+  - content: What do you need to do to display a advanced form in the portal?
+    choices:
+    - content: Add the advanced form component by using portals Studio.
+      isCorrect: false
+      explanation: A advanced form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. A advanced form must be associated with a webpage to be rendered within the site.
+    - content: Enable the advanced form.
+      isCorrect: false
+      explanation: A advanced form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. A advanced form must be associated with a webpage to be rendered within the site.
     - content: Add the Liquid tag by using the portals Studio source code editor.
-      isCorrect: true 
-      explanation: A web form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. A web form must be associated with a webpage to be rendered within the site.
+      isCorrect: true
+      explanation: A advanced form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. A advanced form must be associated with a webpage to be rendered within the site.
     - content: Select Display on the Portal check box.
-      isCorrect: false 
-      explanation: A web form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. A web form must be associated with a webpage to be rendered within the site.
-  - content: Your company’s rules don’t allow you to delete cases from your Dynamics 365 Customer Service deployment. A new background Escalate Case workflow has been added to your instance. The company wants to make this workflow available for the portal users on the Case View form. How would you achieve that task?
-    choices: 
+      isCorrect: false
+      explanation: A advanced form defines the required behavior but does not contain information about how and where on the website that the form should be rendered. A advanced form must be associated with a webpage to be rendered within the site.
+  - content: Your company's rules don't allow you to delete cases from your Dynamics 365 Customer Service deployment. A new background Escalate Case workflow has been added to your instance. The company wants to make this workflow available for the portal users on the Case View form. How would you achieve that task?
+    choices:
     - content: Add a real-time workflow on the Delete button and invoke the Escalate Case workflow as the first step. Rename the Delete button to Escalate.
-      isCorrect: false 
-      explanation: Entity lists, entity forms, and web forms include the Action Button Configuration feature, which adds actions for each record. The Workflow action runs a classic Microsoft Dataverse workflow of your choice against the record. Both background and real-time workflows are supported.
+      isCorrect: false
+      explanation: Lists, basic forms, and advanced forms include the Action Button Configuration feature, which adds actions for each record. The Workflow action runs a classic Microsoft Dataverse workflow of your choice against the record. Both background and real-time workflows are supported.
     - content: Ask a developer to write JavaScript that invokes the Escalate Case workflow.
-      isCorrect: false 
-      explanation: Entity lists, entity forms, and web forms include the Action Button Configuration feature, which adds actions for each record. The Workflow action runs a classic Dataverse workflow of your choice against the record. Both background and real-time workflows are supported.
+      isCorrect: false
+      explanation: Lists, basic forms, and advanced forms include the Action Button Configuration feature, which adds actions for each record. The Workflow action runs a classic Dataverse workflow of your choice against the record. Both background and real-time workflows are supported.
     - content: Add the Workflow action under the Action Button Configuration feature.
-      isCorrect: true 
-      explanation: Entity lists, entity forms, and web forms include the Action Button Configuration feature, which adds actions for each record. The Workflow action runs a classic Dataverse workflow of your choice against the record. Both background and real-time workflows are supported.
-    - content: Background workflows are not available in Power Apps portals.
-      isCorrect: false 
-      explanation: Entity lists, entity forms, and web forms include the Action Button Configuration feature, which adds actions for each record. The Workflow action runs a classic Dataverse workflow of your choice against the record. Both background and real-time workflows are supported.
+      isCorrect: true
+      explanation: Lists, basic forms, and advanced forms include the Action Button Configuration feature, which adds actions for each record. The Workflow action runs a classic Dataverse workflow of your choice against the record. Both background and real-time workflows are supported.
+    - content: Background classic workflows are not available in Power Apps portals.
+      isCorrect: false
+      explanation: Lists, basic forms, and advanced forms include the Action Button Configuration feature, which adds actions for each record. The Workflow action runs a classic Dataverse workflow of your choice against the record. Both background and real-time workflows are supported.
