@@ -1,11 +1,11 @@
-Often, organizations need to serve audiences of different languages, or they are required by law to provide multilingual content. A Power Apps portal can deliver content in multiple languages. You can support multiple languages by creating versions of your content structure for each additional language, which helps make it easier to translate and maintain. When a portal user selects a language, they are selecting a specific language version of your content structure.
+Organizations often need to serve audiences of different languages or are required by law to provide multilingual content. A Power Apps portal can deliver content in multiple languages. You can support multiple languages by creating versions of your content structure for each additional language, which helps make it easier to translate and maintain. When a portal user selects a language, they are selecting a specific language version of your content structure.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot to Select portal language on setup.](../media/home-page-select-language.png)](../media/home-page-select-language.png#lightbox)
 
 ## Configure additional languages
 
-You can configure additional languages by using the Portal Management app. The **Website** record has a **Supported Languages** section, where you can select the **Add New Website Language** option. When you add a new language to a website, make sure that you select **Portal Language** and **Publishing State**.
+You can configure additional languages by using the Portal Management app. The **Website** row has a **Supported Languages** section, where you can select the **Add New Website Language** option. When you add a new language to a website, make sure that you select **Portal Language** and **Publishing State**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of New website language selection.](../media/new-website-language.png)](../media/new-website-language.png#lightbox)
@@ -38,7 +38,7 @@ Alternatively, if a content snippet has a language value, then the value of the 
 
 ## Browse the multilingual portal
 
-The `MultiLanguage/DisplayLanguageCodeInURL` (true or false) site setting controls whether a language is determined by URL or by each session cookie. When a URL-based approach is selected, the Code property of the portal language will be used as part of the URL `https://portal_url/<code>/page/`, for example, `https://www.contoso.com/contact-us/`.
+The `MultiLanguage/DisplayLanguageCodeInURL` (true or false) site setting controls whether a language is determined by URL or by each session cookie. When a URL-based approach is selected, the Code property of the portal language will be used as part of the URL `https://portal_url/<code>/page/`, for example, `https://www.contoso.com/en-au/contact-us/`.
 
 ## Language considerations
 
@@ -50,8 +50,8 @@ Certain areas of site design can be affected by the language:
 
 - Text length might vary significantly between the languages, so appropriate space must be reserved.
 - Typography elements, such as fonts, might differ and affect the layout rendering.
-- Dates and currency are displayed differently depending on locale and the language that is used.
-- Some ethical or culturally-sensitive aspects might need to be considered when you are designing site appearance, for example, use of certain images that might be considered offensive by the target audience.
+- Dates and currency are displayed differently depending on the locale and the language that is used.
+- Some ethical or culturally-sensitive aspects might need to be considered when you are designing site appearance, for example, the use of certain images that might be considered offensive by the target audience.
 
 Work with the template designers and use different templates to render the content pages depending on the language.
 
@@ -59,9 +59,9 @@ Work with the template designers and use different templates to render the conte
 
 Other than translating the site content and navigation, make sure that you consider the following factors for the multilingual deployment:
 
-- You would need to be disciplined in identifying and localizing every string and phrase that could appear to the site visitor. If you are working with the developers and JavaScript is used, it would involve translation of error messages, status bar messages, alert boxes, dialog boxes, and so on. You should use content snippets extensively because they allow translation of pieces of information, such as an error message, without changing the rest of the site.
+- You would need to be disciplined in identifying and localizing every string and phrase that could appear to the site visitor. If you are working with the developers and JavaScript is used, it would involve translation of error messages, status bar messages, alert boxes, dialog boxes, and so on. You should use content snippets extensively because they allow the translation of pieces of information, such as an error message, without changing the rest of the site.
 - Images for buttons that contain text would also need to be localized. You might create an image map or directory file that lets you find images for the appropriate culture by using a key.
 - Communications with portal users need to consider their preferred language (which they can set on their user profile).
-- If your Microsoft Dataverse is customized, ensure that all custom entities, columns, option sets, messages, and descriptions are translated.
-- If your deployment uses other solutions, work with vendors to ensure that their solutions are localized into required languages.
+- If your Microsoft Dataverse is customized, ensure that all custom tables, columns, choice(s) columns values, messages, and descriptions are translated.
+- If your deployment uses other solutions, work with vendors to ensure that their solutions are localized into the required languages.
 - For deployments that use knowledge articles, ensure that the relevant articles are translated or, at least, create placeholders that direct visitors to the base language versions where they can use browser-based translation tools such as [Bing Translate](https://www.bing.com/translator/?azure-portal=true).
