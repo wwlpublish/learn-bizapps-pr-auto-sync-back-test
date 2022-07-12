@@ -6,7 +6,7 @@ Content snippets are small chunks of editable content that can be placed by a te
 
 New content snippets can only be created in the Portal Management app. If a template maker inserts a snippet as editable, then the portals Studio will highlight the snippet area and enable selection mode when a user hovers over the snippet. 
 
-![Content snippet highlighted and selected in portals Studio](../media/content-snippet-highlighted.png)
+![Screenshot of a content snippet highlighted and selected in portals Studio.](../media/content-snippet-highlighted.png)
 
 Once a snippet is selected on the page canvas, its content can then be edited by using the Source code editor.
 

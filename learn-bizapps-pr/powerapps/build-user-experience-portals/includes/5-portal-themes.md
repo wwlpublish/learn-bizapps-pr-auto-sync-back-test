@@ -29,7 +29,7 @@ In Power Apps portals, the **Enable basic theme** feature controls how CSS custo
 
 When you turn on the **Enable basic theme** feature, you can use default themes called **Presets**. You can also create copies of the preset themes for additional customization.
 
-![Selection of themes in portals Studio](../media/theme-selection.png)
+![Screenshot of a selection of themes in portals Studio.](../media/theme-selection.png)
 
 Themes create an overall look and feel for the site by defining a number of colors for different areas. 
 
@@ -76,6 +76,6 @@ After you have configured Bootstrap, it will generate one or more files that you
 
 When people start portal customizations, one of the most common requests that they have is to replace the background images. These images are often applied by using CSS but can easily be replaced without changing CSS. Look for the web files under the portal's **Home** page, for example, `homehero.jpg`.
 
-![List of available web files under Home page](../media/web-files-root.png) 
+![Screenshot of the list of available web files under Home page.](../media/web-files-root.png) 
 
 You can replace the attachments of these web files with your own images, and that process is all that's required. Make sure that the size of the new images is compatible to maintain consistent layout.
