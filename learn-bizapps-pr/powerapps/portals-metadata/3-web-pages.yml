@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.portals-metadata.3-web-pages 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.portals-metadata.3-web-pages
 title: Webpages
-metadata: 
-  title: Webpages 
-  description: Learn about webpages.  
-  ms.date: 07/15/2020 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps 
-durationInMinutes: 6 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/3-web-pages.md)] 
+metadata:
+  title: Webpages
+  description: Learn about webpages.
+  ms.date: 07/12/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-web-pages.md)]

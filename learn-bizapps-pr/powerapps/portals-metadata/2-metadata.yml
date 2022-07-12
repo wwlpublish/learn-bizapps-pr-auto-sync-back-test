@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.portals-metadata.2-metadata 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.portals-metadata.2-metadata
 title: Portal metadata
-metadata: 
-  title: Portal metadata 
-  description: Learn about portal metadata.  
-  ms.date: 07/15/2020 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps 
+metadata:
+  title: Portal metadata
+  description: Learn about portal metadata.
+  ms.date: 07/12/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps
 durationInMinutes: 10
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/2-metadata.md)] 
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-metadata.md)]

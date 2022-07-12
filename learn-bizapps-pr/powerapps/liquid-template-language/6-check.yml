@@ -1,71 +1,71 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.liquid-template-language.6-check 
-title: Check your knowledge 
-metadata: 
- title: Check your knowledge 
- description: Answer the following questions to see what you've learned. 
- ms.date: 07/15/2020 
- author: DaveBeasley 
- ms.author: dbeasley 
- ms.topic: interactive-tutorial 
- ms.prod: learning-power-apps 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.liquid-template-language.6-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 07/12/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps
 durationInMinutes: 4
-quiz: 
-  title: Answer the following questions to see what you've learned. 
-  questions: 
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
   - content: What template language is integrated into Power Apps portals?
-    choices: 
+    choices:
     - content: Solid
-      isCorrect: false 
+      isCorrect: false
       explanation: Liquid is an open-source template language that is integrated into portals. It can be used by template developers to add dynamic content to pages and to create a variety of custom templates.
     - content: Liquid
-      isCorrect: true 
+      isCorrect: true
       explanation: Liquid is an open-source template language that is integrated into portals. It can be used by template developers to add dynamic content to pages and to create a variety of custom templates.
     - content: HTML
-      isCorrect: false 
+      isCorrect: false
       explanation: Liquid is an open-source template language that is integrated into portals. It can be used by template developers to add dynamic content to pages and to create a variety of custom templates.
     - content: JavaScript
-      isCorrect: false 
+      isCorrect: false
       explanation: Liquid is an open-source template language that is integrated into portals. It can be used by template developers to add dynamic content to pages and to create a variety of custom templates.
   - content: What do you need to do to apply table permissions when accessing Microsoft Dataverse data in Liquid templates?
-    choices: 
+    choices:
     - content: Use the `secure` Liquid filter.
       isCorrect: false
       explanation: All data access that is performed by Liquid objects and tags is governed by table permissions, and it's not possible to switch off that feature.
     - content: Nothing, table permissions are applied automatically.
-      isCorrect: true 
+      isCorrect: true
       explanation: All data access that is performed by Liquid objects and tags is governed by table permissions, and it's not possible to switch off that feature.
     - content: Select the Enable Table Permissions option on the Web Template table that contains Liquid code.
-      isCorrect: false 
+      isCorrect: false
       explanation: All data access that is performed by Liquid objects and tags is governed by table permissions, and it's not possible to switch off that feature.
     - content: Place Liquid code on a secured webpage.
-      isCorrect: false 
+      isCorrect: false
       explanation: All data access that is performed by Liquid objects and tags is governed by table permissions, and it's not possible to switch off that feature.
   - content: Where is Liquid code not processed?
-    choices: 
+    choices:
     - content: Page content
-      isCorrect: false 
+      isCorrect: false
       explanation: Liquid code can be used anywhere in the portals where HTML or text content can be entered, including web templates, webpages, and content snippets. Web roles do not contain content that is rendered by the portals.
     - content: Content snippets
-      isCorrect: false 
+      isCorrect: false
       explanation: Liquid code can be used anywhere in the portals where HTML or text content can be entered, including web templates, webpages, and content snippets. Web roles do not contain content that is rendered by the portals.
     - content: Web templates
-      isCorrect: false 
+      isCorrect: false
       explanation: Liquid code can be used anywhere in the portals where HTML or text content can be entered, including web templates, webpages, and content snippets. Web roles do not contain content that is rendered by the portals.
     - content: Web roles
-      isCorrect: true 
+      isCorrect: true
       explanation: Liquid code can be used anywhere in the portals where HTML or text content can be entered, including web templates, webpages, and content snippets. Web roles do not contain content that is rendered by the portals.
   - content: What would be the output of the following Liquid fragment if the user is signed in? `{{ user.fullname }}`
-    choices: 
+    choices:
     - content: Full name of the signed in portal user
-      isCorrect: true 
+      isCorrect: true
       explanation: An output statement is a set of double curly braces that contains an expression. When the output is rendered, it is replaced with the value of that expression. Object `user` contains information about the contact that is currently signed in.
     - content: Empty string
-      isCorrect: false 
+      isCorrect: false
       explanation: An output statement is a set of double curly braces that contains an expression. When the output is rendered, it is replaced with the value of that expression. Object `user` contains information about the contact that is currently signed in.
     - content: System Administrator
-      isCorrect: false 
+      isCorrect: false
       explanation: An output statement is a set of double curly braces that contains an expression. When the output is rendered, it is replaced with the value of that expression. Object `user` contains information about the contact that is currently signed in.
     - content: This code will generate an error
-      isCorrect: false 
+      isCorrect: false
       explanation: An output statement is a set of double curly braces that contains an expression. When the output is rendered, it is replaced with the value of that expression. Object `user` contains information about the contact that is currently signed in.

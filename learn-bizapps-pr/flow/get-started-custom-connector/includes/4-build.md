@@ -65,7 +65,7 @@ To create a new connector, follow these steps:
 
 1. Select to open the **Contoso invoicing** solution that you created.
 
-1. Select **+ New > Other > Custom connector**.
+1. Select **+ New > Automation > Custom connector**.
 
     > [!div class="mx-imgBorder"]
     > [![An arrow pointing to create new custom connection - screenshot.](../media/custom.png)](../media/custom.png#lightbox)

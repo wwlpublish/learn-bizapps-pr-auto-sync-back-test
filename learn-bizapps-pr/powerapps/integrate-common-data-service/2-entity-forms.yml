@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.integrate-common-data-service.2-table-forms 
-title: Entity form configuration
-metadata: 
-  title: Entity form configuration
-  description: Learn to add and configure entity forms in your portal.
-  ms.date: 06/01/2021
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps 
-durationInMinutes: 5 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/2-entity-forms.md)] 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-common-data-service.2-table-forms
+title: Basic form configuration
+metadata:
+  title: Basic form configuration
+  description: Learn to add and configure basic forms in your portal.
+  ms.date: 07/12/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-entity-forms.md)]

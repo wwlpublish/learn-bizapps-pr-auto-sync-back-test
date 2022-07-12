@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.liquid-template-language.2-liquid-basics 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.liquid-template-language.2-liquid-basics
 title: Liquid basics
-metadata: 
+metadata:
   title: Liquid basics
   description: Learn about Liquid syntax and other concepts.
-  ms.date: 07/15/2020 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps 
+  ms.date: 07/12/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps
 durationInMinutes: 10
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/2-liquid-basics.md)] 
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-liquid-basics.md)]
