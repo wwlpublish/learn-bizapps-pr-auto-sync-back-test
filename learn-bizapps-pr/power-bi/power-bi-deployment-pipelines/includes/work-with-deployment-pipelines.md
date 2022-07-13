@@ -15,19 +15,10 @@ When two sequential stages have content, the content is compared based on the co
 
 To allow a quick visual insight into the differences between two sequential stages, a comparison icon indicator appears between them. The comparison indicator has two states:
 
-
-
-
-
-
-
-
-
-
 |   |   |
 |---|---|
 [![Screenshot of the icon that appears if one of these conditions is met. Some of the content items in each stage were changed or updated (have different metadata). There is a difference in the number of items between the stages.](../media/deny-symbol.png)](../media/deny-symbol.png#lightbox)  |  Appears if one of these conditions is met: 1) Some of the content items in each stage, were changed or updated (have different metadata), or 2) There is a difference in the number of items between the stages.
-[![Screenshot of the icon that shows the metadata for each content item in both stages is the same.](../media/approve-symbol.png)](../media/approve-symbol.png#lightbox)  |  The metadata for each content item in both stages, is the same.
+[![Screenshot of the icon that shows the metadata for each content item in both stages is the same.](../media/approve-symbol.png)](../media/approve-symbol.png#lightbox)  |  Appears when the content in both workspaces is identical.
 
 
 When two sequential stages aren't the same, a link appears underneath the orange comparison icon. Clicking the link opens the content item list in both stages in Compare view. Compare view helps you track changes or differences between items, in each pipeline stage. Changed items get one of the following labels:
@@ -43,7 +34,7 @@ When two sequential stages aren't the same, a link appears underneath the orange
 
 ## Deployment rules enable customization of stages
 
-While working in a deployment pipeline, different stages may have different configurations. For example, each stage can have different databases or different query parameters. For example, the development stage might query sample data from the database, while the test and production stages query the entire database.
+While working in a deployment pipeline, different stages may have different configurations. For example, each stage can have different databases or different query parameters, or the development stage might query sample data from the database, while the test and production stages query the entire database.
 
 Configuring deployment rules enables you to allow changes to content when you deploy content between pipeline stages. For example, if you want a dataset in a production stage to point to a production database, you can define a rule for dataset. The rule is defined in the production stage, under the appropriate dataset. Once the rule is defined, content deployed from test to production will inherit the value as defined in the deployment rule, and will always apply it as long as the rule is unchanged and valid.
 
@@ -51,11 +42,17 @@ See [Create deployment rules](/power-bi/create-reports/deployment-pipelines-get-
 
 ## Collaborate with others – permissions
 
-Pipeline permissions and workspace permissions are granted and managed separately. By configuring permissions, pipeline creators:
-- Workspace permissions: Can control who can make changes in any stage in a pipeline.
-- Pipeline permissions: Can set who can view and/or deploy from one stage to another.
+Pipeline permissions and workspace permissions are granted and managed separately. 
 
-For example, a user with pipeline access that doesn't have workspace permissions, will be able to view the pipeline and share it with others. However, this user won't be able to view the content of the workspace in the pipeline, or in the workspace page, and won't be able to perform deployments.
+For example, a user with pipeline access that doesn't have workspace permissions, will be able to view the pipeline and share it with others. However, this user won't be able to view the content of the workspace in the pipeline, or in the workspace page, and won't be able to perform deployments. In other words, you must have both pipeline access and workspace member permissions to deploy content.
+
+Also, when deploying Power BI items, the ownership of the deployed item may change. Review the table below to understand who can deploy each item and how the deployment affects the item's ownership.
+
+|     Power   BI item     |     Required   permission to deploy and existing item    |     Item   ownership after a first time deployment          |     Item   ownership after deployment to a stage with the Power BI item    |   |
+|-------------------------|----------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------|---|
+|     Dataset             |     Workspace member                                     |     The user who made the   deployment becomes the owner    |     Unchanged                                                              |   |
+|     Dataflow            |     Dataflow owner                                       |     The user who made the   deployment becomes the owner    |     Unchanged                                                              |   |
+|     Paginated report    |     Workspace member                                     |     The user who made the   deployment becomes the owner    |     The user who made the   deployment becomes the owner                   |   |
 
 Managing permissions at both the pipeline and workspaces level (different stages) allows different people to work on them with different permissions. 
 
