@@ -27,8 +27,7 @@ quiz:
     - content: Disconnected tables are role-playing dimensions.
       isCorrect: false 
       explanation: Incorrect. Any type of dimension table should be related to a fact table in the model.
-  - content: Douglas is a data modeler at Adventure Works who wants to create a measure that counts the number of late sales order deliveries. The Sales table stores one row for each sales order, and it has a column named DeliveryStatus. Values in the DeliveryStatus column are Not yet delivered, On-time, or Late.
-             Which measure expression should Douglas use?
+  - content: Douglas is a data modeler at Adventure Works who wants to create a measure that counts the number of late sales order deliveries. The Sales table stores one row for each sales order, and it has a column named DeliveryStatus. Values in the DeliveryStatus column are Not yet delivered, On-time, or Late. Which measure expression should Douglas use?
     choices: 
     - content: CALCULATE(Sales, FILTER([DeliveryStatus] = "Late"))
       isCorrect: false
