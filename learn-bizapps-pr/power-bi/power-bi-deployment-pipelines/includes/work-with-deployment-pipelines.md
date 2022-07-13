@@ -17,15 +17,15 @@ To allow a quick visual insight into the differences between two sequential stag
 
 |   |   |
 |---|---|
-[![Screenshot of the icon that appears if one of these conditions is met. Some of the content items in each stage were changed or updated (have different metadata). There is a difference in the number of items between the stages.](../media/deny-symbol.png)](../media/deny-symbol.png#lightbox)  |  Appears if one of these conditions is met: 1) Some of the content items in each stage, were changed or updated (have different metadata), or 2) There is a difference in the number of items between the stages.
-[![Screenshot of the icon that shows the metadata for each content item in both stages is the same.](../media/approve-symbol.png)](../media/approve-symbol.png#lightbox)  |  Appears when the content in both workspaces is identical.
+![Screenshot of the icon that appears if one of these conditions is met. Some of the content items in each stage were changed or updated (have different metadata). There is a difference in the number of items between the stages.](../media/deny-symbol.png)  |  Appears if one of these conditions is met: 1) Some of the content items in each stage, were changed or updated (have different metadata), or 2) There is a difference in the number of items between the stages.
+![Screenshot of the icon that shows the metadata for each content item in both stages is the same.](../media/approve-symbol.png)  |  Appears when the content in both workspaces is identical.
 
 
 When two sequential stages aren't the same, a link appears underneath the orange comparison icon. Clicking the link opens the content item list in both stages in Compare view. Compare view helps you track changes or differences between items, in each pipeline stage. Changed items get one of the following labels:
 
 |     NEW    |     DIFFERENT    |     MISSING    |
 |---|---|---|
-|   [![When a new item get added in source stage.](../media/four.png)](../media/four.png#lightbox) |  [![An item that exists both in the source and the target stage.](../media/one.png)](../media/one.png#lightbox)  |  [![This label indicates that an item   appears in the target stage, but not in the source stage.](../media/three.png)](../media/three.png#lightbox)   |
+|   ![When a new item get added in source stage.](../media/four.png) |  ![An item that exists both in the source and the target stage.](../media/one.png)  |  ![This label indicates that an item   appears in the target stage, but not in the source stage.](../media/three.png)   |
 |     A new item in the source stage.   This item doesn't exist in the target stage. After deployment,   this item will be cloned to the target stage.    |     An item that exists both in the source   and the target stage, where one of the versions was changed after the last   deployment. After deployment, the item in the source stage will overwrite the   item in the target stage, regardless of where the change was made.    |     This label indicates that an item   appears in the target stage, but not in the source stage.    |
 
 
