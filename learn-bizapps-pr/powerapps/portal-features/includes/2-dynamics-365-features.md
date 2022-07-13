@@ -50,7 +50,7 @@ The **Ideas** feature is an extension of the **Forums** feature in that it will 
 
 To configure ideas on the Community portal, see [Crowdsource ideas](/dynamics365/customer-engagement/portals/crowdsource-ideas/?azure-portal=true).
 
-When a user adds a new idea, the autocomplete feature on the **Topic** field can be configured to allow visibility of existing ideas to reduce the number of duplicate or similar ideas.  
+When a user adds a new idea, the autocomplete feature on the **Topic** column can be configured to allow visibility of existing ideas to reduce the number of duplicate or similar ideas.  
 
 After the idea has been posted, other portal visitors will be able to vote on the idea or add their own comments or feedback. The policies of feedback and voting are configured from the Dynamics 365 Portal app. These policies could include the ability for users to vote on an idea, the number of votes allowed, and types of comments that are permitted.
 
@@ -58,7 +58,7 @@ After the idea has been posted, other portal visitors will be able to vote on th
 
 ## Project Service Automation 
 
-The **Project Service Automation** feature is specific to the Partner portal template. To provide the **Project Service Automation** features, the Dynamics 365 Project Service app will need to be provisioned. The **Project Service Automation** portal extensions can be selected during the Partner portal installation or it can be installed later from the Portal admin center.
+The **Project Service Automation** feature is specific to the Partner portal template. To provide the **Project Service Automation** features, the Dynamics 365 Project Operations app will need to be provisioned. The **Project Service Automation** portal extensions can be selected during the Partner portal installation or it can be installed later from the Portal admin center.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the enable packages feature.](../media/2-project-service-provision.png)](../media/2-project-service-provision.png#lightbox)
@@ -90,4 +90,4 @@ The main features of the Field Service extension are:
 
 For more information, see the [Field Service Portal Extension](/dynamics365/portals/integrate-field-service/?azure-portal=true) documentation.
 
-In the Dataverse instance with Dynamics 365 Field Service app installed, a separate Field Service Portal can be provisioned that provides your customers with email and SMS updates, ETAs, and the [real-time technician location for their next service visit](/dynamics365/field-service/reminders-arrival-time/?azure-portal=true).
+In the Dataverse environment with Dynamics 365 Field Service app installed, a separate Field Service Portal can be provisioned that provides your customers with email and SMS updates, ETAs, and the [real-time technician location for their next service visit](/dynamics365/field-service/reminders-arrival-time/?azure-portal=true).

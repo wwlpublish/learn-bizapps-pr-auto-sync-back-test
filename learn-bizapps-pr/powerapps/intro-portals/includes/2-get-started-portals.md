@@ -1,7 +1,7 @@
 Power Apps portal isn't automatically provisioned when a new Dataverse environment is created. You'll need to provision a Power Apps portal and determine the name, default URL, language, and template.
 
 > [!IMPORTANT]
-> To provision a portal, you must be assigned to the System Administrator role of the Dataverse environment that is selected for the portal.
+> To provision a portal, you must be assigned to the System Administrator role in the Dataverse environment that is selected for the portal.
 
 ## Portal templates
 
@@ -12,28 +12,29 @@ If you select an environment that contains Microsoft Dataverse, you can create a
 If you select an environment that contains customer engagement apps (Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing, or Dynamics 365 Project Service Automation), you can also create the following portals:
 
 - Community
+- Modern Community (requires  [Dynamics 365 Customer Service Community app](/dynamics365/customer-service/community-get-started/?azure-portal=true))
 - Customer self-service
 - Employee self-service
 - Partner
-- Field Service
-- Supply Chain Management Customer
-
-If your environment has Dynamics 365 Customer Service Community app installed, you'll be able to use Modern Community portal template.  
+- Field Service Portal
+- Customer portal (Dynamics 365 Supply Chain Management)
+- Intelligent Order Management (requires [Dynamics 365 Intelligent Order Management](/dynamics365/intelligent-order-management/?azure-portal=true))
 
 ## Portal features
 
-Each of the starter portals includes a particular set of features that are designed to accelerate solution development that targets the selected audience.
+Each starter portal includes a particular set of features designed to accelerate solution development that targets the selected audience.
 
-| **Portal template**   | **Audience**                   | **Workload**                                                 |
-| :-------------------- | :----------------------------- | :----------------------------------------------------------- |
-| Community             | Partner, Customer              | Choose this template to provision a portal that is focused on an online community. This portal will contain features such as forums, ideas, blogs, and case management. |
-| Customer self-service | Partner, Customer              | This template provides the ability for portal users to search knowledge articles, submit cases, and participate in discussion forums to resolve issues. |
-| Employee self-service | Employee                       | This portal allows employees to access a centralized knowledge article and to also submit cases. |
-| Partner               | Partner, Customer, Field Agent | Choose this template to build a portal where external partners can manage and collaborate on accounts and opportunities. Add-ons are available for Dynamics 365 Field Service or Dynamics 365 Project Service. |
-| Field Service         | Customer                       | This portal enables self-service scheduling capabilities for your customers. Requires Dynamics 365 Field Service. |
-| Customer portal       | Enterprise B2B                 | The Dynamics 365 Supply Chain Management Customer portal is a template that provides portal access to Dynamics 365 Supply Chain Management data by using dual-write Microsoft Dataverse tables. |
-| Modern Community      | Customer, Community            | This solution helps your organization invite customer suggestions and crowd source portfolios of outside-in ideas. End users can share new ideas with organizations and collaborate on a social scale. |
-| Blank website         | Other                          | The blank website template is meant for unique line-of-business scenarios where the other templates aren't a good fit. The portal can be configured and customized to address various requirements. |
+| **Portal template**          | **Audience**                   | **Workload**                                                 |
+| :--------------------------- | :----------------------------- | :----------------------------------------------------------- |
+| Community                    | Partner, Customer              | Choose this template to provision a portal that is focused on an online community. This portal will contain features such as forums, ideas, blogs, and case management. |
+| Customer self-service        | Partner, Customer              | This template provides the ability for portal users to search knowledge articles, submit cases, and participate in discussion forums to resolve issues. |
+| Employee self-service        | Employee                       | This portal allows employees to access a centralized knowledge article and to also submit cases. |
+| Partner                      | Partner, Customer, Field Agent | Choose this template to build a portal where external partners can manage and collaborate on accounts and opportunities. Add-ons are available for Dynamics 365 Field Service or Dynamics 365 Project Service. |
+| Field Service                | Customer                       | This portal enables self-service scheduling capabilities for your customers. Requires Dynamics 365 Field Service. |
+| Customer portal              | Enterprise B2B                 | The Dynamics 365 Supply Chain Management Customer portal is a template that provides portal access to Dynamics 365 Supply Chain Management data by using dual-write Microsoft Dataverse tables. |
+| Modern Community             | Customer, Community            | This solution helps your organization invite customer suggestions and crowdsource portfolios of outside-in ideas. End users can share new ideas with organizations and collaborate on a social scale. |
+| Intelligent Order Management | Customer                       | Dynamics 365 Returns enables the customer with a hassle-free returns experience with choices from a whole range of delivery providers to drop off their items. |
+| Blank website                | Other                          | Use the blank website template for unique line-of-business scenarios where the other templates are not a good fit. The portal can be configured and customized to address a variety of requirements. |
 
 > [!NOTE]
 >The starter portal selection defines a specific set of features. If a portal is provisioned within a Dataverse environment with Dynamics 365 apps installed, specific features from the other starter portals can be added later, as required.

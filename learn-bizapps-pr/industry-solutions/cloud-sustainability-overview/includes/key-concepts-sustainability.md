@@ -23,7 +23,7 @@ Different human-emitted gases cause global warming at varying intensities and ti
 - Carbon dioxide (CO<sub>2</sub>) 
 - Methane (CH<sub>4</sub>)
 - Nitrous oxide (N<sub>2</sub>O)
-- Refrigerant gases (HFCs, PCFs, and CFCs)
+- Refrigerant gases (HFCs, PFCs, and CFCs)
 - Sulphur hexafluoride (SF<sub>6</sub>)
 - Water vapor (H<sub>2</sub>O)
 - Ozone (O<sub>3</sub>) 

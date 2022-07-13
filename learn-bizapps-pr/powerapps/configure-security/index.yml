@@ -1,20 +1,20 @@
-### YamlMime:Module 
-uid: learn-bizapps.configure-security 
-metadata: 
+### YamlMime:Module
+uid: learn-bizapps.configure-security
+metadata:
  title: Configure Power Apps portals security
  description: The concept of exposing Microsoft Dataverse on a public webpage is appealing for addressing numerous business requirements. However, careful consideration is necessary to avoid exposing private or sensitive data. This module will focus on helping you understand and configure portal security to protect static and dynamic content and limit visibility to specific audiences.
- ms.date: 06/01/2021  
- author: DaveBeasley  
- ms.author: dbeasley  
- ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ ms.date: 07/12/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps
 title: Configure Power Apps portals security
-summary: |  
-  [!include[](../includes/module-banner.md)] 
+summary: |
+  [!include[](../includes/module-banner.md)]
   [!include[](../includes/power-pages-banner.md)]
   The concept of exposing Dataverse on a public webpage is appealing for addressing numerous business requirements. However, careful consideration is necessary to avoid exposing private or sensitive data. This module will focus on helping you understand and configure portal security to protect static and dynamic content and limit visibility to specific audiences.
-abstract: |  
-    In this module, you will: 
+abstract: |
+    In this module, you will:
     - Learn about the relationship between Dataverse contacts and portal users.
     - Identify the various portal security metadata entities such as contacts, web roles, webpage access control rules, and entity permissions.
     - Discover how you can limit access to portal webpages by using webpage access control rules.
@@ -23,25 +23,25 @@ prerequisites: |
   - Basic understanding of Power Apps portals
   - Ability to create webpages and show Dataverse data by using entity lists and entity forms
   - Basic understanding of how relationships work between Dataverse entities
-iconUrl: /learn/achievements/configure-security.svg  
-levels:  
-- intermediate   
-roles:  
-- maker  
-- functional-consultant 
+iconUrl: /learn/achievements/configure-security.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
 - administrator
-products:  
-- power-platform  
-- power-apps 
+products:
+- power-platform
+- power-apps
 subjects:
 - custom-app-development
 - security
 units:
-- learn-bizapps.configure-security.1-introduction 
-- learn-bizapps.configure-security.2-secure-static-content 
-- learn-bizapps.configure-security.3-entity-permissions 
-- learn-bizapps.configure-security.4-exercise 
-- learn-bizapps.configure-security.5-check 
-- learn-bizapps.configure-security.6-summary 
-badge: 
+- learn-bizapps.configure-security.1-introduction
+- learn-bizapps.configure-security.2-secure-static-content
+- learn-bizapps.configure-security.3-entity-permissions
+- learn-bizapps.configure-security.4-exercise
+- learn-bizapps.configure-security.5-check
+- learn-bizapps.configure-security.6-summary
+badge:
   uid: learn-bizapps.configure-security.badge

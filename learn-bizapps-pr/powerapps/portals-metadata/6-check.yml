@@ -1,85 +1,85 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.portals-metadata.6-check 
-title: Check your knowledge 
-metadata: 
- title: Check your knowledge 
- description: Answer the following questions to see what you've learned. 
- ms.date: 07/15/2020 
- author: DaveBeasley 
- ms.author: dbeasley 
- ms.topic: interactive-tutorial 
- ms.prod: learning-power-apps 
-durationInMinutes: 5 
-quiz: 
-  title: Answer the following questions to see what you've learned. 
-  questions: 
-  - content: Which record defines the header and the footer for the entire site?
-    choices: 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.portals-metadata.6-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 07/12/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps
+durationInMinutes: 5
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which row defines the header and the footer for the entire site?
+    choices:
     - content: Website
-      isCorrect: true 
-      explanation: The central table in this architecture is Website. The rest of the portal entities are linked to and dependent on the website directly or indirectly. Website defines the header and the footer for the entire site. 
+      isCorrect: true
+      explanation: The central table in this architecture is Website. The rest of the portal tables are linked to and dependent on the website directly or indirectly. Website defines the header and the footer for the entire site.
     - content: Website Binding
-      isCorrect: false 
-      explanation: The central table in this architecture is Website. The rest of the portal entities are linked to and dependent on the website directly or indirectly. Website defines the header and the footer for the entire site. 
+      isCorrect: false
+      explanation: The central table in this architecture is Website. The rest of the portal tables are linked to and dependent on the website directly or indirectly. Website defines the header and the footer for the entire site.
     - content: Page Template
-      isCorrect: false 
-      explanation: The central table in this architecture is Website. The rest of the portal entities are linked to and dependent on the website directly or indirectly. Website defines the header and the footer for the entire site. 
+      isCorrect: false
+      explanation: The central table in this architecture is Website. The rest of the portal tables are linked to and dependent on the website directly or indirectly. Website defines the header and the footer for the entire site.
     - content: Site Setting
-      isCorrect: false 
-      explanation: The central table in this architecture is Website. The rest of the portal entities are linked to and dependent on the website directly or indirectly. Website defines the header and the footer for the entire site. 
-  - content: In a single language portal, how many webpage records exist for each portal page?
-    choices: 
+      isCorrect: false
+      explanation: The central table in this architecture is Website. The rest of the portal tables are linked to and dependent on the website directly or indirectly. Website defines the header and the footer for the entire site.
+  - content: In a single language portal, how many webpage rows exist for each portal page?
+    choices:
     - content: Zero
-      isCorrect: false 
+      isCorrect: false
       explanation: Every webpage, even in a single language portal, will have a root webpage and a content page for the base language.
     - content: One
-      isCorrect: false 
+      isCorrect: false
       explanation: Every webpage, even in a single language portal, will have a root webpage and a content page for the base language.
     - content: Two
-      isCorrect: true 
+      isCorrect: true
       explanation: Every webpage, even in a single language portal, will have a root webpage and a content page for the base language.
     - content: Between zero and two, depending on whether the page is published or not
-      isCorrect: false 
+      isCorrect: false
       explanation: Every webpage, even in a single language portal, will have a root webpage and a content page for the base language.
   - content: Which template type supports inheritance?
-    choices: 
-    - content: Rewrite 
-      isCorrect: false 
-      explanation: The Web template can be rendered on its own or can be included as part of another template. Web templates support inheritance, where one template is based on and extends functionality of another. 
-    - content: Nested 
-      isCorrect: false 
-      explanation: The Web template can be rendered on its own or can be included as part of another template. Web templates support inheritance, where one template is based on and extends functionality of another. 
-    - content: Web 
-      isCorrect: true 
-      explanation: The Web template can be rendered on its own or can be included as part of another template. Web templates support inheritance, where one template is based on and extends functionality of another. 
+    choices:
+    - content: Rewrite
+      isCorrect: false
+      explanation: The Web template can be rendered on its own or can be included as part of another template. Web templates support inheritance, where one template is based on and extends functionality of another.
+    - content: Nested
+      isCorrect: false
+      explanation: The Web template can be rendered on its own or can be included as part of another template. Web templates support inheritance, where one template is based on and extends functionality of another.
+    - content: Web
+      isCorrect: true
+      explanation: The Web template can be rendered on its own or can be included as part of another template. Web templates support inheritance, where one template is based on and extends functionality of another.
     - content: All template types support inheritance
-      isCorrect: false 
-      explanation: The Web template can be rendered on its own or can be included as part of another template. Web templates support inheritance, where one template is based on and extends functionality of another. 
+      isCorrect: false
+      explanation: The Web template can be rendered on its own or can be included as part of another template. Web templates support inheritance, where one template is based on and extends functionality of another.
   - content: What template language is integrated into Power Apps portals?
-    choices: 
+    choices:
     - content: Solid
-      isCorrect: false 
+      isCorrect: false
       explanation: Liquid is an open-source template language that is integrated into portals. It can be used by template developers to add dynamic content to pages and to create a variety of custom templates.
     - content: Liquid
-      isCorrect: true 
+      isCorrect: true
       explanation: Liquid is an open-source template language that is integrated into portals. It can be used by template developers to add dynamic content to pages and to create a variety of custom templates.
     - content: HTML
-      isCorrect: false 
+      isCorrect: false
       explanation: Liquid is an open-source template language that is integrated into portals. It can be used by template developers to add dynamic content to pages and to create a variety of custom templates.
     - content: JavaScript
-      isCorrect: false 
+      isCorrect: false
       explanation: Liquid is an open-source template language that is integrated into portals. It can be used by template developers to add dynamic content to pages and to create a variety of custom templates.
   - content: Which component cannot be added from portals Studio but can be added from the Portal Management app?
-    choices: 
-    - content: Table Lists
-      isCorrect: false 
-      explanation: Table Lists, images (web files), and Power BI reports can be added as components from portals Studio. Web Forms need to be added by using the Portal Management app.
-    - content: Web Forms
-      isCorrect: true 
-      explanation: Table Lists, images (web files), and Power BI reports can be added as components from portals Studio. Web Forms need to be added by using the Portal Management app.
+    choices:
+    - content: Lists
+      isCorrect: false
+      explanation: Lists, images, and Power BI reports can be added as components from portals Studio. Advanced Forms need to be added by using the Portal Management app.
+    - content: Advanced Forms
+      isCorrect: true
+      explanation: Lists, images, and Power BI reports can be added as components from portals Studio. Advanced Forms need to be added by using the Portal Management app.
     - content: Images
-      isCorrect: false 
-      explanation: Table Lists, images (web files), and Power BI reports can be added as components from portals Studio. Web Forms need to be added by using the Portal Management app.
+      isCorrect: false
+      explanation: Lists, images, and Power BI reports can be added as components from portals Studio. Advanced Forms need to be added by using the Portal Management app.
     - content: Embedded Power BI reports
-      isCorrect: false 
-      explanation: Table Lists, images (web files), and Power BI reports can be added as components from portals Studio. Web Forms need to be added by using the Portal Management app.
+      isCorrect: false
+      explanation: Lists, images, and Power BI reports can be added as components from portals Studio. Advanced Forms need to be added by using the Portal Management app.

@@ -1,71 +1,71 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.intro-portals.6-check 
-title: Check your knowledge 
-metadata: 
- title: Check your knowledge 
- description: Answer the following questions to see what you've learned. 
- ms.date: 6/30/2020 
- author: DaveBeasley 
- ms.author: dbeasley 
- ms.topic: interactive-tutorial 
- ms.prod: learning-power-apps-portals 
-durationInMinutes: 5 
-quiz: 
-  title: Answer the following questions to see what you've learned. 
-  questions: 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.intro-portals.6-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 07/11/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps-portals
+durationInMinutes: 5
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
   - content: Which one of the following selections is not a valid target audience for Power Apps portals?
-    choices: 
+    choices:
     - content: Customers
-      isCorrect: false 
+      isCorrect: false
       explanation: Power Apps portals extend Power Platform solutions to internal and external audiences such as communities, customers, partners, supporters, and employees.
     - content: Employees
-      isCorrect: false 
+      isCorrect: false
       explanation: Power Apps portals extend Power Platform solutions to internal and external audiences such as communities, customers, partners, supporters, and employees.
     - content: Competitors
-      isCorrect: true 
+      isCorrect: true
       explanation: Power Apps portals extend Power Platform solutions to internal and external audiences such as communities, customers, partners, supporters, and employees.
     - content: Donors
-      isCorrect: false 
+      isCorrect: false
       explanation: Power Apps portals extend Power Platform solutions to internal and external audiences such as communities, customers, partners, supporters, and employees.
   - content: What role is required to be able to provision a Power Apps portal for an organization?
-    choices: 
+    choices:
     - content: System Administrator
-      isCorrect: true 
+      isCorrect: true
       explanation: To provision a portal, the user must be assigned to the System Administrator role in the Microsoft Dataverse environment that is selected for the portal.
     - content: Office 365 Global administrator
-      isCorrect: false 
+      isCorrect: false
       explanation: To provision a portal, the user must be assigned to the System Administrator role in the Dataverse environment that is selected for the portal.
     - content: System Customizer
-      isCorrect: false 
+      isCorrect: false
       explanation: To provision a portal, the user must be assigned to the System Administrator role in the Dataverse environment that is selected for the portal.
     - content: Power Apps portal administrator
-      isCorrect: false 
+      isCorrect: false
       explanation: To provision a portal, the user must be assigned to the System Administrator role in the Dataverse environment that is selected for the portal.
   - content: Where can you store the content of a portal web file?
-    choices: 
+    choices:
     - content: Amazon S3
-      isCorrect: false 
+      isCorrect: false
       explanation: The web file content can be stored as a Note with an attachment or in Azure Blob storage. Using Azure storage requires additional configuration, but it is more cost-efficient if an organization deals with numerous documents.
     - content: OneDrive for Business
-      isCorrect: false 
+      isCorrect: false
       explanation: The web file content can be stored as a Note with an attachment or in Azure Blob storage. Using Azure storage requires additional configuration, but it is more cost-efficient if an organization deals with numerous documents.
     - content: Azure Blob storage
-      isCorrect: true 
+      isCorrect: true
       explanation: The web file content can be stored as a Note with an attachment or in Azure Blob storage. Using Azure storage requires additional configuration, but it is more cost-efficient if an organization deals with numerous documents.
     - content: FTP server
-      isCorrect: false 
+      isCorrect: false
       explanation: The web file content can be stored as a Note with an attachment or in Azure Blob storage. Using Azure storage requires additional configuration, but it is more cost-efficient if an organization deals with numerous documents.
   - content: What is the recommended authentication mechanism in Power Apps portals?
-    choices: 
+    choices:
     - content: Social providers
-      isCorrect: false 
+      isCorrect: false
       explanation: Power Apps portals support multiple authentication methods and standards including local authentication with username and password, social providers, and OpenID. Among those methods and standards, Azure Active Directory B2C is the recommended provider to manage identities of portal users.
     - content: Azure Active Directory B2C
-      isCorrect: true 
+      isCorrect: true
       explanation: Power Apps portals support multiple authentication methods and standards including local authentication with username and password, social providers, and OpenID. Among those methods and standards, Azure Active Directory B2C is the recommended provider to manage identities of portal users.
     - content: Local authentication with username and password
-      isCorrect: false 
+      isCorrect: false
       explanation: Power Apps portals support multiple authentication methods and standards including local authentication with username and password, social providers, and OpenID. Among those methods and standards, Azure Active Directory B2C is the recommended provider to manage identities of portal users.
     - content: Microsoft account
-      isCorrect: false 
-      explanation: Power Apps portals support multiple authentication methods and standards including local authentication with username and password, social providers, and OpenID. Among those methods and standards, Azure Active Directory B2C is the recommended provider to manage identities of portal users.            
+      isCorrect: false
+      explanation: Power Apps portals support multiple authentication methods and standards including local authentication with username and password, social providers, and OpenID. Among those methods and standards, Azure Active Directory B2C is the recommended provider to manage identities of portal users.

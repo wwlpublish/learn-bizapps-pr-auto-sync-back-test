@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.work-cloud-sustainability.reference-data 
+title: Set up reference data for Sustainability Manager
+metadata: 
+  title: Set up reference data for Sustainability Manager
+  description: Learn about how reference data that includes essential information is important for sustainability manager.
+  ms.date: 07/05/2022 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-mscloud-sustainability 
+durationInMinutes: 6
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/reference-data.md)] 
