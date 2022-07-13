@@ -1,5 +1,7 @@
-The **Deployment pipelines** tool is a feature within the Power BI Service (Premium licenses only) that enables you to manage the content development lifecycle within your organization’s tenant. It enables a continuous integration/continuous deployment (CI/CD) methodology that ensures content is updated, well-tested, and regularly refreshed as needed.
-The tool is designed to be an efficient and reusable pipeline that automates the movement of content (reports, paginated reports, dashboards, datasets, and dataflows) through three stages:
+The **Deployment Pipeline** tool enables users to manage the development lifecycle of content within their tenant. The feature is available within the Power BI Service with a Premium Capacity license. 
+
+Pipelines enable a continuous integration/continuous deployment (CI/CD) approach that ensures content is updated, well-tested, and regularly refreshed as needed.
+Pipelines are an efficient and durable way to automate the movement of content (reports, paginated reports, dashboards, datasets, and dataflows) through the development, test, and production stages of the content development lifecycle:
 - **Development** – design, review, and revise content in a development workspace. 
     - Engage other creators on new content
     - Use minimal datasets. When it’s ready to be tested and reviewed, deploy the content to the test stage.
@@ -19,6 +21,6 @@ There are few key items to note about the above graphic:
     - In this example, the data source size (table and data icons) is increased as it gets closer to production. However, it’s possible that between the development and test stages, the dataset could be made smaller to accommodate testing.  
     - The reports (chart icon) change in each stage.
 - Other creators and developers can work on stages separately.
-- The pipeline on its 3 stages and is built out of three copied (cloned) workspaces that were created when the **Deploy** button is clicked for the first time.
+- The pipeline is built out of three workspaces that were created when the Deploy button is clicked for the first time. 
     - As a result, each of the three cloned workspaces is an independent workspace, a standalone one, which can be managed as such in any workspace aspect (permissions, content, etc.)
     - By deploying a source stage to the target stage, the selected source’s content (specific dataset, reports or all items) overrides the equivalent one on the target workspace (stage).

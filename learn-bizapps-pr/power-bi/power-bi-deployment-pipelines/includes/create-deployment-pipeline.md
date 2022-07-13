@@ -1,6 +1,10 @@
-A deployment pipeline can be created using two different methods: 
+Provided you meet the prerequisites, a deployment pipeline can be created using two different methods: 
 - From the **Deployment pipelines** tab (on the left navigation panel)
 - From a workspace
+
+> [!NOTE]
+> If you don’t have the Deployment pipelines tab in the left navigation panel, or a button for creating Deployment pipelines in your workspace, it’s most likely that you don’t meet the prerequisites.  
+
 After the pipeline is created, you can share it with other users or delete it. When you share a pipeline with others, the users you share the pipeline with will be given access to the pipeline. Pipeline access enables users to view, share, edit, and delete the pipeline.
 
 ## Create a pipeline from the Deployment pipelines tab

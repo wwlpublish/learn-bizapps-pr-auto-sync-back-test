@@ -1,4 +1,8 @@
-After creating a pipeline, you need to add the content you want to manage to the pipeline. Adding content to the pipeline is done by assigning a workspace with the content (reports, paginated reports, dashboards, datasets, and dataflows) to the pipeline stage. You can assign a workspace to any stage, but it is most common to assign the workspace first to the Development stage, and from there deploy some or all of the workspace items to Test and Production. 
+After creating a pipeline, you need to add the content you want to manage to the pipeline. Adding content to the pipeline is done by assigning a workspace with the content (reports, paginated reports, dashboards, datasets, and dataflows) to the pipeline stage. You can assign a workspace to any stage, however, for this instruction we will start with assigning the workspace to the Development stage, and from there deploy some or all of the workspace items to Test and Production.
+
+> [!NOTE]
+> Not only can you assign a workspace to any stage, you can assign different workspaces to different stages, although there is a limitation of one workspace per stage.
+
 ## Create a Premium workspace
 
 Ensure you have a Premium workspace created already to ensure this workspace can be used to create a pipeline. Choosing one of the premium license modes will enable this.
