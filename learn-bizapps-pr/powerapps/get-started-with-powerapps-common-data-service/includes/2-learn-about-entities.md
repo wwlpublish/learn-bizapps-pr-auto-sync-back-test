@@ -33,6 +33,8 @@ Besides defining how rows can be related to other rows, 1:N table relationships 
 - How can I streamline the data entry process when I create a new related row in the context of an existing row?
 - How should people who view a row be able to view the related rows?
 
+See [Table relationships](/power-apps/maker/data-platform/create-edit-entity-relationships) for more information.
+
 ## Table types
 Before creating or editing tables in Dataverse, you should understand the different types of tables that you can create. After a custom table is created, the table type can't be changed. 
 
