@@ -29,29 +29,29 @@ quiz:
       explanation: Incorrect. Any type of dimension table should be related to a fact table in the model.
   - content: Douglas is a data modeler at Adventure Works who wants to create a measure that counts the number of late sales order deliveries. The Sales table stores one row for each sales order, and it has a column named DeliveryStatus. Values in the DeliveryStatus column are Not yet delivered, On-time, or Late. Which measure expression should Douglas use?
     choices: 
-    - content: `CALCULATE(Sales, FILTER([DeliveryStatus] = "Late"))`
+    - content: CALCULATE(Sales, FILTER([DeliveryStatus] = "Late"))
       isCorrect: false
       explanation: Incorrect. The expression that’s passed into the `CALCULATE` function can’t be a table. Also, the `FILTER` function is an iterator function that requires a table and an expression to filter by.
-    - content: `CALCULATE(Sales, [DeliveryStatus] = "Late")`
+    - content: CALCULATE(Sales, [DeliveryStatus] = "Late")
       isCorrect: false 
       explanation: Incorrect. The expression that’s passed into the `CALCULATE` function can’t be a table.
-    - content: `CALCULATE(COUNTROWS(Sales), FILTER([DeliveryStatus] = "Late"))`
+    - content: CALCULATE(COUNTROWS(Sales), FILTER([DeliveryStatus] = "Late"))
       isCorrect: false 
       explanation: Incorrect. The `FILTER` function is an iterator function that requires a table and an expression to filter.
-    - content: `CALCULATE(COUNTROWS(Sales), [DeliveryStatus] = "Late")`
+    - content: CALCULATE(COUNTROWS(Sales), [DeliveryStatus] = "Late")
       isCorrect: true
       explanation: Correct. The `CALCULATE` function will count the rows in the Sales table where the DeliveryStatus column value is Late.
   - content: Marsha is a business analyst at Adventure Works who wants to create a measure that calculates a hypothetical Australian dollar sales amount based on US dollar sales. The model has a table named ExchangeRate that contains a single column named ExchangeRate. Rows of data store hypothetical exchange rate values. In the report, the report consumer will use a slicer to set the Australian dollar exchange rate. If the report consumer doesn’t slice by a single exchange rate, the US dollar amount should be shown. In the measure expression, which function, and setup of the function, should Marsha use to determine the exchange rate?
     choices: 
-    - content: `VALUES(ExchangeRate[ExchangeRate])`
+    - content: VALUES(ExchangeRate[ExchangeRate])
       isCorrect: false
       explanation: Incorrect. The `VALUES` function returns all values in the filter context, but it could return a table of values if multiple exchange rates are in the filter context.
-    - content: `VALUES(ExchangeRate[ExchangeRate], 1)`
+    - content: VALUES(ExchangeRate[ExchangeRate], 1)
       isCorrect: false 
       explanation: Incorrect. The `VALUES` function returns all values in the filter context, but it could return a table of values if multiple exchange rates are in the filter context. Also, this function doesn’t accept an alternate value argument.
-    - content: `SELECTEDVALUES(ExchangeRate[ExchangeRate])`
+    - content: SELECTEDVALUES(ExchangeRate[ExchangeRate])
       isCorrect: false 
       explanation: Incorrect. While the `SELECTEDVALUES` function returns the value in filter context for a single column, it will return BLANK if many values are in the filter context. If this function returns BLANK, it won’t meet the requirement to compute US dollar sales.
-    - content: `SELECTEDVALUES(ExchangeRate[ExchangeRate], 1)`
+    - content: SELECTEDVALUES(ExchangeRate[ExchangeRate], 1)
       isCorrect: true
       explanation: Correct. The `SELECTEDVALUES` function returns the value in filter context for a single column, and it will return 1 if many values are in the filter context. If it returns 1, then it will compute US dollar sales.    
