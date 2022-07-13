@@ -27,8 +27,7 @@ quiz:
     - content: Disconnected tables are role-playing dimensions.
       isCorrect: false 
       explanation: Incorrect. Any type of dimension table should be related to a fact table in the model.
-  - content: Douglas is a data modeler at Adventure Works who wants to create a measure that counts the number of late sales order deliveries. The Sales table stores one row for each sales order, and it has a column named DeliveryStatus. Values in the DeliveryStatus column are Not yet delivered, On-time, or Late.
-             Which measure expression should Douglas use?
+  - content: Douglas is a data modeler at Adventure Works who wants to create a measure that counts the number of late sales order deliveries. The Sales table stores one row for each sales order, and it has a column named DeliveryStatus. Values in the DeliveryStatus column are Not yet delivered, On-time, or Late. Which measure expression should Douglas use?
     choices: 
     - content: `CALCULATE(Sales, FILTER([DeliveryStatus] = "Late"))`
       isCorrect: false
@@ -42,8 +41,7 @@ quiz:
     - content: `CALCULATE(COUNTROWS(Sales), [DeliveryStatus] = "Late")`
       isCorrect: true
       explanation: Correct. The `CALCULATE` function will count the rows in the Sales table where the DeliveryStatus column value is Late.
-  - content: Marsha is a business analyst at Adventure Works who wants to create a measure that calculates a hypothetical Australian dollar sales amount based on US dollar sales. The model has a table named ExchangeRate that contains a single column named ExchangeRate. Rows of data store hypothetical exchange rate values. In the report, the report consumer will use a slicer to set the Australian dollar exchange rate. If the report consumer doesn’t slice by a single exchange rate, the US dollar amount should be shown.
-             In the measure expression, which function, and setup of the function, should Marsha use to determine the exchange rate?
+  - content: Marsha is a business analyst at Adventure Works who wants to create a measure that calculates a hypothetical Australian dollar sales amount based on US dollar sales. The model has a table named ExchangeRate that contains a single column named ExchangeRate. Rows of data store hypothetical exchange rate values. In the report, the report consumer will use a slicer to set the Australian dollar exchange rate. If the report consumer doesn’t slice by a single exchange rate, the US dollar amount should be shown. In the measure expression, which function, and setup of the function, should Marsha use to determine the exchange rate?
     choices: 
     - content: `VALUES(ExchangeRate[ExchangeRate])`
       isCorrect: false
