@@ -117,7 +117,6 @@ To define the first condition, in the **Column Name** dropdown list, select the 
 > [![Screenshot shows the setup of the first condition. Column Name is set to Minutes Late, Value is set to null, and Output is set to Canceled.](../media/conditional-column.png)](../media/conditional-column.png#lightbox)
 
 To add another condition, select **Add Clause**.
-<IMAGE: 
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot highlighting the Add Clause option.](../media/add-clause.png)](../media/add-clause.png#lightbox)
@@ -125,7 +124,7 @@ To add another condition, select **Add Clause**.
 Define the new condition to show (output) as **Late** when the **Minutes Late** column is greater than **15**.
 
 > [!div class="mx-imgBorder"]
-> [![Image shows the setup of the second condition. Column Name is set to Minutes Late, Operator is set to is greater than, Value is set to 15, and Output is set to Late.](../media/minutes-late-conditional-column.png)](../media/minutes-late-conditional-column.png#lightbox)
+> [![Screenshot shows the setup of the second condition. Column Name is set to Minutes Late, Operator is set to is greater than, Value is set to 15, and Output is set to Late.](../media/minutes-late-conditional-column.png)](../media/minutes-late-conditional-column.png#lightbox)
 
 In the **Else** box (located in the lower part of the screen), enter **On-time**.
 
@@ -154,7 +153,7 @@ To create a calculated table, on the **Modeling** ribbon tab, from inside the **
 In the formula bar, remove the existing text, and then paste in the following calculated table definition.
 
 > [!Tip]
-> You can copy the DAX code by selecting Copy.
+> You can copy the DAX code by selecting **Copy**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot shows the Copy command located in the upper-right corner of the DAX code block.](../media/code-copy.png)](../media/code-copy.png#lightbox)
@@ -202,7 +201,7 @@ Add the **Sector** column (from the **Flight** table) to the slicer. (While deve
 > [!div class="mx-imgBorder"]
 > [![Screenshot shows the layout of the report page with a slicer located in the upper-left corner.](../media/report-page.png)](../media/report-page.png#lightbox)
 
-Add a table visual that fills the remainder of the page. Add the **Month** field (from the Date table) to the table visual.
+Add a table visual that fills the remainder of the page. Add the **Month** field (from the **Date** table) to the table visual.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot shows the layout of the report page with a slicer located in the upper-right corner and a table visual filling the remainder of the page.](../media/report-page-filled.png)](../media/report-page-filled.png#lightbox)
