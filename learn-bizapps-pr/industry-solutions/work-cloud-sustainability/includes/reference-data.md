@@ -15,6 +15,7 @@ You can also pull in precalculated emissions. This feature is useful for organiz
 
 When setting up reference data, you should:
 - Identify regulatory requirements in countries/regions where operations exist. Regulatory requirements in different countries will dictate your needs, determining aspects such as emission factors. 
+
 - Specify units and conversions to avoid calculation errors. You can convert units of measurement. If you’ve set up conversions in the application, the calculations will work.
 - Define the solution landscape in terms of reporting needs and level of granularity. Consider the level of granularity that you’ll need for reporting purposes. For example, if you need to track a specific line of business, you’ll want to set up your facilities with a name that contains “Facility + Line of business” in the name, such as “Contoso Pod facility – Organic beans.”
 

@@ -1,7 +1,7 @@
 Now, you’ll examine the data flow process in detail, starting with master data. 
 
 The following diagram shows the four steps of the data flow process: 
-1. Use master data
+1. Set up master data
 2. Record
 3. Report
 4. Reduce
