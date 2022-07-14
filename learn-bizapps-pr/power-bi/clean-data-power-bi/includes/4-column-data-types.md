@@ -24,8 +24,7 @@ correct any errors that you identify.
 
 You evaluate the **OrderDate** column. As expected, it contains numeric
 data, but Power BI Desktop has incorrectly set the column data type to
-Text. To report on this column, you need to change the data type of this
-column from Text to Date.
+Text. To report on this column, you need to change the data type from Text to Date.
 
 > [!div class="mx-imgBorder"]
 > [![Column OrderDate data type set as text](../media/04-column-data-type-setas-text-ssm.png)](../media/04-column-data-type-setas-text-ssm.png#lightbox)
