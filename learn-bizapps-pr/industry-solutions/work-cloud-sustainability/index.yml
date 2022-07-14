@@ -13,7 +13,7 @@ summary: |
   [!include[](../includes/module-banner.md)] 
   This module describes the solution focus areas for Microsoft Sustainability Manager. You’ll also learn how Sustainability Manager centralizes disparate data in a common data format and offers organizations a comprehensive view into the emissions impact of their entire operations and value chain. 
 abstract: |  
-    In this module, you will: 
+    In this module, you'll: 
     - Learn about the different solution focus areas. 
     -	Discover how several types of data flow through the solution.
     -	Import data by using different data ingestion methods.

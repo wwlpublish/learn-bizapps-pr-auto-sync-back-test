@@ -35,7 +35,6 @@ The Microsoft Teams integration feature also tracks and stores the conversation 
 
 You can enable the Microsoft Teams integration feature in Settings. You can also select the type of records for which you want to enable Teams collaboration, such as the Emissions data record. 
 
+To initiate a conversation, create a new linked chat, find the team member that you want to contact, and then add a message. 
 
-1. To initiate a conversation, create a new linked chat, find the team member that you want to contact, and then add a message. 
-
-    This record will be tracked in Teams, so whenever you open a linked record, the conversation will be available. All participants have access to the specific record in context. 
+This record will be tracked in Teams, so whenever you open a linked record, the conversation will be available. All participants have access to the specific record in context. 

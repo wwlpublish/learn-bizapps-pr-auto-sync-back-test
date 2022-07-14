@@ -23,9 +23,10 @@ Before factors mapping can occur, you’ll need to set up emission factors and r
 
 Next, you’ll complete the steps for setting up factors mapping:
 
-1. In the left navigation pane, select Factor **library**.
+1. In the left navigation pane, select **Factor library**.
+
 2. Select the library that contains the emission factors that you want to map to. 
-3. On the Action Pane, select New **Factors Mapping** to manually add the mapping information. You can also use the **Connection** functionality.
+3. On the Action Pane, select **New Factors Mapping** to manually add the mapping information. You can also use the **Connection** functionality.
 4. Enter a name for the mapping.
 5. Find and select the entity name that you're mapping to. This entity can be any type of reference data that you've added, such as facility or fuel.
 6. Find and select the emission factors to map to.
