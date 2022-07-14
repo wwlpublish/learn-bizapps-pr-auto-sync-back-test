@@ -6,6 +6,7 @@ Regardless of how you pull in data, you’ll need to organize it to some degree.
 
 Organizations can use a combination of methods to ingest data into the solution.
 - **Manual** - You can enter data manually. Even global organizations that are otherwise automated will occasionally need the option to enter data manually. For example, many Fortune 500 companies operate in several countries, including countries that lack consistent connections to databases for pulling electricity consumption data. These organizations might be examining electricity bills and transferring that data into spreadsheets. For those organizations, you should select the option to manually enter data.
+
 - **File based** – Instances might occur when organizations need to import data from Microsoft Excel or CSV files. 
 - **New connections** - Sustainability Manager also supports direct connections to databases and other business applications. It can be connected to data sources, regardless of solution provider, vendor, or platform, by using Power Query.
 - **Prebuilt connectors** - Eventually, you’ll provide customers with a marketplace of prebuilt connectors straight to other data sources. To simplify the process of connecting customer data, Microsoft is collaborating with partners to create connectors to meet industry and customer-specific requirements. You can also create your own private connectors to enable specific scenarios by extending Sustainability Manager.
@@ -124,6 +125,7 @@ Be flexible about how you get started with ingesting the data. Replace manual pr
 
 Keep the following important considerations in mind for data ingestion: 
 - Plan your approach based on organization landscape, technical capabilities, and source data format. 
+
 - Partner with IT to manage data ingestion.
 - Define roles for data management security.
 - Start simple with manual or file-based data ingestion methods.
