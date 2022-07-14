@@ -48,7 +48,9 @@ The abilities of role types in a workspace include:
 
 -   **Member**
 
-    -   Cannot add or remove users
+    -   Can add users with lower permissions
+
+    -   Cammot remove users
 
     -   Cannot delete the workspace
 
