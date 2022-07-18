@@ -23,6 +23,7 @@ To work with the Power Fx experience, follow these steps:
 The following example shows a Power Fx formula. It has an entity, a field, and a condition.
 
 - **Entity** - Activity
+
 - **Field** - Vehicle type
 - **Condition value** – The **is-on-road** value will be **True** or **False**
 

@@ -4,7 +4,7 @@
 
 To locate the endpoint of your Dataverse environment, follow these steps:
 
-1. Go to the [Power Apps](https://make.powerapps.com/?azure-portal=true) portal
+1. Go to [Power Apps](https://make.powerapps.com/?azure-portal=true).
 2. Check the **Environment badge** in the upper right to ensure that you’re in the correct environment. 
 3. Select the **Settings** icon in the upper right and then select **Developer resources**. 
 4. Copy and save the **Web API endpoint** (you’ll need this information later in this exercise). Make sure that you only copy the URL from the scheme (https) to the host `globaldisco.crm4.dynamics.com` without the **/api/data/v9.x** path or query string.
@@ -19,6 +19,7 @@ Next, you’ll create the app registration and underlying service principal that
 > [!Note]
 > You’ll need to complete this step to get the user to authenticate with their credentials and use the resulting authentication token to access Dataverse.
 1. Go to the [Azure portal](https://ms.portal.azure.com/?azure-portal=true).
+
 2. Go to Azure Active Directory.
 3. Go to **App registrations**.
 4. Select **New registration**.

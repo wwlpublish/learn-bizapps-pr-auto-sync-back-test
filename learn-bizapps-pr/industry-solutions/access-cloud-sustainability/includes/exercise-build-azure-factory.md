@@ -220,7 +220,7 @@ To create a Data Factory pipeline, follow these steps:
 6. Define the mapping as follows:
     - msdyn_transactiondate > TransactionDate
     - msdyn_activityname > Activity
-    - msdyn_co2e > CO2E
+    - msdyn_co2 > CO2E
 
         > [!div class="mx-imgBorder"]
         > [![Screenshot showing source is mapped as following msdyn_transactiondate to TransactionDate, msdyn_activityname to Activity, msdyn_co2e to CO2E.](../media/source-schema.png)](../media/source-schema.png#lightbox)

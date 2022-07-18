@@ -7,6 +7,7 @@ Scorecards and goals are manually updated or connected to data for automatic che
 In this example, you can check the emissions for the Contoso USA headquarters. 
 
 1. Go to **Scorecards > Edit Goal > Contoso USA – HQ Carbon Reduction**. 
+
 2. Select **Update connections** to select the criteria to identify the current value for the goal.
 3.	Update the **Organization unit** to be **Contoso USA**.
 4.	Adjust the **Progress tracker** by using the **Connecting to data** option for the current value and target value. 
