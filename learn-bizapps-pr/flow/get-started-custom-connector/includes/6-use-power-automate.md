@@ -55,7 +55,7 @@ In this task, you will create a Power Automate flow inside the Contoso invoicing
     > [!div class="mx-imgBorder"]
     > [![An arrow pointing to the Create HTML flow action - screenshot.](../media/html.png)](../media/html.png#lightbox)
 
-1. Select the **From** field and then select **body** from the **Dynamic content** pane.
+1. Select the **From** field and then select **body** from the **Dynamic content** pane. Enclose body in square brackets.
 
     > [!div class="mx-imgBorder"]
     > [![Select an output from previous action - screenshot.](../media/body.png)](../media/body.png#lightbox)
