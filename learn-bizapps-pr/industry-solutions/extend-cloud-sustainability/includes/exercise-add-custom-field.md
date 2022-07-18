@@ -13,7 +13,7 @@ You might want to add more descriptive details to your facility. You can add a c
 
 4. To find the table in the data model that will need to be edited, look in the application URL for the **ent** value.  In the URL, the **ent=msdyn_facility** value will display. 
 
-5. Sign in to [Power Apps portal](https://make.preview.powerapps.com/environments/839eace6-59ab-4243-97ec-a5b8fcc104e4/home/?azure-portal=ture) and select the **Sustainability Trial** environment from the dropdown menu in the upper-right corner.
+5. Sign in to [Power Apps](https://make.preview.powerapps.com/environments/839eace6-59ab-4243-97ec-a5b8fcc104e4/home/?azure-portal=ture) and select the **Sustainability Trial** environment from the dropdown menu in the upper-right corner.
 6. Expand **Data > Tables** in the left navigation pane.
 
     > [!div class="mx-imgBorder"]

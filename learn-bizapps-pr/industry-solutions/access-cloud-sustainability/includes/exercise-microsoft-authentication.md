@@ -3,7 +3,7 @@ Follow the steps in this exercise to access sustainability data through Datavers
 ## Step 1 – Locate the endpoint of your Dataverse environment
 
 Your first task is to locate the endpoint of your Dataverse environment by following these steps:
-1. Go to the [Power Apps](https://make.powerapps.com/?azure-portal=true) portal
+1. Go to [Power Apps](https://make.powerapps.com/?azure-portal=true).
 2. Review the **Environment** badge in the upper right to ensure that you’re in the correct environment.
 3.	Select the **Settings** (gear) icon in the upper right and then select **Developer resources**.
 
