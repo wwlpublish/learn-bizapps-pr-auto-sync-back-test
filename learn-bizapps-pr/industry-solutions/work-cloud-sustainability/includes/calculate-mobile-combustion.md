@@ -44,7 +44,7 @@ The right side of the preceding screenshot shows four dropdown menus, such as Em
 
 The model in this example will ask the following categorical questions:
 
-- **Emission factor value** - What is the fuel quantity that is being consumed? 
+- **Emission report value** - What is the fuel quantity that is being consumed? 
 - **Unit** - In what unit is the fuel quantity measured? For example, is it measured in gallons or liters? Fortunately, the most common unit conversions have been prepopulated into the solution for you.
 - **Emission factor library** - Which calculation library will you use to measure the emissions impact of fuel consumption? In this case, the answer is EPA.
 - **Emission factor** - What is the emission factor? In this case, you’re using a factor mapping called Fuel Type. An option is available for you to include a specific emission factor, but when you select the factor mapping of Fuel Type, the system will automatically assign the correct factor from the EPA as different fuel types are parsed through the system.
