@@ -175,6 +175,7 @@ To create the output dataset, follow these steps:
 3. On the **Select format** page, select **JSON**, and then select **Continue**. 
 4. On the **Set properties** page, fill in the form as follows:
     - Enter any name, such as **OutputEmissions**.
+    
     - Select **Blob storage link** from the **Linked service** dropdown list.
     - Enter **adf-output / mc4s** for the file path, and then leave the last box blank.
     - Select **From sample file** for **Import schema**.

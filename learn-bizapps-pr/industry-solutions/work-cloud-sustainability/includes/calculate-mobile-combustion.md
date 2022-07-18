@@ -20,14 +20,14 @@ To work with the Power Fx experience, follow these steps:
 
     In this field, you can generate any formula that you want. This checklist is especially useful if you want to use a formula that has values that aren’t present in the dropdown menus. 
 
-The following example shows a Power Fx formula. It has an entity, a field, and a condition.
+    The following example shows a Power Fx formula. It has an entity, a field, and a condition.
 
-- **Entity** - Activity
+    - **Entity** - Activity
 
-- **Field** - Vehicle type
-- **Condition value** – The **is-on-road** value will be **True** or **False**
+    - **Field** - Vehicle type
+    - **Condition value** – The **is-on-road** value will be **True** or **False**
 
-This example shows why Power Fx is helpful. The value is on road isn’t available as a default in the dropdown menus. Power Fx makes it possible for you to use that variable. 
+    This example shows why Power Fx is helpful. The value is on road isn’t available as a default in the dropdown menus. Power Fx makes it possible for you to use that variable. 
 
 2. Select **Power Fx to enable UI (user interface)**.
 
