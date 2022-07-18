@@ -6,7 +6,7 @@ For more details, be sure to check out the documentation that's specific to each
 
 ## Get sample apps
 
-Before you can experiment with or edit the model-driven sample apps, you must set them up in a Microsoft Dataverse database. If you have not already created a trial enviroment, follow the steps in the [Create a trial (standard) environment in the Power Platform admin center](/power-platform/admin/trial-environments/?azure-portal=true) learning module. Make sure that you select the **Deploy sample apps and data** toggle. If you do not have the correct permissions to to create a trial environment, consider setting up a trial tenant. For more information on doing so, see [Sign up for the Power Apps Developer Plan](/power-apps/maker/developer-plan).
+Before you can experiment with or edit the model-driven sample apps, you must set them up in a Microsoft Dataverse database. If you have not already created a trial enviroment, follow the steps in the [Create a trial (standard) environment in the Power Platform admin center](/power-platform/admin/trial-environments/?azure-portal=true) learning module. Make sure that you select the **Deploy sample apps and data** toggle. If you do not have the correct permissions to create a trial environment, consider setting up a trial tenant. For more information on doing so, see [Sign up for the Power Apps Developer Plan](/power-apps/maker/developer-plan).
 
 ![Deploy sample apps and data toggle screenshot.](../media/deploy-sample-apps.png)
 
