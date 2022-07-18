@@ -45,6 +45,6 @@ Business users are usually a good fit for this task.
 Export is not yet implemented in the **Document Automation Application**. If you want to export the extracted data, go to the **Power Apps Data** > **Tables** menu and **Document Automation Data** table, then at the top, select the button **Export data**.
 
 > [!div class="mx-imgBorder"]
-> [![Tables > Document Automation Data showing the Columns tab.](../media/4-export.png)](../media/4-export.png#lightbox)
+> [![Tables > Document Automation Data showing the Columns tab.](../media/4-limitations.jpg)](../media/4-limitations.jpg#lightbox)
 
 You are now ready to automate the processing of your documents using AI and Microsoft Power Platform.
