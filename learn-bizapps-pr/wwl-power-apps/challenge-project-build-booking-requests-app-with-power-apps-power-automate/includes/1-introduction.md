@@ -10,7 +10,8 @@
 
     [Introduction unit guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=main#rule-use-the-standard-module-introduction-format)
 -->
-TODO: add your topic sentences(s)
+Create your own data model, app, and flow to support a scenario for a fictional company. You will be provided with high-level specifications on the custom tables, columns, canvas app, and flows needed to complete this project.
+
 TODO: add a visual element
 
 <!-- 2. Scenario -----------------------------------------------------------------------------------------
@@ -29,7 +30,8 @@ TODO: add a visual element
     [Scenario video guidance](TBD)
  -->
 ## Example scenario
-TODO: add your scenario
+Pet Paradise is a local pet boarding facility and veterinary care practice. Lately, customers have requested a way to submit booking requests for pet boarding without having to call the office. You would like to create an app that allows customers to submit the information for their booking request for the office to review. You would like customers to be alerted when their booking request has been reviewed and approved or rejected. You want to build an app that allows you to capture these booking requests and decide to accept or decline the booking. 
+
 TODO: add a visual element
 
 <!-- 3. Prose table-of-contents --------------------------------------------------------------------------
@@ -45,7 +47,9 @@ TODO: add a visual element
 
  -->
 ## What will we be doing?
-TODO: add your activities
+- Create custom tables and columns in Dataverse
+- Build a Power Apps canvas app for your custom table
+- Build Power Automate cloud flows to send notifications
 
 <!-- 4. Terminal learning objective ----------------------------------------------------------------------
 
@@ -57,6 +61,6 @@ TODO: add your activities
 
  -->
 ## What is the main goal?
-By the end of this session, you'll be able to (TODO)
+By the end of this session, you'll have a working solution that validates your knowledge of concepts covered in PL-100: Microsoft Power Platform App Maker. If you haven't taken the exam already, you may be ready! 
 
 <!-- Do **not** include any other content like learning objectives, prerequisites, unit summary, "next unit" lead-in, or references. -->

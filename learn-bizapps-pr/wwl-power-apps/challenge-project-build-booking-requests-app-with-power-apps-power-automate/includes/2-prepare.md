@@ -8,7 +8,7 @@
 
     Example: "You'll be <building> a <Logic App> that <determines the sentiment of new tweets and reacts accordingly>. Here, we'll discuss the project <business logic and target behavior>. We'll also cover the <accounts and software> you'll need."
 -->
-TODO: add your topic sentences(s)
+You'll be creating custom tables and columns to build a canvas app along with some notification flows. Here, we'll discuss the things you'll need to get started.
 
 <!-- 2. Project specification -----------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ TODO: add your topic sentences(s)
         - List of the technologies they should use.
 -->
 ## Project specification
-TODO
+All you need is access to Microsoft Power Platform to complete this challenge project. You will be using Microsoft Dataverse, Power Apps, and Power Automate to complete this work.
 
 <!-- 3. Setup -------------------------------------------------------------------------------------
 
@@ -57,16 +57,16 @@ TODO
     containing a single H2.
 -->
 ## Setup
-Strong lead sentence stating the categories of what's needed: accounts, software, etc.
-Remainder of paragraph if needed.
-### Create (service) account (repeat as needed)
-Strong lead sentence stating the required account.
-Remainder of paragraph explaining why this is needed and what it will be used for.
-Inline instructions or link to setup instructions.
-### Install (product) (repeat as needed)
-Strong lead sentence stating the product needing installation.
-Remainder of paragraph explaining why this is needed and what it will be used for.
-Inline instructions or link to setup instructions.
+If needed, you can sign up for a trial by following these steps:
+### Sign up for a Microsoft Power Platform trial
+1. Navigate to https://powerapps.microsoft.com and click **Start free**.
+2. Under **Get started**, enter your email address in the text box that says **Enter your work email address.**
+3.  You see a prompt that you have an existing account with Microsoft. Select
+    **Sign in.**
+4.  Enter your password.
+5.  Select **Yes** to stay signed in.
+6.  Complete your account info and select **Get started** to sign up for your
+    Microsoft Power Platform trial.
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
