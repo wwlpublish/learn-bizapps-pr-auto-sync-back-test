@@ -21,7 +21,7 @@ In the following video, you're walked through those data preparation steps.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/]
 
-## Create a model 
+## Create a model
 
 The prediction model determines potential outcomes after analyzing historical data. Providing records that have multiple potential influencers and a clear outcome, will support a model with high confidence level.
 
@@ -32,7 +32,7 @@ The tables imported during the data preparation steps will be used to create the
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Power Apps Studio displaying the prediction model tile and AI Builder navigation menu.](../media/prediction-model-tile.png)](../media/prediction-model-tile.png#lightbox)
 
-1.  Select **Get started**.
+2.  Select **Get started**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the AI Builder prediction model with highlight on Get Started.](../media/get-started.png)](../media/get-started.png#lightbox)
@@ -42,20 +42,48 @@ The tables imported during the data preparation steps will be used to create the
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the AI Builder Prediction model with highlight on the table and column value selection and confirmation of the four possible outcomes.](../media/outcomes.png)](../media/outcomes.png#lightbox)
 
-1.  Review and confirm the selected columns that may influence the outcome for the **BC Order** table.
+1.  Review and confirm the selected columns that may influence the outcome for the **BC Order** table. Notice that Delivery Delta and Delivery Date are not selected. These values are updated once the delivery has occurred and would bias the analysis, resulting in a model performance of type D. Other irrelevant columns, such as ID and Order Status, can also be removed for this model training. To move to the next step of this exercise, select **Next**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the AI Builder Prediction model with highlight on the selected table and column values.](../media/columns.png)](../media/columns.png#lightbox)
 
-1.  To allow the model to consider the customer information, select the **City**, **ID**, and **Zip code** columns for the **BC Customer** table.
+1. For this exercise, no filter is required; select **Skip this step**, and then select **Next**.
+
+    > [!div class="mx-imgBorder"]
+	> [![Screenshot of the AI Builder Prediction model with highlight on the skip and next button.](../media/skip.png)](../media/skip.png#lightbox)
+
+1.  Review the model summary. Select **Train** to move to the next portion of this exercise.
+
+    > [!div class="mx-imgBorder"]
+	> [![Screenshot of the AI Builder Prediction model with highlight on the train button.](../media/train-2.png)](../media/train-2.png#lightbox)
+
+1.	Select **Go to models**. The model will be in training for a few minutes. When training completes, the status will change to Trained.
+
+1.	To view the performance details, select the trained model.
+
+    > [!div class="mx-imgBorder"]
+	> [![Screenshot of the AI Builder Prediction model with highlight on the prediction.](../media/prediction.png)](../media/prediction.png#lightbox)
+
+1.  Review the performance details, in this **B** level is satisfactory. Most influential data provide information about the columns that have the highest impact on the determination of the outcome. Select **Publish** to move to the next step of this exercise.
+
+    > [!div class="mx-imgBorder"]
+	> [![Screenshot of the AI Builder Prediction model with highlight on the satisfactory level, data, and publish button.](../media/publish.png)](../media/publish.png#lightbox)
+
+## Use the model to predict in real-time
+
+When a prediction model is published, it will run automatically to refresh the outcome for newly created records, daily by default.
+In scenarios where the prediction is required instantly, a Power Automate cloud flow is required to generate the outcome as rows are created.
+Follow these steps to create a flow that will use the outcome of the custom model to predict the delivery timeliness potential for new orders:
+
+1. In the Power Automate Studio, in the left navigation menu, select **Create**, and then select the **Automated cloud flow** tile.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Customer table with city, ID, and zip code selected.](../media/customer.png)](../media/customer.png#lightbox)
+	> [![Screenshot of the Power Automate Studio with the create and automated cloud flow button selected.](../media/automated.png)](../media/automated.png#lightbox)
 
-1.  To allow the model to consider the product information, select the **Category**, **Description Length**, **Height cm**, **ID**, **Length cm**, **Name Length**, **Photos Quantity**, **Weight g**, and **Width cm** columns for the **BC Product** table; then select **Next**.
+1.  Enter a name for the flow, then select the **When a row is added, modified or deleted** trigger for Dataverse. Then select **Create**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the product table with the category, description length, height, ID, length, name length, photos quantity, weight, and width selected.](../media/product.png)](../media/product.png#lightbox)
+	> [![Screenshot of the Power Automate Studio with the flow name and choose your flow trigger field selected.](../media/flow-trigger.png)](../media/flow-trigger.png#lightbox)
 
 1.  For this exercise, no filter is required; select **Skip this step**, and then select **Next**.
 
