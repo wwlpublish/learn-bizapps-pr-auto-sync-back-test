@@ -3,7 +3,7 @@ uid: learn-bizapps.connect-filter-data
 metadata:
  title: Connect to and filter expense report data in a canvas app
  description: Learn how data connects to your app and how to pull in, display, and filter data to fulfill user requirements.
- ms.date: 01/13/2022
+ ms.date: 07/08/2022 
  author: jadaphillips
  ms.author: jadaphillips
  ms.topic: interactive-tutorial

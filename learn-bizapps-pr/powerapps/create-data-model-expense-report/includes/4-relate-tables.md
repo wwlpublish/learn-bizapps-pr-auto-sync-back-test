@@ -10,14 +10,16 @@ To relate expense report to expense report details, follow these steps:
 
 1. Expand **Dataverse** and select **Tables**.
 
-1. Select the **Expense Report** table that you created in the previous unit. If you can't find it, change the view to **Custom**.
+1. Select the **Expense Report** table that you created in the previous unit. If you can't find it, use the **Filter by** in the **Tags** column and just include the **Custom** tag.
 
 1. When you are in the table, select the **Relationships** tab. Some out-of-the-box relationships will display, which will help Dataverse work.
 
-1. Select **+ Add relationship** to create a new one.
+1. Select **Relationships** under **Schema** to view this tables relationships.
+
+1. Now in the top, select **+ New relationship** create a new one.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Expense Report > Relationships tab with the Add relationship option highlighted.](../media/15-add-relationship.png)](../media/15-add-relationship.png#lightbox)
+    > [![Screenshot of the Expense Report page with the Relationship button outlined.](../media/15-add-relationship.png)](../media/15-add-relationship.png#lightbox)
 
     Dataverse will ask which type of relationship that you want. As discussed in the previous module and in the first unit of this module, you are creating a *one-to-many* relationship because only one expense report exists for many details (or line items).
 
@@ -39,7 +41,7 @@ To relate expense report to expense report details, follow these steps:
 1. Select **+ Add relationship**. This time, select **Many-to-one**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Add relationship menu expanded with the Many-to-one option selected.](../media/17-many-expanded.png)](../media/17-many-expanded.png#lightbox)
+    > [![Screenshot of the New relationship menu expanded with the Many-to-one option highlighted.](../media/17-many-expanded.png)](../media/17-many-expanded.png#lightbox)
 
 1. In the flyout menu, select the User table from the dropdown list. The **Lookup column display name** field will appear on the Expense Report side, which will always happen on the *many* side of the relationship.
 

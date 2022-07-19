@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.explore-portals-studio.5-themes 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.explore-portals-studio.5-themes
 title: Portal themes
-metadata: 
-  title: Portal themes 
-  description: Learn about portal themes.  
-  ms.date: 06/23/2022
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps-portals 
-durationInMinutes: 3 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/5-themes.md)] 
+metadata:
+  title: Portal themes
+  description: Learn about portal themes.
+  ms.date: 06/30/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps-portals
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/5-themes.md)]

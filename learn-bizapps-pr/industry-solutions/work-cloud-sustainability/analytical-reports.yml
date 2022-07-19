@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.work-cloud-sustainability.analytical-reports 
+title: Set up analytical reports 
+metadata: 
+  title: Set up analytical reports
+  description: Analytics reports present your calculated emissions in an organized way so that you can detect trends or explore your data. 
+  ms.date: 07/05/2022 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-mscloud-sustainability 
+durationInMinutes: 7
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/analytical-reports.md)] 

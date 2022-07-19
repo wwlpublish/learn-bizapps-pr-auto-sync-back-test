@@ -4,13 +4,13 @@ The Portal Management model-driven app provides access to the contact table and 
 
 ![Screenshot of the contact web authentication form.](../media/4-contact-web-authentication-form.png)
 
-All interactions and actions that a portal user takes (for example, leaving a comment on a page) are tied to their contact record in Dataverse.
+All interactions and actions that a portal user takes (for example, leaving a comment on a page) are associated to their contact row in Dataverse.
 
 ## Authentication
 
 Portal users can authenticate by using the following methods:
 
-- **Local authentication** - Common forms-based authentication with usernames and password hashtags are stored in the Dataverse contact record.
+- **Local authentication** - Common forms-based authentication with usernames and password hashs are stored in the Dataverse contact row.
 
 - **External authentication** - Credentials and password management are handled by other identity providers. Supported authentication providers include:
   - OAuth2 (Microsoft, Twitter, Facebook, Google, LinkedIn, Yahoo)
@@ -30,7 +30,7 @@ After the user is authenticated and associated with a contact, Power Apps portal
 
 ![Screenshot of the Portals security constructs.](../media/1-7-portal-security.png)
 
-**Web role** allows administrators to control user access to portal content and Dataverse records. A web role can be associated with the following records:
+A **Web role** allows administrators to control user access to portal content and Dataverse rows. A web role can be associated with the following rows:
 
 - **Website Access Permissions** - Define what front-side content preview and editing permissions a web role should have.
 - **Web Page Access Control Rules** - Define what pages are visible to a web role and what actions can be taken.

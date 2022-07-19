@@ -5,17 +5,16 @@ Microsoft Power Apps portals Studio is a WYSIWYG design tool that will allow por
 
 ## Launch portals Studio
 
-You will only have access to the Power Apps portals Studio when you have a portal that is provisioned in your Microsoft Dataverse or Dynamics 365 environment. To access the Power Apps portal Studio:
+You'll only have access to the Power Apps portals Studio when you have a portal that is provisioned in your Microsoft Dataverse or Dynamics 365 environment. To access the Power Apps portal Studio:
 
 1. Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true).
 1. Select a target environment by using the environment selector in the upper-right corner.
 1. On the left menu, select **Apps**.
-1.  Select the target app of type Portal.
-1. Select **Edit**
+1. Select the target app of type Portal.
+1. Select **Edit**.
+    ![Screenshot of steps to launch portals Studio in makers environment](../media/launch-portals-studio.png)
 
-![Screenshot of steps to launch portals studio in makers environment.](../media/launch-portals-studio.png)
-
-This procedure will launch the Studio, where makers can begin creating webpages and adding static and dynamic content to the portal.  
+This procedure will launch the Studio, where makers can begin creating webpages and adding static and dynamic content to the portal.
 
 ## Portals Studio anatomy
 

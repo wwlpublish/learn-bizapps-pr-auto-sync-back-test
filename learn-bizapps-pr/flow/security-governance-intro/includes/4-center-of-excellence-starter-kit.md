@@ -2,7 +2,7 @@ Microsoft Power Platform Center of Excellence (CoE) Starter Kit is a set of
 apps, flows, a custom connector, and a Power BI dashboard that allows
 organizations to govern their Microsoft Power Platform environments. The tool is
 freely available for download on
-[GitHub](https://github.com/microsoft/powerapps-tools/tree/master/Administration/CoEStarterKit/?azure-portal=true).
+[GitHub](https://github.com/microsoft/coe-starter-kit/?azure-portal=true).
 
 The Starter Kit is a great tool for organizations to increase the
 visibility of what their makers are doing in their tenant.

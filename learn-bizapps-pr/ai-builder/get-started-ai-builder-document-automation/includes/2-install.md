@@ -64,22 +64,22 @@ To install and configure the document automation solution, you must follow these
 1. Select the **Select** button.
 
     > [!div class="mx-imgBorder"]
-    > [![Select a solution page shows Custom documents, with Invoices and Receipts marked "Coming soon."](../media/2-select-solution.png)](../media/2-select-solution.png#lightbox)
+    > [![Select a solution page shows Custom documents, with Invoices and Receipts marked "Coming soon."](../media/2-select-solution.jpg)](../media/2-select-solution.jpg#lightbox)
 
 1. Once in the wizard, select the **Install solution** link.
 
     > [!div class="mx-imgBorder"]
-    > [![Custom documents solution wizard showing the first page, Install solution.](../media/2-install-solution.png)](../media/2-install-solution.png#lightbox)
+    > [![Custom documents solution wizard showing the first page, Install solution.](../media/2-install-solution.jpg)](../media/2-install-solution.jpg#lightbox)
 
 1. Wait five to ten minutes for the installation to complete.
 
     > [!div class="mx-imgBorder"]
-    > [![Custom documents solution wizard showing the "solution installed" message.](../media/2-wizard.png)](../media/2-wizard.png#lightbox)
+    > [![Custom documents solution wizard showing the "solution installed" message.](../media/2-wizard.jpg)](../media/2-wizard.jpg#lightbox)
     
 1. Choose from already created connections or create a new one using the ellipsis (...) button.
 
     > [!div class="mx-imgBorder"]
-    > [![Custom documents solution wizard showing the Setup connections with Office 365 Outlook and Dataflex connected.](../media/2-wizard-2.png)](../media/2-wizard-2.png#lightbox)
+    > [![Custom documents solution wizard showing the Setup connections with Office 365 Outlook and Dataflex connected.](../media/2-set-connections.jpg)](../media/2-set-connections.jpg#lightbox)
 
 1. Select **Next** and wait for the flows to activate, then select **Finish**.
 

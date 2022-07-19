@@ -16,7 +16,7 @@ After saving the webpage, a maker has the following options that they can use to
 
 | Item | Details |
 | -------------------- | ---- |
-| Hide in default menu | A weblink record (menu option) won't be displayed on the default navigation menu.    |
+| Hide in default menu | A weblink row (menu option) won't be displayed on the default navigation menu.    |
 | Add a subpage   | A new webpage is added as a child page of the currently selected page. |
 | Move up                     | Moves up the webpage in the sitemap.      |
 | Move down            | Moves down the webpage in the sitemap.                       |

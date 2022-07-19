@@ -7,19 +7,19 @@ The decision about which option is more appropriate depends on the target audien
 
 Regardless of the registration configuration, local and external accounts participate equally in the registration workflow. Specifically, users have the option to choose which type of account they want to register.
 
-Registration is enabled by default. The `Authentication/Registration/Enabled` site setting controls overall registration process, and adding this setting with the value of `False` disables all forms of user registration. Any other registration setting is ignored until the registration is enabled. You can use [Enable or disable user registration](/power-apps/maker/portals/configure/set-authentication-identity?azure-portal=true#enable-or-disable-user-registration) settings to control individual registration options.
+Registration is enabled by default. The `Authentication/Registration/Enabled` site setting controls the overall registration process, and adding this setting with the value of `False` disables all forms of user registration. Any other registration setting is ignored until the registration is enabled. You can use [Enable or disable user registration](/power-apps/maker/portals/configure/set-authentication-identity?azure-portal=true#enable-or-disable-user-registration) settings to control individual registration options.
 
 ## Open registration
 
 Open registration allows visitors to register directly on the portal by using the **Register** tab on the portal **Sign In** page. It's the least restrictive sign-up configuration, where the portal allows a user account to be registered by providing a user identity. When open registration is enabled, any user who completes the registration form is immediately registered and authenticated.
 
-Because users aren't validated prior to sign up, this option works well in more open environments like community portals, where site visitors aren't known in advance. Organizations run these portals for the communities where the users might have some common interests, such as the area where they live, their hobbies, and industries that they work in. In other words, open registration works best when it's not easy to discover and validate the users in advance.
+Because users aren't validated prior to sign up, this option works well in more open environments like community portals, where site visitors aren't known in advance. Organizations run these portals for the communities where the users might have some common interests, such as the area where they live, their hobbies, and the industries that they work in. In other words, open registration works best when it's not easy to discover and validate the users in advance.
 
 ## Invitation-based registration
 
 Invitation-based registration is the process where an existing contact is validated by an invitation code.
 
-This registration is useful in the scenarios when contacts are known in advance. It's commonly used to register customers, partners, or employees. Invitation-based registration works in situations where users can be "pre-validated," such as when you've collected contact information from visitors of your exhibition booth.
+This registration is useful in scenarios when contacts are known in advance. It's commonly used to register customers, partners, or employees. Invitation-based registration works in situations where users can be "pre-validated," such as when you've collected contact information from visitors to your exhibition booth.
 
 Invitations contain many [Invitation columns](/power-apps/maker/portals/configure/invite-contacts?azure-portal=true#invitation-attributes) or attributes that allow you to:
 
@@ -64,6 +64,6 @@ If the user doesn't select the **I have an existing account** option, they'll be
 > [!div class="mx-imgBorder"]
 > [![Screenshot of register invited contact from an account.](../media/register-invited-contact.png)](../media/register-invited-contact.png#lightbox)
 
-After the registration process is complete, depending on the invitation options, the portal user can be associated with the predefined account or another classic workflow can be run.
+After the registration process is complete, depending on the invitation options, the portal user can be associated with the predefined account, or another classic workflow can be run.
 
 For more information, see [Invite contacts to your portals](/power-apps/maker/portals/configure/invite-contacts?azure-portal=true).

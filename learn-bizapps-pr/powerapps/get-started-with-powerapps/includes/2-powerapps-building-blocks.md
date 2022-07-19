@@ -3,7 +3,6 @@ Power Apps is a collection of services, apps, and connectors that work together 
 This unit explores each part of the following Power Apps components:
 
 - [**Power Apps Home Page**](https://make.powerapps.com/?azure-portal=true) - Apps start here, whether you build them from data, a sample app, or a blank screen.
-- [**Power Apps Studio**](https://create.powerapps.com/studio/?azure-portal=true) - Develop your apps further by connecting to data, adding and arranging user interface (UI) elements (known as controls), and building formulas.
 - **Power Apps Mobile** - Run your apps on Microsoft Windows, Apple iOS, and Google Android devices.
 - [**Power Apps Admin Center**](https://admin.powerplatform.microsoft.com/?azure-portal=true) - Manage Power Apps environments and other components.
 

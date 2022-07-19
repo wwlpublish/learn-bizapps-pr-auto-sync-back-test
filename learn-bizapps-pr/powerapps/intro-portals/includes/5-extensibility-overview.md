@@ -14,7 +14,7 @@ For more information, see [Create a custom page template](/power-apps/maker/port
 
 ## JavaScript
 
-Custom JavaScript code can be embedded in different portal assets such as webpages, web templates, forms, and lists.  JavaScript can be used to enhance the client interface, add complex user input validation, call external web services, or call Dataverse directly using portals Web API. 
+Custom JavaScript code can be embedded in different portal assets such as webpages, web templates, forms, and lists.  JavaScript can be used to enhance the client interface, add complex user input validation, call external web services, or call Dataverse directly using portals Web API.
 
 > [!NOTE]
 > Scripting in Power Apps portals is specific to portal components and does not use scripts from model-driven apps in forms or views.

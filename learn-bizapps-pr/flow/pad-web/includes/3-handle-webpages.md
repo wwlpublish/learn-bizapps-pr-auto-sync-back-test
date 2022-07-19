@@ -8,7 +8,9 @@ When you create a new UI element, the platform store it in the **UI elements pan
 
 All the actions that handle specific components in web pages require UI elements as input parameters. To create a UI element, follow the following steps:
 
-1. Open the action's properties and select the **UI element** drop-down menu.
+1. Under the **Actions** properties on the left,  expand **Browser automation** and select **Click link on web page**.
+
+    ![Screenshot of the actions view with browser automation menue and click link on web page selected.](..\media\click-link-page.png)
 
     ![Screenshot of the U I element field in the Click link on web page action.](..\media\click-link-on-web-page-action-ui-element-field.png)
 

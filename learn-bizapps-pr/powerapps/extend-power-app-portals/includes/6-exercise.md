@@ -1,203 +1,187 @@
-The purpose of this hands-on lab is to demonstrate how to add JavaScript code to a page to render data from Microsoft Dataverse as a chart by using another charting library. The data has been retrieved from Dataverse by using a web template that acts as a REST API endpoint.
+The purpose of this hands-on lab is to demonstrate how to add JavaScript code to a page to render data from Microsoft Dataverse as a chart by using an external charting library with the data retrieved from Dataverse using Portals Web API.
 
-The exercises work best when you have sample data to work with. Depending on the environment that you are working with, you might want to install some sample data to assist with the exercises. Microsoft Power Platform does provide the ability to add sample data as needed. If the environment that you are working in doesn't have sample data installed, follow the steps in the [Add or remove sample data](/power-platform/admin/add-remove-sample-data/?azure-portal=true) documentation to install the sample data into your environment.
+The exercises work best when you have sample data to work with. Depending on the environment that you're working with, you might want to install some sample data to assist with the exercises. Microsoft Power Platform does provide the ability to add sample data as needed. If the environment that you're working in doesn't have sample data installed, follow the steps in the [Add or remove sample data](/power-platform/admin/add-remove-sample-data/?azure-portal=true) documentation to install the sample data into your environment.
 
 ## Learning objectives
 
-At the end of these exercises, you will be able to:
+At the end of these exercises, you'll be able to:
 
-- Build a webpage that acts as a REST endpoint that returns data from Dataverse.
-- Add inline code to a content webpage to retrieve the data by using the endpoint.
-- Use an external JavaScript library to consume the retrieved data.
-
+- Configure site settings and table permissions to enable Portals Web API requests.
+- Add inline code to a content webpage to retrieve and transform the data using the Portals Web API.
+- Use an external JavaScript library to plot the transformed data.
+  
 **Estimated time to complete this exercise**: 15 to 20 minutes
 
-
-### Prerequisites
+## Prerequisites
 
 For this exercise, make sure that the following parameters are set up in your environment:
 
-- A Power Apps portal that is provisioned. If you do not have a Power Apps portal available, follow the [Create Portal](/power-apps/maker/portals/create-portal/?azure-portal=true) instructions to create one.
+- A Power Apps portal that is provisioned. If you don't have a Power Apps portal available, follow the [Create Portal](/power-apps/maker/portals/create-portal/?azure-portal=true) instructions to create one.
 - Access to the Power Apps maker portal.
 
-### High-level steps
+## High-level steps
 
 To finish the exercise, complete the following tasks:
 
-1. Create a web template with Liquid code to retrieve data about accounts in Dataverse and then return the data in JSON format.
-1. Add **Page Template** and **Web Page** records that use the web template that you created.
-1. Open a content page and add JavaScript code that retrieves the data.
+1. Create site settings and table permissions allowing Portals Web API read requests to accounts table.
+1. Create a content page and add JavaScript code that retrieves and transform the data.
 1. Add a charting library to the page and JavaScript code by using the library to build a graph with the retrieved data.
 
+## Detailed steps
 
-#### Create a web template
+### Enable Portals Web API requests
 
-To create a web template, follow these steps:
+To enable Portals Web API requests to **accounts** table, follow these steps:
+#### Create site settings
 
-1. Go to [Power Apps maker portal](https://make.powerapps.com/?azure-portal=true) and confirm you have selected the correct environment in the upper right.
+1. Sign in to [Power Apps maker portal](https://make.powerapps.com/?azure-portal=true) and confirm you've selected the correct environment in the upper right corner.
+
 1. Select **Apps**.
-1. Select the Portals Management app.
+
+1. Select the **Portals Management** app.
 
     > [![Screenshot of the portal management app highlighted.](../media/portal-management-app.png)](../media/portal-management-app.png#lightbox)
 
-1. Select **Web Templates**.
-1. Select **+ New**.
-1. Enter the following values:
-   - **Name** - getAccounts
-   - **Website** - Select your current website
-   - **Source** - Enter the following content
-   - **MIME Type** - application/json
+1. Select **Site Settings**.
 
-    ```twig
-    {% fetchxml accounts %}
-    <fetch>
-      <entity name="account">
-        <attribute name="name" />
-        <attribute name="numberofemployees" />
-        <attribute name="revenue" />
-      </entity>
-    </fetch>
-    {% endfetchxml %}
-    [
-    {% for account in accounts.results.entities -%}
-      {
-        "x": {{ account.numberofemployees }},
-        "y": {{ account.revenue }},
-        "z": {{ account.revenue | divided_by: account.numberofemployees }},
-        "name": "{{ account.name }}"
-      }{% unless forloop.last %},{% endunless %}
-    {% endfor -%}
-    ]
-    ```
+1. Select **+ New** and enter the following information:
 
-1. Press **Save & Close**.
+    - **Name** - Webapi/account/enabled.
+    - **Website** - select your portal.
+    - **Value** - true.
+    - Select **Save**.
 
-This Liquid code retrieves the list of accounts and then generates a data structure in JSON format. The data structure is already prepared for plotting by assigning appropriate labels to data points:
+    ![Screenshot of the steps to create Web API site settings.](../media/site-settings.png)
 
-- **name** - Company name
-- **x** - Number of employees
-- **y** - Company revenue in thousands
-- **z** - Revenue for each employee (calculated)
+1. Select **+ New** and enter the following information:
 
-#### Create a page template and a webpage
+    - **Name** - Webapi/account/fields.
+    - **Website** - select your portal.
+    - **Value** - name,numberofemployees,revenue.
+    - Select **Save & Close**.
 
-To create a page template and a webpage, follow these steps:
+#### Create table permissions
 
-1. Select **Page Templates**.
-1. Select **+ New**.
-1. Enter the following values:
-    - **Name** - getAccounts
-    - **Website** - Select your current website
-    - **Type** - Select **Web Template**
-    - **Web Template** - Select **getAccounts**
-    - **Use Website Header and Footer** - Clear the check box
-1. Select **Save & Close**.
-1. Select **Web Pages**.
-1. Select **+ New**.
-1. Enter the following values:
-    - **Name** - getAccounts
-    - **Website** - Select your current website
-    - **Parent Page** - Select **Home**
-    - **Partial URL** - getAccounts
-    - **Page Template** - getAccounts
-    - **Publishing State** - Published
-1. Select **Save & Close**.
+1. Switch to Power Apps maker portal window. 
 
-> [!IMPORTANT]
-> If you have not previously configured table permissions for the account table, your API page will return an empty array. Complete the next task to set up the permissions if you have not done so previously.
+1. Select portal app and select **Edit** to open portals Studio.
 
-#### Add table permissions
+1. Select **Settings** icon then select **Table permissions**.
 
-To add table permissions, follow these steps:
+   ![Screenshot of the table permissions in portals Studio.](../media/table-permissions.png)
 
-1. Switch to the Portal Management app.
-1. Select **Table Permissions**.
-1. Select **+ New**.
-1. Enter the following values:
-    - **Name** - Account Directory
-    - **Table Name** - Select account table
-    - **Website** - Select your current website
-    - **Access Type** - Select **Global**
-    - **Privileges** - Select **Read**
-1. Select **Save**.
-1. Scroll to the **Web Roles** subgrid.
-1. Select **Add Existing Web Role**.
-1. Locate and select **Anonymous users** and **Authenticated users**.
-1. Select **Add**.
+1. Select **+ New permission** and fill in the following information:
 
-#### Test the REST webpage
+    - **Name** - Account
+    - **Table** - Account (account)
+    - **Access type** - Global
+    - **Permission to** - Read
 
-Go to `https://yourportal.powerappsportals.com/getAccounts`.
-
-Your output should look like the following example:
-
-   > [!div class="mx-imgBorder"]
-   > [![Screenshot example of the REST webpage output.](../media/rest-data.png)](../media/rest-data.png#lightbox)
-
-#### Add code to retrieve the data
-
-To add code to retrieve the data, follow these steps:
-
-1. Open Power Apps portals Studio in a new browser tab and then follow these steps:
-    1. Go to [Power Apps maker portal](https://make.powerapps.com/?azure-portal=true).
-    1. Select the target environment by using the environment selector in the upper-right corner.
-    1. From the **Apps** list, select the application of type **Portal**.
-    1. Select the **Edit** menu.
-1. Select the **Pages** icon on the tool belt on the left side.
-1. Select an existing page from the hierarchy, for example **Product B** located under the **Services** page.
-    > [!NOTE]
-    > The names and hierarchy of pages on your portal might differ.
-1. Select the **Page Copy** area on the page.
-1. Select **Components** on the tool belt.
-1. Select **One-column section**.
-1. Select **Added section** and then select the **source code editor** icon.
-1. Insert the following code as the content of the innermost **div** element:
-
-    ```html
-    <script>
-    function makeChart(rData) {
-      console.log(rData);
-    }
-
-    $(document).ready(function() {
-      $.get('/getAccounts', makeChart, 'json');
-    });
-    </script>
-    ```
+1. Select **Add roles** and add Anonymous Users and Authenticated Users. 
 
 1. Select **Save**.
-1. Select **Browse website**.
+
+    ![Screenshot of the global read table permission on accounts.](../media/global-read-accounts.png)
+
+#### Test the Web API
+
+1. Open the following URL `https://yourportal.powerappsportals.com/_api/accounts?$select=name,numberofemployees,revenue`.
+
+1. Your output should look like the following:
+
+   ![Screenshot of the sample portal web api output.](../media/output.png)
+
+### Create a content page and retrieve data
+
+To create a content page and add JavaScript code that retrieves and transform the data, follow these steps:
+
+1. In portals Studio, select **Pages & navigation** icon then select **+ New page**.
+
+1. Select **Blank** layout.
+
+1. Enter **Chart** as **Page name** and **chart** as **Partial URL**.
+
+   ![Screenshot of the new blank chart page in portals Studio.](../media/new-page.png)
+
+1. Select footer area and then select **Source edit </>** icon.
+
+1. Append the following script:
+
+   ```html
+   <script type="text/javascript">
+     function makeChart(rawData) {
+       // transform raw data into plotting array
+       var rData = rawData.value.map(({
+         name,
+         revenue,
+         numberofemployees
+       }) => ({
+         "x": numberofemployees,
+         "y": revenue,
+         "z": (!revenue) ? 1 : numberofemployees / revenue,
+         "name": name
+       }));
+       console.log(rData);
+     }
+     // retrieve accounts data using portals Web API
+     $(document).ready(function() {
+       $.get('/_api/accounts?$select=name,numberofemployees,revenue', makeChart, 'json');
+     });
+   </script>
+   ```
+
+1. Press **Save**.
+
+   ![Screenshot of the Javascript to retrieve accounts data using portals web api.](../media/retrieve-data.png)
+
+1. Press **Browse website**.
+
 1. When the page is displayed, press the **F12** key to display browser developer tools.
-1. Verify that the console output contains the same data as previously retrieved by the REST API page.
 
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot of the console output with the same data as the previously retrieved REST API page.](../media/console-output.png)](../media/console-output.png#lightbox)
+1. Verify that the console output contains the same data as previously retrieved but now transformed.
 
-> [!IMPORTANT]
-> If you have not previously configured table permissions for the account table, your API call will return an empty array. Make sure that you have completed the **Add table permissions** task.
+   ![Screenshot of the console output with transformed data.](../media/data-transformed.png)
 
-#### Add external library functionality
+1. The data structure is now prepared for plotting by assigning appropriate labels to data points:
+
+    - **name** - Company name
+    - **x** - Number of employees
+    - **y** - Company revenue in thousands
+    - **z** - Revenue for each employee (calculated)
+
+### Add external library functionality
 
 This exercise uses Highcharts.js library (free for personal or non-profit use) to create a bubble chart based on the data.
 
 1. Switch to portals Studio.
-1. Locate and open the content page that you previously modified.
-1. Select the section that you previously modified.
+
+1. Select the footer and locate the code that you previously added.
+
 1. Insert the following code either above or below the previous code:
 
     ```html
       <script src="https://code.highcharts.com/highcharts.js"></script>
       <script src="https://code.highcharts.com/highcharts-more.js"></script>
-      <figure>
-        <div class="mychart"></div>
-      </figure>
     ```
 
 1. Modify the **makeChart** function as follows:
 
     ```javascript
-    function makeChart(rData) {
+    function makeChart(data) {
+      console.log(data);
+      var rData = data.value.map(({
+        name,
+        revenue,
+        numberofemployees
+      }) => ({
+        "x": numberofemployees,
+        "y": revenue,
+        "z": (!revenue) ? 1 : numberofemployees / revenue,
+        "name": name
+      }));
       console.log(rData);
+    
+      // new code to plot the data
       Highcharts.chart($('.mychart')[0], {
         title: {
           text: "Customers efficiency"
@@ -227,8 +211,77 @@ This exercise uses Highcharts.js library (free for personal or non-profit use) t
     }
     ```
 
+1. Your JavaScript should look like the following:
+
+    ```html
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    
+    <script type="text/javascript">
+      function makeChart(data) {
+        console.log(data);
+        var rData = data.value.map(({
+          name,
+          revenue,
+          numberofemployees
+        }) => ({
+          "x": numberofemployees,
+          "y": revenue,
+          "z": (!revenue) ? 1 : numberofemployees / revenue,
+          "name": name
+        }));
+        console.log(rData);
+        
+        Highcharts.chart($('.mychart')[0], {
+          title: {
+            text: "Customers efficiency"
+          },
+          legend: {
+            enabled: false
+          },
+          xAxis: {
+            title: {
+              text: "Number of employees"
+            }
+          },
+          yAxis: {
+            title: {
+              text: "Turnover ($K)"
+            }
+          },
+          tooltip: {
+            pointFormat: '<strong>{point.name}</strong><br/>Employed: {point.x}<br>Turnover ($K): ${point.y}',
+            headerFormat: ''
+          },
+          series: [{
+            type: 'bubble',
+            data: rData
+          }]
+        });
+      }
+      $(document).ready(function() {
+        $.get('/_api/accounts?$select=name,numberofemployees,revenue', makeChart, 'json');
+      });
+    </script>
+    ```
+
 1. Select **Save**.
+
+1. Select the content area of the page.
+
+1. Insert the following code into inner `<div>` element:
+    ```html
+      <figure>
+        <div class="mychart"></div>
+      </figure>
+    ```
+
+1. Press **Save**.
+
+   ![Screenshot of the content area of the page.](../media/page-content.png)
+
 1. Select **Browse website**.
+
 1. The output should now include the bubble chart. Hover over the bubbles to verify the data.
 
 > [!div class="mx-imgBorder"]

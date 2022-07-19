@@ -5,17 +5,17 @@ To view site settings:
 1. Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true).
 1. Select a target environment by using the environment selector in the upper-right corner.
 1. On the left menu, select **Apps**.
-1. Select **Portal Management** app.
+1. Select the **Portal Management** app.
 1. In the app, select **Site Settings** in the navigation panel.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of active site settings for portals.](../media/active-site-settings.png)](../media/active-site-settings.png#lightbox)
 
-Only a few of the many available authentication-related site settings are installed when you provision a starter portal. Settings that aren't created assume their documented default values.
+Only a few of the many available authentication-related site settings are installed when you provision a starter portal. Settings that aren't created have their documented default values.
 
 ## Example of a setting
 
-An example of the need to add a site setting is when you provision a custom portal and the form for registering a new local account requires an email address and a username.
+An example of the need to add a site setting is when you provision a custom portal, and the form for registering a new local account requires an email address and a username.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of register with username in customer portal.](../media/register-username.png)](../media/register-username.png#lightbox)

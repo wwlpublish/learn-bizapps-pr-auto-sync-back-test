@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.build-user-experience-portals.4-site-navigation 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-user-experience-portals.4-site-navigation
 title: Portal site structure and navigation
-metadata: 
+metadata:
   title: Portal site structure and navigation
   description: Learn about parent-child pages, site maps, and web links.
-  ms.date: 06/01/2021
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps 
+  ms.date: 07/12/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps
 durationInMinutes: 6
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/4-site-navigation.md)] 
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-site-navigation.md)]

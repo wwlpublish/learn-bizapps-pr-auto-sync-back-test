@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.integrate-common-data-service.3-web-form-processes 
-title: Web form processes
-metadata: 
-  title: Web form processes
-  description: Learn when to use web forms instead of entity forms.
-  ms.date: 06/01/2021
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-common-data-service.3-web-form-processes
+title: Advanced form processes
+metadata:
+  title: Advanced form processes
+  description: Learn when to use advanced forms instead of basic forms.
+  ms.date: 07/12/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps
 durationInMinutes: 4
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/3-web-form-processes.md)] 
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-web-form-processes.md)]

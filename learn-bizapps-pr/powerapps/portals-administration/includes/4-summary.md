@@ -3,8 +3,8 @@ To ensure that the portal runs efficiently, administrators need to understand ho
 By now, you should be able to:
 
 - Identify the various admin center actions and capabilities for configuring a Power Apps portal.
-- Configure key portal features such as custom domain names.
-- Manage SSL certificates and custom domain names.
+- Configure key portal features such as a custom domain name.
+- Manage SSL certificates.
 - Differentiate key features such as maintenance mode and IP address restrictions.
 
 

@@ -2,47 +2,61 @@
 
 In this unit, you'll create a model-driven app by using one of the standard tables available in your Microsoft Power Apps environment.
 
-1. On the **Home** page, select the **Model-driven app from blank**.  
-2. Click **Create**.
+1. On the **Home** page, select the **Blank app**.  
+2. Find **Blank app based on Dataverse** and then click **Create**.
 
     ![Screenshot of the Model-driven app from blank feature.](../media/updated-choose-design-mode.png)
 
 3. On the **Create a New App** page, enter a name and description for the app.
-4. Select **Done**. Your new app appears in the App Designer, and you can now add components to it.
+4. Select **Create**. Your new app appears in the App Designer, and you can now add components to it.
 
-## Add components to your app
-You add components to your app by using the App Designer.
+## Add a page to your app
+You add pages to your app within the App Designer.
 
-1. Select the **Open the Site Map Designer** pencil icon to open the site map designer.
+1. Click **Add Page**.
 
     ![Screenshot of the Site Map Designer view.](../media/updated-new-sitemap.png)
 
-2. In the site map designer, select **New Subarea**, and then, in the right pane on the **Properties** tab, select the following properties:
-
-    - **Type**: *Entity*
-    - **Table**: *Account*
+2. Select **Table based view and form**, and then select **Next**. Afterwards, select **Account** and then **Add**.
 
     > [!NOTE]
     > If *Account* is not an option as a table, you may not have any sample data in your environment. Refer to this exercise on [how to create sample apps and data](/learn/modules/intro-model-driven-apps-common-data-service/4-template-apps/?azure-portal=true).
 
-    ![Screenshot of the Properties tab with type and table set.](../media/updated-sitemap.png)
+    ![Screenshot of the Add table view screen with Account selected.](../media/updated-sitemap.png)
 
-3. Select **Save And Close**.
-4. In the App Designer, select **Forms**, and then, in the right pane under **Main Forms**, select the **Account** form.
+Here you can explore your **My Active Accounts** view and the **Account** form that is automatically created when your Dataverse instance is initialized.
 
-    ![Screenshot of the Main Forms with Account form selected.](../media/updated-main-form.png)
+## Edit your form
+You have successfully added a form to your app, now we will edit them.
+1. Navigate to [https://make.powerapps.com](https://make.powerapps.com).
+1. Select **Dataverse**, then **Tables**.
 
-5. In the App Designer, select **Views**, then select the following properties:
+1. Select the **Account** table.
 
-    - Active Accounts
-    - All Accounts
-    - My Active Accounts
+1. Under **Data experiences**, select **Forms**.
 
-6. In the App Designer, select **Charts**, then select the **Accounts by Industry** chart.
-7. On the App Designer toolbar, select **Save**.
+    ![Screenshot of the Model Driven home page with Forms outlined.](../media/edit-main-form.png)
+
+1. In this page you can adjust Form Settings, Add components, fields, business rules, event handlers, custom form libraries, edit table columns and more.
+
+## Edit views
+1. Navigate to [https://make.powerapps.com](https://make.powerapps.com).
+
+1. Select **Dataverse**, then **Tables**.
+
+1. Select the **Account** table.
+
+1. Under **Data experiences**, select **Views**.
+
+1. You will see a list of all the views that you can edit. The default view that is added when you added the **Account** page to your app is **My Active Accounts**.
+
+1. Select **My Active Accounts** to edit the view.
+
+1. On this page, you can edit which fields will show up on this view, what filters will be applied, default sort order, the order of your columns, and the width of your columns. 
+
 
 ## Publish your app
-On the App Designer toolbar, select **Publish**. After you publish the app, it's ready 
+On the App Designer toolbar, select **Publish** in the top right corner. After you publish the app, it's ready 
 for you to run or share with others.
 
 Above My Active Accounts, select **Show Chart**.

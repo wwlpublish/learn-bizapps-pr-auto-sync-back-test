@@ -9,7 +9,7 @@ metadata:
   ms.author: dbeasley 
   ms.topic: interactive-tutorial 
   ms.prod: learning-power-platform 
-durationInMinutes: 5 
+durationInMinutes: 8 
 content: | 
  [!include[](../includes/unit-banner.md)] 
  [!include[](includes/2-authentication.md)] 

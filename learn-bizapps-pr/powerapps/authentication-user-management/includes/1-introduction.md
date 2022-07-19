@@ -1,4 +1,4 @@
-Microsoft Power Apps portals extends model-driven Power Apps solutions to internal and external audiences such as communities, customers, partners, and employees. As part of this process, portal visitors can access portals as anonymous or authenticated users.
+Microsoft Power Apps portals extend model-driven Power Apps solutions to internal and external audiences such as communities, customers, partners, and employees. As part of this process, portal visitors can access portals as anonymous or authenticated users.
 
 For authenticated users, accessing and using the portal involves a two-part process:
 
@@ -9,7 +9,7 @@ The following sections discuss authentication in more detail.
 
 ## Track users as contacts
 
-Authenticated users are *always* tracked in Dataverse as contacts, regardless of the portal template that is used to provision the portal. The process is the same whether the user is external or an employee; neither it depends on the authentication method that is used.
+Authenticated users are *always* tracked in Dataverse as contacts, regardless of the portal template that is used to provision the portal. The process is the same whether the user is external or an employee; neither does it depend on the authentication method that is used.
 
 Portal users can authenticate with the following methods:
 
@@ -18,11 +18,11 @@ Portal users can authenticate with the following methods:
 
 Portal administrators can choose to enable or disable any combination of authentication options through the portal site settings.
 
-All interactions and actions that a portal user takes (for example, leaving comments on a page) are tied to their contact row in Dataverse.
+All interactions that a portal user takes (for example, leaving comments on a page) are tied to their contact row in Dataverse.
 
 ## Contact extensions
 
-To support authentication, Power Apps portals solution adds the **External Identity** table and extends the **Contact** table by adding several columns and portal- specific forms.
+To support authentication, Power Apps portals solution adds the **External Identity** table and extends the **Contact** table by adding several columns and portal-specific forms.
 
 These extensions allow administrators to:
 
@@ -31,7 +31,7 @@ These extensions allow administrators to:
 * Provide registration and profile management forms for the portal.
 * Support password-based local authentication.
 * Enforce password and lockout policies.
-* Manage user's identities when external providers are used.
+* Manage user identities when external providers are used.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of contact web authentication form.](../media/contact-web-authentication-form.png)](../media/contact-web-authentication-form.png#lightbox)
@@ -47,7 +47,7 @@ Portal users aren't defined when Power Apps portals is provisioned. You, the per
 
 - If it's the first time that Azure AD authentication is being used, you might be prompted to provide consent for the portals web app to access user information. You can consent on behalf of the organization so that individual users won't be prompted.
 
-- Locate and open the contact row that you created. The contact row will have the same email address as the signed in Azure AD user.
+- Locate and open the contact row that was created. The contact row will have the same email address as the signed-in Azure AD user.
 - Go to **Related > Web Roles**. Associate the **Administrators** web role with the contact.
 
 > [!div class="mx-imgBorder"]
