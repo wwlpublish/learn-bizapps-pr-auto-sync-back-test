@@ -1,23 +1,19 @@
-Adjusting any area of your deployment strategy could seem overwhelming. This unit discusses three essential change management concepts you should consider as you look to improve your continuous deployment process.
+Adjusting any area of your deployment strategy could seem overwhelming. This unit discusses three essential change management concepts that you should consider as you look to improve your continuous deployment process.
 
 ## Break down silos and build empathy
 
-Why is it so hard to overcome organizational inertia?
+Overcoming organizational inertia can be difficult because:
 
-- When we work with teams that are resistant to change, it often takes time to build trust between teams and departments. People also need evidence that the changes will be beneficial. The people who are pushing the change also need to make it easy for those adopting the change to do the right thing.
+- When you work with teams that are resistant to change, building trust between teams and departments often takes time. People also need evidence that the changes will be beneficial. People who are pushing for the change also need to make it easier for those who are adopting the change so that they make the best choices.
 
 - People who work in change management tend to be rational and detail oriented.
 
-- They tend to respond well to bound experiments in low-risk environments.
+- People who work in change management tend to respond well to bound experiments in low-risk environments.
 
 ## Create feedback loops
-
-- Feedback loops should cover not only sentiment from IT teams, but also include the introduction of new capabilities.
-
-- If there's a separate change management team, involve them in the process early to collaborate and help shape designs.
+Feedback loops should cover sentiment from IT teams and include the introduction of new capabilities. If a separate change management team is in place, involve them in the process early to collaborate and help shape designs.
 
 ## Measure the impact of your new approach
+To measure the impact of your new approach, make your success visible.
 
-- Make your success visible
-
-For more information about DevOps change management, see: [State of DevOps Report 2020](https://puppet.com/blog/2020-state-of-devops-report-is-here/?azure-portal=true)
+For more information about DevOps change management, see [State of DevOps Report 2020](https://puppet.com/blog/2020-state-of-devops-report-is-here/?azure-portal=true).
