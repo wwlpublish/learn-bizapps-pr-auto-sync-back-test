@@ -22,7 +22,7 @@ You'll be creating custom tables and columns to build a canvas app along with so
         - List of the technologies they should use.
 -->
 ## Project specification
-All you need is access to Microsoft Power Platform to complete this challenge project. 
+All you need is access to Microsoft Power Platform to complete this challenge project. You will be using Microsoft Dataverse, Power Apps, and Power Automate to complete this work.
 
 <!-- 3. Setup -------------------------------------------------------------------------------------
 
