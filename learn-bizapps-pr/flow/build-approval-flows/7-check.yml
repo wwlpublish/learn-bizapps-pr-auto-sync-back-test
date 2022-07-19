@@ -30,9 +30,9 @@ quiz:
       explanation: Templates are pre-built flows for common business scenarios you can quickly and easily use to solve business problems.
       isCorrect: false 
     - content: As working flows, which you can select and start using for business use.
-      explanation: You can use an existing flow template for your business use as is o make modifications to it. 
+      explanation: You can use an existing flow template for your business as is or make modifications to it. 
       isCorrect: true 
-    - content: As partially work flows templates, which need several design changes.
+    - content: As partially working flow templates, which need several design changes.
       explanation: Templates are pre-built flows for common business scenarios you can quickly and easily use to solve business problems.
       isCorrect: false 
     - content: A template with actions only. You need to add conditions.
