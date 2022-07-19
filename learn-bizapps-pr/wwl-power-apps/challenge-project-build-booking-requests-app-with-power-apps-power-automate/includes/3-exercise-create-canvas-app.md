@@ -6,7 +6,7 @@
 
     Example: "The chocolate-manufacturer needs a separate storage account for their private information. Here, you will create an account with settings appropriate to hold this mission-critical business data. You'll validate the account settings against requirements to check your work."
 -->
-TODO: describe the end-state functionality after the exercise is completed
+Pet Paradise needs an app that allows customers to submit booking requests. Here, you will create the table and columns needed to store the booking request information and build a canvas app for customers to use. You'll validate your app against requirements to check your work. 
 
 <!-- 2. Specification-------------------------------------------------------------------------------------
 
