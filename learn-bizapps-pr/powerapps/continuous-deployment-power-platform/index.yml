@@ -1,0 +1,37 @@
+### YamlMime:Module
+uid: learn-bizapps.continuous-deployment-power-platform
+metadata:
+ title: Introduction to continuous deployment for Power Platform
+ description: Learn about the benefits of continuous deployment.
+ ms.date: 05/06/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-platform
+title: Introduction to continuous deployment for Power Platform
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Continuously delivering value has become a mandatory requirement for organizations. To deliver value to your end users, you must release continually and without errors. This module will introduce the benefits of continuous deployment and share an example workflow.
+abstract: |
+    In this module, you will:
+    - Define continuous deployment
+    - List the benefits of continuous deployment
+prerequisites: Experience working on Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer
+iconUrl: /learn/achievements/continuous-deployment-power-platform.svg
+levels:
+- beginner
+roles:
+- developer
+- functional-consultant
+products:
+- power-apps
+- power-platform
+units:
+- learn-bizapps.continuous-deployment-power-platform.introduction
+- learn-bizapps.continuous-deployment-power-platform.benefits-continuous-deployment
+- learn-bizapps.continuous-deployment-power-platform.continuous-deployment-workflow
+- learn-bizapps.continuous-deployment-power-platform.change-management-considerations
+- learn-bizapps.continuous-deployment-power-platform.check
+- learn-bizapps.continuous-deployment-power-platform.summary
+badge:
+  uid: learn-bizapps.continuous-deployment-power-platform.badge
