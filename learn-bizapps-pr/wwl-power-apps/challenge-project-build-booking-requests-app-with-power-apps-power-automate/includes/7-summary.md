@@ -38,7 +38,7 @@ You applied your app maker skills to create a low-code, robust solution that mee
     Example: "Fire extinguishers are critical safety equipment for both homes and businesses. Despite their importance, many customers don't read the instructions ahead of time. Confusing instructions could mean customers don't use the extinguisher correctly when they're needed. This can result in loss of property or life."
 
  -->
-TODO: describe the experience without the product
+Bookings previously could only be requested over the phone, causing the Pet Paradise phone line to always be busy. Despite their importance, many customers could not get through to the office to request their services. Long wait times could mean customers get frustrated and hang up. This can result in loss of business for Pet Paradise. 
 
 <!-- 4. Describe the business impact ----------------------------------------------------
 
