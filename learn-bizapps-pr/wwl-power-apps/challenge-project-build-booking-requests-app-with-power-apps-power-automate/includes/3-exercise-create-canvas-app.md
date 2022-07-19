@@ -47,6 +47,7 @@ Create a Power Apps canvas app called Pet Paradise Booking Requests that meets t
               2. Select Refresh once a minute until you see a row in the Runs history table.
               ...
               6. Examine the data in the OUTPUTS section. For example, locate the text of the matching tweet."
+Optional "exercise-solution" video
 -->
 
 ## Check your work
@@ -54,8 +55,6 @@ Create a Power Apps canvas app called Pet Paradise Booking Requests that meets t
 1. Run your app. Create a new booking request with the Start Date, Pet Name, Owner Name, and Email populated, leaving the End Date blank. Submit the request to verify that the user cannot submit a request without the End Date populated.
 2. Run your app. Create a new booking with the Start Date, End Date, Pet Name, Owner Name, and Email populated. Submit the request to verify that the user can submit a request when all the required information is provided.
 3. View the Booking Request that you created. Verify that the Decision column is set to Undecided. Update the column to Accepted.
-
-Optional "exercise-solution" video
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
