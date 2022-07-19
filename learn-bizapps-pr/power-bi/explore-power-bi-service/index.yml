@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.intro-to-power-bi-service 
 metadata: 
   title: Explore what Power BI can do for you
@@ -36,7 +36,9 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-visualization
+units:
 - learn-bizapps.intro-to-power-bi-service.1-why-power-bi 
 - learn-bizapps.intro-to-power-bi-service.2-find-content 
 - learn-bizapps.intro-to-power-bi-service.3-navigate-content 
@@ -45,5 +47,4 @@ units:
 - learn-bizapps.intro-to-power-bi-service.6-knowledge-check 
 - learn-bizapps.intro-to-power-bi-service.7-summary 
 badge: 
-  uid: learn-bizapps.intro-to-power-bi-service.badge 
-
+  uid: learn-bizapps.intro-to-power-bi-service.badge

@@ -5,7 +5,7 @@ Select **Test** in the upper-right corner of the screen and then select **Manual
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Manually option selected for Test Flow.](../media/test-manually.png)](../media/test-manually.png#lightbox)
 
-Open the Power Automate Desktop application and send yourself an email with an attachment and the subject line "New invoice." The flow will appear with indications on each step to show you where your flow is in the process. Avoid interacting with your mouse or keyboard while the flow is running because it might interrupt the process. When the testing is complete, the following screen will appear to indicate that your flow ran successfully.
+Open the Power Automate for desktop application and send yourself an email with an attachment and the subject line "New invoice." The flow will appear with indications on each step to show you where your flow is in the process. Avoid interacting with your mouse or keyboard while the flow is running because it might interrupt the process. When the testing is complete, the following screen will appear to indicate that your flow ran successfully.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the successful flow message.](../media/success.png)](../media/success.png#lightbox)

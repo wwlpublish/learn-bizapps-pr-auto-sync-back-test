@@ -28,7 +28,9 @@ products:
 - power-automate 
 - power-platform
 - power-apps
-units: 
+subjects:
+- information-protection-governance
+units:
 - learn-bizapps.templates-governance-policies.1-introduction 
 - learn-bizapps.templates-governance-policies.2-prerequisites 
 - learn-bizapps.templates-governance-policies.3-templates 
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.templates-governance-policies.5-check 
 - learn-bizapps.templates-governance-policies.6-summary 
 badge: 
-  uid: learn-bizapps.templates-governance-policies.badge 
+  uid: learn-bizapps.templates-governance-policies.badge

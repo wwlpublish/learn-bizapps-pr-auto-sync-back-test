@@ -10,7 +10,7 @@ Solution architects should consider using the **Process advisor** tool when they
 
 ## Record processes
 
-**Process advisor** uses Power Automate Desktop to record business tasks, and users record the tasks that they perform.
+**Process advisor** uses Power Automate for desktop to record business tasks, and users record the tasks that they perform.
 
 You can view the actions and must group actions into activities.
 

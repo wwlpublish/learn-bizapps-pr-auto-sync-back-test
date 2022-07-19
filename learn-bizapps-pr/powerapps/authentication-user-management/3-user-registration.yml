@@ -4,12 +4,12 @@ title: User registration in Power Apps portals
 metadata: 
   title: User registration in Power Apps portals
   description: Learn how to register users through invitation-based and open registration.
-  ms.date: 07/14/2020 
+  ms.date: 06/27/2022 
   author: DaveBeasley 
   ms.author: dbeasley 
   ms.topic: interactive-tutorial 
   ms.prod: learning-power-apps 
-durationInMinutes: 5 
+durationInMinutes: 7 
 content: | 
  [!include[](../includes/unit-banner.md)] 
  [!include[](includes/3-user-registration.md)] 

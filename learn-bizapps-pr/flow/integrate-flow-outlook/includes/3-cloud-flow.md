@@ -13,12 +13,12 @@ After you have selected create, the **Solutions** screen will populate with your
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Invoice processing solution name selected.](../media/open-solution.png)](../media/open-solution.png#lightbox)
 
-This screen is where you will create and edit flows that are specific to this solution. To create a new solution-aware flow, select **New** and then **Cloud flow**.
+This screen is where you will create and edit flows that are specific to this solution. To create a new solution-aware flow, select **Cloud flows**, **Automation**, **Cloud flow** then **Automated**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of Cloud flow selected in the new menu.](../media/cloud-flow.png)](../media/cloud-flow.png#lightbox)
 
-Rename your flow. The following flow has been named **Use Outlook email to trigger a Desktop flow**, but you can choose whatever name you want. Search the actions to find **When a new email arrives (V3)**.
+Name your flow. The following flow has been named **Use Outlook email to trigger a Desktop flow**, but you can choose whatever name you want. Search the actions to find **When a new email arrives (V3)**. Click on **Create**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the flow named and the action of When a new email arrives (V3) selected.](../media/new-email.png)](../media/new-email.png#lightbox)
@@ -33,10 +33,10 @@ You might need to wait a moment for Outlook to sign in. When you see the **Folde
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the attachment options fields.](../media/attachment-options.png)](../media/attachment-options.png#lightbox)
 
-Select **New step** and then search for and select the **Run a flow built with Power Automate Desktop** action.
+Select **New step** and then search for and select the **Run a flow built with Power Automate for desktop** action.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of Run a flow built with Power Automate Desktop option.](../media/run-desktop-flow.png)](../media/run-desktop-flow.png#lightbox)
+> [![Screenshot of Run a flow built with Power Automate for desktop option.](../media/run-desktop-flow.png)](../media/run-desktop-flow.png#lightbox)
 
 If you haven't already configured your gateway connection, use the **Gateway name** drop-down menu to select the appropriate gateway.
 

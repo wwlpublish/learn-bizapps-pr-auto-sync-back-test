@@ -4,12 +4,12 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 07/14/2020 
+ ms.date: 06/27/2022 
  author: DaveBeasley 
  ms.author: dbeasley 
  ms.topic: interactive-tutorial 
  ms.prod: learning-power-apps 
-durationInMinutes: 5 
+durationInMinutes: 8 
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
@@ -17,17 +17,17 @@ quiz:
     choices: 
     - content: Reset the portal
       isCorrect: false 
-      explanation: Selecting the Disable custom errors action will show detailed information directly on the portal page where the error has occurred. Resetting the portal will not resolve the issue or provide information. The diagnostics logs must be downloaded from Azure Blog storage, and the plug-in trace log is only viewable with the model-driven app settings.
+      explanation: Selecting the Disable custom errors action will show detailed information directly on the portal page where the error has occurred. Resetting the portal won't resolve the issue or provide information. The diagnostics logs must be downloaded from Azure Blog storage, and the plug-in trace log is only viewable with the model-driven app settings.
     - content: Enable Portal Diagnostics logging
       isCorrect: false 
-      explanation: Selecting the Disable custom errors action will show detailed information directly on the portal page where the error has occurred. Resetting the portal will not resolve the issue or provide information. The diagnostics logs must be downloaded from Azure Blog storage, and the plug-in trace log is only viewable with the model-driven app settings.
+      explanation: Selecting the Disable custom errors action will show detailed information directly on the portal page where the error has occurred. Resetting the portal won't resolve the issue or provide information. The diagnostics logs must be downloaded from Azure Blog storage, and the plug-in trace log is only viewable with the model-driven app settings.
     - content: Use the Disable custom errors action
       isCorrect: true 
-      explanation: Selecting the Disable custom errors action will show detailed information directly on the portal page where the error has occurred. Resetting the portal will not resolve the issue or provide information. The diagnostics logs must be downloaded from Azure Blog storage, and the plug-in trace log is only viewable with the model-driven app settings.
+      explanation: Selecting the Disable custom errors action will show detailed information directly on the portal page where the error has occurred. Resetting the portal won't resolve the issue or provide information. The diagnostics logs must be downloaded from Azure Blog storage, and the plug-in trace log is only viewable with the model-driven app settings.
     - content: Review the Microsoft Dataverse plug-in trace log
       isCorrect: false 
-      explanation: Selecting the Disable custom errors action will show detailed information directly on the portal page where the error has occurred. Resetting the portal will not resolve the issue or provide information. The diagnostics logs must be downloaded from Azure Blog storage, and the plug-in trace log is only viewable with the model-driven app settings.
-  - content: You want to deploy updates to your Dataverse application that will affect portal functionality. You decide to put the portal in maintenance mode, but your manager wants portal visitors to know how long the site will be unavailable. What can you do?
+      explanation: Selecting the Disable custom errors action will show detailed information directly on the portal page where the error has occurred. Resetting the portal won't resolve the issue or provide information. The diagnostics logs must be downloaded from Azure Blog storage, and the plug-in trace log is only viewable with the model-driven app settings.
+  - content: You want to deploy updates to your Dataverse application that will affect portal functionality. You decide to put the portal in maintenance mode, but your manager wants portal visitors to see how long the site will be unavailable. What can you do?
     choices: 
     - content: Use IP address restrictions
       isCorrect: false 
@@ -41,31 +41,31 @@ quiz:
     - content: Deploy the updates after business hours
       isCorrect: false 
       explanation: Portal Maintenance mode allows redirection to a custom page. Using IP address restrictions will make it appear that the portal is inaccessible. The default maintenance mode page doesn't provide detailed information. Portal visitors will use the portal after business hours.
-  - content: Portal visitors are reporting an issue when they are creating support cases on a Customer self-service portal. Where should you investigate first?
+  - content: Portal visitors are reporting an issue when they're creating support cases on a Customer self-service portal. Where should you investigate first?
     choices: 
     - content: Verify that diagnostic logging has been enabled
       isCorrect: false 
-      explanation: If the issue is happening in the Dynamics 365 Customer Service app, it is likely not a portal issue.  Enabling the various other options could help, but those options should not be the first ones to check.
+      explanation: If the issue is happening in the Dynamics 365 Customer Service app, it's likely not a portal issue.  Enabling the various other options could help, but those options shouldn't be the first ones to check.
     - content: Turn on the Disable custom errors action setting
       isCorrect: false 
-      explanation: If the issue is happening in the Dynamics 365 Customer Service app, it is likely not a portal issue.  Enabling the various other options could help, but those options should not be the first ones to check.
+      explanation: If the issue is happening in the Dynamics 365 Customer Service app, it's likely not a portal issue.  Enabling the various other options could help, but those options shouldn't be the first ones to check.
     - content: Set the Site/EnableCustomPluginError site setting and then set the value to True
       isCorrect: false 
-      explanation: If the issue is happening in the Dynamics 365 Customer Service app, it is likely not a portal issue.  Enabling the various other options could help, but those options should not be the first ones to check.
+      explanation: If the issue is happening in the Dynamics 365 Customer Service app, it's likely not a portal issue.  Enabling the various other options could help, but those options shouldn't be the first ones to check.
     - content: Determine if the issue occurs when you create a case in the Dynamics 365 Customer Service app
       isCorrect: true 
-      explanation: If the issue is happening in the Dynamics 365 Customer Service app, it is likely not a portal issue.  Enabling the various other options could help, but those options should not be the first ones to check.
-  - content: What part of the Power Apps portals system is not automatically updated?
+      explanation: If the issue is happening in the Dynamics 365 Customer Service app, it's likely not a portal issue.  Enabling the various other options could help, but those options shouldn't be the first ones to check.
+  - content: What part of the Power Apps portals system isn't automatically updated?
     choices: 
     - content: The portals admin and maker tools
       isCorrect: false 
-      explanation: Most of the portal assets are updated automatically except for the portal solutions that need to be updated in the Dynamics 365 admin center.
-    - content: The Azure portal host app
+      explanation: Most of the portal assets are updated automatically except for the portal solutions that need to be updated in the Power Apps Portals admin center.
+    - content: The Azure portal web app
       isCorrect: false 
-      explanation: Most of the portal assets are updated automatically except for the portal solutions that need to be updated in the Dynamics 365 admin center.
+      explanation: Most of the portal assets are updated automatically except for the portal solutions that need to be updated in the Power Apps Portals center.
     - content: Dataverse
       isCorrect: false 
-      explanation: Most of the portal assets are updated automatically except for the portal solutions that need to be updated in the Dynamics 365 admin center.
-    - content: The portals solutions in the Dynamics 365 admin center
+      explanation: Most of the portal assets are updated automatically except for the portal solutions that need to be updated in the Power Apps Portals center.
+    - content: The portals solutions in the environment
       isCorrect: true 
-      explanation: Most of the portal assets are updated automatically except for the portal solutions that need to be updated in the Dynamics 365 admin center.
+      explanation: Most of the portal assets are updated automatically except for the portal solutions that need to be updated in the Power Apps Portals center.

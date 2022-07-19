@@ -27,7 +27,10 @@ products:
 - power-apps 
 - common-data-service
 - office-excel
-units: 
+subjects:
+- data-modeling
+- custom-app-development
+units:
 - learn-bizapps.customize-view-forms.1-introduction 
 - learn-bizapps.customize-view-forms.2-exercise-modify-table-views 
 - learn-bizapps.customize-view-forms.3-modify-table-forms 
@@ -35,4 +38,4 @@ units:
 - learn-bizapps.customize-view-forms.5-check 
 - learn-bizapps.customize-view-forms.6-summary 
 badge: 
-  uid: learn-bizapps.custom-view-forms.badge 
+  uid: learn-bizapps.custom-view-forms.badge

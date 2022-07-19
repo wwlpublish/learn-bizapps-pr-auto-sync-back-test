@@ -202,7 +202,7 @@ This section checks whether the user has selected Medication Refill or Live Agen
 1. Refer to the lab resources file **AdaptiveCardForMedicationRefill.txt** and copy the JSON content and paste it in the JSON section of your card.
 
     > [!NOTE]
-    > Visit the [Adaptive Card visualizer](https://adaptivecards.io/visualizer/?azure-portal=true) to test your own authored card.
+    > Visit the [Adaptive Card visualizer](https://adaptivecards.io) to test your own authored card.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Adaptive Card populated with Adaptive Card for Medication refill text.](../media/99-adaptive-card.png)](../media/99-adaptive-card.png#lightbox)

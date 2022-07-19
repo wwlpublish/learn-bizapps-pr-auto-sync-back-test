@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.analyze-explore-data-power-bi 
 metadata: 
   title: Analyze data with Power BI
@@ -29,7 +29,9 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.analyze-explore-data-power-bi.1-filtering-data 
 - learn-bizapps.analyze-explore-data-power-bi.2-exploring-with-numbers 
 - learn-bizapps.analyze-explore-data-power-bi.3-asking-questions-data 
@@ -37,5 +39,4 @@ units:
 - learn-bizapps.analyze-explore-data-power-bi.5-knowledge-check 
 - learn-bizapps.analyze-explore-data-power-bi.6-summary 
 badge: 
-  uid: learn-bizapps.analyze-explore-data-power-bi.badge 
-
+  uid: learn-bizapps.analyze-explore-data-power-bi.badge

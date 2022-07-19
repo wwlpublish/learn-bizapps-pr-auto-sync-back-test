@@ -16,11 +16,10 @@ The user interface components determine how users will interact with the app.
 | Component | Description | Designer |
 |-----------|-------------|----------|
 | App       | Apps determine the app fundamentals, like components, properties, the client type, and the URL. | App designer |
-| Site map  | A site map specifies the navigation for your app. | Site map designer |
 | Form      | Forms include a set of data entry columns for a given table. This set of data entry columns matches the items that your organization tracks for the table. One example is a set of data entry columns where users enter relevant information to track a customer's previous orders together with specific requested reorder dates. | Form designer |
 | View      | Views define how a list of records for a specific table appears in your app. A view defines the columns shown, the width of each column, the sort behavior, and the default filters. | View designer |
 
-![Screenshot of the App designer with components and properties.](../media/updated-app-and-form-designers.png)
+![Screenshot showing the details of the Form designer.](../media/updated-app-and-form-designers.png)
 
 ## Logic
 The logic components determine what business processes, rules, and automation the app will have. Microsoft Power Apps makers use a designer that's specific to the type of process or rule.

@@ -4,7 +4,7 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 07/10/2020 
+ ms.date: 06/30/2022 
  author: DaveBeasley 
  ms.author: dbeasley 
  ms.topic: interactive-tutorial 
@@ -13,7 +13,7 @@ durationInMinutes: 4
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: Which one of the following options is not a valid table list view?
+  - content: Which one of the following options isn't a valid table list view?
     choices: 
     - content: Map view
       isCorrect: false 
@@ -27,15 +27,15 @@ quiz:
     - content: Grid list view
       isCorrect: false 
       explanation: Views can be rendered as traditional grid lists, a calendar, or a map. Delivering list content as an OData feed is also supported.
-  - content: You have created a Contact Us table form and want to redirect users to a Thank You page after successful submission. How can you achieve this task?
+  - content: You've created a Contact Us basic form and want to redirect users to a Thank You page after successful submission. How can you achieve this task?
     choices: 
-    - content: Change the table form title to "Contact Us - Thank You."
+    - content: Change the basic form title to "Contact Us - Thank You."
       isCorrect: false 
       explanation: The On Success Settings feature defines behavior on successful submission of the form. Options are to display a message or redirect to another page or URL.
-    - content: Set the Table Form column on the Thank You page to the Contact Us table form.
+    - content: Set the Basic Form column on the Thank You page to the Contact Us basic form.
       isCorrect: false 
       explanation: The On Success Settings feature defines behavior on successful submission of the form. Options are to display a message or redirect to another page or URL.
-    - content: Add a redirect step to the table form.
+    - content: Add a redirect step to the basic form.
       isCorrect: false 
       explanation: The On Success Settings feature defines behavior on successful submission of the form. Options are to display a message or redirect to another page or URL.
     - content: Configure On Success Settings to redirect to the Thank You page.
@@ -45,27 +45,27 @@ quiz:
     choices: 
     - content: From the Properties pane of a webpage
       isCorrect: false 
-      explanation: The Properties pane will configure the properties of a component but not add them. You could add Liquid tags to a page template, but that would be for all pages using that template. You can add forms and lists through the Add components feature from the tool belt in portals Studio. Forms and lists can be added in the Portal Management app, but it is not the only way.
+      explanation: The Properties pane will configure the properties of a component but not add them. You could add Liquid tags to a page template, but that would be for all pages using that template. You can add forms and lists through the Add components feature from the toolbelt in portals Studio. Forms and lists can be added in the Portal Management app, but it isn't the only way.
     - content: Edit the page template source code
       isCorrect: false 
-      explanation: The Properties pane will configure the properties of a component but not add them. You could add Liquid tags to a page template, but that would be for all pages using that template. You can add forms and lists through the Add components feature from the tool belt in portals Studio. Forms and lists can be added in the Portal Management app, but it is not the only way.
-    - content: From the tool belt components section
+      explanation: The Properties pane will configure the properties of a component but not add them. You could add Liquid tags to a page template, but that would be for all pages using that template. You can add forms and lists through the Add components feature from the toolbelt in portals Studio. Forms and lists can be added in the Portal Management app, but it isn't the only way.
+    - content: From the toolbelt components section
       isCorrect: true 
-      explanation: The Properties pane will configure the properties of a component but not add them. You could add Liquid tags to a page template, but that would be for all pages using that template. You can add forms and lists through the Add components feature from the tool belt in portals Studio. Forms and lists can be added in the Portal Management app, but it is not the only way.
+      explanation: The Properties pane will configure the properties of a component but not add them. You could add Liquid tags to a page template, but that would be for all pages using that template. You can add forms and lists through the Add components feature from the toolbelt in portals Studio. Forms and lists can be added in the Portal Management app, but it isn't the only way.
     - content: You can only add forms and lists by using the Portal Management app
       isCorrect: false 
-      explanation: The Properties pane will configure the properties of a component but not add them. You could add Liquid tags to a page template, but that would be for all pages using that template. You can add forms and lists through the Add components feature from the tool belt in portals Studio. Forms and lists can be added in the Portal Management app, but it is not the only way.
+      explanation: The Properties pane will configure the properties of a component but not add them. You could add Liquid tags to a page template, but that would be for all pages using that template. You can add forms and lists through the Add components feature from the toolbelt in portals Studio. Forms and lists can be added in the Portal Management app, but it isn't the only way.
   - content: You want portal visitors to be able to locate specific records in a list view based on an option value in the Microsoft Dataverse record. What is the best way to accomplish this task?
     choices: 
     - content: Enable the search property on the list component in portals Studio.
       isCorrect: false 
-      explanation: Enabling the search property will only provide the quick find search box. Adding the Option Set column to the view is not the best way to find the data. The metadata searching option is the best solution for allowing users to filter on specific option set values. Increasing the number of records for each page will not help users locate data.
-    - content: Add the Option Set column to the model-driven view to allow portal visitors to sort by the value.
+      explanation: Enabling the search property will only provide the quick find search box. Adding the Choice column to the view isn't the best way to find the data. The metadata searching option is the best solution for allowing users to filter on specific option set values. Increasing the number of records for each page won't help users locate data.
+    - content: Add the Choice column to the model-driven view to allow portal visitors to sort by the value.
       isCorrect: false 
-      explanation: Enabling the search property will only provide the quick find search box. Adding the Option Set column to the view is not the best way to find the data. The metadata searching option is the best solution for allowing users to filter on specific option set values. Increasing the number of records for each page will not help users locate data.
-    - content: In the Portal Management app, enable Metadata searching and configure a filter for the Option Set column.
+      explanation: Enabling the search property will only provide the quick find search box. Adding the Choice column to the view isn't the best way to find the data. The metadata searching option is the best solution for allowing users to filter on specific option set values. Increasing the number of records for each page won't help users locate data.
+    - content: In the Portal Management app, enable Metadata searching and configure a filter for the Choice column.
       isCorrect: true 
-      explanation: Enabling the search property will only provide the quick find search box. Adding the Option Set column to the view is not the best way to find the data. The metadata searching option is the best solution for allowing users to filter on specific option set values. Increasing the number of records for each page will not help users locate data.
+      explanation: Enabling the search property will only provide the quick find search box. Adding the Choice column to the view isn't the best way to find the data. The metadata searching option is the best solution for allowing users to filter on specific option set values. Increasing the number of records for each page won't help users locate data.
     - content: In portals Studio, increase the number of records for each page.
       isCorrect: false 
-      explanation: Enabling the search property will only provide the quick find search box. Adding the Option Set column to the view is not the best way to find the data. The metadata searching option is the best solution for allowing users to filter on specific option set values. Increasing the number of records for each page will not help users locate data.
+      explanation: Enabling the search property will only provide the quick find search box. Adding the Choice column to the view isn't the best way to find the data. The metadata searching option is the best solution for allowing users to filter on specific option set values. Increasing the number of records for each page won't help users locate data.

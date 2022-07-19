@@ -27,6 +27,8 @@ roles:
 products:
 - mscloud-financial
 - industry-solutions
+subjects:
+- modern-work
 units:
 - learn-bizapps.financial-services-customer-intelligence.1-introduction
 - learn-bizapps.financial-services-customer-intelligence.2-set-up-deploy

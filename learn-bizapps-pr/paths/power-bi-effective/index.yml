@@ -24,6 +24,8 @@ roles:
 - business-analyst
 products:
 - power-bi 
+subjects:
+- data-visualization
 modules:
 - learn-bizapps.power-bi-effective-requirements
 - learn-bizapps.power-bi-effective-structure

@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.flow-administration 
 metadata: 
   title: Use the Admin center to manage environments and data policies in Power Automate
@@ -30,7 +30,9 @@ roles:
 products:  
 - power-platform
 - power-automate
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.flow-administration.1-introduction
 - learn-bizapps.flow-administration.2-flow-export-import
 - learn-bizapps.flow-administration.3-share-flows
@@ -38,4 +40,3 @@ units:
 - learn-bizapps.flow-administration.5-summary
 badge:
   uid: learn.flow-administration.badge
-

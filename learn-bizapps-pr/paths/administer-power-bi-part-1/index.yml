@@ -20,6 +20,9 @@ roles:
 - administrator
 products:
 - power-bi 
+subjects:
+- collaboration
+- information-protection-governance
 modules:
 - learn-bizapps.power-bi-admin-intro
 - learn-bizapps.power-bi-admin-environment 

@@ -1,10 +1,10 @@
 The purpose of this hands-on lab is to introduce the concept of building and extending Liquid templates.
 
-The exercises work best when you have sample data to work with. Depending on the environment that you are working with, you might want to install some sample data to assist with the exercises. Microsoft Dataverse does provide the ability to add sample data as needed. If the environment that you are working in does not have sample data installed, follow the steps in the [Add or remove sample data](/power-platform/admin/add-remove-sample-data/?azure-portal=true) documentation to install the sample data into your environment.
+The exercises work best when you have sample data to work with. Depending on the environment that you're working with, you might want to install some sample data to assist with the exercises. Microsoft Dataverse does provide the ability to add sample data as needed. If the environment that you're working in doesn't have sample data installed, follow the steps in the [Add or remove sample data](/power-platform/admin/add-remove-sample-data/?azure-portal=true) documentation to install the sample data into your environment.
 
 ## Learning objectives
 
-At the end of these exercises, you will be able to:
+At the end of these exercises, you'll be able to:
 
 - Extend Liquid templates by using `extends` and `block` tags.
 - Reuse Liquid templates by using the `include` tag.
@@ -12,9 +12,9 @@ At the end of these exercises, you will be able to:
 
 ### Prerequisites
 
-For this exercise, you will need to have the following parameters set up in your environment:
+For this exercise, you'll need to have the following parameters set up in your environment:
 
-- A Power Apps portal that is provisioned. If you do not have a Power Apps portal available, follow the [Create Portal](/power-apps/maker/portals/create-portal/?azure-portal=true) instructions to create one.
+- A Power Apps portal that is provisioned. If you don't have a Power Apps portal available, follow the [Create Portal](/power-apps/maker/portals/create-portal/?azure-portal=true) instructions to create one.
 - Access to the Power Apps maker portal.
 
 ## High-level steps
@@ -29,17 +29,25 @@ To finish the exercise, you need to complete the following high-level tasks:
 
 ## Detailed steps
 
-To complete the exercise, you will build a new page template that includes a side panel that lists all accounts in Dataverse.  
+To complete the exercise, you'll build a new page template that includes a side panel that lists all accounts in Dataverse.  
 
 ### Create a partial template
 
-Your first task is to create a partial template that will not be used to render a page but will instead be inserted into another template.
+Your first task is to create a partial template that won't be used to render a page but will instead be inserted into another template.
 
-1. Open [https://make.powerapps.com](https://make.powerapps.com/?azure-portal=true).
-2. Select the Portals Management app.
-3. Select **Page Templates**.
-4. Select **New**.
-5. Enter the following values:
+1. Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true).
+
+1. Select a target environment by using the environment selector in the upper-right corner.
+
+1. On the left menu, select **Apps**.
+
+1. Select the Portals Management app.
+
+1. Select **Web Templates**.
+
+1. Select **New**.
+
+1. Enter the following values:
    - **Name** - Directory 
    - **Website** - Select your current website
    - **Source** - Enter the following content:
@@ -64,15 +72,18 @@ Your first task is to create a partial template that will not be used to render 
     {% endif %}
     ```
 
-6. Select **Save & Close**.
+1. Select **Save & Close**.
 
 ### Extend an existing template
 
-Next, you will create a new template that extends an existing Liquid template and then insert the template that you previously created.
+Next, you'll create a new template that extends an existing Liquid template and then insert the template that you previously created.
 
 1. Select **Web Templates**.
-2. Select **New**.
-3. Enter the following values:
+
+1. Select **New**.
+
+1. Enter the following values:
+
    - **Name** - Directory Template
    - **Website** - Select your current website
    - **Source** - Enter the following content:
@@ -86,67 +97,85 @@ Next, you will create a new template that extends an existing Liquid template an
     {% endblock %}
     ```
 
-6. Select **Save & Close**.
+1. Select **Save & Close**.
 
 ### Create a page template and associate with that page
 
-In this exercise, you will create a page template that will use your new web template and will include the Directory output.
+In this exercise, you'll create a page template that will use your new web template and will include the Directory output.
 
 1. Select **Page Templates**.
-2. Select **New**.
-3. Enter the following values:
+
+1. Select **New**.
+
+1. Enter the following values:
+
    - **Name** - Directory Page Template
    - **Website** - Select the current website
    - **Type** - Select **Web Template**
    - **Web Template** - Select **Directory Template**
    - **Table Name** - Select **Web Page**
-4. Select **Save & Close**.
+
+1. Select **Save & Close**.
 
 ### Test
 
 Your next step is to test that your new template works:
 
 1. Open Power Apps portals Studio in a new browser tab. Then, follow these steps:
-   1. Go to the Power Apps maker portal at https://make.powerapps.com.
-   2. Select the target environment by using the environment selector in the upper-right corner.
-   3. From the **Apps** list, select the application of type **Portal**.
-   4. Select the **Edit** menu.
-2. On the toolbelt, select the **Pages** icon.
-3. Select an existing page, for example, **Product A** under **Services**. Note: names and hierarchy of pages on your portal might differ.
-4. Locate the **Template** property in the **Component** panel on the right side.
-5. Select **Directory Page Template** as the new template.
+
+   1. Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true).
+
+   1. Select a target environment by using the environment selector in the upper-right corner.
+
+   1. From the **Apps** list, select the application of type **Portal**.
+
+   1. Select the **Edit** menu.
+
+1. On the toolbelt, select the **Pages and navigation** icon.
+
+1. Select an existing page, for example, **Pages**. Note: names and hierarchy of pages on your portal might differ.
+
+1. Locate the **Template** property in the **Component** panel on the right side.
+
+1. Select **Directory Page Template** as the new template.
+
    The list of accounts should be displayed because portals Studio runs under the maker account and uses Dataverse security instead of table permissions to filter the data.
-6. Select **Browse website**.
-   The message "You do not have permissions to access the directory" should be displayed.
+
+1. Select **Browse website**.
+
+   The message "You don't have permissions to access the directory" should be displayed.
 
 ### Add table permissions
 
 Follow these steps to add table permissions:
 
-1. Return to the Portal Management app.
-2. Select **Table Permissions**.
-3. Select **+ New**.
-4. Enter the following values:
+1. Return to the Power Apps portals Studio.
+
+1. Select **Settings** icon then select **Table Permissions**.
+
+1. Select **+ New**.
+
+1. Enter the following values:
+
    - **Name** - Account Directory
-   - **Table Name** - Select the account table
-   - **Website** - Select your current website
-   - **Scope** - Select **Global**
-   - **Privileges** - Select **Read**
-5. Select **Save**.
-6. Scroll to the **Web Roles** subgrid.
-7. Select **Add Existing Web Role**.
-8. Locate and select **Anonymous users** and **Authenticated users**.
-9. Select **Add**.
+   - **Table** - Select the **Account (account)** table
+   - **Access type** - Select **Global access**
+   - **Permission to** - Select **Read**
+
+1. Select **Add roles**.
+
+1. Select **Anonymous users** and **Authenticated users**.
+
+1. Select **Save**.
 
 ### Test
 
 Your final task is to test your new template:
 
 1. Switch to portals Studio.
-2. Select **Browse website**.
 
-This command rebuilds the site cache. A simple browser page refresh will not be sufficient to update the data.
+1. Select **Browse website**.
 
-The page should now be displayed and include the list of accounts.
+This command rebuilds the site cache. A simple browser page refresh won't be sufficient to update the data. The page should now be displayed and include the list of accounts.
 
-   ![Site cache rebuilt with page displayed and list of accounts.](../media/build-template.png)
+![Screenshot of the site cache rebuilt with page displayed and list of accounts.](../media/build-template.png)

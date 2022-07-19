@@ -32,7 +32,9 @@ products:
 - power-platform
 - power-automate 
 - common-data-service
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.import-export-solutions.introduction 
 - learn-bizapps.import-export-solutions.connection-references 
 - learn-bizapps.import-export-solutions.environment-variable-basics 
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.import-export-solutions.check 
 - learn-bizapps.import-export-solutions.summary 
 badge: 
-  uid: learn-bizapps.import-export-solutions.badge 
+  uid: learn-bizapps.import-export-solutions.badge

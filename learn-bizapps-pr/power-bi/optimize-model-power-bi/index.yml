@@ -28,7 +28,9 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-modeling
+units:
 - learn-bizapps.optimize-model-power-bi.1-introduction 
 - learn-bizapps.optimize-model-power-bi.2-performance 
 - learn-bizapps.optimize-model-power-bi.3-variables 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.optimize-model-power-bi.7-check 
 - learn-bizapps.optimize-model-power-bi.8-summary 
 badge: 
-  uid: learn-bizapps.optimize-model-power-bi.badge 
+  uid: learn-bizapps.optimize-model-power-bi.badge

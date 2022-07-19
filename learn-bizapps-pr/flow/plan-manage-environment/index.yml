@@ -30,7 +30,9 @@ products:
 - power-automate
 - power-platform
 - power-apps 
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.plan-manage-environment.1-introduction 
 - learn-bizapps.plan-manage-environment.2-prerequisites 
 - learn-bizapps.plan-manage-environment.3-risk-assessment 
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.plan-manage-environment.8-check 
 - learn-bizapps.plan-manage-environment.9-summary 
 badge: 
-  uid: learn-bizapps.plan-manage-environment.badge 
+  uid: learn-bizapps.plan-manage-environment.badge

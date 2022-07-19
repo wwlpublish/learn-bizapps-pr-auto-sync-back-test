@@ -29,4 +29,4 @@ In the Analytics pane, you can create many other lines for a visual, such as Min
 
 You can create a border around an individual visualization, and like other controls, you can specify the color of that border as well.
 
-For more information, see [Tips and tricks for color formatting in Power BI](https://docs.microsoft.com/power-bi/visuals/service-tips-and-tricks-for-color-formatting/?azure-portal=true).
+For more information, see [Tips and tricks for color formatting in Power BI](/power-bi/visuals/service-tips-and-tricks-for-color-formatting?azure-portal=true).

@@ -4,12 +4,12 @@ title: Introduction
 metadata: 
   title: Introduction
   description: Introduction to the Power Apps portals administration center.
-  ms.date: 07/14/2020 
+  ms.date: 06/24/2022 
   author: DaveBeasley 
   ms.author: dbeasley 
   ms.topic: interactive-tutorial 
   ms.prod: learning-power-apps 
-durationInMinutes: 6
+durationInMinutes: 10
 content: | 
  [!include[](../includes/unit-banner.md)] 
  [!include[](includes/1-introduction.md)] 

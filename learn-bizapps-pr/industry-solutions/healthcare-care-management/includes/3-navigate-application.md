@@ -34,9 +34,6 @@ In this exercise, you'll navigate the patient record and explore the detailed in
 
 1.  In the **Conditions** section, review Amber's preexisting conditions.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Conditions section.](../media/conditions.png)](../media/conditions.png#lightbox)
-
 1.  In the **Patient Relationships** section, review Amber's related people in the system.
 
 	> [!div class="mx-imgBorder"]

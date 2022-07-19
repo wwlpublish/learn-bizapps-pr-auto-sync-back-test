@@ -29,7 +29,9 @@ products:
 - power-platform 
 - power-apps
 - common-data-service 
-units: 
+subjects:
+- data-modeling
+units:
 - learn-bizapps.reduce-complexity-dataverse-table.1-introduction 
 - learn-bizapps.reduce-complexity-dataverse-table.2-one-to-many-relationships 
 - learn-bizapps.reduce-complexity-dataverse-table.3-many-to-many-relationships 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.reduce-complexity-dataverse-table.5-check 
 - learn-bizapps.reduce-complexity-dataverse-table.6-summary 
 badge: 
-  uid: learn-bizapps.reduce-complexity-dataverse-table.badge 
+  uid: learn-bizapps.reduce-complexity-dataverse-table.badge

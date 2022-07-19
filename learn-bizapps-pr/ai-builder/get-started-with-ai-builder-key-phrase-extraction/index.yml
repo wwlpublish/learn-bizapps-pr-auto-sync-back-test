@@ -31,11 +31,13 @@ products:
 - ai-builder
 - power-platform
 - power-automate
-units: 
+subjects:
+- artificial-intelligence
+units:
 - learn-bizapps.get-started-with-ai-builder-key-phrase-extraction.1-intro-key-phrase-extraction 
 - learn-bizapps.get-started-with-ai-builder-key-phrase-extraction.2-business-problems-solved 
 - learn-bizapps.get-started-with-ai-builder-key-phrase-extraction.3-exercise 
 - learn-bizapps.get-started-with-ai-builder-key-phrase-extraction.3a-check
 - learn-bizapps.get-started-with-ai-builder-key-phrase-extraction.4-summary 
 badge: 
-  uid: learn-bizapps.get-started-with-key-phrase-extraction.badge 
+  uid: learn-bizapps.get-started-with-key-phrase-extraction.badge

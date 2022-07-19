@@ -29,7 +29,9 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- productivity
+units:
 - learn-bizapps.files-folders-handling.1-introduction 
 - learn-bizapps.files-folders-handling.2-folders-actions 
 - learn-bizapps.files-folders-handling.3-files-actions 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.files-folders-handling.5-check-knowledge 
 - learn-bizapps.files-folders-handling.6-summary 
 badge: 
-  uid: learn-bizapps.files-folders-handling.badge 
+  uid: learn-bizapps.files-folders-handling.badge

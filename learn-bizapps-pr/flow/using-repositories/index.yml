@@ -34,7 +34,9 @@ roles:
 products:  
 - power-automate 
 - power-platform
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.using-repositories.1-introducing-repositories 
 - learn-bizapps.using-repositories.2-controls-repository 
 - learn-bizapps.using-repositories.3-images-repository 
@@ -42,4 +44,4 @@ units:
 - learn-bizapps.using-repositories.5-check-knowledge
 - learn-bizapps.using-repositories.6-summary 
 badge: 
-  uid: learn-bizapps.using-repositories.badge 
+  uid: learn-bizapps.using-repositories.badge

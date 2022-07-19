@@ -29,7 +29,9 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.automating-email-handling.1-introducing-email-automation 
 - learn-bizapps.automating-email-handling.2-automate-webmail-services
 - learn-bizapps.automating-email-handling.3-automate-outlook
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.automating-email-handling.6-check-knowledge
 - learn-bizapps.automating-email-handling.7-summary 
 badge: 
-  uid: learn-bizapps.automating-email-handling.badge 
+  uid: learn-bizapps.automating-email-handling.badge

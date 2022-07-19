@@ -4,8 +4,7 @@ A PivotTable is one option that you can choose when connecting to a dataset in E
 
 After adding a PivotTable to the sheet, go to the **PivotTable Analyze** tab. Select the **OLAP Tools** dropdown list. Select **Convert to Formulas**.
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot of convert to formulas feature.](../media/convert.png)](../media/convert.png#lightbox)
+[![Screenshot of convert to formulas feature.](../media/convert.png)](../media/convert.png#lightbox)
 
 Your PivotTable formatting has been removed and replaced with cells that contain formulas that retrieve the same data. Cube formulas have the following syntax:
 

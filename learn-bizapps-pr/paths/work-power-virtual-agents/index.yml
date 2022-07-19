@@ -25,6 +25,8 @@ roles:
 products:
 - power-platform
 - power-virtual-agents
+subjects:
+- chatbot
 modules:
 - learn-bizapps.power-virtual-agent-bots
 - learn-bizapps.enhance-power-virtual-agent-bots

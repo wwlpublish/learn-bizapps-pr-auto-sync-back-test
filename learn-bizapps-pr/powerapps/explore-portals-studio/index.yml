@@ -1,44 +1,48 @@
-### YamlMime:Module 
-uid: learn-bizapps.explore-portals-studio 
-metadata: 
+### YamlMime:Module
+uid: learn-bizapps.explore-portals-studio
+metadata:
  title: Explore Power Apps portals Studio
- description: Portal makers spend the majority of their time configuring portals by using Microsoft Power Apps portals Studio. It is important that portal makers have a full understanding of the capabilities and also the limitations of using portals Studio. This module will focus on understanding and using Power Apps portals Studio to create and customize portal websites. Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, table lists, and table forms.
- ms.date: 07/07/2020  
- author: DaveBeasley  
- ms.author: dbeasley  
- ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps-portals  
-title: Explore Power Apps portals Studio 
-summary: |  
-  [!include[](../includes/module-banner.md)] 
-  Portal makers spend the majority of their time configuring portals by using Microsoft Power Apps portals Studio. It is important that portal makers have a full understanding of the capabilities and also the limitations of using portals Studio. This module will focus on understanding and using Power Apps portals Studio to create and customize portal websites. Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, table lists, and table forms.
-abstract: |  
-    In this module, you will: 
+ description: Portal makers spend most their time configuring portals by using Microsoft Power Apps portals Studio. It's important that portal makers have a full understanding of the capabilities and also the limitations of using portals Studio. This module will focus on understanding and using Power Apps portals Studio to create and customize portal websites. Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, table lists, and table forms.
+ ms.date: 06/30/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps-portals
+title: Explore Power Apps portals Studio
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  Portal makers spend most their time configuring portals by using Microsoft Power Apps portals Studio. It's important that portal makers have a full understanding of the capabilities and also the limitations of using portals Studio. This module will focus on understanding and using Power Apps portals Studio to create and customize portal websites. Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, table lists, and table forms.
+abstract: |
+    In this module, you'll:
     - Learn how to launch and run Power Apps portals Studio from the maker portal.
     - Identify the various menus, command bars, tools, canvas, and property sections.
     - Discover how to add new webpages, how to place them in the site structure, and how to apply various page templates.
     - Learn about the process of configuring specific layouts and adding and modifying different types of content to a page.
     - Identify where to add or modify custom HTML, CSS, or Liquid code to the webpages by using portals Studio.
     - Discover the process of uploading CSS files and how it will apply to the portal.
-prerequisites: A basic understanding of how to navigate a model-driven app and use WYSIWYG tools. Knowledge of web technologies such as HTML, CSS, and Bootstrap will also be beneficial. 
-iconUrl: /learn/achievements/explore-portals-studio.svg  
-levels:  
-- intermediate   
-roles:  
+prerequisites: A basic understanding of how to navigate a model-driven app and use WYSIWYG tools. Knowledge of web technologies such as HTML, CSS, and Bootstrap will also be beneficial.
+iconUrl: /learn/achievements/explore-portals-studio.svg
+levels:
+- intermediate
+roles:
 - maker
-- functional-consultant  
-products:  
-- power-apps 
+- functional-consultant
+products:
+- power-apps
 - power-platform
-units: 
-- learn-bizapps.explore-portals-studio.1-portals-studio 
-- learn-bizapps.explore-portals-studio.2-web-pages 
-- learn-bizapps.explore-portals-studio.3-components 
-- learn-bizapps.explore-portals-studio.4-source-code 
-- learn-bizapps.explore-portals-studio.5-themes 
-- learn-bizapps.explore-portals-studio.6-templates 
-- learn-bizapps.explore-portals-studio.7-exercise 
-- learn-bizapps.explore-portals-studio.8-check 
-- learn-bizapps.explore-portals-studio.9-summary 
-badge: 
-  uid: learn-bizapps.explore-portals-studio.badge 
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.explore-portals-studio.1-portals-studio
+- learn-bizapps.explore-portals-studio.2-web-pages
+- learn-bizapps.explore-portals-studio.3-components
+- learn-bizapps.explore-portals-studio.4-source-code
+- learn-bizapps.explore-portals-studio.5-themes
+- learn-bizapps.explore-portals-studio.6-templates
+- learn-bizapps.explore-portals-studio.settings
+- learn-bizapps.explore-portals-studio.7-exercise
+- learn-bizapps.explore-portals-studio.8-check
+- learn-bizapps.explore-portals-studio.9-summary
+badge:
+  uid: learn-bizapps.explore-portals-studio.badge

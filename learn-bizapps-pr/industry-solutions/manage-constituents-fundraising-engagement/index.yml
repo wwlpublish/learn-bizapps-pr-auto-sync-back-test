@@ -28,7 +28,9 @@ roles:
 products: 
 - industry-solutions
 - mscloud-nonprofit
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.manage-constituents-fundraising-engagement.1-introduction 
 - learn-bizapps.manage-constituents-fundraising-engagement.2-contacts-organizations 
 - learn-bizapps.manage-constituents-fundraising-engagement.3-track-preferences-activities 
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.manage-constituents-fundraising-engagement.8-check 
 - learn-bizapps.manage-constituents-fundraising-engagement.9-summary 
 badge: 
-  uid: learn-bizapps.manage-constituents-fundraising-engagement.badge 
+  uid: learn-bizapps.manage-constituents-fundraising-engagement.badge

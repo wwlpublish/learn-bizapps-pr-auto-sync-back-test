@@ -27,7 +27,9 @@ roles:
 products:  
 - power-platform
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.introduction-expressions.1-introduction 
 - learn-bizapps.introduction-expressions.2-get-started 
 - learn-bizapps.introduction-expressions.3-comments 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.introduction-expressions.7-check 
 - learn-bizapps.introduction-expressions.8-summary 
 badge: 
-  uid: learn-bizapps.introduction-expressions.badge 
+  uid: learn-bizapps.introduction-expressions.badge

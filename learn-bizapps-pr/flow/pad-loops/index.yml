@@ -30,7 +30,9 @@ roles:
 products:  
 - power-platform
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.pad-loops.1-introduction 
 - learn-bizapps.pad-loops.2-loop-actions 
 - learn-bizapps.pad-loops.3-simple-loop 
@@ -40,4 +42,4 @@ units:
 - learn-bizapps.pad-loops.7-check-your-knowledge 
 - learn-bizapps.pad-loops.8-summary 
 badge: 
-  uid: learn-bizapps.pad-loops.badge 
+  uid: learn-bizapps.pad-loops.badge

@@ -15,7 +15,7 @@ are not currently supported.
     and selecting a different environment.
 
     >[!NOTE]
-    >Power Virtual Agents is supported only in the locations listed in the [supported data locations](https://docs.microsoft.com/power-virtual-agents/data-location) topic, with data stored in respective data centers. If your company is located outside of the supported data locations, you need to create a custom environment with **Region** set to a supported data location before you can create your chatbot.
+    >Power Virtual Agents is supported only in the locations listed in the [supported data locations](/power-virtual-agents/data-location) topic, with data stored in respective data centers. If your company is located outside of the supported data locations, you need to create a custom environment with **Region** set to a supported data location before you can create your chatbot.
 
     ![Creating a new bot](../media/create-new-bot.png)
 

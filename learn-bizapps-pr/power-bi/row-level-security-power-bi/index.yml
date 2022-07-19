@@ -25,11 +25,13 @@ roles:
 products:   
 - power-bi 
 - power-platform
-units: 
+subjects:
+- information-protection-governance
+units:
 - learn-bizapps.row-level-security-power-bi.1-introduction 
 - learn-bizapps.row-level-security-power-bi.2-static-method 
 - learn-bizapps.row-level-security-power-bi.3-dynamic-method 
 - learn-bizapps.row-level-security-power-bi.4-check 
 - learn-bizapps.row-level-security-power-bi.5-summary 
 badge: 
-  uid: learn-bizapps.row-level-security-power-bi.badge 
+  uid: learn-bizapps.row-level-security-power-bi.badge

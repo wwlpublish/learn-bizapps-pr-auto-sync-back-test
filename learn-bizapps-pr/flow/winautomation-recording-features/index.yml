@@ -27,7 +27,9 @@ roles:
 products:  
 - power-platform
 - power-automate
-units: 
+subjects:
+- productivity
+units:
 - learn-bizapps.winautomation-recording-features.1-introduction 
 - learn-bizapps.winautomation-recording-features.2-recording-actions 
 - learn-bizapps.winautomation-recording-features.3-web-recorder 
@@ -35,4 +37,4 @@ units:
 - learn-bizapps.winautomation-recording-features.5-check-your-knowledge 
 - learn-bizapps.winautomation-recording-features.6-summary 
 badge: 
-  uid: learn-bizapps.winautomation-recording-features.badge 
+  uid: learn-bizapps.winautomation-recording-features.badge

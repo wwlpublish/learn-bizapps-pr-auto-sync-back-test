@@ -3,7 +3,7 @@ uid: learn-bizapps.data-analytics-microsoft
 metadata: 
  title: Discover data analysis
  description: Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.
- ms.date: 06/30/2020  
+ ms.date: 06/09/2022 
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
@@ -25,7 +25,9 @@ roles:
 products:   
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.data-analytics-microsoft.1-introduction 
 - learn-bizapps.data-analytics-microsoft.2-data-analysis 
 - learn-bizapps.data-analytics-microsoft.3-roles 
@@ -33,4 +35,4 @@ units:
 - learn-bizapps.data-analytics-microsoft.5-check 
 - learn-bizapps.data-analytics-microsoft.6-summary 
 badge: 
-  uid: learn-bizapps.data-analytics-microsoft.badge 
+  uid: learn-bizapps.data-analytics-microsoft.badge

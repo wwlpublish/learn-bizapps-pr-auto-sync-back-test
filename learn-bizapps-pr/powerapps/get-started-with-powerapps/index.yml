@@ -1,4 +1,4 @@
-﻿### YamlMime:Module
+### YamlMime:Module
 uid: learn-bizapps.powerapps-get-started
 metadata:
   title: Get started with Power Apps canvas apps
@@ -31,6 +31,8 @@ roles:
 products: 
 - power-platform
 - power-apps
+subjects:
+- custom-app-development
 units:
 - learn-bizapps.powerapps-get-started.1-powerapps-introduction
 - learn-bizapps.powerapps-get-started.2-powerapps-building-blocks
@@ -43,4 +45,3 @@ units:
 - learn-bizapps.powerapps-get-started.7-summary-cleanup
 badge: 
   uid: learn-bizapps.powerapps-get-started.badge
-

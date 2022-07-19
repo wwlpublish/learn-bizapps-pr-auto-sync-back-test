@@ -1,0 +1,1 @@
+This module described the retail industry trends that have shaped the basis for Microsoft Cloud for Retail. You learned about the prioritized scenarios and the relevant capabilities. Finally, you learned about the architecture and the core components that form Microsoft Cloud for Retail.

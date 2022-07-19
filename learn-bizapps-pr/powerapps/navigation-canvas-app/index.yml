@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.navigation-canvas-app 
 metadata: 
   title: Navigation in a canvas app in Power Apps
@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.navigation-canvas-app.1-understand-navigation 
 - learn-bizapps.navigation-canvas-app.2-navigate-back-function 
 - learn-bizapps.navigation-canvas-app.3a-exercise-create-navigation-functions
@@ -36,5 +38,4 @@ units:
 - learn-bizapps.navigation-canvas-app.4-knowledge-check 
 - learn-bizapps.navigation-canvas-app.5-summary 
 badge: 
-  uid: learn-bizapps.navigation-canvas-app.badge 
-
+  uid: learn-bizapps.navigation-canvas-app.badge

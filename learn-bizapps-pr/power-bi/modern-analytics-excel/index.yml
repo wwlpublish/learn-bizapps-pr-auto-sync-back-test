@@ -31,7 +31,9 @@ roles:
 products: 
 - power-platform 
 - power-bi 
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.modern-analytics-excel.1-enable-compatibility 
 - learn-bizapps.modern-analytics-excel.2-connect-excel 
 - learn-bizapps.modern-analytics-excel.3-types-security 
@@ -44,4 +46,4 @@ units:
 - learn-bizapps.modern-analytics-excel.10-check 
 - learn-bizapps.modern-analytics-excel.11-summary 
 badge: 
-  uid: learn-bizapps.modern-analytics-excel.badge 
+  uid: learn-bizapps.modern-analytics-excel.badge

@@ -30,7 +30,9 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.return-school.1-introduction 
 - learn-bizapps.return-school.2-features-benefits 
 - learn-bizapps.return-school.3-functionality 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.return-school.5-check 
 - learn-bizapps.return-school.6-summary 
 badge: 
-  uid: learn-bizapps.return-school.badge 
+  uid: learn-bizapps.return-school.badge

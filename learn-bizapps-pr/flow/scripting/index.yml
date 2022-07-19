@@ -29,7 +29,9 @@ roles:
 products:  
 - power-automate  
 - power-platform 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.scripting.1-introduction 
 - learn-bizapps.scripting.2-scripting-actions 
 - learn-bizapps.scripting.3-exercise-vbscript 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.scripting.5-check-knowledge 
 - learn-bizapps.scripting.6-summary 
 badge: 
-  uid: learn-bizapps.scripting.badge 
+  uid: learn-bizapps.scripting.badge

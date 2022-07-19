@@ -25,6 +25,8 @@ roles:
 products:
 - industry-solutions
 - mscloud-financial
+subjects:
+- modern-work
 modules:
 - learn-bizapps.financial-services-overview 
 - learn-bizapps.financial-training-environment-preparation
@@ -35,4 +37,3 @@ modules:
 - learn-bizapps.financial-services-customer-intelligence
 trophy:
   uid: learn.financial-services-in-a-day.trophy
-

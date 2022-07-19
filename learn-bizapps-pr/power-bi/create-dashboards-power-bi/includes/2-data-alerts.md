@@ -18,4 +18,4 @@ After selecting **Save and Close**, you will have successfully created a data al
 
 This feature is available to whomever has access to the dashboard, not just the dashboard owner. Consequently, when the Sales team begins configuring the data alerts, they can personalize them so that whoever uses the report can have their own set of alerts. Additionally, you can enable or disable the alert by using the toggle switch.
 
-For more information, see [Data Alerts in Power BI service](https://docs.microsoft.com/power-bi/create-reports/service-set-data-alerts/?azure-portal=true).
+For more information, see [Data Alerts in Power BI service](/power-bi/create-reports/service-set-data-alerts?azure-portal=true).

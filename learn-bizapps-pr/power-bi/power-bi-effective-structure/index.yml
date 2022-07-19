@@ -28,7 +28,10 @@ roles:
 products:
 - power-platform
 - power-bi
-units: 
+subjects:
+- data-visualization
+- data-analytics
+units:
 - learn-bizapps.power-bi-effective-structure.1-introduction
 - learn-bizapps.power-bi-effective-structure.2-design-analytical-report-layout 
 - learn-bizapps.power-bi-effective-structure.3-produce-guided-experience 

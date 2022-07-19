@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-intelligent-order-management.reporting
+title: Exercise 7 - Reporting
+metadata:
+  title: Exercise 7 - Reporting
+  description: Follow the steps to create new dashboards and access Intelligent Order Management data by using Power BI.
+  ms.date: 05/02/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-industry-solutions
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/reporting.md)]

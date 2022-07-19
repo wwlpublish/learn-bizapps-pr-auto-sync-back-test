@@ -8,7 +8,7 @@ Use "Create" in Power Apps left menu and then "Canvas app from blank", name it C
 
 Let's enable John and Chandra to take a picture of a container and automatically retrieve the container identifiers. From "Insert" menu and "AI Builder" bar choose "Text Recognizer". This is the control that will allow to take or upload a picture and automatically recognize the container identifier.
 
-![The A I Builder menu is expanded to reveal Business card reader, Form processor, Object detector, and Text recognizer options.](../media/image10.png)
+![The A I Builder menu is expanded to reveal Business card reader, Form processor, Object detector, and Text recognizer options.](../media/image10.jpg)
 
 Resize the control to fit in the screen and insert on the top a label editing the "Text" property to "Container Check-in" with blue background and white text centered.
 

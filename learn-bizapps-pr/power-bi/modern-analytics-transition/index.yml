@@ -28,7 +28,9 @@ roles:
 products: 
 - power-platform
 - power-bi 
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.modern-analytics-transition.1-introduction 
 - learn-bizapps.modern-analytics-transition.2-power-query 
 - learn-bizapps.modern-analytics-transition.3-data-modeling 
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.modern-analytics-transition.5-check 
 - learn-bizapps.modern-analytics-transition.6-summary 
 badge: 
-  uid: learn-bizapps.modern-analytics-transition.badge 
+  uid: learn-bizapps.modern-analytics-transition.badge

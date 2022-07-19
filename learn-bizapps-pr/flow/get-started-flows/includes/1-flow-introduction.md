@@ -46,9 +46,9 @@ You can monitor what people are saying about your business by creating a flow th
 
 You can create actions to connect the data you collect to Microsoft Power BI, spot trends in that data, and ask questions about it.
 
-The following example shows a flow that saves tweets with the hashtag #MicrosoftFlow to an Excel file.
+The following example shows a flow that saves tweets with the hashtag #PowerAutomate to an Excel file.
 
-![Screenshot of a Microsoft Flow Tweet with the hashtag #MicrosoftFlow.](../media/tweets-to-excel.png)
+![Screenshot of a Microsoft Flow Tweet with the hashtag #PowerAutomate.](../media/tweets-to-excel.png)
 
 ![Screenshot of the same tweet in an Excel spreadsheet.](../media/excel-tweets.png)
 
@@ -102,9 +102,9 @@ For now, let's focus on the **?** menu next to your sign-in, which has these opt
 - **Community** is a place to plug into and find out how other people use Power Automate.
 - **Give Feedback** taps into a community of power users, and is where you can send comments and questions to developers and other experienced users.
 - **Blog** keeps you up to date about the most recent developments and releases in the Power Automate ecosystem.
-- **Desktop flows** provides an introduction to Power Automate Desktop.
+- **Desktop flows** provides an introduction to Power Automate for desktop.
 - **Pricing** can help you choose the right plan for you or your business.
-- **Power Automate Desktop** is where you can download Power Automate Desktop and install it on your machine.
+- **Power Automate for desktop** is where you can download Power Automate for desktop and install it on your machine.
 - **Power Automate for Mobile** provides information about the mobile app and the platforms it's available on.
 - **Data Gateway** provides an overview of the on-premises data gateway.
 

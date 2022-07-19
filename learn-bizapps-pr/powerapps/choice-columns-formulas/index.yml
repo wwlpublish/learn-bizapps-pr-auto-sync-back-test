@@ -30,6 +30,8 @@ products:
 - power-platform
 - power-apps
 - common-data-service
+subjects:
+- data-modeling
 units:
 - learn-bizapps.choice-columns-formulas.1-introduction
 - learn-bizapps.choice-columns-formulas.2-filter

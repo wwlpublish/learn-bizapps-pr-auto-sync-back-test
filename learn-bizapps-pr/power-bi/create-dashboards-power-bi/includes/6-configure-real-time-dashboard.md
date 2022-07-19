@@ -29,4 +29,4 @@ Select **Next**, which will redirect you to the following window where you can c
 
 After you have selected the new dataset, select **Next**, enter the details for your streaming dataset, and then add a new streaming dataset tile. Streaming dataset tiles can be in the form of line charts, stacked bar charts, cards, and gauges and are formatted similarly to any other kind of tile.
 
-For more information, see [Real-time streaming in Power BI](https://docs.microsoft.com/power-bi/connect-data/service-real-time-streaming/?azure-portal=true).
+For more information, see [Real-time streaming in Power BI](/power-bi/connect-data/service-real-time-streaming?azure-portal=true).

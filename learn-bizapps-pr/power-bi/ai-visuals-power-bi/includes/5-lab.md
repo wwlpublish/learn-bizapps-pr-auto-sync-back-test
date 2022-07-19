@@ -16,27 +16,27 @@ In this lab you learn how to:
 
 This lab is one of many in a series of labs that was designed as a complete story from data preparation to publication as reports and dashboards. You can complete the labs in any order. However, if you intend to work through multiple labs, for the first 10 labs, we suggest you do them in the following order:
 
-1. [Prepare data in Power BI Desktop](https://docs.microsoft.com/learn/modules/get-data/lab-prepare/?azure-portal=true)
+1. [Prepare data in Power BI Desktop](/learn/modules/get-data/lab-prepare?azure-portal=true)
 
-1. [Load data in Power BI Desktop](https://docs.microsoft.com/learn/modules/clean-data-power-bi/8-lab/?azure-portal=true)
+1. [Load data in Power BI Desktop](/learn/modules/clean-data-power-bi/8-lab?azure-portal=true)
 
-1. [Model data in Power BI Desktop, part 1](https://docs.microsoft.com/learn/modules/design-model-power-bi/8-lab/?azure-portal=true)
+1. [Model data in Power BI Desktop, part 1](/learn/modules/design-model-power-bi/8-lab?azure-portal=true)
 
-1. [Model data in Power BI Desktop, part 2](https://docs.microsoft.com/learn/modules/design-model-power-bi/9-lab/?azure-portal=true)
+1. [Model data in Power BI Desktop, part 2](/learn/modules/design-model-power-bi/9-lab?azure-portal=true)
 
-1. [Create DAX calculations in Power BI Desktop, part 1](https://docs.microsoft.com/learn/modules/create-measures-dax-power-bi/6-lab/?azure-portal=true)
+1. [Create DAX calculations in Power BI Desktop, part 1](/learn/modules/create-measures-dax-power-bi/6-lab?azure-portal=true)
 
-1. [Create DAX calculations in Power BI Desktop, part 2](https://docs.microsoft.com/learn/modules/create-measures-dax-power-bi/8-lab/?azure-portal=true)
+1. [Create DAX calculations in Power BI Desktop, part 2](/learn/modules/create-measures-dax-power-bi/8-lab?azure-portal=true)
 
-1. [Design a report in Power BI Desktop, part 1](https://docs.microsoft.com/learn/modules/visuals-power-bi/8-lab/?azure-portal=true)
+1. [Design a report in Power BI Desktop, part 1](/learn/modules/visuals-power-bi/8-lab?azure-portal=true)
 
-1. [Design a report in Power BI Desktop, part 2](https://docs.microsoft.com/learn/modules/data-driven-story-power-bi/13-lab/?azure-portal=true)
+1. [Design a report in Power BI Desktop, part 2](/learn/modules/data-driven-story-power-bi/13-lab?azure-portal=true)
 
-1. [Create a Power BI dashboard](https://docs.microsoft.com/learn/modules/create-dashboards-power-bi/9-lab/?azure-portal=true)
+1. [Create a Power BI dashboard](/learn/modules/create-dashboards-power-bi/9-lab?azure-portal=true)
 
 1. **Perform data analysis in Power BI Desktop** << You are here. This is the lab for the current module.
 
-1. [Create a Power BI paginated report](https://docs.microsoft.com/learn/modules/create-paginated-reports-power-bi/6-lab/?azure-portal=true)
+1. [Create a Power BI paginated report](/learn/modules/create-paginated-reports-power-bi/6-lab?azure-portal=true)
 
 > [!NOTE]
 > Each lab starts with a PBIX file that has all of the previous lab work completed. If you should lose your work for any reason, you can open the PBIX file that includes the progress up to that point from the folder indicated at the beginning of the next lab.

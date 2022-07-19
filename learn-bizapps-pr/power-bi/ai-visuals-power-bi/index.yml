@@ -26,7 +26,10 @@ roles:
 products:   
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-visualization
+- artificial-intelligence
+units:
 - learn-bizapps.ai-visuals-power-bi.1-introduction 
 - learn-bizapps.ai-visuals-power-bi.2-visual 
 - learn-bizapps.ai-visuals-power-bi.3-key-influencers 
@@ -35,4 +38,4 @@ units:
 - learn-bizapps.ai-visuals-power-bi.6-check 
 - learn-bizapps.ai-visuals-power-bi.7-summary 
 badge: 
-  uid: learn-bizapps.ai-visuals-power-bi.badge 
+  uid: learn-bizapps.ai-visuals-power-bi.badge

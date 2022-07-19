@@ -11,6 +11,7 @@ metadata:
 title: Configure Power Apps portals security
 summary: |  
   [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
   The concept of exposing Dataverse on a public webpage is appealing for addressing numerous business requirements. However, careful consideration is necessary to avoid exposing private or sensitive data. This module will focus on helping you understand and configure portal security to protect static and dynamic content and limit visibility to specific audiences.
 abstract: |  
     In this module, you will: 
@@ -32,7 +33,10 @@ roles:
 products:  
 - power-platform  
 - power-apps 
-units: 
+subjects:
+- custom-app-development
+- security
+units:
 - learn-bizapps.configure-security.1-introduction 
 - learn-bizapps.configure-security.2-secure-static-content 
 - learn-bizapps.configure-security.3-entity-permissions 
@@ -40,4 +44,4 @@ units:
 - learn-bizapps.configure-security.5-check 
 - learn-bizapps.configure-security.6-summary 
 badge: 
-  uid: learn-bizapps.configure-security.badge 
+  uid: learn-bizapps.configure-security.badge

@@ -1,12 +1,12 @@
 Knowing about the usage and performance of your workspace is crucial because it:
 
-- Focuses your efforts for improvement. If you know the areas that experience the least performance, you can concentrate your efforts for improvement in those areas.
+- Focuses your efforts for improvement. If you know the areas that experience the worst performance, you can concentrate your efforts for improvement in those areas.
 
 - Quantifies the impact of your reports. Usage metrics help you determine your reports' success.
 
 These performance and usage metrics are available features that you can use in a workspace. With these metrics, you can view who's using your reports, what actions are being done on the reports, and what performance issues exist.
 
-For example, consider the continuing scenario where you work for Tailwind Traders. You've successfully added reports to your workspace, published an app, and begun the process of collaborating with the Products team. Commentary begins to circulate around the company about how useful these workspaces are, resulting in more users being added to the workspace. The Sales team knows that performance might reduce with the increased addition of users. Consequently, the Sales team has asked you to monitor usage and performance of the workspace.
+For example, consider the continuing scenario where you work for Tailwind Traders. You've successfully added reports to your workspace, published an app, and begun the process of collaborating with the Products team. Commentary begins to circulate around the company about how useful these workspaces are, resulting in more users being added to the workspace. The Sales team knows that performance might worsen with the increased addition of users. Consequently, the Sales team has asked you to monitor usage and performance of the workspace.
 
 ## Configure and view usage metric reports
 

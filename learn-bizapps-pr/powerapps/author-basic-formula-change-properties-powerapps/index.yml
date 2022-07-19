@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.author-basic-formula-change-properties-powerapps
 metadata: 
   title: Create formulas to change properties in a Power Apps canvas app
@@ -31,7 +31,9 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.change-properties.1-formula-overview
 - learn-bizapps.change-properties.2-modify-controls-format
 - learn-bizapps.change-properties.3-formula-for-calculation
@@ -41,5 +43,4 @@ units:
 - learn-bizapps.change-properties.7-knowledge-check  
 - learn-bizapps.change-properties.8-summary
 badge: 
-  uid: learn-bizapps.author-basic-formula-change-properties-powerapps.badge 
-
+  uid: learn-bizapps.author-basic-formula-change-properties-powerapps.badge

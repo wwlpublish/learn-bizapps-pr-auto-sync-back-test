@@ -22,6 +22,8 @@ roles:
 - data-analyst
 products:
 - power-bi 
+subjects:
+- data-modeling
 modules:
 - learn-bizapps.design-model-power-bi 
 - learn-bizapps.create-measures-dax-power-bi 

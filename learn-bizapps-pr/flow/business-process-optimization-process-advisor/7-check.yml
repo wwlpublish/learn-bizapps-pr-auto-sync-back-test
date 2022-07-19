@@ -59,13 +59,13 @@ quiz:
     choices: 
     - content: Automation recommendations only include Premium connectors. 
       isCorrect: false 
-      explanation: Recommendations include all connectors that are relevant to your process, including Power Automate Desktop to automate legacy applications.
+      explanation: Recommendations include all connectors that are relevant to your process, including Power Automate for desktop to automate legacy applications.
     - content: Automation recommendations only include Office 365 connectors. 
       isCorrect: false 
-      explanation: Recommendations include all connectors that are relevant to your process, including Power Automate Desktop to automate legacy applications.
+      explanation: Recommendations include all connectors that are relevant to your process, including Power Automate for desktop to automate legacy applications.
     - content: All connectors can be recommended, except AI Builder and Power Automate Desktop.
       isCorrect: false 
-      explanation: Recommendations include all connectors that are relevant to your process, including Power Automate Desktop to automate legacy applications.
+      explanation: Recommendations include all connectors that are relevant to your process, including Power Automate for desktop to automate legacy applications.
     - content: All connectors that are relevant to your process will be suggested, including Power Automate Desktop to automate legacy applications.
       isCorrect: true 
-      explanation: Recommendations include all connectors that are relevant to your process, including Power Automate Desktop to automate legacy applications.
+      explanation: Recommendations include all connectors that are relevant to your process, including Power Automate for desktop to automate legacy applications.

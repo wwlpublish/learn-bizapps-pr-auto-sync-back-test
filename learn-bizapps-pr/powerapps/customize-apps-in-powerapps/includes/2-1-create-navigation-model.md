@@ -1,4 +1,4 @@
-For a user, a navigation menu gives an overall perspective of the services an app has to offer. So it's also important to have such a menu available throughout the app. From the maker standpoint, the menu needs to be easy to make and easy to update.
+For a user, a navigation menu gives an overall perspective of the services an app has to offer. So, it's also important to have such a menu available throughout the app. From the maker standpoint, the menu needs to be easy to make and easy to update.
 
 ## Overview of a navigation menu
 
@@ -19,10 +19,26 @@ Having the menu content connected to the data source gives the flexibility to mo
 > [!div class="mx-imgBorder"]
 > [![Screenshot of SharePoint showing Power Apps App Menu list of items.](../media/sharepoint-list-items.jpg)](../media/sharepoint-list-items.jpg#lightbox)
 
-This list is then connected to Power Apps as a SharePoint data source.
+This list is then connected to Power Apps as a SharePoint data source. You can then insert a gallery into whatever screen you wish to have your menu in and assign it the 'Power Apps App Menu' as the data source (the **Items** property for the gallery). You then insert a button into the gallery.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the Items formula set to 'Power Apps App Menu.'](../media/sharepoint-list-navigation.jpg)](../media/sharepoint-list-navigation.jpg#lightbox)
+> [![Screenshot of the Items formula set to Power Apps App Menu.](../media/sharepoint-list-navigation.jpg)](../media/sharepoint-list-navigation.jpg#lightbox)
+
+Complete the menu by renaming the **Text** property of the button to make it **ThisItem.Title**.
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of the Text formula set to This Item dot Title.](../media/rename-button.jpg)
+
+Finally, to make the navigation work, modify the **OnSelect** property of the button by adding conditional logic around **ThisItem.Title** to navigate to the chosen screen.  You could do this with an **If** or **Switch** statement.  Either statement serves the same purpose.
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of the If statement for OnSelect.](../media/if-statement.jpg)
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of the Switch statement for OnSelect.](../media/switch-statement.jpg)
+
+> [!NOTE]
+> This technique or the following one will work with any app, but if you are using your FlooringEstimates App to try this out, you can add a new screen to the app and make your buttons to point to the BrowseScreen and DetailScreen.
 
 ## Use a collection
 
@@ -58,3 +74,5 @@ A similar process can be followed to create a horizontal menu using the Horizont
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Insert tab with the Gallery menu dropped down and the Horizontal gallery highlighted.](../media/horizontal-gallery.jpg)](../media/horizontal-gallery.jpg#lightbox)
+
+Like the Data Source technique, you would modify the **OnSelect** property of your button to navigate to the screen of your choice.

@@ -22,6 +22,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- process-workflow
 modules:
 - learn-bizapps.build-first-desktop-flow
 - learn-bizapps.input-parameters

@@ -28,7 +28,10 @@ products:
 - power-apps 
 - power-platform
 - common-data-service
-units: 
+subjects:
+- custom-app-development
+- architecture
+units:
 - learn-bizapps.power-apps-architecture.1-introduction
 - learn-bizapps.power-apps-architecture.2-patterns
 - learn-bizapps.power-apps-architecture.3-composition

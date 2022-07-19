@@ -9,4 +9,4 @@ To establish the key influencers, first add the **Key influencers** visual to yo
 
 You can now use the **What influences...** drop-down list to see what caused the data to decrease or increase. The previous image shows that the sales for California are likely to be USD 130,700.00 higher than sales in other cities.
 
-For more information, see [Create key influencers visualizations](https://docs.microsoft.com/power-bi/visuals/power-bi-visualization-influencers/?azure-portal=true).
+For more information, see [Create key influencers visualizations](/power-bi/visuals/power-bi-visualization-influencers?azure-portal=true).

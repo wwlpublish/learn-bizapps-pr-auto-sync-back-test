@@ -23,7 +23,7 @@ quiz:
       explanation: This is incorrect. MAX expressions will pick the maximum non-null value. 
     - content: That function AVERAGE of data will be incorrect. 
       isCorrect: true 
-      explanation: Correct. AVERAGE takes the total and divides by the number of non-null values. If NULL is synonymous with zero in the data, the average will be higher than the accurate average. 
+      explanation: Correct. AVERAGE takes the total and divides by the number of non-null values. If NULL is synonymous with zero in the data, the average will be different from the accurate average. 
   - content: If you have two queries that have different data but the same column headers, and you want to combine both tables into one query with all the combined rows, which operation should you perform? 
     choices: 
     - content: Append 

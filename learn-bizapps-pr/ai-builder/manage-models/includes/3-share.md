@@ -16,7 +16,7 @@ users, groups, or your whole organization.
 
 In addition to the models you create yourself, the models that are shared with you by others appear on the **Models** page, accessible from the left menu.
 
-![Screenshot of the Models page with My models and Shared with me tabs.](../media/image3.jpg)
+![Screenshot of the Models page with My models and Shared with me tabs.](../media/image-3.png)
 
 When a model is shared with you, you have user permissions to use it in
 apps and flows. You cannot view details or edit the model.

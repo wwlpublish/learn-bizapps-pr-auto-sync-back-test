@@ -22,6 +22,8 @@ roles:
 - data-analyst
 products:
 - power-bi 
+subjects:
+- data-visualization
 modules:
 - learn-bizapps.visuals-power-bi 
 - learn-bizapps.data-driven-story-power-bi 

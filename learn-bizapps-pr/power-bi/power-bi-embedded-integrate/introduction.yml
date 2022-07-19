@@ -3,8 +3,8 @@ uid: learn-bizapps.power-bi-embedded-integrate.introduction
 title: Introduction
 metadata:
   title: Introduction
-  description: Introduction to integrating content with the Power BI client APIs.
-  ms.date: 04/10/2022
+  description: Introduction to integrating content with Power BI client APIs
+  ms.date: 04/07/2022
   author: heyrob
   ms.author: robde
   ms.topic: interactive-tutorial

@@ -2,8 +2,8 @@
 uid: learn-bizapps.dax-power-bi-modify-filter
 metadata: 
  title: Modify DAX filter context in Power BI Desktop models
- description: By the end of this module, you’ll be able to describe filter context, which is used to evaluate measure formulas. You’ll then learn why some calculations need to modify filter context and that it can be achieved by using the CALCULATE function. Additionally, you’ll learn how to configure the CALCULATE function with filters and filter modifiers.
- ms.date: 07/07/2020  
+ description: By the end of this module, you'll be able to describe filter context, which is used to evaluate measure formulas. You'll then learn why some calculations need to modify filter context and that it can be achieved by using the CALCULATE function. Additionally, you'll learn how to configure the CALCULATE function with filters and filter modifiers.
+ ms.date: 06/15/2022 
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
@@ -11,7 +11,7 @@ metadata:
 title: Modify DAX filter context in Power BI Desktop models 
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  Filter context describes the filters that are applied during the evaluation of a measure or measure expression.
+  By the end of this module, you'll be able to describe and work with filter context, which is used to evaluate measure formulas.
 abstract: |  
     By the end of this module, you'll be able to:
     - Describe filter context.
@@ -29,7 +29,9 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.dax-power-bi-modify-filter.1-introduction 
 - learn-bizapps.dax-power-bi-modify-filter.2-modify-filter-context 
 - learn-bizapps.dax-power-bi-modify-filter.3-filter-modifier-functions 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.dax-power-bi-modify-filter.6-check 
 - learn-bizapps.dax-power-bi-modify-filter.7-summary 
 badge: 
-  uid: learn-bizapps.dax-power-bi-modify-filter.badge 
+  uid: learn-bizapps.dax-power-bi-modify-filter.badge

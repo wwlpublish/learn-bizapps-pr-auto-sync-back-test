@@ -24,7 +24,7 @@ Similar to the desktop Outlook client, you have the flexibility to add a comment
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Comments feature in the browser.](../media/respond-browser-comment.png)](../media/respond-browser-comment.png#lightbox)
 
-After the approval process has been completed, the email body automatically updates, as shown in the following screenshot. It updates to ensure you don't approve or reject multiple times.
+After the approval process has been completed, the email body automatically updates. It updates to ensure you don't approve or reject multiple times.
 
 Additionally, you can sign in to [https://flow.microsoft.com](https://flow.microsoft.com/?azure-portal=true), select the **Action items** drop-down menu, and select **Approvals**. The **Received** section will show the item that is pending your approval.
 

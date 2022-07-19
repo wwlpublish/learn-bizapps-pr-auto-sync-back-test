@@ -1,4 +1,4 @@
-This unit introduces robotic process automation (RPA) and the use cases for Microsoft Power Automate Desktop flows.
+This unit introduces robotic process automation (RPA) and the use cases for Microsoft Power Automate for desktop flows.
 
 Many legacy applications don't have a method for accessing their data or functionality except through their user interface. RPA solutions operate by generating a list of actions by capturing the steps that a user performs in an application's user interface. The RPA solution then performs the automation by repeating the steps in the application's UI, effectively simulating the user's actions in software. RPA enables the automation of applications that don't have an API that can be used for such automation tasks.
 
@@ -18,13 +18,13 @@ A major barrier in automating systems and workflows can be that legacy and other
 
 It isn't always possible to replace the legacy applications because of difficulty or the costs to replace them. In addition, many legacy applications are on-premises, and linking to the on-premises applications and combining them with cloud services in an end-to-end automation process can be difficult.
 
-Many RPA solutions have been developed to solve this problem. Power Automate Desktop flows are the answer to this problem.
+Many RPA solutions have been developed to solve this problem. Power Automate for desktop flows are the answer to this problem.
 
 ## Automation with Power Automate
 
 Many software as a service (SaaS) solutions can be accessed with modern REST APIs that automation tools such as Power Automate can connect to and orchestrate for the purposes of integration and automation of tasks.
 
-By using Power Automate, a solution architect can create innovative solutions. If a connector isn't available, you can create a custom connector if the service has a modern REST API. If an API isn't available, then Power Automate Desktop flows are available.
+By using Power Automate, a solution architect can create innovative solutions. If a connector isn't available, you can create a custom connector if the service has a modern REST API. If an API isn't available, then Power Automate for desktop flows are available.
 
 Microsoft has an approach to automation:
 
@@ -37,9 +37,9 @@ The following flowchart can help you determine how to build your automation.
 
 ![Flowchart that shows decision-making for your design.](../media/1-decision-making-flow.png)
 
-## Use cases for Power Automate Desktop flows
+## Use cases for Power Automate for desktop flows
 
-Power Automate Desktop flows automate repetitive tasks, and you can use Power Automate Desktop flows in several scenarios. Some use cases for desktop flows are as follows:
+Power Automate for desktop flows automate repetitive tasks, and you can use Power Automate Desktop flows in several scenarios. Some use cases for desktop flows are as follows:
 
 - **Invoice processing** - Processing invoices includes many repetitive tasks that, if performed incorrectly, can lead to delayed or incorrect payments. For instance, invoices need to be checked against the corresponding purchase orders. Desktop flows can process invoices and automatically perform the required validation checks.
 - **Recruitment** - Desktop flows could gather and collate applications from multiple job portals into a single applicant list.
@@ -59,9 +59,9 @@ Solution architects should look for opportunities for automation. Good opportuni
 
 Desktop flows have many uses. Consider any scenario where the processing of forms, extracting data from systems, or processing claims has occurred where the data needs to be verified for automation with desktop flows. If you have rule-based processing, desktop flows are viable candidates for automating those processes.
 
-The introduction of Power Automate Desktop produces many scenarios that wouldn't have been possible or would have been difficult and expensive to achieve.
+The introduction of Power Automate for desktop produces many scenarios that wouldn't have been possible or would have been difficult and expensive to achieve.
 
-Desktop flows can also be used for situations where an API is available, but the API doesn't expose all operations that are available in the application's UI. In such circumstances, Power Automate Desktop might be the answer.
+Desktop flows can also be used for situations where an API is available, but the API doesn't expose all operations that are available in the application's UI. In such circumstances, Power Automate for desktop might be the answer.
 
 During design, the solution architect should separate flows into smaller automations so that you don't have a single automation that covers the entire process. Reasons why you should make multiple, smaller flows are:
 

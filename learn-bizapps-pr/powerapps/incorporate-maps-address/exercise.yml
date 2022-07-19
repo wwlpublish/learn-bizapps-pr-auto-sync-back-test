@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.incorporate-maps-address.exercise 
+title: Exercise – Enable geospatial features and use the Address input field
+metadata: 
+  title: Exercise – Enable geospatial features and use the Address input field
+  description: Follow the steps to enable geospatial features and use the Address input field.
+  ms.date: 06/23/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-apps 
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise.md)] 

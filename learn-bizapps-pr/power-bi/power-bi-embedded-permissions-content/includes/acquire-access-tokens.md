@@ -108,7 +108,7 @@ string embedToken = (await client.EmbedToken.GenerateTokenAsync(tokenRequest)).T
 The app should output the `embedToken` variable value to the embedding HTML page. Client-side logic can then use the embed token to embed content in a `div` element.
 
 > [!NOTE]
-> To learn how to embed Power BI content, work through the Embed Power BI content module.
+> To learn how to embed Power BI content, work through the [Embed Power BI content](/learn/modules/power-bi-embedded-content/?azure-portal=true) module.
 
 To allow your app to acquire embed tokens, its config file should contain details about the embeddable content. It can include specific ReportIDs and DatasetIDs, or more commonly the GroupIDs of the workspaces that contain embeddable content.
 
@@ -119,9 +119,9 @@ For more information, see [Embed Token - Generate Token](/rest/api/power-bi/embe
 Access tokens have an expiration time. Once they're generated, app users have limited time to interact with Power BI content that uses them. In order to provide your app users with a continuous experience, your app should refresh access tokens before they expire by using the Power BI client API.
 
 > [!NOTE]
-> To learn about the Client API, work through the Integrate content with the Power BI client APIs module.
+> To learn about the Client API, work through the [Integrate content with the Power BI client APIs](/learn/modules/power-bi-embedded-integrate/?azure-portal=true) module.
 
-For more information, see [Refresh the access token in Power BI embedded analytics.](/javascript/api/overview/powerbi/refresh-token/?azure-portal=true)
+For more information, see [Refresh the access token in Power BI embedded analytics](/javascript/api/overview/powerbi/refresh-token/?azure-portal=true).
 
 ## Explore other resources
 

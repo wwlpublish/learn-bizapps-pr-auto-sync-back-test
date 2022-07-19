@@ -103,7 +103,7 @@ Now, you'll configure and set up a custom connector that uses Microsoft 365 Mana
 
 1.  Don't change the **Tenant ID** field.
 
-1.  Set the **Resource URL** field to [https://manage.office.com](https://manage.office.com/?azure-portal=true).
+1.  Set the **Resource URL** field to `https://manage.office.com`.
 
 1.  Copy the **Redirect URL** into your text document in Notepad. 
 

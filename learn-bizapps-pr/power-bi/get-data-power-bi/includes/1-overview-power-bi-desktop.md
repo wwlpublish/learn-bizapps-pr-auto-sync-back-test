@@ -1,4 +1,4 @@
-﻿Power BI Desktop is a free application for PCs that lets you gather, transform, and visualize your data. In this module, you'll learn how to find and collect data from different sources and how to clean or transform it. You'll also learn tricks to make data-gathering easier.
+Power BI Desktop is a free application for PCs that lets you gather, transform, and visualize your data. In this module, you'll learn how to find and collect data from different sources and how to clean or transform it. You'll also learn tricks to make data-gathering easier.
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWFP5V]
 
@@ -28,7 +28,7 @@ You can download Power BI Desktop from the web or as an app from the Microsoft S
 ## Sign in to Power BI service
 Before you can sign in to Power BI, you'll need an account. To get a free trial, go to <a href="https://go.microsoft.com/fwlink/?linkid=2101313" target="_blank">app.powerbi.com</a> and sign up with your email address. 
 
-For detailed steps on setting up an account, see [Sign in to Power BI service](https://docs.microsoft.com/power-bi/consumer/end-user-sign-in).
+For detailed steps on setting up an account, see [Sign in to Power BI service](/power-bi/consumer/end-user-sign-in).
 
 ## Download sample data
 To follow along with the examples in the videos and on the pages, download the sample Excel workbook <a href="https://go.microsoft.com/fwlink/?linkid=2114225" target="_blank">**here**</a> and import into Power BI Desktop (**Get Data > Excel**).

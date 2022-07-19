@@ -30,7 +30,9 @@ roles:
 products: 
 - power-platform 
 - power-bi 
-units: 
+subjects:
+- data-visualization
+units:
 - learn-bizapps.power-bi-effective-ui.1-introduction 
 - learn-bizapps.power-bi-effective-ui.2-design-reports 
 - learn-bizapps.power-bi-effective-ui.3-create-report 
@@ -40,4 +42,4 @@ units:
 - learn-bizapps.power-bi-effective-ui.7-check 
 - learn-bizapps.power-bi-effective-ui.8-summary 
 badge: 
-  uid: learn-bizapps.power-bi-effective-ui.badge 
+  uid: learn-bizapps.power-bi-effective-ui.badge

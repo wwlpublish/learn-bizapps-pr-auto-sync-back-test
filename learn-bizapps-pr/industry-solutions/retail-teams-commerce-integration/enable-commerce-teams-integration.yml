@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-teams-commerce-integration.enable-commerce-teams-integration
+title: Exercise 2 - Enable Commerce and Teams integration
+metadata:
+  title: Exercise 2 - Enable Commerce and Teams integration
+  description: Follow the steps to enable integration between Commerce and Teams.
+  ms.date: 04/28/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-mscloud-retail
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/enable-commerce-teams-integration.md)]

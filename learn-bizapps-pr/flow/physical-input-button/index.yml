@@ -36,7 +36,9 @@ roles:
 products:  
 - power-automate
 - power-platform 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.physical-input-button.1-introduction-uses 
 - learn-bizapps.physical-input-button.2-flic-app 
 - learn-bizapps.physical-input-button.3-trigger 
@@ -47,4 +49,4 @@ units:
 - learn-bizapps.physical-input-button.8-check 
 - learn-bizapps.physical-input-button.9-summary 
 badge: 
-  uid: learn-bizapps.physical-input-button.badge 
+  uid: learn-bizapps.physical-input-button.badge

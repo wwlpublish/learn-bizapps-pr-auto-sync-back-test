@@ -34,6 +34,8 @@ products:
 - dotnet
 - power-apps
 - power-platform
+subjects:
+- custom-app-development
 modules:
 - learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev
 - learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer

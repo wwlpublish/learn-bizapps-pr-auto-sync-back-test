@@ -34,6 +34,9 @@ roles:
 products: 
   - power-platform
   - power-apps
+subjects:
+- productivity
+- custom-app-development
 units:
   - learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.1-meet-the-team
   - learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.2-tech-intensity

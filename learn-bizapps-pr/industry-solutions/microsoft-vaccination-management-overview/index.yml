@@ -25,7 +25,9 @@ roles:
 - administrator   
 products: 
 - industry-solutions
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.microsoft-vaccination-management-overview.1-introduction 
 - learn-bizapps.microsoft-vaccination-management-overview.2-address-global-vaccination-needs 
 - learn-bizapps.microsoft-vaccination-management-overview.3-architecture-capabilities-personas 
@@ -33,4 +35,4 @@ units:
 - learn-bizapps.microsoft-vaccination-management-overview.5-check 
 - learn-bizapps.microsoft-vaccination-management-overview.6-summary 
 badge: 
-  uid: learn-bizapps.microsoft-vaccination-management-overview.badge 
+  uid: learn-bizapps.microsoft-vaccination-management-overview.badge

@@ -27,7 +27,9 @@ roles:
 products: 
 - industry-solutions 
 - mscloud-healthcare
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.healthcare-care-management.1-introduction 
 - learn-bizapps.healthcare-care-management.2-explore-data-model 
 - learn-bizapps.healthcare-care-management.3-navigate-application 
@@ -35,4 +37,4 @@ units:
 - learn-bizapps.healthcare-care-management.5-check 
 - learn-bizapps.healthcare-care-management.6-summary 
 badge: 
-  uid: learn-bizapps.healthcare-care-management.badge 
+  uid: learn-bizapps.healthcare-care-management.badge

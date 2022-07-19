@@ -29,6 +29,8 @@ products:
 - dynamics-365
 - mscloud-financial
 - industry-solutions
+subjects:
+- modern-work
 units:
 - learn-bizapps.financial-services-collaboration-manager.1-introduction
 - learn-bizapps.financial-services-collaboration-manager.2-explore-collaboration-toolkit

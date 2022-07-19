@@ -16,7 +16,7 @@ Now that you are in your chosen environment, add a database by selecting **Add d
 
 Creating your database might take up to one minute; afterward, you can continue to the next steps.
 
-If you are using a trial environment, consider setting up a profile in your browser to prevent from being signed out of your existing Microsoft account.
+If you are using a trial environment, consider setting up a profile in your browser to prevent you from being signed out of your existing Microsoft account.
 
 ## Software installation
 

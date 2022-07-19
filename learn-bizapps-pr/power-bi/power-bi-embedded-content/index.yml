@@ -33,7 +33,9 @@ roles:
 products: 
 - power-apps
 - power-bi
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.power-bi-embedded-content.introduction 
 - learn-bizapps.power-bi-embedded-content.reports 
 - learn-bizapps.power-bi-embedded-content.other-content-types 
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.power-bi-embedded-content.check 
 - learn-bizapps.power-bi-embedded-content.summary 
 badge: 
-  uid: learn-bizapps.power-bi-embedded-content.badge 
+  uid: learn-bizapps.power-bi-embedded-content.badge

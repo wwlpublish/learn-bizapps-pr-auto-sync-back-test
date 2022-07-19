@@ -23,6 +23,8 @@ roles:
 products:
 - industry-solutions
 - mscloud-nonprofit
+subjects:
+- modern-work
 modules:
 - learn-bizapps.get-started-volunteer-management-engagement
 - learn-bizapps.manage-engagement-opportunities-volunteer-management
@@ -33,4 +35,3 @@ modules:
 - learn-bizapps.integrate-volunteer-management-engagement-cloud-nonprofit
 trophy:
   uid: learn.volunteer-management-nonprofit.trophy
-

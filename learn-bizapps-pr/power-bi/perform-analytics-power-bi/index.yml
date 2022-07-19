@@ -3,7 +3,7 @@ uid: learn-bizapps.perform-analytics-power-bi
 metadata: 
  title: Perform advanced analytics in Power BI 
  description: You will learn how to use Power BI to perform data analytical functions, how to identify outliers in your data, how to group data together, and how to bin data for analysis. You will also learn how to perform time series analysis. Finally, you will work with advanced analytic features of Power BI, such as Quick Insights, AI Insights, and the Analyze feature.
- ms.date: 06/30/2020  
+ ms.date: 05/04/2022
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
@@ -32,7 +32,9 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.perform-analytics-power-bi.1-introduction 
 - learn-bizapps.perform-analytics-power-bi.2-statistical-summary 
 - learn-bizapps.perform-analytics-power-bi.3-visuals 
@@ -46,4 +48,4 @@ units:
 - learn-bizapps.perform-analytics-power-bi.11-check 
 - learn-bizapps.perform-analytics-power-bi.12-summary 
 badge: 
-  uid: learn-bizapps.perform-analytics-power-bi.badge 
+  uid: learn-bizapps.perform-analytics-power-bi.badge

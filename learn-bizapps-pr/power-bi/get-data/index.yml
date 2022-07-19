@@ -31,7 +31,9 @@ roles:
 products:   
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.get-data.1-introduction 
 - learn-bizapps.get-data.2-data-files 
 - learn-bizapps.get-data.3-relational-data 
@@ -45,4 +47,4 @@ units:
 - learn-bizapps.get-data.10-check 
 - learn-bizapps.get-data.11-summary 
 badge: 
-  uid: learn-bizapps.get-data.badge 
+  uid: learn-bizapps.get-data.badge

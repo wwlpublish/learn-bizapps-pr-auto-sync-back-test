@@ -18,6 +18,6 @@ Model-driven design uses metadata-driven architecture so that designers can cust
 Defining and enforcing consistent business processes is a key aspect of model-driven app design. Consistent processes help ensure that your app users can focus on their work and not worry about having to remember to perform a set of manual steps. Processes can be simple or complex, and they often change over time.
 
 ### Build the app
-After modeling data and defining processes, you build your app by selecting and setting up the components you need in the App Designer.
+After modeling data and defining processes, you build your app by selecting and setting up the pages you need in the App Designer.
 
-![Screenshot of App Designer used to build your app.](../media/app-designer.png)
+![Screenshot of the Site Map Designer view.](../media/updated-new-sitemap.png)

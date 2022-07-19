@@ -31,7 +31,9 @@ roles:
 products:  
 - power-platform
 - power-bi 
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.power-bi-tableau-analytics.1-introduction 
 - learn-bizapps.power-bi-tableau-analytics.2-ai-visuals 
 - learn-bizapps.power-bi-tableau-analytics.3-analytics-pane 
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.power-bi-tableau-analytics.7-check 
 - learn-bizapps.power-bi-tableau-analytics.8-summary 
 badge: 
-  uid: learn-bizapps.power-bi-tableau-analytics.badge 
+  uid: learn-bizapps.power-bi-tableau-analytics.badge

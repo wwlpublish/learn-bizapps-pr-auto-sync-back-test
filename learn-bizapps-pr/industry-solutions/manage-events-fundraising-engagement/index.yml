@@ -28,7 +28,9 @@ roles:
 products: 
 - industry-solutions
 - mscloud-nonprofit
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.manage-events-fundraising-engagement.1-introduction 
 - learn-bizapps.manage-events-fundraising-engagement.2-event-management 
 - learn-bizapps.manage-events-fundraising-engagement.3-event-setup 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.manage-events-fundraising-engagement.7-check 
 - learn-bizapps.manage-events-fundraising-engagement.8-summary 
 badge: 
-  uid: learn-bizapps.manage-events-fundraising-engagement.badge 
+  uid: learn-bizapps.manage-events-fundraising-engagement.badge

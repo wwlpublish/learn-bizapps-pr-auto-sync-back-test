@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.financial-training-environment-preparation.install-configure-prerequisites
+title: Deploy and configure prerequisite components
+metadata:
+  title: Deploy and configure prerequisite components
+  description: Follow the steps to deploy and configure prerequisite components.
+  ms.date: 05/11/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-industry-solutions
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/install-configure-prerequisites.md)]

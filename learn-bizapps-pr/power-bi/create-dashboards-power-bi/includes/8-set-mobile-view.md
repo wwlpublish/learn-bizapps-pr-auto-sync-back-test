@@ -21,4 +21,4 @@ This selection will take you to the following view, where you can choose which t
 
 You can also resize and reorient the tiles and visuals in whichever order you want. This phone view is customizable for each person who uses the dashboard; selecting **Phone view** will allow you to create a new view that you can see on your phone when signing in to Power BI service.
 
-For more information, see [Optimize a dashboard for mobile phones](https://docs.microsoft.com/power-bi/create-reports/service-create-dashboard-mobile-phone-view/?azure-portal=true).
+For more information, see [Optimize a dashboard for mobile phones](/power-bi/create-reports/service-create-dashboard-mobile-phone-view?azure-portal=true).

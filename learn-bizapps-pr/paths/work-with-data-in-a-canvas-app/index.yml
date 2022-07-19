@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.work-with-data-in-a-canvas-app
 metadata:
   title: Work with data in a Power Apps canvas app
@@ -24,10 +24,11 @@ roles:
 products: 
 - power-platform
 - power-apps
+subjects:
+- custom-app-development
 modules:
 - learn-bizapps.work-with-external-data
 - learn-bizapps.shape-data
 - learn-bizapps.write-data
 trophy:
   uid: learn.work-with-data-in-a-canvas-app.trophy
-

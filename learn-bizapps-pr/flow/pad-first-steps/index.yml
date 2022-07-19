@@ -30,7 +30,9 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.pad-first-steps.1-introduction 
 - learn-bizapps.pad-first-steps.2-console-overview 
 - learn-bizapps.pad-first-steps.3-flow-designer-overview 
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.pad-first-steps.6-check-knowledge 
 - learn-bizapps.pad-first-steps.7-summary 
 badge: 
-  uid: learn-bizapps.pad-first-steps.badge 
+  uid: learn-bizapps.pad-first-steps.badge

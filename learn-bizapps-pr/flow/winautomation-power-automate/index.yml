@@ -33,11 +33,13 @@ roles:
 products:  
 - power-automate
 - power-platform
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.winautomation-power-automate.1-introduction 
 - learn-bizapps.winautomation-power-automate.2-run-winautomation-processes-power-automate 
 - learn-bizapps.winautomation-power-automate.3-exercise-create-flow-call-winautomation 
 - learn-bizapps.winautomation-power-automate.4-check-your-knowledge 
 - learn-bizapps.winautomation-power-automate.5-summary 
 badge: 
-  uid: learn-bizapps.winautomation-power-automate.badge 
+  uid: learn-bizapps.winautomation-power-automate.badge

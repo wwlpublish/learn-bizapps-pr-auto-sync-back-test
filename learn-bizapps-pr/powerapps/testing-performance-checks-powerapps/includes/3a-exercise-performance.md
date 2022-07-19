@@ -96,4 +96,4 @@ This hands-on lab shows you how to use the Concurrent function to test performan
 
     ![Screenshot of the collection and concurent buttons.](../media/exercise-2-performance-concurrent.png)
 
- You see that adding the **Concurrent** function improved the performance of the **OnStart** collection process. Keep in mind because you can't predict the order in which formulas within the Concurrent function start and end. The Concurrent function shouldn't contain dependencies on other formulas within the same Concurrent function.
+ You see that adding the **Concurrent** function improved the performance of the **OnStart** collection process. Keep in mind that you can't predict the order in which formulas within the Concurrent function start and end. The Concurrent function shouldn't contain dependencies on other formulas within the same Concurrent function.

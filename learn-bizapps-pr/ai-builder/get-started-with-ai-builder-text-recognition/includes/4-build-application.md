@@ -14,7 +14,7 @@ Your next task is to give users the ability to automatically retrieve the text l
 
 1. From **Insert > AI Builder**, select **Text recognizer (preview)**. This control allows you to take or upload a picture and automatically recognizes the container identifier.
 
-    ![A I Builder dropped down to show Business card reader, Form processor, Object detector, and Text recognizer controls.](../media/image9.png)
+    ![A I Builder dropped down to show Business card reader, Form processor, Object detector, and Text recognizer controls.](../media/image-9.png)
 2. Resize the control to fit in the screen.
 
 ## Provide feedback about recognized text
@@ -35,13 +35,13 @@ On the right pane, select **Edit Fields** and enter the word **text**, which con
 
 To make the field more meaningful, change the **FieldDisplayName** property of **text\_column1** to **All recognized texts:**, as shown in the following image.
 
-![Screenshot of the Text recognizer control has a New image button, Selected text box, and All recognized texts.](../media/image10.png)
+![Screenshot of the Text recognizer control has a New image button, Selected text box, and All recognized texts.](../media/image-10.png)
 
 ## Test that the application works properly
 
 Select the **run** button on the right side of the screen.
 
-![Screenshot of the toolbar that includes the Run button.](../media/image11.png)
+![Screenshot of the toolbar that includes the Run button.](../media/image-11.png)
 
 To analyze an image, select **+ New image** and then select an image from your disk. You can also take a picture with your mobile device.
 
@@ -51,7 +51,7 @@ All recognized text should be visible in the table beneath the image. You can al
 
 The selected text will now appear in the **Selected text:** field.
 
-![Screenshot of an image with various handwritten fonts with All recognized texts in a list below it.](../media/image12.png)
+![Screenshot of an image with various handwritten fonts with All recognized texts in a list below it.](../media/image-12.png)
 
 AI Builder Text recognition is able to recognize various printed character fonts and handwritten text.
 

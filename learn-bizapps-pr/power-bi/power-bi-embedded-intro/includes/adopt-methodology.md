@@ -10,12 +10,12 @@ First, you need to have Power BI content ready to embed. Preparing content invol
 Second, you need to create an *app registration* in Azure AD. The app registration allows Azure AD to know how to issue tokens, which will grant access to services and resources. Other Azure AD setup might be required, depending on the embedding identity of your app.
 
 > [!NOTE]
-> To learn about embedding identities and app security setup, work through the Set up permissions to embed Power BI content module.
+> To learn about embedding identities and app security setup, work through the [Set up permissions to embed Power BI content](/learn/modules/power-bi-embedded-permissions-content/?azure-portal=true) module.
 
 Next, you'll develop or extend your app solution with embedding code. This process involves importing specific NuGet packages. The NuGet packages help with server-side requirements to authenticate with Azure AD, generate tokens, and discover Power BI content. The actual embedding of Power BI content happens client-side. A client API operation embeds a specific Power BI content item inside a `div` element.
 
 > [!NOTE]
-> To learn about developing embedding logic, work through the Embed Power BI content module.
+> To learn about developing embedding logic, work through the [Embed Power BI content](/learn/modules/power-bi-embedded-content/?azure-portal=true) module.
 
 The client APIs do much more than embed Power BI content. They support many operations to help you seamlessly integrate and enhance content. Capabilities include:
 
@@ -26,6 +26,6 @@ The client APIs do much more than embed Power BI content. They support many oper
 - **Report visual creation** - Your app can allow users to create report visuals or personalize existing report visuals.
 
 > [!NOTE]
-> To learn about the Power BI client APIs, work through the Integrate content with the Power BI client APIs module.
+> To learn about the Power BI client APIs, work through the [Integrate content with the Power BI client APIs](/learn/modules/power-bi-embedded-integrate/?azure-portal=true) module.
 
 

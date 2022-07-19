@@ -31,6 +31,8 @@ roles:
 products:
 - power-platform
 - power-virtual-agents
+subjects:
+- chatbot
 units:
 - learn-bizapps.implement-power-virtual-agents.1-introduction
 - learn-bizapps.implement-power-virtual-agents.2-environments

@@ -26,11 +26,13 @@ roles:
 products: 
 - power-platform
 - power-bi 
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.power-bi-admin-environment.1-introduction 
 - learn-bizapps.power-bi-admin-environment.2-user-accounts 
 - learn-bizapps.power-bi-admin-environment.3-licensing 
 - learn-bizapps.power-bi-admin-environment.4-check 
 - learn-bizapps.power-bi-admin-environment.5-summary 
 badge: 
-  uid: learn-bizapps.power-bi-admin-environment.badge 
+  uid: learn-bizapps.power-bi-admin-environment.badge

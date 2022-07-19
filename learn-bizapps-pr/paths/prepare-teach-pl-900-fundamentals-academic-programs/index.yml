@@ -1,0 +1,31 @@
+### YamlMime:LearningPath
+uid: learn.wwl.prepare-teach-pl-900-fundamentals-academic-programs
+metadata:
+  title: PL-900
+  description: Prepare to teach PL-900 Microsoft Power Platform fundamentals in academic programs
+  ms.date: 05/20/2022
+  author: wwlpublish
+  ms.author: tsheppard
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+title: Prepare to teach PL-900 Microsoft Power Platform fundamentals in academic programs
+prerequisites: |
+  None
+summary: |
+  Learn about the Microsoft Learn for Educators program and how to best deliver its content to your students. Prepare to deliver Microsoft’s Power Platform fundamentals.
+iconUrl: /learn/achievements/generic-trophy.svg
+levels:
+- beginner
+roles:
+- higher-ed-educator
+products:
+- power-platform
+modules:
+- learn.wwl.introduction-microsoft-learn-educators-program
+- learn.wwl.onboard-microsoft-learn-educators-program
+- learn.wwl.microsoft-learn-educators-course-preparation
+- learn.wwl.microsoft-learn-educators-course-plan
+- learn.wwl.learn-best-practices-from-microsoft-technical-trainers
+- learn.wwl.get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals
+trophy:
+  uid: learn.wwl.prepare-teach-pl-900-fundamentals-academic-programs.trophy

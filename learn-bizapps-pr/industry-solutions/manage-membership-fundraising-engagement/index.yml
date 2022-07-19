@@ -27,7 +27,9 @@ roles:
 products: 
 - industry-solutions
 - mscloud-nonprofit
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.manage-membership-fundraising-engagement.1-introduction 
 - learn-bizapps.manage-membership-fundraising-engagement.2-membership 
 - learn-bizapps.manage-membership-fundraising-engagement.3-membership-setup 
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.manage-membership-fundraising-engagement.6-check 
 - learn-bizapps.manage-membership-fundraising-engagement.7-summary 
 badge: 
-  uid: learn-bizapps.manage-membership-fundraising-engagement.badge 
+  uid: learn-bizapps.manage-membership-fundraising-engagement.badge

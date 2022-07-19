@@ -29,7 +29,9 @@ roles:
 products: 
 - power-platform
 - power-bi 
-units: 
+subjects:
+- data-visualization
+units:
 - learn-bizapps.power-bi-effective-requirements.1-introduction 
 - learn-bizapps.power-bi-effective-requirements.2-identify 
 - learn-bizapps.power-bi-effective-requirements.3-determine 
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.power-bi-effective-requirements.7-check 
 - learn-bizapps.power-bi-effective-requirements.8-summary 
 badge: 
-  uid: learn-bizapps.power-bi-effective-requirements.badge 
+  uid: learn-bizapps.power-bi-effective-requirements.badge

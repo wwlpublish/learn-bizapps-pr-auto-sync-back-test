@@ -29,7 +29,9 @@ roles:
 products:
 - industry-solutions
 - mscloud-nonprofit
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.moves-management.1-introduction 
 - learn-bizapps.moves-management.2-development 
 - learn-bizapps.moves-management.3-opportunities 
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.moves-management.7-check 
 - learn-bizapps.moves-management.8-summary 
 badge: 
-  uid: learn-bizapps.moves-management.badge 
+  uid: learn-bizapps.moves-management.badge

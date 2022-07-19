@@ -11,15 +11,10 @@ The filter context for **2017 August** contains each of the 31 dates of August,
 
 Time intelligence calculations modify date filter contexts. They can help you answer these time-related questions:
 
--   What's the accumulation of revenue for the year, quarter, or month?
-
--   What revenue was produced for the same period last year?
-
--   What growth in revenue has been achieved over the same period last year?
-
--   How many new customers made their first order in each month?
-
--   What's the inventory stock on-hand value for the company's products?
+- What's the accumulation of revenue for the year, quarter, or month?
+- What revenue was produced for the same period last year?
+- What growth in revenue has been achieved over the same period last year?
+- How many new customers made their first order in each month?
+- What's the inventory stock on-hand value for the company's products?
 
 This module describes how to create time intelligence measures to answer these questions.
-

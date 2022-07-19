@@ -4,7 +4,7 @@ navigate to different screens depending on the control they select. In
 the following example, you will create a three screen app to
 demonstrate the **Navigate** and **Back()** functionality.
 
-1. Go to the [Power Apps Studio](https://make.powerapps.com/?azure-portal=true).
+1. Go to the [Power Apps Studio](https://make.powerapps.com/?azure-portal=true). If you're already using the virtual environment, skip to the next step.
 
 1. Select the **New app** dropdown and choose **Canvas**
 1. A new window will open in your browser, create a name and choose **Tablet layout**. Select **Create**.
@@ -34,8 +34,7 @@ demonstrate the **Navigate** and **Back()** functionality.
 
 	[![Screenshot of the OnSelect property for the back button set to Back() on Screen3.](../media/back-ss.png)](../media/back-ss.png#lightbox)
 
-1.  To test this, put the app in Preview or Play mode and navigate
-    through the app as a user would.
+1.  To test this, select Screen1, and put the app in **Preview** or **Play** mode and navigate through the app as a user would.
 
 As you select each button, notice the subtle visual transitions of each
 ScreenTransition. Remember, the Navigate function can include a

@@ -2,7 +2,7 @@ You can customize button flows by letting the user provide specific details that
 
 You can create a button flow either on the Power Automate website or in the mobile app for Power Automate. For this unit, you'll use the website.
 
-In this exercise, our objective is to search for a template available to create a new **Outlook** task and modify it to match our need.
+In this exercise, our objective is to search for a template available to create a new **Outlook** task and modify it to match our needs.
 
 ## Prerequisites
 
@@ -10,9 +10,11 @@ In this exercise, our objective is to search for a template available to create 
 
 - A basic understanding of Power Automate and experience with creating a flow is recommended.
 
+- A smartphone or tablet with the Power Automate app.
+
 ## Open the template
 
-1. Launch Power Automate and sign in using your organizational account.
+1. From your desktop browser, launch Power Automate and sign in using your organizational account.
 
 1. Select **Templates** and search *Create New Outlook Task*.
 
@@ -37,6 +39,9 @@ You'll notice that this flow already requests more input, but let's add another 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Manually trigger a flow card with the Due date field and "Please enter or select a date (YYYY-MM-DD)" highlighted.](../media/due-date.png)
 
+> [!NOTE]
+> This input does not provide a calendar control for you to select from. You have to add the date in a specific format which is YEAR-MONTH-DAY. Example: 2022-04-04.
+
 ## Customize the task
 
 1. On the **Create a task** card, select the title bar to expand the card.
@@ -47,6 +52,10 @@ You'll notice that this flow already requests more input, but let's add another 
     > ![Screenshot of the Create a task card with the Due Date field highlighted.](../media/task-card-due-date.png)
 
 1. Select **Save**.
+
+Here is what the completed flow looks like
+
+![Screenshot of the completed flow.](../media/manage-user-information-completed-flow.png)
 
 ## Run the flow
 
@@ -74,4 +83,4 @@ You'll now use the mobile app for Power Automate to run the button flow that you
     > [!div class="mx-imgBorder"]
     > ![Screenshot of Activity details with run details for Create new Outlook Task.](../media/run-details.png)
 
-Now you can not only run button flows with the already available information, but also request inputs from the user.
+Now you can not only run button flows with information that is already available but also request inputs from the user.

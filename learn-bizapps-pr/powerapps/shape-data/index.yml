@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.shape-data 
 metadata: 
   title: Shape data in a Power Apps canvas app
@@ -30,7 +30,9 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- data-engineering
+units:
 - learn-bizapps.shape-data.1-filter-data 
 - learn-bizapps.shape-data.2-search-function 
 - learn-bizapps.shape-data.3-combine-data-shaping-functions 
@@ -39,5 +41,4 @@ units:
 - learn-bizapps.shape-data.5-knowledge-check 
 - learn-bizapps.shape-data.6-summary 
 badge: 
-  uid: learn.shape-data.badge 
-
+  uid: learn.shape-data.badge

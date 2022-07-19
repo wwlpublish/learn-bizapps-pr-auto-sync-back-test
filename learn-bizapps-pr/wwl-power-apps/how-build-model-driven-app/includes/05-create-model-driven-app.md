@@ -16,15 +16,9 @@ entities that is available in your Microsoft Power Apps environment.
 
     ![Model-driven app from blank](../media/model-driven-app-from-blank.png)
 
-5.	Select Modern app designer (preview), and click Create.
+5. On the **New model-driven app** page, enter a **name** and **description** for the app. (For example, enter My first app for the name, and this is my first model-driven application for the description.)
 
-    ![Creating a model-driven app with the modern app designer](../media/model-driven-app-preview.png)
-
-6.  On the **New model-driven app** page, enter a **name** and **description**
-    for the app. (*For example, enter My first app for the name, and this is my
-    first model-driven application for the description.*)
-
-7.  After a few minutes, your new app will appear.
+6. After a few minutes, your new app will appear.
 
     ![Model-driven app designer](../media/app-designer-configuration-screen.png)
 
@@ -35,20 +29,16 @@ You can add pages to your app by using the App Designer.
 1.  If necessary, using the navigation on the left, select the **show or hide
     menu names button** (looks like 3 horizontal lines) to show the menu names.
 
-2.  Select **Navigation**.
-
-3.  Select the **Group1** text. On the right-hand side of the screen change the
+2.  Select the **Group1** text. On the right-hand side of the screen change the
     Title to **Customers**.
 
     ![Renaming the customer group](../media/app-designer-rename-group.png)
 
-4.  Under the **Customers** group, select **Subarea1**.
+3. Using the command bar at the top, select the **+ Add Page** button. 
 
-5.  On the right-hand side of the screen set the Content type field to Table.
+4. On the Add Page screen, select **Table based view and form,** then select the **Next** button.
 
-6.  On the **Table** field that appears, select **Account.**
-
-7.  Set the Title field to **Accounts**.
+5. On the Add table view and form pages screen, select **Account** then select the **Add** button.  
 
 ## Add forms and views to your app
 
@@ -59,24 +49,31 @@ forms and views should be used with the application.
 
 2.  Expand **Account** and select **Account** form.
 
-3.  On the right-hand side of the screen, select **Manage forms**.
+3.  On the right-hand side of the screen, select **Add form**.
 
-4.  From the list of Forms that appears, select **Account,** and then select the
-    **Save** button.
+4.  From the list of Forms that appears, select **Account.** 
 
     ![Account main form](../media/account-forms.png)
 
 5.  Under **Pages** on the left, select **Account** view.
 
-6.  On the right-hand side of the screen, select **Manage Views**.
+6.  On the right-hand side of the screen, select **Add view**.
 
-7.  Select the following views:
+7. Select the **My Active Accounts** view. 
 
-    -   My Active Accounts
+8. Select **Add view** again.
 
-    -   Active Accounts
+9. Select **Active Accounts**.
 
-    -   Inactive Accounts
+10. Select **Add view**.
+
+11. Select **Inactive Accounts.**
+
+	- My Active Accounts
+
+	- Active Accounts
+
+	- Inactive Accounts
 
 ## Add Contact page to your app
 
@@ -106,3 +103,6 @@ let’s get ready to use it.
 3.  To test your application, select the **Play** button.
 
     ![Playing the published app](../media/published-app.png)
+
+> [!NOTE]
+> It is possible that you will not have any data in your environment. Select either Account or Contact and add a few sample records to test functionality. 

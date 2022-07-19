@@ -3,7 +3,7 @@ uid: learn-bizapps.gateway-desktop-flow
 metadata: 
  title: Connect a cloud flow to desktop flows in Power Automate for desktop
  description: Learn how to create cloud flows in Microsoft Power Automate for desktop.
- ms.date: 11/01/2021 
+ ms.date: 06/01/2022 
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.gateway-desktop-flow.1-introduction 
 - learn-bizapps.gateway-desktop-flow.2-setup 
 - learn-bizapps.gateway-desktop-flow.3-gateway-connection 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.gateway-desktop-flow.7-check 
 - learn-bizapps.gateway-desktop-flow.8-summary 
 badge: 
-  uid: learn-bizapps.gateway-desktop-flow.badge 
+  uid: learn-bizapps.gateway-desktop-flow.badge

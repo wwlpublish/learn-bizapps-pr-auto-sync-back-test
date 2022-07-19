@@ -32,7 +32,10 @@ products:
 - ai-builder 
 - power-platform
 - power-automate
-units: 
+subjects:
+- artificial-intelligence
+- business-applications
+units:
 - learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.1-introduction 
 - learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.2-prepare-storage
 - learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.3-track-shipment-requests 
@@ -41,4 +44,4 @@ units:
 - learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.6-check 
 - learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.7-summary 
 badge: 
-  uid: learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.badge 
+  uid: learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.badge
