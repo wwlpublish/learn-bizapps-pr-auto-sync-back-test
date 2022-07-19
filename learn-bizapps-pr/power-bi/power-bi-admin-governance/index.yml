@@ -27,7 +27,9 @@ roles:
 products: 
 - power-platform 
 - power-bi 
-units: 
+subjects:
+- information-protection-governance
+units:
 - learn-bizapps.power-bi-admin-governance.1-introduction 
 - learn-bizapps.power-bi-admin-governance.2-elements 
 - learn-bizapps.power-bi-admin-governance.3-configure 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.power-bi-admin-governance.7-check 
 - learn-bizapps.power-bi-admin-governance.8-summary 
 badge: 
-  uid: learn-bizapps.power-bi-admin-governance.badge 
+  uid: learn-bizapps.power-bi-admin-governance.badge

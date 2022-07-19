@@ -29,7 +29,9 @@ products:
 - power-automate
 - power-platform
 - power-virtual-agents
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.project-test-process.1-introduction
 - learn-bizapps.project-test-process.2-plan-go-live
 - learn-bizapps.project-test-process.3-migrate-data

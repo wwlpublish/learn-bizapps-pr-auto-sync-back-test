@@ -32,7 +32,9 @@ roles:
 products:  
 - power-platform
 - power-automate
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.excel-automation.1-introduction
 - learn-bizapps.excel-automation.2-launching-saving-closing
 - learn-bizapps.excel-automation.3-reading-excel-document
@@ -43,4 +45,4 @@ units:
 - learn-bizapps.excel-automation.8-check-knowledge 
 - learn-bizapps.excel-automation.9-summary 
 badge: 
-  uid: learn-bizapps.excel-automation.badge 
+  uid: learn-bizapps.excel-automation.badge

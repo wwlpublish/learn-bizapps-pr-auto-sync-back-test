@@ -29,6 +29,9 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- process-workflow
+- data-management
 units:
 - learn-bizapps.multiple-data-sources.1-introduction
 - learn-bizapps.multiple-data-sources.2-event

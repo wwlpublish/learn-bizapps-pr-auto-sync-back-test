@@ -29,6 +29,8 @@ roles:
 products:
 - power-automate
 - power-platform
+subjects:
+- process-workflow
 units:
 - learn-bizapps.advanced-business-process-flows.1-branching
 - learn-bizapps.advanced-business-process-flows.2-instant

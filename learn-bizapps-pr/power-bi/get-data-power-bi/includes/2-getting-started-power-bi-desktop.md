@@ -1,4 +1,4 @@
-﻿The idea of building and sharing reports is an abstract concept. It will make more sense if you explore Power BI Desktop hands-on. The first step is to launch and explore the user interface (UI). 
+The idea of building and sharing reports is an abstract concept. It will make more sense if you explore Power BI Desktop hands-on. The first step is to launch and explore the user interface (UI). 
 
 In this unit, you will:
 - Launch the Power BI Desktop.
@@ -58,4 +58,4 @@ When you view a published report in the Power BI service, you can choose the **P
 
 You can choose whether to pin the visual to an existing dashboard or to create a new dashboard. 
 
-For more information, see [Report View in Power BI Desktop](https://docs.microsoft.com/power-bi/desktop-report-view/?azure-portal=true).
+For more information, see [Report View in Power BI Desktop](/power-bi/create-reports/desktop-report-view?azure-portal=true).

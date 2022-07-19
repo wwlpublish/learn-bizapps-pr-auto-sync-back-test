@@ -1,4 +1,4 @@
-**The estimated time to complete the lab is 45 minutes**
+**The estimated time to complete the lab is 20 minutes**
 
 In this lab you will create a many-to-many relationship between the **Salesperson** table and the **Sales** table. You will also enforce row-level security to ensure that a salesperson can only analyze sales data for their assigned region(s).
 

@@ -31,7 +31,9 @@ roles:
 products: 
 - industry-solutions 
 - mscloud-financial
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.get-started-cloud-financial-services.1-introduction 
 - learn-bizapps.get-started-cloud-financial-services.2-unified-customer-profile 
 - learn-bizapps.get-started-cloud-financial-services.3-onboarding 
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.get-started-cloud-financial-services.5-check 
 - learn-bizapps.get-started-cloud-financial-services.6-summary 
 badge: 
-  uid: learn-bizapps.get-started-cloud-financial-services.badge 
+  uid: learn-bizapps.get-started-cloud-financial-services.badge

@@ -29,7 +29,9 @@ products:
 - power-platform
 - industry-solutions 
 - mscloud-financial
-units: 
+subjects:
+- customer-relationship-management
+units:
 - learn-bizapps.financial-services-customer-onboarding.1-introduction 
 - learn-bizapps.financial-services-customer-onboarding.2-retail-banking 
 - learn-bizapps.financial-services-customer-onboarding.3-extend-loan-tracker 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.financial-services-customer-onboarding.6-check 
 - learn-bizapps.financial-services-customer-onboarding.7-summary 
 badge: 
-  uid: learn-bizapps.financial-services-customer-onboarding.badge 
+  uid: learn-bizapps.financial-services-customer-onboarding.badge

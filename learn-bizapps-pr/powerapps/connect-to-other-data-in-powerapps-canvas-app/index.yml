@@ -1,4 +1,4 @@
-﻿### YamlMime:Module
+### YamlMime:Module
 uid: learn-bizapps.connect-other-data
 metadata:
   title: Connect to other data in a Power Apps canvas app
@@ -28,6 +28,9 @@ roles:
 products:
 - power-platform
 - power-apps
+subjects:
+- custom-app-development
+- data-management
 units:
 - learn-bizapps.connect-other-data.1-overview-data-sources
 - learn-bizapps.connect-other-data.2-work-with-action-based-data-sources
@@ -36,4 +39,3 @@ units:
 - learn-bizapps.connect-other-data.5-summary
 badge:
   uid: learn.connect-other-data.badge
-

@@ -1,46 +1,49 @@
-### YamlMime:Module 
-uid: learn-bizapps.build-user-experience-portals 
-metadata: 
+### YamlMime:Module
+uid: learn-bizapps.build-user-experience-portals
+metadata:
  title: Build user experience in Power Apps portals
  description: A portal maker should consider specific details when designing and building portals. Implementing a portal solution requires knowledge of the specific business requirements and needs of the customer. Along with being simplistic and well-designed, a successful portal should provide functionality in consideration of geographical location, language, and accessibility needs. Additionally, portal makers should ensure that portal metadata is backed up to source control and deployed to test and production environments in a consistent and structured way.
- ms.date: 06/01/2021 
- author: DaveBeasley  
- ms.author: dbeasley  
- ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ ms.date: 07/12/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps
 title: Build user experience in Power Apps portals
-summary: |  
-  [!include[](../includes/module-banner.md)] 
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
   A portal maker should consider specific details when designing and building portals. Implementing a portal solution requires knowledge of the specific business requirements and needs of the customer. Along with being simplistic and well-designed, a successful portal should provide functionality in consideration of geographical location, language, and accessibility needs. Additionally, portal makers should ensure that portal metadata is backed up to source control and deployed to test and production environments in a consistent and structured way.
-abstract: |  
-    In this module, you will: 
+abstract: |
+    In this module, you will:
     - Recognize business requirements that you can meet with portal functionality and those that require deeper development or consideration of other technology.
     - Learn how to design a portal, including page placement, site map best practices, and content planning.
     - Identify how to ensure that portals are accessible.
     - Learn how to configure and manage a multilingual portal.
 prerequisites: |
-    - Basic understanding, usage, and navigation of a Microsoft Power Apps portal. 
-    - Background in design and user experience and familiarity with accessibility standards such as Web Content Accessibility Guidelines (WCAG) will also be beneficial. 
+    - Basic understanding, usage, and navigation of a Microsoft Power Apps portal.
+    - Background in design and user experience and familiarity with accessibility standards such as Web Content Accessibility Guidelines (WCAG) will also be beneficial.
     - Familiarity with application lifecycle management (ALM) and Azure DevOps practices would be beneficial.
-iconUrl: /learn/achievements/build-user-experience-portals.svg  
-levels:  
-- intermediate   
-roles:  
-- maker 
+iconUrl: /learn/achievements/build-user-experience-portals.svg
+levels:
+- intermediate
+roles:
+- maker
 - functional-consultant
-- administrator 
-products:  
-- power-platform  
-- power-apps 
-units: 
-- learn-bizapps.build-user-experience-portals.1-introduction 
-- learn-bizapps.build-user-experience-portals.2-multi-lingual 
-- learn-bizapps.build-user-experience-portals.3-reusable-content 
-- learn-bizapps.build-user-experience-portals.4-site-navigation 
-- learn-bizapps.build-user-experience-portals.5-portal-themes 
-- learn-bizapps.build-user-experience-portals.6-content-search 
-- learn-bizapps.build-user-experience-portals.7-compliance 
-- learn-bizapps.build-user-experience-portals.8-check 
-- learn-bizapps.build-user-experience-portals.9-summary 
-badge: 
-  uid: learn-bizapps.build-user-experience-portals.badge 
+- administrator
+products:
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.build-user-experience-portals.1-introduction
+- learn-bizapps.build-user-experience-portals.2-multi-lingual
+- learn-bizapps.build-user-experience-portals.3-reusable-content
+- learn-bizapps.build-user-experience-portals.4-site-navigation
+- learn-bizapps.build-user-experience-portals.5-portal-themes
+- learn-bizapps.build-user-experience-portals.6-content-search
+- learn-bizapps.build-user-experience-portals.7-compliance
+- learn-bizapps.build-user-experience-portals.8-check
+- learn-bizapps.build-user-experience-portals.9-summary
+badge:
+  uid: learn-bizapps.build-user-experience-portals.badge

@@ -27,6 +27,8 @@ roles:
 products:
 - industry-solutions
 - mscloud-healthcare
+subjects:
+- modern-work
 units:
 - learn-bizapps.virtual-visits.1-introduction
 - learn-bizapps.virtual-visits.2-configure-app

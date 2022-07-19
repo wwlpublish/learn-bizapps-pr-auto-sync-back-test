@@ -26,7 +26,7 @@ They will also allow you to provide additional information when you are explaini
 > [!TIP]
 > Take a moment to visit these sites, review their content, and bookmark them for future use.
 
-[DAX Overview](https://docs.microsoft.com/dax/)  
-[DAX Function Reference](https://docs.microsoft.com/dax/dax-function-reference)  
-[M Language Function Reference](https://docs.microsoft.com/powerquery-m/power-query-m-function-reference)  
+[DAX Overview](/dax/)  
+[DAX Function Reference](/dax/dax-function-reference)  
+[M Language Function Reference](/powerquery-m/power-query-m-function-reference)  
 [Enable PowerPivot For Excel Add-In](https://support.office.com/article/start-the-power-pivot-add-in-for-excel-a891a66d-36e3-43fc-81e8-fc4798f39ea8)

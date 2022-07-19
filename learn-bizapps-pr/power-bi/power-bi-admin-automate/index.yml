@@ -29,7 +29,9 @@ roles:
 products:  
 - power-platform
 - power-bi 
-units: 
+subjects:
+- data-management
+units:
 - learn-bizapps.power-bi-admin-automate.1-introduction 
 - learn-bizapps.power-bi-admin-automate.2-rest-api 
 - learn-bizapps.power-bi-admin-automate.3-cmdlets-powershell 
@@ -40,4 +42,4 @@ units:
 - learn-bizapps.power-bi-admin-automate.8-check 
 - learn-bizapps.power-bi-admin-automate.9-summary 
 badge: 
-  uid: learn-bizapps.power-bi-admin-automate.badge 
+  uid: learn-bizapps.power-bi-admin-automate.badge

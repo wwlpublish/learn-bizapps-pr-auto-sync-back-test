@@ -28,7 +28,9 @@ roles:
 products:  
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-modeling
+units:
 - learn-bizapps.dax-power-bi-models.1-introduction 
 - learn-bizapps.dax-power-bi-models.2-star-schema-design 
 - learn-bizapps.dax-power-bi-models.3-analytic-queries 
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.dax-power-bi-models.5-check 
 - learn-bizapps.dax-power-bi-models.6-summary 
 badge: 
-  uid: learn-bizapps.dax-power-bi-models.badge 
+  uid: learn-bizapps.dax-power-bi-models.badge

@@ -1,43 +1,46 @@
-### YamlMime:Module 
-uid: learn-bizapps.integrate-common-data-service 
-metadata: 
+### YamlMime:Module
+uid: learn-bizapps.integrate-common-data-service
+metadata:
  title: Integrate Power Apps portals with Microsoft Dataverse
- description: The ability to find and interact with Dataverse data on a website is one of the core benefits of implementing a Power Apps portal. Several methods are available for you to display Dataverse data. Learning and knowing about these different options will help you have successful portal implementations. This module will focus on the techniques that you can use to configure entity lists, entity forms, and web forms to build powerful web applications.
- ms.date: 06/01/2021 
- author: DaveBeasley  
- ms.author: dbeasley  
- ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ description: The ability to find and interact with Dataverse data on a website is one of the core benefits of implementing a Power Apps portal. Several methods are available for you to display Dataverse data. Learning and knowing about these different options will help you have successful portal implementations. This module will focus on the techniques that you can use to configure lists, basic forms, and advanced forms to build powerful web applications.
+ ms.date: 07/12/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps
 title: Integrate Power Apps portals with Dataverse
-summary: |  
-  [!include[](../includes/module-banner.md)] 
-  The ability to find and interact with Dataverse data on a website is one of the core benefits of implementing a Power Apps portal. Several methods are available for you to display Dataverse data. Learning and knowing about these different options will help you have successful portal implementations. This module will focus on the techniques that you can use to configure entity lists, entity forms, and web forms to build powerful web applications.
-abstract: |  
-    In this module, you will: 
-    - Configure entity lists to display Dataverse data in different ways and allow portal users to interact with the data by using various techniques.
-    - Implement entity forms to allow creating, reading, and updating of Dataverse records.
-    - Build a web form process to allow for complex and decision-based data entry processes.
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  The ability to find and interact with Dataverse data on a website is one of the core benefits of implementing a Power Apps portal. Several methods are available for you to display Dataverse data. Learning and knowing about these different options will help you have successful portal implementations. This module will focus on the techniques that you can use to configure lists, basic forms, and advanced forms to build powerful web applications.
+abstract: |
+    In this module, you will:
+    - Configure lists to display Dataverse data in different ways and allow portal users to interact with the data by using various techniques.
+    - Implement basic forms to allow creating, reading, and updating of Dataverse rows.
+    - Build an advanced form process to allow for complex and decision-based data entry processes.
     - Trigger classic Dataverse workflows from the portal.
     - Combine the various Dataverse portal components to build powerful web applications.
 prerequisites: A basic understanding of how to navigate and configure Power Apps portals and knowledge of how to customize and configure model-driven apps. Knowledge of the portal entities and concepts and familiarity with Power Apps portals Studio would be beneficial.
-iconUrl: /learn/achievements/integrate-common-data-service.svg  
-levels:  
-- intermediate   
-roles:  
+iconUrl: /learn/achievements/integrate-common-data-service.svg
+levels:
+- intermediate
+roles:
 - maker
 - functional-consultant
-- developer 
-products:  
+- developer
+products:
 - power-platform
-- power-apps 
-units: 
-- learn-bizapps.integrate-common-data-service.1-introduction 
-- learn-bizapps.integrate-common-data-service.2-table-forms 
-- learn-bizapps.integrate-common-data-service.3-web-form-processes 
-- learn-bizapps.integrate-common-data-service.4-web-form-configure 
-- learn-bizapps.integrate-common-data-service.5-extend-entity-lists-forms 
-- learn-bizapps.integrate-common-data-service.6-exercise 
-- learn-bizapps.integrate-common-data-service.7-check 
-- learn-bizapps.integrate-common-data-service.8-summary 
-badge: 
-  uid: learn-bizapps.integrate-common-data-service.badge 
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.integrate-common-data-service.1-introduction
+- learn-bizapps.integrate-common-data-service.2-table-forms
+- learn-bizapps.integrate-common-data-service.3-web-form-processes
+- learn-bizapps.integrate-common-data-service.4-web-form-configure
+- learn-bizapps.integrate-common-data-service.5-extend-entity-lists-forms
+- learn-bizapps.integrate-common-data-service.6-exercise
+- learn-bizapps.integrate-common-data-service.7-check
+- learn-bizapps.integrate-common-data-service.8-summary
+badge:
+  uid: learn-bizapps.integrate-common-data-service.badge

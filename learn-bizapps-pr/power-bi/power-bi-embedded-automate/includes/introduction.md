@@ -1,16 +1,18 @@
 Developing an automation solution is useful when you need to reproduce management operations. Automation results in faster and more accurate solution management.
 
-When developing apps that embed Power BI content, there are many opportunities to automate, including lifecycle management, onboarding new tenants (customers) in a multi-tenancy app, and various IT operations.
+When you're developing apps that embed Power BI content, many opportunities are available for you to automate, including life cycle management, adding new tenants (customers) in a multi-tenancy app, and various IT operations.
 
-There are three automation libraries that you can use:
+Three automation libraries that you can use are:
 
 -   Microsoft Graph
--   Power BI REST API
+
+-   Microsoft Power BI REST API
+
 -   Power BI Embedded Azure Resource Manager (ARM) REST API
 
 ## Microsoft Graph
 
-[Microsoft Graph](/graph/overview/?azure-portal=true) provides a unified programmability model. It exposes REST APIs and a client library to access data and perform operations on various Microsoft cloud services. Of relevance to automating Power BI solutions, Microsoft Graph can set up Microsoft Azure Directory (Azure AD) security objects. Your app, or PowerShell scripts, can invoke Graph API calls.
+[Microsoft Graph](/graph/overview/?azure-portal=true) provides a unified programmability model. It exposes REST APIs and a client library to access data and perform operations on various Microsoft cloud services. Of relevance to automating Power BI solutions, Microsoft Graph can set up Microsoft Azure Active Directory (Azure AD) security objects. Your app, or PowerShell scripts, can invoke Graph API calls.
 
 The following script shows how to install the Azure AD PowerShell module for Graph in PowerShell. For more information, see [Installing the Azure AD Module](/powershell/azure/active-directory/install-adv2?view=azureadps-2.0/?azure-portal=true).
 
@@ -18,15 +20,19 @@ The following script shows how to install the Azure AD PowerShell module for Gra
 Install-Module -Name AzureAD
 ```
 
-The following code blocks contribute to the first part of a PowerShell setup script to set up security objects for a new app that embeds Power BI content. Specifically, the code blocks show how to:
+The following code blocks contribute to the first part of a PowerShell setup script to set up security objects for a new app that embeds Power BI content. Specifically, the code blocks show how to complete the following actions (in order):
 
 1.  Generate an Azure AD app secret.
+
 1.  Create an Azure AD app registration.
+
 1.  Create the Azure AD app registration's service principal.
+
 1.  Assign the current user as the Azure AD app registration owner.
+
 1.  Add the service principal to the **Power BI Apps** security group.
 
-The first code block initializes two variables. The `$appDisplayName` variable stores the new Azure AD app name; the `$adSecurityGroupName` variable stores the name of an existing security group. In the Power BI tenant settings, a Power BI admin has already assigned this security group when allowing the use of service principals.
+The first code block initializes two variables. The `$appDisplayName` variable stores the new Azure AD app name, and the `$adSecurityGroupName` variable stores the name of an existing security group. In the Power BI tenant settings, a Power BI admin has already assigned this security group when allowing the use of service principals.
 
 ```powershell
 # The new app display name
@@ -48,7 +54,7 @@ $userAccountId = $authResult.Account.Id
 $user = Get-AzureADUser -ObjectId $userAccountId
 ```
 
-The next code block generates an app secret that will become the password for an Azure AD app registration. The app secret it based on a GUID, and it is valid for one year from the current date.
+The next code block generates an app secret that will become the password for an Azure AD app registration. The app secret is based on a GUID, and it's valid for one year from the current date.
 
 ```powershell
 # Generate an app secret
@@ -94,37 +100,45 @@ Add-AzureADGroupMember -ObjectId $($adSecurityGroup.ObjectId) `
     -RefObjectId $($serviceServicePrincipalObjectId)
 ```
 
-The following script variables contain useful information for your app. Their values should be output and added to the app's config file.
+The following script variables contain useful information for your app. Their values should be written and added to the app's .config file.
 
 -   `$tenantDomain` - Required to authenticate with Azure AD.
+
 -   `$tenantId` - Required to authenticate with Azure AD.
+
 -   `$appId` - Required to generate an Azure AD access token.
--   `$appSecret` - Required to generate an Azure AD access token. However, secrets shouldn't be deployed with the app. Instead, they should be accessed through a controlled means like environment variables or Azure Key Vault. For more information, see [Safe storage of app secrets in development in ASP.NET Core](/aspnet/core/security/app-secrets/?azure-portal=true).
+
+-   `$appSecret` - Required to generate an Azure AD access token. However, secrets shouldn't be deployed with the app. Instead, they should be accessed through a controlled means like environment variables or Microsoft Azure Key Vault. For more information, see [Safe storage of app secrets in development in ASP.NET Core](/aspnet/core/security/app-secrets/?azure-portal=true).
 
 The `$serviceServicePrincipalObjectId` variable stores a reference to the new service principal. In the next topic, a continuation of the script will use this variable.
 
 ## Power BI REST API
 
-The [Power BI REST API](/rest/api/power-bi/?azure-portal=true) provides service endpoints for embedding, administration, governance, and user resources. Of relevance to automating Power BI solutions, the Power BI REST API can:
+The [Power BI REST API](/rest/api/power-bi/?azure-portal=true) provides service endpoints for embedding, administration, governance, and user resources. Of relevance to automating Power BI solutions, the Power BI REST API can complete the following tasks:
 
--   Create workspaces.
--   Assign a workspace to a capacity.
--   Set up workspace access.
--   Create and set up Power BI content.
+-   Create workspaces
 
-The following script shows how to install the Power BI management module in PowerShell. For more information, see [Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell Core](/powershell/power-bi/overview?view=powerbi-ps/?azure-portal=true).
+-   Assign a workspace to a capacity
+
+-   Set up workspace access
+
+-   Create and set up Power BI content
+
+The following script shows how to install the Power BI management module in PowerShell. For more information, see [Microsoft Power BI cmdlets for Windows PowerShell and PowerShell Core](/powershell/power-bi/overview?view=powerbi-ps/?azure-portal=true).
 
 ```powershell
 Install-Module -Name MicrosoftPowerBIMgmt
 ```
 
-The following code blocks contribute to the second part of a PowerShell setup script. It's a continuation of the script described in the previous topic. The code blocks set up the Power BI environment. Specifically, they show how to:
+The following code blocks contribute to the second part of a PowerShell setup script. It's a continuation of the script that was described in the previous topic. The code blocks set up the Power BI environment. Specifically, they show how to complete the following tasks:
 
-1.  Create a workspace.
-1.  Add a service principal as the workspace admin.
-1.  Import a Power BI Desktop file to create a dataset and report.
+-  Create a workspace.
 
-The first code block initializes two variables. The `$workspaceName` variable stores the new workspace name; the `$pbixFilePath` variable stores the file path to a Power BI Desktop file.
+-  Add a service principal as the workspace admin.
+
+-  Import a Power BI Desktop file to create a dataset and report.
+
+The first code block initializes two variables. The `$workspaceName` variable stores the new workspace name, and the `$pbixFilePath` variable stores the file path to a Power BI Desktop file.
 
 ```powershell
 # The new workspace name
@@ -134,7 +148,7 @@ $workspaceName = "Sales Reporting"
 $pbixFilePath = "D:\Sales Analysis.pbix"
 ```
 
-The next code block connects to the Power BI service with an authenticated account. It then attempts to retrieve a reference to the workspace. If the attempt fails (because the workspace doesn't exist), it creates the workspace. Lastly, the `$workspaceId` variable stores workspace ID (called the GroupID).
+The next code block connects to the Power BI service with an authenticated account. Then, it will attempt to retrieve a reference to the workspace. If the attempt fails (because the workspace doesn't exist), it will create the workspace. Lastly, the `$workspaceId` variable stores the workspace ID (called the GroupID).
 
 ```powershell
 Connect-PowerBIServiceAccount
@@ -167,20 +181,20 @@ The next code block imports a Power BI Desktop file into the new workspace.
 $import = New-PowerBIReport -Path $pbixFilePath -Workspace $workspace -ConflictAction CreateOrOverwrite
 ```
 
-The `$workspaceId` variable contains useful information for your app. You should output the variable value and add it to the app's config file. It can be used to enumerate workspace artifacts to retrieve properties required to embed them.
+The `$workspaceId` variable contains useful information for your app. You should write the variable value and add it to the app's .config file. You can use the variable to enumerate workspace artifacts to retrieve properties that are required to embed them.
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4VozC]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4VozC]
 
 ## Power BI Embedded ARM REST API
 
 The Power BI Embedded ARM REST API enables you to create, retrieve, update, and delete Power BI Embedded capacities.
 
 > [!NOTE]
-> You cannot use this API to manage Power BI Premium capacities. For more information, see [Configure and manage capacities in Power BI Premium](/power-bi/enterprise/service-admin-premium-manage/?azure-portal=true).
+> You can't use this API to manage Power BI Premium capacities. For more information, see [Configure and manage capacities in Power BI Premium](/power-bi/enterprise/service-admin-premium-manage/?azure-portal=true).
 
 You can use the [Update](/rest/api/power-bi-embedded/capacities/update/?azure-portal=true) operation to scale a capacity resource, perhaps when a sudden increase in demand occurs for computational resources. Other operations suspend or resume a capacity.
 
 > [!NOTE]
-> To learn about managing capacity resources and scale, work through the Select a Power BI embedded analytics product module.
+> To learn about managing capacity resources and scale, see the Select a Power BI embedded analytics product module.
 
 For more information, see [Power BI Embedded Azure Resource Manager REST API reference](/rest/api/power-bi-embedded/?azure-portal=true).

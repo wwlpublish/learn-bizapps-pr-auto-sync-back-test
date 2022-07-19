@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.controls-canvas-apps 
 metadata: 
   title: Use and understand Controls in a canvas app in Power Apps
@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.controls-canvas-apps.1-understand-controls 
 - learn-bizapps.controls-canvas-apps.2-core-properties 
 - learn-bizapps.controls-canvas-apps.3-text-controls 
@@ -38,5 +40,4 @@ units:
 - learn-bizapps.controls-canvas-apps.6-knowledge-check 
 - learn-bizapps.controls-canvas-apps.7-summary 
 badge: 
-  uid: learn-bizapps.controls-canvas-apps.badge 
-
+  uid: learn-bizapps.controls-canvas-apps.badge

@@ -1,71 +1,71 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.build-user-experience-portals.8-check 
-title: Check your knowledge 
-metadata: 
- title: Check your knowledge 
- description: Answer the following questions to see what you've learned. 
- ms.date: 06/01/2021
- author: DaveBeasley 
- ms.author: dbeasley 
- ms.topic: interactive-tutorial 
- ms.prod: learning-power-apps 
-durationInMinutes: 5 
-quiz: 
-  title: Answer the following questions to see what you've learned. 
-  questions: 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-user-experience-portals.8-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 07/12/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps
+durationInMinutes: 5
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
   - content: You created a new Partner Price list page, but you accidentally saved it under public company announcements instead of a partner channel page. How can you fix the mistake?
-    choices: 
+    choices:
     - content: Create a shortcut under Correct Parent Page and then point it to the price list page. Hide the price list page from the site map.
-      isCorrect: false 
-      explanation: Any page attribute that includes Parent Page can be changed when you are editing the page. You can’t rearrange pages in the site map tree. Other suggestions will not achieve the desired result.
+      isCorrect: false
+      explanation: Any page attribute that includes Parent Page can be changed when you are editing the page. You can't rearrange pages in the site map tree. Other suggestions will not achieve the desired result.
     - content: Change the page's partial URL to point to the correct parent.
-      isCorrect: false 
-      explanation: Any page attribute that includes Parent Page can be changed when you are editing the page. You can’t rearrange pages in the site map tree. Other suggestions will not achieve the desired result.
+      isCorrect: false
+      explanation: Any page attribute that includes Parent Page can be changed when you are editing the page. You can't rearrange pages in the site map tree. Other suggestions will not achieve the desired result.
     - content: Edit the page and then select the correct value in the Parent Page column.
-      isCorrect: true 
-      explanation: Any page attribute that includes Parent Page can be changed when you are editing the page. You can’t rearrange pages in the site map tree. Other suggestions will not achieve the desired result.
+      isCorrect: true
+      explanation: Any page attribute that includes Parent Page can be changed when you are editing the page. You can't rearrange pages in the site map tree. Other suggestions will not achieve the desired result.
     - content: Drag and drop the page in the site map tree.
-      isCorrect: false 
-      explanation: Any page attribute that includes Parent Page can be changed when you are editing the page. You can’t rearrange pages in the site map tree. Other suggestions will not achieve the desired result.
+      isCorrect: false
+      explanation: Any page attribute that includes Parent Page can be changed when you are editing the page. You can't rearrange pages in the site map tree. Other suggestions will not achieve the desired result.
   - content: You created a Customers Only page on the portal that does not allow anonymous access, and you added this page to the main menu. Business users complained that the page is not visible in the main menu until visitors have signed in, and they want the link to be visible at all times. How can you implement this requirement?
-    choices: 
+    choices:
     - content: Edit the web link and point it to the Sign In page but keep Customers Only as a title.
-      isCorrect: false 
+      isCorrect: false
       explanation: When a web link is linked to a webpage, the security and publishing state of the webpage will apply to the web link as well. This feature can be disabled with the Disable Page Validation option of the web link.
     - content: Starter portals do not support this functionality.
-      isCorrect: false 
+      isCorrect: false
       explanation: When a web link is linked to a webpage, the security and publishing state of the webpage will apply to the web link as well. This feature can be disabled with the Disable Page Validation option of the web link.
     - content: Select the Ignore Security option on the main menu's web link set.
-      isCorrect: false 
+      isCorrect: false
       explanation: When a web link is linked to a webpage, the security and publishing state of the webpage will apply to the web link as well. This feature can be disabled with the Disable Page Validation option of the web link.
     - content: Edit the web link and then select the Disable Page Validation option.
-      isCorrect: true 
+      isCorrect: true
       explanation: When a web link is linked to a webpage, the security and publishing state of the webpage will apply to the web link as well. This feature can be disabled with the Disable Page Validation option of the web link.
   - content: Business users have complained that portal search results do not include matching content of the web files attachments. You have set the Search/IndexNotesAttachments site setting to true, but the results are still not returned. What is your next step?
-    choices: 
+    choices:
     - content: Check that Relevance Search is enabled in your model-driven apps in your Dynamic 365 instance.
-      isCorrect: true 
+      isCorrect: true
       explanation: To search within the web files attachments,  you must set the Search/IndexNotesAttachments site setting to true and then enable Relevance Search in Dynamics 365 for the Customer Engagement instance.
     - content: Set the KnowledgeManagement/DisplayNotes site setting to true.
-      isCorrect: false 
+      isCorrect: false
       explanation: To search within the web files attachments,  you must set the Search/IndexNotesAttachments site setting to true and then enable Relevance Search in Dynamics 365 for the Customer Engagement instance.
     - content: Restart the portal.
-      isCorrect: false 
+      isCorrect: false
       explanation: To search within the web files attachments,  you must set the Search/IndexNotesAttachments site setting to true and then enable Relevance Search in Dynamics 365 for the Customer Engagement instance.
     - content: Web file attachments can't be searched in Power Apps portals.
-      isCorrect: false 
+      isCorrect: false
       explanation: To search within the web files attachments,  you must set the Search/IndexNotesAttachments site setting to true and then enable Relevance Search in Dynamics 365 for the Customer Engagement instance.
   - content: You have been asked to make the background darker on the portal's Home page only. The designer has provided you with a snippet of CSS that applies the effect. How would you use this CSS?
-    choices: 
+    choices:
     - content: Add a new home.css web file.
-      isCorrect: false 
+      isCorrect: false
       explanation: The content of the Custom CSS column of a webpage applies to that page only and setting this column to the provided CSS snippet will achieve the desired effect. Any CSS in the file with the .css extension applies to the parent page and all its descendants. Content snippets do not affect the appearance of a portal unless it's used in a template.
     - content: Replace the content of the bootstrap.min.css file.
-      isCorrect: false 
+      isCorrect: false
       explanation: The content of the Custom CSS column of a webpage applies to that page only and setting this column to the provided CSS snippet will achieve the desired effect. Any CSS in the file with the .css extension applies to the parent page and all its descendants. Content snippets do not affect the appearance of a portal unless it's used in a template.
     - content: Add a new content snippet called Home/Background.
-      isCorrect: false 
+      isCorrect: false
       explanation: The content of the Custom CSS column of a webpage applies to that page only and setting this column to the provided CSS snippet will achieve the desired effect. Any CSS in the file with the .css extension applies to the parent page and all its descendants. Content snippets do not affect the appearance of a portal unless it's used in a template.
     - content: Set the Custom CSS column for the Home page.
-      isCorrect: true 
+      isCorrect: true
       explanation: The content of the Custom CSS column of a webpage applies to that page only and setting this column to the provided CSS snippet will achieve the desired effect. Any CSS in the file with the .css extension applies to the parent page and all its descendants. Content snippets do not affect the appearance of a portal unless it's used in a template.

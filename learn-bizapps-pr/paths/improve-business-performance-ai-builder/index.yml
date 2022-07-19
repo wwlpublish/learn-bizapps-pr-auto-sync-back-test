@@ -23,6 +23,8 @@ roles:
 - business-user
 products:
 - ai-builder
+subjects:
+- artificial-intelligence
 modules:
 - learn-dynamics.get-started-with-form-processing
 - learn-bizapps.get-started-with-ai-builder-text-recognition

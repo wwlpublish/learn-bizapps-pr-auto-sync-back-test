@@ -30,7 +30,9 @@ products:
 - power-platform
 - power-bi
 - power-query
-units: 
+subjects:
+- data-analytics
+units:
 - learn-bizapps.automate-data-cleaning-power-query.1-introduction 
 - learn-bizapps.automate-data-cleaning-power-query.2-explore-power-query 
 - learn-bizapps.automate-data-cleaning-power-query.3-import-data 
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.automate-data-cleaning-power-query.6-check 
 - learn-bizapps.automate-data-cleaning-power-query.7-summary 
 badge: 
-  uid: learn-bizapps.automate-data-cleaning-power-query.badge 
+  uid: learn-bizapps.automate-data-cleaning-power-query.badge

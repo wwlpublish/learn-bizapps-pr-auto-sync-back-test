@@ -22,11 +22,13 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- process-workflow
 modules:
 - learn-bizapps.build-first-desktop-flow
 - learn-bizapps.input-parameters
-- learn-bizapps.integrate-flow-outlook
 - learn-bizapps.gateway-desktop-flow 
+- learn-bizapps.integrate-flow-outlook
 - learn-bizapps.use-ai-builder-process-invoice
 - learn-bizapps.use-teams-connector
 - learn-bizapps.flow-unattended-mode

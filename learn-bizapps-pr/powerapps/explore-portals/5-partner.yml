@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.explore-portals.5-partner 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.explore-portals.5-partner
 title: Partner portal
-metadata: 
-  title: Partner portal 
-  description: Learn about the Partner portal.  
-  ms.date: 06/30/2020 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps-portals  
-durationInMinutes: 10 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/5-partner.md)] 
+metadata:
+  title: Partner portal
+  description: Learn about the Partner portal.
+  ms.date: 06/30/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps-portals
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/5-partner.md)]

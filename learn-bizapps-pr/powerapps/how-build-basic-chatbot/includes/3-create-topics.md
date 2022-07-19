@@ -156,7 +156,7 @@ suitable customer service portal, such as Omnichannel for Customer Service.
 
 3.  Select **Transfer To Agent** to insert a hand-off node that will link with
     your [configured hand-off
-    product](https://docs.microsoft.com/power-virtual-agents/configuration-hand-off-omnichannel).
+    product](/power-virtual-agents/configuration-hand-off-omnichannel).
     You can also enter a private message to the agent.
 
     ![Transfer To Agent](../media/transfer-to-agent.png)
@@ -164,13 +164,13 @@ suitable customer service portal, such as Omnichannel for Customer Service.
 ### Branch based on a condition
 
 1.  To add branching logic based
-    on [variables](https://docs.microsoft.com/power-virtual-agents/authoring-variables),
+    on [variables](/power-virtual-agents/authoring-variables),
     select **+** to add a node, and then **Add a condition** and **Branch based
     on a condition**.
 
 2.  Choose the variable you want to use to determine if the chatbot conversation
     should branch at this point. For example, if you have set up [end-user
-    authentication](https://docs.microsoft.com/power-virtual-agents/advanced-end-user-authentication),
+    authentication](/power-virtual-agents/advanced-end-user-authentication),
     then you might want to specify a different message if the user is signed on
     (which may have happened earlier in the conversation).
 

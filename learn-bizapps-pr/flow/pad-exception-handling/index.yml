@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform 
 - power-automate
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.pad-exception-handling.1-introduction 
 - learn-bizapps.pad-exception-handling.2-about-exceptions
 - learn-bizapps.pad-exception-handling.3-exception-handling
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.pad-exception-handling.5-check-knowledge 
 - learn-bizapps.pad-exception-handling.6-summary 
 badge: 
-  uid: learn-bizapps.pad-exception-handling.badge 
+  uid: learn-bizapps.pad-exception-handling.badge

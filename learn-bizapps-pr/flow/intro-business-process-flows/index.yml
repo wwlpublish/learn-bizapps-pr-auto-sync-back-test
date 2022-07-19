@@ -28,11 +28,13 @@ roles:
 products:   
 - power-automate
 - power-platform 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.intro-business-process-flows.1-introduction 
 - learn-bizapps.intro-business-process-flows.2-differences 
 - learn-bizapps.intro-business-process-flows.3-uses 
 - learn-bizapps.intro-business-process-flows.4-check 
 - learn-bizapps.intro-business-process-flows.5-summary 
 badge: 
-  uid: learn-bizapps.intro-business-process-flows.badge 
+  uid: learn-bizapps.intro-business-process-flows.badge

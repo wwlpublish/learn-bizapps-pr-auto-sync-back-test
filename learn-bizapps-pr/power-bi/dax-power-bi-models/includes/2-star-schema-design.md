@@ -1,4 +1,4 @@
-It's unusual for a Power BI data model to be comprised of a single table. A single-table model can be a simple design, perhaps one that's suitable for a data exploration task or proof of concept, but not one that's an optimal model design. An optimal model design adheres to *star schema* design principles. Star schema refers to a design approach that is commonly used by relational data warehouse designers because it presents a user-friendly structure and it supports high-performance analytic queries. 
+It's unusual for a Power BI data model to be comprised of a single table. A single-table model can be a simple design, perhaps one that's suitable for a data exploration task or proof of concept, but not one that's an optimal model design. An optimal model adheres to *star schema* design principles. Star schema refers to a design approach that's commonly used by relational data warehouse designers because it presents a user-friendly structure and it supports high-performance analytic queries.
 
 This design principle is called a star schema because it classifies model tables as either *fact* or *dimension*. In a diagram, a fact table forms the center of a star, while dimension tables, when placed around a fact table, represent the points of the star.
 
@@ -16,12 +16,12 @@ Each dimension table must have a unique column, which is referred to as its key 
 
 The following figure compares characteristics of fact and dimension tables.
 
-| Characteristic                       |     Dimension table                                                                 |     Fact table                                                                               |
-|------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|     Model purpose      |     Stores business entities                                                       |     Stores events or observations                                                             |
-|     Table structure    |     Includes a key column and descriptive columns for filtering and grouping    |     Includes dimension key columns and numeric measure columns that can be summarized    |
-|     Data volume        |     Typically, contains fewer rows (relative to fact tables)          |     Can contain numerous rows                                                  |
-|     Query purpose      |     To filter and group                                                             |     To summarize                                                                             |
+| Characteristic | Dimension table | Fact table |
+|---|---|---|
+| Model purpose | Stores business entities | Stores events or observations |
+| Table structure | Includes a key column and descriptive columns for filtering and grouping | Includes dimension key columns and numeric measure columns that can be summarized |
+| Data volume | Typically, contains fewer rows (relative to fact tables) | Can contain numerous rows |
+| Query purpose | To filter and group | To summarize |
 
 ## Relate star schema tables
 
@@ -36,17 +36,12 @@ To practice this concept, download the [**Adventure Works DW 2020 M01.pbix**
 
 Notice that the model is comprised of seven tables, one of which is named **Sales** and is the fact table. The remaining tables are dimension tables, and they have the following names:
 
--   Customer
-
--   Date
-
--   Product
-
--   Reseller
-
--   Sales Order
-
--   Sales Territory
+- Customer
+- Date
+- Product
+- Reseller
+- Sales Order
+- Sales Territory
 
 Notice the relationships between the dimension and fact tables and that each relationship filter direction is pointing toward the fact table. As a result, when filters are applied to dimension table columns (to filter or group by column values), related facts are filtered and summarized.
 
@@ -55,4 +50,4 @@ If you examine the pattern, you might see a star shape.
 > [!div class="mx-imgBorder"]
 > [![An image shows a star superimposed over the seven model tables. The star assists understanding the star schema design.](../media/dax-star-schema-2-ssm.png)](../media/dax-star-schema-2-ssm.png#lightbox)
 
-For more information on star schemas, see [Understand star schema and the importance for Power BI](/power-bi/guidance/star-schema/?azure-portal=true).
+For more information on star schema design, see [Understand star schema and the importance for Power BI](/power-bi/guidance/star-schema/?azure-portal=true).

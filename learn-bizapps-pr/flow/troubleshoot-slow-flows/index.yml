@@ -29,7 +29,9 @@ roles:
 products: 
 - power-platform 
 - power-automate
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.troubleshoot-slow-flows.1-introduction 
 - learn-bizapps.troubleshoot-slow-flows.2-compose-variables 
 - learn-bizapps.troubleshoot-slow-flows.3-analytics 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.troubleshoot-slow-flows.6-check 
 - learn-bizapps.troubleshoot-slow-flows.7-summary 
 badge: 
-  uid: learn-bizapps.troubleshoot-slow-flows.badge 
+  uid: learn-bizapps.troubleshoot-slow-flows.badge

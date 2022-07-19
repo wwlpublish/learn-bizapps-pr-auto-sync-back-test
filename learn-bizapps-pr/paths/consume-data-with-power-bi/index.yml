@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.get-started-using-power-bi
 metadata:
   title: Consume data with Power BI
@@ -24,10 +24,12 @@ roles:
 products:
 - power-bi
 - power-platform
+subjects:
+- data-management
+- data-visualization
 modules:
 - learn-bizapps.intro-to-power-bi-service
 - learn-bizapps.analyze-explore-data-power-bi
 - learn-bizapps.intro-to-power-bi-mobile-apps
 trophy:
   uid: learn-bizapps.get-started-using-power-bi.trophy
-

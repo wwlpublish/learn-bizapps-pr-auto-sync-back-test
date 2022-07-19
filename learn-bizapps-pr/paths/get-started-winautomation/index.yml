@@ -25,6 +25,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- custom-app-development
 modules:
 - learn-bizapps.introduction-winautomation
 - learn-bizapps.first-steps-winautomation 

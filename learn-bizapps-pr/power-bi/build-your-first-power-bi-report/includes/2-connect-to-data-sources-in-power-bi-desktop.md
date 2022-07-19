@@ -17,7 +17,7 @@ Select **Get Data \> Web**, and paste the address:
 
 ![Connect to web data](../media/pbid-getdata-01.png)
 
-When you select **OK**, the **Query** functionality of Power BI Desktop goes to work. Query contacts the web resource, and the **Navigator** window shows what it found on that webpage. In this case, it finds a table (**Ranking of best and worst states for retirement**). We're interested in the table, so select it in the list. The **Navigator** window shows a preview.
+When you select **OK**, the **Query** functionality of Power BI Desktop goes to work. Query contacts the web resource, and the **Navigator** window shows what it found on that webpage. In this case, it finds a table (**Ranking of best and worst states for retirement**). We're interested in the ** Best States to Retire** table, so select it in the list. The **Navigator** window shows a preview.
 
 ![The Navigator window](../media/pbid-getdata-02.png)
 

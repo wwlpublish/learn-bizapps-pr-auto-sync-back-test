@@ -27,6 +27,8 @@ roles:
 products:
 - office-excel
 - power-bi
+subjects:
+- productivity
 units:
 - learn.wwl.power-bi-excel-better-together.introduction
 - learn.wwl.power-bi-excel-better-together.create-pivot-tables-from-certified-data-sets

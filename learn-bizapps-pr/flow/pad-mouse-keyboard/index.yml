@@ -19,7 +19,7 @@ abstract: |
     - Learn how to select and locate a specific image or area on the screen with the mouse
     - Learn how to emulate typing or key presses
 prerequisites: |
-    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml), and familiarity with [handling images in Power Automate Desktop](../pad-power-automate-desktop-development-essentials/index.yml).
+    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml), and familiarity with [handling images in Power Automate for desktop](../pad-power-automate-desktop-development-essentials/index.yml).
 iconUrl: /learn/achievements/pad-mouse-keyboard.svg  
 levels:  
 - beginner   
@@ -30,11 +30,13 @@ roles:
 products:  
 - power-platform
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.pad-mouse-keyboard.1-introduction
 - learn-bizapps.pad-mouse-keyboard.2-mouse-keyboard-actions
 - learn-bizapps.pad-mouse-keyboard.3-mouse-keyboard-exercise
 - learn-bizapps.pad-mouse-keyboard.4-check-your-knowledge
 - learn-bizapps.pad-mouse-keyboard.5-summary
 badge: 
-  uid: learn-bizapps.pad-mouse-keyboard.badge 
+  uid: learn-bizapps.pad-mouse-keyboard.badge

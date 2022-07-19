@@ -25,7 +25,11 @@ roles:
 - administrator   
 products:  
 - industry-solutions 
-units: 
+subjects:
+- modern-work
+- data-management
+- custom-app-development
+units:
 - learn-bizapps.data-setup-vaccination-management-app.1-introduction 
 - learn-bizapps.data-setup-vaccination-management-app.2-connect-data 
 - learn-bizapps.data-setup-vaccination-management-app.3-reference-data 
@@ -33,4 +37,4 @@ units:
 - learn-bizapps.data-setup-vaccination-management-app.5-check 
 - learn-bizapps.data-setup-vaccination-management-app.6-summary 
 badge: 
-  uid: learn-bizapps.data-setup-vaccination-management-app.badge 
+  uid: learn-bizapps.data-setup-vaccination-management-app.badge

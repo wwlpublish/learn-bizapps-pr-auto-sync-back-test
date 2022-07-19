@@ -28,10 +28,12 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.flow-control.1-introduction 
 - learn-bizapps.flow-control.2-flow-control-actions 
 - learn-bizapps.flow-control.3-check-knowledge 
 - learn-bizapps.flow-control.4-summary 
 badge: 
-  uid: learn-bizapps.flow-control.badge 
+  uid: learn-bizapps.flow-control.badge

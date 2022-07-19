@@ -32,7 +32,9 @@ roles:
 products:  
 - power-platform
 - power-automate
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.winautomation-development-essentials.1-introduction 
 - learn-bizapps.winautomation-development-essentials.2-creating-process-designer 
 - learn-bizapps.winautomation-development-essentials.3-create-conditionals-loops 
@@ -43,4 +45,4 @@ units:
 - learn-bizapps.winautomation-development-essentials.8-check
 - learn-bizapps.winautomation-development-essentials.9-summary 
 badge: 
-  uid: learn-bizapps.winautomation-development-essentials.badge 
+  uid: learn-bizapps.winautomation-development-essentials.badge

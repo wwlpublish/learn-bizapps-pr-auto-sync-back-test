@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.explore-portals.6-custom 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.explore-portals.6-custom
 title: Custom portal
-metadata: 
-  title: Custom portal 
-  description: Learn about the Custom portal.  
-  ms.date: 06/30/2020 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps-portals  
+metadata:
+  title: Custom portal
+  description: Learn about the Custom portal.
+  ms.date: 06/30/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps-portals
 durationInMinutes: 4
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/6-custom.md)] 
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/6-custom.md)]

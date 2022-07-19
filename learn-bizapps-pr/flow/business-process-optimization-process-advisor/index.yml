@@ -3,7 +3,7 @@ uid: learn-bizapps.business-process-optimization-process-advisor
 metadata: 
  title: Optimize your business process with process advisor
  description: Learn how to optimize your business process with the process advisor capability in Microsoft Power Automate.
- ms.date: 11/01/2021 
+ ms.date: 06/01/2022 
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
@@ -27,7 +27,9 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.business-process-optimization-process-advisor.1-introduction 
 - learn-bizapps.business-process-optimization-process-advisor.2-get-familiar 
 - learn-bizapps.business-process-optimization-process-advisor.3-create-recording 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.business-process-optimization-process-advisor.7-check 
 - learn-bizapps.business-process-optimization-process-advisor.8-summary 
 badge: 
-  uid: learn-bizapps.business-process-optimization-process-advisor.badge 
+  uid: learn-bizapps.business-process-optimization-process-advisor.badge

@@ -30,7 +30,9 @@ roles:
 products:  
 - power-platform
 - power-automate
-units: 
+subjects:
+- productivity
+units:
 - learn-bizapps.introduction-winautomation.1-introduction 
 - learn-bizapps.introduction-winautomation.2-the-process-designer 
 - learn-bizapps.introduction-winautomation.3-the-console 
@@ -40,4 +42,4 @@ units:
 - learn-bizapps.introduction-winautomation.7-check-your-knowledge 
 - learn-bizapps.introduction-winautomation.8-summary 
 badge: 
-  uid: learn-bizapps.introduction-to-winautomation.badge 
+  uid: learn-bizapps.introduction-to-winautomation.badge

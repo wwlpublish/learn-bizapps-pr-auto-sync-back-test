@@ -9,7 +9,7 @@ metadata:
   ms.author: robde 
   ms.topic: interactive-tutorial 
   ms.prod: learning-d365-ai-builder 
-durationInMinutes: 45 
+durationInMinutes: 2
 content: | 
  [!include[](../includes/unit-banner.md)] 
  [!include[](includes/1-introduction.md)] 

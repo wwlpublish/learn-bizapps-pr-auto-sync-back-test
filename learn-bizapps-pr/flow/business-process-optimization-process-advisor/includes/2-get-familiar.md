@@ -1,13 +1,21 @@
 Process advisor is built on the features and capabilities of Microsoft Power Platform to help generate insights. Microsoft Power Automate for desktop allows you to record actions that you perform on your computer. Microsoft Dataverse stores the information from your processes. As a result, you need access to these technologies, from a licensing and security perspective, to take advantage of process advisor. If process advisor isn't listed when you go to Power Automate, talk to your administrator about your permissions.
 
-You can access process advisor through [Power Automate](https://flow.microsoft.com/?azure-portal=true) by selecting **Process advisor > Create** on the left navigation pane.
+You can access process advisor through [Power Automate](https://flow.microsoft.com/?azure-portal=true) by selecting **Process advisor** on the left navigation pane and then **Create** on the right side of the screen.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Process advisor feature in Power Automate with the Create button.](../media/power-automate.png)](../media/power-automate.png#lightbox)
 
-On the **Optimize your business processes** screen, you can create a new process or add recordings to an existing process. Additionally, you can select a link to download Power Automate for desktop flow and view short instructional videos that describe various tasks in process advisor. Recordings are conducted through Power Automate for desktop flow, so make sure that you've downloaded this program.
+On the **process advisor** screen, you can create a new process or add recordings to an existing process. 
 
-Select **Processes** to view the details of existing processes that you own or co-own. If you don't have any processes, you can begin a new one.
+> [!div class="mx-imgBorder"]
+> [![Screenshot of the create a new process window with data preview selected.](../media/data-preview.png)](../media/data-preview.png#lightbox)
+
+Additionally, you can select a link to download Power Automate for desktop flow and view short instructional videos that describe various tasks in process advisor. Recordings are conducted through Power Automate for desktop flow, so make sure that you've downloaded this program.
+
+> [!div class="mx-imgBorder"]
+> [![Screenshot of the Learning more about processes window with download power automate desktop selected.](../media/download.png)](../media/download.png#lightbox)
+
+Select **All processes** to view the details of existing processes that you own or co-own. If you don't have any processes, you can begin a new one.
 
 Selecting a process lets you see the details that are involved, such as:
 

@@ -31,7 +31,9 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.web-automation.1-introduction 
 - learn-bizapps.web-automation.2-launch-close-handle-browsers 
 - learn-bizapps.web-automation.3-handle-webpages 
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.web-automation.7-check-knowledge 
 - learn-bizapps.web-automation.8-summary 
 badge: 
-  uid: learn-bizapps.web-automation.badge 
+  uid: learn-bizapps.web-automation.badge

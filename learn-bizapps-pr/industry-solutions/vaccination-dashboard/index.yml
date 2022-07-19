@@ -25,7 +25,9 @@ roles:
 - business-user   
 products:  
 - industry-solutions
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.vaccination-dashboard.1-introduction 
 - learn-bizapps.vaccination-dashboard.2-installation 
 - learn-bizapps.vaccination-dashboard.3-overview 
@@ -33,4 +35,4 @@ units:
 - learn-bizapps.vaccination-dashboard.5-check 
 - learn-bizapps.vaccination-dashboard.6-summary 
 badge: 
-  uid: learn-bizapps.vaccination-dashboard.badge 
+  uid: learn-bizapps.vaccination-dashboard.badge

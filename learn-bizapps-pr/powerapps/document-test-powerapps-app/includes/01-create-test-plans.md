@@ -37,7 +37,7 @@ Consider data dependencies such as child rows needed to populate lookups. If nee
 
 Be mindful of customizations that reference specific rows such as a specific account or custom child row. If a customization such as a workflow or business rule relies on a specific row that row will need to be migrated, so the GUID is the same in both environments. Using the data import wizard will replicate the data in the new environment with a different GUID. 
 
-## Solution Awareness
+## Security configurations
 
 Some configurations, such as Word and Excel templates, cannot be moved between environments and will need to be configured in each environment. Any configuration that must be complete in each environment should receive extra attention in testing. 
 

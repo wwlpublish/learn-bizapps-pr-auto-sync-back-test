@@ -23,7 +23,7 @@ In this task, you'll learn how to create a trial tenant along with the required 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the error with the link below.](../media/new-trial.png)](../media/new-trial.png#lightbox)
 
-1. A new account creation flow for Dynamics 365 Customer Engagement Plan will display. Get started by entering your email address.
+1. A new account creation flow for Dynamics 365 Customer Engagement Plan will display. Get started by entering your email address in the format `<YourUserName>@ <YourUniqueTenantName>.onmicrosoft.com`.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Dynamics 365 Customer Engagement Plan Trial wizard email page.](../media/email.png)](../media/email.png#lightbox)

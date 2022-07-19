@@ -1,4 +1,4 @@
-﻿Sometimes, your data might contain extra data or have data in the wrong format. Power BI Desktop includes the **Power Query Editor** tool, which can help you shape and transform data so that it's ready for your models and visualizations. 
+Sometimes, your data might contain extra data or have data in the wrong format. Power BI Desktop includes the **Power Query Editor** tool, which can help you shape and transform data so that it's ready for your models and visualizations. 
 
 In this unit, you will transform data with Power Query Editor.
 
@@ -38,4 +38,4 @@ As you apply transformations, each step appears in the **Applied Steps** list on
 
 After you select **Close & Apply**, Power Query Editor applies the query changes and applies them to Power BI Desktop.
 
-For more information, see [Quickstart: Using Power Query in Power BI Desktop](https://docs.microsoft.com/power-query/power-query-quickstart-using-power-bi/?azure-portal=true).
+For more information, see [Quickstart: Using Power Query in Power BI Desktop](/power-query/power-query-ui?azure-portal=true).

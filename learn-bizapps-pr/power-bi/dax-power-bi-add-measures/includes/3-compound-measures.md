@@ -11,4 +11,4 @@ Next, add the **Profit** measure to the matrix visual.
 
 Now that your model provides a way to summarize profit, you can delete the **Profit Amount** calculated column.
 
-By removing this calculated column, you've optimized the data model. It results in a decreased data model size and shorter data refreshes. The **Profit Amount** calculated column wasn't required because the **Profit** measure can directly produce the required result.
+By removing this calculated column, you've optimized the data model. Removing this columns results in a decreased data model size and shorter data refresh times. The **Profit Amount** calculated column wasn't required because the **Profit** measure can directly produce the required result.

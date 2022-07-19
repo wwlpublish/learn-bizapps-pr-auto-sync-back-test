@@ -41,7 +41,7 @@ quiz:
     - content: A SharePoint account and Power Automate sharing rights.
       explanation: It is not a requirement to have a Sharepoint account or sharing rights to share a button flow.
       isCorrect: false 
-  - content: What are some actions for which you can use the Power Automate admin center?
+  - content: What are some actions for which you can use the admin center?
     choices: 
     - content: Connect to Dynamics 365 and write flows
       explanation: You can do this in Power Automate, but not in the admin center

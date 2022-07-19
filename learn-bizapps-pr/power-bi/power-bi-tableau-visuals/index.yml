@@ -31,7 +31,9 @@ roles:
 products:  
 - power-platform 
 - power-bi 
-units: 
+subjects:
+- data-visualization
+units:
 - learn-bizapps.power-bi-tableau-visuals.1-introduction 
 - learn-bizapps.power-bi-tableau-visuals.2-build-visualization 
 - learn-bizapps.power-bi-tableau-visuals.3-format-visualization 
@@ -44,4 +46,4 @@ units:
 - learn-bizapps.power-bi-tableau-visuals.10-check 
 - learn-bizapps.power-bi-tableau-visuals.11-summary 
 badge: 
-  uid: learn-bizapps.power-bi-tableau-visuals.badge 
+  uid: learn-bizapps.power-bi-tableau-visuals.badge

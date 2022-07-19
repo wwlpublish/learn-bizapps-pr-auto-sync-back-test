@@ -26,7 +26,9 @@ roles:
 products: 
  - power-apps
  - common-data-service 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.publish-share-maintain-app.1-introduction 
 - learn-bizapps.publish-share-maintain-app.2-publish-app 
 - learn-bizapps.publish-share-maintain-app.3-share-app 
@@ -35,4 +37,4 @@ units:
 - learn-bizapps.publish-share-maintain-app.6-check 
 - learn-bizapps.publish-share-maintain-app.7-summary 
 badge: 
-  uid: learn-bizapps.publish-share-maintain-app.badge 
+  uid: learn-bizapps.publish-share-maintain-app.badge

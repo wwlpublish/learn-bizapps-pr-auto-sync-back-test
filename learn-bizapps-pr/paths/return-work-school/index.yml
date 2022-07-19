@@ -22,6 +22,8 @@ roles:
 products:
 - power-platform
 - power-apps
+subjects:
+- modern-work
 modules:
 - learn-bizapps.introduction-return-workplace-solution 
 - learn-bizapps.return-school 

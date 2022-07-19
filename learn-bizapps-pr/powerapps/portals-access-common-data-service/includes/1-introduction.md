@@ -11,11 +11,11 @@ Consider the following scenarios:
 > [!NOTE]
 > A Power Apps portal can only access Dataverse data in the same instance where the portal is provisioned. Connecting to multiple instances and accessing data across the instances or across the tenants is not supported.
 
-Model-driven Power Apps are low-code/no-code methods that you can use to build unique line-of-business applications (see [What are model-driven apps in Power Apps?](/power-apps/maker/model-driven-apps/model-driven-app-overview/?azure-portal=true)). Part of the app creation process is to define the model and UI elements such as views and forms (see [Understand model-driven app components](/power-apps/maker/model-driven-apps/model-driven-app-components/?azure-portal=true)). Power Apps portals extends these UI elements to the web by using table lists, table forms, and web forms:
+Model-driven Power Apps are low-code approach used to build unique line-of-business applications (see [What are model-driven apps in Power Apps?](/power-apps/maker/model-driven-apps/model-driven-app-overview/?azure-portal=true)). Part of the app creation process is to define the model and UI elements such as views and forms (see [Understand model-driven app components](/power-apps/maker/model-driven-apps/model-driven-app-components/?azure-portal=true)). Power Apps portals extends these UI elements to the web by using lists, basic forms, and advanced forms:
 
-- **Table lists** - Define how the list of Dataverse records is displayed on the portal pages. They are defined by one or more model-driven app table views and include functionality like filtering and sorting.
-- **Table forms** - Add the ability for the portal pages to interact with the records in a specific table by using a model-driven app form definition as a layout template.
-- **Web forms** - Render one or more model-driven app forms on a portal website with support for single or multi-step navigation and conditional branching logic.
+- **Lists** - Define how the list of Dataverse rows is displayed on the portal pages. They're defined by one or more model-driven app table views and include functionality like filtering and sorting.
+- **Basic forms** - Add the ability for the portal pages to interact with the rows in a specific table by using a model-driven app form definition as a layout template.
+- **Advanced forms** - Render one or more model-driven app forms on a portal website with support for a single or multi-step navigation and conditional branching logic.
 
 > [!div class="mx-imgBorder"]
 > [![Lists and forms in Model-Driven Apps and Portal](../media/1-list-form-model-portal-c.png)](../media/1-list-form-model-portal-c.png#lightbox)

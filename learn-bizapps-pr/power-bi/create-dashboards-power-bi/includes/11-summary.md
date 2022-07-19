@@ -12,5 +12,4 @@ In this module, you have learned about dashboards: what they are, why you need t
 
 With this new knowledge, consider how you can transform the data that you have to create a story. Dashboards can help you visualize that story.
 
-For more information, see [Introduction to dashboards](https://docs.microsoft.com/power-bi/create-reports/service-dashboards/?azure-portal=true).
-
+For more information, see [Introduction to dashboards](/power-bi/create-reports/service-dashboards?azure-portal=true).

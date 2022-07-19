@@ -27,7 +27,9 @@ roles:
 products: 
 - power-platform
 - power-bi 
-units: 
+subjects:
+- collaboration
+units:
 - learn-bizapps.power-bi-admin-collaboration.1-introduction 
 - learn-bizapps.power-bi-admin-collaboration.2-workspaces 
 - learn-bizapps.power-bi-admin-collaboration.3-impact 
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.power-bi-admin-collaboration.11-check 
 - learn-bizapps.power-bi-admin-collaboration.12-summary 
 badge: 
-  uid: learn-bizapps.power-bi-admin-collaboration.badge 
+  uid: learn-bizapps.power-bi-admin-collaboration.badge

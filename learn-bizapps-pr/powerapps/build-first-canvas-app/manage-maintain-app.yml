@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-first-canvas-app.manage-maintain-app 
+title: Manage and maintain your app
+metadata: 
+  title: Manage and maintain your app
+  description: Learn how to manage and maintain your app.
+  ms.date: 05/23/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-apps 
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/manage-maintain-app.md)] 

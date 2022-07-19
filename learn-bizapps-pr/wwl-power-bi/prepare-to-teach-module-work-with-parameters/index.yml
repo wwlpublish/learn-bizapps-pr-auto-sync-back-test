@@ -24,6 +24,8 @@ products:
 - power-bi
 - power-platform
 - azure-powerbi-embedded
+subjects:
+- productivity
 units:
 - learn.wwl.prepare-to-teach-module-work-with-parameters.introduction
 - learn.wwl.prepare-to-teach-module-work-with-parameters.work-with-parameters

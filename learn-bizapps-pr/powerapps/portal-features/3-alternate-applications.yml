@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.portal-features.3-alternate-applications 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.portal-features.3-alternate-applications
 title: Alternate portals applications
-metadata: 
-  title: Alternate portals applications 
-  description: Learn about alternate portals applications.  
-  ms.date: 06/30/2020 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps-portals 
-durationInMinutes: 2 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/3-alternate-applications.md)] 
+metadata:
+  title: Alternate portals applications
+  description: Learn about alternate portals applications.
+  ms.date: 07/11/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps-portals
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-alternate-applications.md)]

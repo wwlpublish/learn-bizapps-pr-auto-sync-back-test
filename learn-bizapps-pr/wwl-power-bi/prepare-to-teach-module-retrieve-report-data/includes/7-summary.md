@@ -20,9 +20,9 @@ These resources will help you better understand data retrieval for Power BI repo
 
 They will also allow you to provide additional information when you are explaining these topics to your customers. 
 
-- [Supported data sources for Power BI paginated reports](https://docs.microsoft.com/power-bi/paginated-reports-data-sources)
-- [Report data in Power BI Report Builder](https://docs.microsoft.com/power-bi/report-builder-data)
-- [Data retrieval guidance for paginated reports](https://docs.microsoft.com/power-bi/guidance/report-paginated-data-retrieval)
+- [Supported data sources for Power BI paginated reports](/power-bi/paginated-reports/paginated-reports-data-sources)
+- [Report data in Power BI Report Builder](/power-bi/paginated-reports/report-builder-data)
+- [Data retrieval guidance for paginated reports](/power-bi/guidance/report-paginated-data-retrieval)
 
 ## Power BI paginated reports in a day
 The instructor-led course content is available at: [https://aka.ms/priad-video-course](https://aka.ms/priad-video-course).  

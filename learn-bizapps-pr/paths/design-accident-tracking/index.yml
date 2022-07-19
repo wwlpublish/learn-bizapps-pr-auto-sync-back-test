@@ -23,6 +23,8 @@ products:
 - power-platform
 - common-data-service
 - office-excel
+subjects:
+- custom-app-development
 modules:
 - learn-bizapps.model-driven-app-solution
 - learn-bizapps.build-dataverse-table-structure

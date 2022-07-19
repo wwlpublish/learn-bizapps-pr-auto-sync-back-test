@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.intro-portals.5-extensibility-overview 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.intro-portals.5-extensibility-overview
 title: Overview of extending portals
-metadata: 
-  title: Overview of extending portals 
-  description: Learn about how to extend portals. 
-  ms.date: 6/30/2020 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps-portals 
-durationInMinutes: 5 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/5-extensibility-overview.md)] 
+metadata:
+  title: Overview of extending portals
+  description: Learn about how to extend portals.
+  ms.date: 07/11/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps-portals
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/5-extensibility-overview.md)]

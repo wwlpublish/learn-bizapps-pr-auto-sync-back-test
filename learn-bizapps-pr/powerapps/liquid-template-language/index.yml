@@ -1,41 +1,44 @@
-### YamlMime:Module 
-uid: learn-bizapps.liquid-template-language 
-metadata: 
- title: Work with Liquid template language in Power Apps portals 
+### YamlMime:Module
+uid: learn-bizapps.liquid-template-language
+metadata:
+ title: Work with Liquid template language in Power Apps portals
  description: Liquid is an [open-source template language](http://dotliquidmarkup.org/?azure-portal=true) that is integrated natively into Microsoft Power Apps portals. It acts as a bridge between Microsoft Dataverse and the HTML or text output that is sent to the browser. Liquid can be used to add dynamic content to pages and to create a variety of custom templates. Additionally, Liquid provides access only to the data and operations that are explicitly allowed by the portals.
- ms.date: 07/15/2020  
- author: DaveBeasley  
- ms.author: dbeasley  
- ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
-title: Work with Liquid template language in Power Apps portals 
-summary: |  
-  [!include[](../includes/module-banner.md)] 
-  Liquid is an [open-source template language](http://dotliquidmarkup.org/?azure-portal=true) that is integrated natively into Microsoft Power Apps portals. It acts as a bridge between Dataverse and the HTML or text output that is sent to the browser. Liquid can be used to add dynamic content to pages and to create a variety of custom templates. Additionally, Liquid provides access only to the data and operations that are explicitly allowed by the portals. 
-abstract: |  
-    In this module, you will: 
+ ms.date: 07/12/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-apps
+title: Work with Liquid template language in Power Apps portals
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  Liquid is an [open-source template language](http://dotliquidmarkup.org/?azure-portal=true) that is integrated natively into Microsoft Power Apps portals. It acts as a bridge between Dataverse and the HTML or text output that is sent to the browser. Liquid can be used to add dynamic content to pages and to create a variety of custom templates. Additionally, Liquid provides access only to the data and operations that are explicitly allowed by the portals.
+abstract: |
+    In this module, you will:
     - Learn about Liquid template language and how it's used in portals.
     - Learn how to interpret the syntax of Liquid and how to write Liquid code.
     - Differentiate Liquid tags, objects, and filters.
     - Discover how to use FetchXML to show Dataverse data.
 prerequisites: Basic understanding of Power Apps portals webpages and page templates. Knowledge of Dataverse entities and relationships and also familiarity with JavaScript, HTML, Cascading Style Sheets (CSS), and web application development would be beneficial.
-iconUrl: /learn/achievements/liquid-template-language.svg  
-levels:  
-- intermediate   
-roles:  
-- maker 
+iconUrl: /learn/achievements/liquid-template-language.svg
+levels:
+- intermediate
+roles:
+- maker
 - functional-consultant
 - developer
-products:  
+products:
 - power-platform
-- power-apps 
-units: 
-- learn-bizapps.liquid-template-language.1-introduction 
-- learn-bizapps.liquid-template-language.2-liquid-basics 
-- learn-bizapps.liquid-template-language.3-common-data-service-data 
-- learn-bizapps.liquid-template-language.4-data-security-liquid 
-- learn-bizapps.liquid-template-language.5-exercise 
-- learn-bizapps.liquid-template-language.6-check 
-- learn-bizapps.liquid-template-language.7-summary 
-badge: 
-  uid: learn-bizapps.liquid-template-language.badge 
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.liquid-template-language.1-introduction
+- learn-bizapps.liquid-template-language.2-liquid-basics
+- learn-bizapps.liquid-template-language.3-common-data-service-data
+- learn-bizapps.liquid-template-language.4-data-security-liquid
+- learn-bizapps.liquid-template-language.5-exercise
+- learn-bizapps.liquid-template-language.6-check
+- learn-bizapps.liquid-template-language.7-summary
+badge:
+  uid: learn-bizapps.liquid-template-language.badge

@@ -27,4 +27,4 @@ When you open the dashboard, it will now be marked by this new data classificati
 
 You have now added custom data classification to your dashboards and the Sales team is pleased. Data classification is an important feature because it allows you to add a level of security to your Power BI dashboards. Additionally, because you can personalize them in any way that your organization requires, data classification also adds a layer of personalization to your dashboards.
 
-For more information, see [Dashboard data classification](https://docs.microsoft.com/power-bi/create-reports/service-data-classification/?azure-portal=true).
+For more information, see [Dashboard data classification](/power-bi/enterprise/service-security-apply-data-sensitivity-labels?azure-portal=true).

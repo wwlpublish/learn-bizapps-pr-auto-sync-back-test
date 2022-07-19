@@ -11,21 +11,26 @@ To create a new table in Dataverse, follow these steps:
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Tables menu in Power Apps, with the New table option highlighted.](../media/7-new-table.png)](../media/7-new-table.png#lightbox)
 
-    A flyout menu will open, asking questions about your new table. The **Display name** field is shown first on the screen in Dataverse. You will use the plural name in model-driven apps and when you're writing to Dataverse through Microsoft Power Automate. However, for this exercise, you will keep your display name singular and your plural name as something that makes logical sense. Dataverse will try recommending names for you, but the names aren't always ideal. The next field is **Name**, which is a system table name. All custom tables begin with a series of letters and numbers, which will differ from tenant to tenant. This information can't be changed. Your system name should be similar to your display name but with no spaces or symbols other than an underscore. As you enter your display name, other names will populate. In this case, you don't need to change the other names, but you should always ensure that they make sense.
-
-    After your table information, the information for the **Primary Name Column** is included. This column is not the **ID** column, but it will act as a primary field for users to distinguish records. This exercise will use trip destination because it's easily distinguishable for users. If you want to expand this table to all expense reports and not solely to travel-related expense reports, you would use something else, such as a title column. The **Primary Name Column** will always be a text column. Additionally, the column has a display name and a system name; make sure that you follow the same rules as you did for the table name.
+    A flyout menu will open, asking questions about your new table. The **Display name** field is shown first on the screen in Dataverse. You will use the **Plural name** in model-driven apps and when you're writing to Dataverse through Microsoft Power Automate. However, for this exercise, you will keep your display name singular and your plural name as something that makes logical sense. Dataverse will try recommending names for you, but the names aren't always ideal. The next field is **Description**. Under **Advanced Options**, you can find **Schema Name**, which is a system table name. All custom tables begin with a series of letters and numbers, which will differ from tenant to tenant. This information can't be changed. Your system name should be similar to your display name but with no spaces or symbols other than an underscore. As you enter your display name, other names will populate. In this case, you don't need to change the other names, but you should always ensure that they make sense.
 
     Now, you can include attachments. If your scenario includes taking pictures of receipts or plane tickets, you might want to select the **Enable attachments** feature. The subject of attachments isn't covered in this learning path. You can enable attachments after creating the table, so you don't need to know on creation of the table whether your solution requires this functionality.
+
+    Now, you can select the **Primary Column** tab at the top. Here the **Display name** can be changed. This column is not the **ID** column, but it will act as a primary field for users to distinguish records. This exercise will use trip destination because it's easily distinguishable for users. If you want to expand this table to all expense reports and not solely to travel-related expense reports, you would use something else, such as a title column. The **Primary Name Column** will always be a text column.
+
+    Here you can also change the **Schema Name** of the primary column under **Advanced options**. Again, in this case, we should not change this field.
+
+    
 
 1. Enter the table information to match the following screenshot and then select **Create**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of New table information fields with the Create button highlighted.](../media/8-create.png)](../media/8-create.png#lightbox)
-
-    After several seconds, your table will appear. Before you continue, wait until you receive the message that your table has been provisioned successfully.
+    > [![Screenshot of New table information fields filled out.](../media/8-create.png)](../media/8-create.png#lightbox)
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of a message stating, Your table Expense Report has been provisioned successfully.](../media/9-expense-success.png)](../media/9-expense-success.png#lightbox)
+    > [![Screenshot of New table Primary column fields filled out.](../media/8-create-2.png)](../media/8-create-2.png#lightbox)
+
+    After several seconds, your table will appear. 
+
 
 Dataverse has created several columns to help you organize and secure your information. All columns won't be used in this exercise; however, take a moment to look through them in case you need to use them later.
 
@@ -33,12 +38,12 @@ Dataverse has created several columns to help you organize and secure your infor
 
 Now that you have created the table, you need to add a few more columns for your solution:
 
-1. Select **+ Add column** in the upper-left corner.
+1. Select **+ New Column** in the upper-left corner.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Add column option highlighted in the top navigation.](../media/10-add-column.png)](../media/10-add-column.png#lightbox)
+    > [![Screenshot of the New column option highlighted in the top navigation.](../media/10-add-column.png)](../media/10-add-column.png#lightbox)
 
-    A flyout menu similar to the one that you used to create a table will appear. Fill out the **Display name** and system **Name** fields as you did previously. In the **Data type** field, you will define a data type. Defining a data type is important for data validation or to ensure that your users only enter the correct data into that column. For example, if you have an expense date, you don't want someone to enter "three weeks ago" into the field. This information would not be valuable for accounting. Instead, you need to ensure that the user enters an actual date. For more information about the various types of data that's allowed in Dataverse, see [Types of columns](/power-apps/maker/data-platform/types-of-fields/?azure-portal=true).
+    A flyout menu similar to the one that you used to create a table will appear. Fill out the **Display name** and **Schema Name** fields as you did previously. In the **Data type** field, you will define a data type. Defining a data type is important for data validation or to ensure that your users only enter the correct data into that column. For example, if you have an expense date, you don't want someone to enter "three weeks ago" into the field. This information would not be valuable for accounting. Instead, you need to ensure that the user enters an actual date. For more information about the various types of data that's allowed in Dataverse, see [Types of columns](/power-apps/maker/data-platform/types-of-fields/?azure-portal=true).
 
     In the **Required** field, you can make any column required, meaning that the user must populate that field before saving the record. Make sure that users won't need to save as a draft before you make all fields required instead of optional. Additionally, you can write similar data validation inside your canvas app, such as making sure that some fields are populated before users save as a draft but that more fields are populated before users can push the expense report to the next stage.
 
@@ -59,7 +64,7 @@ Now that you have created the table, you need to add a few more columns for your
     - **Description** - Date of departure from home city for travel
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Departure Date fields populated and the Done button highlighted.](../media/11-departure-date.png)](../media/11-departure-date.png#lightbox)
+    > [![Screenshot of Departure Date fields populated.](../media/11-departure-date.png)](../media/11-departure-date.png#lightbox)
 
 1. Create the following extra columns:
 
@@ -97,9 +102,9 @@ Now that you have created the table, you need to add a few more columns for your
 
 1. Select **+ Add column** and enter **Report Status** in the **Display name** field and **ReportStatus** in the **Name** field.
 
-1. On the **Data type** dropdown menu, select **Choices**.
+1. On the **Data type** dropdown menu, select **Choice**.
 
-1. A new **Choice** field will appear. Select the dropdown menu under **Choice** and then select **+ New choice**.
+1. A new field titled **Sync this choice with** will appear. Select **+ New choice**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the new Choice field highlighted.](../media/12-new-choice.png)](../media/12-new-choice.png#lightbox)
@@ -113,6 +118,8 @@ Now that you have created the table, you need to add a few more columns for your
     - Awaiting reimbursement
 
     - Complete
+
+    The **Value** just denotes the backend value that we will use to reference that choice. For this learning path we will start at 1 and increment the value of all by 1.
 
 1. Select **Save**.
 

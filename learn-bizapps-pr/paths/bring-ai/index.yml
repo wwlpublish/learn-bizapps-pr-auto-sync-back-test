@@ -26,6 +26,9 @@ roles:
 - business-user
 products:
 - ai-builder
+subjects:
+- artificial-intelligence
+- business-applications
 modules:
 - learn-bizapps.get-started-with-ai-builder
 - learn-bizapps.manage-models

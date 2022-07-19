@@ -25,6 +25,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- process-workflow
 modules:
 - learn-bizapps.pad-power-automate
 - learn-bizapps.pad-database-handling

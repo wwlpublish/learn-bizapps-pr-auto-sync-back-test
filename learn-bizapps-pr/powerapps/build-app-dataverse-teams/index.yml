@@ -28,7 +28,9 @@ products:
 - power-apps
 - common-data-service
 - office-teams
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.build-app-dataverse-teams.01-introduction 
 - learn-bizapps.build-app-dataverse-teams.02-create-app 
 - learn-bizapps.build-app-dataverse-teams.03-customize-app 
@@ -37,4 +39,4 @@ units:
 - learn-bizapps.build-app-dataverse-teams.06-check 
 - learn-bizapps.build-app-dataverse-teams.07-summary 
 badge: 
-  uid: learn-bizapps.build-app-dataverse-teams.badge 
+  uid: learn-bizapps.build-app-dataverse-teams.badge

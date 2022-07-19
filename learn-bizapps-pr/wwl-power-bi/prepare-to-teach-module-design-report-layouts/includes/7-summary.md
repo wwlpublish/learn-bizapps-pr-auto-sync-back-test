@@ -16,14 +16,14 @@ They will also allow you to provide additional information when you are explaini
 > [!TIP]
 > Take a moment to visit these sites, review their content, and bookmark them for future use.
 
-- [Power BI Report Builder](https://docs.microsoft.com/power-bi/report-builder-power-bi)
+- [Power BI Report Builder](/power-bi/paginated-reports/report-builder-power-bi)
 - [Download Power BI Report Builder](https://aka.ms/pbireportbuilder)
-- [Getting around in Report Design View for paginated reports](https://docs.microsoft.com/power-bi/paginated-reports-report-design-view)
-- [Previewing reports in Power BI Report Builder](https://docs.microsoft.com/power-bi/report-builder-previewing-reports)
-- [Planning a report in Power BI Report Builder](https://docs.microsoft.com/power-bi/report-builder-planning-report)
-- [Pagination in Power BI paginated reports](https://docs.microsoft.com/power-bi/paginated-reports-pagination)
-- [Expression examples in Power BI Report Builder](https://docs.microsoft.com/power-bi/report-builder-expression-examples)
-- [Image use guidance for paginated reports](https://docs.microsoft.com/power-bi/guidance/report-paginated-image)
+- [Getting around in Report Design View for paginated reports](/power-bi/paginated-reports/paginated-reports-report-design-view)
+- [Previewing reports in Power BI Report Builder](/power-bi/paginated-reports/report-builder-previewing-reports)
+- [Planning a report in Power BI Report Builder](/power-bi/paginated-reports/report-builder-planning-report)
+- [Pagination in Power BI paginated reports](/power-bi/paginated-reports/paginated-reports-pagination)
+- [Expression examples in Power BI Report Builder](/power-bi/paginated-reports/report-builder-expression-examples)
+- [Image use guidance for paginated reports](/power-bi/guidance/report-paginated-image)
 
 ## Power BI paginated reports in a day
 The instructor-led course content is available at: [https://aka.ms/priad-video-course](https://aka.ms/priad-video-course).  

@@ -27,7 +27,7 @@ To call AI Builder Business card reader, follow these steps:
 4. Select **File Content** for the **Image** property.
 5. Select **File content type** for the **Image type** property.
 
-    ![Screenshot of the Predict step with Image type and Image options filled in.](../media/image7.png)
+    ![Screenshot of the Predict step with Image type and Image options filled in.](../media/image-7.png)
 
 ### Save the result in the Contacts table
 
@@ -44,7 +44,7 @@ You can map the **Contacts** table fields to the extracted fields from the Busin
 
 You should end with following flow. Select **Save**, and your flow is now ready to process images.
 
-![Example of a flow with When a file is created, Predict, and Create a new record steps.](../media/image8.png)
+![Example of a flow with When a file is created, Predict, and Create a new record steps.](../media/image-8.png)
 
 You can drop a business card image in the **Images** folder of your OneDrive for Business. Power Automate automatically processes this file, triggers AI Builder Business card reader, and stores a new record in the **Contacts** table with the extracted data from the business card.
 

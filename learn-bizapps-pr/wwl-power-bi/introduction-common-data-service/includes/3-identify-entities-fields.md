@@ -5,7 +5,7 @@ Below you can see a screenshot of the standard contact table and various types o
 
 ## Types of tables
 
-The two types of tables are:
+The three types of tables are:
 
 - **Standard** - Several standard tables, also known as out-of-box tables, are included with a Dataverse environment. Account, business unit, contact, task, and user tables are examples of standard tables in Dataverse. Most of the standard tables included with Dataverse can be customized. Tables that are imported as part of a managed solution and set as customizable also appear as standard tables. Any user with appropriate privileges can customize these tables where the table property has customizable set to true.
 

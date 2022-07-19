@@ -129,7 +129,7 @@ Next, you need to create a function that will pass the new **SalesPersonID** que
    > [!div class="mx-imgBorder"]
    > [![Enable load option: ](../media/2-enable-load-option-ssm.png)](../media/2-enable-load-option-ssm.png#lightbox)
 
-4. Select the **SalesPerson** query that you loaded from the Excel worksheet and then, on the **Add Column** tab, select **Invoke custom function** to run the custom function that you created.
+4. Select the **SalesPersonID** query that you loaded from the Excel worksheet and then, on the **Add Column** tab, select **Invoke custom function** to run the custom function that you created.
 
    > [!div class="mx-imgBorder"]
    > [![Invoke custom function option](../media/2-invoke-custom-function-option-ssm.png)](../media/2-invoke-custom-function-option-ssm.png#lightbox)

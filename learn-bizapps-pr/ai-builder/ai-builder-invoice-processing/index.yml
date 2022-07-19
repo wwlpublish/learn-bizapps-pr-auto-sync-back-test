@@ -27,10 +27,13 @@ products:
 - power-automate 
 - ai-builder
 - power-platform
-units: 
+subjects:
+- artificial-intelligence
+- business-applications
+units:
 - learn-bizapps.ai-builder-invoice-processing.1-introduction 
 - learn-bizapps.ai-builder-invoice-processing.2-automate-workflow 
 - learn-bizapps.ai-builder-invoice-processing.3-check 
 - learn-bizapps.ai-builder-invoice-processing.4-summary 
 badge: 
-  uid: learn-bizapps.ai-builder-invoice-processing.badge 
+  uid: learn-bizapps.ai-builder-invoice-processing.badge

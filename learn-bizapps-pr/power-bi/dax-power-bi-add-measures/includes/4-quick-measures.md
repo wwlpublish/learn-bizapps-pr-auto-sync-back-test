@@ -4,7 +4,7 @@ Many categories of calculations and ways to modify each calculation are availabl
 
 In this next example, you'll create another compound measure to calculate profit margin. However, this time, you'll create it as a quick measure.
 
-In the **Fields** pane, select the Sales table. On the **Table tools** contextual ribbon, from inside the **Calculations** group, select **Quick measure**.
+In the **Fields** pane, select the **Sales** table. On the **Table tools** contextual ribbon, from inside the **Calculations** group, select **Quick measure**.
 
 > [!div class="mx-imgBorder"]
 > [![An image shows the Table Tools contextual ribbon for the Sales table. The Quick Measure command is highlighted.](../media/dax-sales-create-quick-measure-ssm.png)](../media/dax-sales-create-quick-measure-ssm.png#lightbox)
@@ -14,7 +14,7 @@ In the **Quick measures** window, in the **Calculation** drop-down list, locate
 > [!div class="mx-imgBorder"]
 > [![An image shows the Quick Measures window, and the selection of the Division calculation.](../media/dax-configure-quick-measure-calculation-ssm.png)](../media/dax-configure-quick-measure-calculation-ssm.png#lightbox)
 
-From the **Fields** list (in the **Quick measures** window), expand the Sales table and then drag the **Profit** measure into the **Numerator** box. Then, drag the **Revenue** measure into the **Denominator** box.
+From the **Fields** list (in the **Quick measures** window), expand the **Sales** table and then drag the **Profit** measure into the **Numerator** box. Then, drag the **Revenue** measure into the **Denominator** box.
 
 > [!div class="mx-imgBorder"]
 > [![An image shows the Quick Measures window, and configuration of the measure: Numerator is set to Profit; Denominator is set to Revenue.](../media/dax-configure-quick-measure-fields-ssm.png)](../media/dax-configure-quick-measure-fields-ssm.png#lightbox)
@@ -27,7 +27,7 @@ DIVIDE([Profit], [Revenue])
 ```
 
 > [!NOTE]
-> After the quick measure has been created, you must apply changes in the formula bar.
+> After the quick measure has been created, you must apply any changes in the formula bar.
 
 Rename the measure as **Profit Margin**, and then set the format to a percentage with two decimal places.
 

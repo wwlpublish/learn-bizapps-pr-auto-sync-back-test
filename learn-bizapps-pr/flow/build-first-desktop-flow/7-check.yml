@@ -24,7 +24,7 @@ quiz:
     - content: A pop-up window will indicate that the recording has started.
       isCorrect: false 
       explanation: The recording pane will be visible, but not a pop-up window.
-    - content: Power Automate Desktop will minimize so that you can see your whole screen.
+    - content: Power Automate for desktop will minimize so that you can see your whole screen.
       isCorrect: false 
       explanation: The recording pane will be visible unless it's manually minimized so that you can see the actions as you record them.
   - content: Which of the following actions can you not perform within Power Automate designer?

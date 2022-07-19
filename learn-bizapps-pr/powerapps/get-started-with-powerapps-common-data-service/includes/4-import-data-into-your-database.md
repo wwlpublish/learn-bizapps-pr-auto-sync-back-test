@@ -30,7 +30,7 @@ When you add data to a template file, you must make sure the data is unique. You
 
 ## Import the file
 1. In the left navigation pane, expand **Data**, and then select **tables**.
-1. Select the **Pet** table, select the drop-down arrow next to Get Data, and then select **Get data from Excel**.
+1. Select the **Pet** table, select the drop-down arrow next to Data, select **Get Data** and then select **Get data from Excel**.
 1. Select **Upload** and select the file that you updated and saved from the previous section.
 1. After the file is uploaded, select **Map columns**.
 1. Set the following Pet columns Source values to **None**.
@@ -60,4 +60,4 @@ When you add data to a template file, you must make sure the data is unique. You
 1. Select the **Pet** table.
 1. On the table designer toolbar, select **Data**.
 
-Notice that the Account column is empty. This is because when you updated the Excel export file and update columns, you weren't instructed to update this column. The reason you weren't instructed to update the Account column is because you cannot set a lookup value when importing data from Excel. This must be done from Power Apps.
+Notice that the Account column is empty. This is because when you updated the Excel export file and update columns, you weren't instructed to update this column. The reason you weren't instructed to update the Account column is that to update a lookup column you need a GUID of a record from the referenced table. If you want to test this, create a record in the **Accounts** table, find the value in the column titled **accountid**, and put that value in the excel sheet **Account** column.

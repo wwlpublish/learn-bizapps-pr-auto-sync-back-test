@@ -63,29 +63,34 @@ With AI Builder, you can:
 - Use one of the prebuilt AI models that are supplied with AI Builder.
 - Build and train your own AI model by using your own data.
 
-AI Builder has five model types for prediction, vision, and language:
+AI Builder has six model types for prediction, vision, and language:
 
 - **Category Classification** - Performs natural language processing on text data and classifies into separate categories.
 - **Entity Extraction** - Recognizes specific data in text data. Entity extraction transforms unstructured text into structured data that can be used in apps and flows.
-- **Form Processing** - Reads and extracts information from documents such as invoices and purchase orders.
+- **Document processing** - Reads and extracts information from documents such as invoices and purchase orders.
 - **Object Detection** - Finds objects within images.
 - **Prediction** - Analyzes patterns in historical data to predict the outcome of new data.
+- **Image Classification** - create an image classification model to categorize images into labels that represent their content
 
-![AI Builder model types.](../media/7-ai-builder-model-types.png)
+![AI Builder model types.](../media/7-ai-builder-model-types.jpg)
 
 AI Builder has the following pretrained models:
 
+- **Invoice Processing** - Extracts key invoice data to help automate the processing of invoices.
+- **Text Recognition** - Extracts words from documents and images into machine-readable character streams.
 - **Category Classification** - Classifies text into categories that are associated with customer feedback, such as compliments, issues, and pricing.
 - **Entity Extraction** - Recognizes and extracts standard business objects in data.
 - **Key Phrase Extraction** - Identifies the main talking points from a piece of text.
 - **Language Detection** - Identifies the language that is used in a piece of text.
 - **Sentiment Analysis** - Detects whether the message in a piece of text has a positive or negative emotion.
 - **Text Translation** - Translates text from one language into another language.
+- **Identity Document Reader** - Extract information from passports and US driver licenses.
 - **Business Card Reader** - Extracts information from an image of a business card.
+- **Image Description** - Analyzes an image, and generates a user-friendly description based on its visual features.
 - **Text Recognition** - Extracts words from documents and images.
 - **Receipt Processing** - Extracts details from pictures of printed and handwritten receipts.
 
-![AI Builder prebuilt models.](../media/7-ai-builder-prebuilt-models.png)
+![AI Builder prebuilt models.](../media/7-ai-builder-prebuilt-models.jpg)
 
 Canvas apps can use prebuilt models and custom models to enhance data. You could use an AI Builder model to analyze text that a user has entered. You can take a picture with a canvas app and then use an AI Builder model to extract the text from the image or to detect objects in the image.
 

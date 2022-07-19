@@ -22,6 +22,8 @@ roles:
 products:
 - power-bi 
 - power-platform 
+subjects:
+- productivity
 modules:
 - learn-bizapps.modern-analytics-intro
 - learn-bizapps.automate-data-cleaning-power-query

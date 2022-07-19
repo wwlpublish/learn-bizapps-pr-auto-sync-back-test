@@ -31,7 +31,9 @@ roles:
 products:  
 - power-automate
 - power-platform
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.button-user-input.1-introduction-design 
 - learn-bizapps.button-user-input.1-user-inputs
 - learn-bizapps.button-user-input.2-input-types 
@@ -40,4 +42,4 @@ units:
 - learn-bizapps.button-user-input.6-check 
 - learn-bizapps.button-user-input.7-summary 
 badge: 
-  uid: learn-bizapps.button-user-input.badge 
+  uid: learn-bizapps.button-user-input.badge

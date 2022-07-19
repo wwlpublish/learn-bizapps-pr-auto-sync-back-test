@@ -31,7 +31,9 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.introduction-return-workplace-solution.1-introduction 
 - learn-bizapps.introduction-return-workplace-solution.2-features 
 - learn-bizapps.introduction-return-workplace-solution.3-functionality 
@@ -39,4 +41,4 @@ units:
 - learn-bizapps.introduction-return-workplace-solution.5-check 
 - learn-bizapps.introduction-return-workplace-solution.6-summary 
 badge: 
-  uid: learn-bizapps.introduction-return-workplace-solution.badge 
+  uid: learn-bizapps.introduction-return-workplace-solution.badge

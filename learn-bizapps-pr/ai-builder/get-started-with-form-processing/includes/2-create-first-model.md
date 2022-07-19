@@ -1,4 +1,4 @@
-The following procedures will show you how to create a Form processing model in AI Builder. This guided experience will walk through each step of the model creation process. You can save your work and return at any time. Progress will be saved automatically when you go between steps.
+The following procedures will show you how to create a Document processing model in AI Builder. This guided experience will walk through each step of the model creation process. You can save your work and return at any time. Progress will be saved automatically when you go between steps.
 
 ## Sign in to AI Builder
 
@@ -6,10 +6,19 @@ Follow these steps to sign in to AI Builder:
 
 1. Go to Power Automate or Power Apps and sign in with your organizational account.
 1. In the left pane, select AI Builder > Explore.
-1. Select Form processing.
-1. Enter a name for your model.
+1. Select Document processing.
 1. If you want to create your model by using your own documents, make sure that you have at least five examples that use the same layout. Otherwise, you can use sample data we will be using in this guided experience. You can download the sample data in [English version](https://go.microsoft.com/fwlink/?linkid=2128080) or in [Japanese version](https://go.microsoft.com/fwlink/?linkid=2186887)
 1. Select **Create**.
+
+## Choose document type
+
+In this step you select the type of document you want to build an AI model to automate data extraction. There are two options:
+
+- **Structured and semi-structured documents**. Structured and semi-structured documents are those where for a given layout, the fields, tables, checkboxes, and other items can be found in similar places. Examples of structured and semi-structured documents are invoices, purchase orders, delivery orders, tax documents, etc.
+
+- **Unstructured and free-form documents**. Unstructured documents are those where there is no set structure, usually free documents with a varying number of paragraphs. Examples of unstructured documents are contracts, statements of work, letters, etc.
+
+![Screenshot of the AI Builder Choose document type page where to choose between structured or unstructured documents.](../media/document-processing-choose-document-type.png)
 
 ## Choose information to extract
 
@@ -38,9 +47,9 @@ Name the first collection **Adatum** and the second collection **Contoso**.
 
 Now that we have created our two collections we will need to upload at least five samples for each collection.
 
-For the collection named **Adatum**, upload the five documents you will find on the **AI Builder Form processing Sample Data/Adatum/Train** folder.
+For the collection named **Adatum**, upload the five documents you will find on the **AI Builder Document processing Sample Data/Adatum/Train** folder.
 
-For the collection names **Contoso**, upload the five documents you will find on the **AI Builder Form processing Sample Data/Contoso/Train** folder.
+For the collection names **Contoso**, upload the five documents you will find on the **AI Builder Document processing Sample Data/Contoso/Train** folder.
 
 ![Animated screenshot of the Power Automate Add collections of documents page uploading five documents to each collection.](../media/form-processing-add-collections-2.gif)
 
@@ -100,5 +109,5 @@ After you have tagged all documents across all collections, follow these steps:
 
 ## Next steps
 
-Now that you've created a Form processing model in AI Builder, you'll learn how to test your model and use it in Power Apps and Power Automate.
+Now that you've created a Document processing model in AI Builder, you'll learn how to test your model and use it in Power Apps and Power Automate.
 

@@ -14,11 +14,11 @@ These resources will help you better understand Parameters for Power BI reportin
 
 They will also allow you to provide additional information when you are explaining these topics to your customers. 
 
-- [Report parameters in Power BI Report Builder](https://docs.microsoft.com/power-bi/report-builder-parameters)
+- [Report parameters in Power BI Report Builder](/power-bi/paginated-reports/report-builder-parameters)
 
-- [Create parameters for paginated reports in the Power BI service](https://docs.microsoft.com/power-bi/paginated-reports-parameters)
+- [Create parameters for paginated reports in the Power BI service](/power-bi/paginated-reports/paginated-reports-parameters)
 
-- [Use cascading parameters in paginated reports](https://docs.microsoft.com/power-bi/guidance/paginated-report-cascading-parameter)
+- [Use cascading parameters in paginated reports](/power-bi/guidance/paginated-report-cascading-parameter)
 
 ## Power BI paginated reports in a day
 The instructor-led course content is available at: [https://aka.ms/priad-video-course](https://aka.ms/priad-video-course).  

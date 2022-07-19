@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.get-started-power-automate-buttons
 metadata:
   title: Start using buttons in Power Automate
@@ -25,6 +25,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- process-workflow
 modules:
 - learn-bizapps.intro-power-automate-buttons 
 - learn-bizapps.button-without-user-input 

@@ -1,0 +1,4 @@
+> [!TIP] 
+> If you’d like to try Microsoft Cloud for Sustainability for free, you can sign up for a [30-day trial](https://dynamics.microsoft.com/sustainability/sustainability/free-trial/?azure-portal=true).
+
+In this module, you learned about the sustainability key concepts and Microsoft’s sustainability journey that shaped the basis for Microsoft Cloud for Sustainability. You learned about the key concepts and core capabilities of Microsoft Sustainability Manager. Finally, you learned how organizations can minimize their environmental footprint and drive more sustainable value chains with greater transparency and accountability, from sourcing of materials through product distribution. 

@@ -30,4 +30,4 @@ You can use the Add Custom Column tool to write new customized query expressions
 
 ![Screenshot of the Custom Column button and dialog.](../media/05-power-bi-desktop-custom-column.png)
 
-For more information, see [Tutorial: Shape and combine data in Power BI Desktop](https://docs.microsoft.com/power-bi/desktop-shape-and-combine-data/?azure-portal=true).
+For more information, see [Tutorial: Shape and combine data in Power BI Desktop](/power-bi/connect-data/desktop-shape-and-combine-data?azure-portal=true).

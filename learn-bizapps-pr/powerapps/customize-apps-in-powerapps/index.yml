@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.powerapps-customize 
 metadata: 
   title: Customize a canvas app in Power Apps
@@ -34,7 +34,9 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.powerapps-customize.1-powerapps-customize
 - learn-bizapps.powerapps-customize.2-1-create-navigation-model
 - learn-bizapps.powerapps-customize.2-powerapps-explore
@@ -43,4 +45,3 @@ units:
 - learn-bizapps.powerapps-customize.5-summary-cleanup
 badge:
   uid: learn.powerapps-customize.badge
-

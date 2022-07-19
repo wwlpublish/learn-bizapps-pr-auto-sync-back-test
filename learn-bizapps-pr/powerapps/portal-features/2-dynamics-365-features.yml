@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.portal-features.2-dynamics-365-features 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.portal-features.2-dynamics-365-features
 title: Dynamics 365 portals features
-metadata: 
-  title: Dynamics 365 portals features 
-  description: Learn about Dynamics 365 portals features.  
-  ms.date: 06/30/2020 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps-portals 
-durationInMinutes: 20 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/2-dynamics-365-features.md)] 
+metadata:
+  title: Dynamics 365 portals features
+  description: Learn about Dynamics 365 portals features.
+  ms.date: 07/11/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps-portals
+durationInMinutes: 20
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-dynamics-365-features.md)]

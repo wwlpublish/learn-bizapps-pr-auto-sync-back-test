@@ -22,7 +22,7 @@ The files required to teach the instructor-led course **Modern Excel Analyst in 
 
 These resources from the instructor-led course will help your students better understand Modern Excel.  
 They will also allow you to provide additional information when you are explaining these topics to your customers.  
-- [Row Level Security (RLS)](https://docs.microsoft.com/power-bi/admin/service-admin-rls)
+- [Row Level Security (RLS)](/power-bi/enterprise/service-admin-rls)
 
 
 

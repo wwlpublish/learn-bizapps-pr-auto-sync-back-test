@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.author-basic-formula-tables-records-powerapps
 metadata: 
   title: Author a basic formula that uses tables and records in a Power Apps canvas app 
@@ -31,7 +31,9 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.tables-and-records.1-what-are-tables-records
 - learn-bizapps.tables-and-records.2-using-table-function
 - learn-bizapps.tables-and-records.3-store-a-table
@@ -42,5 +44,4 @@ units:
 - learn-bizapps.tables-and-records.7-knowledge-check  
 - learn-bizapps.tables-and-records.8-summary
 badge: 
-  uid: learn-bizapps.author-basic-formula-tables-records-powerapps.badge 
-
+  uid: learn-bizapps.author-basic-formula-tables-records-powerapps.badge

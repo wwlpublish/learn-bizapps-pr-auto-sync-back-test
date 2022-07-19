@@ -26,7 +26,9 @@ roles:
 products:  
 - power-platform
 - power-virtual-agents 
-units: 
+subjects:
+- chatbot
+units:
 - learn-bizapps.enhance-power-virtual-agent-bots.1-introduction 
 - learn-bizapps.enhance-power-virtual-agent-bots.2-power-automate 
 - learn-bizapps.enhance-power-virtual-agent-bots.3-agent-handoff 
@@ -35,4 +37,4 @@ units:
 - learn-bizapps.enhance-power-virtual-agent-bots.6-check 
 - learn-bizapps.enhance-power-virtual-agent-bots.7-summary 
 badge: 
-  uid: learn-bizapps.enhance-power-virtual-agent-bots.badge 
+  uid: learn-bizapps.enhance-power-virtual-agent-bots.badge

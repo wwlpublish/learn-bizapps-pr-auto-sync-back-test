@@ -27,11 +27,13 @@ roles:
 products: 
 - power-bi 
 - power-platform
-units: 
+subjects:
+- data-visualization
+units:
 - learn-bizapps.modern-analytics-interactive-experiences.1-introduction 
 - learn-bizapps.modern-analytics-interactive-experiences.2-use-power-bi 
 - learn-bizapps.modern-analytics-interactive-experiences.3-exercise-use-power-bi-desktop-to-build-data-model 
 - learn-bizapps.modern-analytics-interactive-experiences.4-check 
 - learn-bizapps.modern-analytics-interactive-experiences.5-summary 
 badge: 
-  uid: learn-bizapps.modern-analytics-interactive-experiences.badge 
+  uid: learn-bizapps.modern-analytics-interactive-experiences.badge

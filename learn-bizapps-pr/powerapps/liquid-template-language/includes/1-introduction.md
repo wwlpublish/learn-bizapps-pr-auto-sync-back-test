@@ -12,21 +12,35 @@ Liquid code can be used anywhere in the portals where HTML or text content can b
 
 1. Open Power Apps portals Studio and then follow these steps:
 
-   1. Go to the [Power Apps maker portal](https://make.powerapps.com/?azure-portal=true).
-   1. Select the target environment by using the environment selector in the upper-right corner.
-   1. From the **Apps** list, select the application of type **Portal**.
+   1. Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true).
+
+   1. Select a target environment by using the environment selector in the upper-right corner.
+
+   1. On the left menu, select **Apps**.
+
+   1. From the **Apps** list, select the portal app (the app Type will be Portal).
+
    1. Select the **Edit** menu.
 
-1. Select **+ New page > Fixed layouts > Page with title**.
+1. Select **+ New page > Blank**.
 
 1. Enter the following webpage properties:
 
    - **Name** - Liquid
+
    - **Partial URL** - liquid
 
-1. Select the **Page Copy** area on the canvas and then select the Source Code Editor icon (**</>**) on the status bar to start the code editor.
+1. Select the content on the canvas and then select the Source Code Editor icon (**</>**) on the status bar to start the code editor.
 
-1. Append the following text to the existing content:
+   ![Open code editor in portal Studio](../media/open-code-editor.png)
+
+1. In the Code Editor, locate the following line:
+
+   ```html
+   <div class="col-md-12 columnBlockLayout" style="display: flex; flex-direction: column;"></div>
+   ```
+
+1. Insert the following text as the `<div>` tag content :
 
    ```html
    <p>Hello, visitor. The time is {{ 'now' | date: 'g' }}</p>

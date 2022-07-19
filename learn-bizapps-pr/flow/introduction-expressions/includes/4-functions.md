@@ -73,7 +73,7 @@ You'll find over time that you use a combination of both methods depending on yo
 
 These functions are used to change the type of your data. This can be a simple thing like converting a text number into an integer, or more complex functions like changing the encoding of a file from base64 to binary. Knowing that these functions are available will help you overcome problems you come across when getting your data shaped correctly.
 
-A common scenario is the need to use **int** or **float** to change a text number into an actual number. This is common when importing data into your flow from a data source. The number 12 or 12.4 may be stored as text. To use that number in a logical function or write it to a location that expects a number, you'll need to covert it. The following example changes the string "12" into the integer 12.
+A common scenario is the need to use **int** or **float** to change a text number into an actual number. This is common when importing data into your flow from a data source. The number 12 or 12.4 may be stored as text. To use that number in a logical function or write it to a location that expects a number, you'll need to convert it. The following example changes the string "12" into the integer 12.
 
 ```regex
 Int('12')

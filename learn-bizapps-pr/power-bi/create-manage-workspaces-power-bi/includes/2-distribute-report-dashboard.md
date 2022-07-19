@@ -48,7 +48,9 @@ The abilities of role types in a workspace include:
 
 -   **Member**
 
-    -   Can complete all tasks that are associated with admins but can't add or remove users
+    -   Can add users with lower permissions
+
+    -   Cannot remove users
 
     -   Cannot delete the workspace
 

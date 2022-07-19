@@ -26,6 +26,8 @@ products:
 - power-apps
 - power-automate
 - power-virtual-agents
+subjects:
+- business-applications
 modules:
 - learn-bizapps.project-governance
 - learn-bizapps.power-platform-architecture
@@ -41,4 +43,3 @@ modules:
 - learn-bizapps.project-test-process
 trophy:
   uid: learn.solution-architect-design.trophy
-

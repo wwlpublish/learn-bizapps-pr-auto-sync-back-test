@@ -6,11 +6,11 @@ The following diagram shows common integration challenges that a solution archit
 
 ![Diagram of common integration challenges.](../media/2-common-challenges.png)
 
-The solution architect must ensure that integrations are not brittle; tightly-coupled systems are hard to change.
+The solution architect must ensure that integrations aren't brittle so systems are not hard to change.
 
 ## Influencers
 
-Factors that will influence how you design integrations include:
+Factors that will influence your design integrations include:
 
 - Volume of data that is being moved or accessed
 - Quality of data
@@ -24,7 +24,7 @@ Factors that will influence how you design integrations include:
 
 ## Causes of failure
 
-Consider the projects that you have worked on that experienced issues with integrations and what might have caused the integrations to fail.
+Consider the projects that you've worked on that experienced issues with integrations and what might have caused the integrations to fail.
 
 The following factors will cause integrations to fail:
 
@@ -49,7 +49,7 @@ The solution architect needs to ensure that integrations are designed to be resi
 
 ## Integration design process
 
-Every situation is unique, and you will encounter a variety of integration scenarios on projects. While it is useful to be introduced to and learn how to integrate a technology, it is more important that you develop skills to evaluate real project needs. By using the principals, ideas, and concepts, you can navigate through complex integration challenges. The following diagram shows the steps that you should follow in the integration process.
+Every situation is unique, and you'll encounter various integration scenarios on projects. While it's useful to learn how to integrate a technology, it's more important that you develop skills to evaluate real project needs. By using the principals, ideas, and concepts, you can navigate through complex integration challenges. The following diagram shows the steps that you should follow in the integration process.
 
 ![Diagram showing the integration process.](../media/2-integration-process.png)
 
@@ -57,10 +57,10 @@ The design process is a balance, and you won't have a right or wrong answer for 
 
 ![Diagram showing the integration approaches.](../media/2-integration-approaches.png)
 
-In some cases, it is cheaper to hire staff than to build the integration. Technologists often overlook non-technical solutions that are still viable. You should also consider whether the integration is necessary and if it needs to be real-time.
+In some cases, it's cheaper to hire staff than to build the integration. Technologists often overlook non-technical solutions that are still viable. You should also consider whether the integration is necessary and if it needs to be real-time.
 
 > [!IMPORTANT]
-> The solution architect should also consider using Power Automate Desktop flows to perform integrations at the user interface level.
+> The solution architect should also consider using Power Automate for desktop flows to perform integrations at the user interface level.
 
 ## Data integration
 
@@ -72,5 +72,5 @@ Ways that you can categorize data include:
 - **Volume** - Assess how large the volume of data is.
 - **Time sensitive** - Decide if the data needs to be real-time.
 - **Batch** - Evaluate whether the data must be processed in batch or if it must be processed on a transaction-by-transaction basis.
-- **Regulated** - Asses if the data contains personal information or if restrictions are in place on where the data can be stored.
+- **Regulated** - Assess if the data contains personal information or if restrictions are in place on where the data can be stored.
 - **Licensed** - Determine if the data is licensed and if limitations are on data use.

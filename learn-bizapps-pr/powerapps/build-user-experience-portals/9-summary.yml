@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.build-user-experience-portals.9-summary 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-user-experience-portals.9-summary
 title: Summary
-metadata: 
+metadata:
   title: Summary
   description: Summary of the Build user experience in Power Apps portals module
-  ms.date: 06/01/2021
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps 
+  ms.date: 07/12/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps
 durationInMinutes: 1
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/9-summary.md)] 
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/9-summary.md)]

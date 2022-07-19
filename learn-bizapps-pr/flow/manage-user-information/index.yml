@@ -28,6 +28,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- process-workflow
 units:
 - learn-bizapps.manage-user-information.1-introduction
 - learn-bizapps.manage-user-information.2-tokens

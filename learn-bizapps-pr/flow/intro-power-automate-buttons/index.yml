@@ -30,7 +30,9 @@ roles:
 products:   
 - power-automate
 - power-platform
-units: 
+subjects:
+- process-workflow
+units:
 - learn-bizapps.intro-power-automate-buttons.1-introduction 
 - learn-bizapps.intro-power-automate-buttons.2-types 
 - learn-bizapps.intro-power-automate-buttons.3-mobile 
@@ -40,4 +42,4 @@ units:
 - learn-bizapps.intro-power-automate-buttons.8-check 
 - learn-bizapps.intro-power-automate-buttons.9-summary 
 badge: 
-  uid: learn-bizapps.intro-power-automate-buttons.badge 
+  uid: learn-bizapps.intro-power-automate-buttons.badge

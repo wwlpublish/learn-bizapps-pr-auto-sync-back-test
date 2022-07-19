@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.automate-process-using-flow
 metadata:
   title: Automate a business process using Power Automate
@@ -31,6 +31,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- process-workflow
 modules:
 - learn-bizapps.flow-get-started
 - learn-bizapps.build-approval-flows
@@ -41,4 +43,3 @@ modules:
 - learn-bizapps.business-process-optimization-process-advisor 
 trophy:
   uid: learn.automate-process-using-flow.trophy
-

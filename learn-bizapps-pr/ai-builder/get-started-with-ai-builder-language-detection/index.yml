@@ -31,11 +31,13 @@ products:
 - ai-builder 
 - power-platform
 - power-automate
-units: 
+subjects:
+- artificial-intelligence
+units:
 - learn-bizapps.get-started-with-ai-builder-language-detection.1-intro-to-language-detection 
 - learn-bizapps.get-started-with-ai-builder-language-detection.2-business-problems-solved 
 - learn-bizapps.get-started-with-ai-builder-language-detection.3-exercise 
 - learn-bizapps.get-started-with-ai-builder-language-detection.3a-check
 - learn-bizapps.get-started-with-ai-builder-language-detection.4-summary 
 badge: 
-  uid: learn-bizapps.get-started-with-language-detection.badge 
+  uid: learn-bizapps.get-started-with-language-detection.badge

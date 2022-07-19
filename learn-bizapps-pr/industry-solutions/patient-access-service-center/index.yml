@@ -32,7 +32,9 @@ roles:
 products: 
 - mscloud-healthcare 
 - industry-solutions 
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.patient-access-service-center.1-introduction 
 - learn-bizapps.patient-access-service-center.2-configure-patient-access-portal 
 - learn-bizapps.patient-access-service-center.3-configure-agent-scripts 
@@ -41,4 +43,4 @@ units:
 - learn-bizapps.patient-access-service-center.6-check 
 - learn-bizapps.patient-access-service-center.7-summary 
 badge: 
-  uid: learn-bizapps.patient-access-service-center.badge 
+  uid: learn-bizapps.patient-access-service-center.badge

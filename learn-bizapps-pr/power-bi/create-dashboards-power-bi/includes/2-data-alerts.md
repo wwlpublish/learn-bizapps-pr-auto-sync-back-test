@@ -1,4 +1,4 @@
-Configuring data alerts is a simple process to complete on a dashboard in Power BI. Data alerts can be used to notify you or a user that a specific data point is above, below, or at a specific threshold that you can set. These alerts are features that are only available on Power BI service and they are available on such report elements as KPI visuals, gauges, and cards.
+Configuring data alerts is a simple process to complete for a dashboard in Power BI. Data alerts can be used to notify you or a user that a specific data point is above, below, or at a specific threshold that you can set. These alerts are features that are only available on Power BI service and they are available on such report elements such as KPI visuals, gauges, and cards.
 
 To continue with the previous scenario, you've begun putting together dashboards for the Sales team at Tailwind Traders. The sales data includes customer help ticket data that is focused around payment processes on the website. The company has a requirement that they want to be notified when the **Total Tickets** metric on the **Tickets** dashboard goes above a threshold so they can escalate to the appropriate customer service team. They also want to make sure that this alert is user-friendly so that anyone on the team can set up, view, and configure such alerts.
 
@@ -18,4 +18,4 @@ After selecting **Save and Close**, you will have successfully created a data al
 
 This feature is available to whomever has access to the dashboard, not just the dashboard owner. Consequently, when the Sales team begins configuring the data alerts, they can personalize them so that whoever uses the report can have their own set of alerts. Additionally, you can enable or disable the alert by using the toggle switch.
 
-For more information, see [Data Alerts in Power BI service](https://docs.microsoft.com/power-bi/create-reports/service-set-data-alerts/?azure-portal=true).
+For more information, see [Data Alerts in Power BI service](/power-bi/create-reports/service-set-data-alerts?azure-portal=true).

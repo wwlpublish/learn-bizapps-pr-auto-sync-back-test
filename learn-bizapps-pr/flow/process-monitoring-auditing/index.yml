@@ -30,7 +30,9 @@ roles:
 products:  
 - power-platform 
 - power-automate 
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.process-monitoring-auditing.1-introduction
 - learn-bizapps.process-monitoring-auditing.2-how-logging-works 
 - learn-bizapps.process-monitoring-auditing.3-filtering-log-messages 
@@ -38,4 +40,4 @@ units:
 - learn-bizapps.process-monitoring-auditing.5-check-knowledge 
 - learn-bizapps.process-monitoring-auditing.6-summary 
 badge: 
-  uid: learn-bizapps.process-monitoring-auditing.badge 
+  uid: learn-bizapps.process-monitoring-auditing.badge

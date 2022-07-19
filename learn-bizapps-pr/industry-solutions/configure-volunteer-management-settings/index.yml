@@ -27,7 +27,9 @@ roles:
 products: 
 - industry-solutions
 - mscloud-nonprofit
-units: 
+subjects:
+- modern-work
+units:
 - learn-bizapps.configure-volunteer-management-settings.1-introduction 
 - learn-bizapps.configure-volunteer-management-settings.2-qualifications 
 - learn-bizapps.configure-volunteer-management-settings.3-onboard-templates 
@@ -36,4 +38,4 @@ units:
 - learn-bizapps.configure-volunteer-management-settings.6-check 
 - learn-bizapps.configure-volunteer-management-settings.7-summary 
 badge: 
-  uid: learn-bizapps.configure-volunteer-management-settings.badge 
+  uid: learn-bizapps.configure-volunteer-management-settings.badge

@@ -1,4 +1,4 @@
-﻿### YamlMime:LearningPath
+### YamlMime:LearningPath
 uid: learn-bizapps.advanced-data-options-and-connectors
 metadata:
   title: Use advanced data options and connectors in Power Apps
@@ -24,6 +24,8 @@ roles:
 products:
 - power-platform
 - power-apps
+subjects:
+- custom-app-development
 modules:
 - learn-bizapps.work-with-relational-data
 - learn-bizapps.data-source-limits
@@ -31,4 +33,3 @@ modules:
 - learn-bizapps.custom-connectors
 trophy:
   uid: learn-bizapps.advanced-data-options-and-connectors.trophy
-

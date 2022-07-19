@@ -31,6 +31,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- process-workflow
 units:
 - learn-bizapps.share-cloud-flow.introduction
 - learn-bizapps.share-cloud-flow.share-co-ownership

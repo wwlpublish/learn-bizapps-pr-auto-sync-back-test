@@ -3,7 +3,7 @@ uid: learn-bizapps.testing-performance-checks.4-knowledge-check
 metadata: 
   title: Check your knowledge
   description: Answer the following questions to see what you've learned.
-  ms.date: 06/29/2021 
+  ms.date: 05/25/2022 
   author: DaveBeasley
   ms.author: dbeasley 
   ms.topic: interactive-tutorial 
@@ -16,16 +16,16 @@ quiz:
   questions: 
   - content: When working with relational data what is a common mistake that can have a drastic negative impact?
     choices: 
-    - content: Power Apps does not support relational data.
+    - content: Trying to work with relational data.
       isCorrect: false
       explanation: If you query the data source directly in a Gallery, a negative impact can result. 
-    - content: You use a LookUp function to query the data source directly in a Gallery.
+    - content: Using a LookUp function to query the data source directly in a Gallery.
       isCorrect: true
       explanation: If you query the data source directly in a Gallery, a negative impact can result. 
-    - content: You do not collect all of the data, regardless of size, in the OnVisible property.
+    - content: Not collecting all of the data, regardless of size, in the OnVisible property.
       isCorrect: false 
       explanation: If you query the data source directly in a Gallery, a negative impact can result. 
-    - content: You do not collect all of the data, regardless of size, in the OnStart property.
+    - content: Not collecting all of the data, regardless of size, in the OnStart property.
       isCorrect: false 
       explanation: If you query the data source directly in a Gallery, a negative impact can result. 
   - content: Which of the following statement is true regarding Experimental features?

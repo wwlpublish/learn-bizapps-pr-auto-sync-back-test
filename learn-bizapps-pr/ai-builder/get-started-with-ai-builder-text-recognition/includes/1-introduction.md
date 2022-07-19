@@ -6,6 +6,6 @@ When you are predicting, AI Builder Text recognition will try to identify printe
 
 Many other possible business applications for text recognition will be covered in this module.
 
-![Screenshot of a sample image with various types of text. 7 lines of text recognized. Click or tap to choose image for text recognition.](../media/image1.png)
+![Screenshot of a sample image with various types of text. 7 lines of text recognized. Click or tap to choose image for text recognition.](../media/image-1.png)
 
 After the image has been analyzed, a maker can retrieve the recognized text and use it in their Microsoft Power Apps and Power Automate business processes.

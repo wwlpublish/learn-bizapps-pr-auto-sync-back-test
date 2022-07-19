@@ -1,15 +1,15 @@
-Unlike other database management systems, Power BI has the concept of *directionality* to a relationship. This directionality, or *cardinality*, plays an important role in filtering data between multiple tables. When you load data, Power BI automatically looks for relationships that exist within the data by matching column names. You can also use **Manage Relationships** to edit these options manually.
+Unlike other database management systems, Power BI has the concept of *directionality* to a relationship. This directionality plays an important role in filtering data between multiple tables. When you load data, Power BI automatically looks for relationships that exist within the data by matching column names. You can also use **Manage Relationships** to edit these options manually.
 
 For example, you've retrieved many tables from the Sales database, and the following image is an example of your data model. Power BI has autodetected several relationships, but you can't discern what they mean. You want to make sure that the relationships accurately reflect those that exist in your data.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Example data model](../media/06-example-data-model-1-ss.png)](../media/06-example-data-model-1-ss.png#lightbox)
 
-## Cardinality
+## Relationships
 
-The following are different types of cardinality that you'll find in Power BI.
+The following are different types of relationships that you'll find in Power BI.
 
-Many-to-one `(*:1)` or one-to-many `(1: *)` cardinality:
+Many-to-one `(*:1)` or one-to-many `(1: *)` relationship
 
 - Describes a relationship in which you have many instances of a value in one column that are related to only one unique corresponding instance in another column.
 
@@ -22,7 +22,7 @@ An example of a one-to-many relationship would be between the CountryName and Te
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the many-to-one relationship.](../media/06-many-to-one-2-ss.png)](../media/06-many-to-one-2-ss.png#lightbox)
 
-One-to-one (1:1) cardinality:
+One-to-one (1:1) relationship:
 
 - Describes a relationship in which only one instance of a value is common between two tables.
 
@@ -35,7 +35,7 @@ An example of a one-to-one relationship would be if you had products and product
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the one-to-one relationship.](../media/06-one-to-one-example-12-ss.png)](../media/06-one-to-one-example-12-ss.png#lightbox)
 
-Many-to-many (*.*) cardinality:
+Many-to-many (*.*) relationship:
 
 - Describes a relationship where many values are in common between two tables.
 
@@ -84,11 +84,11 @@ Consider the scenario where you are tasked with building a visual that examines 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of many-to-many relationship.](../media/06-many-to-many-relationship-01-ssm.png)](../media/06-many-to-many-relationship-01-ssm.png#lightbox)
 
-To create this relationship, go to **Manage Relationships** **>** **New**. In the resulting window, create a relationship between the **Customer ID** column in CustomerTable and AccountTable. The cardinality is set to many-to-many, and the filter type is in both directions. Immediately, you will be warned that you should only use this type of relationship if it is expected that neither column will have unique values because you might get unexpected values. Because you want to filter in both directions, choose **bi-directional cross-filtering**.
+To create this relationship, go to **Manage Relationships** **>** **New**. In the resulting window, create a relationship between the **Customer ID** column in CustomerTable and AccountTable. The relationship is set to many-to-many, and the filter type is in both directions. Immediately, you will be warned that you should only use this type of relationship if it is expected that neither column will have unique values because you might get unexpected values. Because you want to filter in both directions, choose **bi-directional cross-filtering**.
 
 Select **OK**. You have now successfully created a many-to-many relationship.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of many-to-many relationship in Manage Relationship.](../media/06-manage-relationships-04-ssm.png)](../media/06-manage-relationships-04-ssm.png#lightbox)
 
-For more information, see [Many-to-many relationships in Power BI](https://docs.microsoft.com/power-bi/transform-model/desktop-many-to-many-relationships/?azure-portal=true).
+For more information, see [Many-to-many relationships in Power BI](/power-bi/transform-model/desktop-many-to-many-relationships?azure-portal=true).

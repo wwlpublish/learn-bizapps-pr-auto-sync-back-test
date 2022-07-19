@@ -1,4 +1,4 @@
-﻿### YamlMime:Module 
+### YamlMime:Module 
 uid: learn-bizapps.use-imperative-dev-techniques 
 metadata: 
   title: Use imperative development techniques for canvas apps in Power Apps
@@ -28,7 +28,9 @@ roles:
 products:  
 - power-platform
 - power-apps
-units: 
+subjects:
+- custom-app-development
+units:
 - learn-bizapps.use-imperative-dev-techniques.1-imperative-vs-declarative 
 - learn-bizapps.use-imperative-dev-techniques.2-variables 
 - learn-bizapps.use-imperative-dev-techniques.3-global-variables 
@@ -39,5 +41,4 @@ units:
 - learn-bizapps.use-imperative-dev-techniques.7-knowledge-check 
 - learn-bizapps.use-imperative-dev-techniques.8-summary 
 badge: 
-  uid: learn-bizapps.use-imperative-dev-techniques.badge 
-
+  uid: learn-bizapps.use-imperative-dev-techniques.badge

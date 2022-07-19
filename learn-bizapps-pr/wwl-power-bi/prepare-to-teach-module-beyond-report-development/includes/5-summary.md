@@ -21,19 +21,19 @@ These resources will help you better understand how to publish your Power BI rep
 
 They will also allow you to provide additional information when you are explaining these topics to your customers.
 
-- [Publish a paginated report to the Power BI service](https://docs.microsoft.com/power-bi/paginated-reports-save-to-power-bi-service)
+- [Publish a paginated report to the Power BI service](/power-bi/paginated-reports/paginated-reports-save-to-power-bi-service)
 
-- [URL parameters in paginated reports in Power BI](https://docs.microsoft.com/power-bi/report-builder-url-parameters)
+- [URL parameters in paginated reports in Power BI](/power-bi/paginated-reports/report-builder-url-parameters)
 
-- [Pass a report parameter in a URL for a paginated report in Power BI](https://docs.microsoft.com/power-bi/report-builder-url-pass-parameters)
+- [Pass a report parameter in a URL for a paginated report in Power BI](/power-bi/paginated-reports/report-builder-url-pass-parameters)
 
-- [Report design tips in Power BI Report Builder](https://docs.microsoft.com/power-bi/report-builder-design-tips)
+- [Report design tips in Power BI Report Builder](/power-bi/paginated-reports/report-builder-design-tips)
 
-- [When to use paginated reports in Power BI](https://docs.microsoft.com/power-bi/guidance/report-paginated-or-power-bi)
+- [When to use paginated reports in Power BI](/power-bi/guidance/report-paginated-or-power-bi)
 
 ### SSR migration (SQL Server Reporting Services)
 
-- [Migrate SQL Server Reporting Services reports to Power BI](https://docs.microsoft.com/power-bi/guidance/migrate-ssrs-reports-to-power-bi)
+- [Migrate SQL Server Reporting Services reports to Power BI](/power-bi/guidance/migrate-ssrs-reports-to-power-bi)
 
 - [RDL migration tool](https://github.com/microsoft/RdlMigration)
 
