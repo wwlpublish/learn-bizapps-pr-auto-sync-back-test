@@ -1,1 +1,1 @@
-Continuous Delivery/Deployment (CD) is the process to **build**, **test**, **configure**, and **deploy** from a build to a production environment. Successive environments support progressively longer-running activities of ***integration***, ***load***, and ***user acceptance testing***.
+Continuous delivery/deployment is the process of building, testing, setting up, and deploying from a build to a production environment. Successive environments support progressively longer-running activities of integration, load, and user acceptance testing.
