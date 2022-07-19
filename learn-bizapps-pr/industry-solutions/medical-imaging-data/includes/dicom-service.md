@@ -16,7 +16,7 @@ DICOMcast allows the synchronization of data from DICOM service to a FHIR servic
 DICOMcast is the first cloud technology to bring DICOM metadata and healthcare data together in FHIR. The technology works by enabling communication across clinical and imaging datasets. For example, for a given patient, DICOMcast makes it possible for providers to view the patient’s FHIR records and medical images together as if they're from the same data store. DICOMcast also enables new interoperability in medical studies, such as radiological queries, by using labeled attributes combined with patients’ health histories in FHIR. 
 
 > [!div class="mx-imgBorder"]
-> [![Diagram of the architecture of DICOMcast.](../media/dicom-cast.png)(../media/dicom-cast.png#lightbox)
+> [ ![Diagram of the architecture of DICOMcast.](../media/dicom-cast.png) ](../media/dicom-cast.png#lightbox)
 
 ### DICOMcast operation
 
