@@ -26,9 +26,9 @@ prerequisites: |
   - "TODO prerequisite 3 (if needed; see https://review.docs.microsoft.com/help/learn/id-guidance-prerequisites?branch=main"
 iconUrl: /learn/achievements/generic-badge.svg
 levels: 
-  - associate
+  - intermediate
 roles: 
-  - app maker
+  - maker
 products:  
 - power-platform
 - power-apps
