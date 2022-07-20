@@ -6,7 +6,7 @@ Power BI also applies the configured deployment rules to the updated content in 
 
 ## Deploy all content to a stage
 
-Select the stage to deploy from and then select the deployment button. The deployment process creates a duplicate workspace in the target stage. This workspace includes all the content existing in the current stage.
+Select the stage to deploy from and then select the deployment button. The deployment process will copy all of the workspace content into the target stage. This workspace includes all the content existing in the current stage.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot highlighting deploy option in Development and Test stage.](../media/deploy-content-stage.png)](../media/deploy-content-stage.png#lightbox)

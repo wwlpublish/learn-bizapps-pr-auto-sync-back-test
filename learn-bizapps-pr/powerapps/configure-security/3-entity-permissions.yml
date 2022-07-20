@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.configure-security.3-entity-permissions 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.configure-security.3-entity-permissions
 title: Entity permissions
-metadata: 
+metadata:
   title: Entity permissions
   description: Learn how to define user access and scope with entity permissions.
-  ms.date: 06/01/2021
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-apps 
-durationInMinutes: 10 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/3-entity-permissions.md)] 
+  ms.date: 07/12/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-apps
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-entity-permissions.md)]

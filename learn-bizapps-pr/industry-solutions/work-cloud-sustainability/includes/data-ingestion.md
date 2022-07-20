@@ -10,12 +10,12 @@ A live stream of data is a more reliable way of keeping supporting data accurate
 
 Three types of data in Sustainability Manager are reference or master data, transactional data, and analytical data. 
 - **Master data** - The system or master data is the reference data that supports the continuous flow of activity data, allowing for near real-time emissions calculations.
-- **Transactional data** – This data represents the activity and includes everything that can produce emissions. You can perform the calculations on the transactional data, which is ingested periodically. 
+- **Transactional data** - This data represents the activity and includes everything that can produce emissions. You can perform the calculations on the transactional data, which is ingested periodically. 
 
     > [!Note]
     > The master data and transactional data is stored in Microsoft Dataverse, which is where the recording happens.
 
-- **Analytical data** – This data is used to feed all insights and the scorecards. It’s the data that results from periodic calculations and combines master data, and it’s used for optimal analytical purposes. 
+- **Analytical data** - This data is used to feed all insights and the scorecards. It’s the data that results from periodic calculations and combines master data, and it’s used for optimal analytical purposes. 
 
     > [!Note]
     > Analytical data is stored in Azure Data Lake and is used for reporting and reduction goals.

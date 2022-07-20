@@ -4,12 +4,16 @@ Blocks of content that can be copied and reused can help maintain the design and
 
 Content snippets are small chunks of editable content that can be placed by a template maker on a page template, allowing for customizable content to populate any portion of a page, including headers and footers.
 
-New content snippets can only be created in the Portal Management app. If a template maker inserts a snippet as editable, then the portals Studio will display the **Edit** command when a user hovers over the snippet. Snippet content then can be edited by using the Source code editor.
+New content snippets can only be created in the Portal Management app. If a template maker inserts a snippet as editable, then the portals Studio will highlight the snippet area and enable selection mode when a user hovers over the snippet. 
+
+![Screenshot of a content snippet highlighted and selected in portals Studio.](../media/content-snippet-highlighted.png)
+
+Once a snippet is selected on the page canvas, its content can then be edited by using the Source code editor.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of editing footer source code snippet.](../media/snippet-editing.png)](../media/snippet-editing.png#lightbox)
 
-Content managers who are editing a snippet should be aware whether the snippet is used in one place only, for example when defining the title on the portals home page, or if the snippet is used in multiple templates throughout the site, such as an official business trading name (that can change). In the latter scenario, changing the content in one place will update it wherever the snippet is used.
+Content managers who are editing a snippet should be aware whether the snippet is used in one place only. For example, when defining the title on the portals home page, or if the snippet is used in multiple templates throughout the site, such as an official business trading name (that can change). In the latter scenario, changing the content in one place will update it wherever the snippet is used.
 
 Snippets can contain more than text content; they can also contain HTML, layout elements, styles, or even Liquid code template processing instructions. A snippet can be used wherever the need exists to make part of a portal (not necessarily even visible) customizable and reusable.
 
@@ -19,7 +23,7 @@ Using snippets creates a consistent appearance and behavior for the site, which 
 
 The front-side content editor can be used to create the hierarchical structure of your portal by adding child pages, child files, and child shortcuts to a webpage. A shortcut can be a link to an external URL, another webpage or web file, or a forum on your portal. Shortcuts allow you to modify the site map without actually moving content.
 
-For example, consider scenarios when you have a **News** page that contains news categories. You might decide to list the latest company announcement as part of the news navigation. To accomplish that task, you would define a **Latest** shortcut (with the **News** page as a parent) that points to the latest announcement (which could be "buried" in the hierarchy and have a URL such as `https://www.contoso.com/news/2019/Q1/profit-up-20-percent`). As a result, your navigation would place a shortcut on a page from the hierarchy directly below the top level news categories.
+For example, consider scenarios when you have a **News** page that contains news categories. You might decide to list the latest company announcement as part of the news navigation. To accomplish that task, you would define a **Latest** shortcut (with the **News** page as a parent) that points to the latest announcement (which could be "buried" in the hierarchy and have a URL such as `https://www.contoso.com/news/2022/Q1/profit-up-20-percent`). As a result, your navigation would place a shortcut on a page from the hierarchy directly below the top level news categories.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of shortcut URL sample navigation.](../media/shortcut-sample.png)](../media/shortcut-sample.png#lightbox)

@@ -1,17 +1,17 @@
-Regardless of the portal template that you choose, a Microsoft Power Apps portals application has a set of core features that allows makers to build or configure a powerful, externally facing web application on Microsoft Power Platform. 
+Regardless of the portal template that you choose, a Microsoft Power Apps portals application has a set of core features that allow makers to build or configure a powerful, externally facing web application on Microsoft Power Platform.
 
 ## Content management
 
-Webpages, static text, images, and other content can be quickly created in a portal web application by using the Power Apps portals Studio and other tools.  
+Webpages, static text, images, and other content can be quickly created in a portal web application by using the Power Apps portals Studio and other tools.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the portal web application using Power Apps portals Studio.](../media/1-content-management.png)](../media/1-content-management.png#lightbox)
 
 ## Multi-language
 
-Portals content and navigation can be viewed in up to 43 different languages. Portal visitors will be able to switch to different languages and not lose their current page or navigation. Other languages will need to be provisioned within Microsoft Dataverse to use the multi-language capabilities in a portal.
+Portal content and navigation can be viewed in up to 43 different languages. Portal visitors will be able to switch to different languages and not lose their current page or navigation. Other languages will need to be provisioned within Microsoft Dataverse to use the multi-language capabilities in a portal.
 
-> [!NOTE] 
+> [!NOTE]
 > Content will still need to be translated and updated on the webpages and in the content snippets for the specified enabled languages. Any Dataverse assets that are added to the portal, such as tables, forms, views, or columns, will also need to have corresponding label translations by using the Dataverse multilingual functionality.
 
 > [!div class="mx-imgBorder"]
@@ -55,7 +55,7 @@ An authenticated portal user will be able to manage their own profile informatio
 
 ## Customization and extensibility
 
-Power Apps portals provide many tools to create content, add Dataverse data, and configure the appearance of a portal application. Portal capabilities can also be further extended by using custom web templates, Liquid markup, JavaScript, Cascading Style Sheets (CSS), and Portals Web API. Portals can also use other Microsoft Power Platform development technologies such as plug-ins, Power Automate, and classic workflows.
+Power Apps portals provide many tools to create content, add Dataverse data, and configure the appearance of a portal application. Portal capabilities can also be further extended by using custom web templates, Liquid template language, JavaScript, Cascading Style Sheets (CSS), and Portals Web API. Portals can also use other Microsoft Power Platform development technologies such as plug-ins, Power Automate, and classic workflows.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Category Details web template from Partner starter portal.](../media/1-web-template.png)](../media/1-web-template.png#lightbox)

@@ -81,7 +81,7 @@ In this task, you will create the **Sales Monitoring** dashboard.
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Sales YTD showing the word Blank.](../media/lab-5-ss.png)](../media/lab-5-ss.png#lightbox)
 
-	This measure is Time Intelligence expression and it requires a filter on the **Date** table to produce a result.
+	This measure is a Time Intelligence expression and it requires a filter on the **Date** table to produce a result.
 
 1. Extend the question with: **in year FY2020**.
 

@@ -19,6 +19,7 @@ In the Company profile section, you can set up your organization and define your
     > [![Screenshot of organization setting where you can create company profile by providing details.](../media/company-profile-information.png)](../media/company-profile-information.png#lightbox)
 
 - **General** – Contains basic information.
+
 - **Structure** – Contains organizational units and their hierarchy.
 - **Facilities** – Contains information about specific facilities. 
 

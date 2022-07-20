@@ -20,13 +20,14 @@ To work with the Power Fx experience, follow these steps:
 
     In this field, you can generate any formula that you want. This checklist is especially useful if you want to use a formula that has values that aren’t present in the dropdown menus. 
 
-The following example shows a Power Fx formula. It has an entity, a field, and a condition.
+    The following example shows a Power Fx formula. It has an entity, a field, and a condition.
 
-- **Entity** - Activity
-- **Field** - Vehicle type
-- **Condition value** – The **is-on-road** value will be **True** or **False**
+    - **Entity** - Activity
 
-This example shows why Power Fx is helpful. The value is on road isn’t available as a default in the dropdown menus. Power Fx makes it possible for you to use that variable. 
+    - **Field** - Vehicle type
+    - **Condition value** – The **is-on-road** value will be **True** or **False**
+
+    This example shows why Power Fx is helpful. The value is on road isn’t available as a default in the dropdown menus. Power Fx makes it possible for you to use that variable. 
 
 2. Select **Power Fx to enable UI (user interface)**.
 
@@ -40,12 +41,12 @@ The following section describes the report nodes in more detail.
 > [!div class="mx-imgBorder"]
 > [![Screenshot showing conditions and report details that describes report nodes in more details.](../media/report-nodes.png)](../media/report-nodes.png#lightbox)
 
-The right side of the preceding screenshot shows four dropdown menus, such as Emission Report Value, Unit, Factor Library, and Emission Factor. These dropdown menus are conducting calculations on your source data, which in this case is Mobile Combustion.
+The right side of the preceding screenshot shows four dropdown menus, such as Emission report value, Unit, Emission factor library, and Emission factor. These dropdown menus are conducting calculations on your source data, which in this case is Mobile Combustion.
 
 The model in this example will ask the following categorical questions:
 
-- **Fuel Quantity** - What quantity of fuel is being consumed? 
-- **Fuel Quantity Unit** - In what unit is that fuel measured? For example, is it measured in gallons or liters? Fortunately, the most common unit conversions have been prepopulated into the solution for you.
+- **Emission report value** - What is the fuel quantity that is being consumed? 
+- **Unit** - In what unit is the fuel quantity measured? For example, is it measured in gallons or liters? Fortunately, the most common unit conversions have been prepopulated into the solution for you.
 - **Emission factor library** - Which calculation library will you use to measure the emissions impact of fuel consumption? In this case, the answer is EPA.
 - **Emission factor** - What is the emission factor? In this case, you’re using a factor mapping called Fuel Type. An option is available for you to include a specific emission factor, but when you select the factor mapping of Fuel Type, the system will automatically assign the correct factor from the EPA as different fuel types are parsed through the system.
 
@@ -62,6 +63,7 @@ Now, you’ll zoom into the report node for distance in the lower-left of the sc
 
 You’ve selected:
 - Distance
+
 - Distance Unit
 - EPA calculation library
 - Vehicle Type 

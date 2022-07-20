@@ -4,7 +4,7 @@ The Power BI clustering feature allows you to quickly find groups of similar dat
 
 For example, you might want to look for patterns in your sales data, such as the behavior of customers overall. You can segment the customers into clusters according to their similarities, such as age or location.
 
-Start by adding the scatter chart visualization to your report and then add the required fields to the visual. In this example, you will add the **Order Qty** field to the x-axis, the **Sales** field to the y-axis, and the **Product Name** field to the **Details** section. The following image shows considerable data in the scatter chart, so it is difficult to discern any natural groups.
+Start by adding the scatter chart visualization to your report and then add the required fields to the visual. In this example, you will add the **Order Qty** field to the x-axis, the **Sales** field to the y-axis and **Unit Price** to the **Values** field. The following image shows considerable data in the scatter chart, so it is difficult to discern any natural groups.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Scatter chart with Product names.](../media/5-scatter-chart-product-names-ss.png)](../media/5-scatter-chart-product-names-ss.png#lightbox)

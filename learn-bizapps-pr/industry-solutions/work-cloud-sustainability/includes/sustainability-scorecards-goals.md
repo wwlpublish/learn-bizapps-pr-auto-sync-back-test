@@ -7,6 +7,7 @@ Scorecards and goals are manually updated or connected to data for automatic che
 In this example, you can check the emissions for the Contoso USA headquarters. 
 
 1. Go to **Scorecards > Edit Goal > Contoso USA – HQ Carbon Reduction**. 
+
 2. Select **Update connections** to select the criteria to identify the current value for the goal.
 3.	Update the **Organization unit** to be **Contoso USA**.
 4.	Adjust the **Progress tracker** by using the **Connecting to data** option for the current value and target value. 
@@ -35,7 +36,6 @@ The Microsoft Teams integration feature also tracks and stores the conversation 
 
 You can enable the Microsoft Teams integration feature in Settings. You can also select the type of records for which you want to enable Teams collaboration, such as the Emissions data record. 
 
+To initiate a conversation, create a new linked chat, find the team member that you want to contact, and then add a message. 
 
-1. To initiate a conversation, create a new linked chat, find the team member that you want to contact, and then add a message. 
-
-    This record will be tracked in Teams, so whenever you open a linked record, the conversation will be available. All participants have access to the specific record in context. 
+This record will be tracked in Teams, so whenever you open a linked record, the conversation will be available. All participants have access to the specific record in context. 
