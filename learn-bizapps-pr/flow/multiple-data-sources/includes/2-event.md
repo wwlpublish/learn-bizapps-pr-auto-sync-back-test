@@ -31,7 +31,7 @@ This example shows how to create a task in Microsoft Dataverse whenever an Accou
 1. In the list of flow triggers, enter *Microsoft Dataverse* in the search all triggers field and then select **Microsoft Dataverse - When a row is added, modified Or deleted**. Microsoft Dataverse keeps information in the Dataverse, so we'll use this connector throughout.
 1. Select **Create**.
 1. If you're prompted to sign in to Dataverse, do so.
-1. In the **Change type** field, select create.
+1. In the **Change type** field, select **Added**.
 1. In the **Table name** field, select the Table to listen to. This Table will act as a trigger that starts the flow.
 
     For this unit, select the **Accounts** table.
