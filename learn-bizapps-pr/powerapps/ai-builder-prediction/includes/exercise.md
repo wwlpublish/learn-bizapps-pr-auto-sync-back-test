@@ -85,13 +85,34 @@ Follow these steps to create a flow that will use the outcome of the custom mode
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Power Automate Studio with the flow name and choose your flow trigger field selected.](../media/flow-trigger.png)](../media/flow-trigger.png#lightbox)
 
-1.  For this exercise, no filter is required; select **Skip this step**, and then select **Next**.
+1.  In the Power Automate Studio, for the new cloud flow, select **Added** for the trigger type, select **BC Orders** as the table name, and select **Organization** as the scope. Then select **New Step** to create an action.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the AI Builder Prediction model with highlight on Skip this step and Next.](../media/skip-step.png)](../media/skip-step.png#lightbox)
+	> [![Screenshot of the Power Automate Studio with add flow fields and next step selected.](../media/new-cloud.png)](../media/new-cloud.png#lightbox)
 
-1.  Review the model summary. Select **Train** to move to the next portion of this exercise.
+1.  For the AI Builder connector, select the Predict action.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the AI Builder Prediction model with highlight on Train.](../media/train.png)](../media/train.png#lightbox)
+	> [![Screenshot of the Power Automate Studio with ai builder and predict selected.](../media/predict.png)](../media/predict.png#lightbox)
 
+1. Select the prediction model created for this exercise. For each requested values by the model, select the appropriate column from the BC order table. Then select **New Step** to create an action.
+
+    > [!div class="mx-imgBorder"]
+	> [![Screenshot of the Power Automate Studio with predict fields completed.](../media/predict-complete.png)](../media/predict-complete.png#lightbox)
+
+1. For the **Dataverse** connector, select the **Update a row** action.
+
+    > [!div class="mx-imgBorder"]
+	> [![Screenshot of the Power Automate Studio with dataverse and update a row selected.](../media/update-row.png)](../media/update-row.png#lightbox)
+
+1.	Select **BC Order** as the Table name, the unique identifier from the trigger for the **Row ID**, the **Explanation**, **Prediction**, and **Likelihood** from the **Predict** action as the other values required. Then select **Save** to complete the creation of the flow.
+
+    > [!div class="mx-imgBorder"]
+	> [![Screenshot of the Power Automate Studio with update a row fields completed and save selected.](../media/update-row-complete.png)](../media/update-row-complete.png#lightbox)
+
+1.	To test the prediction model and flow, add a new row to the table, refresh the data entry form, and the results are visible.
+
+    > [!div class="mx-imgBorder"]
+	> [![Screenshot of the Power Automate Studio with update a row fields completed and save selected.](../media/test-prediction.png)](../media/test-prediction.png#lightbox)
+
+    You have now successfully create a prediction model and a Power Automate cloud flow that generates the outcome analysis when new rows are added to the BC Order table.
