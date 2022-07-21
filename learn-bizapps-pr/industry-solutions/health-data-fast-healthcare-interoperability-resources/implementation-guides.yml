@@ -3,7 +3,7 @@ uid: learn-bizapps.health-data-fast-healthcare-interoperability-resources.implem
 title: FHIR implementation guides
 metadata:
   title: FHIR implementation guides
-  description: Learn about implementation guides defined by FHIR, and become familiar with the HL7 FHIR US Core implementation guide.
+  description: Learn about implementation guides that are defined by FHIR, and become familiar with the HL7 FHIR US Core implementation guide.
   ms.date: 07/06/2022
   author: DaveBeasley
   ms.author: dbeasley
