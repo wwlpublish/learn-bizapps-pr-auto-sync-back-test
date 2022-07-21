@@ -13,7 +13,7 @@ durationInMinutes: 6
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: In a Power BI Desktop model design, which type of object enforces row-level security?
+  - content: In a Power BI Desktop model design, which type of object do you create to enforce row-level security?
     choices: 
     - content: Table
       isCorrect: false
@@ -26,7 +26,7 @@ quiz:
       explanation: A measure is a DAX formula that achieves summarization. It does not enforce row-level security.
     - content: Role
       isCorrect: true 
-      explanation: A role consists of one or more rules, which are DAX formulas that are used to filter table rows. Roles enforce row-level security.
+      explanation: A role consists of one or more rules, which are DAX formulas that are used to filter table rows. Roles define row-level security.
   - content: Which of the following statements is correct regarding a star schema design?
     choices: 
     - content: Fact tables store accumulations of business events.
