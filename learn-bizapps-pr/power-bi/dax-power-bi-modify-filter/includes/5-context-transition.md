@@ -27,7 +27,7 @@ RETURN
     IF(CustomerRevenue < 2500, "Low", "High")
 ```
 
-In the pie chart visual, verify that two pie segments now display.
+In the pie chart visual add the new calculated column to the Legend well, verify that two pie segments now display.
 
 > [!div class="mx-imgBorder"]
 > [![An image shows a pie chart visual titled Revenue by Customer Segment. There are two segments: High and Low. High represents 76% of the data and Low represents 24%.](../media/dax-pie-customer-segment-2-ss.png)](../media/dax-pie-customer-segment-2-ss.png#lightbox)
