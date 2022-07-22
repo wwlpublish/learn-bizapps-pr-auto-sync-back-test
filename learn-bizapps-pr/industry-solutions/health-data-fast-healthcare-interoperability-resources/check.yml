@@ -28,27 +28,27 @@ quiz:
     choices:
     - content: ws-trust
       isCorrect: false
-      explanation: Incorrect. FHIR service allows for the exchange of data via consistent, RESTful API based on the HL7 FHIR specification.
+      explanation: Incorrect. FHIR service allows for the exchange of data through consistent, RESTful APIs based on the HL7 FHIR specification.
     - content: SOAP
       isCorrect: false
-      explanation: Incorrect. FHIR service allows for the exchange of data via consistent, RESTful API based on the HL7 FHIR specification.
+      explanation: Incorrect. FHIR service allows for the exchange of data through consistent, RESTful APIs based on the HL7 FHIR specification.
     - content: RESTful HTTP
       isCorrect: true
-      explanation: Correct. FHIR service allows for the exchange of data via consistent, RESTful API based on the HL7 FHIR specification.
+      explanation: Correct. FHIR service allows for the exchange of data through consistent, RESTful APIs based on the HL7 FHIR specification.
     - content: RPC
       isCorrect: false
-      explanation: Incorrect. FHIR service allows for the exchange of data via consistent, RESTful API based on the HL7 FHIR specification.
-  - content: Which of the following is a mandatory data element that must be present in a patient profile?
+      explanation: Incorrect. FHIR service allows for the exchange of data through consistent, RESTful APIs based on the HL7 FHIR specification.
+  - content: Which of the following options is a mandatory data element that must be present in a patient profile?
     choices:
     - content: Patient name
       isCorrect: true
       explanation: Correct. Patient identifier, patient name and gender are mandatory.
     - content: Contact details
       isCorrect: false
-      explanation: Incorrect. Patient identifier, patient name and gender are mandatory. This information must be supported, but isn't necessary for the patient profile.
+      explanation: Incorrect. Patient identifier, patient name, and gender are mandatory. This information must be supported, but isn't necessary for the patient profile.
     - content: Address
       isCorrect: false
-      explanation: Incorrect. Patient identifier, patient name and gender are mandatory. This information must be supported, but isn't necessary for the patient profile.
-    - content: None of these are mandatory, but all are recommended
+      explanation: Incorrect. Patient identifier, patient name, and gender are mandatory. This information must be supported, but isn't necessary for the patient profile.
+    - content: None of these options are mandatory, but all are recommended
       isCorrect: false
-      explanation: Incorrect. Patient identifier, patient name and gender are mandatory.
+      explanation: Incorrect. Patient identifier, patient name, and gender are mandatory.

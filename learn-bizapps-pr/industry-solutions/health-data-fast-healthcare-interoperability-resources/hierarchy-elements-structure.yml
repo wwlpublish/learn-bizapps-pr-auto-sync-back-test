@@ -1,8 +1,8 @@
 ## YamlMime:ModuleUnit
 uid: learn-bizapps.health-data-fast-healthcare-interoperability-resources.hierarchy-elements-structure
-title: What makes up a resource in FHIR?
+title: Hierarchy and resource structure in FHIR
 metadata:
-  title: What makes up a resource in FHIR?
+  title: Hierarchy and resource structure in FHIR
   description: Learn about the hierarchy and resource structure in FHIR.
   ms.date: 07/06/2022
   author: DaveBeasley
