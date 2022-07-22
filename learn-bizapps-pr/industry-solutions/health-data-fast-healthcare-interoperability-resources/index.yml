@@ -1,22 +1,22 @@
 ## YamlMime:Module
 uid: learn-bizapps.health-data-fast-healthcare-interoperability-resources
 metadata:
- title: Health data and FHIR® (Fast Healthcare Interoperability Resources)
+ title: Health data and FHIR® 
  description: Learn about the FHIR RESTful API framework and how to identify FHIR resources and their elements.
  ms.date: 07/06/2022
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
  ms.prod: learning-industry-solutions
-title: Health data and FHIR® (Fast Healthcare Interoperability Resources)
+title: Health data and FHIR®
 summary: |
   [!include[](../includes/module-banner.md)]
-  This module covers both the data architecture of FHIR and the details of how the FHIR API is implemented in the FHIR service in Azure Health Data Services.
+  This module covers the data architecture of Fast Healthcare Interoperability Resources (FHIR) and the details of how the FHIR API is implemented in the FHIR service in Azure Health Data Services.
 abstract: |
-    In this module, you will:
-    - Identify types of FHIR resources
-    - Identify resource elements, structures, and hierarchy
-    - Understand the FHIR RESTful API framework
+    In this module, you'll:
+    - Identify types of FHIR resources.
+    - Identify resource elements, structures, and hierarchy.
+    - Learn about the FHIR RESTful API framework.
 prerequisites: None
 iconUrl: /learn/achievements/health-data-fast-healthcare-interoperability-resources.svg
 levels:
