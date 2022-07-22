@@ -3,7 +3,7 @@ uid: learn-bizapps.health-data-fast-healthcare-interoperability-resources.develo
 title: Development with the FHIR RESTful API in FHIR service
 metadata:
   title: Development with the FHIR RESTful API in FHIR service
-  description: Learn about using the RESTful API to exchange patient health data and where to find resources to deploy and configure a client application.
+  description: Learn how to use the RESTful API to exchange patient health data and where to find resources to deploy and set up a client application.
   ms.date: 07/06/2022
   author: DaveBeasley
   ms.author: dbeasley
