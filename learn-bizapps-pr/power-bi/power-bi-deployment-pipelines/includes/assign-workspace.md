@@ -36,6 +36,9 @@ To assign a workspace to a pipeline stage, follow these steps:
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting dropdown for choosing a workspace that you want to assign to the current state.](../media/workspace-dropdown.png)](../media/workspace-dropdown.png#lightbox)
 
+> [!NOTE]
+> On the drop-down list, the user will only see premium capacity workspaces, which are not assigned to any other pipeline.
+
 4. Select **Assign a workspace**.
   
     > [!div class="mx-imgBorder"]
