@@ -8,7 +8,7 @@
 
     [Summary unit guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-module-summary-unit?branch=main)
 -->
-Pet Paradise is a local pet boarding facility and veterinary care practice. Lately, customers have requested a way to submit booking requests for pet boarding without having to call the office. You would like to create an app that allows customers to submit the information for their booking request for the office to review. You would like customers to be alerted when their booking request has been reviewed and approved or rejected. You want to build an app that allows you to capture these booking requests and decide to accept or decline the booking.
+Contoso Pet Boarding is a local pet boarding facility and veterinary care practice. Lately, customers have requested a way to submit booking requests for pet boarding without having to call the office. You would like to create an app that allows customers to submit the information for their booking request for the office to review. You would like customers to be alerted when their booking request has been reviewed and approved or rejected. You want to build an app that allows you to capture these booking requests and decide to accept or decline the booking.
 
 <!-- 2. Show how you solved the scenario problem(s)---------------------------------------------------
 
@@ -24,7 +24,7 @@ Pet Paradise is a local pet boarding facility and veterinary care practice. Late
         * Replaced fire-industry jargon with everyday words, which made the instructions accessible to a wider audience.
         * Replaced a comma-delimited list with a bulleted list, which made the steps to activate the fire extinguisher easier to follow."
  -->
-You applied your app maker skills to create a low-code, robust solution that meets Pet Paradise's needs. 
+You applied your app maker skills to create a low-code, robust solution that meets Contoso's needs. 
 * Created a custom table with custom columns in Dataverse to hold information about each customer's booking request.
 * Built a Power Apps canvas app for your custom Booking Requests table that allows customers to easily submit their request details on their own time.
 * Built Power Automate flows to send email confirmations to the customer when Booking Requests are received and when the Booking Request decision has been made.
@@ -38,7 +38,7 @@ You applied your app maker skills to create a low-code, robust solution that mee
     Example: "Fire extinguishers are critical safety equipment for both homes and businesses. Despite their importance, many customers don't read the instructions ahead of time. Confusing instructions could mean customers don't use the extinguisher correctly when they're needed. This can result in loss of property or life."
 
  -->
-Bookings previously could only be requested over the phone, causing the Pet Paradise phone line to always be busy. Despite their importance, many customers could not get through to the office to request their services. Long wait times could mean customers get frustrated and hang up. This can result in loss of business for Pet Paradise. 
+Bookings previously could only be requested over the phone, causing the Contoso phone line to always be busy. Despite their importance, many customers could not get through to the office to request their services. Long wait times could mean customers get frustrated and hang up. This can result in loss of business for Contoso. 
 
 <!-- 4. Describe the business impact ----------------------------------------------------
 
@@ -48,7 +48,7 @@ Bookings previously could only be requested over the phone, causing the Pet Para
 
     Example: "The test for effective instructions is whether customers can use your extinguishers correctly during an emergency. Users that fail might blame the instructions or the product. In either case, it's not good for business. On the other hand, successful customers are likely to share their stories and become advocates for your product."
  -->
-A well-built app with some simple automation provides customers with the ability to submit their booking request information on their own time, reducing the time waiting on the phone. Happy customers are likely to share their experience with others and increase business for Pet Paradise. 
+A well-built app with some simple automation provides customers with the ability to submit their booking request information on their own time, reducing the time waiting on the phone. Happy customers are likely to share their experience with others and increase business for Contoso. 
 
 <!-- 5. References (optional) ----------------------------------------------------
 
