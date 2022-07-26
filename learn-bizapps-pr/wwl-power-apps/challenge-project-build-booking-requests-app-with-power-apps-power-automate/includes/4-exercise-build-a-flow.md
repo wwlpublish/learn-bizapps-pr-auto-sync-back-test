@@ -6,7 +6,7 @@
 
     Example: "The chocolate-manufacturer needs a separate storage account for their private information. Here, you will create an account with settings appropriate to hold this mission-critical business data. You'll validate the account settings against requirements to check your work."
 -->
-Pet Paradise customers need to receive a confirmation email after submitting booking requests in the app. They also need to receive an email when the Pet Paradise staff has made a decision to accept or decline the booking request. Here, you will create at least two Power Automate flosw (you may choose to design this with one flow) that sends an email each time a booking request is submitted and each time the booking request decision column has been updated. You'll validate the flow behavior against requirements to check your work.
+Contoso Pet Boarding customers need to receive a confirmation email after submitting booking requests in the app. They also need to receive an email when the Contoso staff has made a decision to accept or decline the booking request. Here, you will create at least two Power Automate flosw (you may choose to design this with one flow) that sends an email each time a booking request is submitted and each time the booking request decision column has been updated. You'll validate the flow behavior against requirements to check your work.
 
 <!-- 2. Specification-------------------------------------------------------------------------------------
 
