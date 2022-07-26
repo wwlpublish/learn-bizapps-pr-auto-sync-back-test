@@ -6,7 +6,7 @@
 
     Example: "The chocolate-manufacturer needs a separate storage account for their private information. Here, you will create an account with settings appropriate to hold this mission-critical business data. You'll validate the account settings against requirements to check your work."
 -->
-Pet Paradise needs an app that allows customers to submit booking requests. Here, you will create the table and columns needed to store the booking request information and build a canvas app for customers to use. You'll validate your app against requirements to check your work. 
+Contoso Pet Boarding needs an app that allows customers to submit booking requests. Here, you will create the table and columns needed to store the booking request information and build a canvas app for customers to use. You'll validate your app against requirements to check your work. 
 
 <!-- 2. Specification-------------------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Pet Paradise needs an app that allows customers to submit booking requests. Here
 -->
 
 ## Specification
-Create a Power Apps canvas app called Pet Paradise Booking Requests that meets these specifications:
+Create a Power Apps canvas app called Contoso Booking Requests that meets these specifications:
 - Create a custom table for Booking Requests that can store the following information: 
     - Start and End Dates
     - Pet Name
@@ -27,10 +27,10 @@ Create a Power Apps canvas app called Pet Paradise Booking Requests that meets t
     - Decision (with the option to choose between Undecided, Accepted, and Declined)
     - Notes
 - The customer must provide the Start Date, End Date, Pet Name, Owner Name, and Email to submit a Booking Request.
-- New Booking Requests should default to a decision of Undecided until a Pet Paradise employee reviews it.
+- New Booking Requests should default to a decision of Undecided until a Contoso Pet Boarding employee reviews it.
 - Employees can view all Undecided Booking Requests and update the Decision column to Accepted or Declined.
-- Create your app for your new custom table that allows users to create Booking Requests.
-
+- Create your app for your new custom table that allows users to create Booking Requests. The following wireframe shows a mockup of your canvas app: 
+    ![Mockup of canvas app for submitting booking requests.](../media/canvas-app-mockup.png)
 <!-- 3. Validation -------------------------------------------------------------------------------------------
 
     Goal: Enables the learner to evaluate if they completed the exercise correctly. This feedback is critical for learning.
