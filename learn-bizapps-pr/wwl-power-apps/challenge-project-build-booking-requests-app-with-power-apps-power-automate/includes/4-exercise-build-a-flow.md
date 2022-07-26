@@ -50,6 +50,8 @@ To validate that you have completed the work to the requirements, test your flow
 2. On the same Booking Request row, update the Decision field to Declined. Confirm that you receive an email that the Booking Request was declined.
 3. On the same Booking Request row, update the Decision field to Accepted. Confirm that you receive another email that the Booking Request was accepted.
 
+  > [!TIP]
+  > If you get stuck here, reviewing [Extend Dataverse with Power Automate](https://docs.microsoft.com/en-us/learn/modules/extend-dataverse-power-automate/) may help. 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
 <!-- Do not add a unit summary or references/links -->
