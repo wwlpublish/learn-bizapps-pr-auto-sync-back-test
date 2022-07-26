@@ -28,58 +28,36 @@ durationInMinutes: 1
 content: |
 quiz:
   questions:
-  - content: ""
+  - content: "What trigger should have been used to send an email to customers after they submitted their booking request?"
     choices:
-    - content: ""
+    - content: "Microsoft Dataverse - When a row is added, modified deleted"
       isCorrect: true
-      explanation: ""
-    - content: ""
+      explanation: "Correct. This is the best trigger to start your flow."
+    - content: "Office O365 Outlook - When a new email arrives"
       isCorrect: false
-      explanation: ""
-    - content: ""
+      explanation: "Try again. Triggering the flow when an email arrives would not be best for this flow."
+    - content: "SharePoint - When an item is created"
       isCorrect: false
-      explanation: ""
-  - content: ""
+      explanation: "Try again. A SharePoint trigger would not be best for this flow."
+  - content: "What datatype did you need to use for the Decision column?"
     choices:
-    - content: ""
+    - content: "Choices"
+      isCorrect: false
+      explanation: "Try again. A choices column allows the user to select multiple choices when there should only be one decision chosen in the Decision column."
+    - content: "Choice"
       isCorrect: true
-      explanation: ""
-    - content: ""
+      explanation: "Correct. This is the correct data type for the Decision column."
+    - content: "Lookup"
       isCorrect: false
-      explanation: ""
-    - content: ""
-      isCorrect: false
-      explanation: ""
-  - content: ""
+      explanation: "Try again. The lookup data type would not be best suited for the Decision column. "
+  - content: "When a customer submits a Booking Request, what should the Decision column be defaulted to?"
     choices:
-    - content: ""
+    - content: "Undecided"
       isCorrect: true
-      explanation: ""
-    - content: ""
+      explanation: "Correct. The Decision should always default to Undecided on a new Booking Request."
+    - content: "Accepted"
       isCorrect: false
-      explanation: ""
-    - content: ""
+      explanation: "Try Again. The Decision should not default to Accepted on a new Booking Request."
+    - content: "Declined"
       isCorrect: false
-      explanation: ""
-  - content: ""
-    choices:
-    - content: ""
-      isCorrect: true
-      explanation: ""
-    - content: ""
-      isCorrect: false
-      explanation: ""
-    - content: ""
-      isCorrect: false
-      explanation: ""
-  - content: ""
-    choices:
-    - content: ""
-      isCorrect: true
-      explanation: ""
-    - content: ""
-      isCorrect: false
-      explanation: ""
-    - content: ""
-      isCorrect: false
-      explanation: ""
+      explanation: "Try Again. The Decision should not default to Declined on a new Booking Request."
