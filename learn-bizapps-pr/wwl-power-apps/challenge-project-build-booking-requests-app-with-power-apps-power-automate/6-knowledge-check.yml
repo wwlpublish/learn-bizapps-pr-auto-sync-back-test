@@ -30,7 +30,7 @@ quiz:
   questions:
   - content: "What trigger should have been used to send an email to customers after they submitted their booking request?"
     choices:
-    - content: "Microsoft Dataverse - When a row is added, modified deleted"
+    - content: "Microsoft Dataverse - When a row is added, modified deleted   "
       isCorrect: true
       explanation: "Correct. This is the best trigger to start your flow."
     - content: "Office O365 Outlook - When a new email arrives"
