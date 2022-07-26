@@ -1,14 +1,14 @@
 ### YamlMime:Module 
 uid: learn-bizapps.test-app 
 metadata: 
- title: Test your app like a professional
+ title: Test your app like a pro
  description: Learn how to test your app from Power Apps like a professional.
  ms.date: 06/30/2022  
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
  ms.prod: learning-power-apps  
-title: Test your app like a professional
+title: Test your app like a pro
 summary: |  
   [!include[](../includes/module-banner.md)] 
   Your app isn't complete until you put it to the test. In this module, you'll learn the proper way to test your app.

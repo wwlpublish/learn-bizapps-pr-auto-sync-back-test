@@ -96,13 +96,13 @@ platforms, such as Power Apps, Power Automate, and Azure Logic Apps.
 You can create custom connectors using 3 different approaches:
 
 -   [Using a blank custom
-    connector](https://docs.microsoft.com/connectors/custom-connectors/define-blank)
+    connector](/connectors/custom-connectors/define-blank)
 
 -   [From an OpenAPI
-    definition](https://docs.microsoft.com/connectors/custom-connectors/define-openapi-definition)
+    definition](/connectors/custom-connectors/define-openapi-definition)
 
 -   [From a Postman
-    collection](https://docs.microsoft.com/connectors/custom-connectors/define-postman-collection)
+    collection](/connectors/custom-connectors/define-postman-collection)
 
 While the requirements for each approach will vary, they all require a Power
 Apps per app or per user plan. Each link above points to the instructions for
@@ -113,4 +113,4 @@ each approach.
 >   sources and connectors as a whole, but if you would like to learn more about
 >   custom connectors and even walk through an exercise to build one, check out
 >   the module [Use custom connectors in a Power Apps canvas
->   app](https://docs.microsoft.com/learn/modules/use-custom-connectors-in-powerapps-canvas-app/).
+>   app](/learn/modules/use-custom-connectors-in-powerapps-canvas-app/).

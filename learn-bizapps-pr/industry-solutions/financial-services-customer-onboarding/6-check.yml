@@ -24,7 +24,7 @@ quiz:
     - content: Loan Application Sample Portal 
       isCorrect: false 
       explanation: The Retail Banking Sample Portal is a Power Apps Portals template that is paired with the Customer Onboarding solution. 
-    - content: Loan Application Sample Portal 
+    - content: No Loan Application Sample Portal is included.
       isCorrect: false 
       explanation: The Retail Banking Sample Portal is a Power Apps Portals template that is paired with the Customer Onboarding solution. 
   - content: What entity is used for tracking a loan application in the Loan Tracker app? 
@@ -57,7 +57,7 @@ quiz:
       explanation: Business Process Flows are used to visually track the status and stage of a record in Dynamics 365. 
   - content: Customer Onboarding can be deployed from where? 
     choices: 
-    - content: Customer Onboarding can be deployed from where? 
+    - content: Power Platform admin center
       isCorrect: false
       explanation: Microsoft’s Industry Cloud solutions are deployed via the Microsoft Solution Center. 
     - content: Microsoft Solution Center 

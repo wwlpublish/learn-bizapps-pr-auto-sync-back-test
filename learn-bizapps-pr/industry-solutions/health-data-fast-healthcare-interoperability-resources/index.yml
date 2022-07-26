@@ -1,0 +1,44 @@
+## YamlMime:Module
+uid: learn-bizapps.health-data-fast-healthcare-interoperability-resources
+metadata:
+ title: Health data and FHIR® 
+ description: Learn about the FHIR RESTful API framework and how to identify FHIR resources and their elements.
+ ms.date: 07/06/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+ ms.prod: learning-industry-solutions
+title: Health data and FHIR®
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module covers the data architecture of Fast Healthcare Interoperability Resources (FHIR) and the details of how the FHIR API is implemented in the FHIR service in Azure Health Data Services.
+abstract: |
+    In this module, you'll:
+    - Identify types of FHIR resources.
+    - Identify resource elements, structures, and hierarchy.
+    - Learn about the FHIR RESTful API framework.
+prerequisites: None
+iconUrl: /learn/achievements/health-data-fast-healthcare-interoperability-resources.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- mscloud-healthcare
+- industry-solutions
+subjects:
+- data-modeling
+- modern-work
+units:
+- learn-bizapps.health-data-fast-healthcare-interoperability-resources.introduction
+- learn-bizapps.health-data-fast-healthcare-interoperability-resources.concepts-data-model
+- learn-bizapps.health-data-fast-healthcare-interoperability-resources.resources
+- learn-bizapps.health-data-fast-healthcare-interoperability-resources.hierarchy-elements-structure
+- learn-bizapps.health-data-fast-healthcare-interoperability-resources.implementation-guides
+- learn-bizapps.health-data-fast-healthcare-interoperability-resources.development
+- learn-bizapps.health-data-fast-healthcare-interoperability-resources.technical-architecture
+- learn-bizapps.health-data-fast-healthcare-interoperability-resources.check
+- learn-bizapps.health-data-fast-healthcare-interoperability-resources.summary
+badge:
+  uid: learn-bizapps.health-data-fast-healthcare-interoperability-resources.badge
