@@ -56,6 +56,8 @@ To validate that you have completed the work to the requirements, test your app 
 2. Run your app. Create a new booking with the Start Date, End Date, Pet Name, Owner Name, and Email populated. Submit the request to verify that the user can submit a request when all the required information is provided.
 3. View the Booking Request that you created. Verify that the Decision column is set to Undecided. Update the column to Accepted.
 
+  > [!TIP]
+  > If you get stuck here, reviewing [How to build a canvas app](https://docs.microsoft.com/en-us/learn/modules/build-app-solution/) may help. 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
 <!-- Do not add a unit summary or references/links -->
