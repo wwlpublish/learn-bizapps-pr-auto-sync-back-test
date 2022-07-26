@@ -12,8 +12,6 @@
 -->
 Create your own data model, app, and flow to support a scenario for a fictional company. You will be provided with high-level specifications on the custom tables, columns, canvas app, and flows needed to complete this project.
 
-TODO: add a visual element
-
 <!-- 2. Scenario -----------------------------------------------------------------------------------------
 
     Goal: describe the real-world scenario this module will use to illustrate the concepts
@@ -30,9 +28,7 @@ TODO: add a visual element
     [Scenario video guidance](TBD)
  -->
 ## Example scenario
-Pet Paradise is a local pet boarding facility and veterinary care practice. Lately, customers have requested a way to submit booking requests for pet boarding without having to call the office. You would like to create an app that allows customers to submit the information for their booking request for the office to review. You would like customers to be alerted when their booking request has been reviewed and approved or rejected. You want to build an app that allows you to capture these booking requests and decide to accept or decline the booking. 
-
-TODO: add a visual element
+Contoso Pet Boarding is a local pet boarding facility and veterinary care practice. Lately, customers have requested a way to submit booking requests for pet boarding without having to call the office. You would like to create an app that allows customers to submit the information for their booking request for the office to review. You would like customers to be alerted when their booking request has been reviewed and approved or rejected. You want to build an app that allows you to capture these booking requests and decide to accept or decline the booking. 
 
 <!-- 3. Prose table-of-contents --------------------------------------------------------------------------
 
