@@ -10,7 +10,7 @@
 
     [Introduction unit guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=main#rule-use-the-standard-module-introduction-format)
 -->
-Create your own data model, app, and flow to support a scenario for a fictional company. You will be provided with high-level specifications on the custom tables, columns, canvas app, and flows needed to complete this project.
+Create your own data model, app, and flow to support a scenario for a fictional company. You'll be provided with high-level specifications on the custom tables, columns, canvas app, and flows needed to complete this project.
 
 <!-- 2. Scenario -----------------------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ Create your own data model, app, and flow to support a scenario for a fictional 
 ## Example scenario
 Contoso Pet Boarding is a local pet boarding facility and veterinary care practice. Lately, customers have requested a way to submit booking requests for pet boarding without having to call the office. You would like to create an app that allows customers to submit the information for their booking request for the office to review. You would like customers to be alerted when their booking request has been reviewed and approved or rejected. You want to build an app that allows you to capture these booking requests and decide to accept or decline the booking. 
 
-Bookings previously could only be requested over the phone, causing the Contoso phone line to always be busy. Despite their importance, many customers could not get through to the office to request their services. Long wait times could mean customers get frustrated and hang up. This can result in loss of business for Contoso.
+Bookings previously could only be requested over the phone, causing the Contoso phone line to always be busy. Despite their importance, many customers couldn't get through to the office to request their services. Long wait times could mean customers get frustrated and hang up. This can result in loss of business for Contoso.
 
 A well-built app with some simple automation provides customers with the ability to submit their booking request information on their own time, reducing the time waiting on the phone. Happy customers are likely to share their experience with others and increase business for Contoso Pet Boarding.
 
