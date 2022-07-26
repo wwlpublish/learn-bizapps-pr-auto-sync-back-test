@@ -13,7 +13,7 @@ durationInMinutes: 6
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: Jim, a bakery owner, wants to offer a new type of pastry to his customers. For the last five years, as customers were introduced to and tasted new products, Jim asked them to select one of the following satisfaction levels, Happy, Neutral, or Unhappy. This metric, combined with the recipe information, has resulted in Jim wanting to use AI Builder prediction to determine the potential success for the next offering. Which type of prediction model should Jim create?
+  - content: Jim, a bakery owner, wants to offer a new type of pastry to customers. For the last five years, as customers were introduced to and tasted new products, Jim asked them to select one of the following satisfaction levels, Happy, Neutral, or Unhappy. This metric, combined with the recipe information, has resulted in Jim wanting to use AI Builder prediction to determine the potential success for the next offering. Which type of prediction model should Jim create?
     choices: 
     - content: Numerical outcome
       isCorrect: false 
