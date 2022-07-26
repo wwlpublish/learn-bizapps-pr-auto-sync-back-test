@@ -10,6 +10,10 @@
 -->
 Contoso Pet Boarding is a local pet boarding facility and veterinary care practice. Lately, customers have requested a way to submit booking requests for pet boarding without having to call the office. You would like to create an app that allows customers to submit the information for their booking request for the office to review. You would like customers to be alerted when their booking request has been reviewed and approved or rejected. You want to build an app that allows you to capture these booking requests and decide to accept or decline the booking.
 
+Bookings previously could only be requested over the phone, causing the Contoso phone line to always be busy. Despite their importance, many customers could not get through to the office to request their services. Long wait times could mean customers get frustrated and hang up. This can result in loss of business for Contoso. 
+
+A well-built app with some simple automation provides customers with the ability to submit their booking request information on their own time, reducing the time waiting on the phone. Happy customers are likely to share their experience with others and increase business for Contoso. 
+
 <!-- 2. Show how you solved the scenario problem(s)---------------------------------------------------
 
     Goal: Describe how you used the product to solve the problem(s) posed in the introduction scenario
@@ -29,26 +33,7 @@ You applied your app maker skills to create a low-code, robust solution that mee
 * Built a Power Apps canvas app for your custom Booking Requests table that allows customers to easily submit their request details on their own time.
 * Built Power Automate flows to send email confirmations to the customer when Booking Requests are received and when the Booking Request decision has been made.
 
-<!-- 3. Describe the experience without the product ---------------------------------------------------
-
-    Goal: Describe what would be required to solve the problem without using the product; be brief (1-2 sentences)
-
-    Heading: none; typically this will be a new paragraph
-
-    Example: "Fire extinguishers are critical safety equipment for both homes and businesses. Despite their importance, many customers don't read the instructions ahead of time. Confusing instructions could mean customers don't use the extinguisher correctly when they're needed. This can result in loss of property or life."
-
- -->
-Bookings previously could only be requested over the phone, causing the Contoso phone line to always be busy. Despite their importance, many customers could not get through to the office to request their services. Long wait times could mean customers get frustrated and hang up. This can result in loss of business for Contoso. 
-
-<!-- 4. Describe the business impact ----------------------------------------------------
-
-    Goal: explain the business impact of using the product to solve the problem
-
-    Heading: none; depending on length, you can put this in a separate paragraph or combine this with the previous section into a single paragraph
-
-    Example: "The test for effective instructions is whether customers can use your extinguishers correctly during an emergency. Users that fail might blame the instructions or the product. In either case, it's not good for business. On the other hand, successful customers are likely to share their stories and become advocates for your product."
- -->
-A well-built app with some simple automation provides customers with the ability to submit their booking request information on their own time, reducing the time waiting on the phone. Happy customers are likely to share their experience with others and increase business for Contoso. 
+Congratulations on completing this Challenge Project and validating your app maker skills! 
 
 <!-- 5. References (optional) ----------------------------------------------------
 
