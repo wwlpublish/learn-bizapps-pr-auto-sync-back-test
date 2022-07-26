@@ -6,7 +6,7 @@
 
     Example: "The chocolate-manufacturer needs a separate storage account for their private information. Here, you will create an account with settings appropriate to hold this mission-critical business data. You'll validate the account settings against requirements to check your work."
 -->
-Contoso Pet Boarding customers need to receive a confirmation email after submitting booking requests in the app. They also need to receive an email when the Contoso staff has made a decision to accept or decline the booking request. Here, you will create at least two Power Automate flosw (you may choose to design this with one flow) that sends an email each time a booking request is submitted and each time the booking request decision column has been updated. You'll validate the flow behavior against requirements to check your work.
+Contoso Pet Boarding customers need to receive a confirmation email after submitting booking requests in the app. They also need to receive an email when the Contoso staff has made a decision to accept or decline the booking request. Here, you will create Power Automate flows that send an email each time a booking request is submitted and each time the booking request decision column has been updated. You'll validate the flow behavior against requirements to check your work.
 
 <!-- 2. Specification-------------------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ You need to build some automation for your app that meets the following specific
 - When a customer submits a Booking Request, an email is sent to them confirming that the request was received.
 - When a decision has been made on a Booking Request, the customer receives an email to update them on the decision.
 
-You may choose to design this as to Power Automate flows or just one. There is no right answer, as long as you have the expected behavior based on the specifications provided. Think through your decision on number of flows for this design. 
+You may choose to design this as to Power Automate flows or just one. There's no right answer, as long as you have the expected behavior based on the specifications provided. Think through your decision on number of flows for this design. 
 
 <!-- 3. Validation -------------------------------------------------------------------------------------------
 
