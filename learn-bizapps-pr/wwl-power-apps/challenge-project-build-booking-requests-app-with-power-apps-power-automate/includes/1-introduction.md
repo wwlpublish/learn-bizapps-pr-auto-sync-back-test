@@ -30,6 +30,10 @@ Create your own data model, app, and flow to support a scenario for a fictional 
 ## Example scenario
 Contoso Pet Boarding is a local pet boarding facility and veterinary care practice. Lately, customers have requested a way to submit booking requests for pet boarding without having to call the office. You would like to create an app that allows customers to submit the information for their booking request for the office to review. You would like customers to be alerted when their booking request has been reviewed and approved or rejected. You want to build an app that allows you to capture these booking requests and decide to accept or decline the booking. 
 
+Bookings previously could only be requested over the phone, causing the Contoso phone line to always be busy. Despite their importance, many customers could not get through to the office to request their services. Long wait times could mean customers get frustrated and hang up. This can result in loss of business for Contoso.
+
+A well-built app with some simple automation provides customers with the ability to submit their booking request information on their own time, reducing the time waiting on the phone. Happy customers are likely to share their experience with others and increase business for Contoso Pet Boarding.
+
 <!-- 3. Prose table-of-contents --------------------------------------------------------------------------
 
     Goal: List the activities the learner will do in this content. This differs from the title and the learning objectives. The title and the learning objectives are "outcome focused"; that is, they describe the skills the learner will acquire as a result of consuming this content. By contrast, here you should be specific about what the learning will **do** in order to acquire those skills. The format can be either prose or bulleted-list; however, a list will yield better results when transformed into other output types such as PowerPoint.
