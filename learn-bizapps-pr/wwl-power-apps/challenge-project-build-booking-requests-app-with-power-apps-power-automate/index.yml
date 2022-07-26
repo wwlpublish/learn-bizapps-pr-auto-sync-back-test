@@ -23,7 +23,6 @@ prerequisites: |
   - Experience creating custom tables and columns in Dataverse
   - Experience building Power Apps canvas apps
   - Experience building Power Automate cloud flows
-  - "TODO prerequisite 3 (if needed; see https://review.docs.microsoft.com/help/learn/id-guidance-prerequisites?branch=main"
 iconUrl: /learn/achievements/generic-badge.svg
 levels: 
   - intermediate
