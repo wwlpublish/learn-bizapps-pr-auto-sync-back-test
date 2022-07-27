@@ -1,12 +1,12 @@
 Most organizations gain efficiency by forecasting events that will impact their operations.
 
-Many of the targets they set are around inventory allocations, marketing budgets, and other areas where the quality of forecasting can improve greatly their efficiency,
+Many targets that they set are around inventory allocations, marketing budgets, and other areas where the quality of forecasting can improve their efficiency.
 
-Here, you'll learn how the AI Builder prediction model can help you establish the probability of an event to occur based on captured historical behavior.
+In this module, you'll learn how the AI Builder prediction model can help you establish the probability of an event to occur based on captured historical behavior.
 
 ## AI Builder prediction model
 
-Prediction is one of the AI Builder custom models. During training, the prediction model will analyze patterns in the historical data you provide. Based on the detected patterns, it will then predict future outcomes for new data.
+Prediction is an AI Builder custom model. During training, the prediction model will analyze patterns in the historical data that you provide. Based on the detected patterns, it will predict future outcomes for new data.
 
 You can use prediction to process questions in the following ways:
 
@@ -20,15 +20,15 @@ You can use prediction to process questions in the following ways:
 
 -   Users can choose one from multiple options, such as:
 
-    -   When was the parcel delivered?
+    When was the parcel delivered?
 
-        -   Early
+      -   Early
 
-        -   On Time
+      -   On Time
 
-        -   Late
+      -   Late
 
-        -   Lost
+      -   Lost
 
 -   You can also require users to answer by entering a number, such as:
 
@@ -44,30 +44,30 @@ Your first objective is to determine which data can provide the historical behav
 
 Consider the following requirements for the training data:
 
--   Must be in Microsoft Dataverse
+-   It must be in Microsoft Dataverse.
 
--   Should require less than 1.5 GB in database storage
+-   It should require less than 1.5 GB in database storage.
 
--   For best results, use 1,000 or more rows with a realistic distribution between options
+-   For best results, you should use 1,000 or more rows with a realistic distribution between options.
 
 ## Performance and use
 
 After each training, AI Builder provides a performance grade to help you evaluate the accuracy of the prediction:
 
--   Grade A: best grade; improvement might still be possible.
+-   **Grade A** –  The best grade; improvement might still be possible.
 
--   Grade B: prediction is correct for most cases; improvement can be considered.
+-   **Grade B** - Prediction is correct for most cases; improvement can be considered.
 
--   Grade C: better than a random guess but recommended tweaking the model to improve the performance.
+-   **Grade C** - Better than a random guess, but it’s recommended that you adjust the model to improve the performance.
 
--   Grade D: a situation where the result is similar or worse than a random guess or is close to 100 percent accuracy; in both cases, the model and underlying data must be revised to perform the prediction at an acceptable level.
+-   **Grade D** - A situation where the result is similar or worse than a random guess or is close to 100 percent accuracy. In both cases, the model and underlying data must be revised to perform the prediction at an acceptable level.
 
 When the performance grade is at a satisfactory level for your business scenario, you can publish the model and make it available to run against live data.
 
-Different options are available when using the prediction model:
+Different options are available when you’re using the prediction model:
 
--   Run now: on-demand request to update the outcome on live data
+- **Run now** - On-demand request to update the outcome on live data.
 
--   Real-time prediction: applicable for scenarios where the prediction is required instantly
+-  **Real-time prediction** - Applicable for scenarios where the prediction is required instantly.
 
-You now have learned the fundamentals of AI Builder prediction model. Next, you'll learn how to solve business problems with those types of models.
+Now that you’ve learned the fundamentals of AI Builder prediction model, you'll learn how to solve business problems with those types of models.
