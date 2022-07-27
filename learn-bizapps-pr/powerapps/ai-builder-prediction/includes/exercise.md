@@ -19,7 +19,7 @@ For this exercise, you'll reference the following tables, which are part of the 
 
 The following video describes those data preparation steps.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE52wlB]
 
 ## Create a model
 
