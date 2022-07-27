@@ -38,7 +38,7 @@ While working in a deployment pipeline, different stages may have different conf
 
 Configuring deployment rules enables you to allow changes to content when you deploy content between pipeline stages. For example, if you want a dataset in a production stage to point to a production database, you can define a rule for dataset. The rule is defined in the production stage, under the appropriate dataset. Once the rule is defined, content deployed from test to production will inherit the value as defined in the deployment rule, and will always apply it as long as the rule is unchanged and valid.
 
-See [Create deployment rules](/power-bi/create-reports/deployment-pipelines-get-started#step-4---create-deployment-rules/?azure-portal=true) for detailed information on how to configure deployment rules.
+See [Create deployment rules](/power-bi/create-reports/deployment-pipelines-get-started?azure-portal=true#step-4---create-deployment-rules) for detailed information on how to configure deployment rules.
 
 ## Collaborate with others – permissions
 
