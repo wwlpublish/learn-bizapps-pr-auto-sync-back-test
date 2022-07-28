@@ -48,8 +48,8 @@ A well-built app with some simple automation provides customers with the ability
  -->
 ## What will we be doing?
 - Create custom tables and columns in Dataverse
-- Build a Power Apps canvas app for your custom table
-- Build Power Automate cloud flows to send notifications
+- Build a Power Apps canvas app that takes user input and creates rows in your custom table
+- Build Power Automate cloud flows to send notifications when new rows are created in your table
 
 <!-- 4. Terminal learning objective ----------------------------------------------------------------------
 
