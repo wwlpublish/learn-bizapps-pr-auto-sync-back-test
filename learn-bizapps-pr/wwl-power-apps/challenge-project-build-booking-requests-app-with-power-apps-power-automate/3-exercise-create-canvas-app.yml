@@ -3,7 +3,7 @@ uid: learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-
 title: Exercise 1 - Create canvas app
 metadata:
   unitType: exercise
-  title: Exercise 1 - Create canvas app
+  title: Exercise 1 - Build a data model and create a canvas app
   description: "Build a data model with Microsoft Dataverse. Create a canvas app."
   ms.date: 6/28/2022
   author: Randall-Knapp
