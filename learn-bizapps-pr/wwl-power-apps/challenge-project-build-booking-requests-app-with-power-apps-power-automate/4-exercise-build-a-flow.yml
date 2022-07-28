@@ -3,7 +3,7 @@ uid: learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-
 title: Exercise 2 - Build a flow
 metadata:
   unitType: exercise
-  title: Exercise 2 - Build a flow
+  title: Exercise 2 - Build Power Automate flows to send automated emails
   description: "Create Power Automate flows. Send automated emails."
   ms.date: 6/28/2022
   author: Randall-Knapp
