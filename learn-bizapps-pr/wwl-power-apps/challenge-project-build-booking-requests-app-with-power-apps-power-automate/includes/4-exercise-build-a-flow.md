@@ -23,7 +23,7 @@ You need to build some automation for your app that meets the following specific
 - When a customer submits a Booking Request, an email is sent to them confirming that the request was received.
 - When a decision has been made on a Booking Request, the customer receives an email to update them on the decision.
 
-You may choose to design your solution with two Power Automate flows or just one. There's no right answer, as long as you have the expected behavior based on the specifications provided. Think through your decision on number of flows for this design. 
+You may choose to design your solution with two Power Automate flows or just one. There's no right answer, as long as you have the expected behavior based on the specifications provided. Think through your design and why you chose the number of flows that you did. 
 
 <!-- 3. Validation -------------------------------------------------------------------------------------------
 
