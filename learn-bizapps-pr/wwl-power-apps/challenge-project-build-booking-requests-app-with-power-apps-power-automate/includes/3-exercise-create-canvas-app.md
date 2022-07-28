@@ -57,7 +57,7 @@ To validate that you have completed the work to the requirements, test your app 
 3. View the Booking Request that you created. Verify that the Decision column is set to Undecided. Update the column to Accepted.
 
   > [!TIP]
-  > If you get stuck here, reviewing [How to build a canvas app](https://docs.microsoft.com/learn/modules/build-app-solution/?azure-portal=true) may help.  
+  > If you get stuck here, reviewing [How to build a canvas app](https://docs.microsoft.com/learn/modules/build-app-solution/?azure-portal=true) may help. Remember that you can view your Booking Request data by going to www.make.powerapps.com and selecting Dataverse > Tables > Booking Requests. 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
 <!-- Do not add a unit summary or references/links -->
