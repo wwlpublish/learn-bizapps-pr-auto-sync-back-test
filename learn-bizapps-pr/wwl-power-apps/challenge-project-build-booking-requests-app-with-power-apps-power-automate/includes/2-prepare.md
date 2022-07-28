@@ -57,9 +57,11 @@ Contoso Pet Boarding is a local pet boarding facility and veterinary care practi
     containing a single H2.
 -->
 ## Setup
-You need access to Microsoft Power Platform to complete this challenge project. You'll be using Microsoft Dataverse, Power Apps, and Power Automate to complete this work. If needed, you can sign up for a trial by following these steps:
+You need access to Microsoft Power Platform to complete this challenge project. You'll be using Microsoft Dataverse, Power Apps, and Power Automate to complete this work. 
 
 ### Sign up for a Microsoft Power Platform trial
+If needed, you can sign up for a trial by following these steps:
+
 1. Navigate to https://powerapps.microsoft.com and click **Start free**.
 2. Under **Get started**, enter your email address in the text box that says **Enter your work email address.**
 3.  You see a prompt that you have an existing account with Microsoft. Select
