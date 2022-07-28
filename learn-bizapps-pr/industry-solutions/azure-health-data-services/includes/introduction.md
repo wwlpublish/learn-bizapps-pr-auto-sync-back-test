@@ -16,3 +16,5 @@ In this module, you’ll:
 - Learn about interoperability challenges of health and life sciences data.
 - Discover the core global health data standards that Azure Health Data Services supports today.
 - Learn about the tools and connectors that comprise Azure Health Data Services and the benefits that they provide.
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE52VLz]
