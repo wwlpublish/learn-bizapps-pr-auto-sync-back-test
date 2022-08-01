@@ -28,7 +28,9 @@ By default, Power Apps pulls in a price value for each item. This value is set a
    ```
 
 > [!NOTE]
-   > If your formula returns an error, then please note that the language setting of your Power Apps environment can affect some separators and operators. For example, the above formula is expressed in a language and region that uses dot or period as the decimal separator, such as Japan or the United Kingdom. However, this same formula in a language and region where a comma is used for the decimal separator, such as France or Spain, the formula will need to be: `Text(ThisItem.Price; "$ ##,00")`
+   > If your formula returns an error, then please note that the language setting of your Power Apps environment can affect some separators and operators. For example, the above formula is expressed in a language and region that uses dot or period as the decimal separator, such as Japan or the United Kingdom. 
+   >
+   > However, this same formula in a language and region where a comma is used for the decimal separator, such as France or Spain, would need to be: `Text(ThisItem.Price; "$ ##,00")`
    > 
    > The property selection operator . (dot or period) in ThisItem.Price is always the same, no matter what the decimal separator is, but notice that the decimal separator and the chaining operation separator changed to a comma and semicolon respectively. Internally the formula doesn't change, all that changes is how it's displayed and edited by the author. See [Formula separators and chaining operator](/power-apps/maker/canvas-apps/global-apps?azure-portal=true#formula-separators-and-chaining-operator) for more information.
 
@@ -53,7 +55,7 @@ Power Apps uses a couple of formulas in every app that it generates. Both exampl
 * The first formula is associated with the **IconNewItem1** control ![New item icon](../media/powerapps-icon-add-item.png). Select this control to open the edit/create screen where you can create an item. To view the formula, select the ![New item icon](../media/powerapps-icon-add-item.png) and then select it in the formula bar. The formula is as follows:
 
   ```powerappsfl
-  NewForm(EditForm1);Navigate(EditScreen1, ScreenTransition.None)
+  NewForm(EditForm1);Navigate(EditScreen, ScreenTransition.None)
   ```
 
   The formula instantiates an edit page on the edit/create screen so that users can create an item. A value of `ScreenTransition.None` means that there's no transition, such as a fade, between screens.
@@ -64,10 +66,10 @@ Power Apps uses a couple of formulas in every app that it generates. Both exampl
   UpdateContext({SortDescending1: !SortDescending1})
   ```
 
-  The formula uses `UpdateContext` to update a variable called `SortDescending1`. The exclamation "!" symbol in the formula is a shortcut for the Not function. The value of the variable switches back and forth as you select the control. This variable tells the gallery on this screen how to sort the items.
+  The formula uses `UpdateContext` to update a variable called `SortDescending1`. The exclamation "!" symbol in the formula is a shortcut for the *Not* function. The value of the variable switches back and forth as you select the control. This variable tells the gallery on this screen how to sort the items.
 
-The app contains many other formulas, so take some time to select controls and determine what formulas are set for various properties.
+The app contains many other formulas, so take some time to select controls and discover the formulas that are currently set for various properties.
 
-For more information about these and other functions, refer to [formula reference for Power Apps](/power-apps/maker/canvas-apps/formula-reference/?azure-portal=true) page.
+For more information about these and other functions, refer to [formula reference for Power Apps](/power-apps/maker/canvas-apps/formula-reference/?azure-portal=true) page. This page is a good one to bookmark for future use!
 
-For additional information on customizing a canvas app, refer to the Use the UI and controls in a canvas app in Power Apps learning path and the Use basic formulas to make a better canvas app in Power Apps learning path.
+For additional information on customizing a canvas app, refer to [Use the UI and controls in a canvas app in Power Apps](/learn/paths/ui-controls-canvas-app-powerapps/?azure-portal=true) learning path and the [Use basic formulas to make a better canvas app in Power Apps](/learn/paths/use-basic-formulas-powerapps-canvas-app/?azure-portal=true) learning path.
