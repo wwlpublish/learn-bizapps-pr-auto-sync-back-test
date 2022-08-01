@@ -24,10 +24,9 @@ Sign in to [Power Apps](https://make.powerapps.com) and follow these steps to cr
 
 1. At the bottom, select **Save**.
 
-
 ## Add and customize columns
 
-1. Once the table is finished creating, your display will show the table properties as well as your blank table in the section called **Pet columns and data**. Note here that **Pet Name** is the only column on display and next to that is **+18 more** and next to that is  **+** to add a new column.  There's also an **Edit** button on the upper right corner of this section that will also allow you to edit, but in this case we'll do the editing within this window.
+1. Once the table is finished creating, your display will show the table properties and your blank table in the section called **Pet columns and data**. Note here that **Pet Name** is the only column on display and next to that is **+18 more** and next to that is  **+** to add a new column.  There's also an **Edit** button on the upper right corner of this section that will also allow you to edit, but in this case we'll do the editing within this window.
 1. Within the **Pet columns and data**, select the **+** button to create a new column, and observe a popup **New column** pane on the right side of the screen.
 
 1. In the **New column** pane, enter the following values:
@@ -41,10 +40,10 @@ Sign in to [Power Apps](https://make.powerapps.com) and follow these steps to cr
 
 1. Create the choice set:
 
-    1. Select **+ New choice** and you will see the **New choice** pane appear.
-    1. In the **Display name** box enter *Species*.
+    1. Select **+ New choice** and you'll see the **New choice** pane appear.
+    1. In the Display name box, enter *Species*.
     1. Under **Choices** you see two entry fields titled **Label** and **Value**. Enter *Dog* and *1* respectively.
-    1. Select **+ New choice** under the *Dog* entry and make *Cat* the new entry for *Label*. Note that the *Value* automatically updates as *2*.
+    1. Select **+ New choice** under the *Dog* entry and make *Cat* the new entry for *Label*. The *Value* automatically updates as *2*.
     1. Select **Save**.
 
     > [!div class="mx-imgBorder"]
@@ -84,7 +83,7 @@ Sign in to [Power Apps](https://make.powerapps.com) and follow these steps to cr
 1. In the **Many-to-one** pane on the right, in the **Related** list, select **Account**.
 1. Select **Done**.
 
-    Notice that when you add a many-to-one relationship, an **Account** column of the **Lookup** data type is automatically added to your list of relationahips.
+    Notice that when you add a many-to-one relationship, an **Account** column of the **Lookup** data type is automatically added to your list of relationships.
 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of the Account column of the lookup data type automatically added.](../media/updated-account-lookup-field.png)
@@ -97,7 +96,7 @@ Sign in to [Power Apps](https://make.powerapps.com) and follow these steps to cr
     - Account
     - Appointment date
     - Breed
-    - Species (you will need to scroll down or search for this column)
+    - Species (you'll need to scroll down or search for this column)
 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of plus view column selected with Species highlighted.](../media/view-column-species.png)
@@ -128,11 +127,11 @@ Sign in to [Power Apps](https://make.powerapps.com) and follow these steps to cr
 1. Select **Save**.
 1. Select **Publish**.
 1. Select the back arrow in your browser to close the form designer.
-1. At this point it is possible to add data directly to your table. Select **Add data** and the screen below will appear. You can begin entering as many rows as you like.
+1. At this point it's possible to add data directly to your table. Select **Add data** and the screen below will appear. You can begin entering as many rows as you like.
 
     > [!div class="mx-imgBorder"]
     > ![Screenshot of data entry screen.](../media/data-entry-screen.png)
 
 
-It is also possible to import data into your table. We will show you how to do that in the next exercise.
+It's also possible to import data into your table. We'll show you how to do that in the next exercise.
 

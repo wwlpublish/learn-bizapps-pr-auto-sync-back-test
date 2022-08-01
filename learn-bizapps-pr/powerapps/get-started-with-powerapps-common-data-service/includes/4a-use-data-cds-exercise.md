@@ -2,7 +2,7 @@
 
 The current sales process for your company is manual and updates are only provided
 each Friday. To simplify this process, minimize the opportunity for mistakes, and 
-improve visibility, you have decided you want to create a new app to track sales 
+improve visibility, you've decided you want to create a new app to track sales 
 leads and automatically calculate the forecasted revenue. You want Dataverse to store the list of potential customers. 
 
 ## Use Microsoft Dataverse to store data
@@ -12,13 +12,13 @@ customers for your app.
 
 ### Creating a custom table
 
-1. Go to the [Power Apps maker portal](https://make.powerapps.com/) and sign in (if required).
+1. Go to the [Power Apps maker portal](https://make.powerapps.com/) and sign in (if necessary).
 1. On the menu, expand **Dataverse** and select **tables**.
 1. Select **New table**.
 1. Under **Properties** enter the **Display name**: *Prospects*
 1. Select **Primary column** and enter the **Display name**: *Prospect Name*
 1. Select **Save**.
-1. After a few moments the *Tables>Prospects* screen will appear. Select **+** to add a new column in the *Prospects columns and data* section.
+1. After a few moments, the *Tables>Prospects* screen will appear. Select **+** to add a new column in the *Prospects columns and data* section.
 
 	![Screenshot of Prospects table main page](../media/prospects-table-main-screen.png)
 1. In the *New column* pane, enter the following information:
@@ -37,7 +37,7 @@ customers for your app.
 		- **Lost**		
 
 	![Display of New choice pane showing 4 choices entered](../media/new-choice-pane.png)
-1. Once you have saved your *New choice*, select the dropdown under **Sync this choice with** and find/select **Prospect Stage**.
+1. Once you've saved your *New choice*, select the dropdown under **Sync this choice with** and find/select **Prospect Stage**.
 
 	![Screenshot of dropdown list showing Synch this choice with options and Prospect Stage highlighted.](../media/sync-with-prospect-stage.png)
 
@@ -56,8 +56,8 @@ customers for your app.
 	- **Behavior**: *Calculated*
 
 1. Next, we're going to edit the behavior our *Forecasted Revenue* column by selecting the column header and selecting **Edit Column** from the dropdown.
-1. In the *Edit column* pane select the **Edit** button under *Behavior*.  A popup window will appear with the *Calculated Field - Set Forecasted Revenue* where you can add an *Action*. (If it doesn't appear the first time you select the **Edit** button, repeat steps 17 and 18 until it does.)
-1. Under *Action* select **+ Add Action** and enter the following formula, but do not copy and paste. Type it in. Your column names won't be exactly the same as the example below since the **crXXX_** will be specific numbers and letters that define your environment. The formula entry will auto-suggest options as you start to type the column names.
+1. In the Edit column pane, select the **Edit** button under *Behavior*.  A popup window will appear with the *Calculated Field - Set Forecasted Revenue* where you can add an *Action*. (If it doesn't appear the first time you select the **Edit** button, repeat steps 17 and 18 until it does.)
+1. Under *Action* select **+ Add Action** and enter the following formula, but don't copy and paste. Type it in. Your column names won't be exactly the same as the example below since the **crXXX_** will be specific numbers and letters that define your environment. The formula entry will auto-suggest options as you start to type the column names.
 
 	```crXXX_contractamount * (crXXX_probability / 100)```
 
@@ -67,7 +67,7 @@ customers for your app.
 
 ### Add a business rule
 
-1.	In the table designer find the *Customizations* pane on the far right and select **Business rules**.
+1.	In the table designer, find the *Customizations* pane on the far right and select **Business rules**.
 
 1.	Select **+ New business rule** at the top of the screen; a new browser tab will open.
 
@@ -100,7 +100,7 @@ You'll use the Excel spreadsheet named [Prospects](https://github.com/MicrosoftD
 exercise. Open the link and select the **Download** button and save it locally. 
 
 1. Open the file. Notice the **Stage** column is empty. You'll need to look these up and enter them manually. 
-1. You will need the Power Apps maker portal open; if you closed it, go to the [Power Apps maker portal](https://make.powerapps.com/) and sign in to Power Apps.
+1. You'll need the Power Apps maker portal open; if you closed it, go to the [Power Apps maker portal](https://make.powerapps.com/) and sign in to Power Apps.
 1. Go back to your Excel file and in the **Stage** column, enter the values as below:
 	- **Contoso Flooring**: Won
 	- **Fabrikam Inc**:  Won
@@ -114,15 +114,15 @@ exercise. Open the link and select the **Download** button and save it locally.
    
    > [!NOTE]
    > If you receive an error when selecting the **Import data from Excel** option, then your Power Apps license does not allow for importing Excel data. 
-1. Select **Upload** under the *File* entry field, locate the *Prospects* Excel file, and select **Open**. You will see an error notification under the column *Mapping Status* saying "Mapping errors exist".
+1. Select **Upload** under the *File* entry field, locate the *Prospects* Excel file, and select **Open**. You'll see an error notification under the column *Mapping Status* saying "Mapping errors exist".
 1. Select **Map columns**.  Map the following **Prospect** columns to the associated Source values:
 	- **Contract Amount**: *ContractAmount*
 	- **Prospect Name**: *Name*
 	- **Stage Value**: *Stage*
 	- **Probability**: *Probability*
-1. Select **Save Changes** at the top right of the screen. If successful, you will see a success notification under *Mapping status* saying "Mapping was successful".
-1. Select **Import** at the top right of the screen. If successful, you will see a notification saying "Import completed successfully." Close the window by selecting **x** at the top right of the window.
+1. Select **Save Changes** at the top right of the screen. If successful, you'll see a success notification under *Mapping status* saying "Mapping was successful".
+1. Select **Import** at the top right of the screen. If successful, you'll see a notification saying "Import completed successfully." Close the window by selecting **x** at the top right of the window.
 1. Refresh your browser screen.
 1. Ensure that the data has been successfully imported.
 
-Congratulations! You have created a custom table with a business rule and imported from an Excel data source. Now you have an automated way to store your potential customers.
+Congratulations! You've created a custom table with a business rule and imported from an Excel data source. Now you have an automated way to store your potential customers.
