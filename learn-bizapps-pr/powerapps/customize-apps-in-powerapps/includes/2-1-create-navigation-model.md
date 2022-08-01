@@ -42,7 +42,7 @@ Finally, to make the navigation work, modify the **OnSelect** property of the bu
 
 You also have the flexibility to create a collection inside the canvas app using the **App OnStart** property. Then you can populate that collection in a gallery as a menu like a list in Microsoft Lists.
 
-Keep in mind that you must have have the screens in your app. Here is an example of a collection to provide navigation from a collection gallery. Once you enter the code you can click on the elipsis next to **App** and select **Run on start** to get the collection into memory for the app.
+Keep in mind that you must have the screens in your app. Here's an example of a collection to provide navigation from a collection gallery. Once you enter the code, you can select the ellipsis next to **App** and select **Run on start** to get the collection into memory for the app.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the OnStart formula set to ClearCollect(ColScreenNav) with each item set out with ID and ScreenName.](../media/collection-app-start.jpg)](../media/collection-app-start.jpg#lightbox)

@@ -40,7 +40,7 @@ If you select a control and then open the property drop-down list, a list of pro
 
 ![Screenshot of setting properties fpr the drop-down list.](../media/powerapps-formulas4.png)
 
-To conditionally format the price's color, select the price **Label** and choose the **Color** property and set it to this formula: 
+To conditionally format the price's color, select the price Label,** and choose the **Color** property and set it to this formula: 
 
 ```powerappsfl
 If(ThisItem.Price > 5, Color.Red, Color.Green)
@@ -70,6 +70,6 @@ Power Apps uses a couple of formulas in every app that it generates. Both exampl
 
 The app contains many other formulas, so take some time to select controls and discover the formulas that are currently set for various properties.
 
-For more information about these and other functions, refer to [formula reference for Power Apps](/power-apps/maker/canvas-apps/formula-reference/?azure-portal=true) page. This page is a good one to bookmark for future use!
+For more information about these and other functions, see [formula reference for Power Apps](/power-apps/maker/canvas-apps/formula-reference/?azure-portal=true) page. This page is a good one to bookmark for future use!
 
-For additional information on customizing a canvas app, refer to [Use the UI and controls in a canvas app in Power Apps](/learn/paths/ui-controls-canvas-app-powerapps/?azure-portal=true) learning path and the [Use basic formulas to make a better canvas app in Power Apps](/learn/paths/use-basic-formulas-powerapps-canvas-app/?azure-portal=true) learning path.
+For more information on customizing a canvas app, see [Use the UI and controls in a canvas app in Power Apps](/learn/paths/ui-controls-canvas-app-powerapps/?azure-portal=true) learning path and the [Use basic formulas to make a better canvas app in Power Apps](/learn/paths/use-basic-formulas-powerapps-canvas-app/?azure-portal=true) learning path.
