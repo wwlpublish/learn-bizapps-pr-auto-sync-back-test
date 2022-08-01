@@ -5,8 +5,8 @@ metadata:
   title: Exercise - Create new Active Directory user
   description: Practice creating a new Active Directory user.
   ms.date: 08/01/2022
-  author: mariosleon
-  ms.author: marleon
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.prod: learning-power-automate
 durationInMinutes: 10
