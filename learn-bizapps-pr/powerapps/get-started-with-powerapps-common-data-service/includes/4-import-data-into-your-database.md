@@ -1,63 +1,57 @@
-You can import data into your Microsoft Dataverse database in bulk from Microsoft Excel or CSV files. 
-
-Every table has required columns that must exist in your input file. We recommend that you create a template. A template will save you time and effort. First, export data from the table. You'll use the same file (updated with your data) to import data into the table.
-
-## Create a file template
-You can do a one-time data export from a standard table or a custom table, and you can export data from more than one table at a time. If you export data from more than one table, each table is exported into its own Microsoft CSV file. In this example, you'll see how to export the **Pet** table. But remember you could select several tables to export if you would like.
+You can import data into your Microsoft Dataverse database in bulk from a variety of sources including Excel, Access, SharePoint, SQL and many others.
 
 > [!NOTE]
-> The Pet table was created in the previous exercise.
+> The Pet table referred to here was created in the previous exercise.
 
-1. On [powerapps.com](https://make.powerapps.com/), in the left navigation pane, expand **Data** and select **tables**.
-1. Select **Data** at the top, and then select **Export data**.
-1. Select the **Pet** table, and then select **Export data**.
-1. After the export is finished, select **Download exported data** and save the file.
+1. On [powerapps.com](https://make.powerapps.com/?azure-portal=true), in the left navigation pane, expand **Dataverse** and select **Tables**.
+1. Select the **Pet** table, and then select **Import** and **Import data** from the menu at the top of the screen.
 
-## Copy data into your template
-When you add data to a template file, you must make sure the data is unique. You can use either *primary keys* or *alternate keys*.
+    ![Screenshot of Import and Import data buttons.](../media/import-data.png)
 
-1. Open the CSV file that you created in the previous section.
-1. Add at least one new row of data. You only need to add information to the columns below.
+1. On the **Choose data source** window note that there are more than 40 options to choose from. In this example we're going to select SharePoint list where we have data to import into our *Pet* table.
 
-    - **Appointment date**
-    - **Breed**
-    - **Pet name**
-    - **Species**
+    ![Screenshot of Choose data sourse depicting 48 options.](../media/import-data-sources.png)
 
-    ![Example of adding new row of data](../media/add-new-row.png)
+## Import Data
+In this example we have a simple SharePoint list with columns aligned with our Dataverse *Pets* table. It is important to know the web URL for your site Home Page so you can setup the data import.
 
-1. Save the file. 
+1. Here is an example SharePoint list showing Pet data. This is an example of importable data. At the site *Home* screen, we can copy the URL.
 
-## Import the file
-1. In the left navigation pane, expand **Data**, and then select **tables**.
-1. Select the **Pet** table, select the drop-down arrow next to Data, select **Get Data** and then select **Get data from Excel**.
-1. Select **Upload** and select the file that you updated and saved from the previous section.
-1. After the file is uploaded, select **Map columns**.
-1. Set the following Pet columns Source values to **None**.
+    ![Screenshot showing SharePoint list of Pets.](../media/sharepoint-list.png)
 
-    - **Import Sequence Number**
-    - **Owning Business Unit**
-    - **Pet**
-    - **Status Reason Value**
-    - **Status Value**
-    - **Time Zone Rule Version Number**
-    - **UTC Conversion Time Zone Code**
-    - **Version Number**
+1. From the Power Apps window showing **Choose data source** we can select **SharePoint list**.
+
+1. As the window changes to **Connect to data source** we will enter the SharePoint page URL copied previously in the **Site URL** entry field. After entering the URL, it may be necessary to put in your connection credentials. Then we select **Next** at the bottom right of the window.
+
+    ![Screenshot of the connect to data source window with URL entry window highlighted.](../media/connect-data-source.png)
+
+1. On the **Choose data** window that appears, we can now select one or more lists or document libraries that we want to import. Selecting from the list on the left shows all available columns of data available in the data source.  Selecting **Next** takes you to the **Queries** screen where you can shape the data before importing.
+
+    ![Screenshot of the choose data window depicting available lists and document libraries with the SharePoint Pets list selected and data showing in the window.](../media/choose-data.png)
+
+1. Using the query edit window, you can remove any of the columns that you do not wish to import, by using the **Remove columns** button at the top of the window. It is possible to select multiple columns at once by selecting columns while holding the *Shift*  or *Ctrl* key and then selecting **Remove columns**. If you make a mistake, the **Applied steps** on the right side of the window keeps track of the changes and you can simply cancel that step to undo the last action.
+
+    ![Screenshot of the query shaping window depicting multiple columns selected, and the Remove columns button highlighted. Also highlighted is the applied steps.](../media/query-window.png)
+
+1. With the remaining columns of *Id*, *Title*, *Species*, *Breed* and *AppointmentDate* we will select the **Next** button to move to the next step.
+
+1. At the **Map tables** window now appearing, we want to select **Load to existing table**
+1. We can select the **Destination table** from the dropdown. Keep in mind than the *Pet* table we created will have a prefix in front of it with an underscore, in this case it is *crf1d_Pet*. Notice how the **Column mapping** has the destination columns from our *Pet* table.
+
+    ![Screenshot of the map tables window displayed showing the dropdown for the destination table and the column mapping portion of the screen.](../media/column-mapping.png)
+
+1. Next we select the source columns that we want to import into our destination columns. It is helpful to have similar names to make mapping easier. Each dropdown has a list of all available columns, so it's fairly easy to match if your names are close. Once all of your source columns are matched with the destination columns, select **Next** in the bottom right of the window.
  
-    ![Screenshot example of Pet columns Source values.](../media/mapping-fields.png)
+    ![Screenshot example of Pet columns Source values.](../media/column-mapping-source-columns-selected.png)
 
-1. In the upper right, select **Save changes**.
+1. The **Refresh settings** provides you the ability to setup a refresh schedule if you want your data to regularly update. In this case we will leave it set to **Refresh manually** and select **Publish** at the bottom right of the window.
 
-    ![Screenshot example of a Mapping status column and Import button for a successful upload.](../media/mapping-warning.png)
+    ![Screenshot showing refresh settings and manual selected.](../media/refresh-settings.png)
 
-    You'll notice under Mapping status, it states "Mapping warnings exist." The reason for this mapping status is that we set some of the columns to **None** or **Not**. This is fine because we didn't want to include those columns. This warning can be ignored. 
+    If you receive any warnings, pay attention to the messages and go back to your query edit screen to shape your data.
 
-1. In the upper right, click **Import**.
+1. If you published and received no warnings, and the table screen refreshes, you should be able to see that the data was imported into your list.
 
-    After the data has been successfully imported, you'll see the total number of inserts and updates. Now let's go take a quick look at the imported data.
+    ![Screenshot of Pet Table with imported data.](../media/imported-result.png)
 
-1. On the left, select **tables**.
-1. Select the **Pet** table.
-1. On the table designer toolbar, select **Data**.
-
-Notice that the Account column is empty. This is because when you updated the Excel export file and update columns, you weren't instructed to update this column. The reason you weren't instructed to update the Account column is that to update a lookup column you need a GUID of a record from the referenced table. If you want to test this, create a record in the **Accounts** table, find the value in the column titled **accountid**, and put that value in the excel sheet **Account** column.
+Though this example used SharePoint as a source for importing data, the steps are similar with any data source you wish to import into your list. Ready to try building a custom Dataverse table? Let's continue to the next unit!
