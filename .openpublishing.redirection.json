@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "learn-bizapps-pr/powerapps/get-started-with-model-driven-apps-in-powerapps/5-control-security-when-sharing-model-driven-apps.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-with-model-driven-apps-in-powerapps/",
+      "redirect_document_id⁯": false
+    },
+    {
       "source_path": "learn-bizapps-pr/flow/create-immersive-flow/5-summary.md",
       "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
       "redirect_document_id⁯": false
