@@ -2,16 +2,20 @@ In the previous unit, you learned how to build an approval process for tweets th
 
 ## Customize the SharePoint form via Power Apps 
 
-Before we test the Flow created in the previous unit, it's important to take the time to customize the SharePoint Form with Power Apps. If you're curious as to why, go to the ContosoTweets Microsoft Lists list and select **+ New** to create an Item. The first thing you'll most likely notice is that users can create new SharePoint Items and Approve those Items themselves within the default SharePoint Form. For our example, this isn't significant, but in real-world scenarios, like you'll be creating for your companies and or organizations, restricting users from approving their own items as they're created is an important part of the Approval Process (when using SharePoint as a Datasource). There are many ways to customize your SharePoint Form to hide/show certain fields, these won't be covered in-depth in this unit, instead we'll open the list via Power Apps and remove the fields. By removing the fields from the SharePoint Form, the only way ApprovalStatus and ApprovalComments can be populated is through the Approval Flow process. 
-           
+Before we test the flow created in the previous unit, it's important to take the time to customize the SharePoint Form with Power Apps. If you're curious as to why, go to the ContosoTweets Microsoft Lists list and select **+ New** to create an Item. The first thing you'll most likely notice is that users can create new SharePoint Items and Approve those Items themselves within the default SharePoint Form. For our example, this isn't significant, but in real-world scenarios, like you'll be creating for your companies and or organizations, restricting users from approving their own items as they're created is an important part of the Approval Process (when using SharePoint as a Datasource). There are many ways to customize your SharePoint Form to hide/show certain fields, these won't be covered in-depth in this unit, instead we'll open the list via Power Apps and remove the fields. By removing the fields from the SharePoint Form, the only way ApprovalStatus and ApprovalComments can be populated is through the Approval Flow process. 
+
+![Screenshot of SharePoint form with approval checkbox.](../media/approve-checkbox-in-customize-form.png)
 
 1. Navigate to the ContosoTweets list if you're not already there and select **Integrate**.
 
 1. From the dropdown, select **Power Apps** and then select **Customize forms**.
 
+![Screenshot of removal approval status field.](../media/customize-forms.png)
+
 1. Once Power Apps opens, in the Fields pane, select the **...** next to the *ApprovalStatus* field and then select **X Remove**.
 
 1. Repeat the previous step, for the *ApproverComments* field and the **Attachments** field. The only fields remaining on the form should be **Title**, **TweetContent**, and **TweetDate**.
+![Screenshot of removal approval status field.](../media/remove-approval-status.png)
 
 1. In the upper left, select **File** and then select **Save**. 
 
