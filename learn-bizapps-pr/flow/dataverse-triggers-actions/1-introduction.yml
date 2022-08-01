@@ -5,8 +5,8 @@ metadata:
   title: Introduction 
   description: Introduction to using Dataverse triggers and actions in Power Automate 
   ms.date: 11/01/2021
-  author: DaveBeasley 
-  ms.author: dbeasley 
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial 
   ms.prod: learning-power-automate 
 durationInMinutes: 1 
