@@ -54,6 +54,7 @@ You have successfully added a form to your app, now we will edit them.
 
 1. On this page, you can edit which fields will show up on this view, what filters will be applied, default sort order, the order of your columns, and the width of your columns. 
 
+    ![Screenshot showing the view of My Active Accounts.](../media/my-active-accounts.png)
 
 ## Publish your app
 On the App Designer toolbar, select **Publish** in the top right corner. After you publish the app, it's ready 
@@ -61,6 +62,6 @@ for you to run or share with others.
 
 Above My Active Accounts, select **Show Chart**.
 
-If the sample data for your accounts does not have an Industry populated, go into a few accounts and add an Industry. Once you have updated a few accounts with an industry the chart will update as well.  
+If the sample data for your accounts does not have an Industry populated, go into a few accounts and add an Industry. Once you have updated a few accounts with an industry the chart will update as well. Once populated, your chart will look similar to the chart below.  
 
 ![Screenshot of updated chart with industry populated.](../media/updated-accounts-quickstart-app.png)
