@@ -47,3 +47,14 @@ quiz:
     - content: "Declined"
       isCorrect: false
       explanation: "Try Again. The Decision shouldn't default to Declined on a new Booking Request."
+  - content: "Suppose Contoso Pet Boarding wants to offer dog washes as an add-on to Booking Requests. What changes would need to be made to implement this requirement?"
+    choices:
+    - content: "Create a custom table called Dog Wash and add the table to the Booking Request form"
+      isCorrect: false
+      explanation: "Try Again. A new table would not be necessary to capture a customer's add-on request for a dog wash."
+    - content: "Create a Text column in the Booking Requests table named Dog Wash and add the column to the Booking Request form"
+      isCorrect: false
+      explanation: "Try Again. A Text column would not be best suited for capturing a customer's add-on request for a dog wash."
+    - content: "Create a Yes/No column in the Booking Requests table named Dog Wash and add the column as a checkbox to the Booking Request form"
+      isCorrect: true
+      explanation: "Correct. The Yes/No column presented as a checkbox on the form would allow the customer to check if they want to add this service to their request."
