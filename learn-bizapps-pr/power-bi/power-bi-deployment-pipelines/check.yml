@@ -63,7 +63,7 @@ quiz:
     - content: Compare view allows you to determine the last time content was deployed to a stage.
       isCorrect: false 
       explanation: Your answer is incorrect. The Compare view capability helps you identify and track changes between items in each pipeline stage. To determine the dependency of items in sequential stages, you would use the Select related button option. To determine the last time content was deployed to a stage, you would view the test and production stage cards. The Compare view does not include a comparison of data or refresh time between stages.
-    - content: Compare view includes a comparison of the data and refresh time between stages.  
+    - content: Compare view includes a comparison of the content and refresh time between stages.  
       isCorrect: false 
       explanation: Your answer is incorrect. The Compare view capability helps you identify and track changes between items in each pipeline stage. To determine the dependency of items in sequential stages, you would use the Select related button option. To determine the last time content was deployed to a stage, you would view the test and production stage cards. The Compare view does not include a comparison of data or refresh time between stages.
     - content: Compare view helps you identify and track changes between items in each pipeline stage.  

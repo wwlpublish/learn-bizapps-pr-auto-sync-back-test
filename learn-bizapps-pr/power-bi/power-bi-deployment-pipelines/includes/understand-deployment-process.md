@@ -21,6 +21,6 @@ There are few key items to note about the above graphic:
     - In this example, the data source size (table and data icons) is increased as it gets closer to production. However, it’s possible that between the development and test stages, the dataset could be made smaller to accommodate testing.  
     - The reports (chart icon) change in each stage.
 - Other creators and developers can work on stages separately.
-- The pipeline is built out of three workspaces that were created when the Deploy button is clicked for the first time. 
-    - As a result, each of the three cloned workspaces is an independent workspace, a standalone one, which can be managed as such in any workspace aspect (permissions, content, etc.)
+- The pipeline is either built out of three workspaces that were created when the Deploy button was clicked for the first time, or by assigning a different workspace to each stage. 
+    - As a result, each of the three workspaces is an independent workspace, a standalone one, which can be managed as such in any workspace aspect (permissions, content, etc.)
     - By deploying a source stage to the target stage, the selected source’s content (specific dataset, reports or all items) overrides the equivalent one on the target workspace (stage).

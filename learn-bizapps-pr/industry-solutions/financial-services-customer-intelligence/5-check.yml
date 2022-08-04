@@ -27,7 +27,7 @@ quiz:
     - content: Dynamics 365 for Sales
       isCorrect: false
       explanation: Incorrect. Customer Insights lets you access important customer information from multiple sources.
-  - content: What are calculated aggregate entities that offer indicators for informing segmentation?
+  - content: What would you use for calculated aggregate entities that inform segmentation?
     choices:
     - content: Retail banking segments
       isCorrect: false

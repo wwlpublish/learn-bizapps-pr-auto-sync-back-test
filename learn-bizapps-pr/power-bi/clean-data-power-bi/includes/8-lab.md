@@ -30,7 +30,7 @@ In this exercise, you'll apply transformations to each of the queries.
 
 1.  From the **File** tab, select **Open report**, and then **Browse reports**.
  
-1. You will open **Sales Analysis.pbix** file, which is found in the **D:\DA100\Labs\02-load-data-with-power-query-in-power-bi-desktop\Starter** folder.
+1. You will open **Sales Analysis.pbix** file, which is found in the **D:\PL300\Labs\02-load-data-with-power-query-in-power-bi-desktop\Starter** folder.
 
 ### Configure the Salesperson query
 
@@ -398,7 +398,7 @@ In this task, you will configure the **Sales** query.
     (after the equals symbol):
 
 1. For your convenience, you can copy the expression from the
-    **D:\DA100\Lab03A\Assets\Snippets.txt** file.
+    **D:\PL300\Lab03A\Assets\Snippets.txt** file.
 
 	Power Query
 	
