@@ -34,7 +34,7 @@ The organization can control from whom and how forum threads and posts are creat
 
 The Community portal has the ability for members of its online community to post blog articles. Having an engaging blog will provide updated and compelling content to help promote the community or an organization's products and services.
 
-See [Manage blogs](/dynamics365/customer-engagement/portals/manage-blogs/?azure-portal=true) to learn how to configure and set up blogs on Power Apps portals.
+See [Manage blogs](/power-apps/maker/portals/customer-engagement-apps/manage-blogs/?azure-portal=true) to learn how to configure and set up blogs on Power Apps portals.
 
 Blogs can also be configured to allow authenticated, unauthenticated, moderated, and unmoderated comments in response to the blog article.
 
@@ -48,7 +48,7 @@ For an organization to best serve their customers or constituents, it's importan
 
 The **Ideas** feature is an extension of the **Forums** feature in that it will allow members of the public to crowdsource particular ideas or suggestions. It's available on the Community, Modern Community, Customer self-service, and Employee self-service portals.
 
-To configure ideas on the Community portal, see [Crowdsource ideas](/dynamics365/customer-engagement/portals/crowdsource-ideas/?azure-portal=true).
+To configure ideas on the Community portal, see [Crowdsource ideas](/power-apps/maker/portals/customer-engagement-apps/crowdsource-ideas/?azure-portal=true).
 
 When a user adds a new idea, the autocomplete feature on the **Topic** column can be configured to allow visibility of existing ideas to reduce the number of duplicate or similar ideas.  
 
