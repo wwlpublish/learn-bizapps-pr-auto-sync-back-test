@@ -1,56 +1,12 @@
-<!-- 1. Restate the scenario problem --------------------------------------------------------------------------------
-
-    Goal: Summarize the challenge(s) posed in the introduction scenario; be brief (1-2 sentences)
-
-    Heading: none
-
-    Example: "You are writing the instruction manual for a new model fire extinguisher. The instructions must be quickly read and understood by a wide variety of people."
-
-    [Summary unit guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-module-summary-unit?branch=main)
--->
 Contoso Pet Boarding is a local pet boarding facility and veterinary care practice. Lately, customers have requested a way to submit booking requests for pet boarding without having to call the office. You would like to create an app that allows customers to submit the information for their booking request for the office to review. You would like customers to be alerted when their booking request has been reviewed and approved or rejected. You want to build an app that allows you to capture these booking requests and decide to accept or decline the booking.
 
-Bookings previously could only be requested over the phone, causing the Contoso phone line to always be busy. Despite their importance, many customers could not get through to the office to request their services. Long wait times could mean customers get frustrated and hang up. This can result in loss of business for Contoso. 
+Bookings previously could only be requested over the phone, causing the Contoso phone line to always be busy. Despite their importance, many customers could not get through to the office to request their services. Long wait times could mean customers get frustrated and hang up. This can result in loss of business for Contoso.
 
-A well-built app with some simple automation provides customers with the ability to submit their booking request information on their own time, reducing the time waiting on the phone. Happy customers are likely to share their experience with others and increase business for Contoso. 
+A well-built app with some simple automation provides customers with the ability to submit their booking request information on their own time, reducing the time waiting on the phone. Happy customers are likely to share their experience with others and increase business for Contoso.
 
-<!-- 2. Show how you solved the scenario problem(s)---------------------------------------------------
-
-    Goal: Describe how you used the product to solve the problem(s) posed in the introduction scenario
-
-    Heading: none; depending on length, you can put this in a separate paragraph or combine this with the previous section into a single paragraph
-
-    Recommended: format this as lead-in sentence(s) followed by a list
-
-    Example: "You did some research and found that Plain English is a good writing style for safety-critical communications. You applied several Plain English techniques to your instructions:
-        * Removed unnecessary words, which made your sentences easier to read even in a stressful situation like a fire.
-        * Made sure all sentences used the active voice, which made your content more direct.
-        * Replaced fire-industry jargon with everyday words, which made the instructions accessible to a wider audience.
-        * Replaced a comma-delimited list with a bulleted list, which made the steps to activate the fire extinguisher easier to follow."
- -->
 You applied your app maker skills to create a low-code, robust solution that meets Contoso's needs. 
 * Created a custom table with custom columns in Dataverse to hold information about each customer's booking request.
 * Built a Power Apps canvas app for your custom Booking Requests table that allows customers to easily submit their request details on their own time.
 * Built Power Automate flows to send email confirmations to the customer when Booking Requests are received and when the Booking Request decision has been made.
 
-Congratulations on completing this Challenge Project and validating your app maker skills! 
-
-<!-- 5. References (optional) ----------------------------------------------------
-
-    Goal: Provide a few recommendations for further study via a bulleted list of links. This is optional and intended to be used sparingly.        - use the target page title as the text for your link
-        - do not include other text such as a description
-        - prefer other first-party sites like Docs reference pages
-        - link to third-party sites only when they are trusted and authoritative
-        - do not link to other Learn content ("next steps" recommendations are generated automatically)
-        - avoid linking to opinion sites such as blog posts
-
-    Heading: "## References"
-
-    Example:
-        "## References
-          * [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles)
-          * [What is Azure role-based access control (Azure RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
-          * [Manage access to billing information for Azure](https://docs.microsoft.com/azure/billing/billing-manage-access)"
- -->
-
-<!-- Do not include any other content -->
+Congratulations on completing this Challenge Project and validating your app maker skills!
