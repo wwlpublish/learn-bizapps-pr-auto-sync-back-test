@@ -12,7 +12,7 @@ Create a Power Apps canvas app called Contoso Booking Requests that meets these 
 - New Booking Requests should default to a decision of Undecided until a Contoso Pet Boarding employee reviews it.
 - Employees can view all Undecided Booking Requests and update the Decision column to Accepted or Declined.
 - Create your app for your new custom table that allows users to create Booking Requests. The following wireframe shows a mockup of your canvas app:
-    ![Mockup of canvas app for submitting booking requests.](../media/canvas-app-mockup.png)
+    ![Diagram of a canvas app for submitting booking requests.](../media/canvas-app-mockup.png)
 
 ## Check your work
 To validate that you have completed the work to the requirements, test your app behavior out by following these steps.
