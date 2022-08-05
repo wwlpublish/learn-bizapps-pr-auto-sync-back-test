@@ -21,6 +21,8 @@ As a result, banks are looking for a new approach to pave the way for the future
 
 In response to the industry's focus on cloud services, Microsoft has prioritized developing services that are specific to the industry. Microsoft Cloud for Financial Services is built on a foundation of privacy, security, and regulatory compliance across Microsoft and the partner ecosystem.
 
+Example
+
 > [!div class="mx-imgBorder"]
 > [![Diagram of Microsoft Cloud for Financial Services scenarios.](../media/financial-services.png)](../media/financial-services.png#lightbox)
 
