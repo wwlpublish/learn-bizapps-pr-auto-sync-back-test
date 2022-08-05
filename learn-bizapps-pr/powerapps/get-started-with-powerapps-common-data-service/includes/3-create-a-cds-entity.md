@@ -56,8 +56,8 @@ Sign in to [Power Apps](https://make.powerapps.com) and follow these steps to cr
 
 1. Let's add another column in the columns and data pane; again select the **+** to add a new column.
 
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of add new column with the + icon highlighted.](../media/add-additional-column.png)
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of add new column with the + icon highlighted.](../media/add-additional-column.png)](../media/add-additional-column.png#lightbox)
 
 1. In the **New column** pane, enter the following values, and then select **Save**:
 
@@ -76,8 +76,9 @@ Sign in to [Power Apps](https://make.powerapps.com) and follow these steps to cr
 
 1. On the **Schema** pane, select **Relationships** and the screen will display the existing relationships.
 
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Schema pane with the relationships button highlighted.](../media/schema-relationships.png)
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of the Schema pane with the relationships button highlighted.](../media/schema-relationships.png)](../media/schema-relationships.png#lightbox)
+
 
 1. At the top left of the screen select the **+ New relationship**, and then select **Many-to-one** in the dropdown.
 1. In the **Many-to-one** pane on the right, in the **Related** list, select **Account**.
@@ -85,8 +86,8 @@ Sign in to [Power Apps](https://make.powerapps.com) and follow these steps to cr
 
     Notice that when you add a many-to-one relationship, an **Account** column of the **Lookup** data type is automatically added to your list of relationships.
 
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Account column of the lookup data type automatically added.](../media/updated-account-lookup-field.png)
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of the Account column of the lookup data type automatically added.](../media/updated-account-lookup-field.png)](../media/updated-account-lookup-field.png#lightbox)
 
 ## Customize a view
 
@@ -104,8 +105,8 @@ Sign in to [Power Apps](https://make.powerapps.com) and follow these steps to cr
 1. Select the **Created On** column, select **Remove**.
 1. To arrange the columns, drag and drop them in the order you want them (or you can select the column to move, and then select **Move Left** or **Move Right**) until your view looks like this. 
 
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Account drop-down with Move Left and Move Right options highlighted.](../media/updated-active-pets-view.png)
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of the Account drop-down with Move Left and Move Right options highlighted.](../media/updated-active-pets-view.png)](../media/updated-active-pets-view.png#lightbox)
 
 1. On the view designer toolbar, select **Save**.
 1. Select **Publish** and then Navigate back to Tables by pressing the **Back** button at the top left of the screen.
@@ -116,22 +117,21 @@ Sign in to [Power Apps](https://make.powerapps.com) and follow these steps to cr
 1. In the **Data experiences** pane, select **Forms**.
 1. Select **Information** next to the **Main** form type to open the form editor.
 
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of the Form tab with Information highlighted.](../media/updated-main-form-edit.png)
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of the Form tab with Information highlighted.](../media/updated-main-form-edit.png)](../media/updated-main-form-edit.png#lightbox)
 
 1. In the form editor, select **Table columns** from the menu on the far left side of the window, and drag the **Species**, **Breed**, **Appointment date**, and **Account** columns from under the **Table columns** pane to the **General** section of the form canvas, so that the form looks like this.
 
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of General section of the form canvas.](../media/updated-main-form-edit2.png)
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of General section of the form canvas.](../media/updated-main-form-edit2.png)](../media/updated-main-form-edit2.png#lightbox)
 
 1. Select **Save**.
 1. Select **Publish**.
 1. Select the back arrow in your browser to close the form designer.
 1. At this point it's possible to add data directly to your table. Select **Add data** and the screen below will appear. You can begin entering as many rows as you like.
 
-    > [!div class="mx-imgBorder"]
-    > ![Screenshot of data entry screen.](../media/data-entry-screen.png)
-
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of data entry screen.](../media/data-entry-screen.png)](../media/data-entry-screen.png#lightbox)
 
 It's also possible to import data into your table. We'll show you how to do that in the next exercise.
 

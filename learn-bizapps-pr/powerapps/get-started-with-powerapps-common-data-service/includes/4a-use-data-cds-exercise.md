@@ -20,7 +20,9 @@ customers for your app.
 1. Select **Save**.
 1. After a few moments, the *Tables>Prospects* screen will appear. Select **+** to add a new column in the *Prospects columns and data* section.
 
-	![Screenshot of Prospects table main page](../media/prospects-table-main-screen.png)
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of Prospects table main page.](../media/prospects-table-main-screen.png)](../media/prospects-table-main-screen.png#lightbox)
+
 1. In the *New column* pane, enter the following information:
 	- **Display name**: *Stage*
 	- **Data Type**: Select *Choice* (and select *Choice* from the popup)
@@ -36,7 +38,9 @@ customers for your app.
 		- **Won**
 		- **Lost**		
 
-	![Display of New choice pane showing 4 choices entered](../media/new-choice-pane.png)
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of new choice pane showing four choices entered.](../media/new-choice-pane.png)](../media/new-choice-pane.png#lightbox)
+
 1. Once you've saved your *New choice*, select the dropdown under **Sync this choice with** and find/select **Prospect Stage**.
 
 	![Screenshot of dropdown list showing Synch this choice with options and Prospect Stage highlighted.](../media/sync-with-prospect-stage.png)
@@ -71,7 +75,9 @@ customers for your app.
 
 1.	Select **+ New business rule** at the top of the screen; a new browser tab will open.
 
-	![New business rule browser window](../media/new-business-rule.png)
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of new business rule browser window.](../media/new-business-rule.png)](../media/new-business-rule.png#lightbox)
+
 1.	Select the **Condition New Condition** from the design pane.
 1.	In the right-hand pane, for **Field**, ensure that **Contract Amount** is selected.
 1.	For the **Operator**, choose **Contains data**.
@@ -79,12 +85,16 @@ customers for your app.
 1.	In the right-hand pane, select the **Components** tab.
 1.	Click and hold **Set Business Required** and drag to the plus symbol to the right of the purple checkbox in the design pane.
 
-	![Drag Set Business Required action to New Condition](../media/drag-set-business-required.png)
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of drag set business required action to new condition.](../media/drag-set-business-required.png)](../media/drag-set-business-required.png#lightbox)
+
 1.	With *Set Business Required New Action* selected/highlighted, in the right-hand pane, for **Field**, choose **Probability**.
 1.	For the **Status**, choose **Business Required**.
 1.	Select **Apply**.
 
-	![Properties pane of the Set Business Required with Field and Status dropdowns selected, along with the Apply button.](../media/set-business-required.png)
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of the properties pane of the Set Business Required with Field and Status dropdowns selected, along with the Apply button.](../media/set-business-required.png)](../media/set-business-required.png#lightbox)
+
 1.	In the top left of the screen, select the dropdown next to **Prospects New business rule** and set the **Business rule name** to **Make Probability Required**.
 1.	Select **Save** in top-right corner of screen.
 1.	Select **Activate** to (also top-right of screen) activate the rule.

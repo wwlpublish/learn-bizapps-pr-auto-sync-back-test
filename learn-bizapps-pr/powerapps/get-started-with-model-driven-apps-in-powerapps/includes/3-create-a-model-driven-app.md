@@ -54,7 +54,8 @@ You've successfully added a form to your app, now we'll edit them.
 
 1. On this page, you can edit which fields will show up on this view, what filters will be applied, default sort order, the order of your columns, and the width of your columns. 
 
-    ![Screenshot showing the view of My Active Accounts.](../media/my-active-accounts.png)
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot showing the view of My Active Accounts.](../media/my-active-accounts.png)](../media/my-active-accounts.png#lightbox)
 
 ## Publish your app
 On the App Designer toolbar, select **Publish** in the top right corner. After you publish the app, it's ready 
