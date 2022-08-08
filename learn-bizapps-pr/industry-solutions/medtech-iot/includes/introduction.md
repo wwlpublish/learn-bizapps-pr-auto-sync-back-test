@@ -7,3 +7,5 @@ In this module, you'll:
 -   Discover the benefits of wearables in providing proactive monitoring.
 
 -   Learn about the process for device data to become usable data that supports health workloads.
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE52QyW]

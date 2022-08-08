@@ -22,5 +22,5 @@ Since dashboards, reports, datasets, and dataflows are related and have dependen
 > [![Screenshot highlighting Sales Dashboard to deploy a report to next stage by clicking the select related button that will mark the dataset that the report is connected.](../media/report-deploy.png)](../media/report-deploy.png#lightbox)
 
 > [!NOTE]
-> - You can't deploy a Power BI item to the next stage if the items it's dependent on don't exist in the stage you are deploying to. For example, deploying a report without a dataset will fail, unless the dataset already exists in the target stage.
+> - You can't deploy a Power BI item to the next stage if the items it's dependent on don't exist in the stage you are deploying to. For example, deploying a report without its dataset will fail, unless the dataset already exists in the target stage.
 > - You might get unexpected results if you choose to deploy a Power BI item without the item it's dependent on. This can happen when a dataset or a dataflow in the target stage has changed and is no longer identical to the one in the stage you're deploying from.

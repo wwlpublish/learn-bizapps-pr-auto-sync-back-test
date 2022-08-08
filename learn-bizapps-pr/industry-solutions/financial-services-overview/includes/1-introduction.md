@@ -49,8 +49,6 @@ These eight capabilities are:
 
     -  **Customer onboarding** - Provides customers with easy-access loan apps and self-service tools, helping to streamline the loan process to help enhance customer experience and loyalty.
 
-    -  **Collaboration manager** - Enables automation, collaboration, and communication to help accelerate lending processes, minimize errors, and enhance customer experience.
-
     -  **Banking customer engagement** - Enables personalized customer interactions with relevant financial information to accelerate time to resolution.
 
 -   **Combatting financial crime**
@@ -64,5 +62,14 @@ These eight capabilities are:
     -  **Regulatory compliance assessments** - Enables companies to assess, monitor, and help improve compliance posture with global, regional, and industry regulations and standards.
 
     -  **Risk assurance and support** - A white-glove service to support risk, audit, and compliance teams in addressing financial services regulatory compliance, cybersecurity, and privacy.
+
+-   **Empower Employees**
+
+    -  **Predictive targeting** - Use past interactions and real-time insights powered by AI to enable cross-sells and larger share of wallet.
+
+    -  **Agent efficiency** - Empower agents to provide personalized and efficient service.
+    
+    - **Collaboration manager** - Enables automation, collaboration, and communication to help accelerate lending processes, minimize errors, and enhance customer experience.
+   
 
 These capabilities are built on a few foundational elements that are tailored to the financial services industry. The first element involves **data model and connectors**, which enable the connection between Microsoft Cloud for Financial Services capabilities and the financial institution's data. Also, it ensures interoperability of solutions with a financial institution's solutions and partner solutions. Second is Microsoft's extensive **ecosystem of partners**, which extends the cloud's capabilities further, ensuring fit-for-need solutions. These elements are built on the trusted and compliant Microsoft Cloud.

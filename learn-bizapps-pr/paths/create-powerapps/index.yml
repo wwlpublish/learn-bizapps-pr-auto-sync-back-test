@@ -34,6 +34,9 @@ subjects:
 modules:
 - learn-bizapps.powerapps-get-started
 - learn-bizapps.powerapps-customize
+- learn-bizapps.how-to-build-ui-canvas-app
+- learn-bizapps.navigation-canvas-app
 - learn-bizapps.powerapps-manage
+- learn-bizapps.build-mobile-optimized
 trophy:
   uid: learn.create-powerapps.trophy

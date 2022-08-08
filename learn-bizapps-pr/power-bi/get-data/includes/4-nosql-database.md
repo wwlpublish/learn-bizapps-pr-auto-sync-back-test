@@ -1,4 +1,4 @@
-Some organization don't use a relational database but instead use
+Some organizations don't use a relational database but instead use
 a *NoSQL* database. A NoSQL database (also referred to as non-SQL, not
 only SQL or *non-relational*) is a flexible type of database that does
 not use tables to store data.  

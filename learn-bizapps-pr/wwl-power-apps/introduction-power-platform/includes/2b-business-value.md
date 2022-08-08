@@ -7,7 +7,7 @@ of businesses today. With demands for targeted applications at an all-time high 
 labor shortages, it isn't uncommon to see application demand
 up to five times what departments can realistically deliver.
 
-This is not the only challenge that face today’s businesses. As the business
+This is not the only challenge facing enterprises today. As the business
 climate changes, new factors are impacting businesses. These impacts include:
 
 -   **Changing workforce expectations:** As millennials and Gen Z come to represent

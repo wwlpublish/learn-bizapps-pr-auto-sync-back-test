@@ -22,7 +22,7 @@ When you're finished, select the **Save** icon to save your record.
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Contoso Invoice with invoice details displayed.](../media/contoso-invoice-detail.png)](../media/contoso-invoice-detail.png#lightbox)
 
-Return to the recording, put it in Power Automate, and then select **Finish**. Your recorded actions should look similar to the following screenshot.
+Return to the recording, pause it in Power Automate, and then select **Finish**. Your recorded actions should look similar to the following screenshot.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Recorded actions list with Finish button.](../media/recorded-actions.png)](../media/recorded-actions.png#lightbox)
