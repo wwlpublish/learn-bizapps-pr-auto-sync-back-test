@@ -24,7 +24,6 @@ Congratulations. You are the new sales manager at a clothing manufacturing compa
 1. Sign in to [http://app.powerbi.com](http://app.powerbi.com).
 1. Select the **Apps** tab on the left.
 1. Select the **Get apps** button.
-1. Select “**Find more apps and consulting services at AppSource**” link at the bottom of the menu.
 1. Search for *Sales & Marketing*.
 
    ![Screenshot of the sample app for this lab.](../media/Lab-1/power-bi-top-app-results.png)
