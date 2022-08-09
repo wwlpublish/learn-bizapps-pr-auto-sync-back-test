@@ -1,6 +1,3 @@
-This exercise builds off the exercises found in Create an immersive business process flow in Power Automate.
-It’s recommended that you complete that module before following the below exercises. However, if you’re already familiar with the steps in building out basic business process flows, feel free to take the concepts in the exercise below.
-
 In this exercise, you'll enhance the business process flow by adding
 a logical branch to determine what test to perform and
 what information needs to be collected in order to complete a smog check on a
