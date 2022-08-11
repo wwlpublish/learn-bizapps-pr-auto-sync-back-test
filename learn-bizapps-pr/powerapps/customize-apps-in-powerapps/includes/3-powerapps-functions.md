@@ -40,7 +40,7 @@ If you select a control and then open the property drop-down list, a list of pro
 
 ![Screenshot of setting properties fpr the drop-down list.](../media/powerapps-formulas4.png)
 
-To conditionally format the price's color, select the price Label,** and choose the **Color** property and set it to this formula: 
+To conditionally format the price's color, select the price **Label,** and choose the **Color** property and set it to this formula: 
 
 ```powerappsfl
 If(ThisItem.Price > 5, Color.Red, Color.Green)
