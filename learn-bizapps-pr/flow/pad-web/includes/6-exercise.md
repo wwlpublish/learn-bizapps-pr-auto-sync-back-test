@@ -17,7 +17,7 @@ In this exercise, you'll create a flow that extracts gainer stocks from the MSN 
    
 1. Add a second **Click link on web page** action and set it to select the **Markets** drop-down link on the left side of the page. Select **Advanced** on the form and select **Send physical click**.
 
-1. Add a second **Click link on web page** action and set it to select the **GAINERS** link on the **MSN Markets** page. Select **Advanced** on the form and select **Send physical click**. 
+1. Add a third **Click link on web page** action and set it to select the **GAINERS** link on the **MSN Markets** page. Select **Advanced** on the form and select **Send physical click**. 
 
    ![Screenshot of the second  Click link on web page action clicking the Markets Gainers link.](..\media\exercise-click-link-on-web-page-gainers.png)
 
