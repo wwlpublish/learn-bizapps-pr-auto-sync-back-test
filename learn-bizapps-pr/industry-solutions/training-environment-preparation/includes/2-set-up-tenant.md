@@ -84,7 +84,7 @@ In this task, you'll add the necessary Office 365 trial to use Microsoft Teams f
 
 6. Enter a valid phone number to prove that you're not a robot and go through the verification process.
 
-:::image type="content" source="../media/prove-not-robot.png" alt-text="Screenshot of verification process to prove the user is not a robot.":::
+:::image type="content" source="../media/prove-not-robot.png" alt-text="Screenshot of verification process to prove the user isn't a robot.":::
 
 7. Select **Try now** to start your free trial.
 
