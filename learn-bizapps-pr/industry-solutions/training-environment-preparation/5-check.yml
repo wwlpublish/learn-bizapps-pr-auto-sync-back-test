@@ -59,13 +59,13 @@ quiz:
     choices:
     - content: Microsoft Azure
       isCorrect: false
-      explanation: Incorrect. In order to leverage the Banking Customer Engagement capability, Dynamics 365 Customer Service is a required dependency that must be deployed in the target environment.
+      explanation: Incorrect. In order to use the Banking Customer Engagement capability, Dynamics 365 Customer Service is a required dependency that must be deployed in the target environment.
     - content: Microsoft Teams
       isCorrect: false
-      explanation: Incorrect. In order to leverage the Banking Customer Engagement capability, Dynamics 365 Customer Service is a required dependency that must be deployed in the target environment.
+      explanation: Incorrect. In order to use the Banking Customer Engagement capability, Dynamics 365 Customer Service is a required dependency that must be deployed in the target environment.
     - content: Dynamics 365 Customer Service
       isCorrect: true
-      explanation: Correct. In order to leverage the Banking Customer Engagement capability, Dynamics 365 Customer Service is a required dependency that must be deployed in the target environment.
+      explanation: Correct. In order to use the Banking Customer Engagement capability, Dynamics 365 Customer Service is a required dependency that must be deployed in the target environment.
     - content: Dynamics 365 Field Service
       isCorrect: false
-      explanation: Incorrect. In order to leverage the Banking Customer Engagement capability, Dynamics 365 Customer Service is a required dependency that must be deployed in the target environment.
+      explanation: Incorrect. In order to use the Banking Customer Engagement capability, Dynamics 365 Customer Service is a required dependency that must be deployed in the target environment.
