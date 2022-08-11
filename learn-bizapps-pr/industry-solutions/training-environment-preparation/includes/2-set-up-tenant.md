@@ -68,39 +68,39 @@ In this task, you'll add the necessary Office 365 trial to use Microsoft Teams f
 
 2. Go to **Billing > Billing accounts** and select the **Billing account** record.
 
-:::image type="content" source="../media/billing-accounts.png" alt-text="Screenshot of the Billing accounts page." lightbox="../media/billing-accounts.png":::
+    :::image type="content" source="../media/billing-accounts.png" alt-text="Screenshot of the Billing accounts page." lightbox="../media/billing-accounts.png":::
 
 3. Select **Edit** to edit the billing account details and provide a valid address and phone number. This step is important for the address validations kick-off. Select **Save**.
 
-:::image type="content" source="../media/edit-address.png" alt-text="Screenshot of the organization profile page.":::
+    :::image type="content" source="../media/edit-address.png" alt-text="Screenshot of the organization profile page.":::
 
 4. Now, go to **Billing > Purchase Services**, select **Office 365**, scroll down to **Office 365 E5**, and then select **Details**.
 
-:::image type="content" source="../media/purchase-services.png" alt-text="Screenshot of the Purchase services page." lightbox="../media/purchase-services.png":::
+    :::image type="content" source="../media/purchase-services.png" alt-text="Screenshot of the Purchase services page." lightbox="../media/purchase-services.png":::
 
 5. Select **Start free trial**.
 
-:::image type="content" source="../media/start-office-trial.png" alt-text="Screenshot of the Start office free trial page." lightbox="../media/start-office-trial.png":::
+    :::image type="content" source="../media/start-office-trial.png" alt-text="Screenshot of the Start office free trial page." lightbox="../media/start-office-trial.png":::
 
 6. Enter a valid phone number to prove that you're not a robot and go through the verification process.
 
-:::image type="content" source="../media/prove-not-robot.png" alt-text="Screenshot of verification process to prove the user isn't a robot.":::
+    :::image type="content" source="../media/prove-not-robot.png" alt-text="Screenshot of verification process to prove the user isn't a robot.":::
 
 7. Select **Try now** to start your free trial.
 
-:::image type="content" source="../media/try-now-office-trial.png" alt-text=" Screenshot of the Office 1 month free trial page. ":::
+    :::image type="content" source="../media/try-now-office-trial.png" alt-text=" Screenshot of the Office 1 month free trial page. ":::
 
 8. Select **Continue** to return to the admin center.
 
-:::image type="content" source="../media/office-trial-confirmation.png" alt-text="Screenshot of the Office trial confirmation page." lightbox="../media/office-trial-confirmation.png":::
+    :::image type="content" source="../media/office-trial-confirmation.png" alt-text="Screenshot of the Office trial confirmation page." lightbox="../media/office-trial-confirmation.png":::
 
 9. Assign the newly acquired Office 365 E5 trial license to a user by going to **Users > Active users**. Select a user and then select **Manage product licenses**.
 
-:::image type="content" source="../media/assign-license-user.png" alt-text="Screenshot of the Assign trial license to user page." lightbox="../media/assign-license-user.png":::
+    :::image type="content" source="../media/assign-license-user.png" alt-text="Screenshot of the Assign trial license to user page." lightbox="../media/assign-license-user.png":::
 
 10. Select the **Office 365 E5** license and then select **Save changes**.
 
-:::image type="content" source="../media/office-365-e5-license.png" alt-text="Screenshot of the Office 365 E5 Licenses and apps page.":::
+    :::image type="content" source="../media/office-365-e5-license.png" alt-text="Screenshot of the Office 365 E5 Licenses and apps page.":::
 
 **Congratulations!** You have successfully set up your trial tenant.
 
