@@ -172,7 +172,7 @@ In this step, you'll walk through the Microsoft Teams configuration settings to 
 8. After the dialog disappears, select **Save**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the setting toggles set to yes with save button.](../media/Mmicrosoft-teams-collaboration-save.png)](../media/microsoft-teams-collaboration-save.png#lightbox)
+    > [![Screenshot of the setting toggles set to yes with save button.](../media/microsoft-teams-collaboration-save.png)](../media/microsoft-teams-collaboration-save.png#lightbox)
 
 **Congratulations!**  You have enabled Microsoft Teams integration for Dynamics 365.
 
