@@ -161,7 +161,7 @@ In this step, you'll walk through the Microsoft Teams configuration settings to 
 5. After the page finishes saving, change settings to **Yes** on **Turn on Enhanced Microsoft Teams Integration**.
 
    > [!div class="mx-imgBorder"]
-   > [![Screenshot of the MS Teams integration setting toggles set to yes](../media/settings-save-microsoft-teams-integration.png)](../media/settings-save-microsoft-teams-integration.png#lightbox)
+   > [![Screenshot of the MS Teams integration setting toggles set to yes.](../media/settings-save-microsoft-teams-integration.png)](../media/settings-save-microsoft-teams-integration.png#lightbox)
 
 6. Another pop-up window will open to grant permissions. Select the user you're signed in as currently.
 
