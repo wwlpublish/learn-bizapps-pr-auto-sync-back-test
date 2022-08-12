@@ -156,7 +156,7 @@ In this step, you'll walk through the Microsoft Teams configuration settings to 
 4. Change setting to **Yes** on **Turn on the linking of Dynamics 365 records to Microsoft Teams channels**. Select **Save**.
 
    > [!div class="mx-imgBorder"]
-   > [![Screenshot of the D365 records setting toggles set to yes.](../media/settings-save-dynamics-365-records.png)](../media/settings-save-dynamics-365-records.png#lightbox)
+   > [![Screenshot of the Dynamics 365 records setting toggles set to yes.](../media/settings-save-dynamics-365-records.png)](../media/settings-save-dynamics-365-records.png#lightbox)
 
 5. After the page finishes saving, change settings to **Yes** on **Turn on Enhanced Microsoft Teams Integration**.
 
@@ -166,7 +166,7 @@ In this step, you'll walk through the Microsoft Teams configuration settings to 
 6. Another pop-up window will open to grant permissions. Select the user you're signed in as currently.
 
    > [!div class="mx-imgBorder"]
-   > [![Screenshot of the pop up to pick and account to grant permissions.](../media/pick-an-account.png)](../media/pick-an-account.png#lightbox)
+   > [![Screenshot of the pop up to pick an account to grant permissions.](../media/pick-an-account.png)](../media/pick-an-account.png#lightbox)
 
 7. Select **Accept** for requested permissions.
 
