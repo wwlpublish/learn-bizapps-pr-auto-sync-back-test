@@ -39,9 +39,9 @@ In this task, you'll deploy all the Microsoft Cloud for Financial Services capab
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Configure pre-deployment dependencies, with the Deploy button highlighted.](../media/configure-pre-deployment.png)](../media/configure-pre-deployment.png#lightbox)
 
-The Microsoft Cloud for Financial Services deployment will take several hours to complete. You can check the progress through the Existing deployments section.
+   The Microsoft Cloud for Financial Services deployment will take several hours to complete. You can check the progress through the Existing deployments section.
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot of the deployment in progress screen.](../media/deployment-in-progress.png)](../media/deployment-in-progress.png#lightbox)
+   > [!div class="mx-imgBorder"]
+   > [![Screenshot of the deployment in progress screen.](../media/deployment-in-progress.png)](../media/deployment-in-progress.png#lightbox)
 
-You can monitor this screen to check the deployment status, or you can view the status of the apps by going to [https://aka.ms/ppac](https://aka.ms/ppac/?azure-portal=true).
+   You can monitor this screen to check the deployment status, or you can view the status of the apps by going to [https://aka.ms/ppac](https://aka.ms/ppac/?azure-portal=true).
