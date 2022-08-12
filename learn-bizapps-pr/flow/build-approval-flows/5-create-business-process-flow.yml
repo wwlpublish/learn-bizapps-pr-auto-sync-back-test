@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.build-approval-flows.5-create-business-process-flow 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-approval-flows.5-create-business-process-flow
 title: Exercise - Create a business process flow
-metadata: 
+metadata:
   title: Exercise - Create a business process flow
   description: Learn how to create a business process flow that ensures everyone in your organization is following the same process.
-  ms.date: 02/25/2022 
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-automate 
-durationInMinutes: 10 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/5-create-business-process-flow.md)] 
+  ms.date: 08/01/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-automate
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/5-create-business-process-flow.md)]
