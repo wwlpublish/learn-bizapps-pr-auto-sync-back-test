@@ -46,7 +46,7 @@ You can access the query reduction settings by selecting **File > Options and se
 You can use the **Drill through** feature to create a page in your report that focuses on a specific entity, such as a product, category, or region. You can then access this page when you drill through from the related visuals that are on other pages in your report. The information that displays on the drillthrough page will be specific to the item that you select on the visual, as illustrated in the following image.
 
 > [!div class="mx-imgBorder"]
-> ![Drill through example](../media/6-drill-through-example-ssm.png)
+> ![Screenshot showing drill-through example.](../media/6-drill-through-example-ssm.png)
 
 In this example, you will create a drillthrough for the product category entity. You can start by creating a page in your report and rename it to **Details Page**. On that page, you will add a visual for the entity that you want to provide the drillthrough for (a table that displays data for the **Category**, **SubCategory**, **Country**, **Gross Sales**, and **Net Sales** fields).
 
