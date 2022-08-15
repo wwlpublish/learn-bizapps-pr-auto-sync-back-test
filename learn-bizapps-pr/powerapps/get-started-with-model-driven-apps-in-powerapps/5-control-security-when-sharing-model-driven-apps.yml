@@ -5,8 +5,8 @@ metadata:
   title: Exercise - Control security when sharing model-driven apps 
   description: Control security when sharing model-driven apps.
   ms.date: 07/08/2022 
-  author: DaveBeasley
-  ms.author: dbeasley
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.prod: learning-powerapps
 durationInMinutes: 15 

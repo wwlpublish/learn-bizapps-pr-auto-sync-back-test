@@ -49,13 +49,13 @@ You can also view the app metadata by putting the app in Play mode.
 
 ![Screenshot of app metadata in play mode.](../media/play-app-metadata-example.png)
 
-In the example above, for the Fundraiser table, there are several pieces of metadata being collected, such as:
+In the example above, for the Donations table, there are multiple pieces of metadata being collected, including:
 
-- Name
-- Fundraiser Goal
-- Owner
-- Total Donations
-- Created On
+- From
+- Donation Amount
+- Status Reason
+- Date Created
+- Category
 
 Each solution you develop and deploy will have its own set of metadata to collect. This basic understanding of metadata is important as you continue the design process and modeling your app data.
 
@@ -63,8 +63,6 @@ As you think about your data model, also think about column types. When adding c
 
 > [!NOTE]
 > If a column type needs to be changed to a different column type, (i.e. text column to an choice), then you will need to delete that column and recreate with the correct column type. This will cause you to lose any data associated with that column.
-
-![Screenshot of fundraiser table default columns.](../media/new-table-field-types.png)
 
 ### User Interface (UI) and User Experience (UX)
 
