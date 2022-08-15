@@ -46,8 +46,6 @@ In this example we have a simple SharePoint list with columns aligned with our D
     ![Screenshot of the map tables window displayed showing the dropdown for the destination table and the column mapping portion of the screen.](../media/column-mapping.png)
 
 1. Next we select the source columns that we want to import into our destination columns. It's helpful to have similar names to make mapping easier. Each dropdown has a list of all available columns, so it's fairly easy to match if your names are close. Once all of your source columns are matched with the destination columns, select **Next** in the bottom right of the window.
- 
-    ![Screenshot example of Pet columns Source values.](../media/column-mapping-source-columns-selected.png)
 
 1. The **Refresh settings** provides you the ability to set up a refresh schedule if you want your data to regularly update. In this case we'll, leave it set to **Refresh manually** and select **Publish** at the bottom right of the window.
 
