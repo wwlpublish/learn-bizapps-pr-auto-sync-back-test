@@ -31,4 +31,4 @@ The Dataverse actions are:
 
 - **Perform a changeset request** - This action allows you to perform a group of Microsoft Dataverse connector operations as a single transaction. If one of the operations fails, all the successful actions are rolled back.
 
-Dataverse actions in Power Automate allow you to create robust processes that surround your data.
+Dataverse actions in Power Automate allow you to easily create robust processes around your data.

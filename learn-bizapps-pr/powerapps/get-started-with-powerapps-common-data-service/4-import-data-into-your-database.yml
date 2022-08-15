@@ -1,15 +1,15 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.powerapps-common-data-service.4-import-data-into-your-database
-title: Exercise - Create a table and import data into your Microsoft Dataverse database  
+title: Import data into your Microsoft Dataverse database  
 metadata: 
-  title: Exercise - Import data into your database
+  title: Import data into your database
   description: Import data into your database
-  ms.date: 05/25/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/01/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.prod: learning-powerapps
-durationInMinutes: 10 
+durationInMinutes: 10
 content: | 
   [!include[](../includes/unit-banner.md)]
   [!include[](includes/4-import-data-into-your-database.md)]  
