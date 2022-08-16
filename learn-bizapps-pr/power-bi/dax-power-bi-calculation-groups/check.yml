@@ -17,16 +17,16 @@ quiz:
     choices: 
     - content: ALM Toolkit
       isCorrect: false 
-      explanation: Incorrect. ALM Toolkit is a schema compare tool for Power BI models and datasets. It doesn’t support the creation of calculation groups.
+      explanation: Incorrect. ALM Toolkit is a schema compare tool for Power BI models and datasets. It doesn't support the creation of calculation groups.
     - content: DAX Studio
       isCorrect: false 
-      explanation: Incorrect. DAX Studio is a feature-rich tool for DAX authoring, diagnosis, performance tuning, and analysis. It doesn’t support the creation of calculation groups.
+      explanation: Incorrect. DAX Studio is a feature-rich tool for DAX authoring, diagnosis, performance tuning, and analysis. It doesn't support the creation of calculation groups.
     - content: Tabular Editor
       isCorrect: true
       explanation: Correct. Tabular Editor 2 or Tabular Editor 3 supports the creation of calculation groups.
     - content: VertiPaq Analyzer
       isCorrect: false 
-      explanation: Incorrect. VertiPaq Analyzer is a tool for analyzing VertiPaq storage structures for a data model in Power BI or Microsoft Azure Analysis Services. It doesn’t support the creation of calculation groups.
+      explanation: Incorrect. VertiPaq Analyzer is a tool for analyzing VertiPaq storage structures for a data model in Power BI or Microsoft Azure Analysis Services. It doesn't support the creation of calculation groups.
   - content: Volodymyr is a data modeler at Adventure Works who wants to create a calculation group to show different measures in different time intelligence perspectives. The order of the calculation items must be customized. What should Volodymyr do?
     choices: 
     - content: Rename the calculations items so that they sort alphabetically.
@@ -40,19 +40,19 @@ quiz:
       explanation: Correct. The Ordinal property allows you to customize the order of calculation items.
     - content: Add a calculated column to the calculation group.
       isCorrect: false 
-      explanation: Incorrect. You can’t add a calculated column to a calculation group. Even if it were possible, it wouldn’t meet the requirements to customize the order of the calculation items.
+      explanation: Incorrect. You can't add a calculated column to a calculation group. Even if it were possible, it wouldn't meet the requirements to customize the order of the calculation items.
   - content: Fenhua is a data modeler at Adventure Works who added a calculation group to show different measures in different time intelligence perspectives. When the model was published to the Power BI service, users reported that their reports, which connect to the model, now display errors.
              What should Fenhua do?
     choices: 
     - content: Create calculated columns for all aggregated columns and update reports to use them.
       isCorrect: false 
-      explanation: Incorrect. When you add a calculation group to a model, it’s no longer possible to summarize columns. Adding calculated columns will not address the errors.
+      explanation: Incorrect. When you add a calculation group to a model, it's no longer possible to summarize columns. Adding calculated columns will not address the errors.
     - content: Create calculated items for all aggregated columns and update reports to use them.
       isCorrect: false 
-      explanation: Incorrect. When you add a calculation group to a model, it’s no longer possible to summarize columns. Adding calculated items will not address the errors.
+      explanation: Incorrect. When you add a calculation group to a model, it's no longer possible to summarize columns. Adding calculated items will not address the errors.
     - content: Create calculated tables for all aggregated columns and update reports to use them.
       isCorrect: false 
-      explanation: Incorrect. When you add a calculation group to a model, it’s no longer possible to summarize columns. Adding calculated tables will not address the errors.
+      explanation: Incorrect. When you add a calculation group to a model, it's no longer possible to summarize columns. Adding calculated tables will not address the errors.
     - content: Create measures for all aggregated columns and update reports to use them.
       isCorrect: true
-      explanation: Correct. When you add a calculation group to a model, it’s no longer possible to summarize columns. You’ll need to create measures and update visuals to use the measures instead.
+      explanation: Correct. When you add a calculation group to a model, it's no longer possible to summarize columns. You'll need to create measures and update visuals to use the measures instead.

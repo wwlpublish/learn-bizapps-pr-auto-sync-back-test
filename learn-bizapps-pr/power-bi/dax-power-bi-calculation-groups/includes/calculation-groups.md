@@ -1,21 +1,21 @@
-In this unit, you’ll create two calculation groups. Before you create the calculation groups, you’ll review the sample data model and create some measures.
+In this unit, you'll create two calculation groups. Before you create the calculation groups, you'll review the sample data model and create some measures.
 
 ## Task 1: Review the data model
 
-Download and open the Adventure Works DW 2020 M08.pbix file.
+Download and open the **[Adventure Works DW 2020 M08.pbix](https://TODO)** file.
 
 Verify that you have Tabular Editor 2 installed.
 
-> [!Note]
-> If the **External Tools** ribbon tab doesn’t show, or if that tab doesn’t include Tabular Editor, return to Unit 2 for guidance on how to complete the installation.
-
+> [!NOTE]
+> If the **External Tools** ribbon tab doesn't show, or if that tab doesn't include Tabular Editor, return to [Unit 2](https://TODO) for guidance on how to complete the installation.
 
 In Power BI Desktop, switch to **Model** view and then review the model design.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of Power BI desktop model view to review model design.](../media/model-view.png)](../media/model-view.png#lightbox)
 
-The model comprises seven dimension tables and two fact tables. The **Sales** fact table stores sales order details. The **Currency Rate** fact table stores daily currency exchange rates for multiple currencies. It’s a classic star schema design.
+The model comprises seven dimension tables and two fact tables. The **Sales** fact table stores sales order details. The **Currency Rate** fact table stores daily currency exchange rates for multiple currencies. It's a classic star schema design.
+
 Switch to **Report** view, and then in the **Fields** pane (located to the right), expand the **Sales** table to review the fields.
 
 > [!div class="mx-imgBorder"]
@@ -23,7 +23,7 @@ Switch to **Report** view, and then in the **Fields** pane (located to the right
 
 The two **Sales** table fields are decorated with the sigma symbol (∑). The sigma symbol indicates that the fields will automatically summarize by using aggregation functions, such as sum, count, average, or others.
 
-However, when you add calculation groups to a model, you’ll need to disable this automatic behavior. Specifically, Power BI can only achieve summarization by using measures, which you’ll define by using DAX formulas. Therefore, you’ll now add measures to the model.
+However, when you add calculation groups to a model, you'll need to disable this automatic behavior. Specifically, Power BI can only achieve summarization by using measures, which you'll define by using DAX formulas. Therefore, you'll now add measures to the model.
 
 ## Task 2: Create measures
 
@@ -37,12 +37,13 @@ In the formula bar (located beneath the ribbon), replace the text with the follo
 ```dax
 Sales = SUM('Sales'[Sales Amount])
 ```
-> [!Tip]
-> You can copy the DAX code by pressing Copy.
+
+> [!TIP]
+> You can copy the DAX code by pressing **Copy**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot shows the Copy command located in the upper-right corner of the DAX code block.](../media/copy.png)](../media/copy.png#lightbox)
- 
+
 On the **Measure tools** contextual ribbon tab (available when a measure is in focus), format the measure to use two decimals places.
 
 > [!div class="mx-imgBorder"]
@@ -53,11 +54,13 @@ Create and similarly format a second measure named **Cost** by using the followi
 ```dax
 Cost = SUM('Sales'[Total Product Cost])
 ```
+
 Create and similarly format a third measure named **Profit** by using the following definition:
 
 ```dax
 Profit = [Sales] - [Cost]
 ```
+
 In the **Fields** pane, right-click the **Sales Amount** field and then select **Hide**.
 
 > [!div class="mx-imgBorder"]
@@ -65,16 +68,16 @@ In the **Fields** pane, right-click the **Sales Amount** field and then select *
 
 Also hide the **Total Product Cost** field.
 
-Now, the **Sales** table is listed first in the **Fields** pane, and it’s decorated with a multi-calculator icon.
+Now, the **Sales** table is listed first in the **Fields** pane, and it's decorated with a multi-calculator icon.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot highlighitng Sales table is listed in the fields pane along with a multi-calculator icon.](../media/sales-table.png)](../media/sales-table.png#lightbox)
 
-When a table comprises only visible measures, it’s presented at the top of the pane. This way, it behaves like a measure group (an object of a multidimensional model). Don’t confuse this cosmetic representation of a tabular model with DAX calculation groups.
+When a table comprises only visible measures, it's presented at the top of the pane. This way, it behaves like a measure group (an object of a multidimensional model). Don't confuse this cosmetic representation of a tabular model with DAX calculation groups.
 
 ## Task 3: Create a time intelligence calculation group
 
-Now, you’ll use Tabular Editor to create a calculation group. It will simplify the creation of many time-related calculations, including PY (prior year), YoY (year-over-year), and YoY % (year-over-year percentage). The calculation group will allow you to analyze any measure by using different time intelligence calculations.
+Now, you'll use Tabular Editor to create a calculation group. It will simplify the creation of many time-related calculations, including PY (prior year), YoY (year-over-year), and YoY % (year-over-year percentage). The calculation group will allow you to analyze any measure by using different time intelligence calculations.
 
 On the **External Tools** ribbon, select **Tabular Editor**.
 
@@ -88,7 +91,7 @@ In the **Tabular Editor** window, in the left pane, right-click the **Tables** f
 
 In the left pane, replace the default name with **Time Intelligence** and then select **Enter**. Then, expand the **Time Intelligence** table.
 
-The calculation group comprises this single column, while rows of data define the group of calculations. It’s a good practice to rename the column to reflect the subject of the calculations. Select the **Name** column.
+The calculation group comprises this single column, while rows of data define the group of calculations. It's a good practice to rename the column to reflect the subject of the calculations. Select the **Name** column.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot highlighting to select Name column to rename the column to reflect the subject of the calculations.](../media/name.png)](../media/name.png#lightbox)
@@ -97,8 +100,8 @@ In the **Properties** pane (located in the lower-right corner), select the **Nam
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot highlighting to selct Name property then rename it as Time calculations.](../media/time-calculations.png)](../media/time-calculations.png#lightbox)
- 
-To create a calculation item, right-click the **Time Intelligence** table and then select **Create New > Calculation Item**.
+
+To create a calculation item, right-click the **Time Intelligence** table and then select **Create New** > **Calculation Item**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot highlighting to select Calculation Item under create new option in Time intelligence table.](../media/calculation-item.png)](../media/calculation-item.png#lightbox)
@@ -110,10 +113,11 @@ In the **Expression Editor** pane (located above the **Properties** pane), enter
 ```dax
 SELECTEDMEASURE()
 ```
+
 > [!div class="mx-imgBorder"]
 > [![Screenshot showing "SELECTEDMEASURE" is typed in the Expression editor.](../media/selected-measure.png)](../media/selected-measure.png#lightbox)
 
-The `SELECTEDMEASURE` DAX function returns a reference to the measure that’s currently in context when the calculation item is evaluated. In this model, it could be the **Sales**, **Cost**, or **Profit** measure.
+The `SELECTEDMEASURE` DAX function returns a reference to the measure that's currently in context when the calculation item is evaluated. In this model, it could be the **Sales**, **Cost**, or **Profit** measure.
 
 In the **Expression Editor** pane toolbar, select the check mark icon to accept changes.
 
@@ -125,6 +129,7 @@ Create a second calculation item named **PY** by using the following formula:
 ```dax
 CALCULATE(SELECTEDMEASURE(), SAMEPERIODLASTYEAR('Date'[Date]))
 ```
+
 This formula calculates the value for the selected measure in the prior year.
 
 Create a third calculation item named **YoY** by using the following formula:
@@ -133,6 +138,7 @@ Create a third calculation item named **YoY** by using the following formula:
 SELECTEDMEASURE()
     - CALCULATE(SELECTEDMEASURE(), 'Time Intelligence'[Time Calculation] = "PY")
 ```
+
 The year-over-year (YoY) formula calculates the difference of the selected measure of the current year to the prior year.
 
 Create a forth calculation item named **YoY %** by using the following formula:
@@ -143,6 +149,7 @@ DIVIDE(
     CALCULATE(SELECTEDMEASURE(), 'Time Intelligence'[Time Calculation] = "PY")
 )
 ```
+
 The year-over-year percentage (YoY %) formula calculates the percentage change of the selected measure over the prior year.
 
 In the **Properties** pane, set the **Format String Expression** property to **"0.00%;-0.00%;0.00%"**.
@@ -182,14 +189,14 @@ In the **Fields** pane, expand the **Time Intelligence** table.
 In the report, select the matrix visual. Then, in the **Visualizations** pane, in the **Values** well, select **X** to remove the **Sales Amount** field.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot highlighting to select "X" to remove the Sales amount field. ](../media/sales-amount.png)](../media/sales-amount.png#lightbox)
+> [![Screenshot highlighting to select "X" to remove the Sales amount field.](../media/sales-amount.png)](../media/sales-amount.png#lightbox)
 
-From the **Fields** pane, from inside the **Sales** table, drag the Sales field into the **Values** well.
+From the **Fields** pane, from inside the **Sales** table, drag the **Sales** field into the **Values** well.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot highlighting to drag Sales table into Values in Fields pane.](../media/add-field-data-sales.png)](../media/add-field-data-sales.png#lightbox)
- 
-From the Fields pane, from inside the Time Intelligence table, drag the Time Calculation field into the Columns well.
+
+From the **Fields** pane, from inside the **Time Intelligence** table, drag the **Time Calculation** field into the **Columns** well.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot highlighting to Time calculation fields into Column well from Time intelligence table.](../media/add-field-data-time.png)](../media/add-field-data-time.png#lightbox)
@@ -250,12 +257,12 @@ In the filter card, check the **Currency Conversion** value.
 > [!div class="mx-imgBorder"]
 > [![Screenshot highlighting to check Currency Conversion value in filter card.](../media/check-conversion.png)](../media/check-conversion.png#lightbox)
 
-In the **Currency** slicer, select a different currency, and then in the matrix visual, notice the updated values. You might notice that something’s wrong. All values have formatted by using the currency symbol (event for currencies that don’t use that symbol), and the **YoY %** values are now incorrect.
+In the **Currency** slicer, select a different currency, and then in the matrix visual, notice the updated values. You might notice that something's wrong. All values have formatted by using the currency symbol (event for currencies that don't use that symbol), and the **YoY %** values are now incorrect.
 
 > [!div class="mx-imgBorder"]
 > [![Matrix visual showing that in the Currency slicer, select a different currency, and you can notice the updated values.](../media/currency-matrix.png)](../media/currency-matrix.png#lightbox)
 
-The formatting issue will be addressed when you learn about dynamic formatting in the next unit. The issue that’s related to the **YoY %** measure will also be addressed in the next unit when you learn about calculation precedence.
+The formatting issue will be addressed when you learn about dynamic formatting in the next unit. The issue that's related to the **YoY %** measure will also be addressed in the next unit when you learn about calculation precedence.
 
 Revert the **Currency** slicer to **US Dollar**.
 
