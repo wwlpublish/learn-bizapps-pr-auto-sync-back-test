@@ -249,7 +249,7 @@ In this task, you will extend the data model to add a new life event type to the
 1. Launch the Unified customer profile application.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Add new event button on the Life events screen.](../media/launch-unified-customer-profile.png)](../media/launch-unified-customer-profile.png#lightbox)
+	> [![Screenshot of the Unified Customer profile app launch.](../media/launch-unified-customer-profile.png)](../media/launch-unified-customer-profile.png#lightbox)
     
     And select a contact from the list.
 
