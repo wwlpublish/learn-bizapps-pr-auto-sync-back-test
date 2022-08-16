@@ -1,8 +1,8 @@
-In this unit, you’ll create a disconnected table (a table that isn’t related to other tables) that stores scaling options. Options will allow report consumers to scale measures to the hundreds, thousands, or millions.
+In this unit, you'll create a disconnected table (a table that isn't related to other tables) that stores scaling options. Options will allow report consumers to scale measures to the hundreds, thousands, or millions.
 
 ## Task 1: Create a disconnected table
 
-Download and open the Adventure Works DW 2020 M09.pbix file.
+Download and open the **[Adventure Works DW 2020 M09.pbix](https://TODO)** file.
 
 To create the disconnected table, on the **Home** ribbon tab, from inside the **Data** group, select **Enter data**.
 
@@ -40,12 +40,12 @@ Select **Load**.
 > [!div class="mx-imgBorder"]
 > [![Screenshot showing the Load option highlighted.](../media/desktop-load.png)](../media/desktop-load.png#lightbox)
 
-Switch to **Model** view, and notice that the table isn’t related to any other model table. (If the table isn’t visible, you might need to change the zoom level or scroll horizontally.)
+Switch to **Model** view, and notice that the table isn't related to any other model table. (If the table isn't visible, you might need to change the zoom level or scroll horizontally.)
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot shows the Scale table in the model diagram. It has two columns: Factor and Scale.](../media/scale-table.png)](../media/scale-table.png#lightbox)
 
-You’ll use this table to scale measure values, so you won’t need to propagate filters to other tables.
+You'll use this table to scale measure values, so you won't need to propagate filters to other tables.
 
 To ensure that the scale options sort in a logical order, in the diagram, select the **Scale** column. In the **Properties** pane, expand the **Advanced** section and then set the **Sort by column** dropdown list to **Factor**.
 
@@ -93,14 +93,15 @@ DIVIDE(
 
 The formula uses the `SELECTEDVALUE` DAX function to determine the filtered value of the **Factor** column. If more than one factor is in the filter context, the function will return the alternate value, which in this case is **1**. When the function returns the alternate value, it will effectively divide the sum of sales amount values by 1, meaning no scaling applies.
 
-Next, you’ll add the new measure to the table visual.
+Next, you'll add the new measure to the table visual.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot shows a table visual with the Sales Scaled column highlighted. The values are the same as the Sales Amount column.](../media/tables-sales-scaled.png)](../media/tables-sales-scaled.png#lightbox)
- 
+
 In the slicer, test the measure by selecting different scale options.
 
 ## Review the Unit 2 solution
 
-The solution involved creating a table that contains rows of scale options. The table isn’t related to other model tables, so it’s called a disconnected table. The purpose of this table is to obtain input so that it can be used by calculations.
+The solution involved creating a table that contains rows of scale options. The table isn't related to other model tables, so it's called a disconnected table. The purpose of this table is to obtain input so that it can be used by calculations.
+
 In this solution, filtering the **Scale** table to a single row will allow you to divide sales values by that factor of that row.

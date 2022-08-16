@@ -1,10 +1,11 @@
-In this unit, you’ll create calculated columns that dynamically classify products into price bands. The price bands and their range of values are defined in a Microsoft Excel workbook, and they will be loaded into the data model as a disconnected table.
+In this unit, you'll create calculated columns that dynamically classify products into price bands. The price bands and their range of values are defined in a Microsoft Excel workbook, and they will be loaded into the data model as a disconnected table.
 
 ## Task 1: Import price band data
-Download the PriceBand.xlsx file. Be sure to save it to a location that you’ll remember.
+
+Download the **[PriceBand.xlsx](https://TODO)** file. Be sure to save it to a location that you'll remember.
 
 > [!NOTE]
-> If you don’t have Excel installed, you can download the PriceBand.csv file instead. You’ll need to adapt the instructions to use this file.
+> If you don't have Excel installed, you can download the PriceBand.csv file instead. You'll need to adapt the instructions to use this file.
 
 In the **Adventure Works DW 2020 M09.pbix file**, select the **Get data** option from the Excel workbook file that you retrieved.
 
@@ -22,6 +23,7 @@ Review the preview data in the right pane.
 > [![Screenshot shows a preview of the Price Band data. The four bands are: less than 100, between 100 and 500, between 500 and 1500, and greater than 1500.](../media/priceband-data.png)](../media/priceband-data.png#lightbox)
 
 Notice that four price bands are shown, with the following columns:
+
 - **PriceBandID** – A unique identifier that also defines the sort order of the price bands.
 - **Price Band** – A descriptive label for the price band.
 - **From** – The lower boundary value.
@@ -60,7 +62,7 @@ CALCULATE(
 )
 ```
 
-The formula uses the `FILTER` DAX function to return a filtered **PriceBand** table. That table contains a single row for the price band where the current **Product** table row’s list price is between its boundaries. The `CALCULATE` DAX function uses that table as a filter, and the `VALUES` DAX function retrieves the price band name.
+The formula uses the `FILTER` DAX function to return a filtered **PriceBand** table. That table contains a single row for the price band where the current **Product** table row's list price is between its boundaries. The `CALCULATE` DAX function uses that table as a filter, and the `VALUES` DAX function retrieves the price band name.
 
 To sort the price bands in a logical order, add a second calculated column to the **Product** table.
 
@@ -93,31 +95,31 @@ Add the **Price Band** column (from the **Product** table) to the **Legend** wel
 > [![Screenshot shows the Legend well of the visual, which is set to the Price Band field.](../media/legend-price-band.png)](../media/legend-price-band.png#lightbox)
 
 Review the **100% Stacked Column** chart visual, and notice that the **Bikes** category has sold in excess of 72 percent of high-priced products (> 1500 dollars).
-<IMAGE: DAX-09-stacked-column-visual-final.png | Alt text: Image shows the stacked column chart visual with four product categories and four price bands in the legend.>
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot shows the stacked column chart visual with four product categories and four price bands in the legend.](../media/visual-final.png)](../media/visual-final.png#lightbox)
 
-Now, you’ll modify the price band data to include a new band for products that are priced between 500 and 1,000 dollars. Open the **PriceBand.xlsx** workbook (or **PriceBand.csv** file), and then complete the following steps:
+Now, you'll modify the price band data to include a new band for products that are priced between 500 and 1,000 dollars. Open the **PriceBand.xlsx** workbook (or **PriceBand.csv** file), and then complete the following steps:
 
-1. In cell **B4**, rename the price band to >=**500** to > **1000**.
+1. In cell **B4**, rename the price band to **>=500 to > **1000**.
 2. In cell **D4**, modify the value from **1500** to **1000**.
 3. Insert a new row beneath row **4**.
-4. Enter a new price band with an ID of **35**, name of >= **1000** to < **1500**, from range of **1000**, and to range as **1500**.
+4. Enter a new price band with an ID of **35**, name of **>= 1000 to < 1500**, from range of **1000**, and to range as **1500**.
 
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot shows the Excel worksheet with modifications to row 4 and the addition of row 5 as described.](../media/add-price-band.png)](../media/add-price-band.png#lightbox)
+> [!div class="mx-imgBorder"]
+> [![Screenshot shows the Excel worksheet with modifications to row 4 and the addition of row 5 as described.](../media/add-price-band.png)](../media/add-price-band.png#lightbox)
 
 Save the Excel workbook and then close the file.
+
 In Power BI Desktop, switch to **Data** view. Then, in the **Fields** pane, right-click the **PriceBand** table and then select **Refresh data**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot shows the menu selection for Refresh data.](../media/refresh-data.png)](../media/refresh-data.png#lightbox)
- 
+
 In the **Product** table, notice that the calculated column assigned some products to the new price band.
 
 Switch to **Report** view. The **100% Stacked Column** chart visual now shows five different price band groups.
- 
+
 > [!div class="mx-imgBorder"]
 > [![Screenshot shows the stacked column chart visual with four product categories and five price bands in the legend.](../media/column-visual-final.png)](../media/column-visual-final.png#lightbox)
 
