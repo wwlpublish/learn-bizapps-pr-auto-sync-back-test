@@ -150,7 +150,7 @@ In this task, you will create a new solution and then customize the Unified cust
 
 In this task, you will extend the data model to add a new life event type to the Life event table. Then, you will observe how the changes show in Unified customer profile.
 
-1.  In Power Apps, select **Dataverse > Tables** in the left site map. Set the search dropdown menu to **Managed** and then search for **life event**.
+1.  In Power Apps, select **Dataverse > Tables** in the left site map. Select the tab **All** and then search for **life event**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the search set to Managed with a search for life event.](../media/managed-life-event.png)](../media/managed-life-event.png#lightbox)
@@ -160,63 +160,59 @@ In this task, you will extend the data model to add a new life event type to the
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Life event table selected in the search results.](../media/life-event-table.png)](../media/life-event-table.png#lightbox)
 
-1.  In the **Columns** tab, select **Life event type** to edit it. Select **Edit choice** to add the new life event type.
+1. Select **Columns** in the Schema section.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Edit choice button.](../media/edit-choice.png)](../media/edit-choice.png#lightbox)
+	> [![Screenshot of the Columns selection](../media/life-event-columns.png)](../media/life-event-columns.png#lightbox)
 
-1.  In the choice edit dialog, select **Add new item**.
+1.  Select **Life event type** to edit it. Scroll down to see all the choices. 
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Add new item button selected on the choice edit dialog.](../media/add-new-item.png)](../media/add-new-item.png#lightbox)
+	> [![Screenshot of the edit life event type.](../media/edit-choice.png)](../media/edit-choice.png#lightbox)
 
+1.  Select **New choice** to add the new life event type.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of the Edit choice button.](../media/edit-choice-new.png)](../media/edit-choice-new.png#lightbox)
+   
 1. Enter **University Enrollment** in the new item row.
+    
+    > [!div class="mx-imgBorder"]
+	> [![Screenshot of adding the new life event type.](../media/new-life-event-type.png)](../media/new-life-event-type.png#lightbox)
 
-1.  Select the ellipsis (**...**) next to the newly created row and then select the **View more** option.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the ellipsis menu with the View more option selected.](../media/view-more.png)](../media/view-more.png#lightbox)
-
-1.  The option set details will open. Copy the **Value** field and then save it for the next steps.
+1.  Copy the **Value** field and then save it for the next steps.
 
     Your environment's value might differ from the value that's shown in the following image.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Value field.](../media/value.png)](../media/value.png#lightbox)
 
-1.  Select **Save** and then select **Done**.
+1.  Select **Save**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Save button and the Done button.](../media/save-done.png)](../media/save-done.png#lightbox)
 
-1.  Select **Done** on the table edit dialog as well.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Done button on the table edit dialog.](../media/table-edit-done.png)](../media/table-edit-done.png#lightbox)
-
-1. Select **Save Table**.
+1. Go back to the **Tables** tab.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Save Table button.](../media/save-table.png)](../media/save-table.png#lightbox)
-
-   The edit table view should now close.
-
-1. Search for the **Life event type config** table.
+   
+1. Select the tab **All** and search for the **Life event type config** table.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the search for life event type config.](../media/life-event-type-config.png)](../media/life-event-type-config.png#lightbox)
 
-1. Select the **Life event type config** table from the search results, which will show details of the table. Select **Data** to load the data for the table.
+1. Select the **Life event type config** table from the search results, which will show details of the table and a preview table of the data. Select **Edit** to add record.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Data button to load the Life event type config table data.](../media/data.png)](../media/data.png#lightbox)
 
-1. Select **+ Add record**.
+1. Select **+ New row using form**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Add record button for the Life event type config table.](../media/add-record.png)](../media/add-record.png#lightbox)
+	> [![Screenshot of the New row button for the Life event type config table.](../media/add-record.png)](../media/add-record.png#lightbox)
 
-1. A new tab will open. Set the following values to create a **New Life event type config**. Select **Save**.
+1. A new tab will open up. Set the following values to create a **New Life event type config**. Select **Save**.
 
 	- **Name** - University Enrollment
 	
@@ -248,9 +244,19 @@ In this task, you will extend the data model to add a new life event type to the
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the category types relations general details.](../media/general-details.png)](../media/general-details.png#lightbox)
 
-   The life event configurations are now complete.
+    The life event configurations are now complete.
 
-1. Launch the Unified customer profile application and then select **Add new event**.
+1. Launch the Unified customer profile application.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of the Add new event button on the Life events screen.](../media/launch-unified-customer-profile.png)](../media/launch-unified-customer-profile.png#lightbox)
+    
+    And select a contact from the list.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of Unified Customer Profile contact list.](../media/unified-customer-profile-list.png)](../media/unified-customer-profile-list.png#lightbox) 
+
+1. Select **Add new event**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Add new event button on the Life events screen.](../media/add-new-event.png)](../media/add-new-event.png#lightbox)
@@ -260,4 +266,4 @@ In this task, you will extend the data model to add a new life event type to the
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of University Enrollment added as a type in the Education category.](../media/education-university-enrollment.png)](../media/education-university-enrollment.png#lightbox)
 
-Congratulations, you have extended the Unified customer profile application to edit controls on the view and add new life event configurations.
+**Congratulations**, you have extended the Unified customer profile application to edit controls on the view and add new life event configurations.
