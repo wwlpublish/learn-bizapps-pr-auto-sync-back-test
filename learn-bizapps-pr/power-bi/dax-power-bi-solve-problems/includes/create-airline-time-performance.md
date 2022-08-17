@@ -6,7 +6,7 @@ A division of Tailspin Toys owns a small airline that's headquartered in SeaTac,
 - San Francisco, California (**SFO**)
 - Los Angeles, California (**LAX**)
 
-The on-time performance (OTP) report is a widely-accepted measure of punctuality for transport services. In aviation, an airline arrival (or departure) is considered to be on time when it occurs within 15 minutes of the scheduled time.
+The on-time performance (OTP) report is a widely accepted measure of punctuality for transport services. In aviation, an airline arrival (or departure) is considered to be on time when it occurs within 15 minutes of the scheduled time.
 
 At Tailspin Toys, the airline strives to achieve a minimum of 80 percent, which means that flights should arrive within at least 15 minutes of the scheduled arrival time at least 80 percent of the time.
 
@@ -22,7 +22,7 @@ To retrieve an extract of flight statistics for fiscal year 2022, download the F
 If you open the file in a text editor, such as Notepad, the first row will contain column names.
 
 > [!div class="mx-imgBorder"]
-> [![Screemshot shows the CSV file opened in Notepad. The first row shows column names.](../media/data-extract.png)](../media/data-extract.png#lightbox)
+> [![Screenshot shows the CSV file opened in Notepad. The first row shows column names.](../media/data-extract.png)](../media/data-extract.png#lightbox)
 
 The column names are:
 
