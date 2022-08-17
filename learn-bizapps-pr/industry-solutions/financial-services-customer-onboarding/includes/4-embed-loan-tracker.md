@@ -12,9 +12,8 @@ Additionally, your care team can use Microsoft Teams internally to do the follow
 
 By default, the Basic and Enhanced Microsoft Teams integration is disabled for customer engagement apps in Dynamics 365. In this Task, we'll enable Microsoft Teams in Dynamics 365.
 
-   > [!NOTE]
-    > If you’ve already done this during the **Financial Services training environment preparation** 
-lab (Unit 3, Task 4) then you can skip Task 1 and go to Task 2
+> [!NOTE]
+> If you’ve already done this during the **Financial Services training environment preparation** lab (Unit 3, Task 4), then you can skip Task 1 and go to Task 2.
  
 	
 1.  Go to [make.powerapps.com](https://make.powerapps.com/?azure-portal=true) and select **Environments**.
