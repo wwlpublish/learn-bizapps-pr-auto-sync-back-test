@@ -12,7 +12,7 @@ Builder to find the **AI Builder Capacity add-on** service, as shown in the foll
 You can purchase several AI Builder add-ons. Each add-on will entitle your tenant to one million AI Builder credits, which is the currency that is used by AI Builder.
 
 To know how many add-ons you need, you can use the AI Builder Calculator by going to the
-[Screenshot of the Power Apps AI Builder Calculator page.](https://powerapps.microsoft.com/ai-builder-calculator/).
+[Screenshot of the Power Apps AI Builder Calculator page](https://powerapps.microsoft.com/ai-builder-calculator/).
 
 ![Screenshot of thePower Apps AI Builder Calculator page has a Cost estimate tile that allows you to calculate the cost of A I Builder add-on units.](../media/image-2.png)
 
