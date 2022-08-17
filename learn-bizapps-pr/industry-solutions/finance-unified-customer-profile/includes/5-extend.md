@@ -30,7 +30,7 @@ In this task, you'll create a new solution and then customize the Unified custom
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the solution name selected in the Display name column.](../media/solution-name.png)](../media/solution-name.png#lightbox)
 
-1. In the solution explorer, select **Add existing > App > Model-driven app**.
+1. In the solution explorer, select **Add existing** > **App** > **Model-driven app**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the steps to add an existing model-driven app.](../media/add-model-driven-app.png)](../media/add-model-driven-app.png#lightbox)
@@ -127,7 +127,7 @@ In this task, you'll create a new solution and then customize the Unified custom
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the customer summary control settings enabled.](../media/customer-summary-control-settings.png)](../media/customer-summary-control-settings.png#lightbox)
 
-1. Now that the form is ready, select the **Home** menu on the ribbon and then select **Save > Publish**.
+1. Now that the form is ready, select the **Home** menu on the ribbon and then select **Save** > **Publish**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Home menu with the Save and Publish buttons selected.](../media/publish.png)](../media/publish.png#lightbox)
@@ -150,7 +150,7 @@ In this task, you'll create a new solution and then customize the Unified custom
 
 In this task, you'll extend the data model to add a new life event type to the Life event table. Then, you'll observe how the changes show in Unified customer profile.
 
-1. In Power Apps, select **Dataverse > Tables** in the left site map. Select the tab **All** and then search for **life event**.
+1. In Power Apps, select **Dataverse > Tables** in the left site map. Select the **All** tab and then search for **life event**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the search set to Managed with a search for life event.](../media/managed-life-event.png)](../media/managed-life-event.png#lightbox)
@@ -160,10 +160,10 @@ In this task, you'll extend the data model to add a new life event type to the L
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Life event table selected in the search results.](../media/life-event-table.png)](../media/life-event-table.png#lightbox)
 
-1. Select **Columns** in the Schema section.
+1. Select **Columns** in the **Schema** section.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Columns selection](../media/life-event-columns.png)](../media/life-event-columns.png#lightbox)
+    > [![Screenshot of the Columns selection.](../media/life-event-columns.png)](../media/life-event-columns.png#lightbox)
 
 1. Select **Life event type** to edit it. Scroll down to see all the choices.
 
@@ -192,12 +192,12 @@ In this task, you'll extend the data model to add a new life event type to the L
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Save button and the Done button.](../media/save-done.png)](../media/save-done.png#lightbox)
 
-1. Go back to the **Tables** tab.
+1. Go to the **Tables** tab.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Save Table button.](../media/save-table.png)](../media/save-table.png#lightbox)
 
-1. Select the tab **All** and search for the **Life event type config** table.
+1. Select the **All** tab and search for the **Life event type config** table.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the search for life event type config.](../media/life-event-type-config.png)](../media/life-event-type-config.png#lightbox)
