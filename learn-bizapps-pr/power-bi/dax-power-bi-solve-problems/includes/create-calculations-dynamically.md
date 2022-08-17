@@ -2,7 +2,7 @@ In this unit, you'll create calculated columns that dynamically classify product
 
 ## Task 1: Import price band data
 
-Download the **[PriceBand.xlsx](https://TODO)** file. Be sure to save it to a location that you'll remember.
+Download the **[PriceBand.xlsx](https://github.com/MicrosoftDocs/mslearn-dax-power-bi/raw/main/activities/PriceBand.xlsx)** file. Be sure to save it to a location that you'll remember.
 
 > [!NOTE]
 > If you don't have Excel installed, you can download the PriceBand.csv file instead. You'll need to adapt the instructions to use this file.

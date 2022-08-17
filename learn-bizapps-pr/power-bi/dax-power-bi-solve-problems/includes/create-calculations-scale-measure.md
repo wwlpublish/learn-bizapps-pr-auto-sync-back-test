@@ -2,7 +2,7 @@ In this unit, you'll create a disconnected table (a table that isn't related to 
 
 ## Task 1: Create a disconnected table
 
-Download and open the **[Adventure Works DW 2020 M09.pbix](https://TODO)** file.
+Download and open the **[Adventure Works DW 2020 M09.pbix](https://github.com/MicrosoftDocs/mslearn-dax-power-bi/raw/main/activities/Adventure%20Works%20DW%202020%20M09.pbix)** file.
 
 To create the disconnected table, on the **Home** ribbon tab, from inside the **Data** group, select **Enter data**.
 
