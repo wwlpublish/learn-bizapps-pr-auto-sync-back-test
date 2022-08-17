@@ -71,23 +71,32 @@ To use the virtual visit features within Collaboration Manager for Loans, you mu
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Welcome to Bookings screen, with name and type of business filled in.](../media/welcome.png)](../media/welcome.png#lightbox)
 
-1. Provide more details for your Bookings business by setting up the **Booking Page**, **Staff**, **Services**, and **Business Information** pages by selecting them in the left navigation pane.
+1. Provide more details for your Bookings business by setting up the **Booking Page**, **Staff**, **Services**, and **Business Information** pages by selecting them in the left navigation pane. Setup the calendar to enable **Anyone** book an appointment.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Bookings setup.](../media/bookings-setup.png)](../media/bookings-setup.png#lightbox)
+
+1. Once your new calendar is created, the URL will be generated, and you can copy the alias of your **Calendar**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Bookings setup ready where you can copy the alias](../media/bookings-ready.png)](../media/bookings-ready.png#lightbox)
 
 ## Task 4: Retrieve the alias of the new Bookings business
 
+If you copied the alias in the previous step you can skip this task and continue with **Task 5**. 
 To retrieve the alias of your new Bookings business, reopen the current Bookings business so that you can retrieve the value from the URL.
 
-1. Select the arrow next to your Bookings business and then select **Open**.
+1. Open Bookings business and select the calendar you created in the previous task.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the arrow next to the existing Bookings business selected to reveal the Open option.](../media/open.png)](../media/open.png#lightbox)
 
-1. When the dialog appears, select your Bookings business.
+1. Once the calendar is open, navigate to the **Booking page**
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Choose a booking calendar with Loan Business selected.](../media/calendar.png)](../media/calendar.png#lightbox)
 
-1. The Bookings business will reopen and will cause the URL of the page to change. Copy the value of the calendar parameter in the URL. It should resemble an email address. Record this value somewhere safe so that you can use it in a future step.
+1. In the **Configure booking page** section select **</>Embed** and copy only the alias from the URL. Record this value somewhere safe so that we can leverage it in a future step.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the URL with the calendar parameter highlighted.](../media/parameter.png)](../media/parameter.png#lightbox)
@@ -99,6 +108,9 @@ Now that you have the Group ID and the Bookings business ID, you can set them as
 1. Open [https://make.powerapps.com/](https://make.powerapps.com/?azure-portal=true).
 
 1. Ensure that you're in the correct environment by using the environment picker in the upper-right corner.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Environment selection.](../media/environment-menu.png)](../media/environment-menu.png#lightbox)  
 
 1. Go to the **Solutions** page in the left navigation pane.
 
