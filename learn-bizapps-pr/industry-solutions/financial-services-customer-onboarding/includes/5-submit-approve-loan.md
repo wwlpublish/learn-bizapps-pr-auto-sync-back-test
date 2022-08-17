@@ -157,4 +157,4 @@ Follow these steps to sign in to Loan Tracker in Microsoft Teams as a loan repre
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Closing stage of the loan.](../media/close-loan.png)](../media/close-loan.png#lightbox)
 
-Congratulations, you have successfully created a new loan application by using the Retail Banking Sample Portal and have verified the loan application by using Loan Tracker in Microsoft Cloud for Financial Services.
+**Congratulations**, you have successfully created a new loan application by using the Retail Banking Sample Portal and have verified the loan application by using Loan Tracker in Microsoft Cloud for Financial Services.
