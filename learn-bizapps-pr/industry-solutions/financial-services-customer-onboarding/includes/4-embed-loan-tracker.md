@@ -12,9 +12,13 @@ Additionally, your care team can use Microsoft Teams internally to do the follow
 
 By default, the Basic and Enhanced Microsoft Teams integration is disabled for customer engagement apps in Dynamics 365. In this Task, we'll enable Microsoft Teams in Dynamics 365.
 
-1.  Go to [make.powerapps.com](https://make.powerapps.com/?azure-portal=true).
+> [!NOTE]
+> If you’ve already done this during the **Financial Services training environment preparation** lab (Unit 3, Task 4), then you can skip Task 1 and go to Task 2.
+ 
+	
+1.  Go to [make.powerapps.com](https://make.powerapps.com/?azure-portal=true) and select **Environments**.
 
-1.  Select your Microsoft Cloud for Healthcare environment from the list.
+1.  Select your Microsoft Cloud for Financial Services environment from the list.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the enviroments list.](../media/environments.png)](../media/environments.png#lightbox)
@@ -69,7 +73,7 @@ By default, the Basic and Enhanced Microsoft Teams integration is disabled for c
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the integration settings set to yes.](../media/integration-set.png)](../media/integration-set.png#lightbox)
 
-Congratulations, you have enabled Microsoft Teams integration for Dynamics 365.
+**Congratulations**, you have enabled Microsoft Teams integration for Dynamics 365.
 
 ## Task 2: Embed Loan Tracker app in Microsoft Teams
 
@@ -129,4 +133,4 @@ We'll be utilizing the Microsoft Teams web experience for this task.
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Loan Tracker app embedded in Teams.](../media/loan-tracker-app.png)](../media/loan-tracker-app.png#lightbox)
 
-Congratulations, You've embedded the Loan Tracker app in Microsoft Teams.
+**Congratulations**, you've embedded the Loan Tracker app in Microsoft Teams.
