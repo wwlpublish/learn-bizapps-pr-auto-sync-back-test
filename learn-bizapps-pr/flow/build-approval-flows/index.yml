@@ -1,43 +1,43 @@
-### YamlMime:Module 
-uid: learn-bizapps.build-approval-flows 
-metadata: 
+### YamlMime:Module
+uid: learn-bizapps.build-approval-flows
+metadata:
  title: Build approval flows with Power Automate
  description: Learn how to build approval flows with Power Automate.
- ms.date: 02/25/2022  
- author: DaveBeasley  
- ms.author: dbeasley  
- ms.topic: interactive-tutorial  
- ms.prod: learning-power-automate  
+ ms.date: 08/01/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-automate
 title: Build approval flows with Power Automate
-summary: |  
-  [!include[](../includes/module-banner.md)] 
-  Power Automate is an online workflow service that automates actions across the most common apps and services. In this module, you'll build approval flows to streamline your business, save time, and work more efficiently. 
-abstract: |  
-    In this module, you will: 
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Power Automate is an online workflow service that automates actions across the most common apps and services. In this module, you'll build approval flows to streamline your business, save time, and work more efficiently.
+abstract: |
+    In this module, you will:
     - Create and process approval requests
     - Build a flow that runs at recurring time intervals
     - Create a business process flow with conditions
 prerequisites: You must have signed up for Power Automate, and have a OneDrive for Business account.
-iconUrl: /learn/achievements/build-approval-flows.svg  
-levels:  
-- beginner   
-roles:  
+iconUrl: /learn/achievements/build-approval-flows.svg
+levels:
+- beginner
+roles:
 - business-user
-- maker  
-- functional-consultant 
-products: 
+- maker
+- functional-consultant
+products:
 - power-platform
-- power-automate 
+- power-automate
 subjects:
 - process-workflow
 units:
-- learn-bizapps.build-approval-flows.1-introduction 
-- learn-bizapps.build-approval-flows.2-create-approval-request 
-- learn-bizapps.build-approval-flows.3-process-approval-request 
-- learn-bizapps.build-approval-flows.4-recurring 
-- learn-bizapps.build-approval-flows.5-create-business-process-flow 
-- learn-bizapps.build-approval-flows.6-branching 
-- learn-bizapps.build-approval-flows.7-check 
-- learn-bizapps.build-approval-flows.8-summary 
-badge: 
+- learn-bizapps.build-approval-flows.1-introduction
+- learn-bizapps.build-approval-flows.2-create-approval-request
+- learn-bizapps.build-approval-flows.3-process-approval-request
+- learn-bizapps.build-approval-flows.4-recurring
+- learn-bizapps.build-approval-flows.5-create-business-process-flow
+- learn-bizapps.build-approval-flows.6-branching
+- learn-bizapps.build-approval-flows.7-check
+- learn-bizapps.build-approval-flows.8-summary
+badge:
   uid: learn-bizapps.build-approval-flows.badge

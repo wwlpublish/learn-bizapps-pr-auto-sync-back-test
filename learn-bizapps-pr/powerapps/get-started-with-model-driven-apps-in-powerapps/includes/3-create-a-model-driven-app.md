@@ -3,7 +3,7 @@
 In this unit, you'll create a model-driven app by using one of the standard tables available in your Microsoft Power Apps environment.
 
 1. On the **Home** page, select the **Blank app**.  
-2. Find **Blank app based on Dataverse** and then click **Create**.
+2. Find **Blank app based on Dataverse** and then select **Create**.
 
     ![Screenshot of the Model-driven app from blank feature.](../media/updated-choose-design-mode.png)
 
@@ -13,7 +13,7 @@ In this unit, you'll create a model-driven app by using one of the standard tabl
 ## Add a page to your app
 You add pages to your app within the App Designer.
 
-1. Click **Add Page**.
+1. Select **Add Page**.
 
     ![Screenshot of the Site Map Designer view.](../media/updated-new-sitemap.png)
 
@@ -27,7 +27,7 @@ You add pages to your app within the App Designer.
 Here you can explore your **My Active Accounts** view and the **Account** form that is automatically created when your Dataverse instance is initialized.
 
 ## Edit your form
-You have successfully added a form to your app, now we will edit them.
+You've successfully added a form to your app, now we'll edit them.
 1. Navigate to [https://make.powerapps.com](https://make.powerapps.com).
 1. Select **Dataverse**, then **Tables**.
 
@@ -48,12 +48,14 @@ You have successfully added a form to your app, now we will edit them.
 
 1. Under **Data experiences**, select **Views**.
 
-1. You will see a list of all the views that you can edit. The default view that is added when you added the **Account** page to your app is **My Active Accounts**.
+1. You'll see a list of all the views that you can edit. The default view that is added when you added the **Account** page to your app is **My Active Accounts**.
 
 1. Select **My Active Accounts** to edit the view.
 
 1. On this page, you can edit which fields will show up on this view, what filters will be applied, default sort order, the order of your columns, and the width of your columns. 
 
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot showing the view of My Active Accounts.](../media/my-active-accounts.png)](../media/my-active-accounts.png#lightbox)
 
 ## Publish your app
 On the App Designer toolbar, select **Publish** in the top right corner. After you publish the app, it's ready 
@@ -61,6 +63,6 @@ for you to run or share with others.
 
 Above My Active Accounts, select **Show Chart**.
 
-If the sample data for your accounts does not have an Industry populated, go into a few accounts and add an Industry. Once you have updated a few accounts with an industry the chart will update as well.  
+If the sample data for your accounts doesn't have an Industry populated, go into a few accounts and add an Industry. Once you've updated a few accounts with an industry the chart will update as well. Once populated, your chart will look similar to the chart below.  
 
 ![Screenshot of updated chart with industry populated.](../media/updated-accounts-quickstart-app.png)

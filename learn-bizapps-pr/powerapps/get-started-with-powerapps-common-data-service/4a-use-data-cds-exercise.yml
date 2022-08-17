@@ -4,9 +4,9 @@ title: Exercise - Create a custom table and import data
 metadata: 
   title: Exercise - Create a custom table and import data
   description: This exercise has you create a Microsoft Dataverse table, then import data.
-  ms.date: 10/01/2021
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/01/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.prod: learning-powerapps
 durationInMinutes: 15 

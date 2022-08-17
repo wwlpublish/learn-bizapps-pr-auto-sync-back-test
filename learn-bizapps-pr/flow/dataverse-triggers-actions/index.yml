@@ -3,9 +3,9 @@ uid: learn-bizapps.dataverse-triggers-actions
 metadata: 
  title: Use Dataverse triggers and actions in Power Automate
  description: You can extend Microsoft Dataverse usability by integrating with Microsoft Power Automate to reduce or eliminate repetitive business processes.
- ms.date: 11/01/2021 
- author: DaveBeasley  
- ms.author: dbeasley  
+ ms.date: 08/01/2022 
+ author: jadaphillips
+ ms.author: jadaphillips
  ms.topic: interactive-tutorial  
  ms.prod: learning-power-automate  
 title: Use Dataverse triggers and actions in Power Automate 
