@@ -1,4 +1,4 @@
-In this exercise, you will launch the Unified customer profile application and then navigate through the tabs and controls to learn about each component and how it connects to the data model.
+In this exercise, you'll launch the Unified customer profile application and then navigate through the tabs and controls to learn about each component and how it connects to the data model.
 
 1.  Go to [Microsoft Power Apps](http://make.powerapps.com/?azure-portal=true) in an In-Private or Incognito window.
 
@@ -51,7 +51,7 @@ The **Summary** tab consists of the following Power Apps component framework con
 	| Customer snapshot field                                 | Table column mapping                                             |
 	|---------------------------------------------------------|------------------------------------------------------------------|
 	|     Grace Taylor(Sample)                              |     Contact.fullname                                             |
-	|     59,Married                                          |     Contact.Birthdate,   Contact.familystatuscode                |
+	|     59, Married                                         |     Contact.Birthdate,   Contact.familystatuscode                |
 	|     Symbols for preferred symbols of communication    |     Contact.preferredcontactmethodcode                           |
 	|     Phone                                               |     Contact.telephone1                                           |
 	|     Email                                               |     Contact.emailaddress1                                        |
@@ -124,5 +124,5 @@ The **Summary** tab consists of the following Power Apps component framework con
 	|     Not   Active            |     msfsi_fi_card.status                           |
 	|     Apr   28, 2023          |     msfsi_fi_card.msfsi_expirydate                 |
 
-Congratulations, you have explored the Unified customer profile app and its featured data within a customer record.
+Congratulations, you've explored the Unified customer profile app and its featured data within a customer record.
 

@@ -1,10 +1,10 @@
-In this exercise, you will add and edit records and then observe how those changes reflect in Unified customer profile. Most of the information in Unified customer profile comes from financial core systems; hence, it's not editable. However, a few edit scenarios are supported and those scenarios are covered in this exercise.
+In this exercise, you'll add and edit records and then observe how those changes reflect in Unified customer profile. Most of the information in Unified customer profile comes from financial core systems; hence, it's not editable. However, a few edit scenarios are supported and those scenarios are covered in this exercise.
 
 ## Task 1: Add, edit, and delete a life event
 
-In this task, you will create a new life event, edit its details, and then delete it.
+In this task, you'll create a new life event, edit its details, and then delete it.
 
-1.  In the Unified customer profile view that you have been working with, locate the **Life events** control. Select **Add new event**.
+1.  In the Unified customer profile view that you've been working with, locate the **Life events** control. Select **Add new event**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Add new event button.](../media/add-new-event.png)](../media/add-new-event.png#lightbox)
@@ -52,9 +52,9 @@ In this task, you will create a new life event, edit its details, and then delet
 
 ## Task 2: Add, edit, and delete a group
 
-In this task, you will create a new group, edit its group members and group financial holdings, and then you will delete it.
+In this task, you'll create a new group, edit its group members and group financial holdings, and then you'll delete it.
 
-1.  In the Unified customer profile view that you have been working with, select the **Connections** tab.
+1.  In the Unified customer profile view that you've been working with, select the **Connections** tab.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Connections tab.](../media/connections-tab.png)](../media/connections-tab.png#lightbox)
@@ -108,7 +108,7 @@ In this task, you will create a new group, edit its group members and group fina
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Connections tab in the Group financial holdings list.](../media/holdings-list.png)](../media/holdings-list.png#lightbox)
 
-1. Now that you have added and edited a new group, you can delete it. Select the **Delete** icon in the **Custom Group** area.
+1. Now that you've added and edited a new group, you can delete it. Select the **Delete** icon in the **Custom Group** area.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Delete group button.](../media/delete-group.png)](../media/delete-group.png#lightbox)
@@ -125,7 +125,7 @@ In this task, you will create a new group, edit its group members and group fina
 
 ## Task 3: Add, edit, and delete a relationship
 
-In this task, you will create a new relationship, edit its relationship type, and then delete it.
+In this task, you'll create a new relationship, edit its relationship type, and then delete it.
 
 1.  In the Unified customer profile view that you've been working with, select the **Connections** tab.
 
@@ -152,7 +152,7 @@ In this task, you will create a new relationship, edit its relationship type, an
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the relationship added to the Connections tab.](../media/relationship-added.png)](../media/relationship-added.png#lightbox)
 
-1. Now that you have added the relationship, you can edit it. On the **Relationships** grid on the right, hover your cursor over the contact name record and then select the edit icon.
+1. Now that you've added the relationship, you can edit it. On the **Relationships** grid on the right, hover your cursor over the contact name record and then select the edit icon.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Relationships grid, showing the relationship and the edit icon highlighted.](../media/edit-relationship.png)](../media/edit-relationship.png#lightbox)
@@ -172,5 +172,5 @@ In this task, you will create a new relationship, edit its relationship type, an
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the delete icon to delete the relationship.](../media/delete-relationship.png)](../media/delete-relationship.png#lightbox)
 
-Congratulations, you have now added, edited, and deleted life moments, groups, group financial holdings, and relationships in the Unified customer profile application.
+Congratulations, you've now added, edited, and deleted life moments, groups, group financial holdings, and relationships in the Unified customer profile application.
 
