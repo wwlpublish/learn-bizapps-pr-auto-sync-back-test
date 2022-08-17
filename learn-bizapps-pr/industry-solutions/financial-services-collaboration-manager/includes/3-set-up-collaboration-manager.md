@@ -114,6 +114,9 @@ Now that you have the Group ID and the Bookings business ID, you can set them as
 
 1. Go to the **Solutions** page in the left navigation pane.
 
+    >[!div class="mx-imgBorder"]
+    > [![Screenshot of how to navigate to Solutions.](../media/solution-select.png)](../media/solution-select.png#lightbox)  
+
 1. Select **New solution** so that you can provide a place for your settings values.
 
     > [!div class="mx-imgBorder"]
@@ -141,7 +144,7 @@ Now that you have the Group ID and the Bookings business ID, you can set them as
 
 1. Select **Save & Close** once you're finished.
 
-1. Repeat step 25 to create a new settings value.
+1. Repeat step 7 to create a new settings value.
 
 1. Now populate the new settings value with the Bookings business ID you retrieved on step 11. Set **Settings Group ID** to "Collaboration Manager for Loans" and **Settings Definition ID** to "Bookings Business ID".
 
@@ -180,9 +183,13 @@ Now that the settings are defined, you can add the app to Microsoft Teams.
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the app selection wizard with the Search within this list dropdown menu set to Model-driven apps.](../media/model-driven.png)](../media/model-driven.png#lightbox)
 
+<<<<<<< Updated upstream
 1. Search for **Collaboration Manager** and select the app that corresponds with your dedicated environment.
 
 1. Select the **Collaboration Manager** app and select **Save**.
+=======
+1. Search for **Collaboration Manager** and select the app that corresponds with your dedicated environment. Select the **Collaboration Manager** app and select **Save**.
+>>>>>>> Stashed changes
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the app selection wizard with search results for "collab" showing Collaboration Manager for Loans.](../media/collaboration.png)](../media/collaboration.png#lightbox)
