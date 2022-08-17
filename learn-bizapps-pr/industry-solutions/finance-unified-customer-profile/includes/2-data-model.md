@@ -89,4 +89,3 @@ Definitions for the Connections data table are as follows:
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the connections data tables.](../media/connections.png)](../media/connections.png#lightbox)
-

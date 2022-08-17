@@ -172,5 +172,5 @@ In this task, you'll create a new relationship, edit its relationship type, and 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the delete icon to delete the relationship.](../media/delete-relationship.png)](../media/delete-relationship.png#lightbox)
 
-Congratulations, you've now added, edited, and deleted life moments, groups, group financial holdings, and relationships in the Unified customer profile application.
+**Congratulations**, you've now added, edited, and deleted life moments, groups, group financial holdings, and relationships in the Unified customer profile application.
 
