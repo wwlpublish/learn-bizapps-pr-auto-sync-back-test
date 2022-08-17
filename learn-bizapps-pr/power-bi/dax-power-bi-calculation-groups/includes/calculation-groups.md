@@ -12,7 +12,7 @@ Verify that you have Tabular Editor 2 installed.
 In Power BI Desktop, switch to **Model** view and then review the model design.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of Power BI desktop model view to review model design.](../media/model-view.png)](../media/model-view.png#lightbox)
+> [![Screenshot of Power BI desktop model view to review model design.](../media/model-view.png)]
 
 The model comprises seven dimension tables and two fact tables. The **Sales** fact table stores sales order details. The **Currency Rate** fact table stores daily currency exchange rates for multiple currencies. It's a classic star schema design.
 
@@ -71,7 +71,7 @@ Also hide the **Total Product Cost** field.
 Now, the **Sales** table is listed first in the **Fields** pane, and it's decorated with a multi-calculator icon.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot highlighitng Sales table is listed in the fields pane along with a multi-calculator icon.](../media/sales-table.png)](../media/sales-table.png#lightbox)
+> [![Screenshot highlighting Sales table is listed in the fields pane along with a multi-calculator icon.](../media/sales-table.png)](../media/sales-table.png#lightbox)
 
 When a table comprises only visible measures, it's presented at the top of the pane. This way, it behaves like a measure group (an object of a multidimensional model). Don't confuse this cosmetic representation of a tabular model with DAX calculation groups.
 
@@ -99,7 +99,7 @@ The calculation group comprises this single column, while rows of data define th
 In the **Properties** pane (located in the lower-right corner), select the **Name** property and then rename it as **Time Calculation**.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot highlighting to selct Name property then rename it as Time calculations.](../media/time-calculations.png)](../media/time-calculations.png#lightbox)
+> [![Screenshot highlighting to select Name property then rename it as Time calculations.](../media/time-calculations.png)](../media/time-calculations.png#lightbox)
 
 To create a calculation item, right-click the **Time Intelligence** table and then select **Create New** > **Calculation Item**.
 
@@ -204,7 +204,7 @@ From the **Fields** pane, from inside the **Time Intelligence** table, drag the 
 Verify that the matrix visual shows a grid of time-related **Sales** measure values that are grouped by month.
 
 > [!div class="mx-imgBorder"]
-[![Matrix visual showing monthly sales for fiscal year 2022 providing three different perspectives](../media/sales-measure-values.png)](../media/sales-measure-values.png#lightbox)
+[![Matrix visual showing monthly sales for fiscal year 2022 providing three different perspectives.](../media/sales-measure-values.png)](../media/sales-measure-values.png#lightbox)
 
 Notice the format of each measure. Ordinarily, Power BI derives the format from the selected measure. However, recall that you set the format string expression for the **YoY %** measure to produce a percentage format.
 
