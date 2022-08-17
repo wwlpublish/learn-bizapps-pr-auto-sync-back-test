@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-calculation-groups.calculation-groups 
+title: Create calculation groups
+metadata: 
+  title: Create calculation groups
+  description: In this unit, you'll create two calculation groups. Before you create the calculation groups, you'll review the sample data model and create some measures.
+  ms.date: 07/11/2022 
+  author: Heyrob 
+  ms.author: Robde 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-bi 
+durationInMinutes: 16
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/calculation-groups.md)] 
