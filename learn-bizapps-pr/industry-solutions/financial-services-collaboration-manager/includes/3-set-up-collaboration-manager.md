@@ -79,7 +79,7 @@ To use the virtual visit features within Collaboration Manager for Loans, you mu
 1. Once your new calendar is created, the URL will be generated, and you can copy the alias of your **Calendar**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Bookings setup ready where you can copy the alias](../media/bookings-ready.png)](../media/bookings-ready.png#lightbox)
+    > [![Screenshot of Bookings setup ready where you can copy the alias.](../media/bookings-ready.png)](../media/bookings-ready.png#lightbox)
 
 ## Task 4: Retrieve the alias of the new Bookings business
 
@@ -180,14 +180,14 @@ Now that the settings are defined, you can add the app to Microsoft Teams.
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the app selection wizard with the Search within this list dropdown menu set to Model-driven apps.](../media/model-driven.png)](../media/model-driven.png#lightbox)
 
-1. Search for **Collaboration Manager** and select the app that corresponds with your dedicated environment. For example, if you're working with environment 100, you would select the app with environment FSIInADay_100 against its name.
+1. Search for **Collaboration Manager** and select the app that corresponds with your dedicated environment.
 
 1. Select the **Collaboration Manager** app and select **Save**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the app selection wizard with search results for "collab" showing Collaboration Manager for Loans.](../media/collaboration.png)](../media/collaboration.png#lightbox)
 
-The app will appear as a pinned tab in your channel.
+    The app will appear as a pinned tab in your channel.
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the channel in Teams with the Collaboration Manager for Loans tab open.](../media/tab.png)](../media/tab.png#lightbox)

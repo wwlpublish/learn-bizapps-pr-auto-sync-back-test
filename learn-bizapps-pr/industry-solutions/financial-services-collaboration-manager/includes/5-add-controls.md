@@ -49,7 +49,7 @@ Before creating your customizations, you first need to create a solution to cont
 1. Remove the **Information** form by clicking on the more options and select **Remove**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of how to remove a form](../media/remove-form.png)](../media/remove-form.png#lightbox)
+    > [![Screenshot of how to remove a form.](../media/remove-form.png)](../media/remove-form.png#lightbox)
 
 1. Select **Save** and after the changes are saved and then select **Publish**. If you played the app at this point within Microsoft Teams, the components from Loan Tracker will be present, but the collaborative features like tasks, meetings, and notes wouldn't be present.
 
