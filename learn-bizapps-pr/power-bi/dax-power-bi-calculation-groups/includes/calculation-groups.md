@@ -2,12 +2,12 @@ In this unit, you'll create two calculation groups. Before you create the calcul
 
 ## Task 1: Review the data model
 
-Download and open the **[Adventure Works DW 2020 M08.pbix](https://TODO)** file.
+Download and open the **[Adventure Works DW 2020 M08.pbix](https://github.com/MicrosoftDocs/mslearn-dax-power-bi/raw/main/activities/Adventure%20Works%20DW%202020%20M08.pbix)** file.
 
 Verify that you have Tabular Editor 2 installed.
 
 > [!NOTE]
-> If the **External Tools** ribbon tab doesn't show, or if that tab doesn't include Tabular Editor, return to [Unit 2](https://TODO) for guidance on how to complete the installation.
+> If the **External Tools** ribbon tab doesn't show, or if that tab doesn't include Tabular Editor, return to Unit 2 for guidance on how to complete the installation.
 
 In Power BI Desktop, switch to **Model** view and then review the model design.
 
