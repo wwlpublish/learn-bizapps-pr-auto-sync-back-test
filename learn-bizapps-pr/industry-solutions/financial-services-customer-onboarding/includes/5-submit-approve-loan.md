@@ -20,10 +20,12 @@ To sign in to the Retail Banking Portal as a customer and then submit a loan req
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the navigation menu, showing Apps selected.](../media/apps.png)](../media/apps.png#lightbox)
 
-1.  Open the Woodgrove Banking Portal and sign in as Allen Contoso.
+1.  Open the Woodgrove Banking Portal. 
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Woodgrove Banking Portal selected from the apps list.](../media/retail-banking-portal.png)](../media/retail-banking-portal.png#lightbox)
+    
+    Sign in as Allen Contoso.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the sample portal.](../media/sample-portal.png)](../media/sample-portal.png#lightbox)
@@ -37,7 +39,7 @@ To sign in to the Retail Banking Portal as a customer and then submit a loan req
 
 	- **Mortgage purpose** - Home purchase
 	
-	- **Loan term** - 360
+	- **Loan term** - 30
 	
 	- **Mortgage amount required (USD)** - 500,000
 	
@@ -47,8 +49,6 @@ To sign in to the Retail Banking Portal as a customer and then submit a loan req
 	> [![Screenshot of the Mortgage details filled out.](../media/mortgage-details.png)](../media/mortgage-details.png#lightbox)
 
 7.  Under **Your details**, fill out the following information and then select **Next**:
-
-	- **Title** - Mr.
 
 	- **First Name** - Allen
 
@@ -103,6 +103,15 @@ To sign in to the Retail Banking Portal as a customer and then submit a loan req
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Your assets details filled out.](../media/assets.png)](../media/assets.png#lightbox)
+
+    - **Income Type** - Employment monthly salary
+
+	- **Income amount (USD)** - 5000
+
+	- **Income description** - Salary
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of the Monthly salary details filled out.](../media/monthly-income-page-details.png)](../media/monthly-income-page-details.png#lightbox)
 
 1.  Select **Sole borrower** and then select **Next**.
 

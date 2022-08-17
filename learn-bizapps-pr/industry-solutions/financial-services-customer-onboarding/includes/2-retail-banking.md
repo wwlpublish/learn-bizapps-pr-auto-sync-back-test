@@ -92,7 +92,7 @@ Now that you have set up the Retail Banking Sample Portal, you will create an in
 
 1.  Select **Register**, fill in the following information, and then select **Register**:
 
-	- **Email** - AllenContoso@example.com
+	- **Email** - allencontoso@example.com
 
 	- **Username** - AllenContoso
 
@@ -102,6 +102,11 @@ Now that you have set up the Retail Banking Sample Portal, you will create an in
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Register window with details populated.](../media/register.png)](../media/register.png#lightbox)
+
+1.  After the registration is completed navigate to your **Profile**.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of the sample portal, showing the Profile button.](../media/portal-profile.png)](../media/portal-profile.png#lightbox)
 
 1.  Fill in the following information and then scroll down and select **Update**:
 

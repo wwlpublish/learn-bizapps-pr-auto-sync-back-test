@@ -58,7 +58,7 @@ To extend the loan application business process flow, follow these steps:
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Woodgrove Banking selected in the Solutions list.](../media/woodgrove-banking.png)](../media/woodgrove-banking.png#lightbox)
 
-1.  Select **+ Add existing** and then select **Process**.
+1.  Select **+ Add existing** and then select **Automation** and **Process**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Add existing menu with Process selected.](../media/add-process.png)](../media/add-process.png#lightbox)
@@ -86,7 +86,7 @@ To extend the loan application business process flow, follow these steps:
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the steps to extend the business process flow.](../media/extend.png)](../media/extend.png#lightbox)
 
-1.  Select the new stage, give it a **Display Name** of **Quality Check**, and then select **Apply**.
+1.  Select the **New stage**, give it a **Display Name** of **Quality Check**, and then select **Apply**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the new stage named Quality Check and the Apply button selected.](../media/quality-check.png)](../media/quality-check.png#lightbox)
@@ -120,4 +120,4 @@ To extend the loan application business process flow, follow these steps:
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Process Activate Confirmation window.](../media/activate-confirmation.png)](../media/activate-confirmation.png#lightbox)
 
-Congratulations, you have extended the Loan application business process flow by adding another stage for loan applications in Microsoft Cloud for Financial Services.
+**Congratulations**, you have extended the Loan application business process flow by adding another stage for loan applications in Microsoft Cloud for Financial Services.
