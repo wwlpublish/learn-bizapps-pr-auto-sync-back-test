@@ -83,7 +83,7 @@ To use the virtual visit features within Collaboration Manager for Loans, you mu
 
 ## Task 4: Retrieve the alias of the new Bookings business
 
-If you copied the alias in the previous step you can skip this task and continue with **Task 5**. 
+If you copied the alias in the previous step you can skip this task and continue with **Task 5**.
 To retrieve the alias of your new Bookings business, reopen the current Bookings business so that you can retrieve the value from the URL.
 
 1. Open Bookings business and select the calendar you created in the previous task.
@@ -183,13 +183,7 @@ Now that the settings are defined, you can add the app to Microsoft Teams.
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the app selection wizard with the Search within this list dropdown menu set to Model-driven apps.](../media/model-driven.png)](../media/model-driven.png#lightbox)
 
-<<<<<<< Updated upstream
-1. Search for **Collaboration Manager** and select the app that corresponds with your dedicated environment.
-
-1. Select the **Collaboration Manager** app and select **Save**.
-=======
-1. Search for **Collaboration Manager** and select the app that corresponds with your dedicated environment. Select the **Collaboration Manager** app and select **Save**.
->>>>>>> Stashed changes
+1. Search for **Collaboration Manager** and select the app that corresponds with your dedicated environment. Select the **Collaboration Manager for Loan** app and select **Save**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the app selection wizard with search results for "collab" showing Collaboration Manager for Loans.](../media/collaboration.png)](../media/collaboration.png#lightbox)
