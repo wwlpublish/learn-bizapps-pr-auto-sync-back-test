@@ -12,7 +12,7 @@ Verify that you have Tabular Editor 2 installed.
 In Power BI Desktop, switch to **Model** view and then review the model design.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of Power BI desktop model view to review model design.](../media/model-view.png)]
+> [ ![Screenshot of Power BI desktop model view to review model design.](../media/model-view.png) ](../media/model-view.png#lightbox)
 
 The model comprises seven dimension tables and two fact tables. The **Sales** fact table stores sales order details. The **Currency Rate** fact table stores daily currency exchange rates for multiple currencies. It's a classic star schema design.
 
