@@ -179,3 +179,5 @@ The app will appear as a pinned tab in your channel.
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the channel in Teams with the Collaboration Manager for Loans tab open.](../media/tab.png)](../media/tab.png#lightbox)
+
+**Congratulations!**  You have embedded the Collaboration manager app in Microsoft Teams.
