@@ -65,7 +65,7 @@ To sign in to the Retail Banking Portal as a customer and then submit a loan req
 
     - **Address 1** - 123 Main Street
 
-    - **Email address** - AllenContoso\@example.com
+    - **Email address** - allencontoso\@example.com
 
     - **City** - Redmond
 
