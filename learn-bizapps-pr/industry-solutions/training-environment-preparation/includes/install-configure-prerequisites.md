@@ -24,7 +24,7 @@ In this task, you'll create a Dynamics 365 Customer Service Trial Environment in
    > [!IMPORTANT]
    > Select a Country/Region where Microsoft Cloud for Financial Services is [available.](/industry/financial-services/availability)
 
-5. The newly created Customer Service workspace application is launched. Copy and note the root URL of the launched application. It will be of the  format <https://myorg.crm.dynamics.com/>. This URL will be referenced at a later step.
+5. The newly created Customer Service workspace application is launched. Copy the root URL of the launched application. It will be of the  format <https://myorg.crm.dynamics.com/>. This URL will be referenced at a later step.
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the Customer Service workspace application.](../media/customer-service-application.png)](../media/customer-service-application.png#lightbox)
@@ -212,4 +212,6 @@ In this task, you'll create a Power Apps Portal that will be used as a sample po
 
     Your portal will provision in the background. Proceed only after the portal provisioning completes.
 
-  
+    :::image type="content" source="../media/portal-provision.png" alt-text="Screenshot of the portal provisioning process in the background.":::
+
+ 
