@@ -33,5 +33,7 @@ modules:
 - learn-bizapps.dax-power-bi-iterator-functions
 - learn-bizapps.dax-power-bi-modify-filter
 - learn-bizapps.dax-power-bi-time-intelligence 
+- learn-bizapps.dax-power-bi-calculation-groups
+- learn-bizapps.dax-power-bi-solve-problems
 trophy: 
   uid: learn-bizapps.use-dax-power-bi-desktop.trophy

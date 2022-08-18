@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-solve-problems.create-airline-time-performance 
+title: Create an airline on-time performance report
+metadata: 
+  title: Create an airline on-time performance report
+  description: Learn how to create an airline on-time performance (OTP) report for the Tailspin Toys company. 
+  ms.date: 07/11/2022 
+  author: Heyrob 
+  ms.author: Robde 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-bi 
+durationInMinutes: 15
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/create-airline-time-performance.md)] 

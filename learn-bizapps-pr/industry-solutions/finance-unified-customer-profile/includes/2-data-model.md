@@ -1,10 +1,10 @@
-In this exercise, you will learn about the Unified customer profile data tables.
+In this exercise, you'll learn about the Unified customer profile data tables.
 
 The Unified customer profile data model is built atop the **FinancialServiceCommon** and **RetailBankingCoreDataModel** layers in Microsoft Dataverse. For more information, see [Overview of Microsoft Cloud for Financial Services entities](/common-data-model/schema/core/industrycommon/financialservices/overview/?azure-portal=true).
 
 ## Task 1: Explore customer and bank data and relationships
 
-In this task, you will explore the main tables that are related to Unified customer profile. Select each table name to navigate to the Microsoft Docs page that provides details about each table.
+In this task, you'll explore the main tables that are related to Unified customer profile. Select each table name to navigate to the Microsoft Docs page that provides details about each table.
 
 ### Unified customer profile table definitions  
 
@@ -24,7 +24,7 @@ Definitions for the Unified customer profile table are as follows:
 
 ## Task 2: Discover life event data tables and relationships
 
-In this task, you will learn about the main tables that are related to life event data. Select each table name to navigate to the Microsoft Docs page that provides details about each table.
+In this task, you'll learn about the main tables that are related to life event data. Select each table name to navigate to the Microsoft Docs page that provides details about each table.
 
 ### Life event data table definitions
 
@@ -36,7 +36,7 @@ In this task, you will learn about the main tables that are related to life even
 
 ## Task 3: Learn about financial data tables and relationships
 
-In this task, you will learn about the main tables that are related to customer financial data, including different types of financial holdings, financial instruments, and customer financial holdings. Select each table name to navigate to the Microsoft Docs page that provides details about each table.
+In this task, you'll learn about the main tables that are related to customer financial data, including different types of financial holdings, financial instruments, and customer financial holdings. Select each table name to navigate to the Microsoft Docs page that provides details about each table.
 
 ### Financial data table definitions
 
@@ -72,7 +72,7 @@ Definitions for the Financial data table are as follows:
 
 ## Task 4: Explore connections data tables and relationships
 
-In this task, you will explore the main tables that are related to customer connections, including groups (such as households) and relationships. Select each table name to navigate to the Microsoft Docs page that provides details about each table.
+In this task, you'll explore the main tables that are related to customer connections, including groups (such as households) and relationships. Select each table name to navigate to the Microsoft Docs page that provides details about each table.
 
 ### Connections data table definitions
 
@@ -89,4 +89,3 @@ Definitions for the Connections data table are as follows:
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the connections data tables.](../media/connections.png)](../media/connections.png#lightbox)
-
