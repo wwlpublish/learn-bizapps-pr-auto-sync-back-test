@@ -1,4 +1,4 @@
-In this exercise, you'll configure integration with Microsoft Teams for BANK. Microsoft Teams offers several features useful for banks and other financial institutions. By integrating Microsoft Cloud for Financial Services with Microsoft Teams, you can improve the collaboration between your staff and enhance customer service.
+In this exercise, you'll configure integration with Microsoft Teams for Microsoft Cloud for Financial Services. Microsoft Teams offers several features useful for banks and other financial institutions. By integrating Microsoft Cloud for Financial Services with Microsoft Teams, you can improve the collaboration between your staff and enhance customer service.
 
 Additionally, your care team can use Microsoft Teams internally to do the following:
 

@@ -494,6 +494,11 @@
       "source_path": "learn-bizapps-pr/wwl-power-automate/build-automated-solution/6-summary-resources.md",
       "redirect_url": "/learn/modules/build-automated-solution/5-summary-resources",
       "redirect_document_id": true
+    },
+    {
+    "source_path": "learn-bizapps-pr/power-bi/design-model-power-bi/9-lab.md",
+    "redirect_url": "/learn/modules/design-model-power-bi/",
+    "redirect_document_id": true
     }
   ]
 }

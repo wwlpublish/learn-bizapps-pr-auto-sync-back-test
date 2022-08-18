@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-solve-problems.create-calculations-dynamically 
+title: Create calculations to dynamically classify products
+metadata: 
+  title: Create calculations to dynamically classify products
+  description: In this unit, you’ll create calculated columns that dynamically classify products into price bands.
+  ms.date: 07/11/2022 
+  author: Heyrob 
+  ms.author: Robde 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-bi 
+durationInMinutes:  6
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/create-calculations-dynamically.md)] 

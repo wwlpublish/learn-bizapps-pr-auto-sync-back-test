@@ -1,26 +1,26 @@
-In this exercise, you will launch the Unified customer profile application and then navigate through the tabs and controls to learn about each component and how it connects to the data model.
+In this exercise, you'll launch the Unified customer profile application and then navigate through the tabs and controls to learn about each component and how it connects to the data model.
 
-1.  Go to [Microsoft Power Apps](http://make.powerapps.com/?azure-portal=true) in an In-Private or Incognito window.
+1. Go to [Microsoft Power Apps](http://make.powerapps.com/?azure-portal=true) in an In-Private or Incognito window.
 
-1.  Select the proper **Environment** in the upper right.
+1. Select the proper **Environment** in the upper right.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Environment in the upper right.](../media/environment.png)](../media/environment.png#lightbox)
+   > [!div class="mx-imgBorder"]
+   > [![Screenshot of the Environment in the upper right.](../media/environment.png)](../media/environment.png#lightbox)
 
-1.  In Power Apps, select **Apps** in the left site map. Select and open **Unified customer profile**.
+1. In Power Apps, select **Apps** in the left site map. Select and open **Unified customer profile**.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Unified customer profile app selected.](../media/unified-customer-profile-app.png)](../media/unified-customer-profile-app.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Unified customer profile app selected.](../media/unified-customer-profile-app.png)](../media/unified-customer-profile-app.png#lightbox)
 
-1.  The app should launch in a new tab and the **Contacts** view will open, showing a list of all contacts.
+1. The app should launch in a new tab and the **Contacts** view will open, showing a list of all contacts.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the contacts view.](../media/contacts-view.png)](../media/contacts-view.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the contacts view.](../media/contacts-view.png)](../media/contacts-view.png#lightbox)
 
 1.  Select **Grace Taylor (Sample)** to open the record in the application and launch the **Unified customer profile** form for the customer.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the sample customer record.](../media/customer-record.png)](../media/customer-record.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the sample customer record.](../media/customer-record.png)](../media/customer-record.png#lightbox)
 
 Now that the Unified customer profile form has loaded, you can explore its individual tabs and controls.
 
@@ -29,29 +29,29 @@ Now that the Unified customer profile form has loaded, you can explore its indiv
 The **Summary** tab consists of the following Power Apps component framework controls that are componentized to provide the flexibility for you to choose and customize the views that you want to develop.
 
 -   Customer snapshot
-	
+
 -   Life events
-		
+
 -   Financial holdings
-	
+
 -   Main household
-		
+
 -   Cards
 
 1.  Examine the **Customer Snapshot** control. The customer snapshot shows personal information (for example, name, demographics, and branch information) and the preferred channel of communication. 
 
-	> [!NOTE]
-	> You can enrich the Customer snapshot area with customer intelligence-driven information like churn score. This information is enabled through the Customer Intelligence add-in for Unified customer profile, which will be covered in another lab. 
-	
+    > [!NOTE]
+    > You can enrich the Customer snapshot area with customer intelligence-driven information like churn score. This information is enabled through the Customer Intelligence add-in for Unified customer profile, which will be covered in another lab. 
+
 	The following screenshot shows the information that shows up on the control and the Dataverse table columns that it's derived from.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of a sample customer snapshot.](../media/customer-snapshot.png)](../media/customer-snapshot.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of a sample customer snapshot.](../media/customer-snapshot.png)](../media/customer-snapshot.png#lightbox)
 
 	| Customer snapshot field                                 | Table column mapping                                             |
 	|---------------------------------------------------------|------------------------------------------------------------------|
 	|     Grace Taylor(Sample)                              |     Contact.fullname                                             |
-	|     59,Married                                          |     Contact.Birthdate,   Contact.familystatuscode                |
+	|     59, Married                                         |     Contact.Birthdate,   Contact.familystatuscode                |
 	|     Symbols for preferred symbols of communication    |     Contact.preferredcontactmethodcode                           |
 	|     Phone                                               |     Contact.telephone1                                           |
 	|     Email                                               |     Contact.emailaddress1                                        |
@@ -64,8 +64,8 @@ The **Summary** tab consists of the following Power Apps component framework con
 
 	The following screenshot shows the information that shows up on the control and the Dataverse table columns that it's derived from.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Life events window.](../media/life-events.png)](../media/life-events.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Life events window.](../media/life-events.png)](../media/life-events.png#lightbox)
 
 	| Life event           | Table column mapping                                                                                                                         |
 	|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -78,8 +78,8 @@ The **Summary** tab consists of the following Power Apps component framework con
 
     The following screenshot shows the information that shows up on the control and the Dataverse table columns that it's derived from.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Financial holdings area.](../media/financial-holdings.png)](../media/financial-holdings.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Financial holdings area.](../media/financial-holdings.png)](../media/financial-holdings.png#lightbox)
 
 	| Financial holdings field   | Table column mapping                                                                                                                                                      |
 	|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -95,8 +95,8 @@ The **Summary** tab consists of the following Power Apps component framework con
 
     The following screenshot shows the information that shows up on the control and the Dataverse table columns that it's derived from.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of details in the Main household area.](../media/household.png)](../media/household.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of details in the Main household area.](../media/household.png)](../media/household.png#lightbox)
 
 	| Household field                     | Table column mapping                                                                                                   |
 	|-------------------------------------|------------------------------------------------------------------------------------------------------------------------|
@@ -112,8 +112,8 @@ The **Summary** tab consists of the following Power Apps component framework con
 
     The following screenshot shows the information that shows up on the control and the Dataverse table columns that it's derived from.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Cards control for credit and debit cards.](../media/cards.png)](../media/cards.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Cards control for credit and debit cards.](../media/cards.png)](../media/cards.png#lightbox)
 	
 	| Card field                  | Table column mapping                               |
 	|-----------------------------|----------------------------------------------------|
@@ -124,5 +124,5 @@ The **Summary** tab consists of the following Power Apps component framework con
 	|     Not   Active            |     msfsi_fi_card.status                           |
 	|     Apr   28, 2023          |     msfsi_fi_card.msfsi_expirydate                 |
 
-Congratulations, you have explored the Unified customer profile app and its featured data within a customer record.
+**Congratulations**, you've explored the Unified customer profile app and its featured data within a customer record.
 
