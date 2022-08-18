@@ -9,6 +9,6 @@ The triggers in Dataverse are:
 
 - **When a row is added, modified, or deleted** - This trigger allows you to start a flow when a row is added, modified, or deleted in a Microsoft Dataverse table, such that it matches the selected options.
 
-- **When an action is performed (preview)** - Triggers when a Microsoft Dataverse action has completed.
+- **When an action is performed** - Triggers when a Microsoft Dataverse action has completed.
 
-Now that you've learned about the various triggers that we offer in Power Automate for Microsoft Dataverse, you can learn how to use those triggers.
+Now that you've learned about the triggers offered in Power Automate for Microsoft Dataverse, you can learn how to use those triggers.

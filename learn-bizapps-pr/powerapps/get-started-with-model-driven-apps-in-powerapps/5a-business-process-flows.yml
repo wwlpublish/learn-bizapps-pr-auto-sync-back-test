@@ -5,8 +5,8 @@ metadata:
   title: Incorporate business process flows 
   description: Use a business process flow in Power Apps when you need business logic in your app. 
   ms.date: 07/08/2022 
-  author: DaveBeasley
-  ms.author: dbeasley
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.prod: learning-powerapps
 durationInMinutes: 5 

@@ -33,7 +33,7 @@ In this task, you'll learn how to create a trial tenant along with the required 
 
       Else, it will prompt you to set up your new account. Select **Set up account**.
 
-    :::image type="content" source="../media/set-up-new-account.png" alt-text="Screenshot of the Set up account":::
+    :::image type="content" source="../media/set-up-new-account.png" alt-text="Screenshot of the Set up account button.":::
 
 7. Provide the necessary information in the About you page. Enter a valid phone number where you can receive a text message to validate the sign-up process.
 

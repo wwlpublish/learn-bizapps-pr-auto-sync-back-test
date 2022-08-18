@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.build-approval-flows.4-recurring 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-approval-flows.4-recurring
 title: Exercise - Learn to build a flow that runs at recurring time intervals
-metadata: 
+metadata:
   title: Exercise - Learn to build a flow that runs at recurring time intervals
   description: Learn to build a flow that runs at the same time on a recurring schedule.
-  ms.date: 02/25/2022
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-power-automate 
-durationInMinutes: 6 
-content: | 
- [!include[](../includes/unit-banner.md)] 
- [!include[](includes/4-recurring.md)] 
+  ms.date: 08/01/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-automate
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-recurring.md)]
