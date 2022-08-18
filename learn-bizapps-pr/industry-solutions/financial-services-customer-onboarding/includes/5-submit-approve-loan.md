@@ -1,4 +1,4 @@
-In this exercise, you will learn how to:
+In this exercise, you'll learn how to:
 
 - Sign in to the Retail Banking Portal as a customer and then submit a loan request.
 
@@ -8,144 +8,153 @@ In this exercise, you will learn how to:
 
 To sign in to the Retail Banking Portal as a customer and then submit a loan request, follow these steps:
 
-1.  Use an In-Private or Incognito window and go to [Power Apps](https://make.powerapps.com/?azure-portal=true).
+1. Use an In-Private or Incognito window and go to [Power Apps](https://make.powerapps.com/?azure-portal=true).
 
-1.  Select the correct environment from the **Environment** dropdown menu in the upper-right corner.
+1. Select the correct environment from the **Environment** dropdown menu in the upper-right corner.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Environment dropdown menu in the upper-right corner in Power Apps.](../media/environment-menu.png)](../media/environment-menu.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Environment dropdown menu in the upper-right corner in Power Apps.](../media/environment-menu.png)](../media/environment-menu.png#lightbox)
 
-1.  Select **Apps** on the left navigation bar.
+1. Select **Apps** on the left navigation bar.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the navigation menu, showing Apps selected.](../media/apps.png)](../media/apps.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the navigation menu, showing Apps selected.](../media/apps.png)](../media/apps.png#lightbox)
 
-1.  Open the Woodgrove Banking Portal and sign in as Allen Contoso.
+1. Open the Woodgrove Banking Portal.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Woodgrove Banking Portal selected from the apps list.](../media/retail-banking-portal.png)](../media/retail-banking-portal.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Woodgrove Banking Portal selected from the apps list.](../media/retail-banking-portal.png)](../media/retail-banking-portal.png#lightbox)
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the sample portal.](../media/sample-portal.png)](../media/sample-portal.png#lightbox)
+    Sign in as Allen Contoso.
 
-1.  Expand Allen Contoso's information and select **Onboarding Wizard** to initiate a mortgage loan request.
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the sample portal.](../media/sample-portal.png)](../media/sample-portal.png#lightbox)
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Onboarding Wizard option selected in the menu.](../media/onboarding-wizard.png)](../media/onboarding-wizard.png#lightbox)
+1. Expand Allen Contoso's information and select **Onboarding Wizard** to initiate a mortgage loan request.
 
-1.  Under **Mortgage details**, fill out the following information and then select **Next**:
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Onboarding Wizard option selected in the menu.](../media/onboarding-wizard.png)](../media/onboarding-wizard.png#lightbox)
 
-	- **Mortgage purpose** - Home purchase
-	
-	- **Loan term** - 360
-	
-	- **Mortgage amount required (USD)** - 500,000
-	
-	- **Down payment (USD)** - 80,000
+1. Under **Mortgage details**, fill out the following information and then select **Next**:
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Mortgage details filled out.](../media/mortgage-details.png)](../media/mortgage-details.png#lightbox)
+    - **Mortgage purpose** - Home purchase
 
-7.  Under **Your details**, fill out the following information and then select **Next**:
+    - **Loan term** - 30
 
-	- **Title** - Mr.
+    - **Mortgage amount required (USD)** - 500,000
 
-	- **First Name** - Allen
+    - **Down payment (USD)** - 80,000
 
-	- **Last Name** - Contoso
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Mortgage details filled out.](../media/mortgage-details.png)](../media/mortgage-details.png#lightbox)
 
-	- **Date of Birth** - 10/01/1980
+1. Under **Your details**, fill out the following information and then select **Next**.
 
-	- **National Number** - 555-55-5555
+    - **First Name** - Allen
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Tell us about yourself details filled out.](../media/self-details.png)](../media/self-details.png#lightbox)
+    - **Last Name** - Contoso
 
-	- **Phone number** - (859) 555-0274
+    - **Date of Birth** - 10/01/1980
 
-	- **Address 1** - 123 Main Street
+    - **National Number** - 555-55-5555
 
-	- **Email address** - AllenContoso\@example.com
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Tell us about yourself details filled out.](../media/self-details.png)](../media/self-details.png#lightbox)
 
-	- **City** - Redmond
+    - **Phone number** - (859) 555-0274
 
-	- **State** - WA
+    - **Address 1** - 123 Main Street
 
-	- **Country/Region** - USA
+    - **Email address** - allencontoso\@example.com
 
-	- **Zip/Postal Code** - 98072
+    - **City** - Redmond
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the contact information.](../media/contact-information.png)](../media/contact-information.png#lightbox)
+    - **State** - WA
 
-	- **Employment's status** - Full time
+    - **Country/Region** - USA
 
-	- **Job title** - Owner
+    - **Zip/Postal Code** - 98072
 
-	- **Employer's name** - Contoso Industries
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the contact information.](../media/contact-information.png)](../media/contact-information.png#lightbox)
 
-	- **When did you begin working there?** - 01/01/2021
+    - **Employment's status** - Full time
 
-	- **I'm currently working there** - Yes
+    - **Job title** - Owner
 
-	- **Credit score** - 800
+    - **Employer's name** - Contoso Industries
 
-	- **How many loans have you taken in the last 90 days** - 0
+    - **When did you begin working there?** - 01/01/2021
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Tell us about your financial status details filled out.](../media/financial-status.png)](../media/financial-status.png#lightbox)
+    - **I'm currently working there** - Yes
 
-	- **Asset type** - Savings account
+    - **Credit score** - 800
 
-	- **Balance or value (USD)** - 250000
+    - **How many loans have you taken in the last 90 days** - 0
 
-	- **Asset description** - Savings
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Tell us about your financial status details filled out.](../media/financial-status.png)](../media/financial-status.png#lightbox)
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Your assets details filled out.](../media/assets.png)](../media/assets.png#lightbox)
+    - **Asset type** - Savings account
 
-1.  Select **Sole borrower** and then select **Next**.
+    - **Balance or value (USD)** - 250000
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Sole borrower selected.](../media/sole-borrower.png)](../media/sole-borrower.png#lightbox)
+    - **Asset description** - Savings
 
-1.  Scroll down to the bottom of the page, select the certification checkbox, and then select **Submit application**.
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Your assets details filled out.](../media/assets.png)](../media/assets.png#lightbox)
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the certification checkbox with the Submit application button selected.](../media/submit-application.png)](../media/submit-application.png#lightbox)
+    - **Income Type** - Employment monthly salary
+
+    - **Income amount (USD)** - 5000
+
+    - **Income description** - Salary
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Monthly salary details filled out.](../media/monthly-income-page-details.png)](../media/monthly-income-page-details.png#lightbox)
+
+1. Select **Sole borrower** and then select **Next**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Sole borrower selected.](../media/sole-borrower.png)](../media/sole-borrower.png#lightbox)
+
+1. Scroll down to the bottom of the page, select the certification checkbox, and then select **Submit application**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the certification checkbox with the Submit application button selected.](../media/submit-application.png)](../media/submit-application.png#lightbox)
 
 1. Select **Go to my personal page** to view the loan application status.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Go to my personal page button.](../media/personal-page.png)](../media/personal-page.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Go to my personal page button.](../media/personal-page.png)](../media/personal-page.png#lightbox)
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the personal page details.](../media/personal-page-details.png)](../media/personal-page-details.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the personal page details.](../media/personal-page-details.png)](../media/personal-page-details.png#lightbox)
 
 ## Task 2: Sign in to Loan Tracker in Microsoft Teams as a loan representative and approve the loan
 
 Follow these steps to sign in to Loan Tracker in Microsoft Teams as a loan representative and approve the loan:
 
-1.  While signed in to your Microsoft 365 tenant, open a new tab and go to [Microsoft Teams](https://teams.microsoft.com/?azure-portal=true).
+1. While signed in to your Microsoft 365 tenant, open a new tab and go to [Microsoft Teams](https://teams.microsoft.com/?azure-portal=true).
 
-1.  Go to the Teams channel that you created, go to Loan Tracker, and then search for the Allen Contoso mortgage loan application that you created.
+1. Go to the Teams channel that you created, go to Loan Tracker, and then search for the Allen Contoso mortgage loan application that you created.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the mortgage loan application in the Teams channel.](../media/teams-loan-application.png)](../media/teams-loan-application.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the mortgage loan application in the Teams channel.](../media/teams-loan-application.png)](../media/teams-loan-application.png#lightbox)
 
-1.  Go through the steps and then fill in the fields in **Loan application BPF** to advance the loan application to a new stage.
+1. Go through the steps and then fill in the fields in **Loan application BPF** to advance the loan application to a new stage.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Loan application BPF on the Origination stage.](../media/origination.png)](../media/origination.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Loan application BPF on the Origination stage.](../media/origination.png)](../media/origination.png#lightbox)
 
-1.  Enter your initials in the **Confirmed By** text box in the new **Quality Check** stage. Select **Next Stage**.
+1. Enter your initials in the **Confirmed By** text box in the new **Quality Check** stage. Select **Next Stage**.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Quality Check stage, showing the Next Stage button selected.](../media/quality-check-stage.png)](../media/quality-check-stage.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Quality Check stage, showing the Next Stage button selected.](../media/quality-check-stage.png)](../media/quality-check-stage.png#lightbox)
 
-1.  Close the loan.
+1. Close the loan.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Closing stage of the loan.](../media/close-loan.png)](../media/close-loan.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Closing stage of the loan.](../media/close-loan.png)](../media/close-loan.png#lightbox)
 
-Congratulations, you have successfully created a new loan application by using the Retail Banking Sample Portal and have verified the loan application by using Loan Tracker in Microsoft Cloud for Financial Services.
+**Congratulations**, you've successfully created a new loan application by using the Retail Banking Sample Portal and have verified the loan application by using Loan Tracker in Microsoft Cloud for Financial Services.
