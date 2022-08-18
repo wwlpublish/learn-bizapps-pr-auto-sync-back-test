@@ -64,7 +64,7 @@ Here’s what the Excel table looks like
 
 1. In the **Email Address** field, use the dynamic content feature to add the **ContactEmail** field.
 
-     Your **Add member to list** action will automatically be added inside an **Apply to each**. This location is by design and has occurred because multiple members need to be added. You’ll notice **Value** is added to **Select an out from previous stages**.
+     Your **Add member to list** action will automatically be added inside an **Apply to each**. This location is by design and has occurred because multiple members need to be added. You’ll notice **Value** is added to **Select an output from previous stages**.
 
 1. Use the dynamic content feature to fill in the **First name** and **Last name** fields.
 

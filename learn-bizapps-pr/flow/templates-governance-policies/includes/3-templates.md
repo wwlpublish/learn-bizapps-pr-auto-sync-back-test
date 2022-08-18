@@ -115,7 +115,7 @@ where you can store the operations that you will pass into the Office 365
 API. In this scenario, you are interested in knowing when new
 flows are created. As a result, you will add a record that includes a **Title**
 of **CreateFlow**. A complete list of supported operations can be found in this
-[blog post](https://flow.microsoft.com/blog/accessing-office-365-security-compliance-center-logs-from-microsoft-flow/?azure-portal=true).
+[blog post](https://powerautomate.microsoft.com/blog/security-and-compliance-center/?azure-portal=true).
 
 ![Screenshot of the Security and Compliance topics page.](../media/14-sharepoint.png)
 
