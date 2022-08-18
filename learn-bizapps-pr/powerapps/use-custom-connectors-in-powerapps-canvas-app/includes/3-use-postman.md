@@ -280,7 +280,7 @@ here's a review of the user interface.
  included in the Postman collection. In this case, the
  HTTP *verb* is **POST**, and the URL is
  "/text/analytics/v2.0/sentiment" (the full URL to the API is
- `"[https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment](https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment)"`).
+ `https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment`).
 
 ![Screenshot of the Request area with information displayed based on the HTTP request.](../media/21-definition-request.png)
 
