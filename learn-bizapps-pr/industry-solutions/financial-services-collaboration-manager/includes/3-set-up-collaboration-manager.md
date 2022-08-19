@@ -71,23 +71,32 @@ To use the virtual visit features within Collaboration Manager for Loans, you mu
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Welcome to Bookings screen, with name and type of business filled in.](../media/welcome.png)](../media/welcome.png#lightbox)
 
-1. Provide more details for your Bookings business by setting up the **Booking Page**, **Staff**, **Services**, and **Business Information** pages by selecting them in the left navigation pane.
+1. Provide more details for your Bookings business by setting up the **Booking Page**, **Staff**, **Services**, and **Business Information** pages by selecting them in the left navigation pane. Setup the calendar to enable **Anyone** book an appointment.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Bookings setup.](../media/bookings-setup.png)](../media/bookings-setup.png#lightbox)
+
+1. Once your new calendar is created, the URL will be generated, and you can copy the alias of your **Calendar**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Bookings setup ready where you can copy the alias.](../media/bookings-ready.png)](../media/bookings-ready.png#lightbox)
 
 ## Task 4: Retrieve the alias of the new Bookings business
 
+If you copied the alias in the previous step you can skip this task and continue with **Task 5**.
 To retrieve the alias of your new Bookings business, reopen the current Bookings business so that you can retrieve the value from the URL.
 
-1. Select the arrow next to your Bookings business and then select **Open**.
+1. Open Bookings business and select the calendar you created in the previous task.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the arrow next to the existing Bookings business selected to reveal the Open option.](../media/open.png)](../media/open.png#lightbox)
 
-1. When the dialog appears, select your Bookings business.
+1. Once the calendar is open, navigate to the **Booking page**
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Choose a booking calendar with Loan Business selected.](../media/calendar.png)](../media/calendar.png#lightbox)
 
-1. The Bookings business will reopen and will cause the URL of the page to change. Copy the value of the calendar parameter in the URL. It should resemble an email address. Record this value somewhere safe so that you can use it in a future step.
+1. In the **Configure booking page** section select **</>Embed** and copy only the alias from the URL. Record this value somewhere safe so that we can leverage it in a future step.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the URL with the calendar parameter highlighted.](../media/parameter.png)](../media/parameter.png#lightbox)
@@ -100,7 +109,13 @@ Now that you have the Group ID and the Bookings business ID, you can set them as
 
 1. Ensure that you're in the correct environment by using the environment picker in the upper-right corner.
 
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Environment selection.](../media/environment-menu.png)](../media/environment-menu.png#lightbox)  
+
 1. Go to the **Solutions** page in the left navigation pane.
+
+    >[!div class="mx-imgBorder"]
+    > [![Screenshot of how to navigate to Solutions.](../media/solution-select.png)](../media/solution-select.png#lightbox)  
 
 1. Select **New solution** so that you can provide a place for your settings values.
 
@@ -129,7 +144,7 @@ Now that you have the Group ID and the Bookings business ID, you can set them as
 
 1. Select **Save & Close** once you're finished.
 
-1. Repeat step 25 to create a new settings value.
+1. Repeat step 7 to create a new settings value.
 
 1. Now populate the new settings value with the Bookings business ID you retrieved on step 11. Set **Settings Group ID** to "Collaboration Manager for Loans" and **Settings Definition ID** to "Bookings Business ID".
 
@@ -168,14 +183,14 @@ Now that the settings are defined, you can add the app to Microsoft Teams.
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the app selection wizard with the Search within this list dropdown menu set to Model-driven apps.](../media/model-driven.png)](../media/model-driven.png#lightbox)
 
-1. Search for **Collaboration Manager** and select the app that corresponds with your dedicated environment. For example, if you're working with environment 100, you would select the app with environment FSIInADay_100 against its name.
-
-1. Select the **Collaboration Manager** app and select **Save**.
+1. Search for **Collaboration Manager** and select the app that corresponds with your dedicated environment. Select the **Collaboration Manager for Loan** app and select **Save**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the app selection wizard with search results for "collab" showing Collaboration Manager for Loans.](../media/collaboration.png)](../media/collaboration.png#lightbox)
 
-The app will appear as a pinned tab in your channel.
+    The app will appear as a pinned tab in your channel.
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the channel in Teams with the Collaboration Manager for Loans tab open.](../media/tab.png)](../media/tab.png#lightbox)
+
+**Congratulations!**  You have embedded the Collaboration manager app in Microsoft Teams.

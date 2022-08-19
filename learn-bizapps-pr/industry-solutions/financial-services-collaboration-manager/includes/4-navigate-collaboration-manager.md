@@ -23,7 +23,7 @@ The first tab that you'll explore that provides collaboration is the **Tasks** t
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the loan application Tasks tab.](../media/no-tasks.png)](../media/no-tasks.png#lightbox)
 
-1. To create a new task for the team, select **Add a task**.
+1. To create a new task for the team, select **Add a task** and select **For a member**.
 
 1. On the resulting dialog, provide specifics about the task and then assign it to the relevant people on the team. When you're done, select **Save**.
 
@@ -122,6 +122,9 @@ To create chats in Collaboration Manager for Loans, use the following procedure.
     > [![Screenshot of Microsoft Teams channel showing the Channel Conversations panel.](../media/chat.png)](../media/chat.png#lightbox)
 
 1. To create a new conversation in the channel, select **New conversation**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Microsoft Teams channel showing how to create a new conversation.](../media/chat-new-conversation.png)](../media/chat-new-conversation.png#lightbox)
 
 1. Provide a name for the conversation and then select the check mark icon.
 
