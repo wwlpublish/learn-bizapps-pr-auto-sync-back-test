@@ -1,4 +1,4 @@
-Automating Microsoft Azure Active Directory (Azure AD) related tasks allows administrators to considerably reduce the time and effort that it takes to add, remove, or update users, user roles, and objects in the Active Directory server. Any company with multiple users would greatly benefit from automating Active Directory user and object management.
+Automating Microsoft Active Directory (AD) related tasks allows administrators to considerably reduce the time and effort that it takes to add, remove, or update users, user roles, and objects in the Active Directory server. Any company with multiple users would greatly benefit from automating Active Directory user and object management.
 
 Consider the example of a large company whose IT department must create a new Active Directory user for every new hire. The new employee’s details are received by email from the Human Resources department, and then the email will be parsed and the employee’s details will be stored in variables.
 

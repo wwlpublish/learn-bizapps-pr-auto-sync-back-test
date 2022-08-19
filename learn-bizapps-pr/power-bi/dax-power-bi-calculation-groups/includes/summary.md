@@ -1,0 +1,1 @@
+In this module, you learned about calculation groups and how they allow you to quickly create many similar measures. By working through two different scenarios, you observed how calculation groups can extend base measures with time intelligence perspectives and perform currency conversion.

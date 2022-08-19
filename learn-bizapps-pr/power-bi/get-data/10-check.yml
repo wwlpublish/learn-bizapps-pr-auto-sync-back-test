@@ -4,7 +4,7 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 02/02/2022
+ ms.date: 08/09/2022
  author: heyrob 
  ms.author: robde 
  ms.topic: interactive-tutorial 
@@ -37,9 +37,9 @@ quiz:
       explanation: This will reflect cube changes immediately. 
   - content: What can you do to improve performance when you're getting data in Power BI? 
     choices: 
-    - content: Perform some calculations in the original data source 
+    - content: Use query folding 
       isCorrect: true 
-      explanation: Power Query and Power Query Editor are built to allow you to process the data, however, the processing power required to do this might lower performance in other areas of your reports. It's good practice to process as much as possible in the native data source.  
+      explanation: Power Query and Power Query Editor are built to allow you to process the data, however, the processing power required to do this might lower performance in other areas of your reports. It's good practice to process as much as possible in the native data source by using query folding.
     - content: Only pull data into the Power BI service, not Power BI Desktop 
       isCorrect: false 
       explanation: False. No performance difference exists between Power BI service and Power BI Desktop. 
