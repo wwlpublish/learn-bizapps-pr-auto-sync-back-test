@@ -41,7 +41,7 @@ Before creating your customizations, you first need to create a solution to cont
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Form editor.](../media/form-edit.png)](../media/form-edit.png#lightbox)
 
-1. On the right side select **+ Add** form and then select the **Loan tracker information form**.
+1. On the right side, select **+ Add** form and then select the **Loan tracker information form**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Power Apps showing the app designer for Collaboration Manager for Loans with the options updated.](../media/form.png)](../media/form.png#lightbox)
@@ -51,14 +51,14 @@ Before creating your customizations, you first need to create a solution to cont
     > [!div class="mx-imgBorder"]
     > [![Screenshot of how to remove a form.](../media/remove-form.png)](../media/remove-form.png#lightbox)
 
-1. Select **Save** and after the changes are saved and then select **Publish**. If you played the app at this point within Microsoft Teams, the components from Loan Tracker will be present, but the collaborative features like tasks, meetings, and notes wouldn't be present.
+1. Select **Save**. After the changes are saved, select **Publish**. If you played the app at this point within Microsoft Teams, the components from Loan Tracker will be present, but the collaborative features like tasks, meetings, and notes wouldn't be present.
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of save and publish the form.](../media/form-save-publish.png)](../media/form-save-publish.png#lightbox)
 
 ## Task 2: Add Collaboration Toolkit experiences in the Loan Tracker form
 
-Now, you will edit the **Loan tracker information form** so that it includes the **Tasks**, **Meetings**, and **Notes** tabs. 
+Now, you'll edit the **Loan tracker information form** so that it includes the **Tasks**, **Meetings**, and **Notes** tabs. 
 
 1. Select the edit icon next to the **Loan tracker information form**.
 

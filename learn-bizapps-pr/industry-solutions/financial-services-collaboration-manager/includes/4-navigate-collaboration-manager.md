@@ -6,7 +6,7 @@ In this exercise, you'll navigate Collaboration Manager for Loans and explore th
 
 1. To view the status of a loan, select its name from the list of loans. For this exercise, select **11223345** to view the loan for Hayden Reyes.
 
-   You will be directed to the **Summary** tab, where you can review the relevant information about the loan application.
+   You'll be directed to the **Summary** tab, where you can review the relevant information about the loan application.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the loan application Summary tab.](../media/summary.png)](../media/summary.png#lightbox)
@@ -104,7 +104,7 @@ Follow these steps to create meetings in Collaboration Manager for Loans:
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the loan application on the Meetings tab showing both meetings added.](../media/meetings-added.png)](../media/meetings-added.png#lightbox)
 
-1. Because all meetings are backed by Outlook, you can navigate to Bookings or your Outlook Calendar to view all meetings in a single calendar.
+1. Because all meetings are backed by Outlook, you can navigate to Bookings, or your Outlook Calendar to view all meetings in a single calendar.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Bookings on the Calendar tab showing meetings.](../media/outlook.png)](../media/outlook.png#lightbox)
