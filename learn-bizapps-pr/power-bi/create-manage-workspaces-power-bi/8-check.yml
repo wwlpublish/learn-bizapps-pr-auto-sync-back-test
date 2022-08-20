@@ -4,7 +4,7 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 07/14/2022
+ ms.date: 08/16/2022
  author: heyrob 
  ms.author: robde 
  ms.topic: interactive-tutorial 
@@ -15,7 +15,7 @@ quiz:
   questions: 
   - content: How is the Admin workspace role different from other types of workspace roles?
     choices: 
-    - content: Admin is the only role that can add and remove users.
+    - content: Admin is the only role that can remove users.
       isCorrect: true 
       explanation: Only Admins can add and remove users from a workspace.
     - content: Admin is the only role that can publish or update apps.

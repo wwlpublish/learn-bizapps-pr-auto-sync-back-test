@@ -38,7 +38,7 @@ Configure the properties to perform any combination of the described operations 
 |---------------------------|----------------|
 |Set variable|Specify a variable and the value to set, or set a value to a new variable.|
 |Run subflow|Specify which subflow to run from the list of subflows.|
-|Go to next action  |Continue running the flow from the action that immediately follows the exception block. |
+|Go to next action  |Continue running the flow from the action that immediately follows the action that produced an error in the exception block. |
 |Repeat action       |Retry the action that produced an error. |
 |Go to label | Continue running the flow from a specified label. |
 |Go to beginning of block   |Direct the flow to retry the actions inside the exception block from the start. |
