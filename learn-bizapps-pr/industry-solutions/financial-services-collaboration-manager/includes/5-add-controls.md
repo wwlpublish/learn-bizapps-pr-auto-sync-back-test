@@ -8,6 +8,9 @@ Before creating your customizations, you first need to create a solution to cont
 
 1. Select **New solution** to create a new solution.
 
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the environment selection.](../media/solution-select.png)](../media/solution-select.png#lightbox)
+
 1. Provide information for the required fields and then select **Save**.
 
     > [!div class="mx-imgBorder"]
@@ -28,22 +31,34 @@ Before creating your customizations, you first need to create a solution to cont
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Add existing model-driven apps dialog with Collaboration Manager for Loans selected.](../media/add-model-driven.png)](../media/add-model-driven.png#lightbox)
 
-1. When the app shows in your solution, select it to open it in the classic app designer.
+1. When the app shows in your solution, select it to open it.
 
-1. Select the **Form** card for the **Loan application** entity within the app designer.
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Solution editor.](../media/solution-edit.png)](../media/solution-edit.png#lightbox)
 
-1. In the **Properties** pane on the right, clear the **Information** checkbox and then select **Loan tracker information form** instead.
+1. Select the **Loan application form** for the **Loan application** entity within the app designer.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Form editor.](../media/form-edit.png)](../media/form-edit.png#lightbox)
+
+1. On the right side, select **+ Add** form and then select the **Loan tracker information form**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Power Apps showing the app designer for Collaboration Manager for Loans with the options updated.](../media/form.png)](../media/form.png#lightbox)
 
-1. Select **Save**.
+1. Remove the **Information** form by clicking on the more options and select **Remove**.
 
-1. Select **Publish**. If you played the app at this point within Microsoft Teams, the components from Loan Tracker will be present, but the collaborative features like tasks, meetings, and notes wouldn't be present.
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of how to remove a form.](../media/remove-form.png)](../media/remove-form.png#lightbox)
+
+1. Select **Save**. After the changes are saved, select **Publish**. If you played the app at this point within Microsoft Teams, the components from Loan Tracker will be present, but the collaborative features like tasks, meetings, and notes wouldn't be present.
+
+   > [!div class="mx-imgBorder"]
+   > [![Screenshot of save and publish the form.](../media/form-save-publish.png)](../media/form-save-publish.png#lightbox)
 
 ## Task 2: Add Collaboration Toolkit experiences in the Loan Tracker form
 
-Now, you will edit the **Loan tracker information form** so that it includes the **Tasks**, **Meetings**, and **Notes** tabs. 
+Now, you'll edit the **Loan tracker information form** so that it includes the **Tasks**, **Meetings**, and **Notes** tabs. 
 
 1. Select the edit icon next to the **Loan tracker information form**.
 
@@ -131,3 +146,5 @@ Now, you will edit the **Loan tracker information form** so that it includes the
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Microsoft Teams with Collaboration Manager for Loans open in its channel and all Loan Tracker and collaborative tabs showing.](../media/all-tabs.png)](../media/all-tabs.png#lightbox)
+
+**Congratulations**, you successfully added controls from Loan Tracker!
