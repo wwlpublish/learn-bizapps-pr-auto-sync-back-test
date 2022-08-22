@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
- ms.prod: learning-healthcare-vaccination  
+  
 title: Data setup with the Vaccination management app 
 summary: |  
   [!include[](../includes/module-banner.md)] 
