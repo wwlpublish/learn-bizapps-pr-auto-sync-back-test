@@ -354,7 +354,9 @@
           "ai-builder/**/*.yml": ["Power Platform ", "AI Builder"]                               
       }
     },
-
+    "ms.service": {
+      "industry-solutions/**/*.yml": "industry"
+    },
     "template": [],
     "dest": "learn-bizapps-pr",
     "markdownEngineName": "markdig",
