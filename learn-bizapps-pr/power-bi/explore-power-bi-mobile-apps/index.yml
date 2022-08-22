@@ -7,7 +7,7 @@ metadata:
   author: paulinbar
   ms.author: painbar  
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-bi  
+  ms.service: powerbi  
 title: Get to your data on the go with the Power BI Mobile apps
 summary: |
   [!include[](../includes/module-banner.md)]

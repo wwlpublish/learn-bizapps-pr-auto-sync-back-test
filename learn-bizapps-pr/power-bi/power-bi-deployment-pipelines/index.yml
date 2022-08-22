@@ -7,7 +7,7 @@ metadata:
  author: Heyrob  
  ms.author: Robde  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-bi  
+ ms.service: powerbi  
 title: Create and manage a Power BI deployment pipeline
 summary: |  
   [!include[](../includes/module-banner.md)] 
