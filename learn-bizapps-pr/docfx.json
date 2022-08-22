@@ -355,7 +355,7 @@
       }
     },
     "ms.service": {
-      "industry-solutions/**/*.yml": "industry",
+      "industry-solutions/**/*.yml": "industry"
     }
     "template": [],
     "dest": "learn-bizapps-pr",
