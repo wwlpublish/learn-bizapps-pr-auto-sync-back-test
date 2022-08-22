@@ -62,7 +62,7 @@ In this task, you will first save the Power BI Desktop file.
 
 1. Select **Save**.
 
-1. In the **Save As** window, navigate to the **D:\DA100\MySolution**
+1. In the **Save As** window, navigate to the **D:\PL300\MySolution**
     folder.
 
 1. In the **File Name** box, enter **Sales Analysis**.
@@ -304,7 +304,7 @@ In this task, you will create a query based on a CSV file.
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the New Source button on the Home ribbon.](../media/lab-033.png)](../media/lab-033.png#lightbox)
 
-1. In the **Open** window, navigate to the **D:\DA100\Resources** folder,
+1. In the **Open** window, navigate to the **D:\PL300\Resources** folder,
     and select the **ResellerSalesTargets.csv** file.
 
 1. Select **Open**.
@@ -339,7 +339,7 @@ In this task, you will create an additional query based on a different
 CSV file.
 
 Use the steps in the previous task to create a query based on the
-**D:\DA100\Resources\ColorFormats.csv** file.
+**D:\PL300\Resources\ColorFormats.csv** file.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Queries pane with ColorFormats selected.](../media/lab-037-a.png)](../media/lab-037-a.png#lightbox)
