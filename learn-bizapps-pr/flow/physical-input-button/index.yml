@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley
  ms.author: dbeasley 
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-automate  
+ 
 title: Create a flow that uses a physical button 
 summary: |  
   [!include[](../includes/module-banner.md)] 

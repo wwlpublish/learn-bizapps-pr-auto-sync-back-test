@@ -8,7 +8,7 @@ metadata:
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-bi
+  ms.service: powerbi
 azureSandbox: false
 labModal: false
 durationInMinutes: 6

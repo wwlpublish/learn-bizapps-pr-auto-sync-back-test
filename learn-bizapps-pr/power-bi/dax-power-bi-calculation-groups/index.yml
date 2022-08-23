@@ -7,7 +7,7 @@ metadata:
  author: Heyrob  
  ms.author: Robde  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-bi  
+ ms.service: powerbi  
 title: Add DAX calculation groups to Power BI Desktop models
 summary: |  
   [!include[](../includes/module-banner.md)] 
