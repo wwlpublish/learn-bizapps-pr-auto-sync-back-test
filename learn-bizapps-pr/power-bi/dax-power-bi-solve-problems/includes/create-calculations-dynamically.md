@@ -5,7 +5,7 @@ In this unit, you'll create calculated columns that dynamically classify product
 Download the **[PriceBand.xlsx](https://github.com/MicrosoftDocs/mslearn-dax-power-bi/raw/main/activities/PriceBand.xlsx)** file. Be sure to save it to a location that you'll remember.
 
 > [!NOTE]
-> If you don't have Excel installed, you can download the PriceBand.csv file instead. You'll need to adapt the instructions to use this file.
+> If you don't have Excel installed, you can download the **[PriceBand.csv](https://github.com/MicrosoftDocs/mslearn-dax-power-bi/raw/main/activities/PriceBand.csv)** file instead. You'll need to adapt the instructions to use this file.
 
 In the **Adventure Works DW 2020 M09.pbix file**, select the **Get data** option from the Excel workbook file that you retrieved.
 
