@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-platform  
+ 
 title: Create triggers for custom connectors for Power Automate
 summary: |  
   [!include[](../includes/module-banner.md)] 
