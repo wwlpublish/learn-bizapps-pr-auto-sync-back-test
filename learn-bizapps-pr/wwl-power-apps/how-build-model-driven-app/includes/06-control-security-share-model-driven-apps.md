@@ -51,8 +51,9 @@ more security role(s) with the app, then assign the security role(s) to users.
 
 ## Get the direct link to an app:
 
-1. Edit the app and click the **Properties** tab
-2. Copy the **Unified Interface URL.**
-3. Paste the app URL in a location so that your users can access it, such as by posting it on a SharePoint site or sending via email.
+1. In the Power Platform App Maker Portal ([https://make.powerapps.com](https://make.powerapps.com/)) select the ellipsis next to the app you want the URL for.
+2. From the menu that appears, select Details.
+3. Select the Web Link to open the application, or Copy the  **Web link** URL.
+4. Paste the app URL in a location so that your users can access it, such as by posting it on a SharePoint site or sending via email.
 
     ![Screenshot of the Properties tab, which shows that the Copy clipboard icon is highlighted with a red rectangle.](../media/copy-app-url.png)
