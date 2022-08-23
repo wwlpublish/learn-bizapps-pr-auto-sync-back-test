@@ -87,7 +87,6 @@ AI Builder has the following pretrained models:
 - **Identity Document Reader** - Extract information from passports and US driver licenses.
 - **Business Card Reader** - Extracts information from an image of a business card.
 - **Image Description** - Analyzes an image, and generates a user-friendly description based on its visual features.
-- **Text Recognition** - Extracts words from documents and images.
 - **Receipt Processing** - Extracts details from pictures of printed and handwritten receipts.
 
 ![AI Builder prebuilt models.](../media/7-ai-builder-prebuilt-models.jpg)

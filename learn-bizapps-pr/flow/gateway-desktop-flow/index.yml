@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-automate  
+ 
 title: Connect a cloud flow to desktop flows in Power Automate for desktop
 summary: |  
   [!include[](../includes/module-banner.md)] 

@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-automate  
+ 
 title: Integrate desktop flows with Outlook connector in Power Automate for desktop
 summary: |  
   [!include[](../includes/module-banner.md)] 

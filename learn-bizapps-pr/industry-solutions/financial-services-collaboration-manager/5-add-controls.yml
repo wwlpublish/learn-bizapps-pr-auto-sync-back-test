@@ -4,11 +4,11 @@ title: Add controls from Loan Tracker
 metadata:
   title: Add controls from Loan Tracker
   description: Practice embedding the Loan Application form from the Loan Tracker app within Collaboration Manager for Loans.
-  ms.date: 01/14/2022
+  ms.date: 08/19/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-mscloud-financial
+   
 durationInMinutes: 10
 content: |
  [!include[](../includes/unit-banner.md)]

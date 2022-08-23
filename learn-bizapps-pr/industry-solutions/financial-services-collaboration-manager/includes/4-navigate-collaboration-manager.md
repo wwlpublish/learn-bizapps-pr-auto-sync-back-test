@@ -6,7 +6,7 @@ In this exercise, you'll navigate Collaboration Manager for Loans and explore th
 
 1. To view the status of a loan, select its name from the list of loans. For this exercise, select **11223345** to view the loan for Hayden Reyes.
 
-   You will be directed to the **Summary** tab, where you can review the relevant information about the loan application.
+   You'll be directed to the **Summary** tab, where you can review the relevant information about the loan application.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the loan application Summary tab.](../media/summary.png)](../media/summary.png#lightbox)
@@ -23,7 +23,7 @@ The first tab that you'll explore that provides collaboration is the **Tasks** t
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the loan application Tasks tab.](../media/no-tasks.png)](../media/no-tasks.png#lightbox)
 
-1. To create a new task for the team, select **Add a task**.
+1. To create a new task for the team, select **Add a task** and select **For a member**.
 
 1. On the resulting dialog, provide specifics about the task and then assign it to the relevant people on the team. When you're done, select **Save**.
 
@@ -104,7 +104,7 @@ Follow these steps to create meetings in Collaboration Manager for Loans:
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the loan application on the Meetings tab showing both meetings added.](../media/meetings-added.png)](../media/meetings-added.png#lightbox)
 
-1. Because all meetings are backed by Outlook, you can navigate to Bookings or your Outlook Calendar to view all meetings in a single calendar.
+1. Because all meetings are backed by Outlook, you can navigate to Bookings, or your Outlook Calendar to view all meetings in a single calendar.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Bookings on the Calendar tab showing meetings.](../media/outlook.png)](../media/outlook.png#lightbox)
@@ -122,6 +122,9 @@ To create chats in Collaboration Manager for Loans, use the following procedure.
     > [![Screenshot of Microsoft Teams channel showing the Channel Conversations panel.](../media/chat.png)](../media/chat.png#lightbox)
 
 1. To create a new conversation in the channel, select **New conversation**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Microsoft Teams channel showing how to create a new conversation.](../media/chat-new-conversation.png)](../media/chat-new-conversation.png#lightbox)
 
 1. Provide a name for the conversation and then select the check mark icon.
 

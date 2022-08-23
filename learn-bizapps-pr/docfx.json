@@ -354,7 +354,10 @@
           "ai-builder/**/*.yml": ["Power Platform ", "AI Builder"]                               
       }
     },
-
+    "ms.service": {
+      "industry-solutions/**/*.yml": "industry",
+      "flow/**/*.yml": "power-automate"
+    },
     "template": [],
     "dest": "learn-bizapps-pr",
     "markdownEngineName": "markdig",
