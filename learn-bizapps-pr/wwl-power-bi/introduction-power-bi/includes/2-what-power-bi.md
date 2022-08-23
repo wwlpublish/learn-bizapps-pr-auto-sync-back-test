@@ -160,7 +160,7 @@ marketplace](https://app.powerbi.com/getdata/services) and on [Microsoft
 AppSource](https://appsource.microsoft.com/?product=power-bi). If you're
 interested in creating template apps yourself for distribution outside your
 organization, see [Create a template app in Power
-BI](/power-bi/connect-data/service-template-apps-create). 
+BI](/power-bi/connect-data/service-template-apps-create).
 
 ### Install a template app
 --------------------------
