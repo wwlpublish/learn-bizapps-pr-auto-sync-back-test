@@ -307,7 +307,7 @@ After you've cleaned your data into a usable format, you can begin to create
 powerful visuals in Power BI.
 
 For more information, see [Tutorial: Combine sales data from Excel and an OData
-feed](/power-bi/connect-data/desktop-tutorial-analyzing-sales-data-from-excel-and-an-odata-feed).
+feed ](/power-bi/desktop-tutorial-analyzing-sales-data-from-excel-and-an-odata-feed/).
 
 ## Work with aggregates in the Power BI service
 
