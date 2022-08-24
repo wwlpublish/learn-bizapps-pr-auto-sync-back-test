@@ -356,7 +356,8 @@
     },
     "ms.service": {
       "industry-solutions/**/*.yml": "industry",
-      "flow/**/*.yml": "power-automate"
+      "flow/**/*.yml": "power-automate",
+      "power-virtual-agents/**/*.yml": "power-virtual-agents"
     },
     "template": [],
     "dest": "learn-bizapps-pr",
