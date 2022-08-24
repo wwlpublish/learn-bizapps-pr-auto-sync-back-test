@@ -7,7 +7,7 @@ metadata:
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
- ms.prod: learning-ai-builder  
+  
 title: Identify the language of text with AI Builder
 summary: | 
   [!include[](../includes/module-banner.md)] 
