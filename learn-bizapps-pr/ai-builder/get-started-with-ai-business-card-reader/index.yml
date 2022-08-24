@@ -7,7 +7,7 @@ metadata:
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
- ms.prod: learning-ai-builder  
+  
 title: Extract information from business cards with AI Builder
 summary: |  
   [!include[](../includes/module-banner.md)] 
