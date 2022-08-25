@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
- ms.subservice: dataverse
+ ms.subservice: dataverse-developer
 title: Build your first app with Power Apps and Dataverse for Teams
 summary: |  
   [!include[](../includes/module-banner.md)] 
