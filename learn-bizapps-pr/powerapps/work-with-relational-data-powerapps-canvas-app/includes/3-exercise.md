@@ -98,7 +98,7 @@ For this exercise, we're going to create a shopping cart. We'll be using a paren
 1. On the second **Gallery**, change the **Text** property of the **Title** to the following:
 
     ``` powerappsfl
-    LookUp(ShoppingCart, ID=ThisItem.ProductID).Name
+    LookUp(Products, ID=ThisItem.ProductID).Name
     ```
 
 1. Change the **Text** property of the **Subtitle** to the following:
