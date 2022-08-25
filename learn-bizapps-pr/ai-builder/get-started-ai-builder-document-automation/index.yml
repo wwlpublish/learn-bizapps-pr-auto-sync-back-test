@@ -7,7 +7,7 @@ metadata:
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
- ms.prod: learning-ai-builder  
+  
 title: Automate the processing of documents with the AI Builder prepackaged solution
 summary: |  
   [!include[](../includes/module-banner.md)] 
