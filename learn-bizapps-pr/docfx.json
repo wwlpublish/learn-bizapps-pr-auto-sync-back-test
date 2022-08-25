@@ -358,7 +358,8 @@
       "ai-builder/**/*.yml": "aibuilder",
       "industry-solutions/**/*.yml": "industry",
       "flow/**/*.yml": "power-automate",
-      "power-virtual-agents/**/*.yml": "power-virtual-agents"
+      "power-virtual-agents/**/*.yml": "power-virtual-agents",
+      "powerapps/**/*.yml": "powerapps"
     },
     "template": [],
     "dest": "learn-bizapps-pr",
