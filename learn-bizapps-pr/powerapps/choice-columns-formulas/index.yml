@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips
  ms.author: jadaphillips
  ms.topic: interactive-tutorial
- ms.subservice: dataverse
+ ms.subservice: dataverse-developer
 title: Use Dataverse choice columns with formulas
 summary: |
   [!include[](../includes/module-banner.md)]
