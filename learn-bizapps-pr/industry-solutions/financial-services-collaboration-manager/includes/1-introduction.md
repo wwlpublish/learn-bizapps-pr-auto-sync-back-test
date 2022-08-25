@@ -1,4 +1,4 @@
-Collaboration Manager for Loans within Microsoft Cloud for Financial Services is built with the Banking data model, Collaboration Toolkit, and a loan manager solution:
+Collaboration Manager for Loans within Microsoft Cloud for Financial Services is built with the Banking data model, Collaboration controls, and a loan manager solution:
 
 - Publishing this combination of three solution layers creates the base version of Collaboration Manager for Loans. You can release this published version and use it in demo environments and in environments that support discover-try-buy scenarios.
 
@@ -14,11 +14,11 @@ Collaboration Manager for Loans within Microsoft Cloud for Financial Services is
 
 - A replacement business process flow that maps to the customer's loan process flow.
 
-By using this framework, your customers, partners, and system of record providers can build their own vision of Collaboration Manager.
+Your customers, partners, and system of record providers can use this framework and build their own vision of Collaboration Manager.
 
 ## Industry prioritized scenarios
 
-Collaboration Manager for Loans focuses on delivering a differentiated customer experience and empowering employees by enabling automation, collaboration, and communication to help accelerate lending processes, minimize errors, and enhance the customer experience.
+Collaboration Manager for Loans focuses on delivering a differentiated customer experience. It empowers employees by enabling automation, collaboration, and communication to help accelerate lending processes, minimize errors, and enhance the customer experience.
 
 > [!div class="mx-imgBorder"]
 > [![Diagram of Microsoft Cloud for Financial Services capabilities for retail banking.](../media/capabilities.png)](../media/capabilities.png#lightbox)

@@ -56,7 +56,7 @@ Before creating your customizations, you first need to create a solution to cont
    > [!div class="mx-imgBorder"]
    > [![Screenshot of save and publish the form.](../media/form-save-publish.png)](../media/form-save-publish.png#lightbox)
 
-## Task 2: Add Collaboration Toolkit experiences in the Loan Tracker form
+## Task 2: Add Collaboration controls experiences in the Loan Tracker form
 
 Now, you'll edit the **Loan tracker information form** so that it includes the **Tasks**, **Meetings**, and **Notes** tabs. 
 
@@ -142,7 +142,7 @@ Now, you'll edit the **Loan tracker information form** so that it includes the *
 
 1. Select **Publish**.
 
-1. You can now open Collaboration Manager for Loans in the Teams environment. All tabs from Loan Tracker and the collaborative tabs from Collaboration Toolkit should now display.
+1. You can now open Collaboration Manager for Loans in the Teams environment. All tabs from Loan Tracker and the collaborative tabs from Collaboration controls should now display.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Microsoft Teams with Collaboration Manager for Loans open in its channel and all Loan Tracker and collaborative tabs showing.](../media/all-tabs.png)](../media/all-tabs.png#lightbox)
