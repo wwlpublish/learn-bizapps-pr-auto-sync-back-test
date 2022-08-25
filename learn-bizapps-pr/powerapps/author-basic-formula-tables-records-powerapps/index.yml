@@ -7,7 +7,7 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial  
-  ms.prod: learning-powerapps  
+  
 title: Author a basic formula that uses tables and records in a Power Apps canvas app  
 summary: |
   [!include[](../includes/module-banner.md)]
