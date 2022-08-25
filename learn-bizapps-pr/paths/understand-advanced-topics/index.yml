@@ -1,14 +1,14 @@
 ### YamlMime:LearningPath
 uid: learn-bizapps.understand-advanced-topics
 metadata:
-  title: Master advanced formula techniques and custom updates
+  title: Use advanced formula techniques and custom updates in Power Platform
   description: Do you want to use formulas in a more advanced way? This learning path will help you use advanced formulas and perform custom updates.
   ms.date: 12/01/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: powerapps
-title: Master advanced formula techniques and custom updates
+title: Use advanced formula techniques and custom updates in Power Platform
 summary: |
   [!include[](../../includes/lp-banner.md)]
   Do you want to use formulas in a more advanced way? This learning path will help you use advanced formulas and perform custom updates.
