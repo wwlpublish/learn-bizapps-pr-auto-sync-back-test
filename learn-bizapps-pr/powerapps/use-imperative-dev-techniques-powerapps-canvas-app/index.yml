@@ -7,7 +7,7 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley 
   ms.topic: interactive-tutorial  
-  ms.prod: learning-powerapps  
+  ms.subservice: developer
 title: Use imperative development techniques for canvas apps in Power Apps 
 summary: |
   [!include[](../includes/module-banner.md)]

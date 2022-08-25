@@ -7,7 +7,8 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  ms.service: powerapps
+  ms.subservice: portals
 title: Create a canvas app in Power Apps
 video:
   title: "Create a Canvas App in Power Apps"

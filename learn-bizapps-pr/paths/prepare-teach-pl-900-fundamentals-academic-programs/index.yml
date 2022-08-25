@@ -3,7 +3,7 @@ uid: learn.wwl.prepare-teach-pl-900-fundamentals-academic-programs
 metadata:
   title: PL-900
   description: Prepare to teach PL-900 Microsoft Power Platform fundamentals in academic programs
-  ms.date: 07/12/2022
+  ms.date: 08/25/2022
   author: wwlpublish
   ms.author: tsheppard
   ms.topic: interactive-tutorial
@@ -13,7 +13,7 @@ prerequisites: |
   None
 summary: |
   Learn about the Microsoft Learn for Educators program and how to best deliver its content to your students. Prepare to deliver Microsoft’s Power Platform fundamentals.
-iconUrl: /learn/achievements/generic-trophy.svg
+iconUrl: /learn/achievements/prepare-teach-pl-900-fundamentals-academic-programs.svg
 levels:
 - beginner
 roles:

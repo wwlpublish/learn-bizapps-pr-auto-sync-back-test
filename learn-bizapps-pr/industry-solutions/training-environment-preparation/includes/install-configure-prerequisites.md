@@ -35,7 +35,7 @@ In this task, you'll create a Dynamics 365 Customer Service Trial Environment in
    :::image type="content" source="../media/customer-service-trial.png" alt-text="Screenshot of the customer service trial environment." lightbox="../media/customer-service-trial.png":::
 
 8. Update the name of the organization and the URL as preferred and click **Save**.
-   :::image type="content" source="../media/edit-details-save.png" alt-text="Screenshot of customer service trial environment edit details screen.":::
+   :::image type="content" source="../media/edit-details-save.png" alt-text="Screenshot of customer service trial environment edit details screen." :::
 
 
 ## Task 2: Install Customer Insights environment
@@ -183,7 +183,7 @@ In this step, you'll walk through the Microsoft Teams configuration settings to 
 
 **Congratulations!**  You have enabled Microsoft Teams integration for Dynamics 365.
 
-### Create Power Apps portal
+## Task 5: Create Power Apps portal
 
 In this task, you'll create a Power Apps Portal that will be used as a sample portal by the Customer onboarding capability.
 
@@ -212,6 +212,9 @@ In this task, you'll create a Power Apps Portal that will be used as a sample po
 
     Your portal will provision in the background. Proceed only after the portal provisioning completes.
 
-    :::image type="content" source="../media/portal-provision.png" alt-text="Screenshot of the portal provisioning process in the background.":::
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the pop-up with message that portal provisioning is in progress.](../media/portal-provision.png)](../media/portal-provision.png#lightbox)
+
+    
 
  
