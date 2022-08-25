@@ -55,7 +55,7 @@ In this task, you'll learn how to create a trial tenant along with the required 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the TIN registration number page.](../media/tin-registration-number.png)](../media/tin-registration-number.png#lightbox)
 
-Your Microsoft 365 tenant has been successfully created along with the Dynamics 365 Customer Engagement Plan license that includes a Microsoft Power Apps license as well.
+   **Congratulations!** Your Microsoft 365 tenant has been successfully created along with the Dynamics 365 Customer Service license that includes a Microsoft Power Apps license as well.
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the Confirmation details page.](../media/confirm.png)](../media/confirm.png#lightbox)
