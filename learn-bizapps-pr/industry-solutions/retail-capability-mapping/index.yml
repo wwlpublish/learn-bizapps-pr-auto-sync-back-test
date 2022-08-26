@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
-  
+ ms.subservice: retail
 title: Product capability mapping and training environment preparation for Microsoft Cloud for Retail
 summary: |
   [!include[](../includes/module-banner.md)]
