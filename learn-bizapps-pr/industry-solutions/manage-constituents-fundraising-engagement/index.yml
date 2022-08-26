@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
-  
+ ms.subservice: nonprofit 
 title: Manage constituents in Fundraising and Engagement for Microsoft Cloud for Nonprofit
 summary: |  
   [!include[](../includes/module-banner.md)] 
