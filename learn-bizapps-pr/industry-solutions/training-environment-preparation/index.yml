@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
-  
+ ms.subservice: financial 
 title: Financial Services training environment preparation
 summary: |
   [!include[](../includes/module-banner.md)]
