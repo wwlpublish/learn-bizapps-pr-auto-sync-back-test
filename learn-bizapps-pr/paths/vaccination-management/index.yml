@@ -8,6 +8,7 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: industry
+  ms.subservice: healthcare
 title:  Get up and running quickly with Microsoft Vaccination Management
 summary: |
   [!include[](../../includes/lp-banner.md)]
