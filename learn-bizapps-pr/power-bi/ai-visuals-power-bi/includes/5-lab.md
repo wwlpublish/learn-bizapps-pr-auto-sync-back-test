@@ -98,7 +98,7 @@ In this task you'll set up the environment for the lab by creating a dataset.
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Power B I Local File tile.](../media/lab-1-c-ssm.png)](../media/lab-1-c-ssm.png#lightbox)
 
-1. In the **Open** window, navigate to the **D:\DA100\Labs\create-power-bi-dashboard\Solution** folder.
+1. In the **Open** window, navigate to the **D:\PL300\Labs\create-power-bi-dashboard\Solution** folder.
 
 1. Select the **Sales Analysis.pbix** file, and then select **Open**.
 
@@ -126,7 +126,7 @@ In this task you will create the **Sales Exploration** report.
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the File menu expanded and the Save option highlighted.](../media/lab-1-d-ssm.png)](../media/lab-1-d-ssm.png#lightbox)
 
-1. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
+1. In the **Save As** window, navigate to the **D:\PL300\MySolution** folder.
 
 1. In the **File Name** box, enter **Sales Exploration**.
 
