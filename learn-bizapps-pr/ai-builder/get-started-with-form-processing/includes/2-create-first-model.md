@@ -58,8 +58,6 @@ Select **+ New column**, enter the column name **Item total**.
 ![Screenshot of Single Page Table 3.](../media/single-page-table-03.jpg)
 
 
-![Animated screenshot of the Power Automate Choose information to extract page adding two columns on the Tables tab.](../media/forms-choose-information-2.gif)
-
 ## Define collections and upload documents
 
 A collection is a group of documents that share the same layout. Create as many collections as documents with different layout that you want your model to process. In this guided experience, since we have two invoice providers, and each invoice provider uses a different invoice template we define two collections.
@@ -73,8 +71,6 @@ Name the first collection **Adatum** and the second collection **Contoso**.
 ![Screenshot of New Collection 1.](../media/new-collection-01.jpg)
 
 ![Screenshot of New Collection 2.](../media/new-collection-02.jpg)
-
-![Animated screenshot of the Power Automate Add collections of documents page adding two document collections.](../media/form-processing-add-collections.gif)
 
 Now that we have created our two collections we will need to upload at least five samples for each collection.
 
@@ -101,8 +97,6 @@ Select 5 documents from your local device and select upload documents. Those 5 u
 Once the 5 documents are uploaded to your collection Adatum, you can repeat these steps above for the collection Contoso.
 
 For the collection names **Contoso**, upload the five documents you will find on the **AI Builder Document processing Sample Data/Contoso/Train** folder.
-
-![Animated screenshot of the Power Automate Add collections of documents page uploading five documents to each collection.](../media/form-processing-add-collections-2.gif)
 
 Once you have uploaded the sample documents to each collection click **Next** to continue.
 
