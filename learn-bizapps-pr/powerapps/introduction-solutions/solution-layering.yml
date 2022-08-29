@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-solutions.solution-layering 
+title: What is solution layering?
+metadata: 
+  title: What is solution layering?
+  description: Learn about solution layering.
+  ms.date: 08/31/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: interactive-tutorial 
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/solution-layering.md)] 
