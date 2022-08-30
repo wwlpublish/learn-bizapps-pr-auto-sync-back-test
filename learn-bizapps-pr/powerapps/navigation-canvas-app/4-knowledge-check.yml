@@ -4,15 +4,15 @@ metadata:
   title: Navigation in a canvas app in Power Apps knowledge check
   description: Navigation in a canvas app in Power Apps knowledge check
   ms.date: 08/30/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
 title: Check your knowledge
 durationInMinutes: 6
 quiz:
   title: Navigation in a canvas app in Power Apps knowledge check
   questions:
-  - content: In Power Apps, the Back () Function sends the user to what screen?
+  - content: In Power Apps, the Back Function sends the user to what screen?
     choices:
     - content: A hard-coded screen.
       isCorrect: false
@@ -23,7 +23,7 @@ quiz:
     - content: The previous screen the user navigated from.
       isCorrect: true
       explanation: Power Apps sends the user to the previous screen.
-    - content: Back() is not a valid function.
+    - content: Back is not a valid function.
       isCorrect: false
       explanation: Power Apps sends the user to the previous screen.
   - content: Which of the following ScreenTransitions is NOT an option to choose from when using the Navigate function?
