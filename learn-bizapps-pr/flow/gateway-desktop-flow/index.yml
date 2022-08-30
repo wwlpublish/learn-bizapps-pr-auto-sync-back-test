@@ -33,7 +33,6 @@ subjects:
 units:
 - learn-bizapps.gateway-desktop-flow.1-introduction 
 - learn-bizapps.gateway-desktop-flow.2-setup 
-- learn-bizapps.gateway-desktop-flow.3-gateway-connection 
 - learn-bizapps.gateway-desktop-flow.4-cloud-flow 
 - learn-bizapps.gateway-desktop-flow.5-cloud-desktop 
 - learn-bizapps.gateway-desktop-flow.6-test-connection 

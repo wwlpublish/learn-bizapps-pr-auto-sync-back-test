@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "learn-bizapps-pr/flow/gateway-desktop-flow/3-gateway-connection.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/gateway-desktop-flow/",
+      "redirect_document_id⁯": false
+    },
+    {
       "source_path": "learn-bizapps-pr/flow/create-immersive-flow/5-summary.md",
       "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
       "redirect_document_id⁯": false
