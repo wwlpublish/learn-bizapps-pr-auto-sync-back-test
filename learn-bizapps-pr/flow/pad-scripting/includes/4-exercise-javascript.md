@@ -4,7 +4,7 @@ In this exercise, you'll create a flow that calculates the last day of the curre
 
     ![Screenshot of the Power Automate for desktop Build a flow dialog.](..\media\second-exercise-new-flow.png)
 
-1. Under **Actions**, search for **get current**. Then click on **Get current date and time**.
+1. Under **Actions**, search for **get current**. Then select **Get current date and time**.
 
     ![Screenshot of the Power Automate for desktop Get current date and time action.](..\media\first-exercise-get-current-time.png)
 
@@ -20,7 +20,7 @@ In this exercise, you'll create a flow that calculates the last day of the curre
 
     ![Screenshot of the Power Automate for desktop Set new variable action.](..\media\set-new-variables.png)
 
-    Next, click on **{x}** and under **Flow variables**, **CurrentDateTime** select **.Month**. Click on **Select**.
+    Next, select **{x}** and under **Flow variables**, **CurrentDateTime** select **.Month**. Click on **Select**.
 
     ![Screenshot of the Power Automate for desktop Set variable action with variable NewVar.](..\media\run-javascript-set-month-variable.png)
 
@@ -28,7 +28,7 @@ In this exercise, you'll create a flow that calculates the last day of the curre
 
     ![Screenshot of the Power Automate for desktop Set year variable action.](..\media\run-javascript-set-year-variable.png)
 
-    ![Screenshot of the Power Automate for desktop Set variable action.](..\media\second-exercise-set-variable-actions.png)
+    ![Screenshot of the Power Automate for desktop Set variable month and year action.](..\media\second-exercise-set-variable-actions.png)
 
 1. Search for **run java** under **Actions** and double-click on **Run JavaScript**.
 
@@ -54,7 +54,7 @@ In this exercise, you'll create a flow that calculates the last day of the curre
 
     ![Screenshot of the Power Automate for desktop Convert text to datetime action.](..\media\second-exercise-convert-text-to-datetime-action.png)
 
-1. Reconvert the datetime value to text using the **Convert datetime to text** action. We are deploying this action to create a custom format of the date.
+1. Reconvert the datetime value to text using the **Convert datetime to text** action. We're deploying this action to create a custom format of the date.
 
     ![Screenshot of the Power Automate for desktop Convert datetime to text action.](..\media\second-exercise-convert-datetime-totext-action.png)
 

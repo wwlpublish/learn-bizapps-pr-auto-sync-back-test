@@ -60,7 +60,7 @@ In this exercise, you'll create a flow that calculates how many overtime hours e
 
 1. This is a good time to save the flow you have built so far. 
     
-    ![Screenshot of the Power Automate for desktop Run VBScript action.](..\media\save-flow.png)
+    ![Screenshot of the save flow button.](..\media\save-flow.png)
 
 1. The return value of the **Run VBScript** action is a text value. Use a **Convert text to number** action to convert it to a number.
 
