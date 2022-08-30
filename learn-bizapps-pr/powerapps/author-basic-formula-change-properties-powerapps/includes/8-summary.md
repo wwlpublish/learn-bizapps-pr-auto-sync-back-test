@@ -15,9 +15,7 @@ your app. Some important items to remember are:
 -   Each control type has a unique set of properties. Use these
     properties to modify the functionality and format of controls.
 
--   Use the validation functions (**IsBlank**, **IsBlankOrError**, **IsEmpty**,
-    **IsNumeric**, **IsToday**, and **IsMatch**) to prevent errors and
-    prevent slowdowns in the processing of the data.
+-   Use the validation functions (including **IsBlank**, **IsBlankOrError**, **IsEmpty**, **IsNumeric**, **IsToday**, and **IsMatch**) to prevent errors and prevent slowdowns in the processing of the data.
 
 The next module will focus on how to use basic formulas to make behavior
 changes to enhance your app.

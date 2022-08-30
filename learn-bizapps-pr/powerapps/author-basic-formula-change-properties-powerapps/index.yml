@@ -3,9 +3,9 @@ uid: learn-bizapps.author-basic-formula-change-properties-powerapps
 metadata: 
   title: Create formulas to change properties in a Power Apps canvas app
   description: Want to enhance or customize your Power Apps canvas app? You can use easy-to-write formulas to make changes in your app that include changing the format or position of controls, do simple math calculations, or implement conditional formatting in your design.
-  ms.date: 07/30/2021  
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/30/2022  
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial  
   
 title: Create formulas to change properties in a Power Apps canvas app  
