@@ -7,7 +7,8 @@ metadata:
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  ms.service: powerapps 
+  ms.subservice: mda-maker 
 title: How to build a model-driven app
 summary: Learn how you can leverage Power Apps to create model-driven apps with little or no code.
 abstract: |

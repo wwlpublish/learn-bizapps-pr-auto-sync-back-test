@@ -360,7 +360,11 @@
       "flow/**/*.yml": "power-automate",
       "power-bi/**/*.yml": "powerbi",
       "power-virtual-agents/**/*.yml": "power-virtual-agents",
-      "powerapps/**/*.yml": "powerapps"
+      "powerapps/**/*.yml": "powerapps",
+      "wwl/**/*.yml": "powerapps",
+      "wwl-power-apps/**/*.yml": "powerapps",
+      "wwl-power-automate/**/*.yml": "power-automate",
+      "wwl-power-bi/**/*.yml": "powerbi"
     },
     "template": [],
     "dest": "learn-bizapps-pr",

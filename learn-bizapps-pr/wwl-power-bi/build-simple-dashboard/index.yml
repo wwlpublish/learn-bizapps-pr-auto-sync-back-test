@@ -7,7 +7,7 @@ metadata:
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-apps
+  ms.service: power-bi 
 title: How to build a dashboard
 summary: Power BI helps business users and developers alike to easily analyze, visualize, and collaborate on data. This module will teach you how to do all of that without effecting your underlying dataset.
 abstract: |

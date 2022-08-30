@@ -7,7 +7,8 @@ metadata:
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-apps
+  ms.service: powerapps 
+  ms.subservice: canvas-maker
 title: How to build a canvas app
 summary: Power Apps allows businesses to create custom solutions for everyday problems. In this module, you will learn how to build and customize a canvas app from scratch.
 abstract: |
