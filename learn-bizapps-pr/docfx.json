@@ -358,6 +358,7 @@
       "ai-builder/**/*.yml": "aibuilder",
       "industry-solutions/**/*.yml": "industry",
       "flow/**/*.yml": "power-automate",
+      "power-bi/**/*.yml": "powerbi",
       "power-virtual-agents/**/*.yml": "power-virtual-agents",
       "powerapps/**/*.yml": "powerapps"
     },
