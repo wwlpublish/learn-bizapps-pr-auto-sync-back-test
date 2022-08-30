@@ -42,7 +42,7 @@ The flow has already been configured to run when you receive an email with an at
 
 Congratulations! You’ve built an intelligent automation flow. You can then customize the flow to your needs to perform any other action you may want.
 
-##Use your model in Power Apps
+### Use your model in Power Apps
 
 Now that your model is published, you can use your Document processing model in a canvas app. A special component is available for you to add that analyzes any image and extracts the text based on your trained Document processing mode.
 
