@@ -15,7 +15,7 @@ In this exercise, you'll create a flow that calculates how many overtime hours e
 
     ![Search for launch under actions.](..\media\search-launch-actions.png)
 
-    Add the **Launch Excel** action to the workspace and configure it to launch the **Employees.xlsx** file.
+1. Add the **Launch Excel** action to the workspace and configure it to launch the **Employees.xlsx** file.
 
     ![Screenshot of the Power Automate for desktop Launch Excel action.](..\media\first-exercise-launch-excel-action.png)
 
@@ -23,7 +23,7 @@ In this exercise, you'll create a flow that calculates how many overtime hours e
 
     ![Screenshot of the Power Automate for desktop Get first search in actions.](..\media\get-first-action.png)
 
-    Use the **Get first free column/row from Excel worksheet** action to find the first free row in the file.
+1. Use the **Get first free column/row from Excel worksheet** action to find the first free row in the file.
 
     ![Screenshot of the Power Automate for desktop Get first free column/row from Excel worksheet action.](..\media\first-exercise-get-first-free-column-row-from-excel-worksheet-action.png)
 
@@ -31,11 +31,11 @@ In this exercise, you'll create a flow that calculates how many overtime hours e
 
     ![Screenshot of the Power Automate for desktop Loop action in search results.](..\media\loop-action.png)
 
-    In **Start from**, manually type in **1**. In **End to**, click on **{X}**, then select **FirstFreeRow**.
+1. In **Start from**, manually type in **1**. In **End to**, click on **{X}**, then select **FirstFreeRow**.
 
     ![Screenshot of the first free row variable.](..\media\excel-first-free-row.png)
 
-    Update the **End to** formula as shown below. Finally, in **Increment by**, add **1**.
+1. Update the **End to** formula as shown below. Finally, in **Increment by**, add **1**.
 
     ![Screenshot of the Power Automate for desktop Loop action.](..\media\first-exercise-loop-action.png)
 
@@ -50,11 +50,11 @@ In this exercise, you'll create a flow that calculates how many overtime hours e
 
 1. Under **Actions** search for **run vbs** and drag-and-drop **Run VBScript** below **Read from Excel worksheet**
 
-    In **VBScript to run** type **result=**, then select the **{X}** and select **TotalHours** and then **Save**.
+1. In **VBScript to run** type **result=**, then select the **{X}** and select **TotalHours** and then **Save**.
 
     ![Screenshot of the Power Automate for desktop Run V B Script action.](..\media\add-total-hours.png)
 
-    Complete the rest of the script as shown below.
+1. Complete the rest of the script as shown below.
 
     ![Screenshot of the Power Automate for desktop Run VBScript action.](..\media\first-exercise-run-vbscript-action.png)
 

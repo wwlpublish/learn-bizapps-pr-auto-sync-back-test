@@ -16,15 +16,15 @@ In this exercise, you'll create a flow that calculates the last day of the curre
 
     ![Screenshot of the Power Automate for desktop Set variable action.](..\media\run-javascript-set-variables.png)
 
-    Double-click on the default **NewVar** and change it to **Month**. 
+1. Double-click on the default **NewVar** and change it to **Month**. 
 
     ![Screenshot of the Power Automate for desktop Set new variable action.](..\media\set-new-variables.png)
 
-    Next, select **{x}** and under **Flow variables**, **CurrentDateTime** select **.Month**. Click on **Select**.
+1. Next, select **{x}** and under **Flow variables**, **CurrentDateTime** select **.Month**. Click on **Select**.
 
     ![Screenshot of the Power Automate for desktop Set variable action with variable NewVar.](..\media\run-javascript-set-month-variable.png)
 
-    Follow the same steps to add the **Year** variable as well.
+1. Follow the same steps to add the **Year** variable as well.
 
     ![Screenshot of the Power Automate for desktop Set year variable action.](..\media\run-javascript-set-year-variable.png)
 
@@ -34,15 +34,15 @@ In this exercise, you'll create a flow that calculates the last day of the curre
 
     ![Screenshot of the Power Automate for desktop Run JavaScript action.](..\media\run-javascript.png)
 
-    In the **JavaScript to run**, type in **var month =**, then click on **{x}**, select **%Month%** and then click on the **Select** button. Then add **;**.
+1. In the **JavaScript to run**, type in **var month =**, then click on **{x}**, select **%Month%** and then click on the **Select** button. Then add **;**.
 
     ![Screenshot of the Power Automate for desktop Run JavaScript add month action.](..\media\run-javascript-add-month.png)
 
     ![Screenshot of the Power Automate for desktop Run JavaScript action with parameter set to month.](..\media\month-parameter.png)
 
-    In a new line type in **var d = new Date(** then click on **{x}**, select **%Year%** and then click on the **Select** button. Then add **, month,0);**.
+1. In a new line type in **var d = new Date(** then click on **{x}**, select **%Year%** and then click on the **Select** button. Then add **, month,0);**.
 
-    In a new line type in **WScript.Edcho(d);**.
+1. In a new line type in **WScript.Edcho(d);**.
 
     ![Screenshot of the Power Automate for desktop Run JavaScript action parameters.](..\media\second-exercise-run-javascript-action.png)
 
