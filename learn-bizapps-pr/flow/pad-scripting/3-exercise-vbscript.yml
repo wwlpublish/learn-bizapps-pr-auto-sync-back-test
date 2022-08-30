@@ -4,11 +4,10 @@ title: Exercise - Calculate modulo with VBScript
 metadata: 
   title: Exercise - Calculate modulo with VBScript
   description: Exercise - Calculate modulo with VBScript
-  ms.date: 11/06/2020 
+  ms.date: 08/30/2022 
   author: mariosleon  
   ms.author: marleon  
-  ms.topic: interactive-tutorial 
-  
+  ms.topic: interactive-tutorial   
 durationInMinutes: 10 
 content: | 
  [!include[](../includes/unit-banner.md)] 
