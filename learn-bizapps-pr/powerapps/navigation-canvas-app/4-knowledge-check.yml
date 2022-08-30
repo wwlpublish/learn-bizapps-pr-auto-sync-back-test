@@ -23,32 +23,32 @@ quiz:
     - content: The previous screen the user navigated from.
       isCorrect: true
       explanation: Power Apps sends the user to the previous screen.
-    - content: Back is not a valid function.
+    - content: Back isn't a valid function.
       isCorrect: false
       explanation: Power Apps sends the user to the previous screen.
   - content: Which of the following ScreenTransitions is NOT an option to choose from when using the Navigate function?
     choices:
     - content: ScreenTransition.Cover
       isCorrect: false
-      explanation: ScreenTransition.Wipe is not an option available with the Navigate function.
+      explanation: ScreenTransition.Wipe isn't an option available with the Navigate function.
     - content: ScreenTransition.Fade
       isCorrect: false
-      explanation: ScreenTransition.Wipe is not an option available with the Navigate function.
+      explanation: ScreenTransition.Wipe isn't an option available with the Navigate function.
     - content: ScreenTransition.UnCover
       isCorrect: false
-      explanation: ScreenTransition.Wipe is not an option available with the Navigate function.
+      explanation: ScreenTransition.Wipe isn't an option available with the Navigate function.
     - content: ScreenTransition.Wipe
       isCorrect: true
-      explanation: ScreenTransition.Wipe is not an option available with the Navigate function.
+      explanation: ScreenTransition.Wipe isn't an option available with the Navigate function.
   - content: In certain scenarios you might create screens, but not build navigation to these screens, what is the purpose of doing this?
     choices:
-    - content: To give other co-editors or owners insight around how the app was built in case additional changes are needed later.
+    - content: To give other co-editors or owners insight around how the app was built in case more changes are needed later.
       isCorrect: false
       explanation: All of these are reasons to hide screens.
     - content: To create Documentation about the app.
       isCorrect: false
       explanation: All of these are reasons to hide screens.
-    - content: To keep track of certain settings, formatting, and or colors used in your app so they are easy to find.
+    - content: To keep track of certain settings, formatting, and or colors used in your app so they're easy to find.
       isCorrect: false
       explanation: All of these are reasons to hide screens.
     - content: All of these are reasons to have Hidden screens.
