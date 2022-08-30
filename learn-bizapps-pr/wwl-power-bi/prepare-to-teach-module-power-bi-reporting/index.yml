@@ -7,7 +7,7 @@ metadata:
   author: wwlpublish
   ms.author: bgeoffro
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure
+  ms.service: power-bi 
 title: 'Prepare to teach the module: Power BI reporting'
 summary: Explain, demonstrate, and deliver to your Data Analyst customers the course “Power BI paginated reports in a day” that shows how to create, publish, and distribute Power BI paginated reports to their organization.
 abstract: |

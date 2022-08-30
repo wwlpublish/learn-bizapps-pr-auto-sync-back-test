@@ -7,7 +7,7 @@ metadata:
   author: wwlpublish
   ms.author: bgeoffro
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure
+  ms.service: power-bi 
 title: 'Prepare to teach the module: Design report layouts'
 summary: Explain, demonstrate, and deliver to your Data Analyst customers the “Designing report layouts” module of the instructor-led course “Power BI paginated reports”.
 abstract: |

@@ -7,7 +7,7 @@ metadata:
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-apps
+  ms.service: powerapps   
 title: Introduction to Power Apps
 summary: Learn about the value and capabilities of Power Apps and ways other organizations have leveraged this technology to build simple applications for their business.
 abstract: |

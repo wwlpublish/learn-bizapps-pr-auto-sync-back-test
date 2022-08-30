@@ -7,7 +7,7 @@ metadata:
   author: wwlpublish
   ms.author: bgeoffro
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerbi
+  ms.service: power-bi 
 title: 'Prepare to teach the module: Map learning to Power BI'
 summary: Deliver the “Mapping Learning to Power BI” module of instructor-led course “Modern Excel Analyst in a day” and extend student’s Excel skills to Power BI Desktop and Power BI Service.
 abstract: |

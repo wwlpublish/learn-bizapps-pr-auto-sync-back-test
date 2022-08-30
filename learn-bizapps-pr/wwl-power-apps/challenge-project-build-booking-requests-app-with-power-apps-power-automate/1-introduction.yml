@@ -9,7 +9,7 @@ metadata:
   author: Randall-Knapp
   ms.author: chsims
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+   
 durationInMinutes: 2
 content: |
   [!include[](includes/1-introduction.md)]
