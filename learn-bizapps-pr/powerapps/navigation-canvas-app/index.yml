@@ -1,41 +1,39 @@
-### YamlMime:Module 
-uid: learn-bizapps.navigation-canvas-app 
-metadata: 
+### YamlMime:Module
+uid: learn-bizapps.navigation-canvas-app
+metadata:
   title: Navigation in a canvas app in Power Apps
   description: App users can only navigate through the navigation options provided by an app developer, and this module is designed to help you build a good navigation experience for your canvas app.
-  ms.date: 11/20/2020  
-  author: DaveBeasley
-  ms.author: dbeasley  
-  ms.topic: interactive-tutorial  
-  
-title: Navigation in a canvas app in Power Apps 
+  ms.date: 08/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: interactive-tutorial
+title: Navigation in a canvas app in Power Apps
 summary: |
   [!include[](../includes/module-banner.md)]
-
-  App users can only navigate through the navigation options provided by an app developer, and this module is designed to help you build a good navigation experience for your canvas app. 
-abstract: |  
-    In this module, you will: 
+  App users can only navigate through the navigation options provided by an app developer, and this module is designed to help you build a good navigation experience for your canvas app.
+abstract: |
+    In this module, you will:
     - Understand how navigation works in a canvas app
     - Use the Navigate and Back functions
     - Understand the different ways these functions can be invoked
-prerequisites: A basic understanding of how to create a Power Apps canvas app and some experience working with controls in Power Apps is helpful but not required.     
-iconUrl: /learn/achievements/navigation-canvas-app.svg  
-levels:  
-- intermediate   
-roles:  
-- functional-consultant  
-- maker  
-products:  
+prerequisites: A basic understanding of how to create a Power Apps canvas app and some experience working with controls in Power Apps is helpful but not required.
+iconUrl: /learn/achievements/navigation-canvas-app.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- maker
+products:
 - power-platform
 - power-apps
 subjects:
 - custom-app-development
 units:
-- learn-bizapps.navigation-canvas-app.1-understand-navigation 
-- learn-bizapps.navigation-canvas-app.2-navigate-back-function 
+- learn-bizapps.navigation-canvas-app.1-understand-navigation
+- learn-bizapps.navigation-canvas-app.2-navigate-back-function
 - learn-bizapps.navigation-canvas-app.3a-exercise-create-navigation-functions
-- learn-bizapps.navigation-canvas-app.3-more-ways-to-use-navigate-function 
-- learn-bizapps.navigation-canvas-app.4-knowledge-check 
-- learn-bizapps.navigation-canvas-app.5-summary 
-badge: 
+- learn-bizapps.navigation-canvas-app.3-more-ways-to-use-navigate-function
+- learn-bizapps.navigation-canvas-app.4-knowledge-check
+- learn-bizapps.navigation-canvas-app.5-summary
+badge:
   uid: learn-bizapps.navigation-canvas-app.badge
