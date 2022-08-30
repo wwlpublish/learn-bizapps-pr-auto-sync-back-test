@@ -7,7 +7,7 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-apps
+  ms.service: power-platform 
 title: Introduction to Microsoft Power Platform
 summary: |
   [!include[](../../includes/power-pages-banner.md)]
