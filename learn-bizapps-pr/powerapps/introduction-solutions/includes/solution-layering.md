@@ -1,6 +1,6 @@
 Solution layering is implemented at a component level. The video below gives an overview of the two distinct layers, managed and unmanaged solutions. They exist at different layers within a Microsoft Dataverse environment.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE55vcX]
 
 In Dataverse, there are two distinct layers.
 
@@ -27,3 +27,5 @@ In Dataverse, there are two distinct layers.
 All imported unmanaged solutions and ad-hoc customizations exist at this layer. All unmanaged solutions share a single unmanaged layer.
 
 There are components that have a merge behavior such as sitemaps and forms. Meaning each layer is merged to produce the runtime behavior as opposed to last layer wins.
+
+Learn more about [solution layering](https://docs.microsoft.com/en-us/power-platform/alm/solution-layers-alm)
