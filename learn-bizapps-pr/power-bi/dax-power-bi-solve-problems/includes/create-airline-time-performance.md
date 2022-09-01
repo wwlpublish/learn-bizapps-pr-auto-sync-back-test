@@ -17,7 +17,7 @@ The report that you'll create will resemble the following image.
 
 ## Task 1: Retrieve the data
 
-To retrieve an extract of flight statistics for fiscal year 2022, download the **[FightDataFY2022.csv](https://github.com/MicrosoftDocs/mslearn-dax-power-bi/raw/main/activities/FlightDataFY2022.csv)** file. Be sure to save it to a location that you'll remember.
+To retrieve an extract of flight statistics for fiscal year 2022, download the **[FlightDataFY2022.csv](https://github.com/MicrosoftDocs/mslearn-dax-power-bi/raw/main/activities/FlightDataFY2022.csv)** file. Be sure to save it to a location that you'll remember.
 
 If you open the file in a text editor, such as Notepad, the first row will contain column names.
 
