@@ -1,17 +1,17 @@
-The Power Platform allows teams to leverage common continuous integration and continuous deployment (CI/CD) patterns with unmanaged and managed solutions. This module will cover a common anti-pattern developers follow when beginning development for the Power Platform, followed by a more optimal approach. 
+The Power Platform allows teams to apply common continuous integration and continuous deployment (CI/CD) patterns with unmanaged and managed solutions. This module will cover a common anti-pattern developers follow when beginning development for the Power Platform, followed by a more optimal approach. 
 
 The most common pattern seen historically when working with a solution is the development and deployment of unmanaged solutions. As seen in the graphic below, this pattern leads to an unhealthy state in the production environment as more solutions are added over time. 
 
 > [!div class="mx-imgBorder"]
 > [![Demonstration of the common pattern developers follow when deploying a new unmanaged solution.](../media/common-pattern.gif)](../media/common-pattern.gif#lightbox)
 
-In the early phases of development, the use of unmanaged solutions for deployment is common for decreasing deployment times and reducing perceived complexity. Teams often place their development changes into a new unmanaged solution for deployment to production. Over time, the addition of new unmanaged solutions to speed releases leads to a multitude of unmanaged solutions in production. Eventually leading to a state where a production environment is no longer in a healthy state causing maintainability and supportability to suffer. This pattern also leads teams to miss the opportunity to leverage source control, solution layering, and efficiencies gained when using managed solutions for deployment, which will be discussed in the following section.  
+In the early phases of development, the use of unmanaged solutions for deployment is common for decreasing deployment times and reducing perceived complexity. Teams often place their development changes into a new unmanaged solution for deployment to production. Over time, the addition of new unmanaged solutions to speed releases leads to a multitude of unmanaged solutions in production. Eventually leading to a state where a production environment is no longer in a healthy state causing maintainability and supportability to suffer. This pattern also leads teams to miss the opportunity to use source control, solution layering, and efficiencies gained when using managed solutions for deployment, which will be discussed in the following section.  
 
 Pitfalls: 
 
-When new unmanaged solutions are used for each deployment, it is not possible to leverage source control for solutions. 
+When new unmanaged solutions are used for each deployment, it is not possible to apply source control for solutions. 
 
-Improvements in deployment times are marginal when compared to a healthy deployment pattern leveraging managed solutions, solution segmentation, and source control as the definitive source of truth.  
+Improvements in deployment times are marginal when compared to a healthy deployment pattern applying managed solutions, solution segmentation, and source control as the definitive source of truth.  
 
 ## A better pattern for team development
 
