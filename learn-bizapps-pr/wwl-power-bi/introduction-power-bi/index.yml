@@ -7,7 +7,7 @@ metadata:
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-apps
+  ms.service: power-bi 
 title: Introduction to Power BI
 summary: Learn how you can leverage Power BI to easily build reports and dashboards with interactive visualizations and see how other organizations have used this solution to drive business results with actionable insights.
 abstract: |

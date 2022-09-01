@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
-  
+ ms.subservice: healthcare 
 title: Microsoft Cloud for Healthcare data model
 summary: |
   [!include[](../includes/module-banner.md)]

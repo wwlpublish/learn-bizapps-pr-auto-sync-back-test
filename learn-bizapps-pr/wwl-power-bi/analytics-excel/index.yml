@@ -7,7 +7,7 @@ metadata:
   author: wwlpublish
   ms.author: bgeoffro
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerbi
+  ms.service: power-bi 
 title: 'Prepare to teach the module: Analytics in Excel'
 summary: Deliver the “Analytics in Excel” module of instructor-led course “Modern Excel Analyst in a day” to your Data Analyst customers covering Excel tools including Power Query, Power Pivot, relationships, measures, slicers, and conditional formatting.
 abstract: |
