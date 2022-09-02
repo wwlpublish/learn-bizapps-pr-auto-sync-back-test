@@ -352,7 +352,7 @@
           "flow/**/*.yml": ["Power Platform ", "Power Automate"],                               
           "wwl-power-automate/**/*.yml": ["Power Platform ", "Power Automate"],                               
           "ai-builder/**/*.yml": ["Power Platform ", "AI Builder"]                               
-      }
+      },
       "ms.service": {
         "ai-builder/**/*.yml": "aibuilder",
         "industry-solutions/**/*.yml": "industry",
