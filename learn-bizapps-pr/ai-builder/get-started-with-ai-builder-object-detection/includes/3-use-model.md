@@ -27,12 +27,12 @@ Now that your model is published, you can use your Object detection model in a c
 
 3. Make sure that you are signed into the flow and then select **Continue** to confirm the creation of the flow.
 
-![Screenshot of Use Your Model 2.](../media/use-your-model-02.jpg)
+   ![Screenshot of Use Your Model 2.](../media/use-your-model-02.jpg)
  
 
-The flow has already been configured to run when you receive an email with an attachment and the email subject is: AI Builder. Let's see it in action!
+   The flow has already been configured to run when you receive an email with an attachment and the email subject is: AI Builder. Let's see it in action!
 
-![Screenshot of Use Your Model 3.](../media/use-your-model-03.jpg)
+   ![Screenshot of Use Your Model 3.](../media/use-your-model-03.jpg)
 
 4. Select **Save** on the top right to test the flow.
 5. Select **Test**.
@@ -54,9 +54,9 @@ Now that your model is published, you can use your Document processing model in 
 
 3. Within your canvas app, a Form processor component is automatically added and linked to your published Document processing model.
 
-Going forward, you can select **Insert > AI Builder** to view the list of AI Builder components and then select **Form processor** to add a Form processor component. Make sure that you select the correct model. Only published models will appear in the drop-down list.
+   Going forward, you can select **Insert > AI Builder** to view the list of AI Builder components and then select **Form processor** to add a Form processor component. Make sure that you select the correct model. Only published models will appear in the drop-down list.
 
-![Screenshot of Use Your Model 4.](../media/use-your-model-04.jpg)
+   ![Screenshot of Use Your Model 4.](../media/use-your-model-04.jpg)
 
 
 4. Select **Insert** and then add a **Label** component.
@@ -65,10 +65,9 @@ Going forward, you can select **Insert > AI Builder** to view the list of AI Bui
 
 6. To choose a field to display, select one of the names from the **Fields** property. If you want to select table content, select one of the names from the **Tables** property.
 
- ![Screenshot of Use Your Model 6.](../media/use-your-model-06.jpg)
+   ![Screenshot of Use Your Model 6.](../media/use-your-model-06.jpg)
 
-
-7.Select **Play** on the upper right of the Power Apps studio to preview the app.
+7. Select **Play** on the upper right of the Power Apps studio to preview the app.
 Select **Analyze** and then select the image that you used to quick test previously.
 
-A preview of your document shows the detected fields and the values that were detected for the fields that you chose.
+   A preview of your document shows the detected fields and the values that were detected for the fields that you chose.
