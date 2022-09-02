@@ -1,4 +1,4 @@
-The following procedures will show you how to create a Document processing model in AI Builder. This guided experience will walk through each step of the model creation process. You can save your work and return at any time. Progress will be saved automatically when you go between steps.
+The following procedures show you how to create a Document processing model in AI Builder. This guided experience walks through each step of the model creation process. You can save your work and return at any time. Progress will be saved automatically when you move between steps.
 
 ## Sign in to AI Builder
 
@@ -12,17 +12,17 @@ Follow these steps to sign in to AI Builder:
 
 ## Choose document type
 
-In this step you select the type of document you want to build an AI model to automate data extraction. There are two options:
+Select the type of document you want to build an AI model to automate data extraction. There are two options:
 
 - **Structured and semi-structured documents**. Structured and semi-structured documents are those where for a given layout, the fields, tables, checkboxes, and other items can be found in similar places. Examples of structured and semi-structured documents are invoices, purchase orders, delivery orders, tax documents, etc.
 
 - **Unstructured and free-form documents**. Unstructured documents are those where there is no set structure, usually free documents with a varying number of paragraphs. Examples of unstructured documents are contracts, statements of work, letters, etc.
 
-![Screenshot of the AI Builder Choose document type page where to choose between structured or unstructured documents.](../media/document-processing-choose-document-type.png)
+![Screenshot of the AI Builder "Choose document type" page where to choose between structured or unstructured documents.](../media/document-processing-choose-document-type.png)
 
 ## Choose information to extract
 
-In this step you define the fields and tables you want to teach your model how to extract.
+In this step, define the fields and tables you want to teach your model how to extract.
 
 The provided sample data in [English version](https://go.microsoft.com/fwlink/?linkid=2128080) or in [Japanese version](https://go.microsoft.com/fwlink/?linkid=2186887) are invoices from two different providers. Define the following fields to extract:
 
@@ -33,7 +33,7 @@ The provided sample data in [English version](https://go.microsoft.com/fwlink/?l
 
 Select **+ Add** and then select **Field**.
 
-![Screenshot of the Power Automate Choose information to extract page adding four fields on the Fields tab.](../media/add-field.jpg)
+![Screenshot of the Power Automate "Choose information to extract" page adding four fields on the Fields tab.](../media/add-field.jpg)
 
 Enter the field name **Invoice Number** and click **Done**, repeat this step for **Due Date**, **Total amount**, and **Customer ID**.
 
@@ -41,25 +41,25 @@ Enter the field name **Invoice Number** and click **Done**, repeat this step for
 
 These are the fields that the model will learn how to extract from the document.
 
-![Screenshot of the Power Automate Choose information to extract page about four fields name to be extracted from the document.](../media/define-field-02.jpg)
+![Screenshot of the Power Automate "Choose information to extract" page about four fields name to be extracted from the document.](../media/define-field-02.jpg)
 
 We also want to extract the description and total amount for each line item present on the invoice. Define a table names **Items** and with the columns **Description** and **Item total**.
 
 Select **Add** + and then **Add Single page table**, and then **Next**.
 
-![Screenshot of the Power Automate Choose information to extract page adding a single Page Table item.](../media/single-page-table-01.jpg)
+![Screenshot of the Power Automate "Choose information to extract" page adding a single Page Table item.](../media/single-page-table-01.jpg)
 
 Define as table name **Items** and define the columns **Description** and **Item total**. 
 Select **Column1** and then rename **Column1 by Description**.
 Select **+ New column**, enter the column name **Item total**.
 
-![Screenshot of the Power Automate Choose information to extract page defining a table name items and renaming the column name.](../media/single-page-table-02.jpg)
+![Screenshot of the Power Automate "Choose information to extract" page defining a table name items and renaming the column name.](../media/single-page-table-02.jpg)
 
-![Screenshot of Single Page Table 3.](../media/single-page-table-03.jpg)
+![Screenshot of the Single Page Table.](../media/single-page-table-03.jpg)
 
 ## Define collections and upload documents
 
-A collection is a group of documents that share the same layout. Create as many collections as documents with different layout that you want your model to process. In this guided experience, since we have two invoice providers, and each invoice provider uses a different invoice template we define two collections.
+A collection is a group of documents that share the same layout. Create as many collections as documents with different layout that you want your model to process. Since we have two invoice providers, and each invoice provider uses a different invoice template, we define two collections.
 
 Select **New Collection** and change the name of the first collection to **Adatum**.  
 
@@ -67,31 +67,31 @@ Name the first collection **Adatum** and the second collection **Contoso**.
 
 ![Screenshot of the Power Automate Add collections of documents page selecting new collection.](../media/new-collection.jpg)
 
-![Screenshot of the Power Automate Add collections of documents page selecting a new collection and changing its name.](../media/new-collection-01.jpg)
+![Screenshot of the Power Automate "Add collections of documents" page selecting a new collection and changing its name.](../media/new-collection-01.jpg)
 
-![Screenshot of the Power Automate Add collections of documents page selecting a second collection and changing its name.](../media/new-collection-02.jpg)
+![Screenshot of the Power Automate "Add collections of documents" page selecting a second collection and changing its name.](../media/new-collection-02.jpg)
 
-Now that we have created our two collections we will need to upload at least five samples for each collection.
+Now that we have created our two collections, we will need to upload at least five samples for each collection.
 
 For the collection named **Adatum**, upload the five documents you will find on the **AI Builder Document processing Sample Data/Adatum/Train** folder.
 
 Select the **+** icon in each collection.
 
-![Screenshot of the Power Automate Add collections of documents page selecting a collection Adatum.](../media/adatum-add-documents-01.jpg)
+![Screenshot of the Power Automate "Add collections of documents" page selecting a collection Adatum.](../media/adatum-add-documents-01.jpg)
 
 Select **Add documents**, and select **My device** as a data source.
 
-![Animated screenshot of the Power Automate Add collections of documents page selecting Add documments.](../media/adatum-add-documents-02.jpg)
+![Animated screenshot of the Power Automate "Add collections of documents" page selecting Add documments.](../media/adatum-add-documents-02.jpg)
 
-![Screenshot of the Power Automate Add collections of documents Add documents page selecting my device as a data source.](../media/adatum-add-documents-03.jpg)
+![Screenshot of the Power Automate "Add collections of documents", "Add documents" page selecting my device as a data source.](../media/adatum-add-documents-03.jpg)
 
 Select 5 documents from your local device and select upload documents. Those 5 uploaded documents will be used to train your model.
 
-![Screenshot of the Power Automate Add collections of documents with 5 documents selected from a data source.](../media/adatum-add-documents-04.jpg)
+![Screenshot of the Power Automate "Add collections of documents" page with 5 documents selected from a data source.](../media/adatum-add-documents-04.jpg)
 
-![Screenshot of the Power Automate Add collections of documents page uploading 5 documents from a data source to be used to train a model.](../media/adatum-add-documents-05.jpg)
+![Screenshot of Power Automate "Add collections of documents" page uploading 5 documents from a data source to be used to train a model.](../media/adatum-add-documents-05.jpg)
 
-![Screenshot of the Power Automate Add collections of documents showing a document in a collection.](../media/adatum-add-documents-06.jpg)
+![Screenshot of Power Automate "Add collections of documents" page showing a document in a collection.](../media/adatum-add-documents-06.jpg)
 
 Once the 5 documents are uploaded to your collection Adatum, you can repeat these steps above for the collection Contoso.
 
@@ -109,11 +109,11 @@ To start the tagging process, select a collection on the right panel.
 
 Let’s start by tagging our defined fields **Invoice number**, **Due date**, **Total amount**, and **Customer ID**. To tag a field, simply draw a rectangle around the field on the document and select the field name it corresponds to.
 
-![Screenshot of the Power Automate Tag documents page drawing a rectangle around a field.](../media/tag-field-01.jpg)
+![Screenshot of the Power Automate "Tag documents" page drawing a rectangle around a field.](../media/tag-field-01.jpg)
 
-![Screenshot of the Power Automate Tag documents page selecting a field name.](../media/tag-field-02.jpg)
+![Screenshot of the Power Automate "Tag documents" page selecting a field name.](../media/tag-field-02.jpg)
 
-![Screenshot of the Power Automate Tag documents page showing a field name selected.](../media/tag-field-03.jpg)
+![Screenshot of the Power Automate "Tag documents" page showing a field name selected.](../media/tag-field-03.jpg)
 
 At anytime you can resize to adjust your selection.
 
@@ -133,37 +133,37 @@ To tag a table:
 
 1.	Draw a rectangle around the table in the document you are interested in, and then select the table name that it corresponds to. 
 
-![Screenshot of the Power Automate Tag documents page drawing a rectangle around a table.](../media/new-tag-table-01.jpg)
+![Screenshot of the Power Automate "Tag documents" page drawing a rectangle around a table.](../media/new-tag-table-01.jpg)
 
 The content of the panel on the right will change.
 
-![Screenshot of the Power Automate Tag documents page showing the right panel that have changed.](../media/new-tag-table-02.jpg)
+![Screenshot of the Power Automate "Tag documents" page showing the right panel that have changed.](../media/new-tag-table-02.jpg)
 
 2.	Draw rows by left clicking between row separators.
 
-![Screenshot of the Power Automate Tag documents page drawing rows by left clicking between row separators.](../media/new-tag-table-03.jpg)
+![Screenshot of the Power Automate "Tag documents" page drawing rows by left clicking between row separators.](../media/new-tag-table-03.jpg)
 
-![Screenshot of the Power Automate Tag documents page showing row separated.](../media/new-tag-table-04.jpg)
+![Screenshot of the Power Automate "Tag documents" page showing row separated.](../media/new-tag-table-04.jpg)
 
 3.	Draw columns by pressing Ctrl + left-click (or ⌘  leff-click on MacOS) .
 
-![Screenshot of the Power Automate Tag documents page drawing columns by pressing ctrl + left-click.](../media/new-tag-table-05.jpg)
+![Screenshot of the Power Automate "Tag documents" page drawing columns by pressing ctrl + left-click.](../media/new-tag-table-05.jpg)
 
 4.	Once the rows and columns have been set, assign the headers to extract by selecting the header column and mapping it to the desired one.
 
-![Screenshot of the Power Automate Tag documents page assigning and selecting header on the first column.](../media/new-tag-table-06.jpg)
+![Screenshot of the Power Automate "Tag documents" page assigning and selecting header on the first column.](../media/new-tag-table-06.jpg)
 
-![Screenshot of the Power Automate Tag documents page assigning and selecting header on the second column..](../media/new-tag-table-07.jpg)
+![Screenshot of the Power Automate "Tag documents" page assigning and selecting header on the second column.](../media/new-tag-table-07.jpg)
 
 5.	A preview of how the table will be extracted appears on the panel on the right.
 
-![Screenshot of the Power Automate Tag documents page showing a preview of how the table will be extracted.](../media/new-tag-table-08.jpg)
+![Screenshot of the Power Automate "Tag documents" page showing a preview of how the table will be extracted.](../media/new-tag-table-08.jpg)
 
 6.	If the header of the table has been tagged, select Ignore first row so the header of the table isn't extracted as the table content.
 
-![Screenshot of the Power Automate Tag documents page ignoring the first row of the table that has been tagged.](../media/new-tag-table-09.jpg)
+![Screenshot of the Power Automate "Tag documents" page ignoring the first row of the table that has been tagged.](../media/new-tag-table-09.jpg)
 
-![Screenshot of the Power Automate Tag documents page with the first row of the header ignored.](../media/new-tag-table-10.jpg)
+![Screenshot of the Power Automate "Tag documents" page with the first row of the header ignored.](../media/new-tag-table-10.jpg)
 
 
 ### Tag all documents
@@ -172,7 +172,7 @@ Once you have finished tagging one document, move to the next one to tag by clic
 
 Once you have finished tagging one collection, navigate back to the collection list to tag the second collection.
 
-![Screenshot of the Power Automate Tag documents navigating back to the collection list.](../media/tag-table-05.jpg)
+![Screenshot of the Power Automate "Tag documents" navigating back to the collection list.](../media/tag-table-05.jpg)
 
 ## Summary and train
 
