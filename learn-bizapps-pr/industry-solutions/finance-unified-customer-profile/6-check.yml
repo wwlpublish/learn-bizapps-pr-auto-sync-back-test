@@ -45,7 +45,7 @@ quiz:
     choices: 
     - content: Birthday
       isCorrect: false
-      explanation: Most information in Unified customer profile comes from financial core systems, and Birthday is not an editable scenario.
+      explanation: Most information in Unified customer profile comes from financial core systems, and Birthday isn't an editable scenario.
     - content: Employment
       isCorrect: false 
       explanation: Most information in Unified customer profile comes from financial core systems, and Employment isn't an editable scenario.
