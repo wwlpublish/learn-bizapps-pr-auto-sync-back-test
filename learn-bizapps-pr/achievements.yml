@@ -1,5 +1,10 @@
 ### YamlMime:Achievements
 achievements:
+- uid: learn-bizapps.microsoft-vaccination-management-overview.badge
+  type: badge
+  title: Microsoft Vaccination Management overview
+  summary: Microsoft Vaccination Management overview
+  iconUrl: /learn/achievements/microsoft-vaccination-management-overview-social.png
 - uid: learn-bizapps.create-immersive-flow.badge
   type: badge
   title: Create an immersive business process flow in Power Automate
