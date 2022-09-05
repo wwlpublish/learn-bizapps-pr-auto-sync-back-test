@@ -38,9 +38,9 @@ quiz:
     - content: Banking information
       isCorrect: false 
       explanation: Banking information is not included on the Summary tab of Unified customer profile. 
-    - content: Financial holdings
+    - content: Loan applications
       isCorrect: false 
-      explanation: Financial holdings is not included on the Summary tab of Unified customer profile. 
+      explanation: Loan applications is not included on the Summary tab of Unified customer profile. 
   - content: Which one of the following areas is typically editable in Unified customer profile?
     choices: 
     - content: Birthday
