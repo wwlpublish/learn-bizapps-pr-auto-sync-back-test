@@ -17,30 +17,30 @@ quiz:
     choices: 
     - content: Fraud protection
       isCorrect: false
-      explanation: Fraud protection is not included as a key capability of Unified customer profile. 
+      explanation: Fraud protection isn't included as a key capability of Unified customer profile. 
     - content: Relationship connections
       isCorrect: true 
       explanation: Relationship connections are included as a key capability of Unified customer profile. 
     - content: Compliance needs
       isCorrect: false 
-      explanation: Compliance needs is not included as a key capability of Unified customer profile. 
+      explanation: Compliance needs isn't included as a key capability of Unified customer profile. 
     - content: Account protection
       isCorrect: false 
-      explanation: Account protection is not included as a key capability of Unified customer profile. 
+      explanation: Account protection isn't included as a key capability of Unified customer profile. 
   - content: Which one of the following options is included on the Summary tab of Unified customer profile?
     choices: 
     - content: Account snapshot
       isCorrect: false
-      explanation: Account snapshot is not included on the Summary tab of Unified customer profile. 
+      explanation: Account snapshot isn't included on the Summary tab of Unified customer profile. 
     - content: Life events
       isCorrect: true 
       explanation: Life events are included on the Summary tab of Unified customer profile. 
     - content: Banking information
       isCorrect: false 
-      explanation: Banking information is not included on the Summary tab of Unified customer profile. 
-    - content: Financial holdings
+      explanation: Banking information isn't included on the Summary tab of Unified customer profile. 
+    - content: Loan applications
       isCorrect: false 
-      explanation: Financial holdings is not included on the Summary tab of Unified customer profile. 
+      explanation: Loan applications isn't included on the Summary tab of Unified customer profile. 
   - content: Which one of the following areas is typically editable in Unified customer profile?
     choices: 
     - content: Birthday
@@ -48,13 +48,13 @@ quiz:
       explanation: Most information in Unified customer profile comes from financial core systems, and Birthday is not an editable scenario.
     - content: Employment
       isCorrect: false 
-      explanation: Most information in Unified customer profile comes from financial core systems, and Employment is not an editable scenario.
+      explanation: Most information in Unified customer profile comes from financial core systems, and Employment isn't an editable scenario.
     - content: Life events
       isCorrect: true 
       explanation: Most information in Unified customer profile comes from financial core systems, but Life events are editable scenarios.
     - content: Residence
       isCorrect: false 
-      explanation: Most information in Unified customer profile comes from financial core systems, and Residence is not an editable scenario.
+      explanation: Most information in Unified customer profile comes from financial core systems, and Residence isn't an editable scenario.
   - content: Can you add new controls to Unified customer profile?
     choices: 
     - content: Yes
