@@ -5,6 +5,51 @@ achievements:
   title: Microsoft Vaccination Management overview
   summary: Microsoft Vaccination Management overview
   iconUrl: /learn/achievements/microsoft-vaccination-management-overview-social.png
+- uid: learn-bizapps.cloud-licensing.badge
+  type: badge
+  title: Microsoft Cloud Solution Center and licensing
+  summary: Microsoft Cloud Solution Center and licensing
+  iconUrl: /learn/achievements/cloud-licensing-social.png
+- uid: learn-bizapps.frontline-worker-app.badge
+  type: badge
+  title: Microsoft Vaccination Management Frontline worker app
+  summary: Microsoft Vaccination Management Frontline worker app
+  iconUrl: /learn/achievements/frontline-worker-app-social.png
+- uid: learn-bizapps.registration-booking-process.badge
+  type: badge
+  title: Registration and booking process in Microsoft Vaccination Management
+  summary: Registration and booking process in Microsoft Vaccination Management
+  iconUrl: /learn/achievements/registration-booking-process-social.png
+- uid: learn-bizapps.vaccination-environment-prep.badge
+  type: badge
+  title: Microsoft Vaccination Management environment preparation
+  summary: Microsoft Vaccination Management environment preparation
+  iconUrl: /learn/achievements/vaccination-environment-prep-social.png
+- uid: learn-bizapps.data-setup-vaccination-management-app.badge
+  type: badge
+  title: Data setup with the Vaccination management app
+  summary: Data setup with the Vaccination management app
+  iconUrl: /learn/achievements/data-setup-vaccination-management-app-social.png
+- uid: learn-bizapps.post-deployment-configuration.badge
+  type: badge
+  title: Microsoft Vaccination Management post-deployment configuration
+  summary: Microsoft Vaccination Management post-deployment configuration
+  iconUrl: /learn/achievements/post-deployment-configuration-social.png
+- uid: learn-bizapps.vaccination-dashboard.badge
+  type: badge
+  title: Use the Microsoft Vaccination Management Dashboard
+  summary: Use the Microsoft Vaccination Management Dashboard
+  iconUrl: /learn/achievements/vaccination-dashboard-social.png
+- uid: learn-bizapps.create-immersive-flow.badge
+  type: badge
+  title: Create an immersive business process flow in Power Automate
+  summary: Create an immersive business process flow in Power Automate
+  iconUrl: /learn/achievements/create-immersive-flow-social.png
+- uid: learn.vaccination-management.trophy
+  type: trophy
+  title: Get up and running quickly with Microsoft Vaccination Management
+  summary: Get up and running quickly with Microsoft Vaccination Management
+  iconUrl: /learn/achievements/vaccination-management-social.png
 - uid: learn-bizapps.create-immersive-flow.badge
   type: badge
   title: Create an immersive business process flow in Power Automate
