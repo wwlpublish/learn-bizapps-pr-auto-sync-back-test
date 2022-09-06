@@ -8,7 +8,7 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-   
+  ms.subservice: retail
 durationInMinutes: 6
 content: |
  [!include[](../includes/unit-banner.md)]
