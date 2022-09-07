@@ -79,22 +79,22 @@ Follow the module [Get started with Form processing in AI Builder](/learn/module
 You can customize the way emails are processed by selecting **View Solution**.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of Power Automate Document automation page with the View solution button in the Custom documents section.](../media/3-select.png)](../media/3-select.png#lightbox)
+> [![Screenshot of Power Automate Document automation page with the View solution button in the Custom documents section.](../media/3-select.jpg)](../media/3-select.jpg#lightbox)
 
 1. Select "Document automation base kit."
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Power Automate Solutions page with the Document automation base kit selected.](../media/3-solutions.png)](../media/3-solutions.png#lightbox)
+    > [![Screenshot of Power Automate Solutions page with the Document automation base kit selected.](../media/3-solutions.jpg)](../media/3-solutions.jpg#lightbox)
 
 1. Then select “Document Automation Email Importer” and **Edit** in the top banner.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Power Automate My flows page with the Document Automation Email Importer open.](../media/3-importer.png)](../media/3-importer.png#lightbox)
+    > [![Screenshot of Power Automate My flows page with the Document Automation Email Importer open.](../media/3-importer.jpg)](../media/3-importer.jpg#lightbox)
 
 1. You are in the authoring experience of the email importer flow. Here you can configure the email rules to filter on the specific emails that you want to process. You must keep the “include attachments” property set to “Yes” as this flow takes the document on attachment as the document to be processed. But you can configure filters on the topic, senders, and so on, based on your needs.  
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the settings in the "When a new email arrives" step that flows into the "For each attachment" step.](../media/3-email.png)](../media/3-email.png#lightbox)
+    > [![Screenshot of the settings in the "When a new email arrives" step that flows into the "For each attachment" step.](../media/3-email.jpg)](../media/3-email.jpg#lightbox)
 
 ## Configuring the model to use
 
