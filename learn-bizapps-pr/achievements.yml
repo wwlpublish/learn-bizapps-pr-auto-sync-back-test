@@ -40,11 +40,6 @@ achievements:
   title: Use the Microsoft Vaccination Management Dashboard
   summary: Use the Microsoft Vaccination Management Dashboard
   iconUrl: /learn/achievements/vaccination-dashboard-social.png
-- uid: learn-bizapps.create-immersive-flow.badge
-  type: badge
-  title: Create an immersive business process flow in Power Automate
-  summary: Create an immersive business process flow in Power Automate
-  iconUrl: /learn/achievements/create-immersive-flow-social.png
 - uid: learn.vaccination-management.trophy
   type: trophy
   title: Get up and running quickly with Microsoft Vaccination Management
