@@ -4,7 +4,7 @@ Learn how to use your Object detection model in Power Apps.
 
 After your model has completed training, you can view important details about your newly trained model on a details page.
 
-![Screenshot of Use Your Model 1.](../media/use-your-model-01.jpg)
+![Screenshot of your newly trained model details page.](../media/use-your-model-01.jpg)
 
 To see your model in action, select **Quick test**.
 
@@ -27,12 +27,12 @@ Now that your model is published, you can use your Object detection model in a c
 
 3. Make sure that you are signed into the flow and then select **Continue** to confirm the creation of the flow.
 
-   ![Screenshot of Use Your Model 2.](../media/use-your-model-02.jpg)
+   ![Screenshot of triggers that your flow will connect to.](../media/use-your-model-02.jpg)
  
 
    The flow has already been configured to run when you receive an email with an attachment and the email subject is: AI Builder. Let's see it in action!
 
-   ![Screenshot of Use Your Model 3.](../media/use-your-model-03.jpg)
+   ![Screenshot of sample flow illustrating how to use your newly trained model.](../media/use-your-model-03.jpg)
 
 4. Select **Save** on the top right to test the flow.
 5. Select **Test**.
@@ -46,7 +46,7 @@ Congratulations! You’ve built an intelligent automation flow. You can then cus
 
 Now that your model is published, you can use your Document processing model in a canvas app. A special component is available for you to add that analyzes any image and extracts the text based on your trained Document processing mode.
 
-![Screenshot of Use Your Model 5.](../media/use-your-model-05.jpg)
+![Screenshot of your Document processing model published in Power Apps.](../media/use-your-model-05.jpg)
  
 1. Select **Use model**.
 
@@ -56,7 +56,7 @@ Now that your model is published, you can use your Document processing model in 
 
    Going forward, you can select **Insert > AI Builder** to view the list of AI Builder components and then select **Form processor** to add a Form processor component. Make sure that you select the correct model. Only published models will appear in the drop-down list.
 
-   ![Screenshot of Use Your Model 4.](../media/use-your-model-04.jpg)
+   ![Screenshot of published models appearing in the drop-down list in Power Apps.](../media/use-your-model-04.jpg)
 
 
 4. Select **Insert** and then add a **Label** component.
@@ -65,7 +65,7 @@ Now that your model is published, you can use your Document processing model in 
 
 6. To choose a field to display, select one of the names from the **Fields** property. If you want to select table content, select one of the names from the **Tables** property.
 
-   ![Screenshot of Use Your Model 6.](../media/use-your-model-06.jpg)
+   ![Screenshot of a field name in the Fields property in Power Apps.](../media/use-your-model-06.jpg)
 
 7. Select **Play** on the upper right of the Power Apps studio to preview the app.
 Select **Analyze** and then select the image that you used to quick test previously.
