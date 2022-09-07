@@ -19,16 +19,17 @@ X and the Y property.
 -   **Y** - The distance between the top edge of a control and the top
     edge of the screen.
 
-The **X** and **Y** properties apply to all controls except screens.
-Incorporating this functionality gives you more control over how
-information is displayed and consumed by users.
+As previously mentioned, the **X** and **Y** properties apply to all controls except screens. Incorporating this functionality gives you more control over how information is displayed and consumed by users.
 
-1.  Add a **Dropdown** control to your canvas app.
+1.  From the **Insert** tab under **Input**, add a **Dropdown** control to your canvas app.
 
-1.  Select **Dropdown** and change the **Items** property from **DropDownSample** to Table({Position:"Top"},{Position:"Bottom"},{Position:"Middle"})
+1.  Change the **Items** property on your dropdown from **DropDownSample** to the following:
 
-1.  On the **Insert** tab, click **Icons** and select the **Check**
-    icon.
+    ~~~
+    Table({Position:"Top"},{Position:"Bottom"},{Position:"Middle"})
+    ~~~
+
+1.  On the **Insert** tab, select the **Icons** drop down, then select the **Check** icon.
 
 1.  Set the **Y** property for the **Check** icon.
 
@@ -39,3 +40,5 @@ information is displayed and consumed by users.
 
 1.  Test the formula. Select each position from the drop-down menu.
     Notice that the **Check** icon changes its Y position.
+
+Changing properties in your control allows you to modify how other controls function. Doing this provides you a great way to shape your user experience.  In the next module we'll learn how to further enhance your app by applying conditional formatting.
