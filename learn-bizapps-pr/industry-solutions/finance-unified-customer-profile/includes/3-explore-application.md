@@ -12,7 +12,7 @@ In this exercise, you'll launch the Unified customer profile application and the
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Unified customer profile app selected.](../media/unified-customer-profile-app.png)](../media/unified-customer-profile-app.png#lightbox)
 
-1. The app should launch in a new tab and the **Contacts** view will open, showing a list of all contacts.
+1. The app should launch in a new tab and the **All Contacts** view will open, showing a list of all contacts.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the contacts view.](../media/contacts-view.png)](../media/contacts-view.png#lightbox)
