@@ -9,7 +9,7 @@ metadata:
   author: Randall-Knapp
   ms.author: chsims
   ms.topic: interactive-tutorial
-   
+  ms.subservice: canvas-maker
 durationInMinutes: 1
 content: |
   [!include[](includes/2-prepare.md)]

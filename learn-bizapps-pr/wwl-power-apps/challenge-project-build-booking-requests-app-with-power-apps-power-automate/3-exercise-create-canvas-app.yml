@@ -9,7 +9,7 @@ metadata:
   author: Randall-Knapp
   ms.author: chsims
   ms.topic: interactive-tutorial
-   
+  ms.subservice: canvas-maker
 durationInMinutes: 30
 content: |
   [!include[](includes/3-exercise-create-canvas-app.md)]
