@@ -65,6 +65,18 @@ The features available in the validation application by each persona are summari
     > [!div class="mx-imgBorder"]
     > [![Manage User Roles dialog with list of selectable roles.](../media/3-manage-user-roles.png)](../media/3-manage-user-roles.png#lightbox)
 
+1. Select the **3 ... dots on the top banner** and Select **System Views**.
+    > [!div class="mx-imgBorder"]
+    > [![Select 3 dots on the top banner.](../media/select-system-views.png)](../media/select-system-views.png#lightbox)
+
+1. On the **left pane** > Select **Security Roles** > Select **System Customizer**.
+    > [!div class="mx-imgBorder"]
+    > [![Select Security Roles entity from the left pane.](../media/select-security-roles.png)](../media/select-security-roles.png#lightbox)
+
+1. Select **Business Management** Tab > **Security Role** >  Enable the privilege **Business Unit** for **Create** and **Write** > **Save and Close**.
+    > [!div class="mx-imgBorder"]
+    > [![Select Business Unit prvilege to Create and Write for the security role.](../media/select-business-unit.png)](../media/select-business-unit.png#lightbox)
+
 ## Create a form processing model
 
 The next step is to create a Form Processing model that will extract the data from your document with AI Builder.
@@ -79,22 +91,22 @@ Follow the module [Get started with Form processing in AI Builder](/learn/module
 You can customize the way emails are processed by selecting **View Solution**.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of Power Automate Document automation page with the View solution button in the Custom documents section.](../media/3-select.jpg)](../media/3-select.jpg#lightbox)
+> [![Screenshot of Power Automate Document automation page with the View solution button in the Custom documents section.](../media/3-select.png)](../media/3-select.png#lightbox)
 
 1. Select "Document automation base kit."
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Power Automate Solutions page with the Document automation base kit selected.](../media/3-solutions.jpg)](../media/3-solutions.jpg#lightbox)
+    > [![Screenshot of Power Automate Solutions page with the Document automation base kit selected.](../media/3-solutions.png)](../media/3-solutions.png#lightbox)
 
 1. Then select “Document Automation Email Importer” and **Edit** in the top banner.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Power Automate My flows page with the Document Automation Email Importer open.](../media/3-importer.jpg)](../media/3-importer.jpg#lightbox)
+    > [![Screenshot of Power Automate My flows page with the Document Automation Email Importer open.](../media/3-importer.png)](../media/3-importer.png#lightbox)
 
 1. You are in the authoring experience of the email importer flow. Here you can configure the email rules to filter on the specific emails that you want to process. You must keep the “include attachments” property set to “Yes” as this flow takes the document on attachment as the document to be processed. But you can configure filters on the topic, senders, and so on, based on your needs.  
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the settings in the "When a new email arrives" step that flows into the "For each attachment" step.](../media/3-email.jpg)](../media/3-email.jpg#lightbox)
+    > [![Screenshot of the settings in the "When a new email arrives" step that flows into the "For each attachment" step.](../media/3-email.png)](../media/3-email.png#lightbox)
 
 ## Configuring the model to use
 
