@@ -16,12 +16,12 @@ For more information, see the following links:
 
 For additional information, see the following links:
 
--   [Quickstart: Create and deploy a bot in Microsoft Teams - Power Virtual Agents | Microsoft Docs](/power-virtual-agents/teams/fundamentals-get-started-teams/?azure-portal=true)
+-   [Quickstart: Create and deploy a Power Virtual Agents bot in Microsoft Teams](/power-virtual-agents/teams/fundamentals-get-started-teams/?azure-portal=true)
 
 -   [Virtual Agents: Microsoft Teams integration](https://www.youtube.com/watch?v=PrrdVBpA_dc&feature=youtu.be/?azure-portal=true)
 
 -   [Quick build HR, IT, and any kind of Teams FAQ bot with Power Virtual Agents](https://powervirtualagents.microsoft.com/blog/quickly-build-a-microsoft-teams-faq-bot-with-power-virtual-agents/?azure-portal=true)
 
--   [Power Virtual Agents Teams](https://aka.ms/PVAForTeams/?azure-portal=true) to install Power Virtual Agents Teams app or search for Power Virtual Agents in Teams app store.
+-   [Power Virtual Agents for Teams](https://aka.ms/PVAForTeams/?azure-portal=true) to install Power Virtual Agents Teams app or search for Power Virtual Agents in Teams app store.
 
 -   [Build Teams bots](https://aka.ms/PVAinaDayPackage/?azure-portal=true) for hands-on training in building Microsoft Teams bot with Power Virtual Agents.
