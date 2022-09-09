@@ -25,11 +25,11 @@ Use these resources to discover more.
 > [!TIP]
 > To open a resource link, right-click and select "Open in a new tab or window". That way, you can check out the resource and easily return to the module tab to unlock your achievement when done.
 
-### Review additional Power Automate documentation
+### Additional documentation
 
 - [Power Automate Documentation](/flow/)
 
-### Additional Learn Modules
+### Additional training resources
 
 - [Get started with Power Automate](/learn/modules/get-started-with-flow/)
 
