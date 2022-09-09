@@ -1,4 +1,4 @@
-You might want to add more descriptive details to your facility. You can add a custom field to the existing **Facility** form to achieve this objective. 
+You might want to add more descriptive details about your facility. To do so, you can add a custom field to the existing **Facility** form. 
 
 In this exercise, you create a field in a table and add that field to an existing form.
 
