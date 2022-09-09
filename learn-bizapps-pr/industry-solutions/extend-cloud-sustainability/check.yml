@@ -13,7 +13,7 @@ durationInMinutes: 6
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: Customers use Microsoft Sustainability Manager output with data from financial operations to create extensive reports for their stakeholders. Which of the following Power BI extensions can help them achieve this goal?
+  - content: A customer wants to use Microsoft Sustainability Manager output with data from financial operations to create extensive reports for their stakeholders. Which of the following Power BI extensions can help them achieve this goal?
     choices: 
     - content: Add a custom Power BI report
       isCorrect: true 
@@ -27,7 +27,7 @@ quiz:
     - content: Create a Power Automate notification
       isCorrect: false 
       explanation: Incorrect. A Power Automate notification allows customers to automate tasks, get or send notifications, and track the completion of tasks.
-  - content: Customers want to track various attributes about their facility. How can they accomplish this task?
+  - content: A customer wants to track various attributes of their facility. How can they accomplish this task?
     choices: 
     - content: Add a custom Power BI report
       isCorrect: false 
@@ -41,7 +41,7 @@ quiz:
     - content: Create a Power Automate notification
       isCorrect: false 
       explanation: Incorrect. A Power Automate notification allows customers to automate tasks, get or send notifications, and track the completion of tasks.
-  - content: Customers want to create a notification workflow. Which of the following services should they use?
+  - content: A customer wants to create a notification workflow. Which of the following services should they use?
     choices: 
     - content: Power BI
       isCorrect: false 
