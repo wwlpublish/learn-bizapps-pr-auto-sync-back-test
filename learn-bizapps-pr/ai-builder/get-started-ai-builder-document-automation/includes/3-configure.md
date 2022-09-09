@@ -77,6 +77,18 @@ The features available in the validation application by each persona are summari
     > [!div class="mx-imgBorder"]
     > [![Select Business Unit prvilege to Create and Write for the security role.](../media/select-business-unit.png)](../media/select-business-unit.png#lightbox)
 
+1. Select the 3 dots on the top banner and Select System Views
+    > [!div class="mx-imgBorder"]
+    > [![Select Business Unit prvilege to Create and Write for the security role.](../media/select-system-view.jpg)](../media/select-system-view.jpg#lightbox)
+
+1. On the left pane > Select Security Roles > Select System Customizer
+    > [!div class="mx-imgBorder"]
+    > [![Select Business Unit prvilege to Create and Write for the security role.](../media/select-security-roles.jpg)](../media/select-security-roles.jpg#lightbox)
+
+1. Select **Business Management** Tab > **Security Role** >  and enable the privilege **Business Unit** for **Create and Write** > **Save and Close**
+    > [!div class="mx-imgBorder"]
+    > [![Select Business Unit prvilege to Create and Write for the security role.](../media/select-business-unit.jpg)](../media/select-business-unit.jpg#lightbox)
+
 ## Create a form processing model
 
 The next step is to create a Form Processing model that will extract the data from your document with AI Builder.
