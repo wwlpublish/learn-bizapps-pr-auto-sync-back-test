@@ -77,18 +77,6 @@ The features available in the validation application by each persona are summari
     > [!div class="mx-imgBorder"]
     > [![Select Business Unit prvilege to Create and Write for the security role.](../media/select-business-unit.png)](../media/select-business-unit.png#lightbox)
 
-1. Select the 3 dots on the top banner and Select System Views
-    > [!div class="mx-imgBorder"]
-    > [![Select Business Unit prvilege to Create and Write for the security role.](../media/select-system-view.jpg)](../media/select-system-view.jpg#lightbox)
-
-1. On the left pane > Select Security Roles > Select System Customizer
-    > [!div class="mx-imgBorder"]
-    > [![Select Business Unit prvilege to Create and Write for the security role.](../media/select-security-roles.jpg)](../media/select-security-roles.jpg#lightbox)
-
-1. Select **Business Management** Tab > **Security Role** >  and enable the privilege **Business Unit** for **Create and Write** > **Save and Close**
-    > [!div class="mx-imgBorder"]
-    > [![Select Business Unit prvilege to Create and Write for the security role.](../media/select-business-unit.jpg)](../media/select-business-unit.jpg#lightbox)
-
 ## Create a form processing model
 
 The next step is to create a Form Processing model that will extract the data from your document with AI Builder.
@@ -165,5 +153,17 @@ Once the model is created, you can use it in the pipeline.
 
     > [!div class="mx-imgBorder"]
     > [![Configuration saved for Document Processing.](../media/3-document-process.png)](../media/3-document-process.png#lightbox)
+
+1. Select the 3 dots on the top banner and Select System Views
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Select System View dialog.](../media/select-system-views.jpg)](../media/select-system-views.jpg#lightbox)
+
+1. On the left pane > Select Security Roles > Select System Customizer
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Select System Customizer screen.](../media/select-security-roles.jpg)](../media/select-security-roles.jpg#lightbox)
+
+1. Select **Business Management** Tab > **Security Role** >  and enable the privilege **Business Unit** for **Create and Write** > **Save and Close**
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Select Business unit screen.](../media/select-business-unit.jpg)](../media/select-business-unit.jpg#lightbox)
 
 You have successfully understood how the **Document automation base kit** allows you to define different security roles and how it must be configured to process your documents.
