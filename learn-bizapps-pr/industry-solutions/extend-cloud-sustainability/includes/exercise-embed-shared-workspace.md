@@ -1,11 +1,11 @@
-In this exercise, you add a shared workspace for a custom Power BI report to Microsoft Cloud for Sustainability for easier access within the application.
+In this exercise, you add a shared workspace for a custom Power BI report to Microsoft Cloud for Sustainability, which gives your users easier access within the application.
 
 > [!NOTE]
 > This exercise assumes that a Power BI report already exists in a shared workspace in Power BI in the same Office 365 tenant. It also assumes that the Power BI report has at least one report and one dashboard. 
 
 1. Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true).
 
-1. Select **Solutions** > **New solution**. In the following example, the name of the solution is "Demo solution."
+1. Select **Solutions** > **New solution**. In the following example, the name of the solution is **Demo solution**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Power Apps portal, showing a demo solution created as a new solution under the "Solutions" option.](../media/demo-solutions.png)](../media/demo-solutions.png#lightbox)
@@ -42,4 +42,4 @@ In this exercise, you add a shared workspace for a custom Power BI report to Mic
 1. On the **New subarea form**, in the **Content type** dropdown list, select **Dashboard**.
 1. In the **Dashboard** dropdown list, select **Demo Power BI report**.
 1. In the **Title** box, enter a title for the dashboard, and then select **Add**. 
-1. Select **Save**, and then **Publish** the model-driven app.
+1. Select **Save**, and then select **Publish**.
