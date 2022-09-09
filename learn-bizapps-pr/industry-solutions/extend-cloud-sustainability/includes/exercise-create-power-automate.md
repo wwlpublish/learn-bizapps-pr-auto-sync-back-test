@@ -1,6 +1,6 @@
 With Microsoft Power Automate, you can automate a task, get or send notifications, and track the completion of tasks. 
 
-In this exercise, you create a notification when an emissions factor for fictitious business Contoso Cooling has been recorded to have a CO<sub>2</sub> calculation that's greater than 1,800 lbs.
+In this exercise, you create a notification when an emissions factor for fictitious business Company Cooling has been recorded to have a CO<sub>2</sub> calculation that's greater than 1,800 lb.
 
 1. Sign in to [Power Apps](https://make.preview.powerapps.com/environments/839eace6-59ab-4243-97ec-a5b8fcc104e4/home/?azure-portal=true).
 
@@ -13,13 +13,13 @@ In this exercise, you create a notification when an emissions factor for fictiti
 1. Select the application from the list to make a connection, and then select **Create**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot showing how to create access to the org-based database on Microsoft Dataverse in the current environment.](../media/dataverse.png)](../media/dataverse.png#lightbox)
+    > [![Screenshot showing the "Create" button for creating access to the org-based database on Microsoft Dataverse.](../media/dataverse.png)](../media/dataverse.png#lightbox)
 
 1. Sign in with your credentials.
 1. On the left pane, select **Flows**.
  
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Power Apps left pane for selecting the "Flows" command.](../media/flow.png)](../media/flow.png#lightbox)
+    > [![Screenshot of the Power Apps left pane for selecting the "Flows" command.](../media/flow.png)](../media/flow.png#lightbox)
 
 1. Select **New flow**, and then select **Automated cloud flow**.
 
@@ -45,7 +45,7 @@ In this exercise, you create a notification when an emissions factor for fictiti
     > [!div class="mx-imgBorder"]
     > [![Screenshot showing the selections in the "Change type," "Table name," and "Scope" dropdown lists.](../media/flow-fields.png)](../media/flow-fields.png#lightbox)
 
-1. To add a condition, select the **Add** (**+**) button.
+1. To add a condition, select the **Add** button.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot showing the flow conditions that can be added.](../media/flow-condition.png)](../media/flow-condition.png#lightbox)
@@ -53,6 +53,6 @@ In this exercise, you create a notification when an emissions factor for fictiti
 1. For example, for the **If yes** action condition, you can select the **Send Office 365 email** action.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot showing that when a condition is "true," an email can be sent to key organizational partners.](../media/condition-true.png)](../media/condition-true.png#lightbox)
+    > [![Screenshot showing that when a condition is "true," an email can be sent to critical team members.](../media/condition-true.png)](../media/condition-true.png#lightbox)
 
 1. Save the flow.
