@@ -50,4 +50,4 @@ Two primary items that are available from the **Variable Properties** pane are:
 
 - **Used by** - Displays all topics where the variable is used so that you can go straight to that topic and node.
 
-For additional information, see [Microsoft Docs](/power-virtual-agents/authoring-variables-bot).
+For more information, see [Reuse variables across topics](/power-virtual-agents/authoring-variables-bot?azure-portal=true).

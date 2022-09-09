@@ -103,7 +103,7 @@ Each topic that you include in your bot will likely be specific. For example, th
 
 One of the many advantages to Power Virtual Agents is the ability to implement actions such as sending emails, locating external data, or creating activities based on data that is entered in the bot. The **Call an action** node helps to facilitate this ability by allowing you to call a Power Automate flow from the bot.
 
-For more information, see [Microsoft Docs](/power-virtual-agents/advanced-flow/?azure-portal=true).
+For more information, see [Use Power Automate flows in Power Virtual Agents](/power-virtual-agents/advanced-flow/?azure-portal=true).
 
 ## Use the End the conversation node
 
