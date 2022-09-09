@@ -6,7 +6,7 @@ Microsoft Cloud for Financial Services is composed of various integrated Microso
 
 These integrated technologies are tailored specifically for retail banking financial institutions.
 
-For more information, see the [Set up and configure Microsoft Cloud for Financial Services](/industry/financial-services/configure-cloud-for-financial-services/?azure-portal=true) article on Microsoft Docs.
+For more information, see [Set up and configure Microsoft Cloud for Financial Services](/industry/financial-services/configure-cloud-for-financial-services/?azure-portal=true).
 
 This learning path will require the following features and license dependencies.
 
