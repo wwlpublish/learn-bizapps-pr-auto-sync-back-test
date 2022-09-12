@@ -4,11 +4,11 @@ metadata:
   title: Create a canvas app in Power Apps
   description: Do you want to create apps to help make your business more efficient? Then, this path is for you. It introduces you to Power Apps, helps you create and customize an app, and then manage and distribute it.
   ms.date: 07/07/2021
-  author: KevSch
-  ms.author: kschimke
+  author: jadaphillips 
+  ms.author: jadaphillips 
   ms.topic: interactive-tutorial
   ms.service: powerapps
-  ms.subservice: portals
+  ms.subservice: canvas-maker
 title: Create a canvas app in Power Apps
 video:
   title: "Create a Canvas App in Power Apps"
