@@ -45,5 +45,4 @@ For more information, see [Healthcare overview](/common-data-model/schema/core/i
 
 ## Deprecation of Dynamics 365 Healthcare Accelerator
 
-The Microsoft healthcare data model originated as part of Dynamics 365 Healthcare Accelerator, which was deprecated on November 13, 2020, and is no longer available. The healthcare data model has since been updated and is available through Microsoft Cloud for Healthcare. If you need to migrate from Dynamics 365 Healthcare Accelerator to Microsoft Cloud for Healthcare, go to the [Accelerator deprecation article](/dynamics365/industry/healthcare/accelerator-deprecation/?azure-portal=true
-) on Microsoft Docs.
+The Microsoft healthcare data model originated as part of Dynamics 365 Healthcare Accelerator, which was deprecated on November 13, 2020, and is no longer available. The healthcare data model has since been updated and is available through Microsoft Cloud for Healthcare. If you need to migrate from Dynamics 365 Healthcare Accelerator to Microsoft Cloud for Healthcare, go to the [Accelerator deprecation article](/dynamics365/industry/healthcare/accelerator-deprecation/?azure-portal=true).
