@@ -26,7 +26,7 @@ The business process flow at the top of the record guides you through the stages
 
 Each stage has a series of steps that should be completed before progressing to the next stage of the process.
 
-To learn more about Business Process Flows and how they work in opportunities, refer to: [Opportunity management lifecycle - Learn | Microsoft Docs](/learn/modules/manage-opportunities-dynamics-365-sales/4-opportunity-management-lifecycle?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-dynamics.dynamics-365-for-sales&azure-portal=true).
+To learn more about Business Process Flows and how they work in opportunities, see [Opportunity management lifecycle](/learn/modules/manage-opportunities-dynamics-365-sales/4-opportunity-management-lifecycle?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-dynamics.dynamics-365-for-sales&azure-portal=true).
 
 ## Stage history
 

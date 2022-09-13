@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips  
  ms.author: jadaphillips
  ms.topic: interactive-tutorial  
- ms.subservice: dataverse
+ ms.subservice: dataverse-maker
 title: Build the Dataverse table schema for the model-driven app 
 summary: |  
   [!include[](../includes/module-banner.md)] 

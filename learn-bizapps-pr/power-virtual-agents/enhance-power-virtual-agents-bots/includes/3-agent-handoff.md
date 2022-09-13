@@ -40,7 +40,7 @@ Three primary areas that can be defined when you create the application registra
 
 After you have defined the parameters, select the **Register** button.
 
-For more information, see [Microsoft Docs](/azure/active-directory/develop/howto-create-service-principal-portal#create-an-azure-active-directory-application).
+For more information, see [Use the portal to create an Azure AD application and service principal that can access resources](/azure/active-directory/develop/howto-create-service-principal-portal?azure-portal=true).
 
 ### Configure transfer to agent
 
@@ -68,4 +68,4 @@ When the connection has been established, you can select the **Go to Omnichanne
 
 You can select **Disconnect bot** to disable the application user that represents the bot in your omnichannel instance. This will disconnect the bot from the specified omnichannel environment. To add your bot back, you'll need to connect it again.
 
-For more information, see [Microsoft Docs](/dynamics365/omnichannel/administrator/configure-bot-virtual-agent/?azure-portal=true) and [configure generic handoff](/power-virtual-agents/configure-generic-handoff/?azure-portal=true).
+For more information, see [Integrate a Power Virtual Agents bot](/dynamics365/omnichannel/administrator/configure-bot-virtual-agent/?azure-portal=true) and [configure generic handoff](/power-virtual-agents/configure-generic-handoff/?azure-portal=true).

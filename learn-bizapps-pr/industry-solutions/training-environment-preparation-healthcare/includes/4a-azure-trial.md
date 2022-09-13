@@ -20,7 +20,7 @@ In this task, we will walk through the steps to obtain a trial Azure subscriptio
 1.  Provide your credit card details and select **Sign up**.
 
 	> [!NOTE]
-	>  A credit card is only required to verify your identity. You will not be charged unless you upgrade your subscription. Please read the following Microsoft Docs to understand how to [Avoid charges with your Azure free account](/azure/cost-management-billing/manage/avoid-charges-free-account/?azure-portal=true).
+	>  A credit card is only required to verify your identity. You will not be charged unless you upgrade your subscription. For more information, see [Avoid charges with your Azure free account](/azure/cost-management-billing/manage/avoid-charges-free-account/?azure-portal=true).
 	
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the credit card details page with sign up button.](../media/card-details.png)](../media/card-details.png#lightbox)

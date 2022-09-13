@@ -11,6 +11,6 @@ By adding dashboard customizations, you can give your users a more accessible ex
 
 For more information, see:
 
-* [Power Automate documentation](/power-automate/?azure-portal=true)
-* [Power Apps documentation](/power-apps/?azure-portal=true)
-* [Power BI documentation](/power-bi/?azure-portal=true)
+* [Microsoft Power Automate documentation](/power-automate/?azure-portal=true)
+* [Microsoft Power Apps documentation](/power-apps/?azure-portal=true)
+* [Microsoft Power BI documentation](/power-bi/?azure-portal=true)
