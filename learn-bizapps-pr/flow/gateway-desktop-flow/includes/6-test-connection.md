@@ -1,18 +1,26 @@
-The simplest way to build robotic process automation (RPA) is to take one small step at a time and then build and test that step. First, you created the desktop flow to perform actions on the invoicing app. Next, you created the input and output variables, or the information that would change every time that the flow ran. Then, you configured a gateway and built a cloud flow that will allow you to connect to other resources that exist in your organization. Now, you will test these connections to ensure that everything is performing as expected.
-
-Select **Test** in the upper-right corner of the screen, select the **Manually** option, and then select **Test**.
+With the Power Automate desktop app running, select the **Manually trigger Desktop flow to launch Edge** and click on the play.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Manually option selected for Test Flow.](../media/test-manually.png)](../media/test-manually.png#lightbox)
 
-After a moment, a green checkmark should appear by your flow to indicate that it's ready for testing. Select **Continue**.
+After a moment, the status changes to **Preparing** and then **Running**.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the Continue button on the Run flow window.](../media/continue.png)](../media/continue.png#lightbox)
+> [![Screenshot of the Manually option selected for Test Flow with status preparing.](../media/status-preparing.png)](../media/status-preparing.png#lightbox)
 
-Select **Run flow** and **Done** to watch your flow at work. The flow will appear with indications on each step to show your flow's progress. Avoid interacting with your mouse or keyboard while the flow is running because it might interrupt the process. When testing is complete, the following screen will indicate that your flow ran successfully.
+You also receive notifications on your desktop, first notification states the flow is running.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the successful flow message.](../media/success.png)](../media/success.png#lightbox)
+> [![Screenshot of the flow is running message.](../media/power-automate-running.png)](../media/power-automate-running.png#lightbox)
 
-Now, you have completed the process to build a cloud flow and connect it to a desktop flow through a gateway.
+The second notification states the flow has completed successfully.
+
+> [!div class="mx-imgBorder"]
+> [![Screenshot of the successful flow message.](../media/power-automate-successful.png)](../media/power-automate-successful.png#lightbox)
+
+Finally, you'll see the **Microsoft Edge** browser launch with the Power Automate URL loaded.
+
+> [!div class="mx-imgBorder"]
+> [![Screenshot of the Power Automate U R L launched in the Microsoft Edge browser.](../media/launch-edge-browser.png)](../media/launch-edge-browser.png#lightbox)
+
+Now, you have completed the process of building a desktop flow.

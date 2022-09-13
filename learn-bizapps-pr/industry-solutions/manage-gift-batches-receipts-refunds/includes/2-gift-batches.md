@@ -21,7 +21,7 @@ The screenshot below shows the creation of a new gift batch record in Fundraisin
 
 The mandatory columns batch type, configuration, and campaign must be completed before saving the gift batch. For this scenario, **Multiple Payments** should be selected as the batch type, because in this case we are processing a batch that contains multiple individual donations received from our campaign.
 
-For more information about campaigns, appeals, packages, and designations, go to the Module: Manage Designations and Campaigns in Fundraising and Engagement {hyperlink in MS Learn}
+For more information about campaigns, appeals, packages, and designations, see [Manage designations and campaigns in fundraising and engagement](../../nonprofit-designations/index.yml).
 
 Once the gift batch is saved, individual donations can be entered in from the **Batch Gifts** tab.
 

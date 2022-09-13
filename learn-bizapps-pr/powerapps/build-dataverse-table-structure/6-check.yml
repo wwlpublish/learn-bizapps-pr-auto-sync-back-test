@@ -8,7 +8,7 @@ metadata:
   author: jadaphillips 
   ms.author: jadaphillips 
   ms.topic: interactive-tutorial 
-   
+  ms.subservice: dataverse-maker
 durationInMinutes: 5 
 quiz: 
   title: Answer the following questions to see what you've learned. 

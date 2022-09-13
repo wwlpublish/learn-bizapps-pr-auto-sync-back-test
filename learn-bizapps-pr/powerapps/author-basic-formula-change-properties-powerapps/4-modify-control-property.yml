@@ -1,17 +1,14 @@
-﻿### YamlMime:ModuleUnit 
-uid: learn-bizapps.change-properties.4-modify-control-property 
+﻿### YamlMime:ModuleUnit
+uid: learn-bizapps.change-properties.4-modify-control-property
 title: Use a control to modify the property of other controls
-metadata: 
-  title: Use a control to modify the property of other controls 
-  description: Use a control to modify the property of other controls in Power Apps. 
-  ms.date: 07/30/2021  
-  author: DaveBeasley
-  ms.author: dbeasley
-  ms.topic: interactive-tutorial 
-   
-   
-durationInMinutes: 5 
+metadata:
+  title: Use a control to modify the property of other controls
+  description: Use a control to modify the property of other controls in Power Apps.
+  ms.date: 08/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: interactive-tutorial
+durationInMinutes: 5
 content: |
   [!include[](../includes/unit-banner.md)]
-  [!include[](includes/4-modify-control-property.md)] 
-
+  [!include[](includes/4-modify-control-property.md)]

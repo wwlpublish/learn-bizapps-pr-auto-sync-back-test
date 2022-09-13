@@ -33,7 +33,7 @@ The features available in the validation application by each persona are summari
 |     Validate a   document                                   |     X                                                                       |     X                |
 |     Delete a   document                                     |                                                                             |     X                |
 
-*When someone opens a processed document, they automatically assign it to themselves. Other validators will no longer see this document in the list and would get an error if they tried to update it.
+*When someone opens a processed document, he automatically assigns it to himself. Other validators will no longer see this document in the list and would get an error if they tried to update it.
 
 > [!NOTE]
 > If your company does not need to have role-based access control, you can just assign the **System customizer** role to everybody.
@@ -65,11 +65,23 @@ The features available in the validation application by each persona are summari
     > [!div class="mx-imgBorder"]
     > [![Manage User Roles dialog with list of selectable roles.](../media/3-manage-user-roles.png)](../media/3-manage-user-roles.png#lightbox)
 
-## Create a document processing model
+1. Select the **3 ... dots on the top banner** and Select **System Views**.
+    > [!div class="mx-imgBorder"]
+    > [![Select 3 dots on the top banner.](../media/select-system-views.png)](../media/select-system-views.png#lightbox)
 
-The next step is to create a Document Processing model that will extract the data from your document with AI Builder.
+1. On the **left pane** > Select **Security Roles** > Select **System Customizer**.
+    > [!div class="mx-imgBorder"]
+    > [![Select Security Roles entity from the left pane.](../media/select-security-roles.png)](../media/select-security-roles.png#lightbox)
 
-Follow the module [Get started with Document processing in AI Builder](/learn/modules/get-started-with-form-processing/?azure-portal=true) to learn how to make it.
+1. Select **Business Management** Tab > **Security Role** >  Enable the privilege **Business Unit** for **Create** and **Write** > **Save and Close**.
+    > [!div class="mx-imgBorder"]
+    > [![Select Business Unit prvilege to Create and Write for the security role.](../media/select-business-unit.png)](../media/select-business-unit.png#lightbox)
+
+## Create a form processing model
+
+The next step is to create a Form Processing model that will extract the data from your document with AI Builder.
+
+Follow the module [Get started with Form processing in AI Builder](/learn/modules/get-started-with-form-processing/?azure-portal=true) to learn how to make it.
 
 > [!TIP]
 > To create an AI Builder model, you need at least 5 samples of documents. If your suppliers send documents with various layouts, you should consider creating one collection per document type in the model.
@@ -81,12 +93,12 @@ You can customize the way emails are processed by selecting **View Solution**.
 > [!div class="mx-imgBorder"]
 > [![Screenshot of Power Automate Document automation page with the View solution button in the Custom documents section.](../media/3-select.jpg)](../media/3-select.jpg#lightbox)
 
-1. Select **Document automation base kit** and the then select **Edit** in the top banner
+1. Select "Document automation base kit."
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Power Automate Solutions page with the Document automation base kit selected.](../media/3-solutions.jpg)](../media/3-solutions.jpg#lightbox)
 
-1. Then select **Document Automation Email Importer**.
+1. Then select “Document Automation Email Importer” and **Edit** in the top banner.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Power Automate My flows page with the Document Automation Email Importer open.](../media/3-importer.jpg)](../media/3-importer.jpg#lightbox)
@@ -104,7 +116,7 @@ The targeted person for configuring providers should:
 
 - Have an overview of the suppliers of the company and get samples of these documents.
 
-- Have good knowledge of AI Builder including building a Document Processing model.
+- Have good knowledge of AI Builder including building a Form Processing model.
 
 Makers are usually a good fit for this task.
 
@@ -122,7 +134,7 @@ Once the model is created, you can use it in the pipeline.
 
 1. You now need to select an AI Builder model to extract labels from documents.
 
-    See [Get started with document processing](/learn/modules/get-started-with-form-processing/?azure-portal=true) to learn how to create an AI Builder document processing model.
+    See [Get started with form processing](/learn/modules/get-started-with-form-processing/?azure-portal=true) to learn how to create an AI Builder form processing model.
 
     Once your model is created and **published**, you can refresh this page with **Reload models**, select the appropriate model, and select **Next**.
 
@@ -141,5 +153,17 @@ Once the model is created, you can use it in the pipeline.
 
     > [!div class="mx-imgBorder"]
     > [![Configuration saved for Document Processing.](../media/3-document-process.png)](../media/3-document-process.png#lightbox)
+
+1. Select the 3 dots on the top banner and Select System Views
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Select System View dialog.](../media/select-system-views.jpg)](../media/select-system-views.jpg#lightbox)
+
+1. On the left pane > Select Security Roles > Select System Customizer
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Select System Customizer screen.](../media/select-security-roles.jpg)](../media/select-security-roles.jpg#lightbox)
+
+1. Select **Business Management** Tab > **Security Role** >  and enable the privilege **Business Unit** for **Create and Write** > **Save and Close**
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Select Business unit screen.](../media/select-business-unit.jpg)](../media/select-business-unit.jpg#lightbox)
 
 You have successfully understood how the **Document automation base kit** allows you to define different security roles and how it must be configured to process your documents.
