@@ -2,342 +2,342 @@
   "redirections": [
     {
       "source_path": "learn-bizapps-pr/paths/vaccination-management/index.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/vaccination-dashboard/1-introduction.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/vaccination-dashboard/2-installation.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/vaccination-dashboard/3-overview.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/vaccination-dashboard/4-embed-dashboard.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/vaccination-dashboard/5-check.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/vaccination-dashboard/6-summary.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/vaccination-dashboard/index.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/post-deployment-configuration/1-introduction.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/post-deployment-configuration/2-exercise.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/post-deployment-configuration/3-exercise.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/post-deployment-configuration/4-exercise.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/post-deployment-configuration/5-exercise.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/post-deployment-configuration/6-check.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/post-deployment-configuration/7-summary.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/post-deployment-configuration/index.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/data-setup-vaccination-management-app/1-introduction.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/data-setup-vaccination-management-app/2-connect-data.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/data-setup-vaccination-management-app/3-reference-data.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/data-setup-vaccination-management-app/4-master-data.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/data-setup-vaccination-management-app/5-check.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/data-setup-vaccination-management-app/6-summary.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/data-setup-vaccination-management-app/index.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/vaccination-environment-prep/1-introduction.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/vaccination-environment-prep/2-tenant.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/vaccination-environment-prep/3-access.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/vaccination-environment-prep/4-check.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/vaccination-environment-prep/5-summary.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/vaccination-environment-prep/index.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/registration-booking-process/1-introduction.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/registration-booking-process/10-summary.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/registration-booking-process/2-portal-overview.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/registration-booking-process/3-vaccination-phase.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/registration-booking-process/4-appointment.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/registration-booking-process/5-questionnaire.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/registration-booking-process/6-eligibility.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/registration-booking-process/7-event-code.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/registration-booking-process/8-cancel-reschedule.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/registration-booking-process/9-check.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/registration-booking-process/index.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/frontline-worker-app/1-introduction.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/frontline-worker-app/2-overview.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/frontline-worker-app/3-check-in.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/frontline-worker-app/4-record-details.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/frontline-worker-app/5-add-question.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/frontline-worker-app/6-check.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/frontline-worker-app/7-summary.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/frontline-worker-app/index.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/cloud-licensing/1-introduction.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/cloud-licensing/2-licensing.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/cloud-licensing/3-prerequisites-deployment.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/cloud-licensing/4-check.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/cloud-licensing/5-summary.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/cloud-licensing/index.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/microsoft-vaccination-management-overview/1-introduction.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/microsoft-vaccination-management-overview/2-address-global-vaccination-needs.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/microsoft-vaccination-management-overview/3-architecture-capabilities-personas.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/microsoft-vaccination-management-overview/4-integration-external-immunization-systems.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/microsoft-vaccination-management-overview/5-check.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/microsoft-vaccination-management-overview/6-summary.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/industry-solutions/microsoft-vaccination-management-overview/index.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/healthcare-in-a-day/",
+      "redirect_url": "/learn/paths/healthcare-in-a-day/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/flow/gateway-desktop-flow/3-gateway-connection.md",
-      "redirect_url": "https://docs.microsoft.com/learn/modules/gateway-desktop-flow/",
+      "redirect_url": "/learn/modules/gateway-desktop-flow/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/flow/create-immersive-flow/5-summary.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
+      "redirect_url": "/learn/paths/create-business-process-flow/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/flow/create-immersive-flow/4-check.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
+      "redirect_url": "/learn/paths/create-business-process-flow/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/flow/create-immersive-flow/3-run-flow.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
+      "redirect_url": "/learn/paths/create-business-process-flow/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/flow/create-immersive-flow/2-immersive-flow.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
+      "redirect_url": "/learn/paths/create-business-process-flow/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/flow/create-immersive-flow/1-introduction.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
+      "redirect_url": "/learn/paths/create-business-process-flow/",
       "redirect_document_id⁯": false
     },
     {
       "source_path": "learn-bizapps-pr/flow/create-immersive-flow/index.md",
-      "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
+      "redirect_url": "/learn/paths/create-business-process-flow/",
       "redirect_document_id⁯": false
     },
     {
