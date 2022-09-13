@@ -1,13 +1,13 @@
-With segmentation, you can export solutions with **selected table assets**, such as **columns**, **forms**, and **views**. Segmentation also enables granular development.
+With segmentation, you can export solutions with selected table assets, such as columns, forms, and views. Segmentation also enables granular development.
 
-It's important to avoid selecting add all assets. Choosing the add "All assets" option often leads to dependency issues and defeats the purpose of segmentation.
+Make sure that you avoid selecting the **Add All Assets** option. Choosing the **Add All Assets** option often leads to dependency issues and defeats the purpose of segmentation.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of solution segmentation versus patch solutions.](../media/segmentation.png)](../media/segmentation.png#lightbox)
 
-A patch solution contains only the changes for a parent managed solution, such as adding or editing components and assets.
+A patch solution contains only the changes for a parent-managed solution, such as adding or editing components and assets.
 
-Here are a few more items to keep in mind concerning patches:
+More items that you should keep in mind concerning patches include:
 
 -   Use patches when making small updates (similar to a hotfix).
 
@@ -17,6 +17,6 @@ Here are a few more items to keep in mind concerning patches:
 
 ## Managed solution updates and upgrades
 
-Using solution updates allows you to take advantage of an optimized import process. The video below shares an example of a solution upgrade.
+Using solution updates allows you to take advantage of an optimized import process. The following video provides an example of a solution upgrade.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/]

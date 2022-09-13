@@ -1,22 +1,22 @@
 ### YamlMime:Module 
 uid: learn-bizapps.introduction-solutions 
 metadata: 
- title: Introduction to solutions for the Power Platform
+ title: Introduction to solutions for Microsoft Power Platform
  description: Learn how to transport an existing app and components from one environment to another. 
  ms.date: 08/31/2022  
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
-title: Introduction to solutions for the Power Platform
+title: Introduction to solutions for Microsoft Power Platform
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  Do you need to transport an existing app and components from one environment to another? Solutions can do just that, and apply a set of customizations to existing apps. This module will share solution basics and best practices.
+  Solutions for Microsoft Power Platform can help you transport an existing app and components from one environment to another. Additionally, solutions will help you apply a set of customizations to existing apps. This module will share solution basics and best practices.
 abstract: |  
-    In this module, you will: 
-    - Discover what solutions are and how they work
-    - Understand solution layering
-    - Understand version control for solutions
-prerequisites: Experience working on Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer.
+    In this module, you'll: 
+    - Learn about solutions and how they work.
+    - Discover the concept of solution layering.
+    - Learn about version control for solutions.
+prerequisites: Experience working on Microsoft Power Platform projects as a junior solution architect, a senior functional consultant, or a senior developer
 iconUrl: /learn/achievements/introduction-solutions.svg  
 levels:  
 - beginner   
