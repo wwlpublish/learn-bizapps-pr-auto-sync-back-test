@@ -24,4 +24,4 @@ All imported unmanaged solutions and impromptu customizations exist at the unman
 
 Certain components are available that have a merge behavior, such as site maps and forms. Each layer is merged to produce the runtime behavior as opposed to the "last layer wins" behavior.
 
-For more information, see [Solution layers](https://docs.microsoft.com/en-us/power-platform/alm/solution-layers-alm).
+For more information, see [Solution layers](https://docs.microsoft.com/power-platform/alm/solution-layers-alm).
