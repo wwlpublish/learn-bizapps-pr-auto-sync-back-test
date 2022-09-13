@@ -1,6 +1,6 @@
 To deploy Microsoft Cloud for Healthcare in a Microsoft Dataverse environment, you need to add a tenant and the prerequisite licenses. 
 
-In this exercise, you will learn how to create a Microsoft 365 trial tenant. You can skip this exercise if you have already created a trial tenant and added the trial licenses.
+In this exercise, you'll learn how to create a Microsoft 365 trial tenant. You can skip this exercise if you've already created a trial tenant and added the trial licenses.
 
 ## Task 1 - Create a Microsoft 365 tenant 
 
@@ -45,7 +45,7 @@ In this task, you'll learn how to create a Microsoft 365 trial tenant and obtain
 
 ## Task 2 - Update billing account details  
 
-In this task, you'll update the billing account details for the trial tenant which you created in Task 1. 
+In this task, you'll update the billing account details for the trial tenant, which you created in Task 1. 
 
 > [!IMPORTANT] You must update the billing account details to procure additional trial licenses.
 
@@ -68,4 +68,4 @@ In this task, you'll update the billing account details for the trial tenant whi
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the successful sign-up message.](../media/billing-address.png)](../media/success.png#lightbox)
 
-**Congratulations!** You have successfully created a Microsoft 365 tenant with Microsoft Office 365 E5 trial license and updated the billing account details to obtain additional trial licenses.
+**Congratulations!** You've successfully created a Microsoft 365 tenant with Microsoft Office 365 E5 trial license and updated the billing account details to obtain extra trial licenses.
