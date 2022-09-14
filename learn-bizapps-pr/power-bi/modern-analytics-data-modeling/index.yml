@@ -18,7 +18,7 @@ abstract: |
     - Learn how Power Query feeds a data model.
     - Discover the four foundational data modeling concepts.
 prerequisites: Microsoft Excel
-iconUrl: /learn/achievements/modern-analytics-data-modeling.svg  
+iconUrl: /training/achievements/modern-analytics-data-modeling.svg  
 levels: 
 - beginner   
 roles:  

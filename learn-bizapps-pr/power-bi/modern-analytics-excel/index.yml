@@ -22,7 +22,7 @@ abstract: |
     - Identify lineage from data source to dashboards.
     - Use Excel together with Power BI.
 prerequisites: Microsoft Excel, PivotTables
-iconUrl: /learn/achievements/modern-analytics-excel.svg  
+iconUrl: /training/achievements/modern-analytics-excel.svg  
 levels:  
 - intermediate   
 roles:  

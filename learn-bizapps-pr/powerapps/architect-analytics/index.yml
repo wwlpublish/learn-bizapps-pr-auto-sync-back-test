@@ -19,7 +19,7 @@ abstract: |
     - Review the capabilities of Microsoft Power BI and how to use it with Power Platform components. 
     - Learn how to use pre-built insights and custom AI.
 prerequisites: Experience working on Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer
-iconUrl: /learn/achievements/architect-analytics.svg  
+iconUrl: /training/achievements/architect-analytics.svg  
 levels:  
 - advanced
 roles:  

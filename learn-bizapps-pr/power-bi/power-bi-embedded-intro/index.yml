@@ -31,7 +31,7 @@ abstract: |
     - Prepare Power BI content for embedding.
     - Use no-code embedding techniques.
 prerequisites: Experience developing web apps and creating Power BI workspaces and content
-iconUrl: /learn/achievements/power-bi-embedded-intro.svg
+iconUrl: /training/achievements/power-bi-embedded-intro.svg
 levels:
 - intermediate
 roles:

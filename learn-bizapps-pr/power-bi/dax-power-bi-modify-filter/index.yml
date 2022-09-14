@@ -20,7 +20,7 @@ abstract: |
     - Pass filter modifiers to the CALCULATE function.
     - Perform context transition.
 prerequisites: You should have experience creating Microsoft Power BI Desktop models and designing Power BI report layouts. You should also understand how to define Data Analysis Expressions (DAX) measures and how to work with iterator functions. 
-iconUrl: /learn/achievements/modify-dax-filter-context-power-bi-desktop.svg  
+iconUrl: /training/achievements/modify-dax-filter-context-power-bi-desktop.svg  
 levels:  
 - intermediate   
 roles: 

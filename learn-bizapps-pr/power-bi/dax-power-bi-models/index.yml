@@ -19,7 +19,7 @@ abstract: |
     - Define the term analytic query and its phases.
     - Describe how fields can be used to configure a report visual, which then generates an analytic query.
 prerequisites: Experience creating Power BI Desktop models and designing Power BI report layouts 
-iconUrl: /learn/achievements/dax-power-bi-models.svg  
+iconUrl: /training/achievements/dax-power-bi-models.svg  
 levels:  
 - intermediate   
 roles: 

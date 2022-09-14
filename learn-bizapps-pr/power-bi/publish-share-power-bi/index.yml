@@ -23,7 +23,7 @@ abstract: |
     - Integrate with OneDrive
     - Publish to the web
 prerequisites: Access to Power BI Desktop 
-iconUrl: /learn/achievements/publish-and-share-with-power-bi-desktop.svg
+iconUrl: /training/achievements/publish-and-share-with-power-bi-desktop.svg
 levels:  
 - intermediate   
 roles:  

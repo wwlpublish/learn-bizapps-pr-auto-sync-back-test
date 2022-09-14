@@ -29,7 +29,7 @@ abstract: |
     - Set up effective identity when generating an embed token.
     - Apply good development practices to enforce data permissions.
 prerequisites: Experience developing web apps and creating Power BI workspaces and content, familiarity with the two embedding scenarios, *For your organization* and *For your customers*, and knowledge of how to generate embed tokens
-iconUrl: /learn/achievements/power-bi-embedded-permissions-analytics.svg  
+iconUrl: /training/achievements/power-bi-embedded-permissions-analytics.svg  
 levels:  
 - intermediate   
 roles:  

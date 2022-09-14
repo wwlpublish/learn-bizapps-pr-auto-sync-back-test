@@ -25,7 +25,7 @@ abstract: |
     - Use the different automation libraries.
     - Automate workspace separation.
 prerequisites: Experience programmatically embedding Power BI content in apps and working with PowerShell
-iconUrl: /learn/achievements/power-bi-embedded-automate.svg  
+iconUrl: /training/achievements/power-bi-embedded-automate.svg  
 levels:  
 - intermediate   
 roles:  
