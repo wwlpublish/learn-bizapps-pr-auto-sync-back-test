@@ -22,7 +22,7 @@ prerequisites: |
     - Access to Power BI service
     - Familiarity with Tableau
     - Knowledge of key Tableau concepts, such as data refresh, calculations, and building visualizations
-iconUrl: /learn/achievements/power-bi-tableau-optimize-performance.svg  
+iconUrl: /training/achievements/power-bi-tableau-optimize-performance.svg  
 levels:  
 - beginner   
 roles:  

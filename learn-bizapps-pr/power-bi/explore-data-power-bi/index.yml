@@ -19,7 +19,7 @@ abstract: |
     - Create dashboards
     - Ask questions of your data
 prerequisites: Access to Power BI Desktop 
-iconUrl: /learn/achievements/explore-data-with-power-bi-desktop.svg
+iconUrl: /training/achievements/explore-data-with-power-bi-desktop.svg
 levels:  
 - intermediate   
 roles:  

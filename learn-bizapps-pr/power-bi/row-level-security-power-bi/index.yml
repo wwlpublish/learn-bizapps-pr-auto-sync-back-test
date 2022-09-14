@@ -17,7 +17,7 @@ abstract: |
     - Configure row-level security by using a static method.
     - Configure row-level security by using a dynamic method.
 prerequisites: None 
-iconUrl: /learn/achievements/row-level-security-power-bi.svg  
+iconUrl: /training/achievements/row-level-security-power-bi.svg  
 levels:  
 - intermediate   
 roles:  

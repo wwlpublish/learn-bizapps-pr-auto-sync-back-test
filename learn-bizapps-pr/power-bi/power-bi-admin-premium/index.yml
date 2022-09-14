@@ -19,7 +19,7 @@ abstract: |
     - Explain how Power BI manages memory resources
     - List three external tools you can use with Power BI Premium.
 prerequisites: We recommend that you complete the Admin in a Day, part 1 learning path before beginning this module. 
-iconUrl: /learn/achievements/power-bi-admin-premium.svg  
+iconUrl: /training/achievements/power-bi-admin-premium.svg  
 levels:  
 - intermediate   
 roles:  

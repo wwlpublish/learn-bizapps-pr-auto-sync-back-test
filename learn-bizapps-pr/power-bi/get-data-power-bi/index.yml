@@ -18,7 +18,7 @@ abstract: |
     - Explore the data-centric features and tools of Power BI.
     - Explore ways to find data.
 prerequisites: Access to Power BI Desktop 
-iconUrl: /learn/achievements/get-data-power-bi-desktop.svg 
+iconUrl: /training/achievements/get-data-power-bi-desktop.svg 
 levels:  
 - intermediate   
 roles:  

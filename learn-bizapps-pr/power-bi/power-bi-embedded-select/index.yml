@@ -26,7 +26,7 @@ abstract: |
     -  Manage resource and scale requirements.
     - Set up a development environment.
 prerequisites: Basic understanding of Power BI embedded analytics and the types of Power BI content that can be embedded in apps.
-iconUrl: /learn/achievements/power-bi-embedded-select.svg  
+iconUrl: /training/achievements/power-bi-embedded-select.svg  
 levels:  
 - intermediate   
 roles:  

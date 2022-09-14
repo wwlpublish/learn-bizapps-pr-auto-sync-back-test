@@ -20,7 +20,7 @@ abstract: |
     - Utilize the Countrows, CountIf, ForAll
     - Perform math operations on data in a table
 prerequisites: A basic understanding of how to create a canvas app in Power Apps.    
-iconUrl: /learn/achievements/author-advanced-formulas.svg  
+iconUrl: /training/achievements/author-advanced-formulas.svg  
 levels:  
 - advanced   
 roles:  

@@ -6,14 +6,14 @@ When you're ready to deliver your report, it might be helpful to provide a demon
 
 For more information, select the following links:
 
--   **DAX** - [Use DAX in Power BI Desktop](/learn/paths/dax-power-bi/?azure-portal=true)
+-   **DAX** - [Use DAX in Power BI Desktop](/training/paths/dax-power-bi/?azure-portal=true)
 
--   **CALCULATE function** - [Modify DAX filter context in Power BI Desktop models](/learn/modules/dax-power-bi-modify-filter/?azure-portal=true)
+-   **CALCULATE function** - [Modify DAX filter context in Power BI Desktop models](/training/modules/dax-power-bi-modify-filter/?azure-portal=true)
 
 -   **Time intelligence functions**
 
-    -   [Use DAX time intelligence functions in Power BI Desktop models](/learn/modules/dax-power-bi-time-intelligence/?azure-portal=true)
+    -   [Use DAX time intelligence functions in Power BI Desktop models](/training/modules/dax-power-bi-time-intelligence/?azure-portal=true)
 
-    -   [Modify DAX filter context in Power BI Desktop models](/learn/modules/dax-power-bi-modify-filter/?azure-portal=true)
+    -   [Modify DAX filter context in Power BI Desktop models](/training/modules/dax-power-bi-modify-filter/?azure-portal=true)
 
 -   **DAX for beginners** - [Use quick measures for common calculations](/power-bi/transform-model/desktop-quick-measures/?azure-portal=true)

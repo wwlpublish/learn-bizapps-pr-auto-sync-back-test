@@ -25,7 +25,7 @@ abstract: |
     - Create a Microsoft Azure Active Directory (Azure AD) app registration.
     - Acquire access tokens to embed Power BI content.
 prerequisites: Experience developing web apps and creating Power BI workspaces and content, and be familiar with the two embedding scenarios, *For your organization* and *For your customers*.
-iconUrl: /learn/achievements/power-bi-embedded-permissions-content.svg
+iconUrl: /training/achievements/power-bi-embedded-permissions-content.svg
 levels:
 - intermediate
 roles:

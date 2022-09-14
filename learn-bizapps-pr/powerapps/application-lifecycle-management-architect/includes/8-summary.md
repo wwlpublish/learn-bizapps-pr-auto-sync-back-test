@@ -27,6 +27,6 @@ Before you progress with building and deploying your solution, you need to ensur
 
 ## Next steps
 
-Learn more about ALM by using the [Evolve your DevOps practices learning path](/learn/paths/evolve-your-devops-practices/?azure-portal=true).
+Learn more about ALM by using the [Evolve your DevOps practices learning path](/training/paths/evolve-your-devops-practices/?azure-portal=true).
 
 For more information, see [Application lifecycle management (ALM) with Microsoft Power Platform](/power-platform/alm/?azure-portal=true).
