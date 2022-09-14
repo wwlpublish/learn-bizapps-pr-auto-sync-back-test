@@ -113,4 +113,4 @@ each approach.
 >   sources and connectors as a whole, but if you would like to learn more about
 >   custom connectors and even walk through an exercise to build one, check out
 >   the module [Use custom connectors in a Power Apps canvas
->   app](/learn/modules/use-custom-connectors-in-powerapps-canvas-app/).
+>   app](/training/modules/use-custom-connectors-in-powerapps-canvas-app/).

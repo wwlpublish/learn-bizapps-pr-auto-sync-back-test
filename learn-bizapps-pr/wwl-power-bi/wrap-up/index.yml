@@ -17,7 +17,7 @@ abstract: |
 prerequisites: |
   - Basic familiarity with data analysis and reporting tools.
   - Experience with Excel and Power BI.
-iconUrl: /learn/achievements/wrap-up.svg
+iconUrl: /training/achievements/wrap-up.svg
 hidden: true
 levels:
 - intermediate

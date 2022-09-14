@@ -18,7 +18,7 @@ abstract: |
     - Implement basic logic for controls.
     - Integrate and write a parent/child data model.
 prerequisites: Basic understanding of canvas apps from Microsoft Power Apps and Microsoft Dataverse
-iconUrl: /learn/achievements/write-data-source.svg
+iconUrl: /training/achievements/write-data-source.svg
 levels:
 - beginner
 roles:
