@@ -19,4 +19,4 @@ More items that you should keep in mind concerning patches include:
 
 Using solution updates allows you to take advantage of an optimized import process. The following video provides an example of a solution upgrade.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE56A3W]
