@@ -13,12 +13,12 @@ summary: |
   [!include[](../includes/module-banner.md)] 
   Setting team development standards for your Microsoft Power Platform environment can increase productivity and allow developers to work more efficiently. This module will share common mistakes and best practices and will give an example of how to set up a development process. 
 abstract: |  
-    In this module, you’ll::
+    In this module, you’ll:
     - Compare the use of common versus ideal patterns for team development.
     - Learn about continuous integration.
     - Discover the benefits of continuous integration.
 prerequisites: Experience working on Microsoft Power Platform projects as a junior solution architect, a senior functional consultant, or a senior developer
-iconUrl: /learn/achievements/team-development-power-platform.svg  
+iconUrl: /training/achievements/team-development-power-platform.svg  
 levels:  
 - beginner   
 roles:  

@@ -20,7 +20,7 @@ abstract: |
     - Apply JavaScript code to portal assets.
     - Use Cascading Style Sheets (CSS) to address specific portal development requirements.
 prerequisites: Basic understanding of Power Apps portals, Power Platform application lifecycle management, and fundamental web technologies like HTML, JavaScript, and CSS. Familiarity with other related technologies like Microsoft Azure Functions, web API, and Single Page Applications would be beneficial.
-iconUrl: /learn/achievements/extend-power-app-portals.svg  
+iconUrl: /training/achievements/extend-power-app-portals.svg  
 levels:  
 - intermediate   
 roles:  

@@ -20,7 +20,7 @@ abstract: |
     - Utilize the Remove and RemoveIf functions to delete records
     - Determine whether to use Clear and Collect or ClearCollect in their scenario
 prerequisites: A basic understanding of how to create a Power Apps canvas app.       
-iconUrl: /learn/achievements/perform-custom-updates.svg  
+iconUrl: /training/achievements/perform-custom-updates.svg  
 levels:  
 - intermediate   
 roles:  

@@ -4,7 +4,7 @@ Canvas apps takes your declarative "what" and optimizes the "how." You might not
 
 Canvas apps can be made to look attractive and, while having an attractive app is important, apps that perform well will get better user adoption.
 
-For more information on imperative and declarative development, see [Use imperative development techniques for canvas apps in Power Apps](/learn/modules/use-imperative-dev-techniques-powerapps-canvas-app/?azure-portal=true).
+For more information on imperative and declarative development, see [Use imperative development techniques for canvas apps in Power Apps](/training/modules/use-imperative-dev-techniques-powerapps-canvas-app/?azure-portal=true).
 
 The following sections discuss techniques for optimizing canvas app performance.
 

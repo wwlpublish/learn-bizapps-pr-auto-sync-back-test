@@ -22,7 +22,7 @@ abstract: |
   - Use a custom connector in a Power Apps app to call a web API
 prerequisites: |
   - Familiarity with the concept of web (HTTP) APIs. Custom connectors use web APIs to send and receive data.
-iconUrl: /learn/achievements/discover-web-apis-power-apps.svg 
+iconUrl: /training/achievements/discover-web-apis-power-apps.svg 
 ratingEnabled: false
 levels:
   - beginner

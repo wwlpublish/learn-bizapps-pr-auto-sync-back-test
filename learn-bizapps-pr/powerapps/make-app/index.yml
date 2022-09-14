@@ -19,7 +19,7 @@ abstract: |
     - Set up automation.
     - Make your app more secure.
 prerequisites: Basic Microsoft Dataverse experience
-iconUrl: /learn/achievements/make-app.svg  
+iconUrl: /training/achievements/make-app.svg  
 levels:  
 - beginner   
 roles:  

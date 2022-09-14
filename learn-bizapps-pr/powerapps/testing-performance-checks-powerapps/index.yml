@@ -19,7 +19,7 @@ abstract: |
     - Understand how to best test an app
     - Use fiddler for troubleshooting
 prerequisites: A basic understanding of how to create a Power Apps canvas app.       
-iconUrl: /learn/achievements/testing-performance-checks.svg  
+iconUrl: /training/achievements/testing-performance-checks.svg  
 levels:  
 - advanced   
 roles:  

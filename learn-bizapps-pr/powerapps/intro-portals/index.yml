@@ -21,7 +21,7 @@ abstract: |
     - Learn about Power Apps portals core components and tools.
     - Discover how to control user access to portal content and Dataverse data.
 prerequisites: A basic understanding of how to navigate and customize model-driven apps.
-iconUrl: /learn/achievements/intro-portals.svg
+iconUrl: /training/achievements/intro-portals.svg
 levels:
 - intermediate
 roles:
