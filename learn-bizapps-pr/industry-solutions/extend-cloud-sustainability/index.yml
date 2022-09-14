@@ -1,14 +1,14 @@
 ### YamlMime:Module 
 uid: learn-bizapps.extend-cloud-sustainability 
 metadata: 
- title: Extend Microsoft Cloud for sustainability
+ title: Extend Microsoft Cloud for Sustainability
  description: Microsoft Sustainability Manager is built on top of Microsoft Power Platform as a model-driven application.
  ms.date: 07/07/2022  
  author: AshokSudhaMCRSOFT  
  ms.author: sudhaashok  
  ms.topic: interactive-tutorial  
  ms.subservice: sustainability
-title: Extend Microsoft Cloud for sustainability
+title: Extend Microsoft Cloud for Sustainability
 summary: |  
   [!include[](../includes/module-banner.md)] 
   Microsoft Sustainability Manager is built on top of Microsoft Power Platform as a model-driven application. You get a set of low-code tools that can help your teams stay agile and build solutions that move your business forward. Sustainability Manager is built from the ground up to work together with strong security, management, and compliance&mdash;and still have room to grow.
