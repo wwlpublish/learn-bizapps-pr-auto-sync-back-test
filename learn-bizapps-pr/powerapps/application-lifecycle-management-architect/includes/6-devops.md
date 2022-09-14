@@ -58,7 +58,7 @@ However, if a major bug is discovered in a QAT environment, the developers may c
 
 Perhaps Contoso Bank is running a smaller project without strict timelines for release cycles. In that case, using a manual trigger for the release pipeline might be preferred because there is no regular rhythm to when new builds are made available. 
 
-For more information on Using DevOps to move from manual to automated ALM, and best practices around which deployment methodology is right for you, check out [Microsoft Docs.](/power-platform/alm/use-devops-automated-alm/?azure-portal=true)
+For more information on Using DevOps to move from manual to automated ALM, and best practices around which deployment methodology is right for you, see [Using DevOps to move from manual to automated ALM](/power-platform/alm/use-devops-automated-alm/?azure-portal=true).
 
 ## Alternative automation tools
 

@@ -10,7 +10,7 @@ With the service, healthcare organizations can build a "health bot instance" and
 
 - Reduces cost
 
-The Health Bot Service contains a **built-in medical database**, including **triage protocols**. You can also extend a health bot instance to include your own scenarios and integrate with other IT systems and data sources. To learn more about Azure Health Bot, see [Azure Health Bot Overview](/azure/health-bot/?azure-portal=true) on Microsoft Docs.
+The Health Bot Service contains a **built-in medical database**, including **triage protocols**. You can also extend a health bot instance to include your own scenarios and integrate with other IT systems and data sources. To learn more about Azure Health Bot, see [Azure Health Bot Overview](/azure/health-bot/?azure-portal=true).
 
 ## Industry prioritized scenarios
 

@@ -102,4 +102,4 @@ For example: **Today's forecast for** (x)location:{x}day_summary. **Chance of ra
 > [!div class="mx-imgBorder"]
 > [![You can insert output parameters into messages presented to the customer.](../media/2-10.png)](../media/2-10.png#lightbox)
 
-For more information, see [Microsoft Docs](/power-virtual-agents/advanced-flow/?azure-portal=true).
+For more information, see [Use Power Automate flows in Power Virtual Agents](/power-virtual-agents/advanced-flow/?azure-portal=true).

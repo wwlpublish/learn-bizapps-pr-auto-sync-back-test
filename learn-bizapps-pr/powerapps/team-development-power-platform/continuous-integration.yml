@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.team-development-power-platform.continuous-integration 
+title: What is continuous integration?
+metadata: 
+  title: What is continuous integration?
+  description: Learn about continuous integration.
+  ms.date: 05/06/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-power-platform 
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/continuous-integration.md)] 

@@ -1,4 +1,4 @@
-In this exercise, you'll learn about the core Care Management data tables. If you want to explore the tables in more detail on Microsoft Docs, go to [Overview of Microsoft Cloud for Healthcare entities](/common-data-model/schema/core/industrycommon/healthcare/healthcare-overview/?azure-portal=true).
+In this exercise, you'll learn about the core Care Management data tables. To explore the tables in more detail, see [Overview of Microsoft Cloud for Healthcare entities](/common-data-model/schema/core/industrycommon/healthcare/healthcare-overview/?azure-portal=true).
 
 The healthcare data model uses some out-of-the-box tables from Dynamics 365 applications. The following healthcare solutions use the built-in Dynamics 365 tables.
 
@@ -17,7 +17,7 @@ In this task, you'll explore the main tables that are related to patient data.
 
 ### Patient details table definitions
 
-Select each table name to navigate to the Microsoft Docs page that provides details about each table.
+Select each table name to navigate to the article that provides details about each table.
 
 - [Patient (Contact)](/common-data-model/schema/core/industrycommon/healthcare/administration/administrationcore/contact/?azure-portal=true) - Person with whom a business unit has a relationship, such as customer, supplier, and colleague.
   
@@ -38,7 +38,7 @@ In this task, you'll explore the main tables that are related to clinical data.
 
 ### Clinical data table definitions
 
-Select each table name to navigate to the Microsoft Docs page that provides details about each table.
+Select each table name to navigate to the article that provides details about each table.
 
 - [Patient or Practitioner (Contact)](/common-data-model/schema/core/industrycommon/healthcare/administration/administrationcore/contact/?azure-portal=true) - Person with whom a business unit has a relationship, such as customer, supplier, and colleague.
                                                                                                                                                                             
@@ -67,7 +67,7 @@ In this task, you'll explore the main tables that are related to care plan manag
 
 ### Care plan management table definitions
 
- Select each table name to navigate to the Microsoft Docs page that goes into detail about each table.
+ Select each table name to navigate to the article that goes into detail about each table.
 
 - [Patient (Contact)](/common-data-model/schema/core/industrycommon/healthcare/administration/administrationcore/contact/?azure-portal=true) - Person with whom a business unit has a relationship, such as customer, supplier, and colleague.
   
