@@ -23,7 +23,7 @@ abstract: |
     - Use the device's camera and location capabilities to get data from out in the real world.  
     - Configure app settings to personalize your experience with the app.
 prerequisites: Access to some content in the Power BI service 
-iconUrl: /learn/achievements/intro-to-power-bi-mobile-apps.svg  
+iconUrl: /training/achievements/intro-to-power-bi-mobile-apps.svg  
 levels:  
 - beginner   
 roles:  

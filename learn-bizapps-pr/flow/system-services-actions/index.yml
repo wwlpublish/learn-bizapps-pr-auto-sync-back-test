@@ -19,7 +19,7 @@ abstract: |
 prerequisites: |
     - Basic familiarity with WinAutomation
     - An account with Administrator privileges
-iconUrl: /learn/achievements/system-services-actions.svg  
+iconUrl: /training/achievements/system-services-actions.svg  
 levels:  
 - beginner   
 roles:  

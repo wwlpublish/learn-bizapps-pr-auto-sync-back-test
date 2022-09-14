@@ -19,7 +19,7 @@ abstract: |
     - Identify the typical tasks performed by Power BI administrators
     - Identify the typical tools used by Power BI administrators
 prerequisites: We recommend completing the [Dashboard in a Day](https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x1728241abcd&azure-portal=true) learning path before beginning this module.
-iconUrl: /learn/achievements/power-bi-admin-intro.svg  
+iconUrl: /training/achievements/power-bi-admin-intro.svg  
 levels:  
 - intermediate   
 roles:  

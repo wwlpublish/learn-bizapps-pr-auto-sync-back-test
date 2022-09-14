@@ -13,12 +13,12 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   Do you want to bring AI to your business to improve your business performance? This learning path introduces you to AI Builder, teaches you how to build models, and explains how you can use them in Power Apps and Power Automate. 
 
-  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/learn/certifications/power-platform-app-maker/?azure-portal=true).
+  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/certifications/power-platform-app-maker/?azure-portal=true).
 
 prerequisites: |
   - Signed up for Power Apps or Power Automate 
   - Access to Microsoft Dataverse 
-iconUrl: /learn/achievements/bring-ai-to-your-business-with-ai-builder.svg
+iconUrl: /training/achievements/bring-ai-to-your-business-with-ai-builder.svg
 levels:
 - beginner
 roles: 

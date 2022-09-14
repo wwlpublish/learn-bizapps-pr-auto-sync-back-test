@@ -19,7 +19,7 @@ abstract: |
     - Use relational data to improve an app user's experience in Power Apps
     - Understand how to use relational data in Microsoft Dataverse
 prerequisites: A basic understanding of how to create a Power Apps canvas app.
-iconUrl: /learn/achievements/work-with-relational-data.svg
+iconUrl: /training/achievements/work-with-relational-data.svg
 levels:
 - intermediate
 roles:

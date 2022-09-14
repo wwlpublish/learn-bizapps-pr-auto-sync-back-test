@@ -18,7 +18,7 @@ abstract: |
     - Extend an app in Microsoft Power Apps to trigger a flow.
     - Schedule a flow to complete routine tasks.
 prerequisites: None
-iconUrl: /learn/achievements/build-first-workflow.svg  
+iconUrl: /training/achievements/build-first-workflow.svg  
 levels:  
 - beginner   
 roles:

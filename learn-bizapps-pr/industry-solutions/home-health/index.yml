@@ -20,7 +20,7 @@ abstract: |
 prerequisites: |  
     - Training environment preparation module
     - Care management module 
-iconUrl: /learn/achievements/home-health.svg  
+iconUrl: /training/achievements/home-health.svg  
 levels:  
 - intermediate   
 roles:  

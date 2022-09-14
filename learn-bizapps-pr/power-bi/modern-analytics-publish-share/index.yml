@@ -24,7 +24,7 @@ abstract: |
     - Protect data with Microsoft Purview Information Protection.
     - Apply refresh and alert schedules for a Power BI report.
 prerequisites: None
-iconUrl: /learn/achievements/modern-analytics-publish-share.svg  
+iconUrl: /training/achievements/modern-analytics-publish-share.svg  
 levels:  
 - intermediate   
 roles:  

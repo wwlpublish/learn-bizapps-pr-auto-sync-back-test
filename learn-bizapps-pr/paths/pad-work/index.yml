@@ -14,7 +14,7 @@ summary: |
   Work with Power Automate for desktop options, flows, recording features, conditions, loops, variables, images, and error and exception handling.
 prerequisites: |
   - Basic familiarity with Power Automate for desktop
-iconUrl: /learn/achievements/pad-work.svg
+iconUrl: /training/achievements/pad-work.svg
 levels:
 - beginner
 roles: 

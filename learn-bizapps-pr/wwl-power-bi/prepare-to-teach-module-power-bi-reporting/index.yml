@@ -14,7 +14,7 @@ abstract: |
   Learn how to deliver the instructor-led course “Power BI paginated reports in a day”
 prerequisites: |
   Experience with Paginated reports.
-iconUrl: /learn/achievements/power-bi-reporting.svg
+iconUrl: /training/achievements/power-bi-reporting.svg
 hidden: true
 levels:
 - intermediate

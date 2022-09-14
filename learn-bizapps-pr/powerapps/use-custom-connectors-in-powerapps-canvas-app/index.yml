@@ -19,7 +19,7 @@ abstract: |
     - Understand the custom connector lifecycle
     - Use postman with a custom connector
 prerequisites: A basic understanding of how to create a Power Apps canvas app.      
-iconUrl: /learn/achievements/custom-connectors.svg  
+iconUrl: /training/achievements/custom-connectors.svg  
 levels:  
 - intermediate   
 roles:  

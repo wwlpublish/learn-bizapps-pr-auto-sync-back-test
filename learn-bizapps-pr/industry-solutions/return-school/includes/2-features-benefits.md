@@ -13,7 +13,7 @@ Then, the portal will provide building visitors with a series of options for obt
 > [!div class="mx-imgBorder"]
 > [![Screenshot showing the Return to School portal page and options.](../media/portal.png)](../media/portal.png#lightbox)
 
-The portal is a web-based application that is presented to a user in a standard internet browser like Microsoft Edge. The application has a responsive design so that your users will have a good experience if it's consumed on a mobile phone, tablet, or a desktop with a full-sized browser. You can configure the appearance and behavior of your portal by using the portal studio and the portal management app. For more information, see [Work with Power Apps portals](/learn/paths/work-power-apps-portals/?azure-portal=true).
+The portal is a web-based application that is presented to a user in a standard internet browser like Microsoft Edge. The application has a responsive design so that your users will have a good experience if it's consumed on a mobile phone, tablet, or a desktop with a full-sized browser. You can configure the appearance and behavior of your portal by using the portal studio and the portal management app. For more information, see [Work with Power Apps portals](/training/paths/work-power-apps-portals/?azure-portal=true).
 
 A school might need to control the flow of visitors to their buildings. Students, faculty, parents, and other guests can use the portal to request a building pass to comply with these expectations. Only authenticated users can request building access. A user will be presented with a set of questions to confirm eligibility for a pass. The answers will be saved in an attestation record.
 
@@ -36,7 +36,7 @@ The user will receive a confirmed appointment screen after the selection has bee
 > [!div class="mx-imgBorder"]
 > [![Screenshot showing the Return to School portal page with a confirmed appointment.](../media/confirmed-appointment.png)](../media/confirmed-appointment.png#lightbox)
 
-A building pass will not be created automatically for this user for their confirmed appointment. Appointments can be scheduled days in advance, and passes are created for same-day entry. Microsoft Power Automate would make it possible to automate the creation of this building pass by using a flow. Additionally, you could consider other automations such as emailing a confirmation of or reminders for the appointment. For more information, see [Automate a business process using Power Automate](/learn/paths/automate-process-power-automate/?azure-portal=true).
+A building pass will not be created automatically for this user for their confirmed appointment. Appointments can be scheduled days in advance, and passes are created for same-day entry. Microsoft Power Automate would make it possible to automate the creation of this building pass by using a flow. Additionally, you could consider other automations such as emailing a confirmation of or reminders for the appointment. For more information, see [Automate a business process using Power Automate](/training/paths/automate-process-power-automate/?azure-portal=true).
 
 ## Dashboards and analytics
 

@@ -20,7 +20,7 @@ abstract: |
     - Create quick measures.
     - Describe similarities of, and differences between, a calculated column and a measure.
 prerequisites: Experience creating Power BI Desktop models and designing Power BI report layouts, in addition to an understanding of how to write Data Analysis Expressions (DAX) formulas 
-iconUrl: /learn/achievements/add-measures-power-bi-desktop.svg  
+iconUrl: /training/achievements/add-measures-power-bi-desktop.svg  
 levels:  
 - intermediate   
 roles:  

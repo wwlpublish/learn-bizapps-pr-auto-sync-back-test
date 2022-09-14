@@ -14,7 +14,7 @@ When you're exploring your data, you might want to see how selecting a single da
 
 Both of these ways of viewing data are possible using *single-select* and *multi-select* mode. In single-select mode, each time you tap a data point on a report page, the new selection replaces the current selection. In multi-select mode, you can select multiple data points. Each data point you tap gets added to any other selected data points, and the combined results are automatically highlighted in all the visuals on the page.
 
-You can switch between single-select and multi-select modes in the app settings, as explained in the [Configure app settings](/learn/modules/explore-power-bi-mobile-apps/6-configure-app-settings) unit of this module.
+You can switch between single-select and multi-select modes in the app settings, as explained in the [Configure app settings](/training/modules/explore-power-bi-mobile-apps/6-configure-app-settings) unit of this module.
 
 ## Tooltips
 
@@ -136,7 +136,7 @@ Report data refreshes when you open a report. You can also refresh report data m
 >[!NOTE]
 > In the mobile apps, data is always refreshed with the data as it is in the Power BI service, never directly from the data source.
  
-On Android devices, it is possible to have a button for refresh, as explained in the [Configure app settings](/learn/modules/explore-power-bi-mobile-apps/6-configure-app-settings) unit of this module.
+On Android devices, it is possible to have a button for refresh, as explained in the [Configure app settings](/training/modules/explore-power-bi-mobile-apps/6-configure-app-settings) unit of this module.
 
 ## View your data offline
 

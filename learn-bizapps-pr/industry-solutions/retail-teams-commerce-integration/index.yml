@@ -22,7 +22,7 @@ abstract: |
 prerequisites: |
     - Dynamics 365 Commerce
     - Microsoft Teams
-iconUrl: /learn/achievements/retail-teams-commerce-integration.svg
+iconUrl: /training/achievements/retail-teams-commerce-integration.svg
 levels:
 - intermediate
 roles:

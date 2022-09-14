@@ -20,7 +20,7 @@ abstract: |
     - Apply global error handling properties that will come into effect when any process fails.
 prerequisites: |
     - Basic familiarity with the WinAutomation Console and Process Designer.
-iconUrl: /learn/achievements/exceptions-handling.svg  
+iconUrl: /training/achievements/exceptions-handling.svg  
 levels:  
 - intermediate   
 roles:  

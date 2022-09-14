@@ -21,7 +21,7 @@ abstract: |
     - Use DAX operators.
     - Use DAX variables.
 prerequisites: Experience creating Microsoft Power BI Desktop models and designing Power BI report layouts 
-iconUrl: /learn/achievements/dax-power-bi-write-formulas.svg  
+iconUrl: /training/achievements/dax-power-bi-write-formulas.svg  
 levels:  
 - intermediate   
 roles: 

@@ -20,7 +20,7 @@ abstract: |
     - Change the position of an icon using a formula
     - Understand how to implement conditional formatting in canvas apps using a formula
 prerequisites: A basic understanding of how to create a canvas app in Power Apps.  This should include adding controls to the app.  An understanding of working with data in Power Apps is also helpful but not required.
-iconUrl: /learn/achievements/change-properties.svg
+iconUrl: /training/achievements/change-properties.svg
 levels:
 - intermediate
 roles:

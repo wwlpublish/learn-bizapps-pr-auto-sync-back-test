@@ -1,4 +1,6 @@
-A healthy team development process is essential to have a successful ALM for the Power Platform. Here are a few questions to assess the health of your team development process:
+A healthy team development process is essential in having a successful ALM for Microsoft Power Platform.
+
+Ask yourself the following questions to assess the health of your team development process:
 
 -   Is source control the source of truth for your team?
 
@@ -6,7 +8,7 @@ A healthy team development process is essential to have a successful ALM for the
 
 -   Are you using managed solutions to achieve layering?
 
--   What if anything, have you automated?
+-   What, if anything, have you automated?
 
 -   Are your development environments disposable?
 
@@ -14,6 +16,6 @@ A healthy team development process is essential to have a successful ALM for the
 
 -   Are you using a single publisher?
 
--   Do you have access to any third party solutions you're using for deployment purposes?
+-   Do you have access to external solutions that you're using for deployment purposes?
 
 This learning path will continue to explore solution strategies.

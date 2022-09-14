@@ -18,7 +18,7 @@ abstract: |
     - Distinguish between user and guest Power BI accounts
     - Describe the attributes of different Power BI license types
 prerequisites: We recommend completing the [Dashboard in a Day](https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x1728241abcd&azure-portal=true) learning path before beginning this module.
-iconUrl: /learn/achievements/power-bi-admin-environment.svg  
+iconUrl: /training/achievements/power-bi-admin-environment.svg  
 levels:  
 - intermediate   
 roles:  

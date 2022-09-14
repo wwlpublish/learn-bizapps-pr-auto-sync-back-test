@@ -21,7 +21,7 @@ abstract: |
 prerequisites: |
     - Basic familiarity with WinAutomation
     - Basic familiarity with the WinAutomation Process Designer Image Repository
-iconUrl: /learn/achievements/mouse-keyboard.svg  
+iconUrl: /training/achievements/mouse-keyboard.svg  
 levels:  
 - beginner   
 roles:  

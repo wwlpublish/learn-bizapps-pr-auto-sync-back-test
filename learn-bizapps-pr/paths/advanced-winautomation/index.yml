@@ -13,7 +13,7 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   This Learning Path expands on WinAutomation with advanced subjects of working with Power Automate, OCR technologies, and scripting, with WinAutomation. 
 prerequisites: Basic familiarity with WinAutomation.
-iconUrl: /learn/achievements/advanced-winautomation.svg
+iconUrl: /training/achievements/advanced-winautomation.svg
 levels:
 - advanced
 roles: 

@@ -18,7 +18,7 @@ abstract: |
     - Discover the window and element-handling capabilities of Power Automate for desktop.
 prerequisites: |
     A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml).
-iconUrl: /learn/achievements/pad-ui-automation.svg  
+iconUrl: /training/achievements/pad-ui-automation.svg  
 levels:  
 - beginner   
 roles:  

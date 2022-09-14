@@ -17,7 +17,7 @@ abstract: |
     - Use one or more functions to create expressions. 
     - Use functions to retrieve data, change data, evaluate data, and more. 
 prerequisites: None 
-iconUrl: /learn/achievements/introduction-expressions.svg  
+iconUrl: /training/achievements/introduction-expressions.svg  
 levels:  
 - intermediate   
 roles:  

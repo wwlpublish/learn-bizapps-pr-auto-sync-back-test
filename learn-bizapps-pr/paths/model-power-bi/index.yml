@@ -13,9 +13,9 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   Success with Power BI begins with a great data model. In this module, you will learn how to design a data model that is intuitive, high-performing, and simple to maintain. You will learn about using DAX language to create measures. Those measures will help you create a wide variety of analytic solutions. Additionally, you’ll learn how to improve performance with your Power Query data retrieval tasks.  
  
-  This learning path can help you prepare for the [Microsoft Certified: Data Analyst Associate certification](/learn/certifications/data-analyst-associate/?azure-portal=true).
+  This learning path can help you prepare for the [Microsoft Certified: Data Analyst Associate certification](/certifications/data-analyst-associate/?azure-portal=true).
 prerequisites: None
-iconUrl: /learn/achievements/model-data-in-power-bi.svg
+iconUrl: /training/achievements/model-data-in-power-bi.svg
 levels:
 - intermediate
 roles: 

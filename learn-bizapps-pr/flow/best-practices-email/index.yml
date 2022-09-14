@@ -20,7 +20,7 @@ abstract: |
     - Use the Approval connector for an approval process by using email.
     - Discover when to use attachments versus links.
 prerequisites: Basic understanding of how to create flows with SharePoint as the trigger      
-iconUrl: /learn/achievements/best-practices-email.svg  
+iconUrl: /training/achievements/best-practices-email.svg  
 levels:  
 - intermediate   
 roles:  

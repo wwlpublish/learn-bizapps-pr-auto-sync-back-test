@@ -19,7 +19,7 @@ abstract: |
     - Identify different types of triggers.
     - Learn how to extend a custom connector definition to use triggers that are defined by a service API.
 prerequisites: None 
-iconUrl: /learn/achievements/create-triggers-custom-connectors.svg  
+iconUrl: /training/achievements/create-triggers-custom-connectors.svg  
 levels:  
 - intermediate   
 roles:  
