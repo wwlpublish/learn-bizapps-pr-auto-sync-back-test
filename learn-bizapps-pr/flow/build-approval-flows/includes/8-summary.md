@@ -4,7 +4,7 @@ In the previous modules for Power Automate, you learned how to build simple flow
 
 ## Continue your journey
 
-Microsoft Learn provides several learning paths, based on your role and interests.
+There are several training modules to view based on your role and interests.
 
 Here are some ways that you can use Power Automate to get more done with less work when you use dynamics 365 and the Power Platform. Because these technologies work together, it's easy to measure your business, act on the results, and automate your workflows.
 
