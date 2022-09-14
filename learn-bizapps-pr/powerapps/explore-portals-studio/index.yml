@@ -22,7 +22,7 @@ abstract: |
     - Identify where to add or modify custom HTML, CSS, or Liquid code to the webpages by using portals Studio.
     - Discover the process of uploading CSS files and how it will apply to the portal.
 prerequisites: A basic understanding of how to navigate a model-driven app and use WYSIWYG tools. Knowledge of web technologies such as HTML, CSS, and Bootstrap will also be beneficial.
-iconUrl: /learn/achievements/explore-portals-studio.svg
+iconUrl: /training/achievements/explore-portals-studio.svg
 levels:
 - intermediate
 roles:

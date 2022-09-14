@@ -18,7 +18,7 @@ abstract: |
     - Publish the model-driven app.
     - Discover the different components of model-driven apps.
 prerequisites: Basic understanding of Microsoft model-driven apps and Microsoft Dataverse
-iconUrl: /learn/achievements/create-model-driven.svg  
+iconUrl: /training/achievements/create-model-driven.svg  
 levels:  
 - beginner   
 roles:  

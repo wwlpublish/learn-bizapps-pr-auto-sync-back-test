@@ -80,8 +80,8 @@ Portal assets, such as views and forms, can be packaged in solutions, but most p
 
 ## Further reading
 
-- [Power Apps portals architecture](/learn/modules/portals-architecture/?azure-portal=true).
+- [Power Apps portals architecture](/training/modules/portals-architecture/?azure-portal=true).
 
-- [Work with Power Apps portals](/learn/paths/work-power-apps-portals/?azure-portal=true).
+- [Work with Power Apps portals](/training/paths/work-power-apps-portals/?azure-portal=true).
 
-- [Extend Power Apps portals](/learn/paths/extend-power-apps-portals/?azure-portal=true)
+- [Extend Power Apps portals](/training/paths/extend-power-apps-portals/?azure-portal=true)

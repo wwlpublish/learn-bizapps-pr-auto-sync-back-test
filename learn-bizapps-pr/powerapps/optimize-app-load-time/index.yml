@@ -18,7 +18,7 @@ abstract: |
     - Optimize OnStart app load time.
     - Implement a data load strategy.
 prerequisites: Basic Microsoft Power Apps maker experience
-iconUrl: /learn/achievements/optimize-app-load-time.svg  
+iconUrl: /training/achievements/optimize-app-load-time.svg  
 levels:  
 - intermediate   
 roles:  

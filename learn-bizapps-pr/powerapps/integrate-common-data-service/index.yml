@@ -21,7 +21,7 @@ abstract: |
     - Trigger classic Dataverse workflows from the portal.
     - Combine the various Dataverse portal components to build powerful web applications.
 prerequisites: A basic understanding of how to navigate and configure Power Apps portals and knowledge of how to customize and configure model-driven apps. Knowledge of the portal entities and concepts and familiarity with Power Apps portals Studio would be beneficial.
-iconUrl: /learn/achievements/integrate-common-data-service.svg
+iconUrl: /training/achievements/integrate-common-data-service.svg
 levels:
 - intermediate
 roles:

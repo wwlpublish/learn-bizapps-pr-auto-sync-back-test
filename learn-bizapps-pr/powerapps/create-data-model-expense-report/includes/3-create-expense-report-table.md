@@ -47,7 +47,7 @@ Now that you have created the table, you need to add a few more columns for your
 
     In the **Required** field, you can make any column required, meaning that the user must populate that field before saving the record. Make sure that users won't need to save as a draft before you make all fields required instead of optional. Additionally, you can write similar data validation inside your canvas app, such as making sure that some fields are populated before users save as a draft but that more fields are populated before users can push the expense report to the next stage.
 
-    For more information, see [Getting started using Dataverse](/learn/paths/get-started-cds//?azure-portal=true#).
+    For more information, see [Getting started using Dataverse](/training/paths/get-started-cds//?azure-portal=true#).
 
     The **Description** area allows you to describe the column or your decisions in defining it.
 

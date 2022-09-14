@@ -18,7 +18,7 @@ abstract: |
     - Discover how to display and filter data.
     - Learn about galleries and the Filter function.
 prerequisites: Basic understanding of canvas apps from Microsoft Power Apps and Microsoft Dataverse
-iconUrl: /learn/achievements/connect-filter-data.svg
+iconUrl: /training/achievements/connect-filter-data.svg
 levels:
 - beginner
 roles:
