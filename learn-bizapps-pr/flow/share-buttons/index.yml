@@ -19,7 +19,7 @@ abstract: |
     - Learn about flow button connection security.
     - Monitor the run history of a button flow.
 prerequisites: The Target Audience should have a basic understanding of Microsoft Power Automate and how to create an event driven Power Automate.
-iconUrl: /learn/achievements/share-buttons.svg  
+iconUrl: /training/achievements/share-buttons.svg  
 levels:  
 - intermediate   
 roles:  

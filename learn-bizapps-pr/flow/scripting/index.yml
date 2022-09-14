@@ -19,7 +19,7 @@ abstract: |
 prerequisites: |
     - Familiarity with the WinAutomation Console and Process Designer
     - Advanced experience with process development and variables 
-iconUrl: /learn/achievements/scripting.svg  
+iconUrl: /training/achievements/scripting.svg  
 levels:  
 - advanced  
 roles:  

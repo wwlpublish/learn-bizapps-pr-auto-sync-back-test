@@ -20,7 +20,7 @@ abstract: |
     - Review data policies.
     - Redesign your flows.
 prerequisites: Basic understanding of how to create flows with SharePoint as the trigger
-iconUrl: /learn/achievements/troubleshoot-slow-flows.svg  
+iconUrl: /training/achievements/troubleshoot-slow-flows.svg  
 levels:  
 - intermediate   
 roles:  

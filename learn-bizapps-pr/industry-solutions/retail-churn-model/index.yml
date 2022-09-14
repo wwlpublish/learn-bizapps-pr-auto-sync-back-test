@@ -19,7 +19,7 @@ abstract: |
     - Set up the Retail churn model in Dynamics 365 Customer Insights.
     - Learn about Retail churn model output.
 prerequisites: Dynamics 365 Customer Insights
-iconUrl: /learn/achievements/retail-churn-model.svg  
+iconUrl: /training/achievements/retail-churn-model.svg  
 levels:  
 - intermediate   
 roles:  

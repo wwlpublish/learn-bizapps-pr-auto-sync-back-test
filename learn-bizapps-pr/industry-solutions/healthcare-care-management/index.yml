@@ -18,7 +18,7 @@ abstract: |
     - Navigate the Care Management application.
     - Create a new location record for Lamna Healthcare Company.
 prerequisites: Training environment preparation
-iconUrl: /learn/achievements/healthcare-care-management.svg  
+iconUrl: /training/achievements/healthcare-care-management.svg  
 levels:  
 - intermediate   
 roles:  

@@ -36,7 +36,7 @@ The sample portal allows the applicant to pick the relevant type of loan and the
 
 The sample portal allows you to upload documents according to the type of loan, as defined in advance by the bank. The sample portal contains a page that allows the applicant to view the status of the application, including alerts for missing details or documents. The page also lets the applicant upload missing documents.
 
-For more information, see [Work with Power Apps portals.](/learn/paths/work-power-apps-portals/?azure-portal=true)
+For more information, see [Work with Power Apps portals.](/training/paths/work-power-apps-portals/?azure-portal=true)
 
 ## Deployment considerations
 
