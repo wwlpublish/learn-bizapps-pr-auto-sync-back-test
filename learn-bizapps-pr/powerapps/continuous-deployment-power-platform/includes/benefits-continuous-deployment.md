@@ -2,7 +2,7 @@ Continuous deployment has several benefits.
 
 The goal of continuous deployment is to keep production fresh by reducing resistance in your development and deployment life cycle.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE56A6d]
 
 The top benefits of continuous deployment are that it:
 
