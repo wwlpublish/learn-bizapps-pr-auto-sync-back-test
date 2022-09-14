@@ -4,89 +4,89 @@ achievements:
   type: badge
   title: Microsoft Vaccination Management overview
   summary: Microsoft Vaccination Management overview
-  iconUrl: /learn/achievements/microsoft-vaccination-management-overview-social.png
+  iconUrl: /training/achievements/microsoft-vaccination-management-overview-social.png
 - uid: learn-bizapps.cloud-licensing.badge
   type: badge
   title: Microsoft Cloud Solution Center and licensing
   summary: Microsoft Cloud Solution Center and licensing
-  iconUrl: /learn/achievements/cloud-licensing-social.png
+  iconUrl: /training/achievements/cloud-licensing-social.png
 - uid: learn-bizapps.frontline-worker-app.badge
   type: badge
   title: Microsoft Vaccination Management Frontline worker app
   summary: Microsoft Vaccination Management Frontline worker app
-  iconUrl: /learn/achievements/frontline-worker-app-social.png
+  iconUrl: /training/achievements/frontline-worker-app-social.png
 - uid: learn-bizapps.registration-booking-process.badge
   type: badge
   title: Registration and booking process in Microsoft Vaccination Management
   summary: Registration and booking process in Microsoft Vaccination Management
-  iconUrl: /learn/achievements/registration-booking-process-social.png
+  iconUrl: /training/achievements/registration-booking-process-social.png
 - uid: learn-bizapps.vaccination-environment-prep.badge
   type: badge
   title: Microsoft Vaccination Management environment preparation
   summary: Microsoft Vaccination Management environment preparation
-  iconUrl: /learn/achievements/vaccination-environment-prep-social.png
+  iconUrl: /training/achievements/vaccination-environment-prep-social.png
 - uid: learn-bizapps.data-setup-vaccination-management-app.badge
   type: badge
   title: Data setup with the Vaccination management app
   summary: Data setup with the Vaccination management app
-  iconUrl: /learn/achievements/data-setup-vaccination-management-app-social.png
+  iconUrl: /training/achievements/data-setup-vaccination-management-app-social.png
 - uid: learn-bizapps.post-deployment-configuration.badge
   type: badge
   title: Microsoft Vaccination Management post-deployment configuration
   summary: Microsoft Vaccination Management post-deployment configuration
-  iconUrl: /learn/achievements/post-deployment-configuration-social.png
+  iconUrl: /training/achievements/post-deployment-configuration-social.png
 - uid: learn-bizapps.vaccination-dashboard.badge
   type: badge
   title: Use the Microsoft Vaccination Management Dashboard
   summary: Use the Microsoft Vaccination Management Dashboard
-  iconUrl: /learn/achievements/vaccination-dashboard-social.png
+  iconUrl: /training/achievements/vaccination-dashboard-social.png
 - uid: learn.vaccination-management.trophy
   type: trophy
   title: Get up and running quickly with Microsoft Vaccination Management
   summary: Get up and running quickly with Microsoft Vaccination Management
-  iconUrl: /learn/achievements/vaccination-management-social.png
+  iconUrl: /training/achievements/vaccination-management-social.png
 - uid: learn-bizapps.create-immersive-flow.badge
   type: badge
   title: Create an immersive business process flow in Power Automate
   summary: Create an immersive business process flow in Power Automate
-  iconUrl: /learn/achievements/create-immersive-flow-social.png
+  iconUrl: /training/achievements/create-immersive-flow-social.png
 - uid: learn-bizapps.work-healthcare-solution.trophy
   type: trophy
   title: Work with Microsoft Cloud for Healthcare
   summary: Work with Microsoft Cloud for Healthcare
-  iconUrl: /learn/achievements/work-healthcare-solution.svg
+  iconUrl: /training/achievements/work-healthcare-solution.svg
 - uid: learn-bizapps.get-started-healthcare.badge
   type: badge
   title: Get started with Microsoft Cloud for Healthcare solutions powered by Dynamics 365
   summary: Get started with Microsoft Cloud for Healthcare solutions powered by Dynamics 365
-  iconUrl: /learn/achievements/get-started-healthcare.svg
+  iconUrl: /training/achievements/get-started-healthcare.svg
 - uid: learn-bizapps.deployment-planning-healthcare.badge
   type: badge
   title: Deployment planning of Microsoft Cloud for Healthcare
   summary: Badge for Deployment planning of Microsoft Cloud for Healthcare module.
-  iconUrl: /learn/achievements/deployment-planning-healthcare.svg
+  iconUrl: /training/achievements/deployment-planning-healthcare.svg
 - uid: learn-bizapps.use-healthcare-solution.badge
   type: badge
   title: Use Microsoft Cloud for Healthcare solutions
   summary: Badge for Use Microsoft Cloud for Healthcare solutions module.
-  iconUrl: /learn/achievements/use-healthcare-solution.svg
+  iconUrl: /training/achievements/use-healthcare-solution.svg
 - uid: learn.wwl.implement-rpa-power-automate-ui-flows-ai-builder.badge
   type: badge
   title: Implement robotic process automation with Microsoft Power Automate, Teams, desktop flow, and AI Builder
   summary: Badge for the 'Implement robotic process automation with Microsoft Power Automate, Teams, desktop flow, and AI Builder' module.
-  iconUrl: /learn/achievements/implement-rpa-power-automate-ui-flows-ai-builder.svg
+  iconUrl: /training/achievements/implement-rpa-power-automate-ui-flows-ai-builder.svg
 - uid: learn.flow-create-approval.badge
   type: badge
   title: Create an approval flow Badge
   summary: Badge for the 'Create an approval flow' module.
-  iconUrl: /learn/achievements/use-flow-to-create-an-approval-flow.svg
+  iconUrl: /training/achievements/use-flow-to-create-an-approval-flow.svg
 - uid: learn.powerapps-business-process-flow.badge 
   type: badge
   title: Get started with business process flows
   summary: Badge for the 'Get started with business process flows' module.
-  iconUrl: /learn/achievements/get-started-with-flow.svg
+  iconUrl: /training/achievements/get-started-with-flow.svg
 - uid: learn-bizapps.create-reports-with-power-bi-desktop.trophy
   type: trophy
   title: Create and share your first Power BI report
   summary: Create and share your first Power BI report
-  iconUrl: /learn/achievements/create-reports-with-power-bi-desktop.svg
+  iconUrl: /training/achievements/create-reports-with-power-bi-desktop.svg
