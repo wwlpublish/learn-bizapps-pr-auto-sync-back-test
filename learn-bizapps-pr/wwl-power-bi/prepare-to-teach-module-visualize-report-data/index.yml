@@ -14,7 +14,7 @@ abstract: |
   Teach the module  “Working with parameters&quot; in the instructor-led course “Power BI paginated reports”.
 prerequisites: |
   Experience with paginated reports
-iconUrl: /learn/achievements/visualize-report-data.svg
+iconUrl: /training/achievements/visualize-report-data.svg
 hidden: true
 levels:
 - intermediate

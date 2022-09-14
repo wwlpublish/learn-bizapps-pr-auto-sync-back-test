@@ -18,7 +18,7 @@ abstract: |
 prerequisites: |
   - Basic familiarity with data analysis and reporting tools.
   - Experience with Excel.
-iconUrl: /learn/achievements/analytics-in-excel.svg
+iconUrl: /training/achievements/analytics-in-excel.svg
 hidden: true
 levels:
 - intermediate

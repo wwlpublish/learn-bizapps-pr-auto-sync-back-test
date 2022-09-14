@@ -19,7 +19,7 @@ abstract: |
     - Understand how functions, predicates, and operators all play roles in the limits
     - Use this new understanding to choose the best data source for an app
 prerequisites: A basic understanding of how to create a canvas app in Power Apps.
-iconUrl: /learn/achievements/data-source-limits.svg
+iconUrl: /training/achievements/data-source-limits.svg
 levels:
 - intermediate
 roles:

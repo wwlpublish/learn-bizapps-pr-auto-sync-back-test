@@ -19,7 +19,7 @@ abstract: |
   - Configure and manage app settings
 prerequisites: |
   None
-iconUrl: /learn/achievements/build-app-solution.svg
+iconUrl: /training/achievements/build-app-solution.svg
 levels:
 - beginner
 roles:

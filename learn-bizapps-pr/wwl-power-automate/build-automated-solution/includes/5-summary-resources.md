@@ -31,6 +31,6 @@ Use these resources to discover more.
 
 ### Additional training resources
 
-- [Get started with Power Automate](/learn/modules/get-started-with-flow/)
+- [Get started with Power Automate](/training/modules/get-started-with-flow/)
 
-- [Build more complex flows with Power Automate](/learn/modules/build-more-flows/)
+- [Build more complex flows with Power Automate](/training/modules/build-more-flows/)
