@@ -1,4 +1,4 @@
-Before you begin this course, we recommend that you first complete the [Get started with AI Builder](/learn/modules/get-started-with-ai-builder/?azure-portal=true) module and read the [What is AI Builder?](/ai-builder/overview/?azure-portal=true) documentation page.
+Before you begin this course, we recommend that you first complete the [Get started with AI Builder](/training/modules/get-started-with-ai-builder/?azure-portal=true) module and read the [What is AI Builder?](/ai-builder/overview/?azure-portal=true) documentation page.
 
 The identity document reader (ID reader) in AI Builder is a prebuilt AI model that extracts data from passports from any country and US driver licenses.
 

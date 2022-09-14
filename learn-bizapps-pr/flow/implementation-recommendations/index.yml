@@ -19,7 +19,7 @@ abstract: |
     - Configure DLP policies that manage custom connectors.
     - Configure DLP policies that manage HTTP connectors.
 prerequisites: A basic understanding of Power Apps and Power Automate, including their purpose and how these tools are used within an organization. Students should also understand how connectors are used within apps and flows to exchange data across source and destination systems. Participants should have environment or tenant-wide administrative access to Microsoft Power Platform Admin center and Power Automate Admin center. The Power Apps PowerShell cmdlets and Microsoft Power Platform Management Connector are also used. 
-iconUrl: /learn/achievements/implementation-recommendations.svg  
+iconUrl: /training/achievements/implementation-recommendations.svg  
 levels:  
 - intermediate   
 roles:  

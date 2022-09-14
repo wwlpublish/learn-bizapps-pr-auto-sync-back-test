@@ -6,13 +6,13 @@ In this unit, you will
 
 Before you begin this course, we recommend that you get familiar with these products:
 
-- [Introduction to Power Automate](/learn/modules/introduction-power-automate/?azure-portal=true) learn module.
+- [Introduction to Power Automate](/training/modules/introduction-power-automate/?azure-portal=true) learn module.
 
-- [Introduction to Power Apps](/learn/modules/introduction-power-apps/?azure-portal=true) learn module.
+- [Introduction to Power Apps](/training/modules/introduction-power-apps/?azure-portal=true) learn module.
 
-- [Get started with Dataverse](/learn/modules/get-started-with-powerapps-common-data-service/?azure-portal=true) learn module.
+- [Get started with Dataverse](/training/modules/get-started-with-powerapps-common-data-service/?azure-portal=true) learn module.
 
-- [Get started with Document processing in AI Builder](/learn/modules/get-started-with-form-processing/?azure-portal=true) learn module.
+- [Get started with Document processing in AI Builder](/training/modules/get-started-with-form-processing/?azure-portal=true) learn module.
 
 - [Overview of AI Builder document processing model](/ai-builder/form-processing-model-overview/?azure-portal=true) documentation.
 

@@ -19,7 +19,7 @@ abstract: |
     - Preview and edit the automatically generated actions during and after the recording
 prerequisites: |
     A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml).
-iconUrl: /learn/achievements/pad-power-automate-desktop-recording-features.svg  
+iconUrl: /training/achievements/pad-power-automate-desktop-recording-features.svg  
 levels:  
 - beginner   
 roles:  

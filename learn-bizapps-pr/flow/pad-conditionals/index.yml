@@ -20,7 +20,7 @@ abstract: |
     - Provide default and alternative behaviors for flows based on the environment data
 prerequisites: |
     A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml).
-iconUrl: /learn/achievements/pad-conditionals.svg  
+iconUrl: /training/achievements/pad-conditionals.svg  
 levels:
 - beginner   
 roles:  
