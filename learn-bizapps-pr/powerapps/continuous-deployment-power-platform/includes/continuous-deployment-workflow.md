@@ -7,9 +7,3 @@ A modern approach to solution development will include layering and support depl
 
 > [!div class="mx-imgBorder"]
 > [![Diagram of a modern approach with layering and deterministic deployments.](../media/layering.png)](../media/layering.png#lightbox)
-
-## Continuous delivery workflow example
-
-Watch the following video for a demonstration of the continuous integration flow being condensed to the left to focus on the release stage (continuous delivery).
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
