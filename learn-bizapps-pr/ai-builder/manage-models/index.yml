@@ -24,7 +24,7 @@ prerequisites: |
     - Access to [Common Data
       Service](https://powerapps.microsoft.com/common-data-service/)
     - An [AI Builder](https://powerapps.microsoft.com/ai-builder/) add-on or trial 
-iconUrl: /learn/achievements/manage-models.svg  
+iconUrl: /training/achievements/manage-models.svg  
 levels:  
 - beginner   
 roles:  

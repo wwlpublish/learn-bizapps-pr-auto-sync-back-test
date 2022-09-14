@@ -23,7 +23,7 @@ prerequisites: |
     - A Power Apps or Power Automate [license](https://go.microsoft.com/fwlink/?linkid=2085130)
     - Access to [Microsoft Dataverse](https://powerapps.microsoft.com/common-data-service/)
     - An [AI Builder](https://powerapps.microsoft.com/ai-builder/) add-on or trial 
-iconUrl: /learn/achievements/get-started-with-ai-builder.svg  
+iconUrl: /training/achievements/get-started-with-ai-builder.svg  
 levels:  
 - beginner   
 roles:

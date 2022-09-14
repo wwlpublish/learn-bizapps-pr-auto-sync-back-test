@@ -21,7 +21,7 @@ abstract: |
     - Run a button from the mobile app.
     - Test the button flow.
 prerequisites: A basic understanding of Microsoft Power Automate and how to create an event-driven flow and a working mobile device with a Power Automate license. It is also beneficial if the student has already taken the Introduction to using Power Automate buttons module. 
-iconUrl: /learn/achievements/button-without-user-input.svg  
+iconUrl: /training/achievements/button-without-user-input.svg  
 levels:  
 - intermediate   
 roles:  

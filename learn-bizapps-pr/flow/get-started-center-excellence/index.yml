@@ -19,7 +19,7 @@ abstract: |
     - Set up audit log connectors.
     - Set up Power BI reports.
 prerequisites: Familiarity with Microsoft Power Platform.  
-iconUrl: /learn/achievements/get-started-center-excellence.svg  
+iconUrl: /training/achievements/get-started-center-excellence.svg  
 levels:  
 - intermediate   
 roles:  

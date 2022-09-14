@@ -22,7 +22,7 @@ abstract: |
     - Use environment variables to avoid hard coded values.
     - Import and export solutions.
 prerequisites: Basic Microsoft Power Automate experience
-iconUrl: /learn/achievements/import-export-solutions.svg  
+iconUrl: /training/achievements/import-export-solutions.svg  
 levels:  
 - beginner   
 roles:  

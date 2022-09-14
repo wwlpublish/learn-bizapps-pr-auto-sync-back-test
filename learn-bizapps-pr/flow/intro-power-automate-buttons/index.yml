@@ -20,7 +20,7 @@ abstract: |
     - Learn how to share buttons.
     - Learn how buttons work in the Power Automate mobile app.
 prerequisites: A basic understanding of Microsoft Power Automate. Basic understanding of how to create an event-driven flow and a working mobile device with a Power Automate license.
-iconUrl: /learn/achievements/intro-power-automate-buttons.svg  
+iconUrl: /training/achievements/intro-power-automate-buttons.svg  
 levels:  
 - intermediate   
 roles:  

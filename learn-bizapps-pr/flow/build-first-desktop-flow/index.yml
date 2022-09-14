@@ -21,7 +21,7 @@ abstract: |
 prerequisites: |
     - Basic understanding of Microsoft Power Automate. 
     - Recommended - View lab instructions on a separate device or in a printout. 
-iconUrl: /learn/achievements/build-first-desktop-flow.svg  
+iconUrl: /training/achievements/build-first-desktop-flow.svg  
 levels:  
 - beginner   
 roles:  

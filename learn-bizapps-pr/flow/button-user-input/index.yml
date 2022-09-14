@@ -21,7 +21,7 @@ abstract: |
     - Discover how to use trigger tokens.
     - Run a flow button from the mobile Power Automate app.
 prerequisites: A basic understanding of Microsoft Power Automate and how to create an event-driven flow and a working mobile device with a Power Automate license. It's also beneficial if the learner has completed the Introduction to using Power Automate buttons module. 
-iconUrl: /learn/achievements/button-user-input.svg  
+iconUrl: /training/achievements/button-user-input.svg  
 levels:  
 - intermediate   
 roles:  

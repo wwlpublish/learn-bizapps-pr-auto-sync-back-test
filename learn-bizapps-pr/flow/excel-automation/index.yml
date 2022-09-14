@@ -21,7 +21,7 @@ abstract: |
 prerequisites: |
     - Basic familiarity with the WinAutomation Console and Process Designer
     - Basic familiarity with Microsoft Excel
-iconUrl: /learn/achievements/excel-automation.svg  
+iconUrl: /training/achievements/excel-automation.svg  
 levels:  
 - beginner   
 - intermediate  

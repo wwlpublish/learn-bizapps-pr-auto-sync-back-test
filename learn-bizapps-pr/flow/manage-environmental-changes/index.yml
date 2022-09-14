@@ -20,7 +20,7 @@ abstract: |
     - Learn what connectors are being used within your Microsoft Power Platform environments.
     - Observe how connections are being established within your Microsoft Power Platform environments.
 prerequisites: A basic understanding of Power Apps and Power Automate, including their purpose and how these tools are used within an organization. Learners should understand how connectors are used within apps and flows to exchange data across source and destination systems. You also need an account that has environment or tenant admin privileges for Microsoft Power Platform.
-iconUrl: /learn/achievements/manage-environmental-changes.svg  
+iconUrl: /training/achievements/manage-environmental-changes.svg  
 levels:  
 - intermediate   
 roles:  
