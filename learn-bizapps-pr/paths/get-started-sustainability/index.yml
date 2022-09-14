@@ -16,8 +16,8 @@ summary: |
   
   In this Learning Path, you’ll gain a foundational understanding of Microsoft Cloud for Sustainability and its core components. You'll be guided through hands-on exercises as you work, extend, and access data in the sustainability applications deployed through Microsoft Cloud for Sustainability using Dynamics 365, Power Platform, Microsoft 365, and Azure in your own environment. You'll dive into various modules to explore the Microsoft Cloud for Sustainability applications, including unify data intelligence, build a sustainable IT infrastructure, reduce the environmental impact of operations, create sustainable value chains.
 prerequisites: |
-  - To complete the exercises in this Learning Path, complete the module on [environment preparation](/learn/modules/retail-capability-mapping/).
-iconUrl: /learn/achievements/get-started-sustainability.svg
+  - To complete the exercises in this Learning Path, complete the module on [environment preparation](/training/modules/retail-capability-mapping/).
+iconUrl: /training/achievements/get-started-sustainability.svg
 levels:
 - intermediate
 - beginner

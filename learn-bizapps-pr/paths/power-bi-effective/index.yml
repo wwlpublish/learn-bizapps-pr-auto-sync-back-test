@@ -16,7 +16,7 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   This learning path introduces a design process to design and deliver compelling Power BI reports. It begins by describing a proven design process created by leading report design experts. The process encompasses phases to understand the report users and their requirements, explore pleasing report designs, and develop reports all the way into production. 
 prerequisites: None
-iconUrl: /learn/achievements/power-bi-effective.svg
+iconUrl: /training/achievements/power-bi-effective.svg
 levels:
 - intermediate
 roles: 

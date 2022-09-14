@@ -13,7 +13,7 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   This Learning Path covers technologies used with WinAutomation. Learn how to automate email handling, Excel, user interface, and system services in this path. 
 prerequisites: Basic familiarity with WinAutomation.
-iconUrl: /learn/achievements/work-winautomation-technology.svg
+iconUrl: /training/achievements/work-winautomation-technology.svg
 levels:
 - intermediate
 roles: 

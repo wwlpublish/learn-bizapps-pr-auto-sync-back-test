@@ -23,7 +23,7 @@ summary: |
   
 prerequisites: |
   - Passing familiarity with web development, Azure App Service, Azure API Management, and Power Apps.
-iconUrl: /learn/achievements/transform-with-fusion-development.svg
+iconUrl: /training/achievements/transform-with-fusion-development.svg
 levels:
 - beginner
 roles:
