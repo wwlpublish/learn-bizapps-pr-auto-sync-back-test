@@ -18,7 +18,7 @@ abstract: |
     - Describe the core global health data standards that Azure Health Data Services supports today.
     - Examine the tools and connectors that comprise Azure Health Data Services and the benefits that they provide.
 prerequisites: None
-iconUrl: /learn/achievements/azure-health-data-services.svg  
+iconUrl: /training/achievements/azure-health-data-services.svg  
 levels:  
 - beginner   
 - intermediate  

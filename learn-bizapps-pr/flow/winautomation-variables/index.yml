@@ -20,7 +20,7 @@ abstract: |
     - Configure persistent and external variables. 
 prerequisites: |
     - Basic familiarity with the WinAutomation console and process designer.
-iconUrl: /learn/achievements/winautomation-variables.svg  
+iconUrl: /training/achievements/winautomation-variables.svg  
 levels:
 - beginner   
 roles:  

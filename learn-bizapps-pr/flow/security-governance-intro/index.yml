@@ -19,7 +19,7 @@ abstract: |
     - Discover and identify the differences between the Business data group and the No-business data group.
     - Learn about the differences between out-of-the-box Power Automate Admin experiences and Microsoft Power Platform Center of Excellence toolkit.
 prerequisites: A basic understanding of Power Apps and Power Automate, including their purpose and how these tools are used within an organization.  
-iconUrl: /learn/achievements/security-governance-intro.svg  
+iconUrl: /training/achievements/security-governance-intro.svg  
 levels:  
 - intermediate   
 roles:  

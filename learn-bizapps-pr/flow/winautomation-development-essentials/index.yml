@@ -22,7 +22,7 @@ abstract: |
     - Use functions to compartmentalize and reuse parts of a process
 prerequisites: |
     - Basic familiarity with the WinAutomation Console
-iconUrl: /learn/achievements/winautomation-development-essentials.svg  
+iconUrl: /training/achievements/winautomation-development-essentials.svg  
 levels:  
 - beginner   
 roles:  

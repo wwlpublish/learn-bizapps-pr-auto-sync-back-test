@@ -18,7 +18,7 @@ With the information in unified customer profiles, you can build segments and mi
 > [!div class="mx-imgBorder"]
 > [![Screen view of a table of segments and their status values.](../media/segments.png)](../media/segments.png#lightbox)
 
-While Customer Insights offers you more information about your customers, if you connect it to external systems, such as Microsoft Dynamics 365 Marketing, you can expand that knowledge into action and engagement. For more information, see [Unlock customer intent with Dynamics 365 Customer Insights](/learn/paths/build-customer-insights/?azure-portal=true).
+While Customer Insights offers you more information about your customers, if you connect it to external systems, such as Microsoft Dynamics 365 Marketing, you can expand that knowledge into action and engagement. For more information, see [Unlock customer intent with Dynamics 365 Customer Insights](/training/paths/build-customer-insights/?azure-portal=true).
 
 Watch the following video for a further explanation of Customer Insights and the unified customer profile.
 
@@ -45,7 +45,7 @@ Three data entities require mapping to the retail churn model: customer data, se
 > [!NOTE]
 > You might notice some entities being referred to as *tables*. For the purposes of this module, consider these terms interchangeable.
 
-To create and train your model, you need to follow a few general steps that will be explained in this module. For detailed, step-by-step instructions, see [Introduction to Azure Synapse Analytics](/learn/modules/introduction-azure-synapse-analytics/?azure-portal=true).
+To create and train your model, you need to follow a few general steps that will be explained in this module. For detailed, step-by-step instructions, see [Introduction to Azure Synapse Analytics](/training/modules/introduction-azure-synapse-analytics/?azure-portal=true).
 
 First, you'll name your model, and then you'll select some preferences for your model. These preferences include prediction period number of days and transaction threshold definitions. Next, you'll map the data columns from the previously mentioned entities. Finally, you'll set a frequency for retraining your model. Retraining your model improves the accuracy of your predictions. Select **Save and run** to begin the prediction process. Review the progress of your model on the **My predictions** tab in the **Intelligence** area of in Customer Insights.
 
