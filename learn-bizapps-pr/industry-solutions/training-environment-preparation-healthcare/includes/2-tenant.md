@@ -47,7 +47,8 @@ In this task, you'll learn how to create a Microsoft 365 trial tenant and obtain
 
 In this task, you'll update the billing account details for the trial tenant, which you created in Task 1. 
 
-> [!IMPORTANT] You must update the billing account details to procure additional trial licenses.
+> [!IMPORTANT] 
+> You must update the billing account details to procure additional trial licenses.
 
 1.	In your existing browser, open a new tab and go to [Microsoft 365 admin center.](https://admin.microsoft.com/AdminPortal/Home?#/BillingAccounts/billing-accounts) 
 
@@ -56,16 +57,16 @@ In this task, you'll update the billing account details for the trial tenant, wh
 3. Select your billing account name in the right pane. 
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the successful sign-up message.](../media/bill-details.png)](../media/success.png#lightbox)
+> [![Screenshot of the billing details option and page.](../media/bill-details.png)](../media/success.png#lightbox)
 
 4. On the **Billing account details** page, select **Edit**.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the successful sign-up message.](../media/account-details.png)](../media/success.png#lightbox)
+> [![Screenshot of the account details page.](../media/account-details.png)](../media/success.png#lightbox)
 
 5. On the **Edit sold-to address** page, enter the details and select **Save.**
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the successful sign-up message.](../media/billing-address.png)](../media/success.png#lightbox)
+> [![Screenshot of the Edit sold to address details page.](../media/billing-address.png)](../media/success.png#lightbox)
 
 **Congratulations!** You've successfully created a Microsoft 365 tenant with Microsoft Office 365 E5 trial license and updated the billing account details to obtain extra trial licenses.
