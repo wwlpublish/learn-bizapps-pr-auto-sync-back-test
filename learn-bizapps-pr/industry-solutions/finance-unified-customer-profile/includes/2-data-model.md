@@ -4,7 +4,7 @@ The Unified customer profile data model is built atop the **FinancialServiceComm
 
 ## Task 1: Explore customer and bank data and relationships
 
-In this task, you'll explore the main tables that are related to Unified customer profile. Select each table name to navigate to the Microsoft Docs page that provides details about each table.
+In this task, you'll explore the main tables that are related to Unified customer profile. Select each table name to navigate to the article that provides details about each table.
 
 ### Unified customer profile table definitions  
 
@@ -24,7 +24,7 @@ Definitions for the Unified customer profile table are as follows:
 
 ## Task 2: Discover life event data tables and relationships
 
-In this task, you'll learn about the main tables that are related to life event data. Select each table name to navigate to the Microsoft Docs page that provides details about each table.
+In this task, you'll learn about the main tables that are related to life event data. Select each table name to navigate to the article that provides details about each table.
 
 ### Life event data table definitions
 
@@ -36,7 +36,7 @@ In this task, you'll learn about the main tables that are related to life event 
 
 ## Task 3: Learn about financial data tables and relationships
 
-In this task, you'll learn about the main tables that are related to customer financial data, including different types of financial holdings, financial instruments, and customer financial holdings. Select each table name to navigate to the Microsoft Docs page that provides details about each table.
+In this task, you'll learn about the main tables that are related to customer financial data, including different types of financial holdings, financial instruments, and customer financial holdings. Select each table name to navigate to the article that provides details about each table.
 
 ### Financial data table definitions
 
@@ -72,7 +72,7 @@ Definitions for the Financial data table are as follows:
 
 ## Task 4: Explore connections data tables and relationships
 
-In this task, you'll explore the main tables that are related to customer connections, including groups (such as households) and relationships. Select each table name to navigate to the Microsoft Docs page that provides details about each table.
+In this task, you'll explore the main tables that are related to customer connections, including groups (such as households) and relationships. Select each table name to navigate to the article that provides details about each table.
 
 ### Connections data table definitions
 

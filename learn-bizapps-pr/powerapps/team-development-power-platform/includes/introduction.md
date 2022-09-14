@@ -1,0 +1,1 @@
+It's important to consider how you and your development team will work together to build the project. Breaking down silos and fostering views and conversations can enable your team to deliver better software. Continuous integration is a key ingredient to have a successful team development process.

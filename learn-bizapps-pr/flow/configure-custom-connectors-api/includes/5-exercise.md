@@ -22,9 +22,9 @@ To create a new solution, follow these steps:
 
 In this task, you'll use Graph Explorer to perform an API action that you'll configure in the custom connector.
 
-1.  In a new tab, go to [List used - Microsoft Graph v1.0 | Microsoft Docs](/graph/api/insights-list-used/?azure-portal=true) and review the **List Used** that you're going to build a connector for.
+1.  In a new tab, go to [List used](/graph/api/insights-list-used/?azure-portal=true) and review the **List Used** that you're going to build a connector for.
 
-1.  In another new tab, go to [Graph Explorer - Microsoft Graph](https://developer.microsoft.com/graph/graph-explorer/?azure-portal=true).
+1.  In another new tab, go to [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer/?azure-portal=true).
 
 1.  Select **Sign in to Graph Explorer**.
 

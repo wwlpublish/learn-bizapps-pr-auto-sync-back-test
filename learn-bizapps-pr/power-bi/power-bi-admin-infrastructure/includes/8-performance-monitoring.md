@@ -1,4 +1,4 @@
-There are multiple sources for information on gateway performance monitoring. A key source is the Microsoft Docs repository. Another source is files that can be found on the gateway server. These files are the query execution log, query execution aggregation log, and system counter aggregation log.
+There are multiple sources for information on gateway performance monitoring. A key source is the Microsoft technical documentation. Another source is files that can be found on the gateway server. These files are the query execution log, query execution aggregation log, and system counter aggregation log.
 
 > [!div class="mx-imgBorder"]
 > [![Graphic of screen shots of log files available through the gateway server.](../media/log-files.png)](../media/log-files.png#lightbox)

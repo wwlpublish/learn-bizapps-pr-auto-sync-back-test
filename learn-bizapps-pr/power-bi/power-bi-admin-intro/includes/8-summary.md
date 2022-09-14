@@ -10,4 +10,4 @@ You learned about the following topics in this module:
 
 ## Reference links
 
-[Power BI admin and enterprise documentation - Power BI | Microsoft Docs](/power-bi/admin/?azure-portal=true)
+[Power BI admin and enterprise documentation](/power-bi/admin/?azure-portal=true)

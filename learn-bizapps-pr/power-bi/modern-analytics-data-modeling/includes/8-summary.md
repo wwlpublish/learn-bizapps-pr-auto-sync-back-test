@@ -4,6 +4,6 @@ Relationship structure is an important component of a data modeler's process whe
 
 - [Best practice rules to improve your model's performance](/exchange/performance-best-practices)
 
-- [Create and manage relationships in Power BI Desktop - Power BI \| Microsoft Docs](/power-bi/transform-model/desktop-create-and-manage-relationships/?azure-portal=true)
+- [Create and manage relationships in Power BI Desktop](/power-bi/transform-model/desktop-create-and-manage-relationships/?azure-portal=true)
 
-- [DAX function reference - DAX \| Microsoft Docs](/dax/dax-function-reference/?azure-portal=true)
+- [DAX function reference - DAX](/dax/dax-function-reference/?azure-portal=true)
