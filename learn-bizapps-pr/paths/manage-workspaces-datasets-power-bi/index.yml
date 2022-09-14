@@ -13,9 +13,9 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   Once you have created your Power BI data sets and reports, it’s time to deploy them so the users can take advantage of all of your hard work. In this Learning Path, you will learn how to create workspaces in the Power BI service. You will deploy your Power BI artifacts here and share them to your users. You will also learn how to connect Power BI reports to on-premise data sources. Your users will appreciate seeing the latest data in your reports, so you will configure automatic refresh for your Power BI datasets. Row-level security allows you to create one report, but have users be restricted to see only the data that applies to them. This targets data to users, without having to create multiple reports.
   
-  This learning path can help you prepare for the [Microsoft Certified: Data Analyst Associate certification](/learn/certifications/data-analyst-associate/?azure-portal=true).
+  This learning path can help you prepare for the [Microsoft Certified: Data Analyst Associate certification](/certifications/data-analyst-associate/?azure-portal=true).
 prerequisites: None
-iconUrl: /learn/achievements/deploy-and-maintain-data-in-power-bi.svg
+iconUrl: /training/achievements/deploy-and-maintain-data-in-power-bi.svg
 levels:
 - intermediate
 roles: 

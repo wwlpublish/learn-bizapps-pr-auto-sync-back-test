@@ -13,11 +13,11 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   This learning path introduces you to creating business process flows in Power Automate.  
 
-  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/learn/certifications/power-platform-app-maker/?azure-portal=true).
+  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/certifications/power-platform-app-maker/?azure-portal=true).
 
 prerequisites: |
   - A basic understanding of Microsoft Power Automate.
-iconUrl: /learn/achievements/create-business-process-flow.svg
+iconUrl: /training/achievements/create-business-process-flow.svg
 levels:
 - intermediate
 roles:
