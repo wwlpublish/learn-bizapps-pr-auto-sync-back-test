@@ -23,12 +23,12 @@ In this task, we will walk through the steps to obtain a trial Azure subscriptio
 1. Provide your credit card details and select **Sign up**. 
 
     > [!NOTE]
-    > A credit card is only required to verify your identity. You will not be charged unless you upgrade your subscription. Please read the following Microsoft Docs to understand how to Avoid charges with your [Azure free account](https://docs.microsoft.com//azure/cost-management-billing/manage/avoid-charges-free-account/?azure-portal=true)
+    > A credit card is only required to verify your identity. You will not be charged unless you upgrade your subscription. Please read the following Microsoft Docs to understand how to avoid charges with your [Azure free account](//azure/cost-management-billing/manage/avoid-charges-free-account/)
     
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Azure portal credit card registration.](../media/azure-credit-card.png)](../media/azure-credit-card.png#lightbox)
 
-**Congratulations**, you've obtained a trial Azure subscription!.
+**Congratulations**, you've obtained a trial Azure subscription!
 
 ## Task 2: Create a resource group in Azure
 
@@ -252,9 +252,9 @@ In this task, you'll create an Azure container from the storage account that you
 
 **Congratulations**, you've created a staging Azure container for Customer Insights.
 
-## Task 5: Create a new Azure Synapse link
+## Task 5: Create a new Azure Synapse Link
 
-In this task, you'll create a new Microsoft Azure Synapse link to connect your Dataverse environment to your Azure storage account. We create this link to be able to use this data as our source CDM folder in our Azure Data Factory data flow.
+In this task, you'll create a new Microsoft Azure Synapse Link to connect your Dataverse environment to your Azure storage account. We create this link to be able to use this data as our source CDM folder in our Azure Data Factory data flow.
 
 1. Use an In-Private or Incognito window and go to [Power Apps](https://make.powerapps.com/?azure-portal=true).
 
@@ -434,7 +434,7 @@ In this task, you'll run a data pipeline in your Azure Data Factory by using an 
     You can find this at [Power Apps](https://make.powerapps.com/?azure-portal=true) and navigate to **Azure Synapse Link** go to **Details** tab copy it from the File system field
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Azure synapse link in Power Apps portal](../media/azure-synapse-link.png)](../media/azure-synapse-link.png#lightbox)
+    > [![Screenshot of the Azure Synapse Link in Power Apps portal](../media/azure-synapse-link.png)](../media/azure-synapse-link.png#lightbox)
 
     - **pipCICDM** - The name of your Customer Insights staging storage container, for example, `fsicistagingcontainer`
 

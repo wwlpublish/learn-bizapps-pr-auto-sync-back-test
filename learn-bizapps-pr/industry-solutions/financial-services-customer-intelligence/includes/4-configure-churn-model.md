@@ -5,7 +5,7 @@ In this exercise, you'll ingest the Dataverse sample data from your Azure Data F
 In this task, you'll set up the **operationaldata** data source for ingesting data into Dynamics 365 Customer Insights.
 
 1. Using an In-Private or Incognito window, navigate to [Customer Insights](https://home.ci.ai.dynamics.com/). 
-1. Select the correct environment from the upper right Environment drop down.
+1. Select the correct environment from the upper right Environment drop-down.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Customer Insights Environment selection.](../media/customer-insights-environment.png)](../media/customer-insights-environment.png#lightbox)
@@ -18,7 +18,7 @@ In this task, you'll set up the **operationaldata** data source for ingesting da
 1. Select **Azure subscription** and then select the appropriate **Subscription**, **Resource group**, and **Storage account** you created in the previous unit. For the **Container** field, select the one you created (example: fsicistagingcontainer). Select **Next**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Enter storage details dialog, showing selections in the dropdown menus and the Container name filled in.](../media/storage-details.png)](../media/storage-details.png#lightbox)
+    > [![Screenshot of the Enter storage details dialog, showing selections in the drop-down menus and the Container name filled in.](../media/storage-details.png)](../media/storage-details.png#lightbox)
 
 1. Select **Data** folder
  
