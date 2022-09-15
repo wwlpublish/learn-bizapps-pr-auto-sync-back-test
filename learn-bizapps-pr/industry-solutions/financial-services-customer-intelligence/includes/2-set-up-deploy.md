@@ -79,7 +79,7 @@ In this task, you'll create a new Customer Insights sandbox environment. To set 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Set up solutions on the Set up new deployment page with environments selected, terms of service agreed to, and the Next button highlighted.](../media/deployment.png)](../media/deployment.png#lightbox)
 
- > [!NOTE]
+    > [!NOTE]
     > If you’ve already deployed Customer intelligence during the **Training Environment Preparation** lab you will not be able to select the Customer Insights Environment. In this case you can go ahead to the next unit. 
 
 1. Confirm that everything is correct and then select **Deploy**.
