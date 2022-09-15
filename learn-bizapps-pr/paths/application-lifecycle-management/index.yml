@@ -27,9 +27,9 @@ subjects:
 - devops
 modules:
 - learn.wwl.introduction-to-devops
+- learn-bizapps.application-lifecycle-management-architect
 - learn-bizapps.introduction-solutions 
 - learn-bizapps.team-development-power-platform 
-- learn-bizapps.application-lifecycle-management-architect
 - learn.wwl.introduction-to-github-actions
 - learn-bizapps.continuous-deployment-power-platform
 trophy:
