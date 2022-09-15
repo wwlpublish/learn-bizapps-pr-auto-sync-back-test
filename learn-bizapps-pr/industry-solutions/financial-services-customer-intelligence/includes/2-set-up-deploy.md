@@ -1,12 +1,11 @@
 In this exercise, you'll explore the Customer intelligence components of Microsoft Cloud for Financial Services. You'll also create a Customer Insights instance and deploy the Customer intelligence capability from Microsoft Solution Center.
 
-[Dynamics 365 Customer Insights](https://dynamics.microsoft.com/ai/customer-insights/?azure-portal=true) is part of the customer data platform in Microsoft, which helps you deliver personalized customer experiences. The platform's capabilities provide insights into who your customers are and how they engage with your platform. Customer Insights helps you unify customer data across multiple sources to get a single view of customers.
-
-[Audience insights](/dynamics365/customer-insights/audience-insights/overview/?azure-portal=true) helps you transform your business into a customer-centric organization. Marketing, sales, and service professionals have the insights that they need to personalize experiences. Audience insights helps you connect data from transactional, behavioral, and observational sources to create a 360-degree customer view. The customer data platform is designed to deliver insights that you can immediately act on, helping you achieve faster results.
-
-[Engagement insights (preview)](/dynamics365/customer-insights/engagement-insights/?azure-portal=true) helps you interactively analyze how your customers are using your services and products, individually and holistically, on websites, mobile apps, and connected products. You can combine behavioral analytics with transactional, demographic, survey, and other data types from Microsoft Dynamics 365 Customer Insights. With Engagement insights, you can maintain full control over your customer data to ensure the highest level of data governance and compliance
+[Dynamics 365 Customer Insights](https://dynamics.microsoft.com/ai/customer-insights/?azure-portal=true) is part of the customer data platform in Microsoft, which helps you deliver personalized customer experiences. The platform's capabilities provide insights into who your customers are and how they engage with your platform. Customer Insights helps you unify customer data across multiple sources to get a single view of customers. Customer Insights helps you transform your business into a customer-centric organization. Marketing, sales, and service professionals have the insights that they need to personalize experiences. Customer insights help you connect data from transactional, behavioral, and observational sources to create a 360-degree customer view. The customer data platform is designed to deliver insights that you can immediately act on, helping you achieve faster results.
 
 ## Create a Dynamics 365 Customer Insights instance
+
+> [!NOTE]
+> If you’ve already installed Customer Insights Environment during the **Financial Services training environment preparation -> Deploy and configure prerequisite components -> Install Customer Insights environment** task, then you can skip the following steps and go to the next unit.  
 
 In this task, you'll create a new Customer Insights sandbox environment. To set up **Customer intelligence** correctly, you need to first create a Customer Insights sandbox environment and then connect it to your Microsoft Dataverse environment with no data sources specified. After you're connected, you'll use [Microsoft Cloud Solution Center](https://solutions.microsoft.com/?azure-portal=true) to deploy **Customer intelligence** from **Unified customer profile**, specifying the Customer Insights environment that you will create in this task.
 
@@ -19,16 +18,10 @@ In this task, you'll create a new Customer Insights sandbox environment. To set 
 
 1. Open a new tab in your internet browser and then go to [Customer Insights](https://home.ci.ai.dynamics.com/?azure-portal=true).
 
-1. Select **Audience insights** as your focus and then select **Business accounts (B-to-B)** as your business.
-
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Choose your focus screen, showing options for Audience insights and Engagement insights.](../media/audience.png)](../media/audience.png#lightbox)
+1. Select **Individual consumers (B-to-C)** as your business.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Choose your business screen, showing options for Individual consumers and Business accounts.](../media/business.png)](../media/business.png#lightbox)
-
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot of Audience insights with Primary target audience set to Individual consumers.](../media/audience-insights.png)](../media/audience-insights.png#lightbox)
 
 1. Go to the environment picker and select **New**.
 
@@ -41,7 +34,7 @@ In this task, you'll create a new Customer Insights sandbox environment. To set 
 
     1. **Choose your business** - Individual consumers (B-to-C)
 
-    1. **Type** - Sandbox
+    1. **Type** - Trial
 
     1. **Region** - West US
 
@@ -86,6 +79,9 @@ In this task, you'll create a new Customer Insights sandbox environment. To set 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Set up solutions on the Set up new deployment page with environments selected, terms of service agreed to, and the Next button highlighted.](../media/deployment.png)](../media/deployment.png#lightbox)
 
+    > [!NOTE]
+    > If you’ve already deployed Customer intelligence during the **Training Environment Preparation** lab you will not be able to select the Customer Insights Environment. In this case you can go ahead to the next unit. 
+
 1. Confirm that everything is correct and then select **Deploy**.
 
     > [!div class="mx-imgBorder"]
@@ -99,4 +95,4 @@ In this task, you'll create a new Customer Insights sandbox environment. To set 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Set up solutions on the Success page with Deployed solutions listed.](../media/success.png)](../media/success.png#lightbox)
 
-Congratulations, you've deployed Dynamics 365 Customer Insights.
+**Congratulations!** You've deployed Dynamics 365 Customer Insights.
