@@ -2,6 +2,28 @@ In this exercise, you'll build a data pipeline in Microsoft Azure Data Factory. 
 
 ## Task 1: Create a resource group in Azure
 
+In this task, we will walk through the steps to obtain a trial Azure subscription to utilize Azure Data factory and Data Lake in Microsoft Cloud for FSI.
+
+1. Use an In-private or Incognito window and go to the [Microsoft Azure portal](https://portal.azure.com/?azure-portal=true) and sign in with the new credentials obtained while creating a new tenant in the earlier tasks and then select the **Start** button.
+
+> [!div class="mx-imgBorder"]
+> [![Screenshot of Azure portal login.](../media/azure-portal.png)](../media/azure-portal.png#lightbox)
+
+1. It will open the Azure free trial page in a new tab page in the browser. Select **Start free**.
+
+> [!div class="mx-imgBorder"]
+> [![Screenshot of Azure portal free trial.](../media/azure-start-free.png)](../media/azure-start-free.png#lightbox)
+
+1. The details entered while creating the new tenant in the earlier tasks will be auto populated on the sign-up screen. Verify the profile details, provide the phone number, and validate it either by Text or call, accept the customer agreement and select the **Next** button. 
+
+> [!div class="mx-imgBorder"]
+> [![Screenshot of Azure portal credit card registration.](../media/azure-personal-data.png)](../media/azure-personal-data.png#lightbox)
+
+
+
+
+## Task 2: Create a resource group in Azure
+
 In this task, you'll create a resource group to house your other Azure components. For more information, see [Manage Azure Resource Manager resource groups by using the Azure portal](/azure/azure-resource-manager/management/manage-resource-groups-portal/?azure-portal=true).
 
 1. Use an In-private or Incognito window and go to the [Microsoft Azure portal](https://portal.azure.com/?azure-portal=true).
@@ -49,7 +71,7 @@ In this task, you'll create a resource group to house your other Azure component
 
 Congratulations, you've created a resource group in Azure.
 
-## Task 2: Create an Azure storage account
+## Task 3: Create an Azure storage account
 
 In this task, you'll create a storage account within the resource group that you created in the previous task. An Azure storage account contains all your Azure storage data objects and provides a unique namespace for your Azure storage data. For more information, see [Azure storage documentation](/azure/storage/blobs/data-lake-storage-introduction/?azure-portal=true).
 
@@ -157,7 +179,7 @@ In this task, you'll create a storage account within the resource group that you
 
 Congratulations, you've created a storage account in your Azure resource group.
 
-## Task 3: Create a staging Azure container for Customer Insights
+## Task 4: Create a staging Azure container for Customer Insights
 
 In this task, you'll create an Azure container from the storage account that you created in the previous task. You'll use this Azure container as a staging area for data that will be ingested by Customer Insights. For more information, see [Azure Container Instances documentation](/azure/container-instances/?azure-portal=true).
 
@@ -215,7 +237,7 @@ In this task, you'll create an Azure container from the storage account that you
 
 Congratulations, you've created a staging Azure container for Customer Insights.
 
-## Task 4: Create a new Azure Synapse link
+## Task 5: Create a new Azure Synapse link
 
 In this task, you'll create a new Microsoft Azure Synapse link to connect your Dataverse environment to your Azure storage account.
 
@@ -286,7 +308,7 @@ In this task, you'll create a new Microsoft Azure Synapse link to connect your D
 
 Congratulations, you've linked Dataverse to Azure Data Lake Storage by using Azure Synapse.
 
-## Task 5: Create an Azure data factory
+## Task 6: Create an Azure data factory
 
 In this task, you'll create an Azure data factory within your Azure resource group. Microsoft Azure Data Factory is a cloud ETL service for scale-out, serverless data integration and data transformation. For more information, see [Azure Data Factory documentation](/azure/data-factory/?azure-portal=true).
 
@@ -327,7 +349,7 @@ In this task, you'll create an Azure data factory within your Azure resource gro
 
 Congratulations, you've created an Azure data factory.
 
-## Task 6: Run a data pipeline in Azure Data Factory
+## Task 7: Run a data pipeline in Azure Data Factory
 
 In this task, you'll run a data pipeline in your Azure Data Factory by using an Azure Resource Manager (ARM) template. This data pipeline will ingest the sample data from the storage container that is linked to your Microsoft Cloud for Financial Services Dataverse environment. Then, the data pipeline will move the sample data to the staging container to be ingested by Dynamics 365 Customer Insights. For more information, see [Pipelines and activities in Azure Data Factory and Azure Synapse Analytics](/azure/data-factory/concepts-pipelines-activities/?azure-portal=true).
 
@@ -428,4 +450,4 @@ In this task, you'll run a data pipeline in your Azure Data Factory by using an 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the data folder populating with folders.](../media/folder.png)](../media/folder.png#lightbox)
 
-Congratulations, you've successfully built and run a data pipeline in Azure Data Factory.
+**Congratulations!** You've successfully built and run a data pipeline in Azure Data Factory.
