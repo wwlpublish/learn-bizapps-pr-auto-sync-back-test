@@ -5,7 +5,7 @@ In this exercise, you'll explore the Customer intelligence components of Microso
 ## Create a Dynamics 365 Customer Insights instance
 
 > [!NOTE]
-    > If you’ve already done this during the **Financial Services training environment preparation -> Deploy and configure prerequisite components -> Install Customer Insights environment**, then you can skip the following steps and go to the next unit.  
+> If you’ve already installed Customer Insights Environment during the **Financial Services training environment preparation -> Deploy and configure prerequisite components -> Install Customer Insights environment** task, then you can skip the following steps and go to the next unit.  
 
 In this task, you'll create a new Customer Insights sandbox environment. To set up **Customer intelligence** correctly, you need to first create a Customer Insights sandbox environment and then connect it to your Microsoft Dataverse environment with no data sources specified. After you're connected, you'll use [Microsoft Cloud Solution Center](https://solutions.microsoft.com/?azure-portal=true) to deploy **Customer intelligence** from **Unified customer profile**, specifying the Customer Insights environment that you will create in this task.
 
