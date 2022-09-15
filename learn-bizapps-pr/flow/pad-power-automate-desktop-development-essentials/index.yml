@@ -22,7 +22,7 @@ abstract: |
     - Use subflows to compartmentalize and reuse parts of a flow
 prerequisites: |
     A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml).
-iconUrl: /learn/achievements/pad-power-automate-desktop-development-essentials.svg  
+iconUrl: /training/achievements/pad-power-automate-desktop-development-essentials.svg  
 levels:  
 - beginner   
 roles:  

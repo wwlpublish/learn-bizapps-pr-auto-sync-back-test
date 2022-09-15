@@ -17,7 +17,7 @@ abstract: |
     - Learn about OpenAPI extensions.
     - Use OpenAPI extensions. 
 prerequisites: None 
-iconUrl: /learn/achievements/custom-connectors-open-api.svg  
+iconUrl: /training/achievements/custom-connectors-open-api.svg  
 levels:  
 - intermediate   
 roles:  

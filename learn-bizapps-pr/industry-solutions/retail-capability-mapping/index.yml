@@ -19,7 +19,7 @@ abstract: |
     - Learn how to obtain trial licenses for completing this training.
     - Set up a Microsoft Cloud for Retail training environment.
 prerequisites: You must have a Global Administrator role in your Microsoft 365 tenant to complete the exercises in this module. This role should apply automatically if your user creates the tenant.
-iconUrl: /learn/achievements/retail-capability-mapping.svg
+iconUrl: /training/achievements/retail-capability-mapping.svg
 levels:
 - intermediate
 roles:

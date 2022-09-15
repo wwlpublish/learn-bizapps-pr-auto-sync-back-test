@@ -20,7 +20,7 @@ abstract: |
     - Edit the default properties of your fields.
     - Identify differences and similarities between Tableau and Power BI concepts.
 prerequisites: Access to Power BI service, familiarity with Tableau, and an understanding of Tableau concepts like grouping fields in folders, editing default settings and field properties, and adding comments to fields.
-iconUrl: /learn/achievements/power-bi-tableau-organize-fields.svg  
+iconUrl: /training/achievements/power-bi-tableau-organize-fields.svg  
 levels:  
 - beginner   
 roles:  

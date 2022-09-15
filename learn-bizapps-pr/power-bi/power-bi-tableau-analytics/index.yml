@@ -22,7 +22,7 @@ prerequisites: |
     - Access to Power BI service
     - Familiarity with Tableau
     - Knowledge of key Tableau concepts, such as the analytics pane, ask data, and R and Python integration
-iconUrl: /learn/achievements/power-bi-tableau-analytics.svg  
+iconUrl: /training/achievements/power-bi-tableau-analytics.svg  
 levels:  
 - beginner   
 roles:  

@@ -20,7 +20,7 @@ A better pattern for team development will involve the use of one or more develo
 > [!div class="mx-imgBorder"]
 > [![Diagram of the setup of multiple development environments with one or many developers.](../media/multiple-development-setup.png)](../media/multiple-development-setup.png#lightbox)
 
-In this more optimized development loop: 
+In this more optimized development loop:
 
 1. Developers make changes in their respective environments. 
 
@@ -30,13 +30,13 @@ In this more optimized development loop:
 
 ## Modern approach to solution development
 
-Continuing with the idea of a more optimal development and deployment pattern, let’s discuss a modernized approach to Power Platform solution development.
+Watch the following video for a demonstration of how continuous integration supports a modern way for developing solutions.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4VeDz]
 
 ## Support team development
 
-Every software journey starts with a **plan**. Setting up Automated Lifecyle Management (ALM) for the Power Platform is no different. 
+Every software journey starts with a **plan**. Setting up Automated Lifecyle Management (ALM) for the Power Platform is no different.
 
 **Planning** is not the focus of this module; however, it must be understood that to avoid many common issues in team development an effective process for work item planning and management must be in place. 
 

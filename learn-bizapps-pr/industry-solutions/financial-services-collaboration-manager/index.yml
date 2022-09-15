@@ -19,7 +19,7 @@ abstract: |
     - Navigate the Collaboration Manager for Loans application.
     - Add controls from Loan Tracker.
 prerequisites: Training environment preparation
-iconUrl: /learn/achievements/financial-services-collaboration-manager.svg
+iconUrl: /training/achievements/financial-services-collaboration-manager.svg
 levels:
 - intermediate
 roles:

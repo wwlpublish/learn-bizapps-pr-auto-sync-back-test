@@ -72,4 +72,4 @@ The app contains many other formulas, so take some time to select controls and d
 
 For more information about these and other functions, see [formula reference for Power Apps](/power-apps/maker/canvas-apps/formula-reference/?azure-portal=true) page. This page is a good one to bookmark for future use!
 
-For more information on customizing a canvas app, see [Use the UI and controls in a canvas app in Power Apps](/learn/paths/ui-controls-canvas-app-powerapps/?azure-portal=true) learning path and the [Use basic formulas to make a better canvas app in Power Apps](/learn/paths/use-basic-formulas-powerapps-canvas-app/?azure-portal=true) learning path.
+For more information on customizing a canvas app, see [Use the UI and controls in a canvas app in Power Apps](/training/paths/ui-controls-canvas-app-powerapps/?azure-portal=true) learning path and the [Use basic formulas to make a better canvas app in Power Apps](/training/paths/use-basic-formulas-powerapps-canvas-app/?azure-portal=true) learning path.

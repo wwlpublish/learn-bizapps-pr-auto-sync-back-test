@@ -19,7 +19,7 @@ abstract: |
     - Discover how to use instant flows with business process flows.
     - Enhance immersive business process flows by using advanced techniques.
 prerequisites: A basic understanding of how to model a business process as a set of stages, steps, and branching concepts and a familiarity with Power Platform.
-iconUrl: /learn/achievements/advanced-business-process-flows.svg
+iconUrl: /training/achievements/advanced-business-process-flows.svg
 levels:
 - intermediate
 roles:

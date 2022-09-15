@@ -18,7 +18,7 @@ abstract: |
     - Examine the difference between RDA and RPA
     - Get an overview of the various features of WinAutomation
 prerequisites: |
-iconUrl: /learn/achievements/introduction-winautomation.svg  
+iconUrl: /training/achievements/introduction-winautomation.svg  
 levels:  
 - beginner   
 roles:  

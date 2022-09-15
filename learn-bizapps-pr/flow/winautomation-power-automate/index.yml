@@ -23,7 +23,7 @@ prerequisites: |
     - A device that runs Windows 10 Pro, Windows Server 2016, or Windows Server 2019.
     - Microsoft Edge (version 80 or later) or other supported browser.
     - An environment with a Microsoft Dataverse database. 
-iconUrl: /learn/achievements/winautomation-power-automate.svg  
+iconUrl: /training/achievements/winautomation-power-automate.svg  
 levels:  
 - beginner   
 roles:  

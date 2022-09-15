@@ -21,7 +21,7 @@ abstract: |
     - Launch and navigate the features of the Return to the Workplace solution.
     - Identify where to find next steps to configure the Return to the Workplace solution.
 prerequisites: None 
-iconUrl: /learn/achievements/introduction-return-workplace-solution.svg  
+iconUrl: /training/achievements/introduction-return-workplace-solution.svg  
 levels:  
 - beginner   
 roles:  

@@ -1,12 +1,12 @@
 ## Scenario
 
-In the [exercise](/learn/modules/get-started-with-powerapps-common-data-service/4a-use-data-cds-exercise/?azure-portal=true) from the previous module of this learning path, you created the Prospects table in Microsoft Dataverse and imported the existing leads. In this exercise you will use that data to create a model-driven app.
-If you do not have the *Prospects* table then refer to the previous [exercise](/learn/modules/get-started-with-powerapps-common-data-service/4a-use-data-cds-exercise/?azure-portal=true),
+In the [exercise](/training/modules/get-started-with-powerapps-common-data-service/4a-use-data-cds-exercise/?azure-portal=true) from the previous module of this learning path, you created the Prospects table in Microsoft Dataverse and imported the existing leads. In this exercise you will use that data to create a model-driven app.
+If you do not have the *Prospects* table then refer to the previous [exercise](/training/modules/get-started-with-powerapps-common-data-service/4a-use-data-cds-exercise/?azure-portal=true),
 keep the managers up to date on the current leads and forecasted revenue.
 
 ### Create the model-driven app for the prospects table
 
-After you have created the *Prospects* table from the previous [exercise](/learn/modules/get-started-with-powerapps-common-data-service/4a-use-data-cds-exercise/?azure-portal=true). You will need the *Prospects* table from the previous [exercise](/learn/modules/get-started-with-powerapps-common-data-service/4a-use-data-cds-exercise/?azure-portal=true) to complete this exercise.
+After you have created the *Prospects* table from the previous [exercise](/training/modules/get-started-with-powerapps-common-data-service/4a-use-data-cds-exercise/?azure-portal=true). You will need the *Prospects* table from the previous [exercise](/training/modules/get-started-with-powerapps-common-data-service/4a-use-data-cds-exercise/?azure-portal=true) to complete this exercise.
 
 1. Sign in to [Power Apps](https://make.powerapps.com/?azure-portal=true) by using your organizational account.
 1. Select the environment you want, or go to the [Power Apps admin center](https://admin.powerplatform.microsoft.com/?azure-portal=true) to create a new one.

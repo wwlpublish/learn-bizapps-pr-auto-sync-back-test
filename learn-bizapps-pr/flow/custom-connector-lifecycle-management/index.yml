@@ -19,7 +19,7 @@ abstract: |
     - Use connectors.
     - Automate connector life cycle management.
 prerequisites: Familiarity with Microsoft Power Platform and Microsoft Power Automate  
-iconUrl: /learn/achievements/custom-connector-lifecycle-management.svg  
+iconUrl: /training/achievements/custom-connector-lifecycle-management.svg  
 levels:  
 - intermediate   
 roles:  

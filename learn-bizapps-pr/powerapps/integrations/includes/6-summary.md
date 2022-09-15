@@ -12,4 +12,4 @@ For more information, see the following links:
 
 - [Integration with Azure](/power-apps/developer/data-platform/azure-integration/?azure-portal=true)
 
-- [Integrate with Microsoft Power Platform and Dataverse learning path](/learn/paths/integrate-power-platform/?azure-portal=true)
+- [Integrate with Microsoft Power Platform and Dataverse learning path](/training/paths/integrate-power-platform/?azure-portal=true)

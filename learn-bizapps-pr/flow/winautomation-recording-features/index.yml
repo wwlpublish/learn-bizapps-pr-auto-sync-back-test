@@ -18,7 +18,7 @@ abstract: |
     - Deploy the Web Recorder to automate interactions with a web browser
     - Preview and edit the automatically generated Actions during and after the recording
 prerequisites: |
-iconUrl: /learn/achievements/winautomation-recording-features.svg  
+iconUrl: /training/achievements/winautomation-recording-features.svg  
 levels:  
 - beginner   
 roles:  

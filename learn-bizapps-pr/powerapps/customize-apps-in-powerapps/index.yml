@@ -24,7 +24,7 @@ abstract: |
   - Color prices based on their values.
   - Explore formulas in a generated app.
 prerequisites: Basic experience with developing canvas apps
-iconUrl: /learn/achievements/customize-apps-in-powerapps.svg
+iconUrl: /training/achievements/customize-apps-in-powerapps.svg
 levels:  
 - beginner 
 roles:  

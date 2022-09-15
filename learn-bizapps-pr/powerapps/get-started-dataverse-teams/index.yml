@@ -19,7 +19,7 @@ abstract: |
     - Learn how to build apps, workflows, chatbots, and dashboards. 
     - Learn how to provision Dataverse for Teams and then create a table for your data.
 prerequisites: None 
-iconUrl: /learn/achievements/get-started-dataverse-teams.svg  
+iconUrl: /training/achievements/get-started-dataverse-teams.svg  
 levels:  
 - beginner   
 roles:  

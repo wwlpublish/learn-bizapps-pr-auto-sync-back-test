@@ -19,7 +19,7 @@ abstract: |
 prerequisites: |
     - An environment with Microsoft Dataverse
     - Basic Microsoft Power Apps maker experience
-iconUrl: /learn/achievements/canvas-app-source-code.svg  
+iconUrl: /training/achievements/canvas-app-source-code.svg  
 levels:  
 - intermediate   
 roles:  

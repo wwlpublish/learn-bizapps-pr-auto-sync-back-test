@@ -18,7 +18,7 @@ abstract: |
     - Learn how to obtain trial licenses for all Microsoft Cloud for Financial Services required applications.
     - Learn how to set up a Microsoft Cloud for Financial Services training environment.
 prerequisites: You must have a Global Administrator role in your Microsoft 365 tenant to complete the exercises in this module.
-iconUrl: /learn/achievements/financial-training-environment-preparation.svg
+iconUrl: /training/achievements/financial-training-environment-preparation.svg
 levels:
 - intermediate
 roles:

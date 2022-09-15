@@ -18,7 +18,7 @@ abstract: |
     - Configure bots to pass conversations to applications such as Omnichannel for Customer Service.
     - Extract content from support pages and configure it into bot topics that you can use in conversations.
 prerequisites: Access to Power Virtual Agents
-iconUrl: /learn/achievements/enhance-power-virtual-agent-bots.svg  
+iconUrl: /training/achievements/enhance-power-virtual-agent-bots.svg  
 levels:  
 - beginner   
 roles:  

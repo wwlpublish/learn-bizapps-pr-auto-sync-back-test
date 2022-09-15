@@ -19,7 +19,7 @@ abstract: |
     - Resolve circular relationships
     - Design star schemas
 prerequisites: None 
-iconUrl: /learn/achievements/design-a-data-model-in-power-bi.svg
+iconUrl: /training/achievements/design-a-data-model-in-power-bi.svg
 levels:  
 - intermediate   
 roles:  

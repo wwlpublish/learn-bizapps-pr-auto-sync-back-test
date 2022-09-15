@@ -8,7 +8,7 @@ There's an added benefit of the **Form** control for the app maker.
 When you add a **Form** control to your canvas, a panel helps you
 add your data source, modify the view, choose the columns to be
 displayed, and more. Forms are a powerful addition to your
-Power Apps skill set. Note, forms work with all [tabular data sources](/learn/modules/work-with-external-data/1-data-source-overview/?azure-portal=true) except collections.
+Power Apps skill set. Note, forms work with all [tabular data sources](/training/modules/work-with-external-data/1-data-source-overview/?azure-portal=true) except collections.
 
 ## Properties of a control
 

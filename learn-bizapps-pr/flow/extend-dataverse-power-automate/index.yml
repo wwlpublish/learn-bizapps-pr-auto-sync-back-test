@@ -18,7 +18,7 @@ abstract: |
     - Integrate Dataverse with Microsoft Outlook.
     - Integrate Dataverse with Microsoft To Do.
 prerequisites: Basic understanding of Microsoft Power Automate and Microsoft Dataverse
-iconUrl: /learn/achievements/extend-dataverse-power-automate.svg  
+iconUrl: /training/achievements/extend-dataverse-power-automate.svg  
 levels:  
 - intermediate   
 roles:  

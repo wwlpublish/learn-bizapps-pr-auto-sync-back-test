@@ -17,7 +17,7 @@ abstract: |
     - Use the Navigate and Back functions
     - Understand the different ways these functions can be invoked
 prerequisites: A basic understanding of how to create a Power Apps canvas app and some experience working with controls in Power Apps is helpful but not required.
-iconUrl: /learn/achievements/navigation-canvas-app.svg
+iconUrl: /training/achievements/navigation-canvas-app.svg
 levels:
 - intermediate
 roles:

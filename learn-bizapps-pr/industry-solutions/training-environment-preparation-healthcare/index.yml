@@ -18,7 +18,7 @@ abstract: |
     - Learn how to obtain trial licenses for all Microsoft Cloud for Healthcare required applications.
     - Learn how to set up a Microsoft Cloud for Healthcare training environment.
 prerequisites: You must possess a Global Administrator role in your Microsoft 365 tenant to complete the exercises in this module. This role should apply automatically if your user creates the tenant.
-iconUrl: /learn/achievements/training-environment-preparation-healthcare.svg  
+iconUrl: /training/achievements/training-environment-preparation-healthcare.svg  
 levels:  
 - beginner   
 roles:  

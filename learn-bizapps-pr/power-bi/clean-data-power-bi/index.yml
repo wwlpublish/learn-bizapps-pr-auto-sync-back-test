@@ -23,7 +23,7 @@ abstract: |
     - Apply user-friendly naming conventions to columns and queries. 
     - Edit M code in the Advanced Editor. 
 prerequisites: None 
-iconUrl: /learn/achievements/clean-transform-and-load-data-in-power-bi.svg  
+iconUrl: /training/achievements/clean-transform-and-load-data-in-power-bi.svg  
 levels:  
 - intermediate   
 roles:  

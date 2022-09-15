@@ -20,7 +20,7 @@ abstract: |
     - Determine when to use a calculated column in place of a Power Query custom column.
     - Add a date table to your model by using DAX calculations.
 prerequisites: Experience creating Microsoft Power BI Desktop models and designing Power BI report layouts, and an understanding of how to write Data Analysis Expressions (DAX) formulas 
-iconUrl: /learn/achievements/dax-power-bi-add-calculated-tables.svg  
+iconUrl: /training/achievements/dax-power-bi-add-calculated-tables.svg  
 levels:  
 - intermediate   
 roles:  

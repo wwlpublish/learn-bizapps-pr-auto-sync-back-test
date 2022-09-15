@@ -20,7 +20,7 @@ abstract: |
     - Discover alternate portal technologies that are available on Power Platform.
     - Learn to incorporate specific features from different portal templates to another portal type or the Portal from blank feature.
 prerequisites: Basic understanding, use, and navigation of Microsoft Dynamics 365 applications and a basic understanding of how to navigate and customize Power Apps.
-iconUrl: /learn/achievements/portal-features.svg
+iconUrl: /training/achievements/portal-features.svg
 levels:
 - intermediate
 roles:

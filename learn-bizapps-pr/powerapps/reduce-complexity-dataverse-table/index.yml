@@ -20,7 +20,7 @@ abstract: |
 prerequisites: |  
     - Basic Power Apps maker experience
     - Fundamentals of setting up Microsoft Dataverse
-iconUrl: /learn/achievements/reduce-complexity-dataverse-table.svg  
+iconUrl: /training/achievements/reduce-complexity-dataverse-table.svg  
 levels:  
 - intermediate   
 roles:  

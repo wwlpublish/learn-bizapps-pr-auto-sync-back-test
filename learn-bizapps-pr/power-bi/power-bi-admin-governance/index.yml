@@ -19,7 +19,7 @@ abstract: |
     - Configure, deploy, and manage elements of a BI governance strategy
     - Set up BI help and support settings
 prerequisites: Familiarity with Power BI and governance practices in a BI environment.
-iconUrl: /learn/achievements/power-bi-admin-governance.svg  
+iconUrl: /training/achievements/power-bi-admin-governance.svg  
 levels:  
 - intermediate   
 roles:  

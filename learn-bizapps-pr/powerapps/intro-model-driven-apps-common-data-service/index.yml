@@ -20,7 +20,7 @@ abstract: |
     - Learn about the value and key features of model-driven apps.
     - Explore sample model-driven template apps.
 prerequisites: A basic understanding of Power Apps and Dataverse  
-iconUrl: /learn/achievements/intro-model-driven-apps-common-data-service.svg  
+iconUrl: /training/achievements/intro-model-driven-apps-common-data-service.svg  
 levels:  
 - beginner   
 roles:  

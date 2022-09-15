@@ -19,7 +19,7 @@ abstract: |
     - Use the different types of controls
     - Understand how Galleries and Forms related to controls
 prerequisites: Basic knowledge of how to create a Power Apps canvas app.   
-iconUrl: /learn/achievements/controls-canvas-apps.svg  
+iconUrl: /training/achievements/controls-canvas-apps.svg  
 levels:  
 - intermediate   
 roles:  

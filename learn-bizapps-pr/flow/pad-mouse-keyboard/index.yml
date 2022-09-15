@@ -20,7 +20,7 @@ abstract: |
     - Learn how to emulate typing or key presses
 prerequisites: |
     A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml), and familiarity with [handling images in Power Automate for desktop](../pad-power-automate-desktop-development-essentials/index.yml).
-iconUrl: /learn/achievements/pad-mouse-keyboard.svg  
+iconUrl: /training/achievements/pad-mouse-keyboard.svg  
 levels:  
 - beginner   
 roles:  

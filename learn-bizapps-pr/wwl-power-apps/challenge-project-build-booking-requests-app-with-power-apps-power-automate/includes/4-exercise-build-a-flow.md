@@ -14,4 +14,4 @@ To validate that you've completed the work to the requirements, test your flow b
 3. On the same Booking Request row, update the Decision field to Accepted. Confirm that you receive another email that the Booking Request was accepted.
 
   > [!TIP]
-  > If you get stuck here, reviewing [Extend Dataverse with Power Automate](https://docs.microsoft.com/learn/modules/extend-dataverse-power-automate/?azure-portal=true) may help.
+  > If you get stuck here, reviewing [Extend Dataverse with Power Automate](https://docs.microsoft.com/training/modules/extend-dataverse-power-automate/?azure-portal=true) may help.

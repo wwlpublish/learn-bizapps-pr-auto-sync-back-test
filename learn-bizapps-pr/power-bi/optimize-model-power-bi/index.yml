@@ -20,7 +20,7 @@ abstract: |
     - Optimize DirectQuery models with table level storage. 
     - Create and manage aggregations.
 prerequisites: None 
-iconUrl: /learn/achievements/optimize-model-power-bi.svg  
+iconUrl: /training/achievements/optimize-model-power-bi.svg  
 levels:  
 - intermediate   
 roles:  

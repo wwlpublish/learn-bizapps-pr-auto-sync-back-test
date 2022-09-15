@@ -18,7 +18,7 @@ abstract: |
     - Add a business process flow to a model-driven app.
     - Edit a business process flow.
 prerequisites: Basic understanding of Microsoft model-driven apps, Microsoft Dataverse, and Microsoft Power Automate
-iconUrl: /learn/achievements/add-business-process-flow.svg  
+iconUrl: /training/achievements/add-business-process-flow.svg  
 levels:  
 - beginner   
 roles:  
