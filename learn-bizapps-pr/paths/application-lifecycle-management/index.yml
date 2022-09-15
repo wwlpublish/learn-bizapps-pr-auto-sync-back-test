@@ -15,7 +15,7 @@ summary: |
   Application lifecycle management (ALM) is important as the applications your organization builds becomes more complex and as more of your company depends on their stability. ALM is not a one size fits all concept, it can vary from organization to organization and even within based on the type of solution being built. This learning path can help you with ALM best practices.
 prerequisites: |
   - Experience working on Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer
-iconUrl: /learn/achievements/application-lifecycle-management-power-platform.svg
+iconUrl: /training/achievements/application-lifecycle-management-power-platform.svg
 levels:
 - intermediate
 roles:

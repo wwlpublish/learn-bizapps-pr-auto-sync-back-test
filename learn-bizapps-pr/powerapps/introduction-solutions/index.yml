@@ -17,7 +17,7 @@ abstract: |
     - Discover the concept of solution layering.
     - Learn about version control for solutions.
 prerequisites: Experience working on Microsoft Power Platform projects as a junior solution architect, a senior functional consultant, or a senior developer
-iconUrl: /learn/achievements/introduction-solutions.svg  
+iconUrl: /training/achievements/introduction-solutions.svg  
 levels:  
 - beginner   
 roles:  
