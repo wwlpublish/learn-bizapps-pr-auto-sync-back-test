@@ -113,7 +113,7 @@ In this task, you'll set up the **operationaldata** data source for ingesting da
 1. Open any of the 37 sample contact records.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Unified Customer Profile sandbox on the All Contacts page.](../media/sandbox.png)](../media/sandbox.png#lightbox)
+    > [![Screenshot of the Unified Customer Profile on the All Contacts page.](../media/all-contacts.png)](../media/all-contacts.png#lightbox)
 
 1. Scroll down to the bottom of the **Customer snapshot** section and select the information (**i**) icon to view the full details of the churn score.
 
