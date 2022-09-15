@@ -18,12 +18,12 @@ In this task, we will walk through the steps to obtain a trial Azure subscriptio
 1. The details entered while creating the new tenant in the earlier tasks will be auto populated on the sign-up screen. Verify the profile details, provide the phone number, and validate it either by Text or call, accept the customer agreement and select the **Next** button. 
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of Azure portal credit card registration.](../media/azure-personal-data.png)](../media/azure-personal-data.png#lightbox)
+    > [![Screenshot of Azure portal personal details registration.](../media/azure-personal-data.png)](../media/azure-personal-data.png#lightbox)
 
 1. Provide your credit card details and select **Sign up**. 
 
     > [!NOTE]
-    > A credit card is only required to verify your identity. You will not be charged unless you upgrade your subscription. Please read the following Microsoft Docs to understand how to Avoid charges with your [Azure free account](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/avoid-charges-free-account). 
+    > A credit card is only required to verify your identity. You will not be charged unless you upgrade your subscription. Please read the following Microsoft Docs to understand how to Avoid charges with your [Azure free account](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/avoid-charges-free-account/?azure-portal=true). 
     
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Azure portal credit card registration.](../media/azure-credit-card.png)](../media/azure-credit-card.png#lightbox)
@@ -431,7 +431,7 @@ In this task, you'll run a data pipeline in your Azure Data Factory by using an 
 1. Select the **Author** (pencil) icon. Expand and select the **Pipeline**, and then enter the following parameters:
 
     - **pipFSICDM** - The full name of your storage container that is linked to Azure Synapse Link, for example, `dataverse-AZURESYNAPSE-unqab48050868e14fef9572fa91f02ff`.
-    You can find this at [Power Apps portal](https://make.powerapps.com) and navigate to **Azure Synapse Link** go to **Details** tab copy it from the File system field
+    You can find this at [Power Apps](https://make.powerapps.com/?azure-portal=true) and navigate to **Azure Synapse Link** go to **Details** tab copy it from the File system field
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Azure synapse link in Power Apps portal](../media/azure-synapse-link.png)](../media/azure-synapse-link.png#lightbox)
