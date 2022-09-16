@@ -1,6 +1,6 @@
 # Microsoft Learn - Business Applications (Power Platform) training content
 
-This repository contains the modules and learning paths for Microsoft Business Applications products, such as Microsoft Flow, Microsoft PowerApps, and Microsoft Power BI. Review this README file to understand how you can assist in contributing to Microsoft Learn training training content.
+This repository contains the modules and learning paths for Microsoft Business Applications products, such as Microsoft Flow, Microsoft PowerApps, and Microsoft Power BI. Review this README file to understand how you can assist in contributing to Microsoft Learn training content.
 
 *Note: This repo currently contains some Dynamics 365 content, but it will be moved to `learn-dynamics-pr` in the future. Move date TBD.*
 
