@@ -24,7 +24,7 @@ In this task, you'll set up the **operationaldata** data source for ingesting da
 1. Select **Data** folder.
  
      > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Data folder selection](../media/storage-data-folder.png)](../media/storage-data-folder.png#lightbox)
+    > [![Screenshot of the Data folder selection.](../media/storage-data-folder.png)](../media/storage-data-folder.png#lightbox)
 
 1. Scroll down and select the **msfsi.manifest.cdm.json** file. Select **Next**.
 

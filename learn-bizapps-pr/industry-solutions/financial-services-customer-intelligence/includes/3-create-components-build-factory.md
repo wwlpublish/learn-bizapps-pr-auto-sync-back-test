@@ -433,7 +433,7 @@ In this task, you'll run a data pipeline in your Azure Data Factory by using an 
     You can find this information at [Power Apps](https://make.powerapps.com/?azure-portal=true) and navigate to **Azure Synapse Link** go to **Details** tab copy it from the **File system** field.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Azure Synapse Link in Power Apps portal](../media/azure-synapse-link.png)](../media/azure-synapse-link.png#lightbox)
+    > [![Screenshot of the Azure Synapse Link in Power Apps portal.](../media/azure-synapse-link.png)](../media/azure-synapse-link.png#lightbox)
 
     - **pipCICDM** - The name of your Customer Insights staging storage container, for example, `fsicistagingcontainer`
 
