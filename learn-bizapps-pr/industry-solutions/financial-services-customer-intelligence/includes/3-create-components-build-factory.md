@@ -33,7 +33,7 @@ In this task, you'll obtain a trial Azure subscription to utilize Azure Data fac
 
 In this task, you'll create a resource group to house your other Azure components. For more information, see [Manage Azure Resource Manager resource groups by using the Azure portal](/azure/azure-resource-manager/management/manage-resource-groups-portal/?azure-portal=true).
 
-1. Use an In-private or Incognito window and go to the [Microsoft Azure portal](https://portal.azure.com/?azure-portal=true).
+1. Using a InPrivate or Incognito window, go to the [Microsoft Azure portal](https://portal.azure.com/?azure-portal=true).
 
 1. In the search box, search for and select **Resource groups**.
 

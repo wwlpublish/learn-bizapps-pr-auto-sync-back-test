@@ -4,7 +4,7 @@ In this exercise, you'll ingest the Dataverse sample data from your Azure Data F
 
 In this task, you'll set up the **operationaldata** data source for ingesting data into Dynamics 365 Customer Insights.
 
-1. Using an In-Private or Incognito window, navigate to [Customer Insights](https://home.ci.ai.dynamics.com/). 
+1. Using an InPrivate or Incognito window, navigate to [Customer Insights](https://home.ci.ai.dynamics.com/). 
 
 1. Select the environment from the top right **Environment** drop-down.
 
