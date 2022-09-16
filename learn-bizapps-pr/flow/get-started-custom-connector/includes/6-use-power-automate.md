@@ -23,12 +23,12 @@ In this task, you will create a Power Automate flow inside the Contoso invoicing
 1. Select **+ New > Automation > Cloud flow > Instant**.
 
     > [!div class="mx-imgBorder"]
-    > [![An arrow pointing to the create new cloud flow button - screenshot.](../media/cloud.png)](../media/cloud.png#lightbox)
+    > [![Screenshot that shows the selection of a new cloud flow button.](../media/cloud.png)](../media/cloud.png#lightbox)
 
 1. Name the flow **Email invoice list**, select **Manually trigger a flow**, then **Create**.
 
     > [!div class="mx-imgBorder"]
-    > [![An arrow pointing to the create new cloud flow button - screenshot.](../media/manually.png)](../media/manually.png#lightbox)
+    > [![Screenshot that shows the selection of the manual trigger for a cloud flow.](../media/manually.png)](../media/manually.png#lightbox)
 
 1. Select **+ New step**.
 
