@@ -5,7 +5,8 @@ In this exercise, you'll ingest the Dataverse sample data from your Azure Data F
 In this task, you'll set up the **operationaldata** data source for ingesting data into Dynamics 365 Customer Insights.
 
 1. Using an In-Private or Incognito window, navigate to [Customer Insights](https://home.ci.ai.dynamics.com/). 
-1. Select the correct environment from the upper right Environment drop-down.
+
+1. Select the environment from the top right **Environment** drop-down.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Customer Insights Environment selection.](../media/customer-insights-environment.png)](../media/customer-insights-environment.png#lightbox)
@@ -15,12 +16,12 @@ In this task, you'll set up the **operationaldata** data source for ingesting da
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Customer Insights on the Data sources page, showing the Edit button next to the operationaldata data source.](../media/operational.png)](../media/operational.png#lightbox)
 
-1. Select **Azure subscription** and then select the appropriate **Subscription**, **Resource group**, and **Storage account** you created in the previous unit. For the **Container** field, select the one you created (example: fsicistagingcontainer). Select **Next**.
+1. Select **Azure subscription** and then select the appropriate **Subscription**, **Resource group**, and **Storage account** you created in the **Create Azure components and build a data pipeline in Azure Data Factory** unit. For the **Container** field, select the one you created (example: fsicistagingcontainer). Select **Next**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Enter storage details dialog, showing selections in the drop-down menus and the Container name filled in.](../media/storage-details.png)](../media/storage-details.png#lightbox)
 
-1. Select **Data** folder
+1. Select **Data** folder.
  
      > [!div class="mx-imgBorder"]
     > [![Screenshot of the Data folder selection](../media/storage-data-folder.png)](../media/storage-data-folder.png#lightbox)
@@ -30,7 +31,7 @@ In this task, you'll set up the **operationaldata** data source for ingesting da
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Select a common data model file page, showing the JSON file selected.](../media/select-file.png)](../media/select-file.png#lightbox)
 
-1. Select all entities by selecting **Include** checkbox and select **Save**.
+1. Select all the entities by using the **Include** checkbox and select **Save**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Common Data Model folder showing the message "Indicate which data entities you want to enable data profiling" and all entities selected.](../media/profiling.png)](../media/profiling.png#lightbox)
