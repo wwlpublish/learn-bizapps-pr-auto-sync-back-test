@@ -2,13 +2,13 @@ In this exercise, you'll learn how to:
 
 - Set up an external website to the Retail Banking Portal template.
 
-- Create a registration code and invite a client to create an account for the website.
+- Register on the Retail Banking Sample Portal as a Customer
 
 - Sign in as a loan applicant to navigate the features of the retail banking website.
 
 The **Retail Banking Portal** template was installed in your environment by the Customer onboarding module in Microsoft Cloud Solution Center when Microsoft Cloud for Financial Services was deployed.
 
-A portal is an external website that allows for communication between a company and its users. In this module's scenario, Woodgrove Bank wants an external website for their clients to access their loan history and communicate effectively with the institution. The **Retail Banking Portal** template tailors the website's user interface (UI) for a financial services company to focus on more secure communication, information access, and an overall improved customer experience.
+A portal is an external website that allows communication between a company and its users. In this module's scenario, Woodgrove Bank wants an external website for their clients to access their loan history and communicate effectively with the institution. The **Retail Banking Portal** template tailors the website's user interface (UI) for a financial services company to focus on more secure communication, information access, and an overall improved customer experience.
 
 The following image is an example what should display after you have set up and opened the Retail Banking Portal.
 
@@ -19,7 +19,7 @@ For more information, see [What are Power Apps portals?](/power-apps/maker/porta
 
 ## Task 1: Set up the Retail Banking Portal
 
-Prior to deploying Microsoft Cloud for Financial Services, you created a portal in your environment by using the **Customer Self-Service** template. Creating this portal was a prerequisite to installing the Retail Banking Portal as part of the Customer onboarding module.
+Prior to deploying Microsoft Cloud for Financial Services, you created a portal in your environment. Creating this portal is a prerequisite to installing the Retail Banking Portal as part of the Customer onboarding module.
 
 Woodgrove Bank wants to associate the previously installed Customer Self-Service portal with the **Retail Banking Portal** template so that the correct website is displayed to the user. The following steps will guide you through how to bind your website to the proper template and restart the portal for changes to apply.
 
@@ -66,7 +66,7 @@ First, open the portal to show the Customer Self-Service template that is curren
 
 ## Task 2: Create a new customer
 
-Now that you have set up the Retail Banking Sample Portal, you'll create an invitation for one contact in the system so that you can access the portal as a customer.
+Now that you have set up the Retail Banking Sample Portal, you'll register on the Retail Banking Sample Portal as a Customer.
 
 1. Use an In-Private or Incognito window and go to [Power Apps](https://make.powerapps.com/?azure-portal=true).
 
