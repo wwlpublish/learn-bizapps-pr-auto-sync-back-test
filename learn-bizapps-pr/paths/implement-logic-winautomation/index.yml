@@ -13,7 +13,7 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   Logic in WinAutomation helps with automating processes. In this Learning Path, learn how to work with system processes, flow control, mimic mouse actions, and manipulate text, date, and time operations. 
 prerequisites: Basic familiarity with WinAutomation and algorithmic logic.
-iconUrl: /learn/achievements/implement-logic-winautomation.svg
+iconUrl: /training/achievements/implement-logic-winautomation.svg
 levels:
 - intermediate
 roles: 

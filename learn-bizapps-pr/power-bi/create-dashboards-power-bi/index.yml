@@ -20,7 +20,7 @@ abstract: |
     - Add real-time dataset visuals to your dashboards. 
     - Pin a live report page to a dashboard. 
 prerequisites: None 
-iconUrl: /learn/achievements/create-dashboards-power-bi.svg  
+iconUrl: /training/achievements/create-dashboards-power-bi.svg  
 levels:  
 - intermediate   
 roles:  

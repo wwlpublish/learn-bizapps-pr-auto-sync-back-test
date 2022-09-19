@@ -18,7 +18,7 @@ abstract: |
     - Discover how the chatbot can call Microsoft Power Automate actions to retrieve data from Dataverse for Teams.
     - Publish the chatbot to your team or the whole company.
 prerequisites: None 
-iconUrl: /learn/achievements/create-chatbot-power-virtual-agents-dataverse-teams.svg  
+iconUrl: /training/achievements/create-chatbot-power-virtual-agents-dataverse-teams.svg  
 levels:  
 - beginner   
 roles:  

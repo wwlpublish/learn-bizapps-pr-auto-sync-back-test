@@ -18,7 +18,7 @@ abstract: |
     - Use aggregation iterator functions.
     - Calculate rankings.
 prerequisites: You should have experience creating Power BI Desktop models and designing Power BI report layouts. You should also understand how to create Data Analysis Expressions (DAX) calculated columns, calculated tables, and measures. 
-iconUrl: /learn/achievements/use-dax-iterator-functions-power-bi-desktop.svg
+iconUrl: /training/achievements/use-dax-iterator-functions-power-bi-desktop.svg
 levels:  
 - intermediate   
 roles:  

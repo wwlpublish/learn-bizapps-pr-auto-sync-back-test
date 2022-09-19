@@ -4,27 +4,34 @@ In this exercise, you'll ingest the Dataverse sample data from your Azure Data F
 
 In this task, you'll set up the **operationaldata** data source for ingesting data into Dynamics 365 Customer Insights.
 
+1. Using an InPrivate or Incognito window, navigate to [Customer Insights](https://home.ci.ai.dynamics.com/). 
+
+1. Select the environment from the top right **Environment** drop-down.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Customer Insights Environment selection.](../media/customer-insights-environment.png)](../media/customer-insights-environment.png#lightbox)
+
 1. In Customer Insights, go to **Data Sources** and edit **operationaldata**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Customer Insights on the Data sources page, showing the Edit button next to the operationaldata data source.](../media/operational.png)](../media/operational.png#lightbox)
 
-1. Select **Azure subscription** and then select the appropriate **Subscription**, **Resource group**, and **Storage account** from the dropdown menus. For the **Container** field, type the name of your container. Select **Next**.
+1. Select **Azure subscription** and then select the appropriate **Subscription**, **Resource group**, and **Storage account** you created in the **Create Azure components and build a data pipeline in Azure Data Factory** unit. For the **Container** field, select the one you created (example: fsicistagingcontainer). Select **Next**.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Enter storage details dialog, showing selections in the dropdown menus and the Container name filled in.](../media/storage-details.png)](../media/storage-details.png#lightbox)
+    > [![Screenshot of the Enter storage details dialog, showing selections in the drop-down menus and the Container name filled in.](../media/storage-details.png)](../media/storage-details.png#lightbox)
+
+1. Select **Data** folder.
+ 
+     > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Data folder selection.](../media/storage-data-folder.png)](../media/storage-data-folder.png#lightbox)
 
 1. Scroll down and select the **msfsi.manifest.cdm.json** file. Select **Next**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Select a common data model file page, showing the JSON file selected.](../media/select-file.png)](../media/select-file.png#lightbox)
 
-1. Select all entities and then select **Next**.
-
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot of Common Data Model folder showing all entities selected.](../media/entities.png)](../media/entities.png#lightbox)
-
-1. Select all entities for data profiling and then select **Save**.
+1. Select all the entities by using the **Include** checkbox and select **Save**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Common Data Model folder showing the message "Indicate which data entities you want to enable data profiling" and all entities selected.](../media/profiling.png)](../media/profiling.png#lightbox)
@@ -41,6 +48,9 @@ In this task, you'll set up the **operationaldata** data source for ingesting da
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Audience insights with Unify selected in the left navigation pane. On the Match tab of the Unify page, the Run button appears at the top.](../media/run.png)](../media/run.png#lightbox)
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the matching rules setup and conditions.](../media/run-match-rules.png)](../media/run-match-rules.png#lightbox)
 
 1. When the match is complete, numbers for your matches will display, as shown in the following screenshot.
 
@@ -104,11 +114,11 @@ In this task, you'll set up the **operationaldata** data source for ingesting da
 1. Open any of the 37 sample contact records.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Unified Customer Profile sandbox on the All Contacts page.](../media/sandbox.png)](../media/sandbox.png#lightbox)
+    > [![Screenshot of the Unified Customer Profile on the All Contacts page.](../media/all-contacts.png)](../media/all-contacts.png#lightbox)
 
 1. Scroll down to the bottom of the **Customer snapshot** section and select the information (**i**) icon to view the full details of the churn score.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of a contact's customer profile with the Churn risk score dialog open showing a score of 12 of 100, Low churn risk.](../media/churn-risk.png)](../media/churn-risk.png#lightbox)
 
-Congratulations, you've successfully run the Retail banking churn model in Dynamics 365 Customer Insights.
+**Congratulations!** You've successfully run the Retail banking churn model in Dynamics 365 Customer Insights.

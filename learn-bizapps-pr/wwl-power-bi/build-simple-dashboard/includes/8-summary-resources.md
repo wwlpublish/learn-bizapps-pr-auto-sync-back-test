@@ -38,7 +38,7 @@ Use these resources to discover more.
 
 - [Sort by column in Power BI Desktop](/power-bi/desktop-sort-by-column?)
 
-- [Model Data in Power BI](/learn/modules/model-data-power-bi/)
+- [Model Data in Power BI](/training/modules/model-data-power-bi/)
 
 ### Review all Power BI
 
@@ -46,10 +46,10 @@ Use these resources to discover more.
 
 ### Additional Modules on Power BI
 
-- [Explore what Power BI can do for you](/learn/modules/explore-power-bi-service/)
+- [Explore what Power BI can do for you](/training/modules/explore-power-bi-service/)
 
-- [Use visuals in Power BI](/learn/modules/visuals-in-power-bi/)
+- [Use visuals in Power BI](/training/modules/visuals-in-power-bi/)
 
-- [Get data with Power BI Desktop](/learn/modules/get-data-power-bi/)
+- [Get data with Power BI Desktop](/training/modules/get-data-power-bi/)
 
-- [Get started building with Power BI](/learn/modules/get-started-with-power-bi/)
+- [Get started building with Power BI](/training/modules/get-started-with-power-bi/)

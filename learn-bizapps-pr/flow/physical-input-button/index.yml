@@ -26,7 +26,7 @@ prerequisites: |
     - A Microsoft Power Automate app is required on your smart device. To get one go to the **App Store** of your smartphone or tablet and search for **Power Automate.**
     - A **Shortcut Labs** app called **Flic App** is required on your smart device. To get one go to the **App Store** of your smartphone or tablet and search for **Flic.**
     - Login to **Power Automate** using your Microsoft 365 credentials.
-iconUrl: /learn/achievements/physical-input-button.svg  
+iconUrl: /training/achievements/physical-input-button.svg  
 levels:  
 - intermediate   
 roles:  

@@ -14,7 +14,7 @@ abstract: |
   Teach the module “Designing report layouts” in the instructor-led course “Power BI paginated reports”.
 prerequisites: |
   Experience with paginated reports
-iconUrl: /learn/achievements/design-report-layouts.svg
+iconUrl: /training/achievements/design-report-layouts.svg
 hidden: true
 levels:
 - intermediate

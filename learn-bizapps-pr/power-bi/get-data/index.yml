@@ -23,7 +23,7 @@ abstract: |
     - Fix performance issues 
     - Resolve data import errors 
 prerequisites: None 
-iconUrl: /learn/achievements/get-data.svg  
+iconUrl: /training/achievements/get-data.svg  
 levels:  
 - intermediate   
 roles:  

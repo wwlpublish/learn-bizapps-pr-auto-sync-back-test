@@ -35,7 +35,7 @@ Alternative text descriptions, or *alt text*, can describe the appearance and fu
 For data visuals, don't describe specific data points in alt text because data values are likely to change. However, it's possible to assign a measure, which uses Data Analysis Expressions (DAX), to the alt text property. That way, the measure could evaluate the filter context and return a text description of the data.
 
 > [!TIP]
-> To learn more about DAX, see [Use DAX in Power BI Desktop](/learn/paths/dax-power-bi/?azure-portal=true).
+> To learn more about DAX, see [Use DAX in Power BI Desktop](/training/paths/dax-power-bi/?azure-portal=true).
 
 ## Tab order
 

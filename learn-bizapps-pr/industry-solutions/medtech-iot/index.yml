@@ -17,7 +17,7 @@ abstract: |
     - Enable IoT data scenarios for remote patient monitoring.
     - Ingest data from devices.
 prerequisites: None
-iconUrl: /learn/achievements/medtech-iot.svg  
+iconUrl: /training/achievements/medtech-iot.svg  
 levels:  
 - intermediate   
 roles:  

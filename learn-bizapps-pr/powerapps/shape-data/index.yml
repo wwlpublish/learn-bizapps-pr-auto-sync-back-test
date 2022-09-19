@@ -20,7 +20,7 @@ abstract: |
     - Use the search function to find a row
     - Understand the AddColumns, DropColumns, and RenameColumns functions
 prerequisites: A basic understanding of how to create a Power Apps canvas app.   
-iconUrl: /learn/achievements/shape-data.svg  
+iconUrl: /training/achievements/shape-data.svg  
 levels:  
 - intermediate   
 roles:  

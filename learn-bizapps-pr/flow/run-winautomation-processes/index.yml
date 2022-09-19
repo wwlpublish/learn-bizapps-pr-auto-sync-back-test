@@ -21,7 +21,7 @@ abstract: |
 prerequisites: |
     - Basic familiarity with the WinAutomation console
     - Power Automate account
-iconUrl: /learn/achievements/winautomation-execution-essentials.svg  
+iconUrl: /training/achievements/winautomation-execution-essentials.svg  
 levels:  
 - beginner   
 roles:  

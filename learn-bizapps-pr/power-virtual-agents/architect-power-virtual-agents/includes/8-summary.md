@@ -13,4 +13,4 @@ For more information, see the following links:
 - [Building chat bots](https://community.powerbi.com/t5/MBAS-Gallery-2020/Best-practices-for-building-an-intelligent-bot-with-Power/td-p/1100291/?azure-portal=true)
 - [Planning chat bots](https://powervirtualagents.microsoft.com/blog/best-practices-when-planning-to-use-chat-bots/?azure-portal=true)
 
-- [Power Virtual Agents Learning Path](/learn/paths/work-power-virtual-agents/?azure-portal=true)
+- [Power Virtual Agents Learning Path](/training/paths/work-power-virtual-agents/?azure-portal=true)

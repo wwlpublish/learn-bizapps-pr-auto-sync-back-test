@@ -12,7 +12,7 @@ Power Automate for desktop flows can be run attended, with the user manually ini
 Power Automate for desktop flows are a valid way to perform integrations and automation when no other alternative is available, or when developing an integration would be expensive and time-consuming.
 
 > [!NOTE]
-> Power Automate cloud flows are explained in the [Power Automate architecture module](/learn/modules/power-automate-architecture/?azure-portal=true).
+> Power Automate cloud flows are explained in the [Power Automate architecture module](/training/modules/power-automate-architecture/?azure-portal=true).
 
 ## Desktop software
 

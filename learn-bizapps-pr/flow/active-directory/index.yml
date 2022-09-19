@@ -23,7 +23,7 @@ prerequisites: |
     - Basic familiarity with process development
     - Familiarity with Active Directory
     - Access to the command prompt
-iconUrl: /learn/achievements/active-directory.svg  
+iconUrl: /training/achievements/active-directory.svg  
 levels:  
 - advanced  
 roles:  

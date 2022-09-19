@@ -17,7 +17,7 @@ abstract: |
     - Discover the capabilities of Microsoft Cloud for Retail.
     - Evaluate the use of Microsoft Cloud for Retail in your organization.
 prerequisites: Basic understanding of Microsoft Power Platform, Microsoft Azure, and retail use case scenarios
-iconUrl: /learn/achievements/cloud-retail-get-started.svg
+iconUrl: /training/achievements/cloud-retail-get-started.svg
 levels:
 - beginner
 roles:

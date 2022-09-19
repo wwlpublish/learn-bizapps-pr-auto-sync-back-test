@@ -13,7 +13,7 @@ summary: |
   [!include[](../includes/module-banner.md)] 
   This module will walk you through the process of obtaining prerequisite trial licenses to deploy Microsoft Cloud for Healthcare. This lab will be used in the subsequent modules in this Learning Path. The Microsoft Cloud for Healthcare is a conflux of Microsoft Dynamics 365, Microsoft Azure, Microsoft 365, and Microsoft Power Platform. To take full advantage of the Microsoft Cloud for Healthcare solution and this Learning Path, it is recommended to have access to all three clouds. If you already have a Microsoft 365 tenant and licenses for all [Microsoft Cloud for Healthcare apps](/industry/healthcare/configure-cloud-for-healthcare/?azure-portal=true), then you can skip this module and proceed to the next module in this Learning Path.  
 abstract: |  
-    In this module, you'll be able to : 
+In this module, you'll be able to : 
     - Describe the dependencies of Microsoft Cloud for Healthcare 
     - Obtain trial licenses for dependent products
     - Obtain trial licenses for Microsoft Cloud for Healthcare

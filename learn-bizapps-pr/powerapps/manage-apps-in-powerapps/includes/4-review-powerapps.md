@@ -19,11 +19,11 @@ One goal of this module is to provide a clearer picture of what Power Apps is an
 - Stay current with the [Power Apps blog](https://powerapps.microsoft.com/blog/?azure-portal=true).
 - Join the [Power Apps community](https://powerusers.microsoft.com/t5/PowerApps-Community/ct-p/PowerApps1/?azure-portal=true).
 - Expand your expertise with additional Power Apps learning paths:
-  - [Use basic formulas to make better Power Apps canvas apps](/learn/paths/use-basic-formulas-powerapps-canvas-app/?azure-portal=true)
-  - [Work with data in a Power Apps canvas app](/learn/paths/work-with-data-in-a-canvas-app/?azure-portal=true)
-  - [Use the UI and controls in a canvas app in Power Apps](/learn/paths/ui-controls-canvas-app-powerapps/?azure-portal=true)
-  - [Use advanced data options and connectors in Power Apps](/learn/paths/advanced-data-options-and-connectors/?azure-portal=true)
-  - [Master advanced techniques for Power Apps canvas apps](/learn/paths/understand-advanced-topics/?azure-portal=true)
+  - [Use basic formulas to make better Power Apps canvas apps](/training/paths/use-basic-formulas-powerapps-canvas-app/?azure-portal=true)
+  - [Work with data in a Power Apps canvas app](/training/paths/work-with-data-in-a-canvas-app/?azure-portal=true)
+  - [Use the UI and controls in a canvas app in Power Apps](/training/paths/ui-controls-canvas-app-powerapps/?azure-portal=true)
+  - [Use advanced data options and connectors in Power Apps](/training/paths/advanced-data-options-and-connectors/?azure-portal=true)
+  - [Master advanced techniques for Power Apps canvas apps](/training/paths/understand-advanced-topics/?azure-portal=true)
 - Improve Power Apps by submitting an [idea](https://powerusers.microsoft.com/t5/PowerApps-Ideas/idb-p/PowerAppsIdeas/?azure-portal=true).
 
 ### Power Apps downloads

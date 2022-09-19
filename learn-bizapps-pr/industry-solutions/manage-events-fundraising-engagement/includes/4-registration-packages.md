@@ -61,4 +61,4 @@ The **Generate Receipt** button in the toolbar at the top of a registration pack
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the generate receipt button.](../media/receipt.png)](../media/receipt.png#lightbox)
 
-To learn about printing receipts and thank-you letters, see module [Manage Gift Batches Receipts and Refunds](/learn/modules/manage-gift-batches-receipts-refunds/).
+To learn about printing receipts and thank-you letters, see module [Manage Gift Batches Receipts and Refunds](/training/modules/manage-gift-batches-receipts-refunds/).

@@ -20,7 +20,7 @@ abstract: |
     - Import a custom visual. 
     - Add an R or Python visual. 
 prerequisites: None 
-iconUrl: /learn/achievements/visuals-power-bi.svg  
+iconUrl: /training/achievements/visuals-power-bi.svg  
 levels:  
 - intermediate   
 roles:  

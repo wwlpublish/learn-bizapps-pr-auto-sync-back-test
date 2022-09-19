@@ -19,7 +19,7 @@ abstract: |
     - Embed the Loan Tracker app in Microsoft Teams.
     - Submit and approve a loan.
 prerequisites: Training environment preparation
-iconUrl: /learn/achievements/financial-services-customer-onboarding.svg  
+iconUrl: /training/achievements/financial-services-customer-onboarding.svg  
 levels:  
 - intermediate   
 roles:  

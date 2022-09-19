@@ -22,7 +22,7 @@ abstract: |
 prerequisites: |  
     - A Power Apps trial environment
     - Access to Microsoft Excel
-iconUrl: /learn/achievements/build-mobile-optimized.svg  
+iconUrl: /training/achievements/build-mobile-optimized.svg  
 levels:  
 - beginner   
 roles:  

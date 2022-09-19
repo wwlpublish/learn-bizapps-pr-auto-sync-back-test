@@ -21,7 +21,7 @@ abstract: |
 prerequisites: |  
     - Training environment preparation module
     - Care management module 
-iconUrl: /learn/achievements/patient-outreach.svg  
+iconUrl: /training/achievements/patient-outreach.svg  
 levels:  
 - intermediate   
 roles:  

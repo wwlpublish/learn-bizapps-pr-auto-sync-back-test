@@ -18,7 +18,7 @@ abstract: |
     - Build a flow that runs at recurring time intervals
     - Create a business process flow with conditions
 prerequisites: You must have signed up for Power Automate, and have a OneDrive for Business account.
-iconUrl: /learn/achievements/build-approval-flows.svg
+iconUrl: /training/achievements/build-approval-flows.svg
 levels:
 - beginner
 roles:

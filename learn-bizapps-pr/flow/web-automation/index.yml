@@ -21,7 +21,7 @@ prerequisites: |
     - Basic familiarity with the WinAutomation Console and Process Designer
     - Basic familiarity with process development and variables 
     - Basic familiarity with the Controls Repository 
-iconUrl: /learn/achievements/web-automation.svg  
+iconUrl: /training/achievements/web-automation.svg  
 levels:  
 - beginner   
 roles:  

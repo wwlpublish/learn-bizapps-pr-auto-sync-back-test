@@ -18,7 +18,7 @@ abstract: |
     - Learn how to use existing tables in Dataverse.
     - Relate tables in Dataverse.
 prerequisites: Basic understanding of Microsoft canvas apps and Dataverse
-iconUrl: /learn/achievements/create-data-model-expense-report.svg  
+iconUrl: /training/achievements/create-data-model-expense-report.svg  
 levels:  
 - beginner   
 roles:  

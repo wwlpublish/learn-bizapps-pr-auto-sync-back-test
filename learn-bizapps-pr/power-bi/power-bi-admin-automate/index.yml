@@ -21,7 +21,7 @@ abstract: |
 prerequisites: |   
     - Familiarity with Power BI and governance practices in a BI environment.
     - We recommend completing the Dashboard in a Day learning path before beginning this module. 
-iconUrl: /learn/achievements/power-bi-admin-automate.svg  
+iconUrl: /training/achievements/power-bi-admin-automate.svg  
 levels:  
 - intermediate   
 roles:  

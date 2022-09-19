@@ -18,7 +18,7 @@ abstract: |
     - Configure Microsoft Teams for virtual visits
     - Schedule a virtual visit in the Patient Portal
 prerequisites: Training environment preparation
-iconUrl: /learn/achievements/virtual-visits.svg
+iconUrl: /training/achievements/virtual-visits.svg
 levels:
 - intermediate
 roles:

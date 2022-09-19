@@ -21,7 +21,7 @@ abstract: |
 prerequisites: |
     - Basic familiarity with the WinAutomation Process Designer
     - Basic familiarity with Lists, Tables, and the square brackets notation
-iconUrl: /learn/achievements/loops.svg  
+iconUrl: /training/achievements/loops.svg  
 levels:  
 - beginner   
 roles:  

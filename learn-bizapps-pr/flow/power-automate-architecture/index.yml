@@ -18,7 +18,7 @@ abstract: |
     - Review considerations for using triggers and common actions.
     - Explore how to use business process flows to guide users through business processes.
 prerequisites: Experience working on Microsoft Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer
-iconUrl: /learn/achievements/power-automate-architecture.svg  
+iconUrl: /training/achievements/power-automate-architecture.svg  
 levels:  
 - advanced
 roles:  

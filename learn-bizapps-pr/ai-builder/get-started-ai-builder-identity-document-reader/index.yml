@@ -18,7 +18,7 @@ abstract: |
     - Discover how the ID reader in AI Builder works within Microsoft Power Platform.
     - Develop a simple flow with Microsoft Power Automate that uses the ID reader in AI Builder.
 prerequisites: A Microsoft Power Automate or Microsoft Power Apps license, access to Microsoft Dataverse, and an AI Builder add-on or trial.
-iconUrl: /learn/achievements/get-started-ai-builder-identity-document-reader.svg  
+iconUrl: /training/achievements/get-started-ai-builder-identity-document-reader.svg  
 levels:  
 - beginner   
 roles:  

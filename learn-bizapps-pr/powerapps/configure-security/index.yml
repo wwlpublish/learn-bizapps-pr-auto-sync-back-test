@@ -23,7 +23,7 @@ prerequisites: |
   - Basic understanding of Power Apps portals
   - Ability to create webpages and show Dataverse data by using entity lists and entity forms
   - Basic understanding of how relationships work between Dataverse entities
-iconUrl: /learn/achievements/configure-security.svg
+iconUrl: /training/achievements/configure-security.svg
 levels:
 - intermediate
 roles:

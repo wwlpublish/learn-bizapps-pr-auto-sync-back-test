@@ -18,7 +18,7 @@ abstract: |
     - Explore Power BI visuals
     - Create visuals
 prerequisites: Access to Power BI Desktop 
-iconUrl: /learn/achievements/create-visuals-power-bi-desktop.svg
+iconUrl: /training/achievements/create-visuals-power-bi-desktop.svg
 levels:  
 - intermediate   
 roles:  

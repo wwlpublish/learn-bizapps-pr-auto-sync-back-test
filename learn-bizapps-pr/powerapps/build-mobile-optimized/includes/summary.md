@@ -6,4 +6,4 @@ For more information, see the following resources:
 
 - [List views optimized for model-driven apps on mobile](https://docs.microsoft.com/power-platform-release-plan/2021wave1/power-apps/list-views-optimized-model-driven-apps-mobile)
 
-- [Exercise - Create your first app in Power Apps](https://docs.microsoft.com/learn/modules/get-started-with-powerapps/5-powerapps-create-first)
+- [Exercise - Create your first app in Power Apps](https://docs.microsoft.com/training/modules/get-started-with-powerapps/5-powerapps-create-first)

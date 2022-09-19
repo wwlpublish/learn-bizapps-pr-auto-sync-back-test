@@ -18,7 +18,7 @@ abstract: |
     - Learn about the difference between a workflow and a business process.
     - Find out about how business process flows are used within Microsoft Power Platform and Dataverse.
 prerequisites: A basic understanding of how to model a business process as a set of stages, steps, and branching concepts and a familiarity with Microsoft Power Platform.      
-iconUrl: /learn/achievements/intro-business-process-flows.svg  
+iconUrl: /training/achievements/intro-business-process-flows.svg  
 levels:  
 - intermediate   
 roles:  

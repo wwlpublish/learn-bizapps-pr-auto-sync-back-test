@@ -22,7 +22,7 @@ abstract: |
     - Learn about run-only permissions.
     - Discover the differences between sharing solution and non-solution cloud flows.
 prerequisites: Basic Power Automate experience
-iconUrl: /learn/achievements/share-cloud-flow.svg
+iconUrl: /training/achievements/share-cloud-flow.svg
 levels:
 - beginner
 roles:
