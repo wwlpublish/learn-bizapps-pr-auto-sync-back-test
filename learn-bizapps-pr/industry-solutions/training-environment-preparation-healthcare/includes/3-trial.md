@@ -248,4 +248,4 @@ In this task, you'll obtain a trial Azure subscription.
 > [!NOTE]
 > A credit card is only required to verify your identity. You will not be charged unless you upgrade your subscription. Please read the following Microsoft Docs to understand how to [Avoid charges with your Azure free account](/azure/cost-management-billing/manage/avoid-charges-free-account).
 
-**Congratulations!**. You successfully added the necessary trial licenses to your **Microsoft 365 tenant** and successfully procured **Azure** trial subscription.
+**Congratulations**, you've successfully added the necessary trial licenses to your **Microsoft 365 tenant** and successfully procured **Azure** trial subscription.

@@ -105,4 +105,4 @@ In this task, you'll go through the steps to assign security roles to the Lamna 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Create a new app user page with Lamna health bot selected.](../media/security-create-new-app-user.png)](../media/security-create-new-app-user.png#lightbox)
 
-**Congratulations!**, you've successfully assigned all security roles to the global administrator account and Azure AD app.
+**Congratulations**, you've successfully assigned all security roles to the global administrator account and Azure AD app.
