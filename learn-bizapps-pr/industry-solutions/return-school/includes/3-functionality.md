@@ -93,7 +93,7 @@ When a person who wants an appointment is in the process of booking that appoint
 
 ## Return to School portal user configuration
 
-The Return to School portal allows administrators to provide a user-friendly, web-based way to register and manage building access. This portal is intended for simple setup and use. For more information, go to [Work with Power Apps portals](/learn/paths/work-power-apps-portals/?azure-portal=true).
+The Return to School portal allows administrators to provide a user-friendly, web-based way to register and manage building access. This portal is intended for simple setup and use. For more information, go to [Work with Power Apps portals](/training/paths/work-power-apps-portals/?azure-portal=true).
 
 Configuration of some features has already been completed through the Back to School model-driven app, where you can enable and disable features for daily passes, QR codes, and  a dependent's access. Additionally, the data in that app will be available for users in the portal, such as contact information, schools, school access, appointments, and more.
 
@@ -118,4 +118,3 @@ Because the portal might contain sensitive information, make sure that you provi
 -   Update their profile
 
 For more information, see [Return to School Portal app](/dynamics365/industry/return-to-school/portal-app#authenticated-access-to-the-portal/?azure-portal=true).
-

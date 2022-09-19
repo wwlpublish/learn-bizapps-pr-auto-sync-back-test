@@ -19,7 +19,7 @@ abstract: |
     - Create donor commitments and convert them to donations
     - Understand and work with recurring donations and pledge schedules
 prerequisites: none
-iconUrl: /learn/achievements/process-gifts.svg  
+iconUrl: /training/achievements/process-gifts.svg  
 levels:  
 - intermediate   
 roles:  

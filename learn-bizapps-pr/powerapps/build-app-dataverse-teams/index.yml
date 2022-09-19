@@ -18,7 +18,7 @@ abstract: |
     - Customize and publish your app.
     - Install templates.
 prerequisites: Familiarity with Microsoft Teams
-iconUrl: /learn/achievements/build-app-dataverse-teams.svg  
+iconUrl: /training/achievements/build-app-dataverse-teams.svg  
 levels:  
 - beginner   
 roles:  

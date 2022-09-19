@@ -30,7 +30,7 @@ As your locations reopen for business, your concerns will shift to other tasks s
 |     How will   you monitor air quality and reduce touchpoints?                           |     Create   safer work environments with touchless devices, IoT monitoring, and   automation solutions.                                                                     |
 |     How will you help employees work and meet with remote   and in-person colleagues?    |     Stay connected with anyone inside or outside your organization   by using Microsoft Teams devices. Coordinate meetings and capacity with Teams   rooms and Surface Hub.    |
 
-Using IoT tools, such as sensors and barcode scanners, helps ensure that you can capture data in real time and turn it into actionable insights. For more information, see [Introduction to Azure IoT](/learn/paths/introduction-to-azure-iot/?azure-portal=true).
+Using IoT tools, such as sensors and barcode scanners, helps ensure that you can capture data in real time and turn it into actionable insights. For more information, see [Introduction to Azure IoT](/training/paths/introduction-to-azure-iot/?azure-portal=true).
 
 ## Support employee health and safety
 
@@ -42,7 +42,7 @@ A computer or individuals alone can't keep your employees safe in their return t
 |     What steps should you take if an employee isn’t   healthy?      |     Provide employees contact information for your company’s health   and safety teams.                                                                            |
 |     How are   you reducing the risk of exposure for employees?      |     Create a   safer workplace environment by using insights around worker proximity,   movement, and adherence to social distancing and mask-wearing guidance.    |
 
-For more information, see [Work with core features in Dynamics 365 Marketing](/learn/paths/work-core-features-marketing/?azure-portal=true).
+For more information, see [Work with core features in Dynamics 365 Marketing](/training/paths/work-core-features-marketing/?azure-portal=true).
 
 Sustain employee wellbeing and productivity
 -------------------------------------------
@@ -68,4 +68,4 @@ During a phased return to the workplace, it's important to ensure that employees
 |     How can employees have more natural meeting   experiences?                               |     Connect remote and onsite employees while reducing video meeting   fatigue by using the **Together Mode** feature in Microsoft Teams.                                                                                            |
 |     How   private and secure are your video conferencing and online meetings?                |     Manage who   participates in your meetings and who has access to meeting information by using   the built-in security and privacy capabilities in Microsoft Teams.                                                           |
 
-For more information, see [Enforce security, privacy, and compliance in Microsoft Teams](/learn/paths/m365-teams-security/?azure-portal=true).
+For more information, see [Enforce security, privacy, and compliance in Microsoft Teams](/training/paths/m365-teams-security/?azure-portal=true).

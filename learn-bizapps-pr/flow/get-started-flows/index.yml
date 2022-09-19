@@ -19,7 +19,7 @@ abstract: |
 prerequisites: |
     - Signed up for Power Automate
     - Have a OneDrive for Business account
-iconUrl: /learn/achievements/get-started-with-flow.svg
+iconUrl: /training/achievements/get-started-with-flow.svg
 levels:
 - beginner
 roles:

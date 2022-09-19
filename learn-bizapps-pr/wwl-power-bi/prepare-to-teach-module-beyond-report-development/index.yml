@@ -14,7 +14,7 @@ abstract: |
   Teach the module “Beyond report development&quot; in the instructor-led course “Power BI paginated reports”.
 prerequisites: |
   Experience with Power BI paginated reports.
-iconUrl: /learn/achievements/beyond-report-development.svg
+iconUrl: /training/achievements/beyond-report-development.svg
 hidden: true
 levels:
 - intermediate

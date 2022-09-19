@@ -19,7 +19,7 @@ abstract: |
     - Integrate Power Apps, Power Automate, and SharePoint
     - Monitor flows
 prerequisites: You must have signed up for Power Automate, and have a OneDrive for Business account.
-iconUrl: /learn/achievements/multiple-data-sources.svg
+iconUrl: /training/achievements/multiple-data-sources.svg
 levels:
 - beginner
 roles:

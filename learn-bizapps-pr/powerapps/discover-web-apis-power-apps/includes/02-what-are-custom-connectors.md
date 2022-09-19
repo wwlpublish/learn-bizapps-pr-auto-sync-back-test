@@ -32,4 +32,4 @@ A custom connector is a wrapper around a web API, it allows Power Apps to commun
 
 [az apim]: /azure/api-management/api-management-key-concepts
 [az cuscon]: /connectors/custom-connectors/
-[az learn apim]: /learn/modules/integrate-openapi-enabled-web-api-with-apim-and-visual-studio/
+[az learn apim]: /training/modules/integrate-openapi-enabled-web-api-with-apim-and-visual-studio/

@@ -18,7 +18,7 @@ abstract: |
     - Learn how to use the flow control group of actions to direct and manipulate the flow.
 prerequisites: |
     - Basic familiarity with WinAutomation
-iconUrl: /learn/achievements/flow-control.svg  
+iconUrl: /training/achievements/flow-control.svg  
 levels:  
 - beginner   
 roles:  

@@ -23,7 +23,7 @@ prerequisites: |
     - Administrator rights
     - Access to Active Directory users and computers
     - Access to the command prompt
-iconUrl: /learn/achievements/pad-active-directory.svg
+iconUrl: /training/achievements/pad-active-directory.svg
 levels:
 - advanced
 roles:

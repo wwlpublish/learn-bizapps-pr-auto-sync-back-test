@@ -18,7 +18,7 @@ abstract: |
     - Learn how to modify table views.
     - Learn how to modify table forms.
 prerequisites: Basic understanding of Microsoft model-driven apps and Microsoft Dataverse
-iconUrl: /learn/achievements/custom-view-forms.svg  
+iconUrl: /training/achievements/custom-view-forms.svg  
 levels:  
 - beginner   
 roles:  

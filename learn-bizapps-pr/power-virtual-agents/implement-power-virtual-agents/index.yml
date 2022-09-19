@@ -20,7 +20,7 @@ abstract: |
     - Import and export bots.
     - Authenticate users.
 prerequisites: none
-iconUrl: /learn/achievements/implement-power-virtual-agents.svg
+iconUrl: /training/achievements/implement-power-virtual-agents.svg
 levels:
 - intermediate
 roles:

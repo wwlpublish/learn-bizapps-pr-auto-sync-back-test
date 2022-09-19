@@ -14,12 +14,12 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   This learning path introduces you to Power BI, and teaches you to use and build business intelligence reports. 
 
-  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/learn/certifications/power-platform-app-maker/?azure-portal=true).
+  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/certifications/power-platform-app-maker/?azure-portal=true).
 prerequisites: |
   - Familiarity with Excel
   - Access to the Power BI service
   - Power BI Desktop
-iconUrl: /learn/achievements/create-use-analytics-reports-power-bi.svg
+iconUrl: /training/achievements/create-use-analytics-reports-power-bi.svg
 levels:
 - beginner
 roles:

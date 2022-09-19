@@ -19,7 +19,7 @@ abstract: |
     - Create and run a flow.
 prerequisites: |
     [Power Automate for desktop](https://flow.microsoft.com/desktop/) should be installed. 
-iconUrl: /learn/achievements/pad-first-steps.svg  
+iconUrl: /training/achievements/pad-first-steps.svg  
 levels:  
 - beginner   
 roles:  

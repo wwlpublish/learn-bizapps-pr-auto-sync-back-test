@@ -20,7 +20,7 @@ abstract: |
 prerequisites: |
     - Basic understanding of Microsoft canvas apps and Microsoft Dataverse
     - Basic knowledge of how to build a data model
-iconUrl: /learn/achievements/plan-canvas-app.svg
+iconUrl: /training/achievements/plan-canvas-app.svg
 levels:
 - beginner
 roles:

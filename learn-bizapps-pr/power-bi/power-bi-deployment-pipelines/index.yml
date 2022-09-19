@@ -25,7 +25,7 @@ prerequisites: |
     - You're a Power BI [Pro user](/power-bi/enterprise/service-admin-purchasing-power-bi-pro/?azure-portal=true), and you belong to an organization that has Premium capacity.
     -	[Premium Per User (PPU)](/power-bi/enterprise/service-premium-per-user-faq/?azure-portal=true).
   -	You're an admin of a [new workspace experience](/power-bi/collaborate-share/service-create-the-new-workspaces/?azure-portal=true).
-iconUrl: /learn/achievements/power-bi-deployment-pipelines.svg  
+iconUrl: /training/achievements/power-bi-deployment-pipelines.svg  
 levels:  
 - intermediate   
 roles:  

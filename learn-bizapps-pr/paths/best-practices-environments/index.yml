@@ -13,11 +13,11 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   Is Microsoft Power Platform new to your organization? Are you looking to better understand how you can improve your organization’s productivity, without compromising your security posture, while enabling governance? Take this learning path, to identify best practices for securing and governing Microsoft Power Platform environments. We will share tools and templates that can be used to ensure you are productive as you secure and govern Microsoft Power Platform.
 
-  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/learn/certifications/power-platform-app-maker/?azure-portal=true).
+  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/certifications/power-platform-app-maker/?azure-portal=true).
 prerequisites: |
   - A basic understanding of Microsoft Power Automate and Power Apps including their purpose and how these tools are used within an organization. 
   - A Microsoft Power Platform license with administrative rights.
-iconUrl: /learn/achievements/best-practices-environments.svg
+iconUrl: /training/achievements/best-practices-environments.svg
 levels:
 - intermediate
 roles:

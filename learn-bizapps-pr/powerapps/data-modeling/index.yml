@@ -18,7 +18,7 @@ abstract: |
     - Discover various data model strategies.
     - Learn about data types and data relationships.
 prerequisites: Experience working on Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer
-iconUrl: /learn/achievements/data-modeling.svg  
+iconUrl: /training/achievements/data-modeling.svg  
 levels:  
 - intermediate 
 - advanced

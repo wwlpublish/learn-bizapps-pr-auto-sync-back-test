@@ -14,7 +14,7 @@ abstract: |
   Teach the module “Add interactivity features&quot; in the instructor-led course “Power BI paginated reports”.
 prerequisites: |
   Experience creating paginated reports
-iconUrl: /learn/achievements/add-interactivity-features.svg
+iconUrl: /training/achievements/add-interactivity-features.svg
 hidden: true
 levels:
 - intermediate

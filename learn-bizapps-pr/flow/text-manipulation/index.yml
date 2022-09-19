@@ -20,7 +20,7 @@ abstract: |
 prerequisites: |
     - Basic familiarity with WinAutomation
     - Familiarity with editing and manipulating text
-iconUrl: /learn/achievements/text-manipulation.svg  
+iconUrl: /training/achievements/text-manipulation.svg  
 levels:  
 - intermediate   
 roles:  

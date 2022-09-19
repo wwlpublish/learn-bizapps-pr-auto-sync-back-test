@@ -17,7 +17,7 @@ abstract: |
     - Discover how policies can modify the behavior of custom connectors at runtime.
     - Apply policy templates to a custom connector.
 prerequisites: Experience with Power Automate. 
-iconUrl: /learn/achievements/policy-templates-custom-connectors.svg  
+iconUrl: /training/achievements/policy-templates-custom-connectors.svg  
 levels:  
 - intermediate   
 roles:  

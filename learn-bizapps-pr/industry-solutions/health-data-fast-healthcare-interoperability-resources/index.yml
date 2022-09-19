@@ -18,7 +18,7 @@ abstract: |
     - Identify resource elements, structures, and hierarchy.
     - Learn about the FHIR RESTful API framework.
 prerequisites: None
-iconUrl: /learn/achievements/health-data-fast-healthcare-interoperability-resources.svg
+iconUrl: /training/achievements/health-data-fast-healthcare-interoperability-resources.svg
 levels:
 - intermediate
 roles:

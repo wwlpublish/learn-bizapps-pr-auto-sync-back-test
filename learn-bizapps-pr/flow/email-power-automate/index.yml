@@ -20,7 +20,7 @@ abstract: |
     - Send emails by using the Mail connector.
     - Save email content to SharePoint.
 prerequisites: Basic understanding of how to create flows with SharePoint as the trigger
-iconUrl: /learn/achievements/email-power-automate.svg  
+iconUrl: /training/achievements/email-power-automate.svg  
 levels:  
 - beginner   
 roles:  

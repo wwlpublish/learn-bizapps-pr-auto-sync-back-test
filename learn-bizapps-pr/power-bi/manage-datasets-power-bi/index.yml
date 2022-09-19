@@ -23,7 +23,7 @@ abstract: |
     - Troubleshoot service connectivity.
     - Boost performance with query caching (Premium).
 prerequisites: None 
-iconUrl: /learn/achievements/manage-datasets-in-power-bi.svg
+iconUrl: /training/achievements/manage-datasets-in-power-bi.svg
 levels:  
 - intermediate   
 roles:  

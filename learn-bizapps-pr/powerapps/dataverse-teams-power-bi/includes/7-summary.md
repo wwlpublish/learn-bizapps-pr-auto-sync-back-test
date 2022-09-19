@@ -5,7 +5,7 @@ Empower your users with Power BI reports by using Dataverse for Teams data so th
 ## Links related to modules for specific topics
 For more information, see the following links:
 
-- [Provision a Dataverse for Teams Environment and create a table](/learn/modules/get-started-dataverse-teams//?azure-portal=true)
+- [Provision a Dataverse for Teams Environment and create a table](/training/modules/get-started-dataverse-teams//?azure-portal=true)
 - [Power BI Pro licensing](/power-bi/admin/service-admin-licensing-organization/?azure-portal=true)
 - [Power Query Editor](/power-bi/transform-model/desktop-query-overview/?azure-portal=true)
 - [Power BI Visual Interactions](/power-bi/create-reports/service-reports-visual-interactions/?azure-portal=true)

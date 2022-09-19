@@ -22,7 +22,7 @@ Supplemental Resources:
 
 - [PL-900 Exam Page](https://aka.ms/PL900Exam) 
 
-- [Certification Overview Page](/learn/certifications/)  
+- [Certification Overview Page](/certifications/)  
 
 - [Process of Creating a Connector](https://aka.ms/createaconnector)  
 

@@ -13,7 +13,7 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   Work with Power Automate for desktop to record Windows and Web applications, but also use out of box actions such as manipulating Excel documents as part of an end to end invoice processing solution. 
 prerequisites: Experience with Power Automate.
-iconUrl: /learn/achievements/work-automation-flow.svg
+iconUrl: /training/achievements/work-automation-flow.svg
 levels:
 - intermediate
 roles: 

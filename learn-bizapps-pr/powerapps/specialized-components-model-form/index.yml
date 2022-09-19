@@ -20,7 +20,7 @@ abstract: |
     - Add a timeline in a model-driven form.
     - Create a report in a model-driven form.
 prerequisites: A Microsoft Power Apps trial environment
-iconUrl: /learn/achievements/specialized-components-model-form.svg
+iconUrl: /training/achievements/specialized-components-model-form.svg
 levels:
 - beginner
 roles:

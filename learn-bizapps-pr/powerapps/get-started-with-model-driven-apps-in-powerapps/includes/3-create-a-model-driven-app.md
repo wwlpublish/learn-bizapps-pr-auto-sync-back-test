@@ -20,7 +20,7 @@ You add pages to your app within the App Designer.
 2. Select **Table based view and form**, and then select **Next**. Afterwards, select **Account** and then **Add**.
 
     > [!NOTE]
-    > If *Account* is not an option as a table, you may not have any sample data in your environment. Refer to this exercise on [how to create sample apps and data](/learn/modules/intro-model-driven-apps-common-data-service/4-template-apps/?azure-portal=true).
+    > If *Account* is not an option as a table, you may not have any sample data in your environment. Refer to this exercise on [how to create sample apps and data](/training/modules/intro-model-driven-apps-common-data-service/4-template-apps/?azure-portal=true).
 
     ![Screenshot of the Add table view screen with Account selected.](../media/updated-sitemap.png)
 

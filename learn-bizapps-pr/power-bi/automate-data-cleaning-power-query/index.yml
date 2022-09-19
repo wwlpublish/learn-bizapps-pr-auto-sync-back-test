@@ -20,7 +20,7 @@ abstract: |
     - Connect to disparate data sources by using Power Query.
     - Use Power Query to clean and transform data for a data model.
 prerequisites: Microsoft Excel
-iconUrl: /learn/achievements/automate-data-cleaning-power-query.svg  
+iconUrl: /training/achievements/automate-data-cleaning-power-query.svg  
 levels:  
 - beginner   
 roles:  

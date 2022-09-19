@@ -18,7 +18,7 @@ abstract: |
     - Learn about the Microsoft Cloud for Healthcare data model.
     - Learn about Common Data Model extensibility.
 prerequisites: None
-iconUrl: /learn/achievements/healthcare-data-model.svg
+iconUrl: /training/achievements/healthcare-data-model.svg
 levels:
 - beginner
 roles:

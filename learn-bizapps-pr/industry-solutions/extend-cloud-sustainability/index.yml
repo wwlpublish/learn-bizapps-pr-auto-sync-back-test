@@ -22,7 +22,7 @@ abstract: |
 prerequisites: |
   - Access to the deployment of Microsoft Sustainability Manager with demo data installed 
   - Basic knowledge of working with Microsoft Power Platform
-iconUrl: /learn/achievements/extend-cloud-sustainability.svg  
+iconUrl: /training/achievements/extend-cloud-sustainability.svg  
 levels:  
 - intermediate   
 roles:  

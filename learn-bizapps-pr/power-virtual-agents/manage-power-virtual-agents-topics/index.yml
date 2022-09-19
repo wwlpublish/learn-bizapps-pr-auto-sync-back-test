@@ -20,7 +20,7 @@ abstract: |
     - Use a fallback topic rather than triggering an escalation. 
     - Manage a topic status, copy topics, and resolve topic errors.
 prerequisites: Access to Power Virtual Agents
-iconUrl: /learn/achievements/manage-power-virtual-agent-topics.svg  
+iconUrl: /training/achievements/manage-power-virtual-agent-topics.svg  
 levels:  
 - beginner   
 roles:  

@@ -13,9 +13,9 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   You will explore Power Query as you learn to extract data from different data sources and choose a storage mode and connectivity type. You will learn to profile, clean, and load data into Power BI in preparation for modeling your data.  
   
-  This learning path can help you prepare for the [Microsoft Certified: Data Analyst Associate certification](/learn/certifications/data-analyst-associate/?azure-portal=true).
+  This learning path can help you prepare for the [Microsoft Certified: Data Analyst Associate certification](/certifications/data-analyst-associate/?azure-portal=true).
 prerequisites: None
-iconUrl: /learn/achievements/data-preparation-in-power-bi.svg
+iconUrl: /training/achievements/data-preparation-in-power-bi.svg
 levels:
 - intermediate
 roles: 

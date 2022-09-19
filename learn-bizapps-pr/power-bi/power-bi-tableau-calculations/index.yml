@@ -18,7 +18,7 @@ abstract: |
     - Understand the importance of context in Power BI calculations.
     - Identify differences and similarities between Tableau and Power BI calculation concepts.
 prerequisites: Access to Power BI service, familiarity with Tableau, understanding of Tableau concepts of moderate to advanced calculations, level of detail (LOD) expressions, and granularity.
-iconUrl: /learn/achievements/power-bi-tableau-calculations.svg  
+iconUrl: /training/achievements/power-bi-tableau-calculations.svg  
 levels:  
 - beginner
 roles:  

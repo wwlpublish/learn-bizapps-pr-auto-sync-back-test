@@ -18,7 +18,7 @@ abstract: |
     - Evaluate analytics and app usage in Application Insights.
     - Log custom events to Application Insights.
 prerequisites: Basic Power Apps maker experience
-iconUrl: /learn/achievements/instrumentation-app-insights.svg  
+iconUrl: /training/achievements/instrumentation-app-insights.svg  
 levels:  
 - intermediate   
 roles:  

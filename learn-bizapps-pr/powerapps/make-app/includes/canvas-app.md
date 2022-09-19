@@ -25,7 +25,7 @@ After you've gained some experience generating an app automatically and customiz
 
 For more information, see the following articles:
 
-- [Create a canvas app in Power Apps](/learn/paths/create-powerapps/?azure-portal=true)
+- [Create a canvas app in Power Apps](/training/paths/create-powerapps/?azure-portal=true)
 
 - [Power Apps canvas apps documentation](/power-apps/maker/canvas-apps/?azure-portal=true)
 

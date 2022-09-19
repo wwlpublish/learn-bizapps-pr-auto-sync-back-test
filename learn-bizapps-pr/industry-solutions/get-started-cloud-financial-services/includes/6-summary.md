@@ -2,7 +2,7 @@ Microsoft Cloud for Financial Services offers a comprehensive set of solutions f
 
 For more information about the retail banking data model, see [Retail banking data model overview](/dynamics365/industry/financial-services/overview-data-model/?azure-portal=true).
 
-For more information about deploying and customizing a self-service portal for the customer onboarding process, see [Work with Power Apps portals](/learn/paths/work-power-apps-portals/?azure-portal=true).
+For more information about deploying and customizing a self-service portal for the customer onboarding process, see [Work with Power Apps portals](/training/paths/work-power-apps-portals/?azure-portal=true).
 
 For more information, see [Compliance in Microsoft Cloud for Financial Services](/industry/financial-services/compliance-overview/?azure-portal=true) and ensure that you use services that match your requirements.
 

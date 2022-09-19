@@ -18,7 +18,7 @@ abstract: |
     - Import data into a Dataverse database 
 prerequisites: |
   - A Microsoft Power Apps account. If you don't already have a Power Apps account, select the **Get started free** link on [powerapps.com](https://make.powerapps.com/?utm_source=padocs&utm_medium=linkinadoc&utm_campaign=referralsfromdoc).
-iconUrl: /learn/achievements/get-started-with-powerapps-common-data-service.svg
+iconUrl: /training/achievements/get-started-with-powerapps-common-data-service.svg
 levels:  
 - beginner 
 roles:  

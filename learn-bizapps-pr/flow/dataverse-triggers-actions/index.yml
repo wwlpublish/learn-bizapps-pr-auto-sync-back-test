@@ -17,7 +17,7 @@ abstract: |
     - Learn about the Dataverse triggers and actions in Power Automate.
     - Discover the additional inputs that are available.
 prerequisites: Basic understanding of Microsoft Power Automate and Microsoft Dataverse 
-iconUrl: /learn/achievements/dataverse-triggers-actions.svg  
+iconUrl: /training/achievements/dataverse-triggers-actions.svg  
 levels:  
 - intermediate   
 roles:  

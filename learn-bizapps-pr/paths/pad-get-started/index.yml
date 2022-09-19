@@ -13,7 +13,7 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   Get started with Power Automate for desktop by learning about flows, creating automated steps, and flow development essentials.
 prerequisites: None
-iconUrl: /learn/achievements/pad-get-started.svg
+iconUrl: /training/achievements/pad-get-started.svg
 levels:
 - beginner
 roles: 

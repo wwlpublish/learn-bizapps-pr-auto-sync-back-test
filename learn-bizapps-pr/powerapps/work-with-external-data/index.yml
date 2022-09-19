@@ -18,7 +18,7 @@ abstract: |
     - Understand data sources for canvas apps in Power Apps
     - Use the Collect function
 prerequisites: A basic understanding of how to create a canvas app in Power Apps.   
-iconUrl: /learn/achievements/work-with-external-data.svg  
+iconUrl: /training/achievements/work-with-external-data.svg  
 levels:  
 - intermediate   
 roles:  

@@ -18,7 +18,7 @@ abstract: |
     - Explore the DICOM standards and DICOM service.
     - Review the use case for radiology data in cancer treatment with examples.
 prerequisites: None
-iconUrl: /learn/achievements/medical-imaging-data.svg
+iconUrl: /training/achievements/medical-imaging-data.svg
 levels:
 - intermediate
 roles:

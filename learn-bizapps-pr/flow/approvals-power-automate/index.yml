@@ -20,7 +20,7 @@ abstract: |
     - Learn about the metadata that is captured from approvals.
     - Review the known issues and limits.
 prerequisites: Basic understanding of how to create flows with SharePoint as the trigger
-iconUrl: /learn/achievements/approvals-power-automate.svg
+iconUrl: /training/achievements/approvals-power-automate.svg
 levels:
 - beginner
 roles:

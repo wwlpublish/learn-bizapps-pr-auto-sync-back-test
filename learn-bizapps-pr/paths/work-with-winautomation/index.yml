@@ -13,7 +13,7 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   Work with WinAutomation options, process properties, recording features, conditions, loops, variables, repositories, and error and exception handling. 
 prerequisites: None
-iconUrl: /learn/achievements/work-with-winautomation.svg
+iconUrl: /training/achievements/work-with-winautomation.svg
 levels:
 - intermediate
 roles: 

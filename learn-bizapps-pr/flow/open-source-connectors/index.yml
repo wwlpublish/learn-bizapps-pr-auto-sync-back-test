@@ -19,7 +19,7 @@ abstract: |
     - Download a connector by using CLI.
     - Use version control.
 prerequisites: Experience with Microsoft Power Automate
-iconUrl: /learn/achievements/open-source-connectors.svg  
+iconUrl: /training/achievements/open-source-connectors.svg  
 levels:  
 - intermediate   
 roles:  
