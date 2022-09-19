@@ -48,7 +48,7 @@ If you've not updated the billing account details in the **Set up a Microsoft 36
 6.	On the **order receipt** page, select **Continue.**
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of continue button highlighted.](../media/ccustomer-service-order.png)](../media/customer-service-order.png#lightbox)
+    > [![Screenshot of continue button highlighted.](../media/customer-service-order.png)](../media/customer-service-order.png#lightbox)
 
 ## Task 2: Obtain the Dynamics 365 Customer Service Digital Messaging add-on Trial
 
