@@ -14,7 +14,7 @@ Microsoft Cloud for Healthcare solution relies on various components and hence y
   
 ## Task 1: Obtain Dynamics 365 Customer Service Enterprise Trial
 
-In this task, you'll obtain the Dynamics 365 Customer Service Enterprise Trial license which is a core component of Microsoft Cloud for Healthcare.
+In this task, you'll obtain the Dynamics 365 Customer Service Enterprise Trial license, which is a core component of Microsoft Cloud for Healthcare.
 
 1.  Go to [Microsoft 365 admin center](https://admin.microsoft.com/?azure-portal=true).
 
@@ -38,7 +38,7 @@ In this task, you'll obtain the Dynamics 365 Customer Service Enterprise Trial l
 > [!div class="mx-imgBorder"]
 	> [![Screenshot of trial license page with Try now option highlighted.](../media/customer-service-try-now.png)](../media/customer-service-try-now.png#lightbox)
 
-If you have'nt updated the billing account details in the **Set up a Microsoft 365 tenant** unit, you'll see the **Information required** pop-up. Select **Continue** and enter the billing account details before you can check out the order for **Dynamics 365 Customer Service Enterprise Trial** license.
+If you've not updated the billing account details in the **Set up a Microsoft 365 tenant** unit, you'll see the **Information required** pop-up. Select **Continue** and enter the billing account details before you can check out the order for **Dynamics 365 Customer Service Enterprise Trial** license.
 
 > [!div class="mx-imgBorder"]
 	> [![Screenshot of confirm order page with Try now highlighted.](../media/customer-service-continue.png)](../media/customer-service-continue.png#lightbox)
@@ -50,7 +50,7 @@ If you have'nt updated the billing account details in the **Set up a Microsoft 3
 
 ## Task 2: Obtain the Dynamics 365 Customer Service Digital Messaging add-on Trial
 
-In this task, you'll obtain **Dynamics 365 Customer Service Digital Messaging add-on Trial** license which adds multiple digital conversation channels within the **Omnichannel for Customer Service.**
+In this task, you'll obtain **Dynamics 365 Customer Service Digital Messaging add-on Trial** license that adds multiple digital conversation channels within the **Omnichannel for Customer Service.**
 
 1.  Go to [Microsoft 365 admin center](https://admin.microsoft.com/?azure-portal=true).
 
@@ -141,7 +141,7 @@ In this task, you'll obtain the **Dynamics 365 Field Service Trial** license use
 
 ## Task 5: Obtain Dynamics 365 Marketing Trial
 
-In this task, you'll obtain the **Dynamics 365 Marketing Trial** license used by **Patient Outreach** solution in Microsoft Cloud for Healthcare. As **Dynamics 365 Marketing** is a tenant-based license, it’s neither required nor available to be assigned to each user.
+In this task, you'll obtain the **Dynamics 365 Marketing Trial** license used by **Patient Outreach** solution in Microsoft Cloud for Healthcare. As **Dynamics 365 Marketing** is a tenant-based license, it’s neither required, nor available to be assigned to each user.
 
 1.  Go to [Microsoft 365 admin center](https://admin.microsoft.com/?azure-portal=true).
 
@@ -175,7 +175,7 @@ In this task, you'll obtain a trial license for Microsoft Cloud for Healthcare.
 
 1.  Go to [Microsoft Cloud for Healthcare Trial License Request Form](https://aka.ms/MCHTrial/?azure-portal=true) and fill out the required information and select **Submit**.
 
-1. You will receive an email with a URL that contains an offer code that you can use to claim a 30-day trial license for Microsoft Cloud for Healthcare. After you have received that email, copy the URL.
+1. You'll receive an email with a URL that contains an offer code that you can use to claim a 30-day trial license for Microsoft Cloud for Healthcare. After you've received that email, copy the URL.
 
 1. Open a new tab while signed in to your **M365 trial tenant** as global administrator, and then paste the URL.
 
@@ -206,7 +206,7 @@ In this task, you’ll validate if the product licenses obtained are available i
 
 1.  Navigate to  **Billing > Your Products**.
 
-1. In the right pane, under **Products from Microsoft and others**, you will be able to view all the product licenses you obtained. 
+1. In the right pane, under **Products from Microsoft and others**, you'll be able to view all the product licenses you obtained. 
 
 > [!div class="mx-imgBorder"]
 	> [![Screenshot of the Continue button on the order confirmation page.](../media/track-installs.png)](../media/track-installs.png#lightbox)
