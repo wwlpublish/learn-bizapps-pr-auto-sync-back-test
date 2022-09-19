@@ -23,7 +23,7 @@ In this task, you'll learn how to create a Microsoft 365 trial tenant and obtain
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Click here to set up a new trial account message.](../media/click-here.png)](../media/click-here.png#lightbox)  
 
-1.  Enter a valid phone number and select **Send verification code**. You can select **Text me** or **Call me** option to receive the verification code. 
+1.  On the **About you** page, enter a valid phone number and select **Send verification code**. You can select **Text me** or **Call me** option to receive the verification code. 
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the email address field.](../media/email.png)](../media/email.png#lightbox)
@@ -38,7 +38,7 @@ In this task, you'll learn how to create a Microsoft 365 trial tenant and obtain
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the window to create a new account.](../media/new-account.png)](../media/new-account.png#lightbox)   
 
-1.  Once the trial tenant is successfully created, the **Confirmation details** page appears as shown below.
+1.  On successful creation of a trial tenant, the **Confirmation details** page appears as shown below.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the valid domain name check availability window.](../media/domain.png)](../media/domain.png#lightbox)   
@@ -56,17 +56,17 @@ In this task, you'll update the billing account details for the trial tenant, wh
 
 3. Select your billing account name in the right pane. 
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot of the billing details option and page.](../media/bill-details.png)](../media/success.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the billing details option and page.](../media/bill-details.png)](../media/success.png#lightbox)
 
 4. On the **Billing account details** page, select **Edit**.
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot of the account details page.](../media/account-details.png)](../media/success.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the account details page.](../media/account-details.png)](../media/success.png#lightbox)
 
 5. On the **Edit sold-to address** page, enter the details and select **Save.**
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot of the Edit sold to address details page.](../media/billing-address.png)](../media/success.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Edit sold to address details page.](../media/billing-address.png)](../media/success.png#lightbox)
 
-**Congratulations!**. You've successfully created a Microsoft 365 tenant with Microsoft Office 365 E5 trial license and updated the billing account details to obtain extra trial licenses.
+**Congratulations,** you've successfully created a Microsoft 365 tenant with Microsoft Office 365 E5 trial license and updated the billing account details to obtain extra trial licenses.
