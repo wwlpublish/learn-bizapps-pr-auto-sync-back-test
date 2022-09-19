@@ -20,7 +20,7 @@ To sign in to the Retail Banking Portal as a customer and then submit a loan req
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the navigation menu, showing Apps selected.](../media/apps.png)](../media/apps.png#lightbox)
 
-1. Open the Woodgrove Banking Portal by clicking the name of the "Woodgrove Banking Portal" app.
+1. Select the "Woodgrove Banking Portal" app to open the Woodgrove Banking Portal.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Woodgrove Banking Portal selected from the apps list.](../media/retail-banking-portal.png)](../media/retail-banking-portal.png#lightbox)
