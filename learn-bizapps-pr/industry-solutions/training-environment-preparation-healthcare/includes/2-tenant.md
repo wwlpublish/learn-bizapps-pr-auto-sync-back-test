@@ -69,4 +69,4 @@ In this task, you'll update the billing account details for the trial tenant, wh
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Edit sold to address details page.](../media/billing-address.png)](../media/success.png#lightbox)
 
-**Congratulations!** You've successfully created a Microsoft 365 tenant with Microsoft Office 365 E5 trial license and updated the billing account details to obtain extra trial licenses.
+**Congratulations!**. You've successfully created a Microsoft 365 tenant with Microsoft Office 365 E5 trial license and updated the billing account details to obtain extra trial licenses.
