@@ -19,8 +19,9 @@ abstract: |
     - Obtain trial licenses for Microsoft Cloud for Healthcare
     - Configure environment to deploy Microsoft Cloud for Healthcare
     - Assign security roles
-prerequisites: You must have access to a user account with the Global Administrator role in your Microsoft 365 tenant to complete the lab exercises in this module. This role is applied automatically to your user account specified while creating the tenant.
-iconUrl: /learn/achievements/training-environment-preparation-healthcare.svg  
+prerequisites: |  
+    You must have access to a user account with the Global Administrator role in your Microsoft 365 tenant to complete the lab exercises in this module. This role is applied automatically to your user account specified while creating the tenant.   
+iconUrl: /learn/achievements/training-environment-preparation-healthcare.svg   
 levels:  
 - beginner   
 roles:  

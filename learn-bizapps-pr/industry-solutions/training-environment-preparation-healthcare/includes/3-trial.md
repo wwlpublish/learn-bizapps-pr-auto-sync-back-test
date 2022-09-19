@@ -228,7 +228,7 @@ In this task, you'll obtain a trial Azure subscription.
 > [!NOTE]
 > The Azure Terms of Use agreement limits free trial activation only for a user that's new to Azure. If you have already have  any other type of Azure subscription, you'll not be able to activate a free trial.
 
-1.	Log into your **Microsoft 365 tenant** as global administrator, open a new tab in the browser and go to [Create free Azure account](https://azure.microsoft.com/en-us/free/) page and select **Start free**.
+1.	Log into your **Microsoft 365 tenant** as global administrator, open a new tab in the browser and go to [Create free Azure account](https://azure.microsoft.com/free/) page and select **Start free**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Azure free account with start free button highlighted.](../media/azure-trial-license.png)](../media/azure-trial-license.png#lightbox)
@@ -244,6 +244,6 @@ In this task, you'll obtain a trial Azure subscription.
 	> [![Screenshot of the card verification details page.](../media/azure-verification-card.png)](../media/azure-verification-card.png#lightbox)
 
 > [!NOTE]
-> A credit card is only required to verify your identity. You will not be charged unless you upgrade your subscription. Please read the following Microsoft Docs to understand how to [Avoid charges with your Azure free account](https://docs.microsoft.com/azure/cost-management-billing/manage/avoid-charges-free-account).
+> A credit card is only required to verify your identity. You will not be charged unless you upgrade your subscription. Please read the following Microsoft Docs to understand how to [Avoid charges with your Azure free account](/azure/cost-management-billing/manage/avoid-charges-free-account).
 
 **Congratulations!**. You successfully added the necessary trial licenses to your **Microsoft 365 tenant** and successfully procured **Azure** trial subscription.
