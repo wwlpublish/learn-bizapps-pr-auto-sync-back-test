@@ -1,4 +1,4 @@
- 
+
 A security role defines how users, such as a clinician, field service agent, or knowledge base creator, can access different types of resources. To work with Microsoft Cloud for Healthcare solutions, make sure that you assign correct security roles to users. In this module, you'll learn about the required security roles that you'll need to assign to a user and an Azure AD app. For more information, see [Security roles and privileges](/power-platform/admin/security-roles-privileges) in Microsoft Power Platform.
 
 | Security roles                   | Description                                                                                                                                                         |   

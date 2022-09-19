@@ -1,10 +1,10 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.training-environment-preparation-healthcare.4-deploy 
-title: Deploy Microsoft Cloud for Healthcare
+title: Assign security roles
 metadata: 
-  title: Deploy Microsoft Cloud for Healthcare
-  description: Learn how to deploy Microsoft Cloud for Healthcare.
-  ms.date: 01/21/2022 
+  title: Assign security roles
+  description: Learn how to Assign security roles in Microsoft Cloud for Healthcare.
+  ms.date: 09/19/2022 
   author: DaveBeasley 
   ms.author: dbeasley 
   ms.topic: interactive-tutorial 

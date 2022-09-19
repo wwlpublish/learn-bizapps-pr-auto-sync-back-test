@@ -72,10 +72,10 @@ you'll register the application as multitenant.*
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of grant confirmation screen.](../media/azure-confirmation.png)](../media/azure-confirmation.png#lightbox)
 
-The status for each added permission will change to **Granted**, as shown in the following screenshot.
+    The status for each added permission will change to **Granted**, as shown in the following screenshot.
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot of granted permissions.](../media/azure-permission-list.png)](../media/azure-permission-list.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of granted permissions.](../media/azure-permission-list.png)](../media/azure-permission-list.png#lightbox)
 
 11. On the left navigation, select **Certificates & secrets**, and then in the right pane, select **+ New client secret**. On the **Add a client secret** blade, provide the **Description**, leave the **Expires** value at its default setting, and then select **Add**.
 
@@ -112,14 +112,14 @@ In this task, you'll create a subscription-based, trial Dataverse environment wi
 
 3.  On the **New environment** form, provide the following details and then select **Next**.
 
-- **Name** - Lamna Healthcare
+    - **Name** - Lamna Healthcare
 
-- **Region** - United States
+    - **Region** - United States
 
-- **Type** - Trial (subscription-based)
+    - **Type** - Trial (subscription-based)
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Dataverse Trial Subscription page.](../media/dataverse-trial-subscription.png)](../media/dataverse-trial-subscription.png#lightbox)
+	> [![Screenshot of Dataverse Trial Subscription page.](../media/dataverse-trial.png)](../media/dataverse-trial.png#lightbox)
 
 4.  On the **Add database** form, select **Click** **here**, provide details as shown in the following screenshot, and then select
     **Save**.
@@ -136,7 +136,7 @@ In this task, you'll create a subscription-based, trial Dataverse environment wi
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Add database page with options highlighted.](../media/dataverse-database-url.png)](../media/dataverse-database-url.png#lightbox)
 
-After the environment has been created successfully, it should appear as shown in the following image.
+1. After the environment has been created successfully, it should appear as shown in the following image.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of Dataverse trial subscription option highlighted.](../media/dataverse-trial-subscription.png)](../media/dataverse-trial-subscription.png#lightbox)
@@ -206,17 +206,17 @@ In this task, you'll go through the steps that are involved in setting up the Dy
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Install button fo marketing application.](../media/field-marketing-install-button.png)](../media/field-marketing-install-button.png#lightbox)
 
-When installation begins, the setup will show as in progress.
+    When installation begins, the setup will show as in progress.
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot showing the installation inprogress.](../media/field-marketing-install.png)](../media/field-marketing-install.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot showing the installation inprogress.](../media/field-marketing-install.png)](../media/field-marketing-install.png#lightbox)
 
 6.  When setup is finished, select **Take me to the app**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot showing the installation is completed.](../media/field-marketing-complete.png)](../media/field-marketing-complete.png#lightbox)
 
-You'll be redirected to the Dynamics 365 Marketing app that's been set up in the Lamna Healthcare environment.
+    You'll be redirected to the Dynamics 365 Marketing app that's been set up in the Lamna Healthcare environment.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Create a new app user page.](../media/security-create-new-app-user.png)](../media/security-create-new-app-user.png#lightbox)
@@ -299,20 +299,20 @@ In this task, you'll create a **Microsoft Power Apps** portal in the **Lamna Hea
 
 5.  On the **Customer self-service** creation page, provide the following information and then select **Create**.
 
-- **Name** - Lamna Healthcare Patient Portal
+    - **Name** - Lamna Healthcare Patient Portal
 
-- **Address** - You can select a desired address for your patient portal (subject to its availability). The portal address is globally unique.
+    - **Address** - You can select a desired address for your patient portal (subject to its availability). The portal address is globally unique.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of customer self-service page with Create button highlighted.](../media/patient-customer-self-service.png)](../media/patient-customer-self-service.png#lightbox)
 
-A pop-up window will appear, indicating that the portal provisioning is in progress.
+    A pop-up window will appear, indicating that the portal provisioning is in progress.
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot showing portal provisioning in progress.](../media/patient-provisioning.png)](../media/patient-provisioning.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot showing portal provisioning in progress.](../media/patient-provisioning.png)](../media/patient-provisioning.png#lightbox)
 
-*Note: It might take a few hours for the Customer self-service portal to
-complete provisioning.*
+    > [!NOTE]
+    > It might take a few hours for the Customer self-service portal to complete provisioning.
 
 6.  After the portal has successfully provisioned, you can review it on the **Apps** page.
 
