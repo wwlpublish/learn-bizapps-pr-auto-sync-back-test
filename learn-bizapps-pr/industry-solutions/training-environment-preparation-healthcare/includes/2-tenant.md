@@ -8,7 +8,7 @@ In this task, you'll learn how to create a Microsoft 365 trial tenant and obtain
 
 1.  Open an internet browser in In-Private or Incognito mode. 
 
-1.  Go to  [Office 365 E5 Trial](https://signup.microsoft.com/get-started/signup?products=101bde18-5ffb-4d79-a47b-f5b2c62525b3&culture=en-us&ali=1,) page. Enter a valid email ID and select **Next**.  
+1.  Go to  [Office 365 E5 Trial](https://signup.microsoft.com/get-started/signup?products=101bde18-5ffb-4d79-a47b-f5b2c62525b3&culture=en-us&ali=1,) page. Enter a valid email and select **Next**.  
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Get started with a Dynamics 365 free trial.](../media/trial.png)](../media/trial.png#lightbox)
