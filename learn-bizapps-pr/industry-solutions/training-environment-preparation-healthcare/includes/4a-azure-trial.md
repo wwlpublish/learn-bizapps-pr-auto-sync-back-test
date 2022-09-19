@@ -96,7 +96,7 @@ The status for each added permission will change to **Granted**, as shown in the
 13. On the left navigation, select **Overview**. From the right pane, copy the **Application (client) ID** and then save it in a notepad so that you can use it later in this learning path.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of application client ID.](../media/sazure-client-id.png)](../media/azure-client-id.png#lightbox)
+	> [![Screenshot of application client ID.](../media/azure-client-id.png)](../media/azure-client-id.png#lightbox)
 
 ## Task 2: Create a subscription-based, trial Dataverse environment
 
@@ -177,7 +177,7 @@ In this task, you'll install the **Dynamics 365 Sales app** in the **Lamna Healt
 4.  In the right pane, select **Dynamics 365 Sales, Enterprise Edition App** and then select **Install**, as shown in the following image.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Sales Enterprise edition option with Install highlighted.](../media/field-install-apps.png.png)](../media/field-install-apps.png.png#lightbox)
+	> [![Screenshot of Sales Enterprise edition option with Install highlighted.](../media/field-install-apps.png)](../media/field-install-apps.png#lightbox)
 
 5.  Select **Lamna Healthcare** as the environment to install the app. Select the **I agree to the terms of service** checkbox and then select **Install**.
 
@@ -255,7 +255,7 @@ In this task, you'll go through the steps that are involved in setting up the **
 8.  Set the **Add chat** toggle to **Yes** and then select **Next**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of add chat option set to Yes.](../media/field-add-chat.png)](../media/field-add-chats.png#lightbox)
+	> [![Screenshot of add chat option set to Yes.](../media/field-add-chat.png)](../media/field-add-chat.png#lightbox)
 
 9.  Leave the **SMS** and **Social** settings to their default and then select **Next**.
 

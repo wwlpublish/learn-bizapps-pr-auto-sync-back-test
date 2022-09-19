@@ -1,17 +1,17 @@
  
-A security role defines how users, such as a clinician, field service agent, or knowledge base creator, can access different types of resources. To work with Microsoft Cloud for Healthcare solutions, make sure that you assign correct security roles to users. In this module, you'll learn about the required security roles that you'll need to assign to a user and an Azure AD app. For more information, see [Security roles and privileges](https://docs.microsoft.com/en-us/power-platform/admin/security-roles-privileges) in Microsoft Power Platform.
+A security role defines how users, such as a clinician, field service agent, or knowledge base creator, can access different types of resources. To work with Microsoft Cloud for Healthcare solutions, make sure that you assign correct security roles to users. In this module, you'll learn about the required security roles that you'll need to assign to a user and an Azure AD app. For more information, see [Security roles and privileges](/power-platform/admin/security-roles-privileges) in Microsoft Power Platform.
 
-| Security roles                   | Description                                                                                                                                                         |   |   |   |   |   |   |   |   |
-|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|---|---|---|---|
-| Basic User                       | Allows the user to run an app within the Dataverse environment and perform common tasks for the records that they own.                                              |   |   |   |   |   |   |   |   |
-| Field Service - Resource         | This role is designed for frontline workers who can read and update their assigned work orders.                                                                     |   |   |   |   |   |   |   |   |
-| Knowledge Manager                | Allows the user to create/read/write/delete/append knowledge base records.                                                                                          |   |   |   |   |   |   |   |   |
-| Omnichannel agent                | Allows the user to perform agent tasks.                                                                                                                             |   |   |   |   |   |   |   |   |
-| Productivity tools administrator | Required by administrators of Dynamics 365 productivity tools. Allows the administrator to create/read/write/append/delete agent script, script step, and workflow. |   |   |   |   |   |   |   |   |
-| Productivity tools user          | Required by users of Dynamics 365 productivity tools. Allows the user to read agent script, script step, and workflow.                                              |   |   |   |   |   |   |   |   |
-| System Administrator             | Grants full permission for the user to customize or administer a Dataverse environment.                                                                             |   |   |   |   |   |   |   |   |
-| Customer service manager         | Allows a user to review customer service performance and enable the customer service process.                                                                       |   |   |   |   |   |   |   |   |
-| Customer service representative  | Allows a user to document customer service events and respond to customer service inquiries.                                                                        |   |   |   |   |   |   |   |   |
+| Security roles                   | Description                                                                                                                                                         |   
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Basic User                       | Allows the user to run an app within the Dataverse environment and perform common tasks for the records that they own.                                              |   
+| Field Service - Resource         | This role is designed for frontline workers who can read and update their assigned work orders.                                                                     |   
+| Knowledge Manager                | Allows the user to create/read/write/delete/append knowledge base records.                                                                                          |     |
+| Omnichannel agent                | Allows the user to perform agent tasks.                                                                                                                             |   
+| Productivity tools administrator | Required by administrators of Dynamics 365 productivity tools. Allows the administrator to create/read/write/append/delete agent script, script step, and workflow. |   
+| Productivity tools user          | Required by users of Dynamics 365 productivity tools. Allows the user to read agent script, script step, and workflow.                                              |   
+| System Administrator             | Grants full permission for the user to customize or administer a Dataverse environment.                                                                             |  
+| Customer service manager         | Allows a user to review customer service performance and enable the customer service process.                                                                       |   
+| Customer service representative  | Allows a user to document customer service events and respond to customer service inquiries.                                                                        |   
 
 ## Task 1: Assign a security role to a global administrator
 
@@ -38,7 +38,7 @@ In this task, you'll go through the steps to assign security roles to a global a
 
     -   Basic User
 
-    -   Field Service -- Resource
+    -   Field Service-Resource
 
     -   Knowledge Manager
 
@@ -90,7 +90,7 @@ In this task, you'll go through the steps to assign security roles to the Lamna 
 7.  After adding the Azure AD app, you'll be redirected to the **Create a new app user** panel. From the **Business unit** dropdown menu, select **lamnahealth**. Select the **edit** icon beside the **Security roles** option.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Create a new app user page.](../media/security-add-application.png)](../media/security-add-application.png#lightbox)
+	> [![Screenshot of Create a new app user page with Lamna health selected.](../media/security-add-application.png)](../media/security-add-application.png#lightbox)
 
 > [!NOTE]
 > In the previous unit, you specified lamnahealth as part of the URL while creating the **Lamna Healthcare**  Dataverse environment.*
@@ -103,6 +103,6 @@ In this task, you'll go through the steps to assign security roles to the Lamna 
 9.  You'll be redirected to the **Create a new app user** panel, which should appear as shown in the following image. Select **Create** to add Lamna Health Bot as an application user and then assign it the Omnichannel agent security role.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Create a new app user page.](../media/security-create-new-app-user.png)](../media/security-create-new-app-user.png#lightbox)
+	> [![Screenshot of Create a new app user page with Lamna health bot selected.](../media/security-create-new-app-user.png)](../media/security-create-new-app-user.png#lightbox)
 
 **Congratulations!**, you've successfully assigned all security roles to the global administrator account and Azure AD app.
