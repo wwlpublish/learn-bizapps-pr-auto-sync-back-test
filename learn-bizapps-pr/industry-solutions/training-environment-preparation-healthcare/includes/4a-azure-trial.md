@@ -1,145 +1,345 @@
-An active Azure subscription is required in your Microsoft 365 tenant to light up certain Microsoft Cloud for Healthcare components such as Azure Health Bot and FHIR Sync Agent. This module will walk through the steps to obtain a free trial Azure subscription and create a resource group, which will be used in the subsequent labs.
+In this exercise, you'll learn about several configurations that are required to successfully deploy and use Microsoft Cloud for Healthcare. You can make all major configuration changes by using the following four tools:
+
+-   Microsoft Azure portal
+
+-   Microsoft Power Platform admin center
+
+-   Microsoft Power Apps portals
+
+-   Microsoft Cloud Solution Center
 
 > [!NOTE]
-> The Azure Terms of Use agreement limits free trial activation only for a user that's new to Azure. If you have already had any other type of Azure subscription, you will not be able to activate a free trial.
+> Setting up Omnichannel for Customer Service and Power Apps portals will take several hours to complete (estimated at 3-4 hours to complete for each). We recommend that you set up both applications concurrently. You'll need to complete all configuration steps before deploying **Microsoft Cloud for Healthcare.**
 
-## Task 1:  Obtain a trial Azure subscription
+## Task 1: Register an app in Azure AD
 
-In this task, we will walk through the steps to obtain a trial Azure subscription to utilize Azure Health Bot and FHIR sync capabilities in Microsoft Cloud for Healthcare.   
+In this task, you'll learn how to register a new application in Microsoft Azure Active Directory (Azure AD), grant delegated and
+application permissions, and create a client secret.
 
-1.  Sign into [Azure portal](https://portal.azure.com/?azure-portal=true) with the new credentials obtained while creating a new tenant in the earlier tasks and then select the **Start** button. 
+1.  While signed in to your **Microsoft 365 tenant**, open a new browser tab, and then go to the [Azure portal](https://portal.azure.com). In the upper-left corner of the page, select the hamburger icon (three horizontal lines) and then select **Azure Active Directory**.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the start button.](../media/start-button.png)](../media/start-button.png#lightbox)
+![](media/image1.png){width="6.83in" height="3.75in"}
 
-1.  It will open the sign-up page in a new tab page in the browser. The details entered while creating the new tenant in the earlier tasks will be auto populated on the sign-up screen. Verify the profile details, provide the phone number, and validate it either by Text or call, accept the customer agreement and select the **Next** button.
+2.  On the left navigation, select **App registrations** and then select **+ New registration** in the right pane.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the profile details.](../media/profile-details.png)](../media/profile-details.png#lightbox)
+![](media/image2.png){width="6.83in" height="3.42in"}
 
-1.  Provide your credit card details and select **Sign up**.
+3.  On the **Register an application** page, enter the name for the bot and then select the **Accounts in any organizational directory (Any Azure AD directory - Multitenant)** option button under the **Supported account types** section. Then, select **Register**.
 
-	> [!NOTE]
-	>  A credit card is only required to verify your identity. You will not be charged unless you upgrade your subscription. For more information, see [Avoid charges with your Azure free account](/azure/cost-management-billing/manage/avoid-charges-free-account/?azure-portal=true).
-	
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the credit card details page with sign up button.](../media/card-details.png)](../media/card-details.png#lightbox)
-
-**Congratulations!** You have successfully set up your Trial Azure Subscription.
-
-## Task 2: Create a resource group
+![](media/image3.png){width="6.83in" height="3.56in"}
 
 > [!NOTE]
-> It may take 1-2 hours for the Azure Subscription to appear after creation.
+>  You'll need to register the application as multitenant because it enables Microsoft Azure Bot Service (in the botframework.com tenant) to authenticate requests that are coming from the bot that's registered in your tenant. This requirement is part of the service-to-service authentication protocol that's used by Azure Bot Service. Single tenant application registration is also supported by Azure bot created using Bot Framework version 4.15 or later. However, for this learning path,
+you'll register the application as multitenant.*
 
-In this task, you will learn the steps to create a resource group, which will be used in the subsequent labs. 
+4.  Select **API permissions** on the left navigation. On the right pane, select **+ Add a permission**.
 
-1.  In [Azure portal](https://portal.azure.com/?azure-portal=true), search for **Resource groups**.
+![](media/image4.png){width="6.83in" height="3.18in"}
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the search results for resource groups.](../media/resource-groups-search.png)](../media/resource-groups-search.png#lightbox)
+5.  On the **Request API permissions** page, select **APIs my organization** **uses**. Use the search box to search for the string
+    **Dataverse**. From the search result, select **Dataverse**.
 
-1.  You may also find Resource groups in the upper left flyout menu.
+![](media/image5.png){width="6.83in" height="2.48in"}
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Resource groups in the favorites flyout menu.](../media/favorites-menu.png)](../media/favorites-menu.png#lightbox)
+6.  Select **Delegated permissions**. Under the **Select permissions** section, select the checkbox beside  **user_impersonation**. Then, select **Add permissions**.
 
-1.  Select **Create**.
+![](media/image6.png){width="6.83in" height="6.08in"}
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the create button.](../media/create-button.png)](../media/create-button.png#lightbox)
+7.  Select **API permissions** on the left navigation. On the right pane, select **+ Add a permission**. Select **Microsoft APIs** and then select **Microsoft Graph**.
 
-1.  Enter the following for your new resource group:
+![](media/image7.png){width="6.83in" height="6.19in"}
 
-    -   **Subscription**: Select your Azure subscription.
+8.  On the **Request API permissions** page, select **Application permissions**. Use the search box to search for the string
+    **calendars**. Select the checkbox beside **Calendars.ReadWrite** and then select **Add permissions**.
 
-    -   **Resource group**: Enter a new resource group name. (for example, Training)
+![](media/image8.png){width="6.83in" height="6.19in"}
 
-    -   **Region**: Select an Azure location.
+9.  Select **Grant admin consent**, as shown in the following image.
 
-1.  Select **Review + create**.
+![Graphical user interface, text, application, email Description automatically generated](media/image9.png){width="6.83in"
+height="3.18in"}
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the review and create button.](../media/review-create.png)](../media/review-create.png#lightbox)
+10. On the **Grant admin consent confirmation** pop-up window, select **Yes**.
 
-1.  Select **Create**. It takes a few seconds to create a resource group.
- 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the create button to create a resource group.](../media/create-resource-group.png)](../media/create-resource-group.png#lightbox)
+![](media/image10.png){width="6.83in" height="0.84in"}
 
-1.  Select **Refresh** from the top menu to refresh the resource group list, and then select the newly created resource group to open it. Or select **Notification** (the bell icon) from the top and select **Go to resource group** to open the newly created resource group.
+The status for each added permission will change to **Granted**, as shown in the following screenshot.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the notifications bell to access the newly created resource group.](../media/bell.png)](../media/bell.png#lightbox)
+![](media/image11.png){width="6.83in" height="3.18in"}
 
-**Congratulations!** You have successfully created a Resource Group in your Azure subscription. You will use this resource group when creating Azure resources, such as the Azure Health Bot.
+11. On the left navigation, select **Certificates & secrets**, and then in the right pane, select **+ New client secret**. On the **Add a client secret** blade, provide the **Description**, leave the **Expires** value at its default setting, and then select **Add**.
 
-## Task 3: Register a new application using the Azure portal
+![](media/image12.png){width="6.83in" height="3.67in"}
 
-In this task, you will register an application in Azure portal, which will be used in this learning path. 
+> [!NOTE]
+> Next, you'll need to create an application secret so that you can use it along with this application ID to authenticate the bot.
 
-1. In [Azure portal](https://portal.azure.com/?azure-portal=true), search for **App registrations**.
+12. Copy the secret value and then save it in a notepad so that you can use it later in this learning path.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of app registrations.](../media/app-registrations.png)](../media/app-registrations.png#lightbox)
+![](media/image13.png){width="6.83in" height="3.2in"}
 
-1. You may also find Application Registration from the left-hand navigation pane. Select the **Azure Active Directory** service and then select **App registrations**.
+> [!NOTE]
+> After you've created the secret and the page has refreshed, the secret value will no longer be available to copy.*
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of app registrations from the navigation pane.](../media/app-registrations-navigation.png)](../media/app-registrations-navigation.png#lightbox)
+13. On the left navigation, select **Overview**. From the right pane, copy the **Application (client) ID** and then save it in a notepad so that you can use it later in this learning path.
 
-1. Select **New Registration**.
+![](media/image14.png){width="6.83in" height="1.78in"}
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of new registration button.](../media/new-registration.png)](../media/new-registration.png#lightbox)
+## Task 2: Create a subscription-based, trial Dataverse environment
 
-1. When the **Register an application** page appears, enter your application's registration information:
+In this task, you'll create a subscription-based, trial Dataverse environment with a database.
 
-    -   **Name**: "MCH Application ID" (MCH = Microsoft Cloud for Healthcare)
+1.  While signed in to your Microsoft 365 tenant, open a new tab, and then go to [Power Platform admin
+    center](https://admin.powerplatform.microsoft.com/).
 
-    -   **Supported account types**: Select which accounts you would like your application to support. For example, **Accounts in any organizational directory**.
+2.  On the left navigation, select **Environments**. In the right pane, select **+ New**.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of register an application page.](../media/register-application.png)](../media/register-application.png#lightbox)
+![](media/image15.png){width="6.83in" height="2.94in"}
 
-1. When finished, select **Register** to create the application.
+3.  On the **New environment** form, provide the following details and then select **Next**.
 
-1. Once the App registration is created, select **API permissions** tab, select **Add a permission**.
+- **Name** - Lamna Healthcare
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the add a permission button.](../media/add-permission.png)](../media/add-permission.png#lightbox)
+- **Region** - United States
 
-1. Search for and choose **Dataverse** under the **APIs my organization uses** tab. If "Dataverse" is not found, then search for "Common Data Service".
+- **Type** - Trial (subscription-based)
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the dataverse search.](../media/dataverse-search.png)](../media/dataverse-search.png#lightbox)
+![](media/image16.png){width="3.5083333333333333in"
+height="8.066666666666666in"}
 
-1. Select **Delegated permissions** and check the options and select **Add permission**.
+4.  On the **Add database** form, select **Click** **here**, provide details as shown in the following screenshot, and then select
+    **Save**.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the delegated permissions.](../media/delegated-permissions.png)](../media/delegated-permissions.png#lightbox)
+- **URL** - lamnahealthcare
 
-1. Select **Add a permission** again to add another permission.
+- **Enable Dynamics 365 apps?** - Yes
 
-1. Select **Microsoft Graph** from **Microsoft APIs**.
+- **Automatically deploy these apps** - None
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Microsoft Graph in the Microsoft API list.](../media/graph.png)](../media/graph.png#lightbox)
+![](media/image17.png){width="2.8333333333333335in"
+height="7.216666666666667in"}![](media/image18.png){width="2.67in"
+height="7.2in"}
 
-1. Select **Application permissions**.
+After the environment has been created successfully, it should appear as shown in the following image.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of application permissions.](../media/application-permissions.png)](../media/application-permissions.png#lightbox)
+![](media/image19.png){width="6.83in" height="2.17in"}
 
-1. Expand **Calendars** from the list of APIs and select **Calendars.ReadWrite** API permission and then select **Add permissions** button.
+## Task 3: Enable the Dynamics 365 Field Service app in the Dataverse environment
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Calenders expanded with add permissions button.](../media/request-permission.png)](../media/request-permission.png#lightbox)
+In this task, you'll install the **Dynamics 365 Field Service** app in the **Lamna Healthcare** environment.
 
-1. Once the permission has been added, select **Grant admin consent for Microsoft**.
+1.  While signed in to your Microsoft 365 tenant, open a new tab and then go to [Power Platform admin
+    center](https://admin.powerplatform.microsoft.com/).
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the permissions added with Grant admin consent for Microsoft selected.](../media/consent.png)](../media/consent.png#lightbox)
+2.  On the left navigation, select **Resources** **\>** **Dynamics 365 apps**.
 
-**Congratulations!** You have successfully created an App registration in your Azure subscription. You will use this App registration in the Azure Health Bot and Virtual Visit labs.
+3.  In the upper-right corner of the page, use the search box to search for the string **Field**.
+
+4.  In the right pane, select **Dynamics 365 for Field Service** and then select **Install**, as shown in the following screenshot.
+
+![](media/image20.png){width="6.83in" height="2.72in"}
+
+5.  Select **Lamna Healthcare** as the environment to install the app. Select the **I agree to the terms of service** checkbox and then select **Install**.
+
+![](media/image21.png){width="6.666666666666667in"
+height="8.091666666666667in"}
+
+## Task 4: Enable the Dynamics 365 Sales app in the Dataverse environment
+
+In this task, you'll install the **Dynamics 365 Sales app** in the **Lamna Healthcare** environment.
+
+1.  While signed in to your Microsoft 365 tenant, open a new tab and then go to [Power Platform admin
+    center](https://admin.powerplatform.microsoft.com/).
+
+2.  On the left navigation, select **Resources** **\>** **Dynamics 365 apps**.
+
+3.  In the upper-right corner of the page, use the search box to search for the string **Sales**.
+
+4.  In the right pane, select **Dynamics 365 Sales, Enterprise Edition App** and then select **Install**, as shown in the following image.
+
+![](media/image22.png){width="6.83in" height="2.75in"}
+
+5.  Select **Lamna Healthcare** as the environment to install the app. Select the **I agree to the terms of service** checkbox and then select **Install**.
+
+![](media/image23.png){width="6.691666666666666in"
+height="8.066666666666666in"}
+
+### Task 5: Enable the Dynamics 365 Marketing app in the Dataverse environment
+
+In this task, you'll go through the steps that are involved in setting up the Dynamics 365 Marketing app in the Lamna Healthcare environment.
+
+1.  While signed in to your Microsoft 365 tenant, open a new tab and then go to [Power Platform admin
+    center](https://admin.powerplatform.microsoft.com/).
+
+2.  On the left navigation, select **Resources** **\>** **Dynamics 365 apps**.
+
+3.  In the upper-right corner of the page, use the search box to search
+    for the string **Marketing**.
+
+4.  In the right pane, select **Dynamics 365 Marketing Application** and then select **Manage**, as shown in the following screenshot.
+
+![](media/image24.png){width="6.83in" height="2.76in"}
+
+5.  Select **Install**.
+
+![](media/image25.png){width="6.83in" height="1.95in"}
+
+When installation begins, the setup will show as in progress.
+
+![](media/image26.png){width="6.83in" height="1.76in"}
+
+6.  When setup is finished, select **Take me to the app**.
+
+![](media/image27.png){width="6.83in" height="1.48in"}
+
+You'll be redirected to the Dynamics 365 Marketing app that's been set up in the Lamna Healthcare environment.
+
+![](media/image28.png){width="6.83in" height="3.75in"}
+
+## Task 6: Enable the Omnichannel for Customer Service app in the Dataverse environment
+
+In this task, you'll go through the steps that are involved in setting up the **Omnichannel for Customer Service** app in the **Lamna Healthcare** environment. In this learning path, you'll enable chat and **Microsoft Teams** channels only.
+
+1.  While signed in to your Microsoft 365 tenant, open a new tab and then go to [Power Platform admin
+    center](https://admin.powerplatform.microsoft.com/).
+
+2.  On the left navigation, select **Resources** **\>** **Dynamics 365 apps**.
+
+3.  In the upper-right corner of the page, use the search box to search for the string **omni**.
+
+4.  In the right pane, select **Omnichannel for Customer Service** and then select **Manage**, as shown in the following screenshot.
+
+![](media/image29.png){width="6.83in" height="2.75in"}
+
+5.  On the **Permissions requested** pop-up window, select **Accept**.
+
+![](media/image30.png){width="4.475in" height="9.133333333333333in"}
+
+6.  You'll be redirected to Dynamics 365 Administration Center. Select **+ Add environment**.
+
+![](media/image31.png){width="6.83in" height="0.97in"}
+
+7.  On the **Omnichannel set up** screen, select **Lamna Healthcare** as the environment and then select **Next**.
+
+![](media/image32.png){width="6.83in" height="2.46in"}
+
+8.  Set the **Add chat** toggle to **Yes** and then select **Next**.
+
+![](media/image33.png){width="6.83in" height="2.05in"}
+
+9.  Leave the **SMS** and **Social** settings to their default and then select **Next**.
+
+10. Enable the Microsoft Teams channel and then select **Next**.
+
+11. On the **Confirm your selections** screen, select **Finish**.
+
+![](media/image34.png){width="6.83in" height="3.39in"}
+
+The next screen will show that Omnichannel is being set up.
+
+![](media/image35.png){width="6.83in" height="2.62in"}
+
+> [!NOTE]
+> It might take a few hours to complete the setup of Omnichannel.
+
+After Omnichannel setup has finished successfully, the **Summary** screen will appear, as shown in the following screenshot.
+
+![](media/image36.png){width="6.83in" height="4.13in"}
+
+## Task 7: Create the Lamna Healthcare Patient Portal app
+
+In this task, you'll create a **Microsoft Power Apps** portal in the **Lamna Healthcare** environment. This portal app becomes the patient access portal that will be used by **Microsoft Cloud for Healthcare.**
+
+1.  While signed in to your Microsoft 365 tenant, open a new tab and then go to [Power Apps portal](https://make.powerapps.com/).
+
+2.  Select **Environment** as Lamna Healthcare.
+
+3.  In the right pane, select **More create options**, as shown in the following image.
+
+![](media/image37.png){width="6.83in" height="2.46in"}
+
+4.  Use the search box to search for the string **Customer**. Select the **Customer self-service** template.
+
+![](media/image38.png){width="6.83in" height="3.56in"}
+
+5.  On the **Customer self-service** creation page, provide the following information and then select **Create**.
+
+- **Name** - Lamna Healthcare Patient Portal
+
+- **Address** - You can select a desired address for your patient portal (subject to its availability). The portal address is globally unique.
+
+![](media/image39.png){width="6.83in" height="4.41in"}
+
+A pop-up window will appear, indicating that the portal provisioning is in progress.
+
+![](media/image40.png){width="3.933333333333333in"
+height="1.2083333333333333in"}
+
+*Note: It might take a few hours for the Customer self-service portal to
+complete provisioning.*
+
+6.  After the portal has successfully provisioned, you can review it on the **Apps** page.
+
+![](media/image41.png){width="6.83in" height="1.44in"}
+
+## Task 8: Deploy Microsoft Cloud for Healthcare solutions
+
+In this task, you'll go through the steps to deploy the necessary Microsoft Cloud for Healthcare solutions to complete this training course.
+
+You'll need to complete all previous steps before you can deploy Microsoft Cloud for Healthcare solutions.
+
+1.  While signed in to your Microsoft 365 tenant, open a new tab and go to [Microsoft Solution Center](https://solutions.microsoft.com).
+
+2.  On the left navigation, select **Solutions** **\>** **Healthcare** to view all solution modules that are available in Microsoft Cloud for Healthcare.
+
+3.  Select any solution card. For this learning path, you'll select the **Personalized care** solution card.
+
+![](media/image42.png){width="6.83in" height="3.56in"}
+
+4.  Select **All** from the **Filter by capability** dropdown menu. Select the **Add all Microsoft Cloud for Healthcare** checkbox to add all capabilities. For this learning path, you'll clear the **Health assistant** feature, as shown in the following screenshot. Then, select **Deploy**.
+
+![](media/image43.png){width="6.83in" height="11.57in"}
+
+5.  On the **Set up solutions** page, select the **Name**, **Sample data**, and **Codeable concepts** options to add them as extra
+    components and then select **Next**.
+
+![](media/image44.png){width="6.83in" height="3.57in"}
+
+6.  On the **Set up new deployment** screen, from the **Enter Dataverse environment** dropdown menu, select the **Lamna Healthcare** environment that you created in the previous task. In the **Name your deployment** box, enter a name for the deployment. Select the **Terms of service** checkbox and then select **Next**.
+
+![](media/image45.png){width="6.83in" height="3.67in"}
+
+7.  The **Configure pre-deployment dependencies** page will display a list of all dependencies, and their statuses will be marked green to confirm that you can proceed with deployment. Select **Deploy**.
+
+![](media/image46.png){width="6.83in" height="3.62in"}
+
+The **Deploy solution** page will show the progress of the Microsoft Cloud for Healthcare solutions deployment. Because the deployment process can take several hours to complete, you can close this page or keep it open to track the deployment.
+
+![](media/image47.png){width="6.83in" height="9.75in"}
+
+8.  The **Success** page will appear when the deployment of Microsoft Cloud for Healthcare solutions has completed successfully. Select the **Launch solution** option beside any listed solution to open it.
+
+![](media/image48.png){width="6.83in" height="12.14in"}
+
+## Task 9: Update environment variables in Power Apps portal
+
+In this task, you'll go through the steps to update the environment variables that are used by the virtual visit feature in Microsoft Cloud for Healthcare.
+
+1.  While signed in to your Microsoft 365 tenant, open a new tab and go
+    to [Power Apps portal](https://make.powerapps.com/).
+
+2.  In the upper-right corner of the page, select **Lamna Healthcare** as your working environment.
+
+3.  On the left navigation, select **Apps**. In the right pane, select the **See environment variables** option, as shown in the following image.
+
+![](media/image49.png){width="6.83in" height="3.56in"}
+
+4.  On the **Environment variables** form, populate the **Virtual Visit Secret** and **Virtual Visit Client ID** boxes with the client secret and client ID that you've copied in Task 1 of this exercise.
+
+![](media/image50.png){width="5.358333333333333in" height="15.225in"}
+
+**Congratulations!**, you've successfully set up the **Lamna Healthcare Dataverse** environment and have deployed **Microsoft Cloud for Healthcare** solutions.
+
+
+
 
