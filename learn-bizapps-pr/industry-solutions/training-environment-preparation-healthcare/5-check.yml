@@ -4,7 +4,7 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 01/21/2022 
+ ms.date: 09/19/2022 
  author: DaveBeasley 
  ms.author: dbeasley 
  ms.topic: interactive-tutorial 
@@ -27,7 +27,7 @@ quiz:
     - content: Dynamics 365 Field Service
       isCorrect: false 
       explanation: Dynamics 365 Project Operations is not required for Microsoft Cloud for Healthcare.
-  - content: Which template do you use to create a Power Apps Portal before deploying Microsoft Cloud for Healthcare? 
+  - content: Which template do you use to create a Power Apps portal before deploying Microsoft Cloud for Healthcare? 
     choices: 
     - content: Customer self-service portal
       isCorrect: true
@@ -46,16 +46,16 @@ quiz:
     - content: Microsoft Power Platform admin center
       isCorrect: false
       explanation: Go to the Microsoft Cloud Solution Center to deploy Microsoft Cloud for Healthcare.
-    - content: Power Apps Maker Portal
+    - content: Power Apps maker portal
       isCorrect: false 
       explanation: Go to the Microsoft Cloud Solution Center to deploy Microsoft Cloud for Healthcare.
-    - content: Microsoft Admin Center
+    - content: Microsoft admin center
       isCorrect: false
       explanation: Go to the Microsoft Solutions Center to deploy Microsoft Cloud for Healthcare.
     - content: Microsoft Cloud Solution Center
       isCorrect: true
       explanation: Go to the Microsoft Cloud Solution Center to deploy Microsoft Cloud for Healthcare.
-  - content: Which of the following is required to deploy Patient Outreach in Microsoft Cloud for Healthcare?
+  - content: Which of the following is required to deploy the Patient Outreach feature in Microsoft Cloud for Healthcare?
     choices: 
     - content: Microsoft Azure
       isCorrect: false
