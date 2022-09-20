@@ -189,7 +189,7 @@ In this task, you'll obtain a trial license for Microsoft Cloud for Healthcare.
 1.  Select **Sign in**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Sign in button.](../media/healtcare-signin.png)](../media/healtcare-signin.png#lightbox)
+	> [![Screenshot of the Sign in button.](../media/healtcare-sign-in.png)](../media/healtcare-sign-in.png#lightbox)
 
 1. On the **Check out** page, select **Try now**.
 	> [!div class="mx-imgBorder"]
@@ -198,7 +198,7 @@ In this task, you'll obtain a trial license for Microsoft Cloud for Healthcare.
 1. On the **order receipt** page, select **Continue**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Continue button on the order confirmation page.](../media/healtcare-order.png)](../media/healtcare-order.png#lightbox)
+	> [![Screenshot of the Continue button on the order confirmation page for healthcare trial.](../media/healtcare-order.png)](../media/healtcare-order.png#lightbox)
 
 ## Task 7: Validate and Assign Licenses to Global Administrator
 
@@ -218,7 +218,7 @@ In this task, you’ll validate if the product licenses obtained are available i
 5. In the right pane, under **Display name**, select a user with global administrator role. Select **Licenses and apps** and select the product licenses and select **Save changes.**
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the manage product licenses button in the active users section.](../media/assign_product-licenses.png)](../media/assign_product-licenses.png#lightbox)
+	> [![Screenshot of the manage product licenses button in the active users section.](../media/assign-product-licenses.png)](../media/assign-product-licenses.png#lightbox)
 
 > [!NOTE]
 > **Dynamics 365 Marketing** is a tenant-based license; hence, it’s not visible under the **Licenses and apps** section to be assigned to a specific user.
@@ -238,7 +238,7 @@ In this task, you'll obtain a trial Azure subscription.
 2.	You’ll be taken to the sign-up page. Fill in all the required information, verify your identity either by selecting **Text me** or **Call me** button, then select **Next.**
 
     > [!div class="mx-imgBorder"]
-	> [![Screenshot of the subscription profile page.](../media/azure-subbsription-profile.png)](../media/azure-subbsription-profile.png#lightbox)
+	> [![Screenshot of the subscription profile page.](../media/azure-subscription-profile.png)](../media/azure-subscription-profile.png#lightbox)
 
 3.	On the **Identity verification by card** page, provide your credit card details and select **Sign up**.
 

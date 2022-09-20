@@ -264,12 +264,12 @@ In this task, you'll go through the steps that are involved in setting up the **
 11. On the **Confirm your selections** screen, select **Finish**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of onnichannel set up page with selections and finish option highlighted.](../media/field-omnichannel-setup.png)](../media/field-omnichannel-setup.png#lightbox)
+	> [![Screenshot of onnichannel set up page with selections and finish option highlighted.](../media/field-omnichannel-set-up.png)](../media/field-omnichannel-set-up.png#lightbox)
 
 The next screen will show that Omnichannel is being set up.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of installation in progress page.](../media/field-omnichannel-inprogress.png)](../media/field-omnichannel-inprogress.png#lightbox)
+> [![Screenshot of installation in progress page.](../media/field-omnichannel-in-progress.png)](../media/field-omnichannel-in-progress.png#lightbox)
 
 > [!NOTE]
 > It might take a few hours to complete the setup of Omnichannel.
@@ -295,7 +295,7 @@ In this task, you'll create a **Microsoft Power Apps** portal in the **Lamna Hea
 4.  Use the search box to search for the string **Customer**. Select the **Customer self-service** template.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of customer self-service app option.](../media/patient-datasource.png)](../media/patient-datasource.png#lightbox)
+	> [![Screenshot of customer self-service app option.](../media/patient-data-source.png)](../media/patient-data-source.png#lightbox)
 
 5.  On the **Customer self-service** creation page, provide the following information and then select **Create**.
 
