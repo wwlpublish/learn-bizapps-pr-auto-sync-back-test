@@ -15,4 +15,4 @@ A few different options are available to help you format your slicer. You can se
 
 ![Image of of slicer formatting options.](../media/3-4-3.png)
 
-When you have multiple visualizations on the same report page, Power BI Desktop lets you control how interactions flow between visuals. For more information, see [Change how visuals interact in a Power BI report](https://docs.microsoft.com/power-bi/service-reports-visual-interactions/?azure-portal=true).
+When you have multiple visualizations on the same report page, Power BI Desktop lets you control how interactions flow between visuals. For more information, see [Change how visuals interact in a Power BI report](/power-bi/service-reports-visual-interactions/?azure-portal=true).

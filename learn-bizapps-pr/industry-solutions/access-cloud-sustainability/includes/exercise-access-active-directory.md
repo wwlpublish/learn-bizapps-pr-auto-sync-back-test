@@ -101,7 +101,7 @@ To create a Microsoft .NET Framework console app to query the **Emission** table
 
                 // Get the web service access token. Its lifetime is about one hour after
                 // which it must be refreshed. For this simple sample, no refresh is needed.
-                // See https://docs.microsoft.com/powerapps/developer/data-platform/authenticate-oauth
+                // See https://learn.microsoft.com/powerapps/developer/data-platform/authenticate-oauth
                 var token = authContext.AcquireTokenAsync(
                     resource, clientId, redirectUri,
                     new PlatformParameters(
@@ -115,13 +115,13 @@ To create a Microsoft .NET Framework console app to query the **Emission** table
 
                 var client = new HttpClient
                 {
-                    // See https://docs.microsoft.com/powerapps/developer/data-platform/webapi/compose-http-requests-handle-errors#web-api-url-and-versions
+                    // See https://learn.microsoft.com/powerapps/developer/data-platform/webapi/compose-http-requests-handle-errors#web-api-url-and-versions
                     BaseAddress = new Uri(resource + "/api/data/v9.2/"),
                     Timeout = new TimeSpan(0, 2, 0)    // Standard two minute timeout on web service calls.
                 };
 
                 // Default headers for each Web API call.
-                // See https://docs.microsoft.com/powerapps/developer/data-platform/webapi/compose-http-requests-handle-errors#http-headers
+                // See https://learn.microsoft.com/powerapps/developer/data-platform/webapi/compose-http-requests-handle-errors#http-headers
                 HttpRequestHeaders headers = client.DefaultRequestHeaders;
                 headers.Authorization = new AuthenticationHeaderValue("Bearer", token.AccessToken);
                 headers.Add("OData-MaxVersion", "4.0");
@@ -179,5 +179,3 @@ To create a Microsoft .NET Framework console app to query the **Emission** table
 7. Authenticate by using your credentials in the pop-up window. The console app should list the first 10 records of the **Emission** table.
     > [!div class="mx-imgBorder"]
     > [![Screenshot showing first 10 records of Emission table after running console app.](../media/emission-code.png)](../media/emission-code.png#lightbox)
- 
-

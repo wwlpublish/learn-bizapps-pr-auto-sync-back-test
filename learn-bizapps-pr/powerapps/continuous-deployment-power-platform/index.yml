@@ -13,11 +13,11 @@ summary: |
   [!include[](../includes/module-banner.md)]
   Continuously delivering value has become a mandatory requirement for organizations. To deliver value to your users, you need to release continually and without errors. This module introduces the benefits of continuous deployment and shares an example workflow.
 abstract: |
-    In this module, you’ll:
+    In this module, you'll:
     - Learn about continuous deployment.
     - Discover the benefits of continuous deployment.
 prerequisites: Experience working on Microsoft Power Platform projects as a junior solution architect, a senior functional consultant, or a senior developer
-iconUrl: /learn/achievements/continuous-deployment-power-platform.svg
+iconUrl: /training/achievements/continuous-deployment-power-platform.svg
 levels:
 - beginner
 roles:
