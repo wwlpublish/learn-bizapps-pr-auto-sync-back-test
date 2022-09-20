@@ -266,13 +266,13 @@ In this task, you'll go through the steps that are involved in setting up the **
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of onnichannel set up page with selections and finish option highlighted.](../media/field-omnichannel-set-up.png)](../media/field-omnichannel-set-up.png#lightbox)
 
-The next screen will show that Omnichannel is being set up.
+    The next screen will show that Omnichannel is being set up.
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot of installation in progress page.](../media/field-omnichannel-in-progress.png)](../media/field-omnichannel-in-progress.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of installation in progress page.](../media/field-omnichannel-in-progress.png)](../media/field-omnichannel-in-progress.png#lightbox)
 
-> [!NOTE]
-> It might take a few hours to complete the setup of Omnichannel.
+    > [!NOTE]
+    > It might take a few hours to complete the setup of Omnichannel.
 
 After Omnichannel setup has finished successfully, the **Summary** screen will appear, as shown in the following screenshot.
 
@@ -355,10 +355,10 @@ You'll need to complete all previous steps before you can deploy Microsoft Cloud
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of dependencies page Create a new app user page.](../media/healthcare-dependencies.png)](../media/healthcare-dependencies.png#lightbox)
 
-The **Deploy solution** page will show the progress of the Microsoft Cloud for Healthcare solutions deployment. Because the deployment process can take several hours to complete, you can close this page or keep it open to track the deployment.
+    The **Deploy solution** page will show the progress of the Microsoft Cloud for Healthcare solutions deployment. Because the deployment process can take several hours to complete, you can close this page or keep it open to track the deployment.
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot of the Deploy Solutions page.](../media/healthcare-deploy-solutions.png)](../media/healthcare-deploy-solutions.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Deploy Solutions page.](../media/healthcare-deploy-solutions.png)](../media/healthcare-deploy-solutions.png#lightbox)
 
 8.  The **Success** page will appear when the deployment of Microsoft Cloud for Healthcare solutions has completed successfully. Select the **Launch solution** option beside any listed solution to open it.
 
@@ -384,7 +384,7 @@ In this task, you'll go through the steps to update the environment variables th
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of environment variables page.](../media/update-environment-variables.png)](../media/update-environment-variables.png#lightbox)
 
-**Congratulations!**, you've successfully set up the **Lamna Healthcare Dataverse** environment and have deployed **Microsoft Cloud for Healthcare** solutions.
+**Congratulations**, you've successfully set up the **Lamna Healthcare Dataverse** environment and have deployed **Microsoft Cloud for Healthcare** solutions.
 
 
 

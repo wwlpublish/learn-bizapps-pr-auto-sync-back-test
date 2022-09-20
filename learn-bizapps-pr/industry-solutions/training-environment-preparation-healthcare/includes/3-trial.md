@@ -40,10 +40,10 @@ In this task, you'll obtain the Dynamics 365 Customer Service Enterprise Trial l
     > [!div class="mx-imgBorder"]
 	> [![Screenshot of trial license page with Try now option highlighted.](../media/customer-service-try-now.png)](../media/customer-service-try-now.png#lightbox)
 
-If you've not updated the billing account details in the **Set up a Microsoft 365 tenant** unit, you'll see the **Information required** pop-up window will display. Select **Continue** and enter the billing account details before you can check out the order for **Dynamics 365 Customer Service Enterprise Trial** license.
+    If you've not updated the billing account details in the **Set up a Microsoft 365 tenant** unit, you'll see the **Information required** pop-up window will display. Select **Continue** and enter the billing account details before you can check out the order for **Dynamics 365 Customer Service Enterprise Trial** license.
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot of confirm order page with Try now highlighted.](../media/customer-service-continue.png)](../media/customer-service-continue.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of confirm order page with Try now highlighted.](../media/customer-service-continue.png)](../media/customer-service-continue.png#lightbox)
 
 6.	On the **order receipt** page, select **Continue.**
 
