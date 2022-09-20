@@ -51,7 +51,7 @@ The following example builds off the previous example and incorporates variables
 1. Set the **OnTimerEnd** property to
 
     ```
-    If(Dropdown1.Selected.Value = " ",Navigate(Screen2)
+    If(Dropdown1.Selected.Value = " ",Navigate(Screen2))
     ```
 
 1. Select the drop-down control and change the **OnChange** property to
