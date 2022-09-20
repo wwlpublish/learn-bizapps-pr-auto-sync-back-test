@@ -124,11 +124,11 @@ In this task, you'll create a subscription-based, trial Dataverse environment wi
 4.  On the **Add database** form, select **Click** **here**, provide details as shown in the following screenshot, and then select
     **Save**.
 
-- **URL** - lamnahealthcare
+    - **URL** - lamnahealthcare
 
-- **Enable Dynamics 365 apps?** - Yes
+    - **Enable Dynamics 365 apps?** - Yes
 
-- **Automatically deploy these apps** - None
+    - **Automatically deploy these apps** - None
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Add database page with Click here highlighted.](../media/dataverse-database.png)](../media/dataverse-database.png#lightbox)
@@ -138,8 +138,8 @@ In this task, you'll create a subscription-based, trial Dataverse environment wi
 
 1. After the environment has been created successfully, it should appear as shown in the following image.
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot of Dataverse trial subscription option highlighted.](../media/dataverse-trial-subscription.png)](../media/dataverse-trial-subscription.png#lightbox)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Dataverse trial subscription option highlighted.](../media/dataverse-trial-subscription.png)](../media/dataverse-trial-subscription.png#lightbox)
 
 
 ## Task 3: Enable the Dynamics 365 Field Service app in the Dataverse environment

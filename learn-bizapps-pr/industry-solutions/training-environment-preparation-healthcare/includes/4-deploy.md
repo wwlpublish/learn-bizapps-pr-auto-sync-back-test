@@ -53,7 +53,7 @@ In this task, you'll go through the steps to assign security roles to a global a
 6.  When you're finished selecting security roles, select **Save**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Billing > Purchase services, with Add-ons and Details highlighted.](../media/security-manage-roles.png)](../media/security-manage-roles.png#lightbox)
+	> [![Screenshot of Purchase services, with Add-ons and Details highlighted.](../media/security-manage-roles.png)](../media/security-manage-roles.png#lightbox)
 
 ## Task 2: Assign a security role to an application user
 

@@ -23,12 +23,12 @@ In this task, you'll obtain the Dynamics 365 Customer Service Enterprise Trial l
 2.  Go to **Billing > Purchase services** and select **Dynamics 365** under “View by category” section. 
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Billing > Purchase services, with Add-ons and Details highlighted.](../media/customer-service.png)](../media/customer-service.png#lightbox)
+	> [![Screenshot of Purchase services, with Add-ons and Details highlighted.](../media/customer-service.png)](../media/customer-service.png#lightbox)
 
 3. Find **Dynamics 365 Customer Service Enterprise** and select **Details.**
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Billing > Purchase services, with Details highlighted.](../media/customer-service-details.png)](../media/customer-service-details.png#lightbox)
+	> [![Screenshot of Purchase services, with Details highlighted.](../media/customer-service-details.png)](../media/customer-service-details.png#lightbox)
 
 4.	On the **Product details** page, select **Start free trial.**
 
@@ -54,7 +54,7 @@ If you've not updated the billing account details in the **Set up a Microsoft 36
 
 In this task, you'll obtain **Dynamics 365 Customer Service Digital Messaging add-on Trial** license that adds multiple digital conversation channels within the **Omnichannel for Customer Service.**
 
-1.  Go to [Microsoft 365 admin center](https://admin.microsoft.com/?azure-portal=true).
+1.  Go to [Microsoft 365 admin center](/admin.microsoft.com/?azure-portal=true).
 
 1. Navigate to  **Billing > Purchase services**, select **Add-ons** under **View by category** section.
 
@@ -63,7 +63,7 @@ In this task, you'll obtain **Dynamics 365 Customer Service Digital Messaging ad
 1. On the **Dynamics 365 Customer Service Digital Messaging add-on** card, select **Details**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Billing > Purchase services, with Search option with Digital highlighted.](../media/digital-message-search.png)](../media/digital-message-search.png#lightbox)
+	> [![Screenshot of  Purchase services, with Search option with Digital highlighted.](../media/digital-message-search.png)](../media/digital-message-search.png#lightbox)
 
 1.  On the **Product details** page, select **Start free trial**.
 
@@ -94,7 +94,7 @@ In this task, you'll obtain the **Dynamics 365 Sales Premium Trial** license use
 1. Find **Dynamics 365 Sales Premium**, and select **Details**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Billing > Purchase services, with Add-ons and Details highlighted for Sales Premium.](../media/sales-premium.png)](../media/sales-premium.png#lightbox)
+	> [![Screenshot of Purchase services, with Add-ons and Details highlighted for Sales Premium.](../media/sales-premium.png)](../media/sales-premium.png#lightbox)
 
 1.  On the **Product details** page, select **Start free trial**.
 
@@ -124,7 +124,7 @@ In this task, you'll obtain the **Dynamics 365 Field Service Trial** license use
 1. On the **Dynamics 365 Field Service** card, select **Details**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Billing > Purchase services, with Add-ons and Details highlighted for Field service.](../media/field-service.png)](../media/field-service.png#lightbox)
+	> [![Screenshot of  Purchase services, with Add-ons and Details highlighted for Field service.](../media/field-service.png)](../media/field-service.png#lightbox)
 
 1.  On the **Product details** page, select **Start free trial**.
 
@@ -154,7 +154,7 @@ In this task, you'll obtain the **Dynamics 365 Marketing Trial** license used by
 1. On the **Dynamics 365 Marketing** card, select **Details**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Billing > Purchase services, with Add-ons and Details highlighted for Marketing.](../media/marketing-trial.png)](../media/marketing-trial.png#lightbox)
+	> [![Screenshot of Purchase services, with Add-ons and Details highlighted for Marketing.](../media/marketing-trial.png)](../media/marketing-trial.png#lightbox)
 
 1.  On the **Product details** page, select **Start free trial**.
 
@@ -210,7 +210,7 @@ In this task, you’ll validate if the product licenses obtained are available i
 
 1. In the right pane, under **Products from Microsoft and others** section, you'll be able to view all the product licenses you obtained. 
 
-> [!div class="mx-imgBorder"]
+    > [!div class="mx-imgBorder"]
 	> [![Screenshot of the Continue button on the order confirmation page.](../media/track-installs.png)](../media/track-installs.png#lightbox)
 
 4. Validate the product licenses. Go to **Users > Active users** to assign these product licenses to the global administrator account. 
