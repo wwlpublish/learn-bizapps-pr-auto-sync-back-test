@@ -10,13 +10,13 @@ The business process flow presents the current application stage. This feature a
 
 When the Loan Tracker application is installed, the business process flow contains four stages:
 
-- Loan verification
+- Origination
 
-- Loan processing
+- Processing
 
 - Underwriting
 
-- Closure
+- Closing
 
 In this exercise, you'll extend the business process flow for loans to include a new **Quality Check** stage.
 
