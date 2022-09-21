@@ -105,6 +105,7 @@ In this task, you'll see the Customer Insights installation process.
 
 Upon successful creation of the Customer Insights Tenant, you can proceed forward.
 
+
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aEn]
 
 ## Task 3: Add Microsoft Cloud for Financial Services trial licenses
