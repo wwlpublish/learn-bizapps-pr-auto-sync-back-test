@@ -37,6 +37,7 @@ In this task, you'll create a Dynamics 365 Customer Service Trial Environment in
 8. Update the name of the organization and the URL as preferred and click **Save**.
    :::image type="content" source="../media/edit-details-save.png" alt-text="Screenshot of customer service trial environment edit details screen." :::
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aEm]
 
 ## Task 2: Install Customer Insights environment
 
@@ -104,6 +105,8 @@ In this task, you'll see the Customer Insights installation process.
 
 Upon successful creation of the Customer Insights Tenant, you can proceed forward.
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aEn]
+
 ## Task 3: Add Microsoft Cloud for Financial Services trial licenses
 
 In this step, you'll see how to obtain a Microsoft Cloud for Financial Services Trial license.
@@ -129,6 +132,8 @@ In this step, you'll see how to obtain a Microsoft Cloud for Financial Services 
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the continue button in order receipt.](../media/order-receipt-continue.png)](../media/order-receipt-continue.png#lightbox)
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aEo]
 
 ## Task 4: Setup prerequisite configurations
 
@@ -215,6 +220,4 @@ In this task, you'll create a Power Apps Portal that will be used as a sample po
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the pop-up with message that portal provisioning is in progress.](../media/portal-provision.png)](../media/portal-provision.png#lightbox)
 
-    
-
- 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57q5D]

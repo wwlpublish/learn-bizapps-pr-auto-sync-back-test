@@ -60,6 +60,8 @@ In this task, you'll learn how to create a trial tenant along with the required 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the Confirmation details page.](../media/confirm.png)](../media/confirm.png#lightbox)
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aEl]
+
 ## Task 2: Obtain a Microsoft Office E5 trial
 
 In this task, you'll add the necessary Office 365 trial to use Microsoft Teams for Collaboration Manager for Loans.
@@ -101,6 +103,8 @@ In this task, you'll add the necessary Office 365 trial to use Microsoft Teams f
 10. Select the **Office 365 E5** license and then select **Save changes**.
 
     :::image type="content" source="../media/office-365-e5-license.png" alt-text="Screenshot of the Office 365 E5 Licenses and apps page.":::
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57q5B]
 
 **Congratulations!** You have successfully set up your trial tenant.
 
