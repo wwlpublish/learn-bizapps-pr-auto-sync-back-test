@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.training-environment-preparation-healthcare.4a-azure-trial 
-title: Azure setup
+title: Configure environment 
 metadata: 
-  title: Azure setup
-  description: Learn about Azure setup.
+  title: Configure environment
+  description: Learn about how to configure your environment.
   ms.date: 09/20/2022 
   author: DaveBeasley 
   ms.author: dbeasley 
