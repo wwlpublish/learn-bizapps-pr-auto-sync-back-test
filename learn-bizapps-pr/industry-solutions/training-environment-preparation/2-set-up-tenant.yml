@@ -9,7 +9,7 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.subservice: financial
-durationInMinutes: 4
+durationInMinutes: 6
 content: |
  [!include[](../includes/unit-banner.md)]
  [!include[](includes/2-set-up-tenant.md)]
