@@ -60,6 +60,8 @@ In this task, you'll learn how to create a trial tenant along with the required 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the Confirmation details page.](../media/confirm.png)](../media/confirm.png#lightbox)
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aEl]
+
 ## Task 2: Obtain a Microsoft Office E5 trial
 
 In this task, you'll add the necessary Office 365 trial to use Microsoft Teams for Collaboration Manager for Loans.
@@ -103,5 +105,7 @@ In this task, you'll add the necessary Office 365 trial to use Microsoft Teams f
     :::image type="content" source="../media/office-365-e5-license.png" alt-text="Screenshot of the Office 365 E5 Licenses and apps page.":::
 
 **Congratulations!** You have successfully set up your trial tenant.
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57q5B]
 
 In the next module, you'll learn how to obtain the various trial licenses that are required to fully run Microsoft Cloud for Financial Services.

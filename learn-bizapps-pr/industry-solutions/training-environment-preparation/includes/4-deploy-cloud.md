@@ -45,3 +45,5 @@ In this task, you'll deploy all the Microsoft Cloud for Financial Services capab
    > [![Screenshot of the deployment in progress screen.](../media/deployment-in-progress.png)](../media/deployment-in-progress.png#lightbox)
 
    You can monitor this screen to check the deployment status, or you can view the status of the apps by going to [https://aka.ms/ppac](https://aka.ms/ppac/?azure-portal=true).
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aEp]
