@@ -78,7 +78,7 @@ In this task, you'll obtain **Dynamics 365 Customer Service Digital Messaging ad
 1. On the **order receipt** page, select **Continue**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the order receipt page with Continue button highlighted.](../media/digital-message-try-now.png)](../media/digital-message-try-now.png#lightbox)
+	> [![Screenshot of the order receipt page with Continue button highlighted.](../media/digital-message-order.png)](../media/digital-message-order.png#lightbox)
 
 > [!NOTE]
 >  After you obtain the trial license, it might take up to 24 hours for **Omnichannel for Customer Service** to be available in your **Dynamics 365 apps**.

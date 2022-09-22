@@ -90,7 +90,7 @@ In this task, you'll go through the steps to assign security roles to the Lamna 
 7.  After adding the Azure AD app, you'll be redirected to the **Create a new app user** panel. From the **Business unit** dropdown menu, select **lamnahealth**. Select the **edit** icon beside the **Security roles** option.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Create a new app user page with Lamna health selected.](../media/security-add-application.png)](../media/security-add-application.png#lightbox)
+	> [![Screenshot of Create a new app user page with Lamna health selected.](../media/security-create-new-application.png)](../media/security-create-new-application.png#lightbox)
 
 > [!NOTE]
 > In the previous unit, you specified lamnahealth as part of the URL while creating the **Lamna Healthcare**  Dataverse environment.*

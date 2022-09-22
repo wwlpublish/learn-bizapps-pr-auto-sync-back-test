@@ -219,7 +219,7 @@ In this task, you'll go through the steps that are involved in setting up the Dy
     You'll be redirected to the Dynamics 365 Marketing app that's been set up in the Lamna Healthcare environment.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Create a new app user page for Marketing app.](../media/security-create-new-app-user.png)](../media/security-create-new-app-user.png#lightbox)
+	> [![Screenshot of Dynamics 365 Marketing app page.](../media/field-marketing-app.png)](../media/field-marketing-app.png#lightbox)
 
 ## Task 6: Enable the Omnichannel for Customer Service app in the Dataverse environment
 
