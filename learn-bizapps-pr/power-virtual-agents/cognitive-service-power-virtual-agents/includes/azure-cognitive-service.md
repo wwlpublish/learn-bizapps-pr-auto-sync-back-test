@@ -8,7 +8,7 @@ These features can either be:
 
 Azure Cognitive Service for Language lets you do many different things such as:
 
-- **Extract information**: Use Natural Language Understanding (NLU) to extract information from unstructured text. For example, it can identify key phrases or Personally Identifiable Information (PII), summarize text, recognize and categorize named entities, or customize an entity extraction model on top of your domain set.
+- **Extract information**: Use Natural Language Understanding (NLU) to extract information from unstructured text. For example, it can identify key phrases or personal data, summarize text, recognize and categorize named entities, or customize an entity extraction model on top of your domain set.
 
    > [!div class="mx-imgBorder"]
    > ![A screenshot of a key phrase extraction example.](../media/key-phrase.png)
