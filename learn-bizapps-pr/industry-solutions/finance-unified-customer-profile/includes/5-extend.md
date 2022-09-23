@@ -4,6 +4,8 @@ In this exercise, you'll customize the Unified customer profile application in t
 
 - Edit the Unified customer profile controls such as **Life event type** to add a new life event type.
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aY1]
+
 ## Task 1: Add new controls to Unified customer profile
 
 In this task, you'll create a new solution and then customize the Unified customer profile application to add new controls.
