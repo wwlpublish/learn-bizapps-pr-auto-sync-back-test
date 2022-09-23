@@ -23,7 +23,7 @@ If you're interested in learning more about creating a fallback topic, you can f
 When you're designing a topic in Power Virtual Agents, you'll use the authoring canvas to build the messages that will be presented to users, and define how the conversation flows. For example, you might ask the customer to provide you with a brief description of the issue they're having. You might capture the description in a question node. The question node allows you to ask the user a question and then capture their response so it can be used later. For example, in the image below, we're using a question node to capture the customer's description of their problem.
 
 > [!div class="mx-imgBorder"]
-> [![A screenshot of the question node.](../media/define-bot-question.png)](../media/define-bot-question.png#lightbox)
+> ![A screenshot of the question node.](../media/define-bot-question.png)
 
 The system is capturing the entire response the customer types into the chat window and will store it in a variable called Description. In Power Virtual Agents, variables represent reusable pieces of information that can be use in topics. By storing the information in the Description variable, we can easily use that information later in the topic, such as passing it to another conversation note later in the topic.
 

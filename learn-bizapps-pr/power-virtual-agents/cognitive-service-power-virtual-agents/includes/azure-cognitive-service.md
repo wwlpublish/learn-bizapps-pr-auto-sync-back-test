@@ -11,7 +11,7 @@ Azure Cognitive Service for Language lets you do many different things such as:
 - **Extract information**: Use Natural Language Understanding (NLU) to extract information from unstructured text. For example, it can identify key phrases or Personally Identifiable Information (PII), summarize text, recognize and categorize named entities, or customize an entity extraction model on top of your domain set.
 
    > [!div class="mx-imgBorder"]
-   > [![A screenshot of a key phrase extraction example.](../media/key-phrase.png)](../media/key-phrase.png#lightbox)
+   > ![A screenshot of a key phrase extraction example.](../media/key-phrase.png)
 
 - **Summarize text-based content**: Allows you to summarize lengthy documents and conversation transcripts.
 
@@ -21,12 +21,12 @@ Azure Cognitive Service for Language lets you do many different things such as:
 - **Classify text**: Use NLU to detect the language or classify the sentiment of text you've. You can also classify your text documents by customizing a classification model over your dataset.
 
    > [!div class="mx-imgBorder"]
-   > [![A screenshot of a language detection example.](../media/language.png)](../media/language.png#lightbox)
+   > ![A screenshot of a language detection example.](../media/language.png)
 
 - **Answer questions**: Provide answers to questions being asked in unstructured texts using the prebuilt capabilities, or customize your domain specific question-and-answer pairs over data you provide.
 
    > [!div class="mx-imgBorder"]
-   > [![A screenshot of a question answering example.](../media/question-answer.png)](../media/question-answer.png#lightbox)
+   > ![A screenshot of a question answering example.](../media/question-answer.png)
 
 - **Understand conversations**: Create your own models to classify conversational utterances and extract detailed information from them to fulfill scenarios.
 
