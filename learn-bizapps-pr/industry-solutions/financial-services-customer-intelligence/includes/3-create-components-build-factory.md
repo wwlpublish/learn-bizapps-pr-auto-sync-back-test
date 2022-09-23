@@ -14,16 +14,16 @@ In this task, you'll obtain a trial Azure subscription to utilize Azure Data fac
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Azure portal free trial.](../media/azure-start-free.png)](../media/azure-start-free.png#lightbox)
 
-1. The details you entered when you created the new tenant are auto populated on the sign-up page. Verify the profile details, and provide the phone number and validate it either using **Text** or **call**. Accept the customer agreement and select  **Next**. 
+1. The details you entered when you created the new tenant are auto populated on the sign-up page. Verify the profile details, and provide the phone number and validate it either using **Text** or **call**. Accept the customer agreement and select  **Next**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Azure portal personal details registration.](../media/azure-personal-data.png)](../media/azure-personal-data.png#lightbox)
 
-1. Enter your credit card details and select **Sign up**. 
+1. Enter your credit card details and select **Sign up**.
 
     > [!NOTE]
-    > A credit card is only required to verify your identity. You'll not be charged unless you upgrade your subscription. You must read the following Microsoft Docs to understand how to avoid charges with your [Azure free account.](//azure/cost-management-billing/manage/avoid-charges-free-account/)
-    
+    > A credit card is only required to verify your identity. You'll not be charged unless you upgrade your subscription. Read the following articles to understand how to avoid charges with your [Azure free account.](//azure/cost-management-billing/manage/avoid-charges-free-account/)
+
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Azure portal credit card registration.](../media/azure-credit-card.png)](../media/azure-credit-card.png#lightbox)
 
