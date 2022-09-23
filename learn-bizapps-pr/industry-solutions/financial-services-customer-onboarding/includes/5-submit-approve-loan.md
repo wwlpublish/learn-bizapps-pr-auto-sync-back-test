@@ -4,6 +4,8 @@ In this exercise, you'll learn how to:
 
 - Sign in to the Loan Tracker application in Microsoft Teams as a loan representative and approve the loan.
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aXZ]
+
 ## Task 1: Sign in to the Retail Banking Portal as a customer and submit a loan request
 
 To sign in to the Retail Banking Portal as a customer and then submit a loan request, follow these steps:

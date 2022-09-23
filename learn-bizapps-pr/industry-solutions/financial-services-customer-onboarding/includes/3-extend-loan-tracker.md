@@ -23,6 +23,8 @@ In this exercise, you'll extend the business process flow for loans to include a
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Loan verification step in the loan application process.](../media/loan-verification.png)](../media/loan-verification.png#lightbox)
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57fXM]
+
 ## Task 1: Create a new Power Apps solution
 
 To create a new Power Apps solution, follow these steps:

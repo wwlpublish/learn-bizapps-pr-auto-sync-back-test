@@ -17,6 +17,8 @@ The following image is an example what should display after you have set up and 
 
 For more information, see [What are Power Apps portals?](/power-apps/maker/portals/overview/?azure-portal=true).
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57fXL]
+
 ## Task 1: Set up the Retail Banking Portal
 
 Prior to deploying Microsoft Cloud for Financial Services, you created a portal in your environment. Creating this portal is a prerequisite to installing the Retail Banking Portal as part of the Customer onboarding module.
