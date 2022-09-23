@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.cognitive-service-power-virtual-agents
+metadata:
+ title: Use Azure Cognitive Service for Language in a Power Virtual Agent bot
+ description: This module will focus on how to Use Azure Cognitive Service for Language in a Power Virtual Agent bot.
+ ms.date: 09/28/2022
+ author: heyrob
+ ms.author: robde
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-virtual-agents
+title: Use Azure Cognitive Service for Language in a Power Virtual Agent bot
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module will focus on the configuration required to use Azure Cognitive Service for Language to enhance the capabilities of a Power Virtual Agent bot, including introducing Azure Cognitive Service for Language and examining how to incorporate it into a bot.
+abstract: |
+    In this module, you'll:
+    - Explore why using more services is important for your bot functionality.
+    - Examine what Azure Cognitive Service for Language is and what capabilities it has.
+    - Review how to create a bot and ready it for use with Azure Cognitive Service for Language.
+    - Learn to call your Azure Cognitive Service for Language service from within a bot with a Power Automate flow.
+prerequisites: None
+iconUrl: /learn/achievements/cognitive-service-power-virtual-agents.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- developer
+products:
+- power-virtual-agents
+subjects:
+- chatbot
+units:
+- learn-bizapps.cognitive-service-power-virtual-agents.introduction
+- learn-bizapps.cognitive-service-power-virtual-agents.azure-cognitive-service
+- learn-bizapps.cognitive-service-power-virtual-agents.define-your-bot
+- learn-bizapps.cognitive-service-power-virtual-agents.call-your-service
+- learn-bizapps.cognitive-service-power-virtual-agents.deploy-your-bot
+- learn-bizapps.cognitive-service-power-virtual-agents.check
+- learn-bizapps.cognitive-service-power-virtual-agents.summary
+badge:
+  uid: learn-bizapps.cognitive-service-power-virtual-agents.badge

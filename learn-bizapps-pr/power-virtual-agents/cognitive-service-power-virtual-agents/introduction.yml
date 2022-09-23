@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.cognitive-service-power-virtual-agents.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to using Azure Cognitive Service for Language in a Power Virtual Agent bot.
+  ms.date: 09/28/2022
+  author: heyrob
+  ms.author: robde
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-virtual-agents
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]
