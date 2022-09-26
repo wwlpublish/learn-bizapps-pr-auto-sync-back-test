@@ -1,6 +1,6 @@
 When a customer engages with your organization, a customer service application such as Dynamics 365 Customer Service, will initially receive the item and then either route the item to an individual or to a virtual agent that is being backed by your Power Virtual Agent bot.  Depending on the channel the customer is engaging on, the item will be routed appropriately.  To do this, the system needs to know how to engage with the bot.  For organizations that are leveraging Dynamics 365 Omnichannel for Customer Service.  This is done by creating a bot user in the Omnichannel for Customer Service application.  A bot user is essentially a user in Omnichannel for Customer Service that is supported by an application. In this case, the application is going to be a Power Virtual Agents bot. When conversations are routed to the application user, the Power Virtual Agents bot takes over and provides the necessary interaction with the customer. 
    
-Since the bot is an application user, the application that will support the bot needs to be registered in Microsoft Azure Active Directory (Azure AD). Azure AD authenticates the application just as it would a human user. Before a bot can be integrated, you will need to create an application registration in Azure AD. After the application registration has been defined, a Power Virtual Agents bot can be associated with the registered application.
+Since the bot is an application user, the application that will support the bot needs to be registered in Microsoft Azure Active Directory (Azure AD). Azure AD authenticates the application just as it would a human user. Before a bot can be integrated, you'll need to create an application registration in Azure AD. After the application registration has been defined, a Power Virtual Agents bot can be associated with the registered application.
 
 Only users with necessary permissions can add items in your Azure tenant and make the necessary application registrations. You can create the application registration as follows:
 1. Go to the [Azure portal](https://portal.azure.com/?azure-portal=true).
@@ -12,7 +12,7 @@ Only users with necessary permissions can add items in your Azure tenant and mak
         > [!div class="mx-imgBorder"]
         > [![Screenshot highlighting name and supported account types.](../media/handoff-app-registration.png)](../media/handoff-app-registration.png#lightbox)
 
-4. After you have defined the necessary information, select the Register button.
+4. After you've defined the necessary information, select the Register button.
 
 For more information, see [creating an Azure Active Directory Application](/azure/active-directory/develop/howto-create-service-principal-portal#create-an-azure-active-directory-application/?azure-portal=true).
 
@@ -24,7 +24,7 @@ Additional items that you might want to consider include:
 - **Certificates and secrets** - Help manage authentication and control application security. For more information, see [Certificates and Secrets](/azure/active-directory/develop/howto-create-service-principal-portal#certificates-and-secrets/?azure-portal=true).
 - **Access policies on resources** - Allows you to define additional permissions that your application might need. For more information, see [Configure Access Policies](/azure/active-directory/develop/howto-create-service-principal-portal#configure-access-policies-on-resources/?azure-portal=true).
 
-Now that you have created an application registration, you can build the Power Virtual Agents bot and configure it to  hand off conversations to Omnichannel for Customer Service.
+Now that you've created an application registration, you can build the Power Virtual Agents bot and configure it to  hand off conversations to Omnichannel for Customer Service.
 
 ## Transfer conversations to agents
 
@@ -46,11 +46,11 @@ Bot authors can end a conversation and transfer to an agent from within a specif
 
 ## Configure where to hand off the conversation
 
-The second part of facilitating the transfer to an agent is to configure the bot to send the conversation to a specific Omnichannel for Customer Service instance. Only bots that have been published can be used to ensure that the end-to-end capabilities work as expected. Make sure that you have [published your bot](/power-virtual-agents/publication-fundamentals-publish-channels/?azure-portal=true) prior to validating the integrated experience.
+The second part of facilitating the transfer to an agent is to configure the bot to send the conversation to a specific Omnichannel for Customer Service instance. Only bots that have been published can be used to ensure that the end-to-end capabilities work as expected. Make sure that you've [published your bot](/power-virtual-agents/publication-fundamentals-publish-channels/?azure-portal=true) prior to validating the integrated experience.
 
 Each bot can only be configured to send conversations to one Omnichannel for Customer Service instance. You can define the Dynamics 365 instance in the individual bot itself. If you need conversations from multiple bots to be sent to a specific Dynamics 365 environment, each bot will need to be configured individually.
 
-The primary component that you need to provide is the application ID for the app that you previously registered in Azure Active Directory. Omnichannel for Customer Service models bots as application users in the application. Modeling bots as application users ensures that the bot can have conversations set to it like a human agent would. It is important that the application ID is unique to your organization (your Microsoft Dataverse organization or environment). Each bot that will interact with the same Omnichannel for Customer Service environment will need to use a different application ID. You might need to create multiple application registrations to support multiple bots.
+The primary component that you need to provide is the application ID for the app that you previously registered in Azure Active Directory. Omnichannel for Customer Service models bots as application users in the application. Modeling bots as application users ensures that the bot can have conversations set to it like a human agent would. It's important that the application ID is unique to your organization (your Microsoft Dataverse organization or environment). Each bot that will interact with the same Omnichannel for Customer Service environment will need to use a different application ID. You might need to create multiple application registrations to support multiple bots.
 
 1. In your [Azure portal](https://ms.portal.azure.com/?azure-portal=true), go to **Azure Active Directory** and select **App registrations**. All registered applications will be displayed.
 2. Select the application that you want to use with the bot. The **Application ID** field will be on the application's overview page.
@@ -65,16 +65,16 @@ The primary component that you need to provide is the application ID for the app
 This screen allows you to define how the bot will facilitate handoff to different applications like Omnichannel for Customer Service.
 2.	Select the Dynamics 365 Omnichannel for Customer Service tile to begin the configuration process.
     > [!div class="mx-imgBorder"]
-    > [![Screenshot highlighting agent transfer option where you have to select the bot to hand off the chat session.](../media/agent-transfer.png)](../media/agent-transfer.png#lightbox)
+    > [![Screenshot highlighting agent transfer option where you've to select the bot to hand off the chat session.](../media/agent-transfer.png)](../media/agent-transfer.png#lightbox)
 
  
 3.	On the Omnichannel configuration screen, you'll have multiple items that you can configure.
-4.	To ensure that you bot to be able to interact through voice such as Interactive Voice Response, or Real Time Media functionality, select **Enable voice**.
+4.	To ensure that your bot to be able to interact through voice such as Interactive Voice Response, or Real Time Media functionality, select **Enable voice**.
 
     > [!IMPORTANT]
-    > You need to ensure that you have installed all the necessary extensions in your environment.  
+    > You need to ensure that you've installed all the necessary extensions in your environment.  
 
-5. When configuring the connection, you will need to provide the following information:
+5. When configuring the connection, you'll need to provide the following information:
     - **Environment this bot is connected to**: Used in scenarios where the bot was previously connected to a Dynamics 365 Instance. This will likely already be filled in. Make sure you select an environment where Omnichannel for Customer Service instance is provisioned. The list shows all available environments, even if Omnichannel for Customer Service isn't provisioned.
     
     - **Application ID**: This will be the Application ID that you copied from Azure Active Directory.

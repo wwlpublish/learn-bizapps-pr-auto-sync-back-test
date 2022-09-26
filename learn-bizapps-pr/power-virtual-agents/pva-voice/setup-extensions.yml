@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit 
-uid: learn-bizapps.pva-voice\.setup-extensions 
+uid: learn-bizapps.pva-voice.setup-extensions 
 title: Deploying the necessary extensions
 metadata: 
   title: Deploying the necessary extensions
-  description: Learn about deploying necessary extentions to enable voice bot.
+  description: Learn about deploying necessary extensions to enable voice bot.
   ms.date: 09/28/2022 
   author: Heyrob 
   ms.author: Robde 

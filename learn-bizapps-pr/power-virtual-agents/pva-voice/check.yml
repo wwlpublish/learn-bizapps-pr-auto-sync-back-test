@@ -1,5 +1,5 @@
 ### YamlMime:ModuleUnit 
-uid: learn-bizapps.pva-voice\.check 
+uid: learn-bizapps.pva-voice.check 
 title: Check your knowledge 
 metadata: 
  title: Check your knowledge 
@@ -19,14 +19,14 @@ quiz:
       explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. Conversations can also be escalated by selecting the Escalate system topic. Source- Configure Handoff.     
     - content: End the conversation 
       isCorrect: true
-      explanation: Correct.When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. Conversations can also be escalated by selecting the Escalate system topic. Source- Configure Handoff.      
+      explanation: Correct. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. Conversations can also be escalated by selecting the Escalate system topic. Source- Configure Handoff.      
     - content: Ask a question
       isCorrect: false 
       explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. Conversations can also be escalated by selecting the Escalate system topic. Source- Configure Handoff.     
     - content: Go to Topic
       isCorrect: false 
       explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. Conversations can also be escalated by selecting the Escalate system topic. Source- Configure Handoff.     
-  - content: You are going to be developing a customer support bot that will be used across different voice channels.  You need to ensure that items like the phone number the customer engaged from can be inserted into bot conversations.  Which of the following extensions must you deploy into your environment? 
+  - content: You're going to be developing a customer support bot that will be used across different voice channels.  You need to ensure that items like the phone number the customer engaged from can be inserted into bot conversations.  Which of the following extensions must you deploy into your environment? 
     choices: 
     - content: Omnichannel Power Virtual Agent extension
       isCorrect: false
