@@ -55,7 +55,7 @@ Power Apps uses a couple of formulas in every app that it generates. Both exampl
 * The first formula is associated with the **IconNewItem1** control ![New item icon](../media/powerapps-icon-add-item.png). Select this control to open the edit/create screen where you can create an item. To view the formula, select the ![New item icon](../media/powerapps-icon-add-item.png) and then select it in the formula bar. The formula is as follows:
 
   ```powerappsfl
-  NewForm(EditForm1);Navigate(EditScreen, ScreenTransition.None)
+  NewForm(EditForm1);Navigate(EditScreen1, ScreenTransition.None)
   ```
 
   The formula instantiates an edit page on the edit/create screen so that users can create an item. A value of `ScreenTransition.None` means that there's no transition, such as a fade, between screens.
