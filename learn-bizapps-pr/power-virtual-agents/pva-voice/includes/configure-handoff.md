@@ -65,7 +65,7 @@ The primary component that you need to provide is the application ID for the app
 This screen allows you to define how the bot will facilitate handoff to different applications like Omnichannel for Customer Service.
 2.	Select the Dynamics 365 Omnichannel for Customer Service tile to begin the configuration process.
     > [!div class="mx-imgBorder"]
-    > [![Screenshot highlighting agent transfer option where you've to select the bot to hand off the chat session.](../media/agent-transfer.png)](../media/agent-transfer.png#lightbox)
+    > [![Screenshot highlighting agent transfer option where you've to select the bot to hand off the chat session.](../media/handoff-ocs.png)](../media/handoff-ocs.png#lightbox)
 
  
 3.	On the Omnichannel configuration screen, you'll have multiple items that you can configure.

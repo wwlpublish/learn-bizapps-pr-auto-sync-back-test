@@ -17,7 +17,7 @@ You can learn more about both administrative experiences here:
 To configure a bot for voice, open a voice channel workstream that has been previously created. You can learn more about configuring a voice workstream here. [Deploy a Voice channel in Dynamics 365 Customer Service](/training/modules/get-started-voice-channel/?azure-portal=true). In the **Add a bot** section, select the Add a bot button.  Here you'll specify the bot that you want to leverage.  
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot highlighting add a bot option and specify the bot that you want to leverage.](../media/add-bot.png)](../media/add-bot.png#lightbox)
+> [![Screenshot highlighting add a bot option and specify the bot that you want to leverage.](../media/enable-add-bot.png)](../media/enable-add-bot.png#lightbox)
 
 Once specified, detailed information about the bot associated with the item will be displayed in the bot section.  
  

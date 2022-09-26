@@ -1,4 +1,4 @@
-Before we begin, it's important to note that basic behavior of a voice enabled PVA bot isn't that different than a traditional bot. From a design standpoint, there's nothing that you need to do differently when you create the bot.  Items such as topics, entities, and other elements are all designed the same way.   The primary difference is that rather than interacting with a customer through some text-based form of communication, the bot will be engaging with them through a voice conversation.  To ensure this happens as intended, there are multiple extensions that you'll need to install into your environment to ensure that everything will be handled correctly.  
+Before we begin, it's important to note that basic behavior of a voice enabled PVA bot isn't that different than a traditional bot. From a design standpoint, there's nothing that you need to do differently when you create the bot.  Items such as topics, entities, and other elements are all designed the same way. The primary difference is that rather than interacting with a customer through some text-based form of communication, the bot will be engaging with them through a voice conversation.  To ensure this happens as intended, there are multiple extensions that you'll need to install into your environment to ensure that everything will be handled correctly.  
 
 Depending on whether you're leveraging Dynamics 365 Omnichannel for Customer Service for your contact center or not, there are three extensions you'll likely need to install to ensure your bot can interact correctly with your environment.  
 
@@ -19,10 +19,10 @@ To make this information available to a Power Virtual Agent bot, you can install
 In the screenshot below, you can see an example of leveraging the extensions in a bot topic.  
 
 > [!div class="mx-imgBorder"]
-> [![In screenshot, you can see an example of leveraging the extensions in a bot topic.](../media/extensions-pva.png)](../media/extensions-pva.png#lightbox)
+> [![Screenshot showing an example of leveraging the extensions in a bot topic.](../media/extensions-pva.png)](../media/extensions-pva.png#lightbox)
 
 
-You can download and deploy the Power Virtual Agents telephony extension here: [Power Virtual Agents telephony extension](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.mspva_telephony_extension/?azure-portal=true).
+You can download and deploy the Power Virtual Agents telephony extension here: [Power Virtual Agents telephony extension](https://appsource.microsoft.com/product/dynamics-365/mscrm.mspva_telephony_extension/?azure-portal=true).
 
 ## Omnichannel Power Virtual Agent extension
 
@@ -41,14 +41,10 @@ Those variables include:
 - bot.msdyn_CustomerName
 
 In the image below, you can see an example of some of the different variables that could be inserted into a conversation:  
-
-> [!div class="mx-imgBorder"]
-> [![Screenshot showing an example of some of the different variables that could be inserted into a conversation.](../media/variable.png)](../media/variable.png#lightbox)
-
  
 When a conversation is handed off to a live individual, it can be nice to include With Power Virtual Agents, you can seamlessly and contextually hand off escalated Power Virtual Agents conversations to live (human) agents using the Chat Add-in for Dynamics 365 Customer Service.
 
-You can download and deploy the Omnichannel Power Virtual Agent extension here:  [Omnichannel Power Virtual Agent extension](https://appsource.microsoft.com/en-US/product/dynamics-365/mscrm.omnichannelpvaextension/?azure-portal=true).
+You can download and deploy the Omnichannel Power Virtual Agent extension here:  [Omnichannel Power Virtual Agent extension](https://appsource.microsoft.com/product/dynamics-365/mscrm.omnichannelpvaextension/?azure-portal=true).
 
 ## Omnichannel Voice Power Virtual Agent extension
 
@@ -57,6 +53,6 @@ The final extension you'll need to install if you're leveraging Omnichannel for 
 > [!IMPORTANT]
 > This extension requires that you have already deployed the Power Virtual Agents telephony extension.  
 
-You can download and install the Omnichannel Power Virtual Agent extension here:  [Omnichannel Voice Power Virtual Agent extension](https://appsource.microsoft.com/en-US/product/dynamics-365/mscrm.omnichannelvoicepvaextension/?azure-portal=true).
+You can download and install the Omnichannel Power Virtual Agent extension here:  [Omnichannel Voice Power Virtual Agent extension](https://appsource.microsoft.com/product/dynamics-365/mscrm.omnichannelvoicepvaextension/?azure-portal=true).
 
 Now that you have all the necessary extensions in place, let’s examine what you need to do to configure the PVA bot for voice.  
