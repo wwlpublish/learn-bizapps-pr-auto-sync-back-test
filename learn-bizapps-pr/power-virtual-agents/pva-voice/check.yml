@@ -1,0 +1,42 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pva-voice.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/28/2022 
+ author: Heyrob 
+ ms.author: Robde 
+ ms.topic: interactive-tutorial 
+durationInMinutes: 4
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which conversation node would you add to a bot to help initiate a transfer to a live agent?
+    choices: 
+    - content: Call an action
+      isCorrect: false
+      explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. Conversations can also be escalated by selecting the Escalate system topic. Source- Configure Handoff.     
+    - content: End the conversation 
+      isCorrect: true
+      explanation: Correct. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. Conversations can also be escalated by selecting the Escalate system topic. Source- Configure Handoff.      
+    - content: Ask a question
+      isCorrect: false 
+      explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. Conversations can also be escalated by selecting the Escalate system topic. Source- Configure Handoff.     
+    - content: Go to Topic
+      isCorrect: false 
+      explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. Conversations can also be escalated by selecting the Escalate system topic. Source- Configure Handoff.     
+  - content: You're going to be developing a customer support bot that will be used across different voice channels.  You need to ensure that items like the phone number the customer engaged from can be inserted into bot conversations.  Which of the following extensions must you deploy into your environment? 
+    choices: 
+    - content: Omnichannel Power Virtual Agent extension
+      isCorrect: false
+      explanation: Incorrect. The Power Virtual Agents telephony extension provides multiple capabilities to support voice enabled bots.  One of those capabilities is addition on several variables that can be used to do things such as insert the phone number the customer reached to your organization from. Source- Setup Extensions
+    - content: Power Virtual Agents Omnichannel extension
+      isCorrect: false 
+      explanation: Incorrect. The Power Virtual Agents telephony extension provides multiple capabilities to support voice enabled bots.  One of those capabilities is addition on several variables that can be used to do things such as insert the phone number the customer reached to your organization from. Source- Setup Extensions
+    - content: Power Virtual Agents telephony extension 
+      isCorrect: true
+      explanation: Correct. The Power Virtual Agents telephony extension provides multiple capabilities to support voice enabled bots.  One of those capabilities is addition on several variables that can be used to do things such as insert the phone number the customer reached to your organization from. Source- Setup Extensions
+    - content: Omnichannel Voice Power Virtual Agent extension
+      isCorrect: false 
+      explanation: Incorrect. The Power Virtual Agents telephony extension provides multiple capabilities to support voice enabled bots.  One of those capabilities is addition on several variables that can be used to do things such as insert the phone number the customer reached to your organization from. Source- Setup Extensions
