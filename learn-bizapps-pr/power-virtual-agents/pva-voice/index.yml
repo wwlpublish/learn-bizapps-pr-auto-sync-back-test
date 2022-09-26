@@ -14,7 +14,7 @@ summary: |
 abstract: |  
     In this module, you will: 
     - Focus on the configuration required to enable a Power Virtual Agent bot for voice capabilities, including examining why you would enable a bot for voice, installing the necessary extensions, configuring the hand off with your voice provider.
-prerequisites: 
+prerequisites: None
 iconUrl: /learn/achievements/pva-voice.svg  
 levels:  
 - intermediate   
