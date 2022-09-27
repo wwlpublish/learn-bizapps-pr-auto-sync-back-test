@@ -113,6 +113,8 @@ Follow these steps to add a webhook trigger:
     -  **Verb** - POST
 
     -  **URL** - `https://contosoinvoicing.azurewebsites.net/NewInvoiceNotification/`
+       > [!NOTE]
+       > Include the trailing foward slash on the URL. 
 
     -  **Body**
 		```json
