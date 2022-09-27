@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ ms.subservice: portals
 title: Integrate Power Apps portals with web-based technologies
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -20,7 +20,7 @@ abstract: |
     - Learn how to embed Power BI reports on a Power Apps portals page.
     - Learn how to enhance a portal page with model-driven charts.
 prerequisites: Basic understanding of Power Apps portals, how to create webpages, and how to use the portal source code editor, model-driven apps, and Power BI concepts and components.
-iconUrl: /learn/achievements/portals-integration.svg  
+iconUrl: /training/achievements/portals-integration.svg  
 levels:  
 - intermediate   
 roles:  

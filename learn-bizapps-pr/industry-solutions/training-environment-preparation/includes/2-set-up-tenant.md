@@ -4,6 +4,8 @@ To deploy Microsoft Cloud for Financial Services in a Microsoft Dataverse enviro
 
 In this task, you'll learn how to create a trial tenant along with the required Microsoft Dynamics 365 and Microsoft 365 trial licenses. You can skip this task if you already have a tenant.
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aEl]
+
 1. Open an internet browser in In-Private or Incognito mode.
 
 1. Go to [https://trials.dynamics.com](https://trials.dynamics.com/?azure-portal=true), scroll down, and then select **Try for free** in the **Dynamics 365 Customer Service** card.
@@ -55,7 +57,7 @@ In this task, you'll learn how to create a trial tenant along with the required 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the TIN registration number page.](../media/tin-registration-number.png)](../media/tin-registration-number.png#lightbox)
 
-Your Microsoft 365 tenant has been successfully created along with the Dynamics 365 Customer Engagement Plan license that includes a Microsoft Power Apps license as well.
+   **Congratulations!** Your Microsoft 365 tenant has been successfully created along with the Dynamics 365 Customer Service license that includes a Microsoft Power Apps license as well.
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the Confirmation details page.](../media/confirm.png)](../media/confirm.png#lightbox)
@@ -63,6 +65,8 @@ Your Microsoft 365 tenant has been successfully created along with the Dynamics 
 ## Task 2: Obtain a Microsoft Office E5 trial
 
 In this task, you'll add the necessary Office 365 trial to use Microsoft Teams for Collaboration Manager for Loans.
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57q5B]
 
 1. With your newly created credentials in the previous task, go to [Microsoft 365 admin center](https://admin.microsoft.com/).
 

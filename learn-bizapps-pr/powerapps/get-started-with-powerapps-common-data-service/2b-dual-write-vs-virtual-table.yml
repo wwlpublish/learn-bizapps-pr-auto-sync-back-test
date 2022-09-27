@@ -8,7 +8,7 @@ metadata:
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  ms.subservice: dataverse-developer
 durationInMinutes: 10 
 content: | 
   [!include[](../includes/unit-banner.md)]

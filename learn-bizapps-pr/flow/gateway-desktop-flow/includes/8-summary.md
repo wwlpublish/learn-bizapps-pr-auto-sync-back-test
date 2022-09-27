@@ -2,11 +2,9 @@ Power Automate for desktop allows you to automate actions that are required in y
 
 In this module, you learned how to:
 
+- Install the Power Automate desktop.
+
 - Create a cloud flow.
-
-- Configure the on-premises data gateway to enable the cloud flow to run the desktop flow on your device.
-
-- Add the desktop flow to the new cloud flow.
 
 - Test the new cloud flow.
 

@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley   
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-platform-solution-architect
+ 
 title: "Solution architect series: Model security for Power Platform solutions"
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -18,7 +18,7 @@ abstract: |
     - Learn how to control access to environments and resources.
     - Learn how to control access to data in Dataverse.
 prerequisites: Experience working on Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer.
-iconUrl: /learn/achievements/model-security.svg  
+iconUrl: /training/achievements/model-security.svg  
 levels:  
 - advanced
 roles:  

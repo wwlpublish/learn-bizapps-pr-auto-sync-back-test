@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
- ms.prod: learning-power-platform-solution-architect
+ 
 title: "Solution Architect series: Explore Power Apps architecture"
 summary: |
   [!include[](../includes/module-banner.md)] 
@@ -19,7 +19,7 @@ abstract: |
     - Learn how to use components as part of your app architecture.
     - Discover when to include Power Apps portals as an app in your architecture.
 prerequisites: Experience working on Microsoft Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer.
-iconUrl: /learn/achievements/power-apps-architecture.svg
+iconUrl: /training/achievements/power-apps-architecture.svg
 levels:
 - advanced
 roles:

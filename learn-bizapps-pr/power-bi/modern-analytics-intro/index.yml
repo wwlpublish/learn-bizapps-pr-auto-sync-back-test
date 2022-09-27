@@ -19,7 +19,7 @@ abstract: |
     - Learn about the ecosystem of modern analytics and the roles of people in your organization who use the technologies.
     - Install and update modern analytics applications.
 prerequisites: Office 365/Excel 2016+
-iconUrl: /learn/achievements/modern-analytics-intro.svg  
+iconUrl: /training/achievements/modern-analytics-intro.svg  
 levels:  
 - beginner   
 roles:  

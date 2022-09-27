@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
-  
+ ms.subservice: nonprofit 
 title: Configure settings for Volunteer Management
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -18,7 +18,7 @@ abstract: |
     - Set up onboarding templates
     - Set up preference types
 prerequisites: None
-iconUrl: /learn/achievements/configure-volunteer-management-settings.svg  
+iconUrl: /training/achievements/configure-volunteer-management-settings.svg  
 levels:  
 - intermediate   
 roles:  

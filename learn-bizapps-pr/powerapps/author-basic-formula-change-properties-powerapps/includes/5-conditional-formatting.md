@@ -27,9 +27,9 @@ Color.Orange or any of the predefined colors in Power Apps. There is also
 a ColorValue and an RGBA function available. For more information, see
 [Power Apps Color enumeration and functions](/power-apps/maker/canvas-apps/functions/function-colors/?azure-portal=true).
 
-Another concept that can be applied is to reference the **Text**
+Another concept for application is to reference the **Text**
 property to determine the **Color** property. If your app needs to always show PASS in DarkGreen and FAIL in DarkRed, then you can use the
-following logic. Instead of repeating the same **If** logic in both
+logic in the Copy-box below. Instead of repeating the same **If** logic in both
 properties you can reference one property in another. Try replacing the
 formula in the **Color** property.
 
@@ -37,9 +37,7 @@ formula in the **Color** property.
 If(Label6.Text = "PASS", Color.DarkGreen,Color.DarkRed)
 ```
 
-This will get you the same result as before but now if you change your
-criteria for determining pass or fail you can update the logic in the
-Text property and the Color property will not need to be updated.
+Using this technique, if you modify your criteria for determining pass or fail, you can update the logic in the Text property and the Color property will not need to be updated.
 
 This was a simple example, but it demonstrates how you can quickly
 add conditional formatting to your canvas app to enhance the experience.

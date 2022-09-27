@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  ms.service: powerapps
 title: Create a model-driven application in Power Apps
 summary: |
   [!include[](../../includes/lp-banner.md)]
   This learning path introduces you to creating a model-driven app in Power Apps that uses Dataverse. 
 
-  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/learn/certifications/power-platform-app-maker/?azure-portal=true).
+  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/certifications/power-platform-app-maker/?azure-portal=true).
 
 prerequisites: |
   - Familiarity with Power Apps, Excel, and Power Automate. 
-iconUrl: /learn/achievements/create-app-models-business-processes.svg
+iconUrl: /training/achievements/create-app-models-business-processes.svg
 levels:
 - beginner
 roles:

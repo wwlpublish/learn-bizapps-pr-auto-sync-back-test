@@ -20,7 +20,7 @@ abstract: |
     - Review logs.
 prerequisites: |
     - Basic familiarity with the WinAutomation console and process designer
-iconUrl: /learn/achievements/process-monitoring-auditing.svg  
+iconUrl: /training/achievements/process-monitoring-auditing.svg  
 levels:  
 - beginner   
 roles:  

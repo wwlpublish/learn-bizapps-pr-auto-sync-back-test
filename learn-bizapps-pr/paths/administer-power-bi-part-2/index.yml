@@ -13,7 +13,7 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   As an administrator, how do you foster collaboration and share Power BI outputs? How do you monitor and audit usage, build a data access infrastructure, and automate administration? This course will demonstrate how Power BI Premium manages capacity resources. You’ll learn how to establish a data access infrastructure and how to share Power BI reports beyond your Power BI tenant. Finally, you’ll learn how to automate common tasks with Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell core.
 prerequisites: None
-iconUrl: /learn/achievements/administer-power-bi-p2.svg
+iconUrl: /training/achievements/administer-power-bi-p2.svg
 levels:
 - intermediate
 roles: 

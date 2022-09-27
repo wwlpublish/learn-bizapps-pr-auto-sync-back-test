@@ -19,7 +19,7 @@ abstract: |
     - Visually customize a custom form
 prerequisites: 
     A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml) and [how to handle variables](../pad-variables/index.yml).
-iconUrl: /learn/achievements/pad-custom-forms.svg  
+iconUrl: /training/achievements/pad-custom-forms.svg  
 levels:  
 - intermediate   
 roles:  

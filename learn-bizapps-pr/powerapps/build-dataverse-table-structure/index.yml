@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips  
  ms.author: jadaphillips
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ ms.subservice: dataverse-maker
 title: Build the Dataverse table schema for the model-driven app 
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -18,7 +18,7 @@ abstract: |
     - Create relationships between the tables that are used in the solution.
     - Discover the data model structure behind the model-driven app.
 prerequisites: Basic understanding of Microsoft model-driven apps and Microsoft Dataverse
-iconUrl: /learn/achievements/build-dataverse-table-structure.svg  
+iconUrl: /training/achievements/build-dataverse-table-structure.svg  
 levels:  
 - beginner   
 roles:  

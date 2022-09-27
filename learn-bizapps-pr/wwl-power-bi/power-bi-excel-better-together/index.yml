@@ -7,7 +7,7 @@ metadata:
   author: wwlpublish
   ms.author: bgeoffro
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerbi
+  ms.service: power-bi 
 title: 'Prepare to teach the module: Power BI & Excel better together'
 summary: Deliver the &quot;Power BI &amp; Excel better together&quot; module of instructor-led course &quot;Modern Excel Analyst in a day&quot; to teach your Data Analyst customers to use Excel and Power PI together.
 abstract: |
@@ -18,7 +18,7 @@ abstract: |
 prerequisites: |
   - Basic familiarity with data analysis and reporting tools.
   - Experience with Excel.
-iconUrl: /learn/achievements/power-bi-excel-better-together.svg
+iconUrl: /training/achievements/power-bi-excel-better-together.svg
 hidden: true
 levels:
 - intermediate

@@ -7,7 +7,7 @@ metadata:
  author: AshokSudhaMCRSOFT  
  ms.author: sudhaashok  
  ms.topic: interactive-tutorial  
-  
+ ms.subservice: sustainability
 title: Access Microsoft Sustainability Manager data
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -24,7 +24,7 @@ prerequisites: |
  - Working knowledge of Visual Studio 2019
  - An Azure subscription that’s linked to the same tenant where Sustainability Manager is deployed
  - An Azure user account is a member of the contributor or owner role, or the user is an administrator of the Azure subscription
-iconUrl: /learn/achievements/access-cloud-sustainability.svg  
+iconUrl: /training/achievements/access-cloud-sustainability.svg  
 levels:  
 - advanced  
 roles:  

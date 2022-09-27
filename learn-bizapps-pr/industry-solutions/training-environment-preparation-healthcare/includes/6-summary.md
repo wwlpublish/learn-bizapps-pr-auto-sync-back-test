@@ -1,11 +1,11 @@
-In this module, you learned how to set up a Microsoft Cloud for Healthcare trial environment. This module taught you how to do the following:
+In this module, you learned how to set up a Microsoft Cloud for Healthcare trial environment. This module taught you how to do the following tasks:
 
--   Set up a Microsoft 365 trial tenant
+- Create a Microsoft 365 trial tenant
 
--   Obtain the necessary trial licenses to deploy Microsoft Cloud for Healthcare
+- Obtain additional trial licenses required to deploy Microsoft Cloud for Healthcare
 
--   Assign and configure trial licenses
+- Register an app in Azure Active Directory
 
--   Create a Power Apps Portal
+- Create and configure a Dataverse environment
 
--   Deploy Microsoft Cloud for Healthcare
+- Assign security roles

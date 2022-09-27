@@ -7,14 +7,14 @@ metadata:
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial
-  ms.prod: learning-flow
+  ms.service: power-automate
 title: Share and collaborate with Power Automate
 summary: |
   [!include[](../../includes/lp-banner.md)]
   Collaborate effectively within Power Automate by using the comment feature, sharing flows, and buttons. This learning path will detail best practices when collaborating with others within Power Automate.
 prerequisites: |
   - Basic familiarity with Power Automate. 
-iconUrl: /learn/achievements/share-collaborate.svg
+iconUrl: /training/achievements/share-collaborate.svg
 levels:
 - beginner
 roles: 

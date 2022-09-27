@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
-  
+ ms.subservice: healthcare 
 title: Home health in Microsoft Cloud for Healthcare
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -20,7 +20,7 @@ abstract: |
 prerequisites: |  
     - Training environment preparation module
     - Care management module 
-iconUrl: /learn/achievements/home-health.svg  
+iconUrl: /training/achievements/home-health.svg  
 levels:  
 - intermediate   
 roles:  

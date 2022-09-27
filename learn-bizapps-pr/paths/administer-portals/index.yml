@@ -7,7 +7,8 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-apps
+  ms.service: powerapps
+  ms.subservice: portals
 title: Administer Power Apps portals
 summary: |
   [!include[](../../includes/lp-banner.md)]
@@ -18,7 +19,7 @@ prerequisites: |
   - Provisioned Power Apps portal from blank.
   - Understanding of how to navigate and customize the model-driven Power Apps.
   - Basic knowledge of other Microsoft technologies like SharePoint, Power BI, Azure Active Directory, is beneficial.
-iconUrl: /learn/achievements/administer-power-apps-portals.svg
+iconUrl: /training/achievements/administer-power-apps-portals.svg
 levels:
 - advanced
 roles: 

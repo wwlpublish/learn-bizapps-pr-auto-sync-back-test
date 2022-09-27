@@ -7,7 +7,8 @@ metadata:
   author: codemillmatt
   ms.author: masoucou
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  ms.service: power-apps
+  ms.subservice: dataverse-developer
   ms.custom:
   - team=cloud_advocates
   ms.contributors:
@@ -22,7 +23,7 @@ summary: |
   
 prerequisites: |
   - Passing familiarity with web development, Azure App Service, Azure API Management, and Power Apps.
-iconUrl: /learn/achievements/transform-with-fusion-development.svg
+iconUrl: /training/achievements/transform-with-fusion-development.svg
 levels:
 - beginner
 roles:

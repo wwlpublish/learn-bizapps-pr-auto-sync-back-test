@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ ms.subservice: portals
 title: Power Apps portals maintenance and troubleshooting
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -19,7 +19,7 @@ abstract: |
     - Learn about how the Portal Checker works and how to resolve potential portal issues.
     - Perform the portal update process.
 prerequisites: Basic understanding of Power Apps portals structure, knowledge of how the various portal components work together, and a good understand of Microsoft Dataverse and model-driven apps.
-iconUrl: /learn/achievements/portals-maintenance-troubleshooting.svg  
+iconUrl: /training/achievements/portals-maintenance-troubleshooting.svg  
 levels:  
 - intermediate   
 roles:  

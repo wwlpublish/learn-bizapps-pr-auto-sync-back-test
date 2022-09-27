@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips
  ms.author: jadaphillips
  ms.topic: interactive-tutorial
- ms.prod: learning-power-apps
+ 
 title: Deploy and refine your app like a pro
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -17,7 +17,7 @@ abstract: |
     - Deploy your app and help users discover it.
     - Get feedback and usage information to help refine your app.
 prerequisites: Basic Power Apps experience
-iconUrl: /learn/achievements/deploy-refine-app.svg
+iconUrl: /training/achievements/deploy-refine-app.svg
 levels:
 - intermediate
 roles:

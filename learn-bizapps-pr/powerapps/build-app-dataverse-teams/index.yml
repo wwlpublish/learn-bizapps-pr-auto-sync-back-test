@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ ms.subservice: dataverse-developer
 title: Build your first app with Power Apps and Dataverse for Teams
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -18,7 +18,7 @@ abstract: |
     - Customize and publish your app.
     - Install templates.
 prerequisites: Familiarity with Microsoft Teams
-iconUrl: /learn/achievements/build-app-dataverse-teams.svg  
+iconUrl: /training/achievements/build-app-dataverse-teams.svg  
 levels:  
 - beginner   
 roles:  

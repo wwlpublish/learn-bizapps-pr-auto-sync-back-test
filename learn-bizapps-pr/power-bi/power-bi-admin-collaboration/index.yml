@@ -19,7 +19,7 @@ abstract: |
     - Anticipate migration impact to Power BI users
     - Share, publish to the web, embed links and secure Power BI reports, dashboards, and content
 prerequisites: We recommend completing the [Dashboard in a Day](https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x1728241abcd&azure-portal=true) learning path before beginning this module.
-iconUrl: /learn/achievements/power-bi-admin-collaboration.svg  
+iconUrl: /training/achievements/power-bi-admin-collaboration.svg  
 levels:  
 - intermediate   
 roles:  

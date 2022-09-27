@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
-  
+ ms.subservice: financial 
 title: Gain customer insight with Unified customer profile in Financial Services
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -19,7 +19,7 @@ abstract: |
     - Edit customer details in Unified customer profile.
     - Extend the Unified customer profile application.
 prerequisites: Training environment preparation 
-iconUrl: /learn/achievements/finance-unified-customer-profile.svg  
+iconUrl: /training/achievements/finance-unified-customer-profile.svg  
 levels:  
 - intermediate   
 roles:  

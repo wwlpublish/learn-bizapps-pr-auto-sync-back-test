@@ -2,9 +2,38 @@ In this exercise, you'll build a data pipeline in Microsoft Azure Data Factory. 
 
 ## Task 1: Create a resource group in Azure
 
+In this task, you'll obtain a trial Azure subscription to utilize Azure Data factory and Data Lake in Microsoft Cloud for FSI.
+
+1. Using a InPrivate or Incognito window go to the [Microsoft Azure portal](https://portal.azure.com/?azure-portal=true) and sign in with the new credentials obtained while creating a new tenant in the earlier tasks and then select the **Start** button.
+    
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Azure portal login.](../media/azure-portal.png)](../media/azure-portal.png#lightbox)
+
+1. This opens the Azure free trial page in a new tab in the browser. Select **Start free**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Azure portal free trial.](../media/azure-start-free.png)](../media/azure-start-free.png#lightbox)
+
+1. The details you entered when you created the new tenant are auto populated on the sign-up page. Verify the profile details, and provide the phone number and validate it either using **Text** or **call**. Accept the customer agreement and select  **Next**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Azure portal personal details registration.](../media/azure-personal-data.png)](../media/azure-personal-data.png#lightbox)
+
+1. Enter your credit card details and select **Sign up**.
+
+    > [!NOTE]
+    > A credit card is only required to verify your identity. You'll not be charged unless you upgrade your subscription. Read the following articles to understand how to avoid charges with your [Azure free account.](//azure/cost-management-billing/manage/avoid-charges-free-account/)
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Azure portal credit card registration.](../media/azure-credit-card.png)](../media/azure-credit-card.png#lightbox)
+
+**Congratulations**, you've obtained a trial Azure subscription!
+
+## Task 2: Create a resource group in Azure
+
 In this task, you'll create a resource group to house your other Azure components. For more information, see [Manage Azure Resource Manager resource groups by using the Azure portal](/azure/azure-resource-manager/management/manage-resource-groups-portal/?azure-portal=true).
 
-1. Use an In-private or Incognito window and go to the [Microsoft Azure portal](https://portal.azure.com/?azure-portal=true).
+1. Using a InPrivate or Incognito window, go to the [Microsoft Azure portal](https://portal.azure.com/?azure-portal=true).
 
 1. In the search box, search for and select **Resource groups**.
 
@@ -47,9 +76,9 @@ In this task, you'll create a resource group to house your other Azure component
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Add role assignment on the Members tab with the Review + assign button showing.](../media/review-assign.png)](../media/review-assign.png#lightbox)
 
-Congratulations, you've created a resource group in Azure.
+**Congratulations**, you've created a resource group in Azure.
 
-## Task 2: Create an Azure storage account
+## Task 3: Create an Azure storage account
 
 In this task, you'll create a storage account within the resource group that you created in the previous task. An Azure storage account contains all your Azure storage data objects and provides a unique namespace for your Azure storage data. For more information, see [Azure storage documentation](/azure/storage/blobs/data-lake-storage-introduction/?azure-portal=true).
 
@@ -82,6 +111,13 @@ In this task, you'll create a storage account within the resource group that you
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Instance details page filled in and the Review + create button.](../media/instance-details.png)](../media/instance-details.png#lightbox)
+
+1. Go to the **Advanced** tab and select “Enable hierarchical namespace” under **Data Lake Storage Gen2**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Create a storage account page, showing the Advanced tab where you select the hierarchical namespace.](../media/create-storage-datalake.png)](../media/create-storage-datalake.png#lightbox)
+
+1. Select **Review + create**, and then **Create**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Create a storage account page, showing Validation passed and the Create button.](../media/storage-validation.png)](../media/storage-validation.png#lightbox)
@@ -155,9 +191,9 @@ In this task, you'll create a storage account within the resource group that you
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Review + assign button on the Add role assignment page.](../media/assign-role.png)](../media/assign-role.png#lightbox)
 
-Congratulations, you've created a storage account in your Azure resource group.
+**Congratulations**, you've created a storage account in your Azure resource group.
 
-## Task 3: Create a staging Azure container for Customer Insights
+## Task 4: Create a staging Azure container for Customer Insights
 
 In this task, you'll create an Azure container from the storage account that you created in the previous task. You'll use this Azure container as a staging area for data that will be ingested by Customer Insights. For more information, see [Azure Container Instances documentation](/azure/container-instances/?azure-portal=true).
 
@@ -193,7 +229,7 @@ In this task, you'll create an Azure container from the storage account that you
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Default permissions tab on the Manage ACL page, showing Dynamics 365 AI for Customer Insights with all three permission checkboxes selected.](../media/default.png)](../media/default.png#lightbox)
 
-1. Go to **Overview** and select **Add Directory**.
+1. Create the **Corpus** and **Resolved** folders and place the schema files in the **Resolved** folder. You'll use these schema files later in Azure Data Factory. Go to **Overview** and select **Add Directory**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the container overview showing the Add Directory button.](../media/add-directory.png)](../media/add-directory.png#lightbox)
@@ -208,18 +244,18 @@ In this task, you'll create an Azure container from the storage account that you
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Add Directory dialog with the Name field set to resolved.](../media/resolved.png)](../media/resolved.png#lightbox)
 
-1. Open the new **resolved** folder. Select **Upload** to upload the JSON files that were linked at the beginning of this task. You'll use these JSON files to transform the data for Customer Insights.
+1. Open the new **resolved** folder. Select **Upload** to upload the JSON files that were linked at the beginning of this task. (Upload only the **cdm files** and don’t upload the arm_template.json). You'll use these JSON files to transform the data for Customer Insights.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the container overview showing the list of JSON files.](../media/json.png)](../media/json.png#lightbox)
 
-Congratulations, you've created a staging Azure container for Customer Insights.
+**Congratulations**, you've created a staging Azure container for Customer Insights.
 
-## Task 4: Create a new Azure Synapse link
+## Task 5: Create a new Azure Synapse Link
 
-In this task, you'll create a new Microsoft Azure Synapse link to connect your Dataverse environment to your Azure storage account.
+In this task, you'll create a new Microsoft Azure Synapse Link to connect your Dataverse environment to your Azure storage account. You create this link to be able to use this data as our source CDM folder in our Azure Data Factory data flow.
 
-1. Use an In-Private or Incognito window and go to [Power Apps](https://make.powerapps.com/?azure-portal=true).
+1. Using a InPrivate or Incognito window, go to [Power Apps](https://make.powerapps.com/?azure-portal=true).
 
 1. Select the correct environment from the **Environment** dropdown menu in the upper-right corner.
 
@@ -231,7 +267,7 @@ In this task, you'll create a new Microsoft Azure Synapse link to connect your D
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Microsoft Azure Synapse Link for Dataverse showing the New link button.](../media/link.png)](../media/link.png#lightbox)
 
-1. Select your Azure **Subscription**, **Resource Group**, and **Storage account**, and then select **Next**.
+1. Select your Azure **Subscription**, **Resource Group**, and **Storage account**, and then select **Next**. (You'll see only the Storage accounts from the same region as your Dataverse environment.)
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the New link wizard on the Select Storage Account page showing the fields filled in.](../media/new-link.png)](../media/new-link.png#lightbox)
@@ -279,14 +315,14 @@ In this task, you'll create a new Microsoft Azure Synapse link to connect your D
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the New link wizard on the Add Tables page showing Life event added.](../media/add-tables.png)](../media/add-tables.png#lightbox)
 
-1. When you're finished adding the tables, the tables should populate with data. This action will also create a new Azure container in your storage account that you can use to run your data pipeline in Azure Data factory.
+1. When you're finished adding the tables, the tables should populate with data. This action creates a new Azure container in your storage account that you can use to run your data pipeline in Azure Data factory.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Tables tab showing the 18 tables that you added.](../media/tables.png)](../media/tables.png#lightbox)
 
-Congratulations, you've linked Dataverse to Azure Data Lake Storage by using Azure Synapse.
+**Congratulations**, you've linked Dataverse to Azure Data Lake Storage by using Azure Synapse.
 
-## Task 5: Create an Azure data factory
+## Task 6: Create an Azure data factory
 
 In this task, you'll create an Azure data factory within your Azure resource group. Microsoft Azure Data Factory is a cloud ETL service for scale-out, serverless data integration and data transformation. For more information, see [Azure Data Factory documentation](/azure/data-factory/?azure-portal=true).
 
@@ -325,11 +361,11 @@ In this task, you'll create an Azure data factory within your Azure resource gro
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Review + create tab on the Create Data Factory page, showing the Validation Passed message.](../media/validate.png)](../media/validate.png#lightbox)
 
-Congratulations, you've created an Azure data factory.
+**Congratulations**, you've created an Azure data factory.
 
-## Task 6: Run a data pipeline in Azure Data Factory
+## Task 7: Run a data pipeline in Azure Data Factory
 
-In this task, you'll run a data pipeline in your Azure Data Factory by using an Azure Resource Manager (ARM) template. This data pipeline will ingest the sample data from the storage container that is linked to your Microsoft Cloud for Financial Services Dataverse environment. Then, the data pipeline will move the sample data to the staging container to be ingested by Dynamics 365 Customer Insights. For more information, see [Pipelines and activities in Azure Data Factory and Azure Synapse Analytics](/azure/data-factory/concepts-pipelines-activities/?azure-portal=true).
+In this task, you'll run a data pipeline in your Azure Data Factory by using an Azure Resource Manager (ARM) template. This data pipeline ingests the sample data from the storage container that is linked to your Microsoft Cloud for Financial Services Dataverse environment. Then, the data pipeline moves the sample data to the staging container to be ingested by Dynamics 365 Customer Insights. For more information, see [Pipelines and activities in Azure Data Factory and Azure Synapse Analytics](/azure/data-factory/concepts-pipelines-activities/?azure-portal=true).
 
 1. In your Azure Data Factory, go to **Overview** and then select **Open Azure Data Factory Studio**.
 
@@ -393,9 +429,13 @@ In this task, you'll run a data pipeline in your Azure Data Factory by using an 
 
 1. Select the **Author** (pencil) icon. Expand and select the **Pipeline**, and then enter the following parameters:
 
-    - **pipFSICDM** - The full name of your storage container that is linked to Azure Synapse Link, for example, `dataverse-AZURESYNAPSE-unqab48050868e14fef9572fa91f02ff`
+    - **pipFSICDM** - The full name of your storage container that is linked to Azure Synapse Link, for example, `dataverse-AZURESYNAPSE-unqab48050868e14fef9572fa91f02ff`.
+    You can find this information at [Power Apps](https://make.powerapps.com/?azure-portal=true) and navigate to **Azure Synapse Link** go to **Details** tab copy it from the **File system** field.
 
-    - **pipCICDM** - The name of your Customer Insights staging storage container, for example, `cistagingcontainer`
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Azure Synapse Link in Power Apps portal.](../media/azure-synapse-link.png)](../media/azure-synapse-link.png#lightbox)
+
+    - **pipCICDM** - The name of your Customer Insights staging storage container, for example, `fsicistagingcontainer`
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Factory Resources page with Pipeline selected and parameters added.](../media/pipeline.png)](../media/pipeline.png#lightbox)
@@ -405,12 +445,12 @@ In this task, you'll run a data pipeline in your Azure Data Factory by using an 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Publish all dialog showing Pending changes and the Publish button.](../media/publish.png)](../media/publish.png#lightbox)
 
-1. To enable the data flow debug option, select the **Data flow debug** field and then select **OK**. You should receive a detailed error message if the pipeline fails to run. It will take a couple minutes for this process to complete.
+1. To enable the data flow debug option, select the **Data flow debug** field, and then select **OK**. You'll receive a detailed error message if the pipeline fails to run. It takes a few minutes for the process to complete.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Turn on data flow debug dialog.](../media/debug.png)](../media/debug.png#lightbox)
 
-1. After you have turned on the **Data flow debug** toggle, select **Debug** and then select **OK** to trigger the pipeline.
+1. After you've turned on the **Data flow debug** toggle, select **Debug** and then select **OK** to trigger the pipeline.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the editor showing the Data flow debug toggle turned on.](../media/data-flow-debug.png)](../media/data-flow-debug.png#lightbox)
@@ -428,4 +468,4 @@ In this task, you'll run a data pipeline in your Azure Data Factory by using an 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the data folder populating with folders.](../media/folder.png)](../media/folder.png#lightbox)
 
-Congratulations, you've successfully built and run a data pipeline in Azure Data Factory.
+**Congratulations!**, you've successfully built and run a data pipeline in Azure Data Factory.

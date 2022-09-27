@@ -1,4 +1,4 @@
-﻿### YamlMime:Module
+### YamlMime:Module
 uid: learn-bizapps.get-started-with-power-bi
 metadata:
   title: Get started building with Power BI 
@@ -20,7 +20,7 @@ abstract: |
   - Explore how Power BI can make your business more efficient.
   - Learn how to create compelling visuals and reports.
 prerequisites: None
-iconUrl: /learn/achievements/get-started-power-bi.svg
+iconUrl: /training/achievements/get-started-power-bi.svg
 levels:
 - beginner
 roles:
@@ -39,4 +39,3 @@ units:
 - learn-bizapps.get-started-with-power-bi.6-get-started-with-power-bi-quiz
 badge:
   uid: learn.get-started-power-bi.badge
-

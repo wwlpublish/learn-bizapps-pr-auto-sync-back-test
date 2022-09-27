@@ -7,14 +7,14 @@ metadata:
   author: wwlpublish
   ms.author: bgeoffro
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure
+  ms.service: power-bi 
 title: 'Prepare to teach the module: Visualize report data'
 summary: Explain, demonstrate, and deliver to your Data Analyst customers the “Working with parameters&quot; module of the instructor-led course “Power BI paginated reports”.
 abstract: |
   Teach the module  “Working with parameters&quot; in the instructor-led course “Power BI paginated reports”.
 prerequisites: |
   Experience with paginated reports
-iconUrl: /learn/achievements/visualize-report-data.svg
+iconUrl: /training/achievements/visualize-report-data.svg
 hidden: true
 levels:
 - intermediate

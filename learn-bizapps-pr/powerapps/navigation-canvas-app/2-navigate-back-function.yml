@@ -1,17 +1,14 @@
-﻿### YamlMime:ModuleUnit 
-uid: learn-bizapps.navigation-canvas-app.2-navigate-back-function 
+﻿### YamlMime:ModuleUnit
+uid: learn-bizapps.navigation-canvas-app.2-navigate-back-function
 title: The navigation and back function
-metadata: 
-  title: The navigation and back function 
-  description: The navigation and back function 
-  ms.date: 11/20/2020 
-  author: DaveBeasley
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-powerapps 
-   
-durationInMinutes: 9 
+metadata:
+  title: The navigation and back function
+  description: The navigation and back function
+  ms.date: 08/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: interactive-tutorial
+durationInMinutes: 9
 content: |
   [!include[](../includes/unit-banner.md)]
-  [!include[](includes/2-navigate-back-function.md)] 
-
+  [!include[](includes/2-navigate-back-function.md)]

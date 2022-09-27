@@ -1,1 +1,1 @@
-Microsoft Sustainability Manager is built on Microsoft Power Platform as a model-driven application. The application allows you to customize your dashboards by using Microsoft Power BI extensions to suit your organizational operations. 
+Microsoft Sustainability Manager is built on Microsoft Power Platform as a model-driven application. Through this application, you can customize your dashboards by using Microsoft Power BI extensions to suit your organizational operations. 

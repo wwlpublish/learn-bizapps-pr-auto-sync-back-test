@@ -7,7 +7,7 @@ metadata:
   author: wwlpublish
   ms.author: ceperezb
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  ms.service: power-platform
 title: Learn the basics of Power BI Desktop, Power Automate, and PowerApps
 prerequisites: |
   - Access to Power BI Desktop
@@ -16,7 +16,7 @@ prerequisites: |
   - Access to Microsoft Excel
 summary: |
   This learning path provides introductory level information on PowerApps, Power Automate, and Power BI.
-iconUrl: /learn/achievements/power-platform-introduction.svg
+iconUrl: /training/achievements/power-platform-introduction.svg
 hidden: true
 levels:
 - intermediate

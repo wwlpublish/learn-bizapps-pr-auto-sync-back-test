@@ -7,11 +7,11 @@ metadata:
  author: AshokSudhaMCRSOFT  
  ms.author: sudhaashok  
  ms.topic: interactive-tutorial  
-  
+ ms.subservice: sustainability
 title: Extend Microsoft Cloud for Sustainability
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  Microsoft Sustainability Manager is built on top of Microsoft Power Platform as a model-driven application. Microsoft Power Platform offers a set of low-code tools that help your teams stay agile and build solutions that move your business forward. Sustainability Manager is built from the ground up so that it can work together with strong security, management, and compliance, plus room to grow. This module explains how to use Microsoft Power Platform to create no-code, low-code extensions to the Sustainability Manager solution.
+  Microsoft Sustainability Manager is built on top of Microsoft Power Platform as a model-driven application. You get a set of low-code tools that can help your teams stay agile and build solutions that move your business forward. Sustainability Manager is built from the ground up to work together with strong security, management, and compliance&mdash;and still have room to grow.
 abstract: |  
     In this module, you'll: 
     - Use Microsoft Power Platform to create no-code extensions within Sustainability Manager.
@@ -22,7 +22,7 @@ abstract: |
 prerequisites: |
   - Access to the deployment of Microsoft Sustainability Manager with demo data installed 
   - Basic knowledge of working with Microsoft Power Platform
-iconUrl: /learn/achievements/extend-cloud-sustainability.svg  
+iconUrl: /training/achievements/extend-cloud-sustainability.svg  
 levels:  
 - intermediate   
 roles:  

@@ -21,7 +21,7 @@ abstract: |
     - Set up relationships in the data modeling view.
     - Identify differences and similarities between Tableau and Power BI concepts.
 prerequisites: Access to Power BI service. Familiarity with Tableau, and the following concepts in Tableau, level of detail calculations, data blending, connecting to data, and creating extracts.
-iconUrl: /learn/achievements/power-bi-tableau-data-connectivity.svg
+iconUrl: /training/achievements/power-bi-tableau-data-connectivity.svg
 levels:  
 - beginner   
 roles:  

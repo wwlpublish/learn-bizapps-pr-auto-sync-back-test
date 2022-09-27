@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
-  
+ ms.subservice: healthcare 
 title: Microsoft Cloud for Healthcare overview
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -18,7 +18,7 @@ abstract: |
     - Discover the basics of Microsoft Cloud for Healthcare.
     - Learn about priority healthcare scenarios and featured capabilities of the solution.
 prerequisites: None 
-iconUrl: /learn/achievements/healthcare-overview.svg  
+iconUrl: /training/achievements/healthcare-overview.svg  
 levels:  
 - beginner   
 roles:  

@@ -4,6 +4,8 @@ In the previous module, you saw all the licenses needed for the pre-requisite pl
 
 In this task, you'll create a Dynamics 365 Customer Service Trial Environment in which the FSI Data model and Applications will be installed on. Capabilities such as Banking Customer Engagement use the Dynamics 365 Customer Service.
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aEm]
+
 1. Navigate to [Dynamics 365 free trial](https://trials.dynamics.com/?azure-portal=true).
 
 1. Select **Try for free** on Dynamics 365 Customer Service card.
@@ -35,12 +37,13 @@ In this task, you'll create a Dynamics 365 Customer Service Trial Environment in
    :::image type="content" source="../media/customer-service-trial.png" alt-text="Screenshot of the customer service trial environment." lightbox="../media/customer-service-trial.png":::
 
 8. Update the name of the organization and the URL as preferred and click **Save**.
-   :::image type="content" source="../media/edit-details-save.png" alt-text="Screenshot of customer service trial environment edit details screen.":::
-
+   :::image type="content" source="../media/edit-details-save.png" alt-text="Screenshot of customer service trial environment edit details screen." :::
 
 ## Task 2: Install Customer Insights environment
 
 In this task, you'll see the Customer Insights installation process.
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aEn]
 
 1. Navigate to [Dynamics 365 Customer Insights](https://home.ci.ai.dynamics.com/startB2C/?azure-portal=true). Select the same Country/Region you selected in the previous task for Customer Service setup, and select **Continue**.
 
@@ -108,6 +111,8 @@ Upon successful creation of the Customer Insights Tenant, you can proceed forwar
 
 In this step, you'll see how to obtain a Microsoft Cloud for Financial Services Trial license.
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aEo]
+
 1. To obtain a trial license for Microsoft Cloud for Financial Services, navigate to this [Microsoft Form](https://aka.ms/FSITrial/?azure-portal=true) and fill out the required information.
 
 1. You'll then receive an email with a URL that contains an offer code that can be used to claim a 30-day trial license for Microsoft Cloud for Financial Services. Once you receive that email, copy the URL, open a new tab while logged into your tenant and paste the URL.
@@ -137,6 +142,8 @@ Now that you have the necessary licenses and platform elements created, in this 
 ### Setup Teams configurations
 
 In this step, you'll walk through the Microsoft Teams configuration settings to integrate with Dynamics 365 platform.
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57q5D]
 
 1. Using your tenant administrator credentials, navigate to [Power Platform admin center](https://admin.powerplatform.com/?azure-portal=true) and select your environment.
 
@@ -183,7 +190,7 @@ In this step, you'll walk through the Microsoft Teams configuration settings to 
 
 **Congratulations!**  You have enabled Microsoft Teams integration for Dynamics 365.
 
-### Create Power Apps portal
+## Task 5: Create Power Apps portal
 
 In this task, you'll create a Power Apps Portal that will be used as a sample portal by the Customer onboarding capability.
 
@@ -212,6 +219,6 @@ In this task, you'll create a Power Apps Portal that will be used as a sample po
 
     Your portal will provision in the background. Proceed only after the portal provisioning completes.
 
-    :::image type="content" source="../media/portal-provision.png" alt-text="Screenshot of the portal provisioning process in the background.":::
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the pop-up with message that portal provisioning is in progress.](../media/portal-provision.png)](../media/portal-provision.png#lightbox)
 
- 

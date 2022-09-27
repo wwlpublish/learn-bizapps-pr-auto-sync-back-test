@@ -20,7 +20,7 @@ abstract: |
     - Provide default and alternative behaviors for processes based on the environment data
 prerequisites: |
     - Basic familiarity with the WinAutomation Process Designer
-iconUrl: /learn/achievements/conditionals.svg  
+iconUrl: /training/achievements/conditionals.svg  
 levels:  
 - beginner   
 roles:  

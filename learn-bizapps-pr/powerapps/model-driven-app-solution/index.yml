@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ 
 title: Transform a business process to a model-driven app
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -18,7 +18,7 @@ abstract: |
     - Learn how to relate a Microsoft Excel-based solution to model-driven apps from Power Apps.
     - Gain insight into model-driven app design decisions.
 prerequisites: Basic understanding of Microsoft model-driven apps and Microsoft Dataverse
-iconUrl: /learn/achievements/model-driven-app-solution.svg  
+iconUrl: /training/achievements/model-driven-app-solution.svg  
 levels:  
 - beginner   
 roles:  

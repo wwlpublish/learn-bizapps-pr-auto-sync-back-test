@@ -7,7 +7,7 @@ metadata:
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
- ms.prod: learning-ai-builder  
+  
 title: Apply AI Builder Text Recognition in the transportation industry
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -22,7 +22,7 @@ prerequisites: |
     - A Power Apps or Power Automate [license](https://go.microsoft.com/fwlink/?linkid=2085130)
     - Access to [Microsoft Dataverse](https://powerapps.microsoft.com/common-data-service/)
     - [AI Builder](https://powerapps.microsoft.com/ai-builder/) add-on or trial 
-iconUrl: /learn/achievements/apply-ai-builder-text-recognition-transportation-industry.svg  
+iconUrl: /training/achievements/apply-ai-builder-text-recognition-transportation-industry.svg  
 levels:  
 - beginner   
 roles:  

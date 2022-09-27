@@ -13,7 +13,7 @@ summary: |
   [!include[](../../includes/lp-banner.md)]
   As an administrator, how do you manage a Power BI tenant? How do you configure tenant settings, monitor usage, and provision licenses and other organizational resources? This learning path covers typical tasks and tools, such as the Power BI admin portal and Office 365 admin center. You will learn how to establish and provide governance for a Power BI environment and provision Power BI Premium capacity.
 prerequisites: None
-iconUrl: /learn/achievements/administer-power-bi-p1.svg
+iconUrl: /training/achievements/administer-power-bi-p1.svg
 levels:
 - intermediate
 roles: 

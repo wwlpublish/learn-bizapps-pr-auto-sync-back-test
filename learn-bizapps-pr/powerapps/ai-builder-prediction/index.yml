@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ 
 title: Get started with AI Builder prediction
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -23,7 +23,7 @@ prerequisites: |
     - A Microsoft Power Apps license 
     - Access to Microsoft Dataverse 
     - An AI Builder add-on or trial
-iconUrl: /learn/achievements/ai-builder-prediction.svg  
+iconUrl: /training/achievements/ai-builder-prediction.svg  
 levels:  
 - beginner   
 roles:  

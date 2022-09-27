@@ -20,7 +20,7 @@ abstract: |
     - Explicitly end loops when required
 prerequisites: |
     A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml), and [how to handle list and data table variables](../pad-variables/index.yml).
-iconUrl: /learn/achievements/pad-loops.svg  
+iconUrl: /training/achievements/pad-loops.svg  
 levels:  
 - beginner   
 roles:  

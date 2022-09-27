@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ 
 title: Get started with AI Builder entity extraction  
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -24,7 +24,7 @@ prerequisites: |
     - An AI Builder add-on or trial
     - Email account that's set up with Microsoft Outlook 365
     - Microsoft Teams is set up for notifications
-iconUrl: /learn/achievements/ai-builder-entity-extraction.svg  
+iconUrl: /training/achievements/ai-builder-entity-extraction.svg  
 levels:  
 - beginner   
 roles:  

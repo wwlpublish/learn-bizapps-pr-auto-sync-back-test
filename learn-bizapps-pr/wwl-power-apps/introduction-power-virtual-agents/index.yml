@@ -7,7 +7,7 @@ metadata:
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  ms.service: power-virtual-agents 
   ms.custom: intro-internal
 title: Introduction to Power Virtual Agents
 summary: Learn about the value and capabilities of Power Virtual Agents and ways organizations can leverage this technology to build chatbot solutions for their business.
@@ -17,7 +17,7 @@ abstract: |
   -   Learn essential components that make up Power Virtual Agents and chatbots
 prerequisites: |
   None
-iconUrl: /learn/achievements/introduction-to-power-virtual-agents.svg
+iconUrl: /training/achievements/introduction-to-power-virtual-agents.svg
 levels:
 - beginner
 roles:

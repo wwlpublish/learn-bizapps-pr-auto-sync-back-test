@@ -7,7 +7,7 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley 
   ms.topic: interactive-tutorial  
-  ms.prod: learning-powerapps  
+  ms.subservice: dataverse-developer
 title: Use imperative development techniques for canvas apps in Power Apps 
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -19,7 +19,7 @@ abstract: |
     - Understand the variables in Power Apps
     - Understand when to utilize each of the three different types of variables
 prerequisites: A basic understanding of how to create a canvas app in Power Apps.     
-iconUrl: /learn/achievements/use-imperative-dev-techniques.svg  
+iconUrl: /training/achievements/use-imperative-dev-techniques.svg  
 levels:  
 - advanced   
 roles:  

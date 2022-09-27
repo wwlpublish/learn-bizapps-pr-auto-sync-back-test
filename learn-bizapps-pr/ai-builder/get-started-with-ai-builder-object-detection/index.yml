@@ -7,7 +7,7 @@ metadata:
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
- ms.prod: learning-ai-builder  
+  
 title: Detect objects with AI Builder
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -20,7 +20,7 @@ abstract: |
 prerequisites: |
     - A Power Apps or Power Automate [license](https://go.microsoft.com/fwlink/?linkid=2085130)
     - Access to [Microsoft Dataverse](https://powerapps.microsoft.com/common-data-service/)
-iconUrl: /learn/achievements/get-started-with-object-detection.svg  
+iconUrl: /training/achievements/get-started-with-object-detection.svg  
 levels:  
 - beginner   
 roles:

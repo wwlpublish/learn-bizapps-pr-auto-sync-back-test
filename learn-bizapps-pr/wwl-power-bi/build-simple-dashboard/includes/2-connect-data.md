@@ -2,7 +2,7 @@ Power BI Desktop connects to many types of data sources, including local databas
 
 You can connect Power BI Desktop to many types of data sources, including on-premises databases, Microsoft Excel workbooks, and cloud services. Currently, there are over 110 Power BI-specific connectors to cloud services such as GitHub and Marketo. You can also connect to generic sources through XML, CSV, text, and ODBC. Power BI will even extract tabular data directly from a website URL.
 
-In this module, we will build out a dashboard for Contoso Manufacturing displaying their sales data for various products. To follow along with the next steps, visit [https://docs.microsoft.com/power-bi/create-reports/sample-financial-download](/power-bi/create-reports/sample-financial-download) and download the financial sample workbook to your local files or One Drive.  If this is your first time using Power BI Desktop, please visit [https://docs.microsoft.com/power-bi/fundamentals/desktop-get-the-desktop](/power-bi/fundamentals/desktop-get-the-desktop) for download instructions.
+In this module, we will build out a dashboard for Contoso Manufacturing displaying their sales data for various products. To follow along with the next steps, visit [Download the Financial Sample Excel workbook for Power BI](/power-bi/create-reports/sample-financial-download) and download the financial sample workbook to your local files or One Drive.  If this is your first time using Power BI Desktop, please visit [Get Power BI Desktop](/power-bi/fundamentals/desktop-get-the-desktop) for download instructions.
 
 1. Start Power BI Desktop, and choose **Get Data** from the ribbon on the **Home** tab.
 

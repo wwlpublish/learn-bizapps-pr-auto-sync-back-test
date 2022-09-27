@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
-  
+ ms.subservice: retail
 title: Analyze insights with Microsoft Clarity
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -23,7 +23,7 @@ prerequisites: |
     - Latest version of .NET 6.0 SDK
     - C#
     - Azure App Service
-iconUrl: /learn/achievements/retail-clarity.svg  
+iconUrl: /training/achievements/retail-clarity.svg  
 levels:  
 - intermediate   
 roles:  

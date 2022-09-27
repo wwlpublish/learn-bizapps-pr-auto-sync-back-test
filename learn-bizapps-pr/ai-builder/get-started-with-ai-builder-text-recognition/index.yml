@@ -7,7 +7,7 @@ metadata:
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
- ms.prod: learning-d365-ai-builder
+  
  ms.custom: intro-internal
 title: Recognize text with AI Builder
 summary: |  
@@ -26,7 +26,7 @@ prerequisites: |
     - A Power Apps or Power Automate [license](https://go.microsoft.com/fwlink/?linkid=2085130)
     - Access to [Dataverse](https://powerapps.microsoft.com/common-data-service/)
     - [AI Builder](https://powerapps.microsoft.com/ai-builder/) add-on or trial 
-iconUrl: /learn/achievements/get-started-with-text-recognition.svg  
+iconUrl: /training/achievements/get-started-with-text-recognition.svg  
 levels:  
 - beginner   
 roles:

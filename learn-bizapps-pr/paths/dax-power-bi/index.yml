@@ -15,7 +15,7 @@ summary: |
   
   It starts by describing Power BI Desktop model structure and how it can be enhanced with DAX calculations. It then describes how you can write DAX formulas and the different types of model calculations, including calculated tables, calculated columns, and measures. Evaluation contexts are introduced, and subsequent lessons describe how to write DAX formulas that modify filter context. Finally, you learn to write DAX expressions by using time intelligence functions and iterator functions.
 prerequisites: None
-iconUrl: /learn/achievements/use-dax-power-bi-desktop.svg
+iconUrl: /training/achievements/use-dax-power-bi-desktop.svg
 levels:
 - intermediate
 roles: 

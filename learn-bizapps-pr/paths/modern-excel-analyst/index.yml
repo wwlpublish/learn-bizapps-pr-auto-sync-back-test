@@ -7,14 +7,14 @@ metadata:
   author: wwlpublish
   ms.author: bgeoffro
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerbi
+  ms.service: powerbi
 title: 'Prepare to teach the course: Modern Excel Analyst in a day'
 prerequisites: |
   - Basic familiarity with data analysis and reporting tools.
   - Experience with Excel and Power BI.
 summary: |
   Deliver to your Data Analyst customers the instructor-led course “Modern Excel Analyst in a day” that covers extending Excel with Power BI.
-iconUrl: /learn/achievements/modern-excel-analyst.svg
+iconUrl: /training/achievements/modern-excel-analyst.svg
 hidden: true
 levels:
 - intermediate

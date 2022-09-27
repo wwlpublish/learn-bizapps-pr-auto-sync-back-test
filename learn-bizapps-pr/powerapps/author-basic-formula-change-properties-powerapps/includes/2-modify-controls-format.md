@@ -40,14 +40,11 @@ the displayed format.
     you add the **Date picker** control, the **DefaultDate** is set to
     **Today().**
 
-1. Select the **Properties** drop-down menu, for the **Date picker** control.
-
-1. From the drop-down, select **Format**. By default, the **Format**
-    property is set to **DateTimeFormat.ShortDate**.
+1. Ensure that your **Date picker** control is selected, then select **Format** from the **Properties** drop-down menu at the top-left of the screen. By default, the **Format** property is set to **DateTimeFormat.ShortDate**.
 
 1. Update the Format property to be **DateTimeFormat.LongDate**. This
-    will change the display from the format of 6/30/2020 to Sunday, June
-    30, 2020.
+    will change the display from the format of 8/15/2022 to Monday, August
+    15, 2022.
 
 Another common request is to change the date format property from the
 format of month/day/year to day/month/year. This can be accomplished by

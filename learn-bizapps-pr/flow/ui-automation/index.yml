@@ -18,7 +18,7 @@ abstract: |
     - Discover the window and element-handling capabilities of WinAutomation.
 prerequisites: |
   - Basic familiarity with the WinAutomation Process Designer
-iconUrl: /learn/achievements/ui-automation.svg  
+iconUrl: /training/achievements/ui-automation.svg  
 levels:  
 - beginner   
 roles:  

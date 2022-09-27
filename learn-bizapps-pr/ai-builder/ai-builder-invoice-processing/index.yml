@@ -7,7 +7,7 @@ metadata:
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
- ms.prod: learning-ai-builder  
+  
 title: Extract invoice data with AI Builder’s prebuilt model 
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -17,7 +17,7 @@ abstract: |
     - Learn about AI Builder invoice processing.
     - Build a simple flow by using invoice processing with Microsoft Power Automate.
 prerequisites: A Power Automate or Power Apps license, access to Microsoft Dataverse, and an AI Builder add-on or trial.
-iconUrl: /learn/achievements/ai-builder-invoice-processing.svg
+iconUrl: /training/achievements/ai-builder-invoice-processing.svg
 levels:  
 - beginner
 roles:  

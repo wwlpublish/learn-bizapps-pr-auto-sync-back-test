@@ -7,7 +7,7 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial  
-  ms.prod: learning-powerapps  
+  
 title: Create formulas that use tables, records, and collections in a canvas app in Power Apps
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -20,7 +20,7 @@ abstract: |
     - Utilize the Countrows, CountIf, ForAll
     - Perform math operations on data in a table
 prerequisites: A basic understanding of how to create a canvas app in Power Apps.    
-iconUrl: /learn/achievements/author-advanced-formulas.svg  
+iconUrl: /training/achievements/author-advanced-formulas.svg  
 levels:  
 - advanced   
 roles:  

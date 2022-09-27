@@ -7,7 +7,7 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley  
   ms.topic: interactive-tutorial  
-  ms.prod: learning-power-platform  
+  ms.subservice: dataverse-developer
 title: Use custom connectors in a Power Apps canvas app
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -19,7 +19,7 @@ abstract: |
     - Understand the custom connector lifecycle
     - Use postman with a custom connector
 prerequisites: A basic understanding of how to create a Power Apps canvas app.      
-iconUrl: /learn/achievements/custom-connectors.svg  
+iconUrl: /training/achievements/custom-connectors.svg  
 levels:  
 - intermediate   
 roles:  

@@ -7,7 +7,7 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  
 title: Manage apps in Power Apps 
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -20,7 +20,7 @@ abstract: |
   - Learn about what environments are, how to create them, and how to manage security.
   - Find more information about Power Apps.
 prerequisites: None
-iconUrl: /learn/achievements/manage-apps-in-powerapps.svg
+iconUrl: /training/achievements/manage-apps-in-powerapps.svg
 levels: 
 - beginner
 roles: 

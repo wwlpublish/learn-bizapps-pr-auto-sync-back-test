@@ -20,7 +20,7 @@ abstract: |
     - Troubleshoot data by viewing its lineage. 
     - Configure data protection. 
 prerequisites: None 
-iconUrl: /learn/achievements/create-manage-workspaces-power-bi.svg  
+iconUrl: /training/achievements/create-manage-workspaces-power-bi.svg  
 levels:  
 - intermediate   
 roles:  

@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ ms.subservice: portals
 title: Access Dataverse in Power Apps portals 
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -21,7 +21,7 @@ abstract: |
     - Configure a table form to access individual records.
     - Trigger classic Dataverse workflows from the portal. 
 prerequisites: Basic understanding of how to navigate and configure Microsoft Power Apps portals and knowledge of how to customize and configure model-driven apps  
-iconUrl: /learn/achievements/portals-access-common-data-service.svg  
+iconUrl: /training/achievements/portals-access-common-data-service.svg  
 levels:  
 - intermediate   
 roles:  

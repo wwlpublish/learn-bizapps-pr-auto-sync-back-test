@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips
  ms.author: jadaphillips
  ms.topic: interactive-tutorial
- ms.prod: learning-power-apps
+ 
 title: Use AI Builder models in Power Apps
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -22,7 +22,7 @@ prerequisites: |
   - Access to Microsoft Dataverse
   - An AI Builder add-on or trial
   - Completion of the Bring AI to your business with AI Builder learning path
-iconUrl: /learn/achievements/use-ai-builder.svg
+iconUrl: /training/achievements/use-ai-builder.svg
 levels:
 - beginner
 roles:

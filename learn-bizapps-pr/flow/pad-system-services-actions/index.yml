@@ -18,7 +18,7 @@ abstract: |
     - Automate the management of Windows services with the service group of actions.
 prerequisites: |
     A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml).
-iconUrl: /learn/achievements/pad-system-services-actions.svg  
+iconUrl: /training/achievements/pad-system-services-actions.svg  
 levels:  
 - beginner   
 roles:  

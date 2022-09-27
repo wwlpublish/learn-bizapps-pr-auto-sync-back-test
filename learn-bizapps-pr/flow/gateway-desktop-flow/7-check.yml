@@ -4,29 +4,28 @@ title: Check your knowledge
 metadata: 
  title: Check your knowledge 
  description: Answer the following questions to see what you've learned. 
- ms.date: 11/01/2021
+ ms.date: 08/30/2022 
  author: DaveBeasley 
  ms.author: dbeasley 
  ms.topic: interactive-tutorial 
- 
 durationInMinutes: 3 
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: How is the recovery key for a gateway generated?
+  - content: Where can the Power Automate desktop flows creation be initiated?
     choices: 
-    - content: The user decides what they want their key to be.
-      isCorrect: true 
-      explanation: You choose what your key will be. Remember to write it down in a secure location.
-    - content: It is randomly generated after the gateway has been named.
+    - content: From the browser only in make.powerautomate.com.
       isCorrect: false 
-      explanation: Recovery keys are not randomly generated. Instead, they are chosen by the person who creates the gateway.
-    - content: It is randomly generated after the gateway has been registered.
+      explanation: The browser is not the only location a Power Automate desktop flows can be initiated. You can create it from the desktop as well.
+    - content: From the Power Automate desktop application only.
       isCorrect: false 
-      explanation: Recovery keys are not randomly generated. Instead, they are chosen by the person who creates the gateway.
-    - content: It is the name of your computer.
+      explanation: Power Automate desktop is not the only location that you can start creating the flow.
+    - content: Neither browser or desktop.
       isCorrect: false 
-      explanation: Recovery keys are chosen by the person who creates the gateway.
+      explanation: Initiation of building the Power Automate desktop flows can be done from the browser and the desktop.
+    - content: Both browser and desktop.
+      isCorrect: true  
+      explanation: Initiation of building the Power Automate desktop flows can be done from the browser and the desktop.
   - content: Which of the following is true regarding desktop and cloud flows?
     choices: 
     - content: Flows have to be initiated with manual triggers through Power Automate.

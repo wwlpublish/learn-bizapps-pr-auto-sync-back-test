@@ -7,13 +7,13 @@ metadata:
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-apps
+  ms.service: powerapps
 title: Create an expense report app from start to finish in Power Apps
 summary: |
   [!include[](../../includes/lp-banner.md)]
   Learn how to build an expense report app from start to finish. In this learning path, you will explore activities such as transforming a business process into an app, creating a data model, and sharing the app. You will also learn about the logic used throughout the application lifecycle. Learning the reasoning behind key decisions will help you better understand how the expense report app works. You can apply this knowledge to any app that you create in the future.
 prerequisites: A basic understanding of Microsoft Power Apps and Microsoft Dataverse.
-iconUrl: /learn/achievements/create-expense-report-app-start-finish.svg
+iconUrl: /training/achievements/create-expense-report-app-start-finish.svg
 levels:
 - beginner
 roles: 

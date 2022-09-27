@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ 
 title: Authentication and user management in Power Apps portals
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -22,7 +22,7 @@ abstract: |
     - Identify authentication provider capabilities and steps that are involved in the registration.
     - Select and configure identity providers.
 prerequisites: Basic understanding of how to navigate and customize model-driven apps and Power Apps portals. Basic knowledge of modern authentication concepts would be beneficial.
-iconUrl: /learn/achievements/authentication-user-management.svg  
+iconUrl: /training/achievements/authentication-user-management.svg  
 levels:  
 - intermediate   
 roles:  

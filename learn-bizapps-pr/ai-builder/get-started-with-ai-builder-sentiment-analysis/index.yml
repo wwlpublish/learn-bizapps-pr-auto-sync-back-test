@@ -7,7 +7,7 @@ metadata:
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
- ms.prod: learning-ai-builder  
+  
 title: Analyze the sentiment of text with AI Builder
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -21,7 +21,7 @@ prerequisites: |
     - A Power Apps or Power Automate [license](https://go.microsoft.com/fwlink/?linkid=2085130)
     - Access to [Microsoft Dataverse](https://powerapps.microsoft.com/common-data-service/)
     - [AI Builder](https://powerapps.microsoft.com/ai-builder/) add-on or trial
-iconUrl: /learn/achievements/get-started-with-sentiment-analysis.svg  
+iconUrl: /training/achievements/get-started-with-sentiment-analysis.svg  
 levels:  
 - beginner   
 roles:  

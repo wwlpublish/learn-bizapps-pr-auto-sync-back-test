@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
-  
+ ms.service: powerapps 
 title: Get started with the Return to School solution 
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -20,7 +20,7 @@ abstract: |
     - Launch and navigate the features of the Return to School solution.
     - Identify where to find next steps to configure the Return to School solution.
 prerequisites: None 
-iconUrl: /learn/achievements/return-school.svg  
+iconUrl: /training/achievements/return-school.svg  
 levels:  
 - beginner   
 roles:  

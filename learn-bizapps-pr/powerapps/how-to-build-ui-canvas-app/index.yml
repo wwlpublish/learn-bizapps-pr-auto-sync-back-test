@@ -7,7 +7,7 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial  
-  ms.prod: learning-powerapps  
+  
 title: How to build the UI in a canvas app in Power Apps 
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -19,7 +19,7 @@ abstract: |
     - Use personalization in a canvas app
     - Understand the differences between the Tablet and Mobile form factors
 prerequisites: A basic understanding of how to create a Power Apps canvas app.  General knowledge of Controls is also helpful but not required.      
-iconUrl: /learn/achievements/how-to-build-ui-canvas-app.svg  
+iconUrl: /training/achievements/how-to-build-ui-canvas-app.svg  
 levels:  
 - intermediate   
 roles:  

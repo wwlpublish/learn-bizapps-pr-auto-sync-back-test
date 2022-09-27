@@ -7,7 +7,8 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-apps
+  ms.service: powerapps
+  ms.subservice: portals
 title: Get Started with Power Apps portals
 summary: |
   [!include[](../../includes/lp-banner.md)]
@@ -16,7 +17,7 @@ summary: |
 prerequisites: |
   - Power Apps trial subscription.
   - Basic understanding how to navigate a model-driven app. 
-iconUrl: /learn/achievements/get-started-power-apps-portals.svg
+iconUrl: /training/achievements/get-started-power-apps-portals.svg
 levels:
 - intermediate
 roles: 

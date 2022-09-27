@@ -2,17 +2,17 @@ PL-900: Microsoft Power Platform Fundamentals gives students the opportunity to 
 
 Supplemental Resources: 
 
-- [Microsoft Learn](https://aka.ms/learn) 
+- [Microsoft Learn training](https://aka.ms/learn) 
+
+- [Microsoft Learn technical documentation](https://aka.ms/docs) 
 
 - [Microsoft Whiteboard](https://aka.ms/whiteboard) 
-
-- [Microsoft Technical Documentation](https://aka.ms/docs) 
 
 - [Customer and Partner Success Stories](https://aka.ms/customerstories) 
 
 - [Microsoft Learn for Educators](https://aka.ms/msle)  
 
-- [Microsoft Learn for Educators Portal ](https://aka.ms/MSLEPort)
+- [Microsoft Learn for Educators Portal](https://aka.ms/MSLEPort)
 
 - [Accessibility Technology and Tools](https://aka.ms/Microsoftaccessibility) 
 
@@ -22,7 +22,7 @@ Supplemental Resources:
 
 - [PL-900 Exam Page](https://aka.ms/PL900Exam) 
 
-- [Certification Overview Page](/learn/certifications/)  
+- [Certification Overview Page](/certifications/)  
 
 - [Process of Creating a Connector](https://aka.ms/createaconnector)  
 

@@ -14,4 +14,4 @@ In this module, you learned about the role of the solution architect in relation
 
 Your next steps are to look at Microsoft Power Platform architecture to learn about its capabilities and how to use its strengths to design solutions to business problems.
 
-For more information, see [Use best practices to secure and govern Microsoft Power Platform environments](/learn/paths/best-practices-environments/?azure-portal=true) and [Success by Design](/learn/paths/use-success-design/?azure-portal=true).
+For more information, see [Use best practices to secure and govern Microsoft Power Platform environments](/training/paths/best-practices-environments/?azure-portal=true) and [Success by Design](/training/paths/use-success-design/?azure-portal=true).

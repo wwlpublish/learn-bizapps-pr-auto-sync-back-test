@@ -7,13 +7,13 @@ metadata:
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-apps
+  ms.service: powerapps
 title: Design an accident tracking app in Power Apps
 summary: |
   [!include[](../../includes/lp-banner.md)]
   Learn how to build an employee accident tracking app from start to finish. In this learning path, you'll explore activities such as transforming a business process into a model-driven app, creating a data table, and adding a business process flow to the app.
 prerequisites: A basic understanding of Microsoft Power Apps and Microsoft Dataverse.
-iconUrl: /learn/achievements/design-accident-tracking-app.svg
+iconUrl: /training/achievements/design-accident-tracking-app.svg
 levels:
 - beginner
 roles: 

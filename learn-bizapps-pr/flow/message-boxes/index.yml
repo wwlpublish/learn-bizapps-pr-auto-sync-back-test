@@ -17,7 +17,7 @@ abstract: |
     - Familiarize yourself with the various preset message box actions
     - Create your own customized message box
 prerequisites: |
-iconUrl: /learn/achievements/message-boxes.svg  
+iconUrl: /training/achievements/message-boxes.svg  
 levels:  
 - beginner   
 roles:  

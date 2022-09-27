@@ -7,7 +7,7 @@ metadata:
   author: wwlpublish
   ms.author: bgeoffro
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerbi
+  ms.service: power-bi 
 title: 'Prepare to teach the module: Power BI & Office better together'
 summary: Deliver the fourth module of instructor-led course “Modern Excel Analyst in a day” to help your Data Analyst customers use Power BI integrated with MS Office Teams &amp; SharePoint Online.
 abstract: |
@@ -19,7 +19,7 @@ abstract: |
 prerequisites: |
   - Basic familiarity with data analysis and reporting tools.
   - Experience with Excel.
-iconUrl: /learn/achievements/power-bi-office-better-together.svg
+iconUrl: /training/achievements/power-bi-office-better-together.svg
 hidden: true
 levels:
 - intermediate

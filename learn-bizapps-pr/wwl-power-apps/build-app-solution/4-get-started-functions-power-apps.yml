@@ -8,7 +8,7 @@ metadata:
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-apps
+  ms.subservice: canvas-maker
 azureSandbox: false
 labModal: false
 durationInMinutes: 4

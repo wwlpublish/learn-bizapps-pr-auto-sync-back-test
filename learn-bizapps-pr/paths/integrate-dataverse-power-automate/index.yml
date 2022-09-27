@@ -8,6 +8,7 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-automate
+  ms.subservice: dataverse-developer
 title: Integrate Power Automate flows and Dataverse
 summary: |
   [!include[](../../includes/lp-banner.md)]
@@ -15,7 +16,7 @@ summary: |
 prerequisites: |
   - A basic understanding of Microsoft Power Automate. 
   - Familiarity with Microsoft Power Platform, Power Apps, and Azure Logic Apps
-iconUrl: /learn/achievements/integrate-dataverse-power-automate.svg
+iconUrl: /training/achievements/integrate-dataverse-power-automate.svg
 levels:
 - intermediate
 roles:

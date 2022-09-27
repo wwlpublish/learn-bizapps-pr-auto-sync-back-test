@@ -7,14 +7,14 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  ms.service: powerapps
 title: Use basic formulas to make better Power Apps canvas apps
 summary: |
 
   Do you want to use formulas to improve functionality and change a behavior in your Power Apps canvas app? This learning path can help you accomplish your goal.  
 prerequisites: |
   - Basic understanding of how to create canvas apps in Power Apps.
-iconUrl: /learn/achievements/use-basic-formulas.svg
+iconUrl: /training/achievements/use-basic-formulas.svg
 levels: 
 - intermediate
 roles: 

@@ -8,7 +8,7 @@ metadata:
   author: heyrob 
   ms.author: robde 
   ms.topic: interactive-tutorial 
-  ms.prod: d365-ai-builder 
+   
 durationInMinutes: 10
 content: | 
  [!include[](../includes/unit-banner.md)]

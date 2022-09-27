@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ 
 title: Build a mobile-optimized app from Power Apps
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -22,7 +22,7 @@ abstract: |
 prerequisites: |  
     - A Power Apps trial environment
     - Access to Microsoft Excel
-iconUrl: /learn/achievements/build-mobile-optimized.svg  
+iconUrl: /training/achievements/build-mobile-optimized.svg  
 levels:  
 - beginner   
 roles:  

@@ -7,7 +7,7 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  
   ms.custom: intro-internal
 title: Get started with Power Apps canvas apps
 summary: |
@@ -21,7 +21,7 @@ abstract: |
   - Learn about the different ways to build an app in Power Apps.
   - Create your first app from data in an Excel workbook.
 prerequisites: Access to Microsoft Excel and OneDrive for Business.
-iconUrl: /learn/achievements/get-started-with-powerapps.svg
+iconUrl: /training/achievements/get-started-with-powerapps.svg
 levels: 
 - beginner
 roles: 

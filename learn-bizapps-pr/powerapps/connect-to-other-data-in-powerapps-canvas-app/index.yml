@@ -7,7 +7,7 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-platform
+  
 title: Connect to other data in a Power Apps canvas app
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -19,7 +19,7 @@ abstract: |
     - Integrate user information and user-profile information into a canvas app
     - Use Power Automate with Power Apps
 prerequisites: A basic understanding of how to create a Power Apps canvas app.
-iconUrl: /learn/achievements/connect-other-data.svg
+iconUrl: /training/achievements/connect-other-data.svg
 levels:
 - intermediate
 roles:

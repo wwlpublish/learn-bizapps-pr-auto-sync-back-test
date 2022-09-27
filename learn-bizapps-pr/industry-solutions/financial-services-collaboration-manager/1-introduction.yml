@@ -4,11 +4,11 @@ title: Introduction
 metadata:
   title: Introduction
   description: Introduction to setting up Collaboration Manager for Loans within Microsoft Cloud for Financial Services
-  ms.date: 01/14/2022
+  ms.date: 08/24/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-   
+  ms.subservice: financial
 durationInMinutes: 3
 content: |
  [!include[](../includes/unit-banner.md)]

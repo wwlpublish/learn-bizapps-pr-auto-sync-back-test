@@ -18,7 +18,7 @@ abstract: |
     - Learn how to use the flow control group of actions to direct and manipulate the flow.
 prerequisites: |
     A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml).
-iconUrl: /learn/achievements/pad-flow-control.svg  
+iconUrl: /training/achievements/pad-flow-control.svg  
 levels:  
 - beginner   
 roles:  

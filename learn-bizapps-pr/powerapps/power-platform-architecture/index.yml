@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley   
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-platform-solution-architect
+ 
 title: "Solution Architect series: Power Platform architecture"
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -18,7 +18,7 @@ abstract: |
     - Explore how the platform's design and limits can influence solution architectures.
     - Review how to communicate with the customer on how the platform can meet their needs.
 prerequisites: Experience working on Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer
-iconUrl: /learn/achievements/power-platform-architecture.svg  
+iconUrl: /training/achievements/power-platform-architecture.svg  
 levels:  
 - advanced
 roles:  

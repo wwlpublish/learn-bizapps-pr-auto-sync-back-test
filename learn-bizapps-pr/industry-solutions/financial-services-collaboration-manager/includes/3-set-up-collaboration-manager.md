@@ -103,7 +103,7 @@ To retrieve the alias of your new Bookings business, reopen the current Bookings
 
 ## Task 5: Provide the settings to Collaboration Manager for Loans
 
-Now that you have the Group ID and the Bookings business ID, you can set them as values within the Collaboration Toolkit settings.
+Now that you have the Group ID and the Bookings business ID, you can set them as values within the Collaboration controls settings.
 
 1. Open [https://make.powerapps.com/](https://make.powerapps.com/?azure-portal=true).
 
