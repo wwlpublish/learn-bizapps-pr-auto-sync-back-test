@@ -7,8 +7,7 @@ There are hundreds of prebuilt connectors available to connect Power Apps to Mic
 
 Kiana and her team built the web APIs for the inventory management system and iterated on them over time. The system is complex and consists of many different APIs. Kiana's team decided to use [Azure API Management][az apim] to control and administer the web APIs from a central place.
 
-Kiana's team often uses Azure API Management's ability to expose specific web APIs publicly, but not others, by setting various policies. To learn more about Azure API Management, check out this Learn module, [Integrate Open API-enabled Web API with Azure API Management through Visual Studio][az learn apim].
-
+Kiana's team often uses Azure API Management's ability to expose specific web APIs publicly, but not others, by setting various policies. To learn more about Azure API Management, see [Integrate Open API-enabled Web API with Azure API Management through Visual Studio][az learn apim].
 
 ## Creating a custom connector ##
 
@@ -33,4 +32,4 @@ A custom connector is a wrapper around a web API, it allows Power Apps to commun
 
 [az apim]: /azure/api-management/api-management-key-concepts
 [az cuscon]: /connectors/custom-connectors/
-[az learn apim]: /learn/modules/integrate-openapi-enabled-web-api-with-apim-and-visual-studio/
+[az learn apim]: /training/modules/integrate-openapi-enabled-web-api-with-apim-and-visual-studio/

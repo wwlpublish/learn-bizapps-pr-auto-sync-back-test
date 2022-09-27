@@ -1,17 +1,14 @@
-﻿### YamlMime:ModuleUnit 
-uid: learn-bizapps.navigation-canvas-app.3-more-ways-to-use-navigate-function 
+﻿### YamlMime:ModuleUnit
+uid: learn-bizapps.navigation-canvas-app.3-more-ways-to-use-navigate-function
 title: More ways to use the navigation function
-metadata: 
-  title: More ways to use the navigation function 
-  description: More ways to use the navigation function 
-  ms.date: 11/20/2020 
-  author: DaveBeasley
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  ms.prod: learning-powerapps 
-   
-durationInMinutes: 8 
+metadata:
+  title: More ways to use the navigation function
+  description: More ways to use the navigation function
+  ms.date: 08/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: interactive-tutorial
+durationInMinutes: 8
 content: |
   [!include[](../includes/unit-banner.md)]
-  [!include[](includes/3-more-ways-to-use-navigate-function.md)] 
-
+  [!include[](includes/3-more-ways-to-use-navigate-function.md)]

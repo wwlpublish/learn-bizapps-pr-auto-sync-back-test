@@ -29,8 +29,8 @@ A solution architect needs to consider the roadmap that Microsoft publishes twic
 
 If you want to learn more about Microsoft Power Platform architecture, the Power CAT team has produced a series of videos on Microsoft Power Platform architecture and [best practices](https://www.youtube.com/playlist?list=PLi9EhCY4z99W2QOTgbwhFZEjpqc8YZDVH).
 
-For more information, see [Microsoft Power Platform best practices](/learn/paths/best-practices-environments/?azure-portal=true).
+For more information, see [Microsoft Power Platform best practices](/training/paths/best-practices-environments/?azure-portal=true).
 
-For more information on Dynamics 365 apps, see the [Dynamics 365 Fundamentals Learning Path](/learn/paths/dynamics-365-fundamentals/?azure-portal=true).
+For more information on Dynamics 365 apps, see the [Dynamics 365 Fundamentals Learning Path](/training/paths/dynamics-365-fundamentals/?azure-portal=true).
 
 The next steps are to look at data modeling in Microsoft Dataverse.

@@ -1,5 +1,7 @@
 In this exercise, you'll add and edit records and then observe how those changes reflect in Unified customer profile. Most of the information in Unified customer profile comes from financial core systems; hence, it's not editable. However, a few edit scenarios are supported and those scenarios are covered in this exercise.
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aY0]
+
 ## Task 1: Add, edit, and delete a life event
 
 In this task, you'll create a new life event, edit its details, and then delete it.

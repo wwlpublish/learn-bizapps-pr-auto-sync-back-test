@@ -19,7 +19,7 @@ abstract: |
     - Create a flow that extracts gainer stocks from the MSN website.
 prerequisites: |
     A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml), [UI elements](../pad-power-automate-desktop-development-essentials/index.yml) and [variables](../pad-variables/index.yml).
-iconUrl: /learn/achievements/pad-web.svg  
+iconUrl: /training/achievements/pad-web.svg  
 levels:  
 - beginner   
 roles:  

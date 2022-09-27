@@ -7,7 +7,7 @@ metadata:
  author: heyrob  
  ms.author: robde  
  ms.topic: interactive-tutorial  
- ms.prod: learning-ai-builder  
+  
 title: Process receipts with AI Builder
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -20,7 +20,7 @@ abstract: |
     - Build a simple flow by using receipt processing with Microsoft Power Automate.
 prerequisites: A Power Apps or Power Automate license, access to Microsoft Dataverse, and an AI Builder add-on or trial
 
-iconUrl: /learn/achievements/ai-builder-receipt-processing.svg  
+iconUrl: /training/achievements/ai-builder-receipt-processing.svg  
 levels:  
 - beginner   
 roles:  

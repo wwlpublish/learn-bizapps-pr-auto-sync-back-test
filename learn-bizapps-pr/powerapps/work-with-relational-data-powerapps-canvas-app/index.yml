@@ -3,11 +3,11 @@ uid: learn-bizapps.work-with-relational-data
 metadata:
   title: Work with relational data in a Power Apps canvas app
   description: Learn how to work with relational data in Power Apps canvas apps.
-  ms.date: 01/03/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-platform
+  
 title: Work with relational data in a Power Apps canvas app
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -19,7 +19,7 @@ abstract: |
     - Use relational data to improve an app user's experience in Power Apps
     - Understand how to use relational data in Microsoft Dataverse
 prerequisites: A basic understanding of how to create a Power Apps canvas app.
-iconUrl: /learn/achievements/work-with-relational-data.svg
+iconUrl: /training/achievements/work-with-relational-data.svg
 levels:
 - intermediate
 roles:

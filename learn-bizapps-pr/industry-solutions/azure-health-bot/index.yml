@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
-  
+ ms.subservice: healthcare
 title: Azure Health Bot in Microsoft Cloud for Healthcare
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -19,7 +19,7 @@ abstract: |
     -	Embed Azure Health Bot in a Power Apps Portal
     -	Extend Azure Health Bot with custom scenarios
 prerequisites: Training Environment Preparation, an Azure subscription with Administrator access, Dynamics 365 Customer Service for Omnichannel and Power Apps Customer Self-service Portal.
-iconUrl: /learn/achievements/azure-health-bot.svg
+iconUrl: /training/achievements/azure-health-bot.svg
 levels:
 - intermediate
 roles:

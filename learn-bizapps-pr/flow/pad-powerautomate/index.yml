@@ -23,7 +23,7 @@ prerequisites: |
     - A device that runs Windows 10 or Windows Server 2019.
     - Microsoft Edge (version 80 or later) or other supported browser.
     - An environment with a Dataverse database. 
-iconUrl: /learn/achievements/pad-power-automate.svg  
+iconUrl: /training/achievements/pad-power-automate.svg  
 levels:  
 - beginner   
 roles:  

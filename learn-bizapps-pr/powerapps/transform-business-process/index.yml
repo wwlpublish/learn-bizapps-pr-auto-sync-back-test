@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ 
 title: Transform a business process to a canvas app 
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -18,7 +18,7 @@ abstract: |
     - Learn how to apply these concepts to other business solutions.
     - Learn how to create a data model.
 prerequisites: Basic understanding of Microsoft Power Apps canvas apps
-iconUrl: /learn/achievements/transform-business-process.svg  
+iconUrl: /training/achievements/transform-business-process.svg  
 levels:  
 - beginner   
 roles:  

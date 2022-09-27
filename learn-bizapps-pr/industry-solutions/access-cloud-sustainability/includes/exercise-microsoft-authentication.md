@@ -113,13 +113,13 @@ To create a .NET 6 console app, follow these steps:
 
                 var client = new HttpClient
                 {
-                    // See https://docs.microsoft.com/powerapps/developer/data-platform/webapi/compose-http-requests-handle-errors#web-api-url-and-versions
+                    // See https://learn.microsoft.com/powerapps/developer/data-platform/webapi/compose-http-requests-handle-errors#web-api-url-and-versions
                     BaseAddress = new Uri(resource + "/api/data/v9.2/"),
                     Timeout = new TimeSpan(0, 2, 0)    // Standard two minute timeout on web service calls.
                 };
 
                 // Default headers for each Web API call.
-                // See https://docs.microsoft.com/powerapps/developer/data-platform/webapi/compose-http-requests-handle-errors#http-headers
+                // See https://learn.microsoft.com/powerapps/developer/data-platform/webapi/compose-http-requests-handle-errors#http-headers
                 HttpRequestHeaders headers = client.DefaultRequestHeaders;
                 headers.Authorization = new AuthenticationHeaderValue("Bearer", token.AccessToken);
                 headers.Add("OData-MaxVersion", "4.0");

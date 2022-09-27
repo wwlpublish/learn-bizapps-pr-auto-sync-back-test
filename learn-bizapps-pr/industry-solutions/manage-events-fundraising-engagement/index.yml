@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
-  
+ ms.subservice: nonprofit 
 title: Manage events in Fundraising and Engagement
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -19,7 +19,7 @@ abstract: |
     - Use registration packages to register event attendees
     - Set up tables for gala events and allocate registrations to tables
 prerequisites: None
-iconUrl: /learn/achievements/manage-events-fundraising-engagement.svg  
+iconUrl: /training/achievements/manage-events-fundraising-engagement.svg  
 levels:  
 - intermediate   
 roles:  

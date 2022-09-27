@@ -17,7 +17,7 @@ abstract: |
     - Learn about the role of custom connectors.
     - Build a connector and use it in a Power Automate flow.
 prerequisites: None
-iconUrl: /learn/achievements/get-started-custom-connector.svg  
+iconUrl: /training/achievements/get-started-custom-connector.svg  
 levels:  
 - intermediate   
 roles:  

@@ -15,7 +15,7 @@ summary: |
 prerequisites: |
   - A basic understanding of Microsoft Power Automate. 
   - Familiarity with Microsoft Power Platform, Power Apps, and Azure Logic Apps
-iconUrl: /learn/achievements/build-custom-connectors.svg
+iconUrl: /training/achievements/build-custom-connectors.svg
 levels:
 - intermediate
 roles:

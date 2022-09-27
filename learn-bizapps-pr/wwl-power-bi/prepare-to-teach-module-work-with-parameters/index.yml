@@ -7,14 +7,14 @@ metadata:
   author: wwlpublish
   ms.author: bgeoffro
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure
+  ms.service: power-bi 
 title: 'Prepare to teach the module: Work with parameters'
 summary: Explain, demonstrate, and deliver to your Data Analyst customers the “Retrieving report data” module of the instructor-led course “Power BI paginated reports”.
 abstract: |
   Teach the module “Retrieving report data” in the instructor-led course “Power BI paginated reports”.
 prerequisites: |
   Experience with Power BI paginated reports.
-iconUrl: /learn/achievements/work-with-parameters.svg
+iconUrl: /training/achievements/work-with-parameters.svg
 hidden: true
 levels:
 - intermediate

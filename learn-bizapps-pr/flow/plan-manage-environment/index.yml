@@ -20,7 +20,7 @@ abstract: |
     - Discover how to prevent cross-tenant connections.
     - Build DLP policy communication plans.
 prerequisites: A basic understanding of Power Apps and Power Automate, including their purpose and how these tools are used within an organization. In addition, students should be familiar with Microsoft Azure Active Directory as an authentication source and a cursory understanding of establishing connections by using Azure Active Directory. Participants should have environment or tenant-wide administrative access to Microsoft Power Platform Admin center and Power Automate Admin center. 
-iconUrl: /learn/achievements/plan-manage-environment.svg  
+iconUrl: /training/achievements/plan-manage-environment.svg  
 levels:  
 - intermediate   
 roles:  

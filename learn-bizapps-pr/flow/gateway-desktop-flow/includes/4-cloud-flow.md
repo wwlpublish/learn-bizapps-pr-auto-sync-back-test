@@ -20,15 +20,29 @@ When the screen changes to the flow builder, select **New step** and then search
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Run a flow built with Power Automate for desktop option.](../media/run-desktop-flow-action.png)](../media/run-desktop-flow-action.png#lightbox)
 
-In the **Gateway name** drop-down menu, select the gateway that you defined in the previous unit.
-
-If you can't find your gateway, you might need to delete this step and re-create the gateway to refresh the list. If your gateway still doesn't appear, you might need to restart the gateway on your PC and then retry the process.
-
-The next two fields request your credentials to sign in to your computer. If you're unsure what to enter in the **Domain and username** field, you can open a command prompt window by opening the **Start** menu in the taskbar, entering **CMD** in the search box, and then pressing the **Enter** key. When the command prompt opens, enter **Set user** and then press the **Enter** key.
-
-Several lines of code will appear. Separate the **user domain** and the **username** with a backslash (\), as shown in the following screenshot. Select **Create**.
+In the ***Desktop flow** drop-down menu, select **+ Create a new desktop flow**.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of desktop flow details.](../media/user-domain-user-name.png)](../media/user-domain-user-name.png#lightbox)
+> [![Screenshot of the create a new desktop flow action.](../media/create-new-desktop-flow.png)](../media/create-new-desktop-flow.png#lightbox)
 
-Now you've configured the basic connection to your desktop from your cloud flow. The next unit will configure the specific desktop flow that you previously created.
+In the **Build a desktop flow**, add the same flow name and then click on **Launch app**.
+
+> [!div class="mx-imgBorder"]
+> [![Screenshot of build a desktop flow window with name field and launch button.](../media/build-desktop-flow.png)](../media/build-desktop-flow.png#lightbox)
+
+This will automatically add the new flow in Power Automate Desktop and will open another window with the flow which is currently editing.
+
+> [![Screenshot of the desktop flow open.](../media/flow.png)](../media/flow.png#lightbox)
+
+Under Actions, search for **launch** and click on **Launch new Microsoft Edge**.
+
+> [![Screenshot of the launch new Microsoft Edge button.](../media/launch-edge.png)](../media/launch-edge.png#lightbox)
+
+In **Initial URL** add **https://powerautomate.microsoft.com** and then click on **Save**.
+
+> [![Screenshot of the initial U R L added.](../media/initial-url.png)](../media/initial-url.png#lightbox)
+
+Finally, click on the **Save** button and then close the window.
+
+> [!div class="mx-imgBorder"]
+> [![Screenshot of the save flow button.](../media/save-flow.png)](../media/save-flow.png#lightbox)

@@ -7,7 +7,7 @@ metadata:
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  ms.service: powerapps
 title: Functional Consultant skills
 summary: Learn about the functional consultant role and the key skills needed to be successful in this role on a Microsoft Power Platform project.
 abstract: |
@@ -17,7 +17,7 @@ abstract: |
   - Understand how functional consultants are expected to engage with stakeholders, perform quality assurance, and configure integrations on projects.
 prerequisites: |
   - None
-iconUrl: /learn/achievements/functional-consultant-skills.svg
+iconUrl: /training/achievements/functional-consultant-skills.svg
 levels:
 - intermediate
 roles:

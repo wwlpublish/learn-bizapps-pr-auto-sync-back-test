@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ ms.subservice: portals
 title: Build custom Power Apps portals web templates
 summary: |  
   [!include[](../includes/module-banner.md)]
@@ -21,7 +21,7 @@ abstract: |
     - Learn how to embed custom CSS and JavaScript into web templates.
     - Learn how to reference other web templates in a web template.
 prerequisites: Basic understanding of how to navigate and configure Power Apps portals and customize model-driven apps. Basic knowledge of Liquid template language and familiarity with JavaScript, HTML, CSS, and web application development would be beneficial.
-iconUrl: /learn/achievements/portal-custom-web.svg  
+iconUrl: /training/achievements/portal-custom-web.svg  
 levels:  
 - advanced  
 roles:  

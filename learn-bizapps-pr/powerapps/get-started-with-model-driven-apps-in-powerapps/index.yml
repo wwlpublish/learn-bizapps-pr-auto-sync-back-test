@@ -7,7 +7,7 @@ metadata:
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  
 title: Get started with model-driven apps in Power Apps
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -18,7 +18,7 @@ abstract: |
     - Learn about model-driven app design
     - Create a model-driven app
 prerequisites: A Microsoft Power Apps account. If you don't already have a Power Apps account, select the **Get started free** link on the Power Apps home page.
-iconUrl: /learn/achievements/get-started-with-model-driven-apps-in-powerapps.svg
+iconUrl: /training/achievements/get-started-with-model-driven-apps-in-powerapps.svg
 levels:  
 - beginner 
 roles:  

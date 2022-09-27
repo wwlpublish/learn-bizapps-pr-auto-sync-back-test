@@ -1,5 +1,7 @@
 In this exercise, you'll launch the Unified customer profile application and then navigate through the tabs and controls to learn about each component and how it connects to the data model.
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57y39]
+
 1. Go to [Microsoft Power Apps](http://make.powerapps.com/?azure-portal=true) in an In-Private or Incognito window.
 
 1. Select the proper **Environment** in the upper right.
@@ -12,7 +14,7 @@ In this exercise, you'll launch the Unified customer profile application and the
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Unified customer profile app selected.](../media/unified-customer-profile-app.png)](../media/unified-customer-profile-app.png#lightbox)
 
-1. The app should launch in a new tab and the **Contacts** view will open, showing a list of all contacts.
+1. The app should launch in a new tab and the **All Contacts** view will open, showing a list of all contacts.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the contacts view.](../media/contacts-view.png)](../media/contacts-view.png#lightbox)
@@ -28,15 +30,19 @@ Now that the Unified customer profile form has loaded, you can explore its indiv
 
 The **Summary** tab consists of the following Power Apps component framework controls that are componentized to provide the flexibility for you to choose and customize the views that you want to develop.
 
--   Customer snapshot
+- Customer snapshot
 
--   Life events
+- Customer segments
 
--   Financial holdings
+- Churn risk
 
--   Main household
+- Life events
 
--   Cards
+- Financial holdings
+
+- Main household
+
+- Cards
 
 1.  Examine the **Customer Snapshot** control. The customer snapshot shows personal information (for example, name, demographics, and branch information) and the preferred channel of communication. 
 
@@ -51,14 +57,13 @@ The **Summary** tab consists of the following Power Apps component framework con
 	| Customer snapshot field                                 | Table column mapping                                             |
 	|---------------------------------------------------------|------------------------------------------------------------------|
 	|     Grace Taylor(Sample)                              |     Contact.fullname                                             |
-	|     59, Married                                         |     Contact.Birthdate,   Contact.familystatuscode                |
-	|     Symbols for preferred symbols of communication    |     Contact.preferredcontactmethodcode                           |
+	|     ID                                                 |     Contact.govermentid                |
 	|     Phone                                               |     Contact.telephone1                                           |
 	|     Email                                               |     Contact.emailaddress1                                        |
 	|     Address                                             |     Contact.address1_composite                                   |
-	|     Primary Branch                                    |     Contact.msfsi_branch                                         |
 	|     Occupation                                          |     Contact.jobtitle                                             |
 	|     Annual Income                                     |     Contact.annualincome                                         |
+	|     Primary Branch                                    |     Contact.msfsi_branch                                         |
 
 1.  Examine the **Life events** control. It provides insight into the customer and their family's past and future milestones. It can help identify upcoming opportunities, devise personalized offers, and provide a consistent engagement experience. Each category in the **Life events** area, such as **Marital status**, can include multiple life event entries.
 

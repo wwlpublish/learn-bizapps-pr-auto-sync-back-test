@@ -7,15 +7,15 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  ms.service: powerapps
 title: Use advanced data options and connectors in Power Apps
 summary: |
 
   Do you want to improve the user's experience in your canvas app? Do you want to use custom connectors to connect to data? This learning path will help you do both things. It will also focus on working with data source limits.
 prerequisites: |
-  - The learning path [Work with data in a Power Apps canvas app](/learn/paths/work-with-data-in-a-canvas-app/?azure-portal=true) is recommended
-  - The learning path [Use the UI and controls in a canvas app in Power Apps](/learn/paths/ui-controls-canvas-app-powerapps/?azure-portal=true) is recommended 
-iconUrl: /learn/achievements/advanced-data-options-and-connectors.svg
+  - The learning path [Work with data in a Power Apps canvas app](/training/paths/work-with-data-in-a-canvas-app/?azure-portal=true) is recommended
+  - The learning path [Use the UI and controls in a canvas app in Power Apps](/training/paths/ui-controls-canvas-app-powerapps/?azure-portal=true) is recommended 
+iconUrl: /training/achievements/advanced-data-options-and-connectors.svg
 levels:
 - advanced
 roles:  

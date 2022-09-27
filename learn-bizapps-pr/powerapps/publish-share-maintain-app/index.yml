@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ 
 title: Publish, share, and maintain a canvas app 
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -18,7 +18,7 @@ abstract: |
     - Discover how to launch future iterations of the app.
     - Learn how to manage versions and publish your app.
 prerequisites: Basic understanding of Microsoft Power Apps canvas apps and Microsoft Dataverse
-iconUrl: /learn/achievements/publish-share-maintain-app.svg  
+iconUrl: /training/achievements/publish-share-maintain-app.svg  
 levels:  
 - beginner   
 roles:  

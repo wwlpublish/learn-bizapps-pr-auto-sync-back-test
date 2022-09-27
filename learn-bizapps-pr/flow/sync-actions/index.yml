@@ -20,7 +20,7 @@ abstract: |
 prerequisites: |
     - Basic familiarity with the WinAutomation Console and Process Designer
     - Basic familiarity with process development and variables 
-iconUrl: /learn/achievements/sync-actions.svg  
+iconUrl: /training/achievements/sync-actions.svg  
 levels:  
 - intermediate   
 roles:  

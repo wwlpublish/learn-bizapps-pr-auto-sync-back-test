@@ -19,7 +19,7 @@ abstract: |
 prerequisites: |
     - Basic familiarity with the WinAutomation Console and Process Designer.
     - Basic familiarity with process development and variables. 
-iconUrl: /learn/achievements/automating-email-handling.svg  
+iconUrl: /training/achievements/automating-email-handling.svg  
 levels:  
 - beginner   
 roles:  

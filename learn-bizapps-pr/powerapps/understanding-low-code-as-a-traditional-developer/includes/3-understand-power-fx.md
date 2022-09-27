@@ -14,15 +14,15 @@ And created a Power Fx formula from it. All that is different is that the refere
 
 ![Power Fx running inside of Power Apps with the formula: =RIGHT(Input.Text,LEN(Input.Text)-FIND("|",SUBSTITUTE(Input.Text," ","|",LEN(Input.Text)-LEN(SUBSTITUTE(Input.Text," ","")))))](../media/powerfx-last-word.gif)
 
-Not only does this same syntax and same functions work in Power Fx, but notice something else in the animation. As Input.Text changes (the top box), Label.Text (the bottom box) is automatically recalculated. The app is behaving like a spreadsheet, it is recalculating all the time, without the need for the app developer to add code to define how to make that happen.
+Not only does this same syntax and same functions work in Power Fx, but notice something else in the animation. As Input.Text changes (the top box), Label.Text (the bottom box) is automatically recalculated. The app is behaving like a spreadsheet, recalculating all the time without requiring the app developer to add code that specifies how to make that happen.
 
 ## A declarative app model
 
 Many traditional application development stacks feature an _imperative_ model for development across the stack. In other words, the app developer has to write code for everything that happens in the app: authentication & authorization, business logic, the user interface, server or cloud service configuration, and so on.
 
-Power Fx is a declarative language, just as Excel is. The developer defines what behavior they want, but it is up to the system to decide how and when to accomplish it. To make that practical, most work is done through pure functions without side effects, making Power Fx also a functional language.
+Power Fx is a declarative language, just as Excel is. The developer defines what behavior they want, but it's up to the system to decide how and when to accomplish it. To make that practical, most work is done through pure functions without side effects, making Power Fx also a functional language.
 
-Here is another more colorful example that uses a formula for the Fill color of the screen. As the sliders that control Red, Green, and Blue are changed, the background color automatically changes, as it is being recalculated:
+Here is another more colorful example that uses a formula for the Fill color of the screen. As the sliders that control Red, Green, and Blue are changed, the background color automatically changes as it's recalculated:
 
 ![Power Fx Formula: Fill = RGBA( RedSlider.Value, GreenSlider.Value, BlueSLider.Value, 100% )](../media/powerfx-slider.gif)
 
@@ -43,4 +43,4 @@ The logic for setting the label color is isolated from what is happening for the
 Now there is a time and a place for imperative, step-by-step logic, and Power Fx offers a place for that logic too. Apps write back changes to databases and start automations with the press of a button, while spreadsheets do not do these things. Whenever possible, for all the benefits cited above and consistency with Excel, we favor the declarative approach.
 
 > [!NOTE]
-> You can find more information on using imperative development techniques in another Learn module, [Use imperative development techniques for canvas apps in Power Apps](/learn/modules/use-imperative-dev-techniques-powerapps-canvas-app/?azure-portal=true).
+> You can find more information on using imperative development techniques in [Use imperative development techniques for canvas apps in Power Apps](/training/modules/use-imperative-dev-techniques-powerapps-canvas-app/?azure-portal=true).

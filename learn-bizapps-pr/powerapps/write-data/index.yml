@@ -7,7 +7,7 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley  
   ms.topic: interactive-tutorial  
-  ms.prod: learning-powerapps  
+  
 title: Write data in a Power Apps canvas app 
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -19,7 +19,7 @@ abstract: |
     - Configure a submit button to write data
     - Use and Understand the different form modes
 prerequisites: A basic understanding of how to create a Power Apps canvas app.  
-iconUrl: /learn/achievements/write-data.svg  
+iconUrl: /training/achievements/write-data.svg  
 levels:  
 - intermediate   
 roles:  

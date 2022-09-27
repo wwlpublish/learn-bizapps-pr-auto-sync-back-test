@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
- ms.prod: learning-power-apps
+ ms.subservice: portals
 title: Work with Liquid template language in Power Apps portals
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -20,7 +20,7 @@ abstract: |
     - Differentiate Liquid tags, objects, and filters.
     - Discover how to use FetchXML to show Dataverse data.
 prerequisites: Basic understanding of Power Apps portals webpages and page templates. Knowledge of Dataverse entities and relationships and also familiarity with JavaScript, HTML, Cascading Style Sheets (CSS), and web application development would be beneficial.
-iconUrl: /learn/achievements/liquid-template-language.svg
+iconUrl: /training/achievements/liquid-template-language.svg
 levels:
 - intermediate
 roles:

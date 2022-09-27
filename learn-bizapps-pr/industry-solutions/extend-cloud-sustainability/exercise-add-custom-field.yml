@@ -1,14 +1,14 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.extend-cloud-sustainability.exercise-add-custom-field 
-title: Exercise - Add a custom field in an existing form 
+title: Exercise - Add a custom field to an existing form 
 metadata: 
-  title: Exercise - Add a custom field in an existing form 
-  description: Learn how you can add more descriptive details to your facility.
+  title: Exercise - Add a custom field to an existing form 
+  description: In this exercise, you'll add more descriptive details to your facility.
   ms.date: 07/07/2022 
   author: AshokSudhaMCRSOFT 
   ms.author: sudhaashok 
   ms.topic: interactive-tutorial 
-   
+  ms.subservice: sustainability
 durationInMinutes: 15 
 content: | 
  [!include[](../includes/unit-banner.md)] 

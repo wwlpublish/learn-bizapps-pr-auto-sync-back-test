@@ -20,7 +20,7 @@ abstract: |
     - Create personal bookmarks  
     - Analyze and export data 
 prerequisites: Access to Power BI service 
-iconUrl: /learn/achievements/analyze-explore-data-power-bi.svg  
+iconUrl: /training/achievements/analyze-explore-data-power-bi.svg  
 levels:  
 - beginner   
 roles:  

@@ -14,7 +14,7 @@ abstract: |
   Teach the module &quot;Retrieving report data” in the instructor-led course “Power BI paginated reports”.
 prerequisites: |
   Experience with paginated reports
-iconUrl: /learn/achievements/retrieve-report-data.svg
+iconUrl: /training/achievements/retrieve-report-data.svg
 hidden: true
 levels:
 - intermediate

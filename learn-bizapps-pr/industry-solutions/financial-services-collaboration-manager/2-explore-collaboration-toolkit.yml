@@ -1,14 +1,14 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.financial-services-collaboration-manager.2-explore-collaboration-toolkit
-title: Explore the Collaboration Toolkit data model
+title: Explore the Collaboration controls data model
 metadata:
-  title: Explore the Collaboration Toolkit data model
-  description: Learn how to navigate Collaboration Toolkit tables, settings, and relationships.
-  ms.date: 01/14/2022
+  title: Explore the Collaboration controls data model
+  description: Learn how to navigate Collaboration controls tables, settings, and relationships.
+  ms.date: 08/24/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-   
+  ms.subservice: financial
 durationInMinutes: 4
 content: |
  [!include[](../includes/unit-banner.md)]

@@ -18,7 +18,7 @@ abstract: |
     - Build a flow accepts user input when run
     - Create a flow that blocks time on a calendar
 prerequisites: You must have signed up for Power Automate, and have a OneDrive for Business account.
-iconUrl: /learn/achievements/manage-user-information.svg
+iconUrl: /training/achievements/manage-user-information.svg
 levels:
 - beginner
 roles:

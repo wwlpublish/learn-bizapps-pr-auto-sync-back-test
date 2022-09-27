@@ -55,7 +55,7 @@ Power Apps uses a couple of formulas in every app that it generates. Both exampl
 * The first formula is associated with the **IconNewItem1** control ![New item icon](../media/powerapps-icon-add-item.png). Select this control to open the edit/create screen where you can create an item. To view the formula, select the ![New item icon](../media/powerapps-icon-add-item.png) and then select it in the formula bar. The formula is as follows:
 
   ```powerappsfl
-  NewForm(EditForm1);Navigate(EditScreen, ScreenTransition.None)
+  NewForm(EditForm1);Navigate(EditScreen1, ScreenTransition.None)
   ```
 
   The formula instantiates an edit page on the edit/create screen so that users can create an item. A value of `ScreenTransition.None` means that there's no transition, such as a fade, between screens.
@@ -72,4 +72,4 @@ The app contains many other formulas, so take some time to select controls and d
 
 For more information about these and other functions, see [formula reference for Power Apps](/power-apps/maker/canvas-apps/formula-reference/?azure-portal=true) page. This page is a good one to bookmark for future use!
 
-For more information on customizing a canvas app, see [Use the UI and controls in a canvas app in Power Apps](/learn/paths/ui-controls-canvas-app-powerapps/?azure-portal=true) learning path and the [Use basic formulas to make a better canvas app in Power Apps](/learn/paths/use-basic-formulas-powerapps-canvas-app/?azure-portal=true) learning path.
+For more information on customizing a canvas app, see [Use the UI and controls in a canvas app in Power Apps](/training/paths/ui-controls-canvas-app-powerapps/?azure-portal=true) learning path and the [Use basic formulas to make a better canvas app in Power Apps](/training/paths/use-basic-formulas-powerapps-canvas-app/?azure-portal=true) learning path.

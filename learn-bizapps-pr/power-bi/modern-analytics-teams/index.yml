@@ -17,7 +17,7 @@ abstract: |
     - Share a Power BI report or visuals within Microsoft Teams and SharePoint Online
     - Develop Power BI reports based on SharePoint Online data
 prerequisites: Microsoft Teams and SharePoint
-iconUrl: /learn/achievements/modern-analytics-teams.svg  
+iconUrl: /training/achievements/modern-analytics-teams.svg  
 levels:  
 - intermediate   
 roles:  

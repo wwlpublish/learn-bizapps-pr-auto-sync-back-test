@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ 
 title: Make your app like a pro
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -19,7 +19,7 @@ abstract: |
     - Set up automation.
     - Make your app more secure.
 prerequisites: Basic Microsoft Dataverse experience
-iconUrl: /learn/achievements/make-app.svg  
+iconUrl: /training/achievements/make-app.svg  
 levels:  
 - beginner   
 roles:  

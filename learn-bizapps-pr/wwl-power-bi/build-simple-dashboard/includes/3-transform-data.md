@@ -1,4 +1,4 @@
-Data doesn't always come into your report clean, or ready to use. You may need additional columns or to rename or hide existing columns. You may have multiple data sources and need to define a relationship between them. All of these tasks are known as data transformation. While we will go over a couple of tasks here, you can explore this topic further [Model Data in Power BI](/learn/modules/model-data-power-bi/).
+Data doesn't always come into your report clean, or ready to use. You may need additional columns or to rename or hide existing columns. You may have multiple data sources and need to define a relationship between them. All of these tasks are known as data transformation. While we will go over a couple of tasks here, you can explore this topic further [Model Data in Power BI](/training/modules/model-data-power-bi/).
 
 ## Custom Columns
 
@@ -44,4 +44,3 @@ We've explored Edit Queries and the Report building tab, but there are many ways
 
 The Relationships tab is used for defining relationships between multiple tables or data sources. Relationships allow visuals to understand how data from multiple tables work together.
     ![Relationships](../media/relationships-tab.png)
-

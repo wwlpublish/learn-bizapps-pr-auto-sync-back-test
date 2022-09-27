@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ 
 title: Design your app like a pro
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -18,7 +18,7 @@ abstract: |
     - Prepare the specifications and designs of your app.
     - Decide what the user experience will be.
 prerequisites: Basic solutions and delivery process experience
-iconUrl: /learn/achievements/design-app.svg  
+iconUrl: /training/achievements/design-app.svg  
 levels:  
 - beginner   
 roles:  

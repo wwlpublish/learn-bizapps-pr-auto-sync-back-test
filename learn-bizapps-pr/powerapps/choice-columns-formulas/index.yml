@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips
  ms.author: jadaphillips
  ms.topic: interactive-tutorial
- ms.prod: learning-power-apps
+ ms.subservice: dataverse-developer
 title: Use Dataverse choice columns with formulas
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -21,7 +21,7 @@ prerequisites: |
   - An environment with Microsoft Dataverse
   - Basic Microsoft Power Apps maker experience
   - Fundamental knowledge of setting up Microsoft Dataverse
-iconUrl: /learn/achievements/choice-columns-formulas.svg
+iconUrl: /training/achievements/choice-columns-formulas.svg
 levels:
 - intermediate
 roles:

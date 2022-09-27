@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
-  
+ ms.subservice: financial 
 title: Customer onboarding in Microsoft Cloud for Financial Services
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -19,7 +19,7 @@ abstract: |
     - Embed the Loan Tracker app in Microsoft Teams.
     - Submit and approve a loan.
 prerequisites: Training environment preparation
-iconUrl: /learn/achievements/financial-services-customer-onboarding.svg  
+iconUrl: /training/achievements/financial-services-customer-onboarding.svg  
 levels:  
 - intermediate   
 roles:  

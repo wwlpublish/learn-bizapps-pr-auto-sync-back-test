@@ -2,7 +2,7 @@ Creating and running automation systems in Power Automate requires that you have
 
 If you've completed the *Build your first Power Automate for desktop flow* module, you can skip to the next unit.
 
-## Create a trial environment with database
+## Create a trial environment with a database
 
 After you've signed in to a valid tenant, go to the [Microsoft Power Platform admin center](https://admin.powerplatform.microsoft.com/environments/?azure-portal=true). You'll need to create a trial environment with a database. Select **Environments** and then select your automatically created environment, the **default**.
 

@@ -3,11 +3,11 @@ uid: learn-bizapps.financial-training-environment-preparation
 metadata:
  title: Financial Services training environment preparation
  description: Learn how to prepare an environment for Microsoft Cloud for Financial Services.
- ms.date: 05/11/2022
+ ms.date: 08/25/2022
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
-  
+ ms.subservice: financial 
 title: Financial Services training environment preparation
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -18,7 +18,7 @@ abstract: |
     - Learn how to obtain trial licenses for all Microsoft Cloud for Financial Services required applications.
     - Learn how to set up a Microsoft Cloud for Financial Services training environment.
 prerequisites: You must have a Global Administrator role in your Microsoft 365 tenant to complete the exercises in this module.
-iconUrl: /learn/achievements/financial-training-environment-preparation.svg
+iconUrl: /training/achievements/financial-training-environment-preparation.svg
 levels:
 - intermediate
 roles:

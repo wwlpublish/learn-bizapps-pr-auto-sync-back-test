@@ -55,7 +55,7 @@ display a random ID.
 Math functions with tables
 --------------------------
 
-In the module, [Author a basic formula to change properties in Power Apps canvas apps](/learn/modules/author-basic-formula-change-behaviors-powerapps/?azure-portal=true), you learned about the aggregation functions for
+In the module, [Author a basic formula to change properties in Power Apps canvas apps](/training/modules/author-basic-formula-change-behaviors-powerapps/?azure-portal=true), you learned about the aggregation functions for
 summing, averaging, and other operation on numbers. Now you can apply
 that same concept to a table.
 

@@ -19,7 +19,7 @@ abstract: |
     - Work with charts and tables on the report. 
     - Publish the report. 
 prerequisites: Power BI paginated reports are a feature of Power BI Premium 
-iconUrl: /learn/achievements/create-paginated-reports-power-bi.svg  
+iconUrl: /training/achievements/create-paginated-reports-power-bi.svg  
 levels:  
 - intermediate   
 roles:  

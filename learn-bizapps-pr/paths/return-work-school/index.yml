@@ -7,13 +7,14 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.service: power-apps
+  ms.service: powerapps
+  ms.subservice: canvas-maker
 title: Safely return to work and school using solutions
 summary: |
   [!include[](../../includes/lp-banner.md)]
   Reopen responsibly, monitor intelligently, and protect continuously with capabilities for a safer environment. This Learning Path covers both the Return to School and Return to the Workplace solutions. 
 prerequisites: None.
-iconUrl: /learn/achievements/return-work-school.svg
+iconUrl: /training/achievements/return-work-school.svg
 levels:
 - beginner
 roles: 

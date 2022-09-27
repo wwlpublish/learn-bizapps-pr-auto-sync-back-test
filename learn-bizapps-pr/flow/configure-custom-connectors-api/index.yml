@@ -19,7 +19,7 @@ abstract: |
     - Use a graph API from a custom connector.
     - Share and move between environments.
 prerequisites: Experience with Microsoft Power Platform and Power Automate. 
-iconUrl: /learn/achievements/configure-custom-connectors-api.svg  
+iconUrl: /training/achievements/configure-custom-connectors-api.svg  
 levels:  
 - intermediate   
 roles:  

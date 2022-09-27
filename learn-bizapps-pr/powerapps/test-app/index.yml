@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ 
 title: Test your app like a pro
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -17,7 +17,7 @@ abstract: |
     - Identify the types of testing that you can complete on your app.
     - Plan and complete three types of tests on your app.
 prerequisites: Moderate Power Apps experience
-iconUrl: /learn/achievements/test-app.svg  
+iconUrl: /training/achievements/test-app.svg  
 levels:  
 - beginner   
 roles:  

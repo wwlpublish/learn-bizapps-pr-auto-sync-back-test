@@ -1,4 +1,4 @@
-Before you begin this course, we recommend that you first complete the [Get started with AI Builder](/learn/modules/get-started-with-ai-builder/?azure-portal=true) module.
+Before you begin this course, we recommend that you first complete the [Get started with AI Builder](/training/modules/get-started-with-ai-builder/?azure-portal=true) module.
 
 The invoice processing prebuilt AI model extracts key invoice data to help automate the processing of invoices. The Invoice processing model is optimized to recognize common invoice elements like invoice ID, invoice date, amount due and more.
 

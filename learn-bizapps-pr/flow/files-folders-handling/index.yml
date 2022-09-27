@@ -19,7 +19,7 @@ abstract: |
 prerequisites: |
     - Basic familiarity with WinAutomation
     - Basic familiarity with managing files, folders, and paths
-iconUrl: /learn/achievements/files-folders-handling.svg  
+iconUrl: /training/achievements/files-folders-handling.svg  
 levels:  
 - beginner   
 roles:  

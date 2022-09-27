@@ -21,7 +21,7 @@ abstract: |
     - Create a simple log message.
 prerequisites: |
     - Installed WinAutomation
-iconUrl: /learn/achievements/first-steps-winautomation.svg  
+iconUrl: /training/achievements/first-steps-winautomation.svg  
 levels:  
 - beginner   
 roles:  

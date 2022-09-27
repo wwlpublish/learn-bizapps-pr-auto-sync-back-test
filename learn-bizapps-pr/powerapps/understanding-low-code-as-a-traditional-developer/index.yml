@@ -10,7 +10,7 @@ metadata:
   author: ghurlman
   ms.author: grhurl
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  ms.subservice: dataverse-developer
   ms.custom:
   - team=cloud_advocates
   ms.contributors:
@@ -22,7 +22,7 @@ abstract: |
   - Modify an app using Power Fx
 prerequisites: |
   -  Access to Microsoft Excel and OneDrive for Business.
-iconUrl: /learn/achievements/understanding-low-code-development-as-a-traditional-developer.svg
+iconUrl: /training/achievements/understanding-low-code-development-as-a-traditional-developer.svg
 ratingEnabled: false
 levels:
   - beginner

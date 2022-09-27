@@ -19,7 +19,7 @@ abstract: |
 prerequisites: |
     - Basic familiarity with the WinAutomation Console and Process Designer
     - Basic familiarity with process development and variables 
-iconUrl: /learn/achievements/ocr-technologies.svg  
+iconUrl: /training/achievements/ocr-technologies.svg  
 levels:  
 - intermediate   
 roles:  

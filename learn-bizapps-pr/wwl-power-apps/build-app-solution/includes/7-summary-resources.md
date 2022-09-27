@@ -36,9 +36,8 @@ Use these resources to discover more.
 
 ### Further Learning
 
-- [Navigation in a canvas app in Power Apps](/learn/modules/navigation-canvas-app/)
+- [Navigation in a canvas app in Power Apps](/training/modules/navigation-canvas-app/)
 
-- [Customize a canvas app in Power Apps](/learn/modules/customize-apps-in-powerapps/)
+- [Customize a canvas app in Power Apps](/training/modules/customize-apps-in-powerapps/)
 
-- [Manage apps in Power Apps](/learn/modules/manage-apps-in-powerapps/index)
-
+- [Manage apps in Power Apps](/training/modules/manage-apps-in-powerapps/index)

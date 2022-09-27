@@ -8,7 +8,8 @@ metadata:
   author: Randall-Knapp
   ms.author: chsims
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  ms.service: power-apps
+  ms.subservice: canvas-maker
 title: Challenge Project - Build a booking requests app with Power Apps and Power Automate
 summary: |
   Create your own data model, app, and flow to support a scenario for a fictional company. You'll be provided with high-level specifications on the custom tables, columns, canvas app, and flows needed to complete this project.
@@ -23,7 +24,7 @@ prerequisites: |
   - Experience creating custom tables and columns in Dataverse
   - Experience building Power Apps canvas apps
   - Experience building Power Automate cloud flows
-iconUrl: /learn/achievements/challenge-project-build-booking-requests-app-with-power-apps-power-automate.svg
+iconUrl: /training/achievements/challenge-project-build-booking-requests-app-with-power-apps-power-automate.svg
 levels: 
   - intermediate
 roles: 

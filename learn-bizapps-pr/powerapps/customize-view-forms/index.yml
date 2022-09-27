@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ 
 title: Customize views and forms for model-driven apps
 summary: | 
   [!include[](../includes/module-banner.md)] 
@@ -18,7 +18,7 @@ abstract: |
     - Learn how to modify table views.
     - Learn how to modify table forms.
 prerequisites: Basic understanding of Microsoft model-driven apps and Microsoft Dataverse
-iconUrl: /learn/achievements/custom-view-forms.svg  
+iconUrl: /training/achievements/custom-view-forms.svg  
 levels:  
 - beginner   
 roles:  

@@ -30,7 +30,7 @@ Use these resources to discover more.
 
 ### Microsoft Dataverse
 
-- [Introduction to Microsoft Dataverse](/learn/modules/intro-common-data-service/)
+- [Introduction to Microsoft Dataverse](/training/modules/intro-common-data-service/)
 
 - [Microsoft Dataverse Documentation](/powerapps/maker/common-data-service/data-platform-intro)
 
@@ -40,18 +40,18 @@ Use these resources to discover more.
 
 ### Tables, columns, and relationships
 
-- [Create and Manage Tables in Microsoft Dataverse](/learn/modules/create-manage-entities/)
+- [Create and Manage Tables in Microsoft Dataverse](/training/modules/create-manage-entities/)
 
 - [Complex tables](/powerapps/maker/common-data-service/data-platform-complex-entities)
 
 - [Restricted tables requiring Dynamics 365 licenses](/powerapps/maker/common-data-service/data-platform-restricted-entities)
 
-- [Create and manage columns within a table in Microsoft Dataverse](/learn/modules/create-manage-fields-within-entity/)
+- [Create and manage columns within a table in Microsoft Dataverse](/training/modules/create-manage-fields-within-entity/)
 
-- [Create a relationship between tables in Microsoft Dataverse](/learn/modules/create-relationship-between-cds-entities/)
+- [Create a relationship between tables in Microsoft Dataverse](/training/modules/create-relationship-between-cds-entities/)
 
 ### Relationships and business rules
 
-- [Create and manage environments in Microsoft Dataverse](/learn/modules/create-manage-environments/1-intro)
+- [Create and manage environments in Microsoft Dataverse](/training/modules/create-manage-environments/1-intro)
 
-- [Define and create business rules in Microsoft Dataverse](/learn/modules/define-create-business-rules/)
+- [Define and create business rules in Microsoft Dataverse](/training/modules/define-create-business-rules/)

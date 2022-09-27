@@ -19,7 +19,7 @@ abstract: |
     - Importing data from various data sources into Power BI.
     - Importing existing data models and Power Query solutions from Excel into Power BI.
 prerequisites: Office 365 and Excel 2016+
-iconUrl: /learn/achievements/modern-analytics-transition.svg  
+iconUrl: /training/achievements/modern-analytics-transition.svg  
 levels:  
 - intermediate   
 roles:  

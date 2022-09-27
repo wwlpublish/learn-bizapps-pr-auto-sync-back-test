@@ -19,7 +19,7 @@ abstract: |
 prerequisites: |
     - Basic familiarity with WinAutomation
     - An SQL database with at least one table that contains data
-iconUrl: /learn/achievements/database-handling.svg  
+iconUrl: /training/achievements/database-handling.svg  
 levels:  
 - intermediate   
 roles:  

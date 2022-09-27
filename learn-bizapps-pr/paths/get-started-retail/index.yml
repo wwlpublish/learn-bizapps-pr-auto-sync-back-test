@@ -8,6 +8,7 @@ metadata:
   ms.author: sudhaashok
   ms.topic: interactive-tutorial
   ms.service: industry
+  ms.subservice: retail
 title:  Get started with Microsoft Cloud for Retail
 summary: |
   [!include[](../../includes/lp-banner.md)]
@@ -15,8 +16,8 @@ summary: |
   
   In this Learning Path, you’ll gain a foundational understanding of Microsoft Cloud for Retail and its core components. You'll be guided through hands-on exercises as you configure, extend, and integrate retail applications deployed through Microsoft Cloud for Retail using Dynamics 365, Power Platform, Microsoft 365, and Azure in your own environment. You'll dive into various modules to explore the Microsoft Cloud for Retail applications, including maximizing value for the data, elevating the shopping experience, building real-time, sustainable supply chain, and empowering store associate.
 prerequisites: |
-  - To complete the exercises in this Learning Path, complete the module on [environment preparation](/learn/modules/retail-capability-mapping/).
-iconUrl: /learn/achievements/get-started-retail.svg
+  - To complete the exercises in this Learning Path, complete the module on [environment preparation](/training/modules/retail-capability-mapping/).
+iconUrl: /training/achievements/get-started-retail.svg
 levels:
 - intermediate
 roles:

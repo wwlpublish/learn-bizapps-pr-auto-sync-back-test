@@ -334,7 +334,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/learn/breadcrumb/toc.json",
+      "breadcrumb_path": "/training/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "ms.suite": "office",
       "feedback_system": "None",
@@ -352,13 +352,21 @@
           "flow/**/*.yml": ["Power Platform ", "Power Automate"],                               
           "wwl-power-automate/**/*.yml": ["Power Platform ", "Power Automate"],                               
           "ai-builder/**/*.yml": ["Power Platform ", "AI Builder"]                               
-      }
+      },
+      "ms.service": {
+        "ai-builder/**/*.yml": "aibuilder",
+        "industry-solutions/**/*.yml": "industry",
+        "flow/**/*.yml": "power-automate",
+        "power-bi/**/*.yml": "powerbi",
+        "power-virtual-agents/**/*.yml": "power-virtual-agents",
+        "powerapps/**/*.yml": "powerapps",
+        "wwl/**/*.yml": "powerapps",
+        "wwl-power-apps/**/*.yml": "powerapps",
+        "wwl-power-automate/**/*.yml": "power-automate",
+        "wwl-power-bi/**/*.yml": "powerbi"
+      },
     },
-    "ms.service": {
-      "industry-solutions/**/*.yml": "industry",
-      "flow/**/*.yml": "power-automate",
-      "power-virtual-agents/**/*.yml": "power-virtual-agents"
-    },
+    
     "template": [],
     "dest": "learn-bizapps-pr",
     "markdownEngineName": "markdig",
@@ -370,25 +378,31 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
         ],
         "dyn365-customer-service/**/*.yml": [
           "ar-sa",
+          "zh-cn",
           "de-de",
           "es-es",
           "fr-fr",
           "it-it",
+          "zh-cn",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
         ],
         "dyn365-field-service/**/*.yml": [
           "ar-sa",
           "de-de",
           "es-es",
           "fr-fr",
+          "zh-cn",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
         ],
         "dyn365-marketing/**/*.yml": [
           "ar-sa",
@@ -396,8 +410,10 @@
           "es-es",
           "fr-fr",
           "it-it",
+          "zh-cn",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
         ],
         "flow/**/*.yml": [
           "ar-sa",
@@ -406,7 +422,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
         ],
         "power-bi/**/*.yml": [
           "de-de",
@@ -431,7 +448,8 @@
           "fi-fi",
           "sk-sk",
           "el-gr",
-          "th-th"
+          "th-th",
+          "zh-cn"
         ],
         "powerapps/**/*.yml": [
           "ar-sa",
@@ -440,7 +458,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
         ]
   }
 }

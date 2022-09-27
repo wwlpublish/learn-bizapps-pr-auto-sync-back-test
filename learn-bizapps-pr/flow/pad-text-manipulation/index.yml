@@ -19,7 +19,7 @@ abstract: |
     - Manipulate text type variables for input and output in actions and flows.
 prerequisites: |
     A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml), and familiarity with manipulating text.
-iconUrl: /learn/achievements/pad-text-manipulation.svg  
+iconUrl: /training/achievements/pad-text-manipulation.svg  
 levels:  
 - intermediate   
 roles:  

@@ -4,11 +4,11 @@ title: Create a model-driven app
 metadata:
   title: Create a model-driven app
   description: "Create a model-driven app"
-  ms.date: 06/15/2022
+  ms.date: 08/25/2022
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  ms.subservice: mda-maker
 azureSandbox: false
 labModal: false
 durationInMinutes: 25

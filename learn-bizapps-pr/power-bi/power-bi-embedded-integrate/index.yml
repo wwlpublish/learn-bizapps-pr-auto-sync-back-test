@@ -24,7 +24,7 @@ abstract: |
     - Develop solutions that respond to subscribable events.
     - Create dynamic report layouts.
 prerequisites: Experience developing web apps, creating Power BI workspaces and content, and programmatically embedding Power BI content
-iconUrl: /learn/achievements/power-bi-embedded-integrate.svg
+iconUrl: /training/achievements/power-bi-embedded-integrate.svg
 levels:
 - advanced
 roles:

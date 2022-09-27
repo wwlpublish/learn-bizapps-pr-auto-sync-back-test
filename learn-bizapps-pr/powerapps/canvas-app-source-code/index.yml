@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
- ms.prod: learning-power-apps  
+ 
 title: Work with canvas app source code
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -19,7 +19,7 @@ abstract: |
 prerequisites: |
     - An environment with Microsoft Dataverse
     - Basic Microsoft Power Apps maker experience
-iconUrl: /learn/achievements/canvas-app-source-code.svg  
+iconUrl: /training/achievements/canvas-app-source-code.svg  
 levels:  
 - intermediate   
 roles:  

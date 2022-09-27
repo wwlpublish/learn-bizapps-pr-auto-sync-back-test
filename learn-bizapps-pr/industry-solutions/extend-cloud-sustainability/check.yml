@@ -8,16 +8,16 @@ metadata:
  author: AshokSudhaMCRSOFT 
  ms.author: sudhaashok 
  ms.topic: interactive-tutorial 
-  
+ ms.subservice: sustainability
 durationInMinutes: 6
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: A customer uses Microsoft Sustainability Manager output with data from financial operations to create extensive reports for their stakeholders. Which of the following Power BI extensions will help them achieve this goal?
+  - content: A customer wants to use Microsoft Sustainability Manager output with data from financial operations to create extensive reports for their stakeholders. Which of the following Power BI extensions can help them achieve this goal?
     choices: 
     - content: Add a custom Power BI report
       isCorrect: true 
-      explanation: Correct. A custom Power BI report will allow the customer to create a custom dashboard for their stakeholders.
+      explanation: Correct. A custom Power BI report allows customers to create custom dashboards for their stakeholders.
     - content: Add an inventory management plan
       isCorrect: false 
       explanation: Incorrect. Adding an inventory management plan to Sustainability Manager helps provide easier access to that plan within the solution.
@@ -26,32 +26,32 @@ quiz:
       explanation: Incorrect. A shared workspace enables collaboration with multiple stakeholders.
     - content: Create a Power Automate notification
       isCorrect: false 
-      explanation: Incorrect. A Power Automate notification allows the customer to automate a task, get or send notifications, and track the completion of tasks.
-  - content: A customer would like to track different attributes about their facility. How can they accomplish this task?
+      explanation: Incorrect. A Power Automate notification allows customers to automate tasks, get or send notifications, and track the completion of tasks.
+  - content: A customer wants to track various attributes of their facility. How can they accomplish this task?
     choices: 
     - content: Add a custom Power BI report
       isCorrect: false 
-      explanation: Incorrect. A custom Power BI report will allow the customer to create a custom dashboard for their stakeholders.
+      explanation: Incorrect. A custom Power BI report allows customers to create custom dashboards for their stakeholders.
     - content: Extend the data model to add a Facility Type field
       isCorrect: true 
-      explanation: Correct. Extending the data model by adding a custom field to an existing table, and displaying that custom field on the application is the way to add more attributes to facilities.
+      explanation: Correct. Customers can extend the data model by adding a custom field to an existing table. Displaying it on the application is the way to add attributes to their facility.
     - content: Create a shared workspace
       isCorrect: false 
-      explanation: Incorrect. A shared workspace enables collaboration with multiple stakeholders.
+      explanation: Incorrect. A shared workspace enables customers to collaborate with multiple stakeholders.
     - content: Create a Power Automate notification
       isCorrect: false 
-      explanation: Incorrect. A Power Automate notification allows the customer to automate a task, get or send notifications, and track the completion of tasks.
-  - content: A customer would like to create a notification workflow. Which of the following service should the customer use?
+      explanation: Incorrect. A Power Automate notification allows customers to automate tasks, get or send notifications, and track the completion of tasks.
+  - content: A customer wants to create a notification workflow. Which of the following services should they use?
     choices: 
     - content: Power BI
       isCorrect: false 
       explanation: Incorrect. Power BI is used for dashboards and visualization of data.
-    - content: PowerApps
+    - content: Power Apps
       isCorrect: false 
-      explanation: Incorrect. PowerApps is used as a low code, no code extension of the platform.
+      explanation: Incorrect. Power Apps is used as a low-code, no-code extension of the platform.
     - content: Power Automate
       isCorrect: true
-      explanation: Correct. Power Automate is used to create custom workflows
+      explanation: Correct. Power Automate is used to create custom workflows.
     - content: Workflow isn't supported
       isCorrect: false 
-      explanation: Incorrect. workflow is supported by Power Automate
+      explanation: Incorrect. Workflow is supported by Power Automate.

@@ -85,7 +85,7 @@ When a facility is in a phase that allows the workforce to return in any capacit
 
 ## Employee Return to the Workplace app
 
-As an authenticated user, you can schedule a time for your building entry by using the Employee Return to the Workplace *canvas app*. The app allows you to review the status of a facility to determine eligibility of building entry, share employee sentiment of the safety of returning to work, and submit necessary information for obtaining a building entry pass. Users need to have at least one of the Return to the Workplace security roles associated with their user record. For more information, see [Get started with security roles in Dataverse](/learn/modules/get-started-security-roles/?azure-portal=true).
+As an authenticated user, you can schedule a time for your building entry by using the Employee Return to the Workplace *canvas app*. The app allows you to review the status of a facility to determine eligibility of building entry, share employee sentiment of the safety of returning to work, and submit necessary information for obtaining a building entry pass. Users need to have at least one of the Return to the Workplace security roles associated with their user record. For more information, see [Get started with security roles in Dataverse](/training/modules/get-started-security-roles/?azure-portal=true).
 
 The Employee Return to the Workplace app is designed for a phone screen layout but can also be consumed in a browser, if necessary.
 
@@ -156,7 +156,7 @@ You can present the pass on behalf of your guest, or you can share it with them 
 
 #### Stay at home
 
-If the user does not attest to the statements concerning health and risk, they are then prompted to stay home, and no pass will be issued for the day. You could use a [Power Automate flow](/learn/modules/build-more-flows/8-flow-event-d365/?azure-portal=true) to automatically create an employee case to use for tracking the details that you need to follow the progress of the employee's return to work when they feel better.
+If the user does not attest to the statements concerning health and risk, they are then prompted to stay home, and no pass will be issued for the day. You could use a [Power Automate flow](/training/modules/build-more-flows/8-flow-event-d365/?azure-portal=true) to automatically create an employee case to use for tracking the details that you need to follow the progress of the employee's return to work when they feel better.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the phone screen of the choose your stay home page of the app.](../media/stay-home-message.png)](../media/stay-home-message.png#lightbox)
@@ -169,4 +169,4 @@ The following video shows the screens that take the user quickly through the pro
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWABEt/]
 
-For more information, see [Get Started with Power Apps portals](/learn/paths/get-started-power-apps-portals/?azure-portal=true).
+For more information, see [Get Started with Power Apps portals](/training/paths/get-started-power-apps-portals/?azure-portal=true).

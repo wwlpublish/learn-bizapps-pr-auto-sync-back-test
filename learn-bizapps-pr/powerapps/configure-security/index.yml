@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
- ms.prod: learning-power-apps
+ 
 title: Configure Power Apps portals security
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -23,7 +23,7 @@ prerequisites: |
   - Basic understanding of Power Apps portals
   - Ability to create webpages and show Dataverse data by using entity lists and entity forms
   - Basic understanding of how relationships work between Dataverse entities
-iconUrl: /learn/achievements/configure-security.svg
+iconUrl: /training/achievements/configure-security.svg
 levels:
 - intermediate
 roles:

@@ -58,7 +58,7 @@ The following are some of the common operations:
 
 -   **Import Solution** - Imports a solution into an environment.
 
--   **Unpack Solution** - Breaks a compressed solution file into individual files for each component to allows checking them into source control.
+-   **Unpack Solution** - Breaks a compressed solution file into individual files for each component to allow checking them into source control.
 
 -   **Pack Solution** - Packs a solution represented in source control into a solution.zip file that can be imported into another environment.
 

@@ -3,7 +3,7 @@ uid: learn-bizapps.pad-scripting
 metadata: 
  title: Scripting in Power Automate for desktop
  description: This module covers the scripting actions in Power Automate for desktop.
- ms.date: 11/06/2020  
+ ms.date: 08/30/2022   
  author: mariosleon  
  ms.author: marleon   
  ms.topic: interactive-tutorial  
@@ -18,7 +18,7 @@ abstract: |
     - Create two flows using VBScript and JavaScript.
 prerequisites: |
     A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml), [flow development](../pad-power-automate-desktop-development-essentials/index.yml) and [variables](../pad-variables/index.yml).
-iconUrl: /learn/achievements/pad-scripting.svg  
+iconUrl: /training/achievements/pad-scripting.svg  
 levels:  
 - advanced   
 roles:  

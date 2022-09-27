@@ -7,13 +7,13 @@ metadata:
   author: wwlpublish
   ms.author: bgeoffro
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure
+  ms.service: powerbi
 title: 'Prepare to teach: Power BI paginated reports in a day'
 prerequisites: |
   Basic familiarity with reporting tools
 summary: |
   Explain and demonstrate how to create, publish, and distribute Power BI paginated reports.
-iconUrl: /learn/achievements/create-and-demonstrate-power-bi-paginated-reports.svg
+iconUrl: /training/achievements/create-and-demonstrate-power-bi-paginated-reports.svg
 hidden: true
 levels:
 - intermediate

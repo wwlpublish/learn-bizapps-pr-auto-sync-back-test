@@ -8,7 +8,7 @@ metadata:
  ms.author: robde  
  ms.topic: interactive-tutorial  
  ms.custom: intro-internal
- # ms.prod: learning-power-bi  
+ #  
  ms.service: powerbi
 title: Publish and share in Power BI
 summary: |
@@ -23,7 +23,7 @@ abstract: |
     - Integrate with OneDrive
     - Publish to the web
 prerequisites: Access to Power BI Desktop 
-iconUrl: /learn/achievements/publish-and-share-with-power-bi-desktop.svg
+iconUrl: /training/achievements/publish-and-share-with-power-bi-desktop.svg
 levels:  
 - intermediate   
 roles:  

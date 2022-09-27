@@ -20,7 +20,7 @@ abstract: |
     - Learn how to share flows
 prerequisites: |
     - Signed up for Power Automate and a working mobile device with the Power Automate mobile app loaded.
-iconUrl: /learn/achievements/administer-flows.svg
+iconUrl: /training/achievements/administer-flows.svg
 levels:  
 - beginner 
 roles:  

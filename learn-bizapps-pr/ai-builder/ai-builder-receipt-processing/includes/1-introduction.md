@@ -1,4 +1,4 @@
-Before you begin this course, we recommend that you first complete the [Get started with AI Builder](/learn/modules/get-started-with-ai-builder/?azure-portal=true) module.
+Before you begin this course, we recommend that you first complete the [Get started with AI Builder](/training/modules/get-started-with-ai-builder/?azure-portal=true) module.
 
 Receipt processing lets you read and save key information from common sales receipts, such as receipts that are used in restaurants, gas stations, retail, and more.
 

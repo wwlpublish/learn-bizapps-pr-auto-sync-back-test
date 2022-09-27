@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
-  
+ ms.subservice: nonprofit 
 title: Manage constituents in Fundraising and Engagement for Microsoft Cloud for Nonprofit
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -19,7 +19,7 @@ abstract: |
     - View donation history for a constituent
     - Manage payment and address changes for constituents 
 prerequisites: None
-iconUrl: /learn/achievements/manage-constituents-fundraising-engagement.svg  
+iconUrl: /training/achievements/manage-constituents-fundraising-engagement.svg  
 levels:  
 - intermediate   
 roles:  

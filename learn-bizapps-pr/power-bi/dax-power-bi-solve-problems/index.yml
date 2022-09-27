@@ -24,7 +24,7 @@ abstract: |
 prerequisites: |
   - Experience with developing Power BI data models, reports, and dashboards
   -	Experience with creating calculated tables, calculated columns, and measures by using DAX
-iconUrl: /learn/achievements/dax-power-bi-solve-problems.svg  
+iconUrl: /training/achievements/dax-power-bi-solve-problems.svg  
 levels:  
 - intermediate   
 roles:  

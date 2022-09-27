@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
-  
+ ms.subservice: retail 
 title: Intelligent Order Management for Microsoft Cloud for Retail
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -22,7 +22,7 @@ prerequisites: |
     - Dynamics 365 Intelligent Order Management
     - BigCommerce trial subscription
     - Postman or CLI such as CURL for troubleshooting APIs (optional)
-iconUrl: /learn/achievements/retail-intelligent-order-management.svg
+iconUrl: /training/achievements/retail-intelligent-order-management.svg
 levels:
 - intermediate
 roles:

@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips  
  ms.author: jadaphillips  
  ms.topic: interactive-tutorial  
- ms.prod: learning-powerapps
+ 
 title: Use Monitor to troubleshoot Power Apps
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -20,7 +20,7 @@ abstract: |
     - Use trace to log custom events.
     
 prerequisites: Basic knowledge of working with Microsoft Power Apps
-iconUrl: /learn/achievements/monitor-to-troubleshoot.svg  
+iconUrl: /training/achievements/monitor-to-troubleshoot.svg  
 levels:  
 - intermediate   
 roles:  

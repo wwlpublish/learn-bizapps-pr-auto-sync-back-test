@@ -7,7 +7,7 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial  
-  ms.prod: learning-powerapps  
+  
 title: Author a basic formula that uses tables and records in a Power Apps canvas app  
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -21,7 +21,7 @@ abstract: |
     - Filter your table of data
     - Use the LookUp function
 prerequisites: A basic understanding of how to create a canvas app in Power Apps.  This should include adding controls to the app and using a basic formula to edit a control and its behavior.  An understanding of working with data in Power Apps is also helpful but not required.          
-iconUrl: /learn/achievements/tables-and-records.svg  
+iconUrl: /training/achievements/tables-and-records.svg  
 levels:  
 - intermediate   
 roles:  

@@ -7,7 +7,7 @@ metadata:
  author: jadaphillips
  ms.author: jadaphillips
  ms.topic: interactive-tutorial
- ms.prod: learning-power-apps
+ 
 title: Plan your project like a pro
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -18,7 +18,7 @@ abstract: |
     - Determine who will use the app.
     - List the goals and objectives that your app will meet for users.
 prerequisites: Basic solutions and delivery process experience
-iconUrl: /learn/achievements/plan-app-project.svg
+iconUrl: /training/achievements/plan-app-project.svg
 levels:
 - beginner
 roles:

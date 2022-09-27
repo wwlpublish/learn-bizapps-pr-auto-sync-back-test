@@ -7,7 +7,7 @@ metadata:
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
- ms.prod: learning-ai-builder  
+  
 title: Use AI Builder in Power Automate 
 summary: |  
   [!include[](../includes/module-banner.md)] 
@@ -21,7 +21,7 @@ prerequisites: |
     Before you begin this course, we recommend that you read the Get started with AI Builder module and the "What is AI Builder?" documentation. 
     - Access to Microsoft Dataverse
     - An AI Builder add-on or trial
-iconUrl: /learn/achievements/ai-builder-power-automate.svg  
+iconUrl: /training/achievements/ai-builder-power-automate.svg  
 levels:  
 - intermediate   
 roles:  

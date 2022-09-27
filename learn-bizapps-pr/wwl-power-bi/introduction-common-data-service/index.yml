@@ -7,7 +7,8 @@ metadata:
   author: wwlpublish
   ms.author: chsims
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-apps
+  ms.service: powerapps 
+  ms.subservice: dataverse-maker 
 title: Introduction to Dataverse
 summary: Learn about the basics of Dataverse and explore ways you can connect and customize data connections to Microsoft Power Platform applications.
 abstract: |
@@ -19,7 +20,7 @@ abstract: |
   - Discover business rules
 prerequisites: |
   None
-iconUrl: /learn/achievements/introduction-common-data-services.svg
+iconUrl: /training/achievements/introduction-common-data-services.svg
 levels:
 - beginner
 roles:

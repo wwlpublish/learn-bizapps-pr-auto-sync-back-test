@@ -25,11 +25,11 @@ The following example shows how to calculate the sum of goods and services.
    > 
    > The property selection operator . (dot or period) in ThisItem.Price is always the same, no matter what the decimal separator is, but notice that the decimal separator and the chaining operation separator changed to a comma and semicolon respectively. Internally the formula doesn't change, all that changes is how it's displayed and edited by the author. See [Formula separators and chaining operator](/power-apps/maker/canvas-apps/global-apps?azure-portal=true#formula-separators-and-chaining-operator) for more information.
 
-1. Navigate to [Power Apps](https://make.powerapps.com/).
+1. Navigate to [Power Apps](https://make.powerapps.com/), and select **Apps** in the left navigation pane.
 
 1. Select **+ New App** and **Canvas**.
 
-1. At the bottom, under **Blank app**, select **Tablet layout**.
+1. Give your app a name, ensure **Tablet** is selected as the format and select **Create**.
 
 1. Select the **Insert** tab and add a **Label**.
 
@@ -37,12 +37,14 @@ The following example shows how to calculate the sum of goods and services.
 
 1. Add three more **Labels** and change the **Text** properties to *Quantity*, *Cost*, and *Total*, respectively.
 
-1. Select the **Insert** tab, then the **Text** dropdown, and insert three **Text Inputs** to your canvas app,
+1. At the **Insert** tab, select the **Text** dropdown, insert three **Text Input** controls into to your canvas app,
    and arrange them as shown in the following screenshot.
 
    ![Screenshot of Power Apps Treeview Screen1 text inputs.](../media/calculation-update.png)
 
-1. Insert another **Label** to the right of *Total*. Name it **Label6**.
+1. In the **Default** property for each **TextInput** delete "Text input" so that each **Default** is blank.
+
+1. Insert another **Label** to the right of *Total*. Rename this control *Label6*.
 
 1. Change the **Text** property to the following.
 
@@ -56,11 +58,13 @@ The following example shows how to calculate the sum of goods and services.
    upper-right corner. Test the formula by entering some numbers for the quantity and price.
 
 1. Next, format the formula to display the value as a Currency. Update
-   the formula as follows.
+   the text property for *Label6* to:
    ```powerappsfl
    Text(Sum(TextInput2 * TextInput3),"$#,###0.00")
    ```
    
    ![Screenshot of Power Apps Treeview Screen1 values.](../media/calculation-update-2.png)
 
-For more information, see [Power Apps Aggregate Functions](/power-apps/maker/canvas-apps/functions/function-aggregates/?azure-portal=true).
+You can see that your *Total* will now display your result with a dollar-sign and two decimal places. 
+
+For more information on functions like this, see [Power Apps Aggregate Functions](/power-apps/maker/canvas-apps/functions/function-aggregates/?azure-portal=true).

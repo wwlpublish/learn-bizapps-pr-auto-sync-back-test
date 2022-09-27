@@ -7,7 +7,7 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-platform
+  
 title: Work with data source limits (delegation limits) in a Power Apps canvas app
 summary: |
   [!include[](../includes/module-banner.md)]
@@ -19,7 +19,7 @@ abstract: |
     - Understand how functions, predicates, and operators all play roles in the limits
     - Use this new understanding to choose the best data source for an app
 prerequisites: A basic understanding of how to create a canvas app in Power Apps.
-iconUrl: /learn/achievements/data-source-limits.svg
+iconUrl: /training/achievements/data-source-limits.svg
 levels:
 - intermediate
 roles:

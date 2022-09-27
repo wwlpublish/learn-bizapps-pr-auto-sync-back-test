@@ -19,7 +19,7 @@ abstract: |
     - Use the Configure run after option to handle errors.
     - Discover Microsoft Power Automate analytics.
 prerequisites: Basic understanding of how to create flows with SharePoint as the trigger
-iconUrl: /learn/achievements/error-handling.svg  
+iconUrl: /training/achievements/error-handling.svg  
 levels:  
 - intermediate   
 roles:  

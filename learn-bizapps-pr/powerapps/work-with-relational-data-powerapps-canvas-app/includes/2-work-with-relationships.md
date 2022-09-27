@@ -4,7 +4,7 @@ The second common use of relationships is to query the parent from the child rec
 
 ## Connecting a parent and child table in Power Apps
 
-In this example, you'll walk through how to reference a parent and
+In this example, we'll walk through how to reference a parent and
 child relationship using the Power Apps filter and a LookUp function.
 
 The Customer table is the parent in this relationship, meaning one customer can have many invoices. Notice there's no reference in the
@@ -29,12 +29,11 @@ like the following.
 | 3  | 5/6/2020    | Travel            | 132.98        | 1          |
 | 4  | 5/31/2020   | Parts             | 75.55         | 2          |
 
-In Power Apps, use the Gallery control to display the contents of the
-Customer table. Use the Gallery control with the following steps:
+In Power Apps, if you have these tables built as data sources, you could use a Gallery control to display the contents of the Customer table. You would use the Gallery control with the following steps:
 
 1. Insert a **Gallery** control onto your canvas.
 
-1. Set the **Items** property to **CustomerTable**.
+1. Set the **Items** property to your **CustomerTable**.
 
 The Gallery will display a list of all of the customer records in the
 table. This is **Gallery1**.
@@ -44,45 +43,42 @@ steps:
 
 1. Insert a **Gallery** control onto your canvas.
 
-1. Set the **Items** property to **InvoiceTable**.
+1. You can set the **Items** property to your **InvoiceTable**.
 
 This Gallery will display a list of all of the invoice records in the
 table. This is **Gallery2**.
 
-Now to display only the invoices for the customer selected in Gallery1, you need to
-modify the items property of Gallery2.
+Now to display only the invoices for the customer selected in Gallery1, you would need to modify the items property of Gallery2 with something like this:
 
-1. Set the **Items** property of **Gallery2** to:
-
-    ```powerappsfl
-    Filter(InvoiceTable, CustomerID.ID = Gallery1.Selected.ID)
-    ```
+    
+    Filter(InvoiceTable, CustomerID = Gallery1.Selected.ID)
+    
 
 The formula will do the following.
 
   | **Formula Argument** | **Formula Input**                 | **Notes** |
   |----------------------|-----------------------------------|-----------|
   | source               | InvoiceTable                      |  |
-  | logical_test        | CustomerID.ID = Gallery1.Selected.ID | CustomerID is the column name from the InvoiceTable. Gallery1.Selected. The ID is the value of the ID column for the selected record in the gallery. |
+  | logical_test        | CustomerID = Gallery1.Selected.ID | CustomerID is the column name from the InvoiceTable. Gallery1.Selected. The ID is the value of the ID column for the selected record in the gallery. |
 
-Now, Gallery2 will only display the invoice records for the selected
+The formula causes Gallery2 to display the invoice records for the selected
 customer in Gallery1.
 
 ## Looking up information stored in the parent from the child
 
-The previous example looked showed how to go from the top down. Sometimes
+The previous example showed how to go from the top down. Sometimes
 you need to go from the bottom up. For example, in the InvoiceTable, if
 you're looking at the record for the invoice with an ID of 2, then you
-know that it's associated with the customer with the ID of 3. This is different
-if you want to know the customer's name or phone number. To do this in
-Power Apps, you can use the **LookUp** function.
+know that it's associated with the customer with the ID of 3. Now,
+if you want to know the customer's name or phone number from the parent table, you can find that out by looking up the information to the other table. In
+Power Apps, you can use the **LookUp** function to do just that!
 
 The **LookUp** function allows you to query a data source for a single
-record that meets the evaluation criteria. In this example, you'll use
-the same tables as the previous example, but you'll start with a blank
+record that meets the evaluation criteria. In the following example, we'll use
+the same tables as the previous one, but we'll start with a blank
 screen to avoid confusion.
 
-To display the full contents of the InvoiceTable, use the following
+To display the full contents of the InvoiceTable, you would use the following
 steps:
 
 1. Insert a **Gallery** control onto your canvas.
@@ -94,18 +90,17 @@ steps:
 1. In the **Data** pane set **Title** to **InvoiceDate**, **Subtitle** to **InvoiceAmount**, and **Body** to **CustomerID**.
 
 This Gallery will display a list of all of the invoice records in the
-table. This is **Gallery3**.
+table. If you want your date fields to look like the image below, you would modify your **Title** field to read: Text(ThisItem.InvoiceDate,DateTimeFormat.ShortDate) This is **Gallery3**.
 
 ![Screenshot of gallery with a list of all invoice records.](../media/image1.png)
 
-Showing the ID value for each customer doesn't provide help for the app
-user. To display the customer name, instead of the ID, do the following.
+Showing the ID value for each customer doesn't provide much information for the app user. So, to display the customer name, instead of the ID, we can do the following:
 
-1. In **Gallery3**, select the label for **Body** and set the **Text** property to:
+In **Gallery3**, select the label for **Body** and set the **Text** property to:
 
-    ```powerappsfl
+   
     LookUp(CustomerTable, ID = ThisItem.CustomerID, CustomerName)
-    ```
+  
 
 The formula will do the following:
 
@@ -115,7 +110,7 @@ The formula will do the following:
 | logical_test         | ID = ThisItem.CustomerID | The ID is the column name from the CustomerTable. ThisItem.CustomerID is the value of the CustomerID column for the current record in the gallery.|
 | result                | CustomerName             | This is the column that will be returned for the records that matched the logical_test.|
 
-After making that change, Gallery3 is much more user-friendly.
+After making that change, Gallery3 now provides the vendor name.
 
 ![Screenshot of user-friendly gallery list of invoice records.](../media/image2.png)
 

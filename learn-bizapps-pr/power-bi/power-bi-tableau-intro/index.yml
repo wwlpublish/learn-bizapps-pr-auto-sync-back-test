@@ -22,7 +22,7 @@ abstract: |
     - Apply conditional formatting to help analysts detect critical issues and identify patterns in data.
     - Discover differences and similarities between Tableau and Power BI concepts.
 prerequisites: Access to Power BI service, familiarity with Tableau, and an understanding of key Tableau concepts such as connecting to data, building visualizations, and knowing the difference between extracts versus live connections
-iconUrl: /learn/achievements/power-bi-tableau-intro.svg  
+iconUrl: /training/achievements/power-bi-tableau-intro.svg  
 levels:  
 - beginner
 roles:  
