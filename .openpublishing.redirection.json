@@ -628,57 +628,57 @@
     {
       "source_path": "learn-bizapps-pr/power-bi/design-data-model-power-bi/1-introduction.md",
       "redirect_url": "/training/modules/clean-data-power-bi/1-introduction/",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-bizapps-pr/power-bi/design-data-model-power-bi/2-shape-data.md",
       "redirect_url": "/training/modules/clean-data-power-bi/2-shape-data/",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-bizapps-pr/power-bi/design-data-model-power-bi/3-data-structure.md",
       "redirect_url": "/training/modules/clean-data-power-bi/3-data-structure/",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-bizapps-pr/power-bi/design-data-model-power-bi/4-column-data-types.md",
       "redirect_url": "/training/modules/clean-data-power-bi/4-column-data-types/",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-bizapps-pr/powerbi/design-data-model-power-bi/5-combine-tables.md",
       "redirect_url": "/training/modules/clean-data-power-bi/5-combine-tables/",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-bizapps-pr/power-bi/design-data-model-power-bi/6-profile-data.md",
       "redirect_url": "/training/modules/clean-data-power-bi/6-profile-data/",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-bizapps-pr/power-bi/design-data-model-power-bi/7-advanced-editor.md",
       "redirect_url": "/training/modules/clean-data-power-bi/7-advanced-editor/",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-bizapps-pr/power-bi/design-data-model-power-bi/8-lab.md",
       "redirect_url": "/training/modules/clean-data-power-bi/8-lab/",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-bizapps-pr/power-bi/design-data-model-power-bi/9-check.md",
       "redirect_url": "/training/modules/clean-data-power-bi/9-check/",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-bizapps-pr/power-bi/design-data-model-power-bi/10-summary.md",
       "redirect_url": "/training/modules/clean-data-power-bi/10-summary/",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-bizapps-pr/powerapps/get-started-with-model-driven-apps-in-powerapps/4-explore-sample-model-driven-apps.md",
       "redirect_url": "/training/modules/intro-model-driven-apps-common-data-service/4-template-apps/",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-bizapps-pr/paths/create-reports-power-bi/index.md",
