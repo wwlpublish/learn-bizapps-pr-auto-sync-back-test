@@ -62,7 +62,7 @@ you'll register the application as multitenant.*
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of application permission with red-write permission for calendar highlighted.](../media/azure-calendar.png)](../media/azure-calendar.png#lightbox)
 
-9.  Select **Grant admin consent**, as shown in the following image.
+9.  Select **Grant admin consent**, as shown in the following screenshot.
 
     > [!div class="mx-imgBorder"]
 	> [![Screenshot of bot permissions with grant access option highlighted.](../media/azure-bot-permission.png)](../media/azure-bot-permission.png#lightbox)
@@ -135,7 +135,7 @@ In this task, you'll create a subscription-based, trial Dataverse environment wi
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Add database page with options highlighted.](../media/dataverse-database-url.png)](../media/dataverse-database-url.png#lightbox)
 
-1. After the environment has been created successfully, it should appear as shown in the following image.
+1. After the environment has been created successfully, it should appear as shown in the following screenshot.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Dataverse trial subscription option highlighted.](../media/dataverse-trial-subscription.png)](../media/dataverse-trial-subscription.png#lightbox)
@@ -173,7 +173,7 @@ In this task, you'll install the **Dynamics 365 Sales app** in the **Lamna Healt
 
 3.  In the upper-right corner of the page, use the search box to search for the string **Sales**.
 
-4.  In the right pane, select **Dynamics 365 Sales, Enterprise Edition App** and then select **Install**, as shown in the following image.
+4.  In the right pane, select **Dynamics 365 Sales, Enterprise Edition App** and then select **Install**, as shown in the following screenshot.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Sales Enterprise edition option with Install highlighted.](../media/field-install-apps.png)](../media/field-install-apps.png#lightbox)
@@ -286,7 +286,7 @@ In this task, you'll create a **Microsoft Power Apps** portal in the **Lamna Hea
 
 2.  Select **Environment** as Lamna Healthcare.
 
-3.  In the right pane, select **More create options**, as shown in the following image.
+3.  In the right pane, select **More create options**, as shown in the following screenshot.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of more create options highlighted.](../media/patient-create.png)](../media/patient-create.png#lightbox)
@@ -372,7 +372,7 @@ In this task, you'll go through the steps to update the environment variables th
 
 2.  In the upper-right corner of the page, select **Lamna Healthcare** as your working environment.
 
-3.  On the left navigation, select **Apps**. In the right pane, select the **See environment variables** option, as shown in the following image.
+3.  On the left navigation, select **Apps**. In the right pane, select the **See environment variables** option, as shown in the following screenshot.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot showing the environment variables to be updated.](../media/environment-variables.png)](../media/environment-variables.png#lightbox)

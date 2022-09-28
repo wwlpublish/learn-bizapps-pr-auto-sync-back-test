@@ -61,7 +61,7 @@ In this task, you'll go through the steps to assign security roles to the Lamna 
 
 1.  While signed in to your Microsoft 365 tenant, open a new tab and then go to [Power Platform admin center](https://admin.powerplatform.microsoft.com/).
 
-2.  On the left navigation, select **Environments**. In the right pane, select **Lamna Healthcare** environment. On the command bar, select **Settings**, as shown in the following image.
+2.  On the left navigation, select **Environments**. In the right pane, select **Lamna Healthcare** environment. On the command bar, select **Settings**, as shown in the following screenshot.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Environment page with Settings and Lamna Healthcare highlighted.](../media/security-roles-users.png)](../media/security-roles-users.png#lightbox)

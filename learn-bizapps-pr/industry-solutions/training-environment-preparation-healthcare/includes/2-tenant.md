@@ -38,7 +38,7 @@ In this task, you'll learn how to create a Microsoft 365 trial tenant and obtain
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the window to create a new account.](../media/new-account.png)](../media/new-account.png#lightbox)   
 
-1.  On successful creation of a trial tenant, the **Confirmation details** page will appear as in the following image.
+1.  On successful creation of a trial tenant, the **Confirmation details** page will appear as in the following screenshot.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the valid domain name check availability window.](../media/domain.png)](../media/domain.png#lightbox)   
