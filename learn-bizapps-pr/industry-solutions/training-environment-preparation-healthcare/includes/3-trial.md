@@ -1,4 +1,4 @@
-Microsoft Cloud for Healthcare solutions rely on various components and hence you must obtain the following additional trial licenses. In this unit, you’ll also learn about validating product licenses, assigning them to a user account, and creating a free Micorosoft Azure account.
+Microsoft Cloud for Healthcare solutions relies on various components and hence you must obtain the following additional trial licenses. In this unit, you’ll also learn about validating product licenses, assigning them to a user account, and creating a free Microsoft Azure account.
 
 Then, complete the following tasks: 
 
@@ -85,7 +85,7 @@ In this task, you'll obtain **Dynamics 365 Customer Service Digital Messaging ad
 
 ## Task 3: Obtain the Dynamics 365 Sales Premium Trial
 
-In this task, you'll obtain the **Dynamics 365 Sales Premium Trial** license which is used by the Health Assistant feature in Microsoft Cloud for Healthcare.
+In this task, you'll obtain the **Dynamics 365 Sales Premium Trial** license, which is used by the Health Assistant feature in Microsoft Cloud for Healthcare.
 
 1. Go to [Microsoft 365 admin center](https://admin.microsoft.com/?azure-portal=true).
 
@@ -113,7 +113,7 @@ In this task, you'll obtain the **Dynamics 365 Sales Premium Trial** license whi
 
 ## Task 4: Obtain the Dynamics 365 Field Service Trial
 
-In this task, you'll obtain the **Dynamics 365 Field Service Trial** license which the Home health solution uses in Microsoft Cloud for Healthcare.
+In this task, you'll obtain the **Dynamics 365 Field Service Trial** license, which the Home health solution uses in Microsoft Cloud for Healthcare.
 
 1.  Go to [Microsoft 365 admin center](https://admin.microsoft.com/?azure-portal=true).
 

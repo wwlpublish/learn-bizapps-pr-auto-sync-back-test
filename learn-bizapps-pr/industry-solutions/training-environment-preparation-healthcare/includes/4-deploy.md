@@ -98,7 +98,7 @@ In this task, you'll go through the steps to assign security roles to the Lamna 
 8.  In the **Add security roles** pane, select **Omnichannel agent** and then select **Save**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Manage Security Roles page with roles selected.](../media/security-add-roles.png)](../media/security-add-roless.png#lightbox)
+	> [![Screenshot of Manage Security Roles page with roles selected.](../media/security-add-roles.png)](../media/security-add-roles.png#lightbox)
 
 9.  You'll be redirected to the **Create a new app user** panel, which should appear as shown in the following screenshot. Select **Create** to add Lamna Health Bot as an application user and assign it the Omnichannel agent security role.
 
