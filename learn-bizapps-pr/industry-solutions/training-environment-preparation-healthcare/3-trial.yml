@@ -9,7 +9,7 @@ metadata:
   ms.author: dbeasley 
   ms.topic: interactive-tutorial 
   ms.subservice: healthcare
-durationInMinutes: 7 
+durationInMinutes: 15 
 content: | 
  [!include[](../includes/unit-banner.md)] 
  [!include[](includes/3-trial.md)] 

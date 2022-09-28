@@ -1,5 +1,5 @@
 
-A security role defines how users, such as a clinician, field service agent, or knowledge base creator, can access different types of resources. To work with Microsoft Cloud for Healthcare solutions, make sure that you assign correct security roles to users. In this module, you'll learn about the required security roles that you'll need to assign to a user and an Azure AD app. For more information, see [Security roles and privileges](/power-platform/admin/security-roles-privileges) in Microsoft Power Platform.
+A security role defines how users, such as a clinician, field service agent, or knowledge base creator, can access different types of resources. To work with Microsoft Cloud for Healthcare solutions, make sure that you assign correct security roles to users. In this unit, you'll learn about the required security roles that you'll need to assign to a user and an Azure AD app. For more information, see [Security roles and privileges](/power-platform/admin/security-roles-privileges) in Microsoft Power Platform.
 
 | Security roles                   | Description                                                                                                                                                         |   
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -61,7 +61,7 @@ In this task, you'll go through the steps to assign security roles to the Lamna 
 
 1.  While signed in to your Microsoft 365 tenant, open a new tab and then go to [Power Platform admin center](https://admin.powerplatform.microsoft.com/).
 
-2.  On the left navigation, select **Environments**. In the right pane, select **Lamna Healthcare** environment. On the command bar, select **Settings**, as shown in the following image.
+2.  On the left navigation, select **Environments**. In the right pane, select **Lamna Healthcare** environment. On the command bar, select **Settings**, as shown in the following screenshot.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Environment page with Settings and Lamna Healthcare highlighted.](../media/security-roles-users.png)](../media/security-roles-users.png#lightbox)
@@ -98,9 +98,9 @@ In this task, you'll go through the steps to assign security roles to the Lamna 
 8.  In the **Add security roles** pane, select **Omnichannel agent** and then select **Save**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Manage Security Roles page with roles selected.](../media/security-manage-roles.png)](../media/security-manage-roles.png#lightbox)
+	> [![Screenshot of Manage Security Roles page with roles selected.](../media/security-add-roles.png)](../media/security-add-roles.png#lightbox)
 
-9.  You'll be redirected to the **Create a new app user** panel, which should appear as shown in the following image. Select **Create** to add Lamna Health Bot as an application user and then assign it the Omnichannel agent security role.
+9.  You'll be redirected to the **Create a new app user** panel, which should appear as shown in the following screenshot. Select **Create** to add Lamna Health Bot as an application user and assign it the Omnichannel agent security role.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Create a new app user page with Lamna health bot selected.](../media/security-create-new-app-user.png)](../media/security-create-new-app-user.png#lightbox)

@@ -26,7 +26,7 @@ application permissions, and create a client secret.
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of New registration option highlighted.](../media/azure-new-registration.png)](../media/azure-new-registration.png#lightbox)
 
-3.  On the **Register an application** page, enter the name for the bot and then select the **Accounts in any organizational directory (Any Azure AD directory - Multitenant)** option button under the **Supported account types** section. Then, select **Register**.
+3.  On the **Register an application** page, enter the name for the bot and then select the **Accounts in any organizational directory (Any Azure AD directory - Multitenant)** option under the **Supported account types** section. Then, select **Register**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Register an application page with Register button highlighted.](../media/azure-register-application.png)](../media/azure-register-application.png#lightbox)
@@ -62,7 +62,7 @@ you'll register the application as multitenant.*
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of application permission with red-write permission for calendar highlighted.](../media/azure-calendar.png)](../media/azure-calendar.png#lightbox)
 
-9.  Select **Grant admin consent**, as shown in the following image.
+9.  Select **Grant admin consent**, as shown in the following screenshot.
 
     > [!div class="mx-imgBorder"]
 	> [![Screenshot of bot permissions with grant access option highlighted.](../media/azure-bot-permission.png)](../media/azure-bot-permission.png#lightbox)
@@ -83,7 +83,7 @@ you'll register the application as multitenant.*
 	> [![Screenshot of certificates and secrets page.](../media/azure-secrets.png)](../media/azure-secrets.png#lightbox)
 
 > [!NOTE]
-> Next, you'll need to create an application secret so that you can use it along with this application ID to authenticate the bot.
+> You'll need to create an application secret so that you can use it along with this application ID to authenticate the bot.
 
 12. Copy the secret value and then save it in a notepad so that you can use it later in this learning path.
 
@@ -98,19 +98,18 @@ you'll register the application as multitenant.*
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of application client ID.](../media/azure-client-id.png)](../media/azure-client-id.png#lightbox)
 
-## Task 2: Create a subscription-based, trial Dataverse environment
+## Task 2: Create a subscription-based trial Dataverse environment
 
 In this task, you'll create a subscription-based, trial Dataverse environment with a database.
 
-1.  While signed in to your Microsoft 365 tenant, open a new tab, and then go to [Power Platform admin
-    center](https://admin.powerplatform.microsoft.com/).
+1. While signed in to your Microsoft 365 tenant, open a new tab, and then go to [Power Platform admin center](https://admin.powerplatform.microsoft.com/).
 
-2.  On the left navigation, select **Environments**. In the right pane, select **+ New**.
+2. On the left navigation, select **Environments**. In the right pane, select **+ New**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Environments page with New option highlighted.](../media/dataverse.png)](../media/dataverse.png#lightbox)
 
-3.  On the **New environment** form, provide the following details and then select **Next**.
+3. On the **New environment** form, provide the following details and then select **Next**.
 
     - **Name** - Lamna Healthcare
 
@@ -121,8 +120,8 @@ In this task, you'll create a subscription-based, trial Dataverse environment wi
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Dataverse Trial Subscription page.](../media/dataverse-trial.png)](../media/dataverse-trial.png#lightbox)
 
-4.  On the **Add database** form, select **Click** **here**, provide details as shown in the following screenshot, and then select
-    **Save**.
+4. On the **Add database** form, select **Click** **here**, provide details as shown in the following screenshot, and then select
+   **Save**.
 
     - **URL** - lamnahealthcare
 
@@ -136,7 +135,7 @@ In this task, you'll create a subscription-based, trial Dataverse environment wi
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Add database page with options highlighted.](../media/dataverse-database-url.png)](../media/dataverse-database-url.png#lightbox)
 
-1. After the environment has been created successfully, it should appear as shown in the following image.
+1. After the environment has been created successfully, it should appear as shown in the following screenshot.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Dataverse trial subscription option highlighted.](../media/dataverse-trial-subscription.png)](../media/dataverse-trial-subscription.png#lightbox)
@@ -174,7 +173,7 @@ In this task, you'll install the **Dynamics 365 Sales app** in the **Lamna Healt
 
 3.  In the upper-right corner of the page, use the search box to search for the string **Sales**.
 
-4.  In the right pane, select **Dynamics 365 Sales, Enterprise Edition App** and then select **Install**, as shown in the following image.
+4.  In the right pane, select **Dynamics 365 Sales, Enterprise Edition App** and then select **Install**, as shown in the following screenshot.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Sales Enterprise edition option with Install highlighted.](../media/field-install-apps.png)](../media/field-install-apps.png#lightbox)
@@ -287,7 +286,7 @@ In this task, you'll create a **Microsoft Power Apps** portal in the **Lamna Hea
 
 2.  Select **Environment** as Lamna Healthcare.
 
-3.  In the right pane, select **More create options**, as shown in the following image.
+3.  In the right pane, select **More create options**, as shown in the following screenshot.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of more create options highlighted.](../media/patient-create.png)](../media/patient-create.png#lightbox)
@@ -339,8 +338,7 @@ You'll need to complete all previous steps before you can deploy Microsoft Cloud
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Add all Microsoft Cloud for Healthcare checkbox selected.](../media/healthcare-add.png)](../media/healthcare-add.png#lightbox)
 
-5.  On the **Set up solutions** page, select the **Name**, **Sample data**, and **Codeable concepts** options to add them as extra
-    components and then select **Next**.
+5.  On the **Set up solutions** page, select the **Name**, **Sample data**, and **Codeable concepts** options to add them as additional components and then select **Next**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of add additional components page with the options selected.](../media/healthcare-add-components.png)](../media/healthcare-add-components.png#lightbox)
@@ -374,7 +372,7 @@ In this task, you'll go through the steps to update the environment variables th
 
 2.  In the upper-right corner of the page, select **Lamna Healthcare** as your working environment.
 
-3.  On the left navigation, select **Apps**. In the right pane, select the **See environment variables** option, as shown in the following image.
+3.  On the left navigation, select **Apps**. In the right pane, select the **See environment variables** option, as shown in the following screenshot.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot showing the environment variables to be updated.](../media/environment-variables.png)](../media/environment-variables.png#lightbox)
