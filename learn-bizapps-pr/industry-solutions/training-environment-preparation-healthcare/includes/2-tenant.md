@@ -28,7 +28,7 @@ In this task, you'll learn how to create a Microsoft 365 trial tenant and obtain
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the email address field.](../media/email.png)](../media/email.png#lightbox)
 
-1.  After you receive the verification code, enter it in the Enter your verification code box, and then select **Verify.**
+1.  After you receive the verification code, enter it in the **Enter your verification code** box, and then select **Verify.**
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the warning stating that the email address is already in use.](../media/warning.png)](../media/warning.png#lightbox) 
@@ -50,7 +50,7 @@ In this task, you'll update the billing account details for the trial tenant tha
 > [!IMPORTANT] 
 > Make sure that you update the billing account details so that you can obtain additional trial licenses.
 
-1.	In your existing browser, open a new tab and go to [Microsoft 365 admin center.](https://admin.microsoft.com/AdminPortal/Home?#/BillingAccounts/billing-accounts) 
+1.	In your existing browser session, open a new tab and go to [Microsoft 365 admin center.](https://admin.microsoft.com/AdminPortal/Home?#/BillingAccounts/billing-accounts) 
 
 2.	On the left navigation, go to **Billing** > **Billing Accounts**. 
 
