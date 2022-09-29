@@ -40,7 +40,7 @@ In a Dataverse environment where you can proceed with modifications to the table
 1. Select the **Active Accounts** view.
 
     > [!div class="mx-imgBorder"]
-    > [![Partial screenshot of the list of views for the Account table. Focus is on the view named Active Accounts.](../media/active-accounts.png)](../media/active-accounts.png#lightbox)
+    > ![Partial screenshot of the list of views for the Account table. Focus is on the view named Active Accounts.](../media/active-accounts.png)
 
 1. Move the contact name to the requested location. Select the **Primary Contact** column header.
 
@@ -79,22 +79,22 @@ Now try a different method to add columns.
     a. Select the **Email (Primary Contact)** column header, and then select **Edit Properties**.
 
     > [!div class="mx-imgBorder"]
-    > [![Partial screenshot of the view designer. Focus is on the Email (Primary Contact) column heading and Edit properties option in the flyout menu.](../media/edit-properties.png)](../media/edit-properties.png#lightbox)
+    > ![Partial screenshot of the view designer. Focus is on the Email (Primary Contact) column heading and Edit properties option in the flyout menu.](../media/edit-properties.png)
 
     b. Modify the **View column width** property. (In this case, the request is to increase by 150%, so you'll modify the value to **225** pixels.)
 
     > [!div class="mx-imgBorder"]
-    > [![Partial screenshot of the view designer. Focus is on the View column width label of the Edit properties flyout menu.](../media/view-column-width.png)](../media/view-column-width.png#lightbox)
+    > ![Partial screenshot of the view designer. Focus is on the View column width label of the Edit properties flyout menu.](../media/view-column-width.png)
 
     c. Select **Apply** to complete the modification.
 
     > [!div class="mx-imgBorder"]
-    > [![Partial screenshot of the view designer. Focus is on the value of 225 for the View column width field and the Apply button of the Edit properties flyout menu.](../media/apply-width.png)](../media/apply-width.png#lightbox)
+    > ![Partial screenshot of the view designer. Focus is on the value of 225 for the View column width field and the Apply button of the Edit properties flyout menu.](../media/apply-width.png)
 
 1. To remove a column, select the column heading (**Address 1: City**) then select **Remove**.
 
     > [!div class="mx-imgBorder"]
-    > [![Partial screenshot of the view designer. Focus is on the Address 1: City column headings and Remove option in the flyout menu.](../media/remove-address.png)](../media/remove-address.png#lightbox)
+    > ![Partial screenshot of the view designer. Focus is on the Address 1: City column headings and Remove option in the flyout menu.](../media/remove-address.png)
 
 1. To apply changes and make them available to Power Apps users, select **Save**, and then select **Publish**.
 

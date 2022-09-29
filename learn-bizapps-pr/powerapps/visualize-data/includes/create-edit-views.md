@@ -17,12 +17,12 @@ To create a view for a table in the Power Apps maker portal, in the table's view
 1. You're now positioned in the view designer. In the next units, you'll proceed more in depth with the different features of this area. For now, select **Save** to proceed.
 
     > [!div class="mx-imgBorder"]
-    > [![Partial screenshot of the view designer. Focus is on Save.](../media/save.png)](../media/save.png#lightbox)
+    > ![Partial screenshot of the view designer. Focus is on Save.](../media/save.png)
 
 1. To render the view available to all other Power Apps users, select **Publish**.
 
     > [!div class="mx-imgBorder"]
-    > [![Partial screenshot of the view designer. Focus is on Publish.](../media/publish.png)](../media/publish.png#lightbox)
+    > ![Partial screenshot of the view designer. Focus is on Publish.](../media/publish.png)
 
 1. After you close the view designer, the newly created view is added to the list of views related to the table.
 
@@ -41,12 +41,12 @@ To modify a view for a table in the Power Apps maker portal, in the table's view
 1. After modifications are completed, select **Save** to override the existing view, or **Save As** to create a new one under a different name.
 
     > [!div class="mx-imgBorder"]
-    > [![Partial screenshot of the view designer. Focus is on Save and Save As.](../media/save-as.png)](../media/save-as.png#lightbox)
+    > ![Partial screenshot of the view designer. Focus is on Save and Save As.](../media/save-as.png)
 
 1. To render the modifications to the view available to all other Power Apps users, select **Publish**.
 
     > [!div class="mx-imgBorder"]
-    > [![Partial screenshot of the view designer. Focus is on Publish button.](../media/publish-button.png)](../media/publish-button.png#lightbox)
+    > ![Partial screenshot of the view designer. Focus is on Publish button.](../media/publish-button.png)
 
 ## Next steps
 
