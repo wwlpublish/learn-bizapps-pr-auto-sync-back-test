@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pva-voice.introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Learn how Interactive Voice Response (IVR), an automated phone system technology allows incoming callers to access information via a voice response system of different pre-recorded messages without having to speak to an agent.
+  ms.date: 09/28/2022 
+  author: Heyrob 
+  ms.author: Robde 
+  ms.topic: interactive-tutorial 
+durationInMinutes: 4
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 
