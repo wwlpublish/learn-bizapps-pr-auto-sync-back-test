@@ -1,7 +1,5 @@
 In this exercise, you'll apply your learned knowledge to create a view for accounts that you manage and where the records are sorted from the highest annual revenue to the lowest.
 
-## Exercise
-
 In a Dataverse environment where you can proceed with modifications to the tables, such as dedicated training or development environment, follow these steps:
 
 1. Sign in to the [Power Apps portal](https://make.powerapps.com/?azure-portal=true).
