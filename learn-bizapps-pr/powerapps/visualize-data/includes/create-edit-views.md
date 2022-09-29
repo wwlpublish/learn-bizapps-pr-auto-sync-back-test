@@ -46,7 +46,7 @@ To modify a view for a table in the Power Apps maker portal, in the table's view
 1. To render the modifications to the view available to all other Power Apps users, select **Publish**.
 
     > [!div class="mx-imgBorder"]
-    > [![Partial screenshot of the view designer. Focus is on Publish.](../media/publish-button.png)](../media/publish-button.png#lightbox)
+    > [![Partial screenshot of the view designer. Focus is on Publish button.](../media/publish-button.png)](../media/publish-button.png#lightbox)
 
 ## Next steps
 
