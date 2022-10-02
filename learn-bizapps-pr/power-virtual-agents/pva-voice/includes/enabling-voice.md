@@ -4,7 +4,7 @@ If you're looking to get started building Power Virtual Agent Bots, you can find
 
 - [Get Started with Power Virtual Agent bots](/training/modules/power-virtual-agents-bots/?azure-portal=true)
 - [Manage Topics in Power Virtual Agents](/training/modules/manage-power-virtual-agents-topics/?azure-portal=true)
-- Manage Power Virtual Agents
+- [Manage Power Virtual Agents](/training/modules/implement-power-virtual-agents/)
 - [Enhance Power Virtual Agent bots](/training/modules/enhance-power-virtual-agents-bots/?azure-portal=true)
 
 The easiest way to configure a bot for voice is from the Customer Service admin center or Omnichannel admin center applications.  The Customer Service admin center application is leveraged to administer Dynamics 365 Customer Service and omnichannel functionality.  The Omnichannel admin center application is primarily focused on administrating omnichannel functionality.  You can do everything you can do in the Omnichannel admin center application in the Customer Service admin center application.  
