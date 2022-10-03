@@ -26,14 +26,14 @@ quiz:
     - content: Both are defined during the flow.
       isCorrect: false 
       explanation: Input variables are defined before the flow, while output variables are defined during.
-  - content: Which of the following entities will request a default value when it is defined?
+  - content: Which of the following entities will request a default value when it's defined?
     choices: 
     - content: Input variable
       isCorrect: true 
       explanation: The default value will be used if no other value is provided for the variable when the flow is run.
     - content: Output variable
       isCorrect: false 
-      explanation: Output variables are defined within the flow, so they do not need a default.
+      explanation: Output variables are defined within the flow, so they don't need a default.
     - content: UI element
       isCorrect: false 
       explanation: UI elements are taken from the desktop application or elsewhere by an action in a desktop flow.
@@ -41,7 +41,7 @@ quiz:
     choices: 
     - content: Text or sensitive text
       isCorrect: false 
-      explanation: Incorrect. You can also choose a value and an email which is stored as text.
+      explanation: Incorrect. You can also choose a value and an email, which is stored as text.
     - content: Value, text, or sensitive text
       isCorrect: false 
       explanation: Incorrect. You can choose between email, text and sensitive text, which is encrypted, or text.
@@ -50,4 +50,4 @@ quiz:
       explanation: Incorrect. You can only choose between email, text and sensitive text, which is encrypted, or text.
     - content: Email, value, text, or sensitive text
       isCorrect: true
-      explanation: Correct. Email can be saved as text data type. When a new input variable is created the drop down menu under 'data type' allows 'Number' as an option, this corresponds to a value.
+      explanation: Correct. Email can be saved as text data type. When a new input variable is created the drop-down menu under 'data type' allows 'Number' as an option, this corresponds to a value.
