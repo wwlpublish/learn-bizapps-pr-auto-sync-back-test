@@ -20,9 +20,10 @@ This process will create the initial application registration. For purposes of t
 
 Additional items that you might want to consider include:
 
-- **Assign a role to the application** - Allows the application to access additional resources in your Azure subscription. For more information, see [Assign a role to the application](/azure/active-directory/develop/howto-create-service-principal-portal#assign-a-role-to-the-application/?azure.portal=true).
-- **Certificates and secrets** - Help manage authentication and control application security. For more information, see [Certificates and Secrets](/azure/active-directory/develop/howto-create-service-principal-portal#certificates-and-secrets/?azure-portal=true).
-- **Access policies on resources** - Allows you to define additional permissions that your application might need. For more information, see [Configure Access Policies](/azure/active-directory/develop/howto-create-service-principal-portal#configure-access-policies-on-resources/?azure-portal=true).
+- **Assign a role to the application** - Allows the application to access additional resources in your Azure subscription. For more information, see [Assign a role to the application](/azure/active-directory/develop/howto-create-service-principal-portal/?azure.portal=true#assign-a-role-to-the-application).
+- **Certificates and secrets** - Help manage authentication and control application security. For more information, see [Certificates and Secrets](/azure/active-directory/develop/howto-create-service-principal-portal/?azure-portal=true#certificates-and-secrets).
+- **Access policies on resources** - Allows you to define additional permissions that your application might need. For more information, see [Configure Access Policies](/azure/active-directory/develop/howto-create-service-principal-portal#configure-access-policies-on-resources/?azure-portal=true#configure-access-policies-on-resources).
+
 
 Now that you've created an application registration, you can build the Power Virtual Agents bot and configure it to  hand off conversations to Omnichannel for Customer Service.
 
@@ -95,7 +96,6 @@ If you no longer want to hand off conversations from a bot to your Omnichannel f
 
 As you work with the handoff integration, you might find that some items such as emojis and certain types of notes or variables, might not render as intended. One reason could be because of limitations within Omnichannel for Customer Service or the integration between them.
 
-For more information on Omnichannel for Customer Service issues and limitations, see [Omnichannel for Customer Service issues and limitations](/dynamics365/customer-service/configure-bot-virtual-agent/?azure-portal=true).
+For more information on Omnichannel for Customer Service issues and limitations, see [Omnichannel for Customer Service issues and limitations](/dynamics365/customer-service/configure-bot-virtual-agent/?azure-portal=true#limitations).
 
-For more information on known limitations with PVA integration, see [known limitations with Power Virtual Agents integration](/power-virtual-agents/configuration-hand-off-omnichannel#known-limitations/?azure-portal=true).
-
+For more information on known limitations with PVA integration, see [known limitations with Power Virtual Agents integration](/power-virtual-agents/configuration-hand-off-omnichannel/?azure-portal=true#known-limitations).
