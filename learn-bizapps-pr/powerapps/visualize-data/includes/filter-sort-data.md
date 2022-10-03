@@ -7,7 +7,7 @@ The process that you use to define which records will be part of a view will inv
 > [!div class="mx-imgBorder"]
 > ![Partial screenshot of the view designer. Focus is on the Filter by section in the right pane.](../media/filter.png)
 
-A filter is composed of one or multiple criteria that are applied against each record to determine whether it should be displayed or not; that is, displayed when the criteria set is valid or not displayed if invalid. You can group the different rules and set them with an **Or** clause when either rule is valid. Alternatively, you can set with an **And** clause when all rules must be valid.
+A filter is composed of one or multiple criteria that are applied against each record to determine whether it should be displayed or not. Basically, the record will be displayed when the criteria set is valid and won't be displayed if it's invalid. You can group the different rules and set them with an **Or** clause when either rule is valid. Alternatively, you can set with an **And** clause when all rules must be valid.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Edit filters page. Focus is on the Boolean operators of And/Or.](../media/edit-filters.png)](../media/edit-filters.png#lightbox)
@@ -29,7 +29,7 @@ When you add a new criterion, three options are available:
     > ![Partial screenshot of the Edit filters page. Focus is on the Add pop-out menu, displaying the available options of Add row, Add group, and Add related table.](../media/add-group.png)
 
 
-From a simple criterion to a complex set of criteria, you can set a filter definition by using a series of logical operations that determines whether a record should be displayed.
+From a simple criterion to a complex set of criteria, you can set a filter definition by using a series of logical operations that determine whether a record should be displayed.
 
 The filter definition isn't limited to the visible columns of a view, but for those visible columns, a shortcut is available to add a **Filter by** criterion. By selecting the column heading in the view editor, you can select a menu option to define the rule to apply.
 
