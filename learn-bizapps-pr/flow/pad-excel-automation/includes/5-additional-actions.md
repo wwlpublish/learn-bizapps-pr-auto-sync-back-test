@@ -10,15 +10,19 @@ To change the selected cells, use the **Select cells in Excel worksheet** action
 
 ![Screenshot of Select cells in Excel worksheet action properties dialog.](..\media\select-cells-in-excel-action-properties.png)
 
-Alternatively, set the **Select** option to **Range of cells relative to active cell** to select a number of cells from the currently selected cell.
+Alternatively, set the **Select** option to **Range of cells relative to active cell** to select many cells from the currently selected cell.
 
 To activate a particular cell, use the **Activate cell in Excel worksheet** action. In the **Activate** field, you can either choose to specify a cell by its coordinates (**Absolutely specified cell**) or relative to the currently active cell (**Relatively specified cell**).
 
 ![Screenshot of Activate Cell in Excel Worksheet action properties dialog.](..\media\activate-cell-in-excel-action-properties.png)
 
-It is also possible to insert and delete columns and rows by using the appropriate actions; however, you are required to specify a column or row index. In case of insertion, the row or column will be added before the one that is specified.
+It's also possible to insert and delete columns and rows by using the appropriate actions; however, you're required to specify a column or row index. In insertion, the row or column will be added before the one that is specified.
 
 ![Screenshot of Insert row to Excel worksheet action properties dialog.](..\media\insert-row-to-excel-action-properties.png)
+
+It's now possible to resize the selection of columns or rows in the active worksheet of an Excel instance
+
+![Screenshot of Properties of resize columns rows.](..\media\resize-columns-rows.png)
 
 The **Run Excel macro** action runs a specified macro saved in the workbook. Specify the name of the macro and any parameters separated by semicolons (;). 
 

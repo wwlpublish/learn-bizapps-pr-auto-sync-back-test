@@ -4,11 +4,10 @@ title: Add UI elements and test
 metadata: 
   title: Add UI elements and test
   description: Learn how to add UI elements and test the flow.
-  ms.date: 11/01/2021
-  author: DaveBeasley 
-  ms.author: dbeasley 
-  ms.topic: interactive-tutorial 
-  
+  ms.date: 10/03/2022
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: interactive-tutorial  
 durationInMinutes: 4
 content: | 
  [!include[](../includes/unit-banner.md)] 
