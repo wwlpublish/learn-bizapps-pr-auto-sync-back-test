@@ -1,10 +1,10 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.visualize-data.exercise-list-accounts
-title: Exercise
+title: Exercise - List your accounts
 metadata:
-  title: Exercise
-  description: Follow the steps to list the accounts you manage, sorted by annual revenue.
-  ms.date: 10/07/2022
+  title: Exercise - List your accounts
+  description: Follow the steps to list the accounts that you manage, sorted by annual revenue.
+  ms.date: 10/03/2022
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial
