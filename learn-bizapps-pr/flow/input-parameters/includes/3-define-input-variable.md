@@ -1,5 +1,8 @@
 Variables allow information to change or be variable for every run of your flow. If you're using a flow for any type of data entry, you'll need variables to define the fields that you need to enter. Input variables are information that you enter into the flow before or during the run. Output variables are outcomes that the flow gives back to you after the run. Power Automate for desktop provides you with the ability to receive input values from cloud flows and return values by using output variables. As a result, your automations can be seamlessly integrated. To define input variables, begin in your Power Automate for desktop app and then open the designer by editing a desktop flow.
 
+> [!NOTE]
+> This flow was built in the [Build your first Power Automate desktop flow module](/training/modules/build-first-desktop-flow/?azure-portal=true).
+
 > [!div class="mx-imgBorder"]
 > [![Screenshot of Power Automate for desktop Flows with the Edit icon highlighted.](../media/7-edit-flow.png)](../media/7-edit-flow.png#lightbox)
 
