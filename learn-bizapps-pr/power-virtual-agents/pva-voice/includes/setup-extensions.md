@@ -3,9 +3,9 @@ Before we begin, it's important to note that basic behavior of a voice enabled P
 Depending on whether you're leveraging Dynamics 365 Omnichannel for Customer Service for your contact center or not, there are three extensions you'll likely need to install to ensure your bot can interact correctly with your environment.  
 
 Those extensions are:
-- [Power Virtual Agents telephony extension](/product/dynamics-365/mscrm.mspva_telephony_extension/?azure-portal=true)
-- [Omnichannel Power Virtual Agent extension](/product/dynamics-365/mscrm.omnichannelpvaextension/?azure-portal=true)
-- [Omnichannel Voice Power Virtual Agent extension](/product/dynamics-365/mscrm.omnichannelvoicepvaextension/?azure-portal=true)
+- [Power Virtual Agents telephony extension](https://appsource.microsoft.com/product/dynamics-365/mscrm.mspva_telephony_extension)
+- [Omnichannel Power Virtual Agent extension](https://appsource.microsoft.com/product/dynamics-365/mscrm.omnichannelpvaextension)
+- [Omnichannel Voice Power Virtual Agent extension](https://appsource.microsoft.com/product/dynamics-365/mscrm.omnichannelvoicepvaextension)
 
 ## Power Virtual Agents telephone extension
 
