@@ -20,6 +20,10 @@ It is also possible to insert and delete columns and rows by using the appropria
 
 ![Screenshot of Insert row to Excel worksheet action properties dialog.](..\media\insert-row-to-excel-action-properties.png)
 
+It is now possible to resize the selection of columns or rows in the active worksheet of an Excel instance
+
+![Screenshot of Properties of resize columns rows.](..\media\resize-columns-rows.png)
+
 The **Run Excel macro** action runs a specified macro saved in the workbook. Specify the name of the macro and any parameters separated by semicolons (;). 
 
 ![Screenshot of Properties of 'Run Excel macro' action dialog](..\media\run-excel-macro-action-properties.png)
