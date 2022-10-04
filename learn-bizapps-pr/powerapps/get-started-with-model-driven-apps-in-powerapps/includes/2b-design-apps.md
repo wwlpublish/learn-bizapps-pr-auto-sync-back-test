@@ -24,7 +24,7 @@ With Model-driven apps, the name says it all. Your primary design goal is to get
 
 Model-driven apps are created using the App Designer.  You'll choose the tables, dashboards, Business Process flows, forms, and other components that you want to make available in your app, and then the app will be created for you. You'll need to spend more time understanding what your user needs than how it's going to look.
 
-### Business Requirements
+### Business requirements
 
 The first step in the process is to understand your business requirements. Work with the app stakeholders to consider your security, accessibility, data, and design needs.
 
@@ -34,7 +34,7 @@ During this process, you'll also want to identify any government regulations or 
 
 Finally, does your app need to be available when the user is disconnected from the internet? This availability is called Offline Mode and is supported by the Dataverse and Model-driven apps when using iOS or Android clients. It does require more design considerations. For more information, see [Set up mobile offline synchronization](/dynamics365/mobile-app/setup-mobile-offline-for-admin/?azure-portal=true).
 
-### Data Model
+### Data model
 
 As you begin the data modeling process, there are a couple of important questions to ask yourself:
 
@@ -79,7 +79,7 @@ Here's an example of what the New Fundraiser form looks like when editing from t
 > [!div class="mx-imgBorder"]
 > [![Screenshot example of New Fundraiser form.](../media/new-updated-fundraiser-form.png)](../media/new-updated-fundraiser-form.png#lightbox)
 
-### Business Logic
+### Business logic
 
 When you incorporate business logic in your app, there are two primary options available. You can set **Business Rules** on your Dataverse tables or you can build **Business Process Flows**.
 

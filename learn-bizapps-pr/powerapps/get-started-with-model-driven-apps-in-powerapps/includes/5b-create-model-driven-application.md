@@ -1,6 +1,8 @@
+In the [exercise](/training/modules/get-started-with-powerapps-common-data-service/4a-use-data-cds-exercise/?azure-portal=true) from the previous module of this learning path, you created the Prospects table in Microsoft Dataverse and imported the existing leads.
+
 ## Scenario
 
-In the [exercise](/training/modules/get-started-with-powerapps-common-data-service/4a-use-data-cds-exercise/?azure-portal=true) from the previous module of this learning path, you created the Prospects table in Microsoft Dataverse and imported the existing leads. In this exercise, you'll use that data to create a model-driven app.
+In this exercise, you'll use that data to create a model-driven app.
 If you don't have the Prospects table, then refer to the previous [exercise](/training/modules/get-started-with-powerapps-common-data-service/4a-use-data-cds-exercise/?azure-portal=true),
 keep the managers up to date on the current leads and forecasted revenue.
 
@@ -28,7 +30,7 @@ After you've created the *Prospects* table from the previous [exercise](/trainin
 
 1. Select **Publish**.
 
-### Creating a chart
+### Create a chart
 
 1. Start at [https://make.powerapps.com](https://make.powerapps.com)
 
@@ -52,7 +54,7 @@ After you've created the *Prospects* table from the previous [exercise](/trainin
 
 1. Select **Publish**.
 
-### Creating the form
+### Create the form
 
 You can follow the steps below to create a new main
 form.
