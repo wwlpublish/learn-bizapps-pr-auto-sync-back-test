@@ -1,9 +1,9 @@
-### YamlMime:Module 
+### YamlMime:Module
 uid: learn-bizapps.powerapps-common-data-service
-metadata: 
+metadata:
   title: Create tables in Microsoft Dataverse
   description: Dataverse lets you securely store and manage data that's used by business applications. Standard and custom tables within Dataverse provide a secure and cloud-based storage option for your data.
-  ms.date: 08/01/2022 
+  ms.date: 10/04/2022
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial
@@ -15,17 +15,17 @@ summary: |
 abstract: |
     In this module, you will:
     - Create tables with Dataverse
-    - Import data into a Dataverse database 
+    - Import data into a Dataverse database
 prerequisites: |
   - A Microsoft Power Apps account. If you don't already have a Power Apps account, select the **Get started free** link on [powerapps.com](https://make.powerapps.com/?utm_source=padocs&utm_medium=linkinadoc&utm_campaign=referralsfromdoc).
 iconUrl: /training/achievements/get-started-with-powerapps-common-data-service.svg
-levels:  
-- beginner 
-roles:  
+levels:
+- beginner
+roles:
 - business-user
 - functional-consultant
-- maker 
-products:  
+- maker
+products:
 - power-platform
 - power-apps
 - common-data-service

@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
+### YamlMime:ModuleUnit
 uid: learn-bizapps.powerapps-common-data-service.4a-use-data-cds-exercise
 title: Exercise - Create a custom table and import data
-metadata: 
+metadata:
   title: Exercise - Create a custom table and import data
   description: This exercise has you create a Microsoft Dataverse table, then import data.
-  ms.date: 08/01/2022
+  ms.date: 10/04/2022
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.subservice: dataverse-developer
-durationInMinutes: 15 
-content: | 
+durationInMinutes: 15
+content: |
   [!include[](../includes/unit-banner.md)]
-  [!include[](includes/4a-use-data-cds-exercise.md)]  
+  [!include[](includes/4a-use-data-cds-exercise.md)]
