@@ -1,4 +1,4 @@
-In this exercise, you will build a Power Automate flow that checks for the language of an email and then routes it to a specific email inbox. For more information, see [Create a flow](https://learn.microsoft.com/en-us/power-automate/desktop-flows/create-flow?azure-portal=true) in Power Automate documentation.
+In this exercise, you will build a Power Automate flow that checks for the language of an email and then routes it to a specific email inbox. For more information, see [Create a flow](https://learn.microsoft.com/power-automate/desktop-flows/create-flow?azure-portal=true) in Power Automate documentation.
 
 The prerequisite for this exercise is to have Microsoft Dataverse in the environment where you are building your flow.
 
