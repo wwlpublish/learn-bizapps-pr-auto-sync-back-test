@@ -1,6 +1,7 @@
 A model-driven app consists of several components that you select by using the App Designer. The components and component properties become the metadata. Let's look more closely at these components.
 
 ## Data
+
 The data components determine what data the app will be based upon.
 
 | Component        | Description | Designer |
@@ -11,6 +12,7 @@ The data components determine what data the app will be based upon.
 | Choice column | This type of column shows a control that lets the user select among predefined options. Each option has a number value and a label. Choice columns can require either a single value or multiple values. | Table designer |
 
 ## User interface
+
 The user interface components determine how users will interact with the app.
 
 | Component | Description | Designer |
@@ -19,9 +21,11 @@ The user interface components determine how users will interact with the app.
 | Form      | Forms include a set of data entry columns for a given table. This set of data entry columns matches the items that your organization tracks for the table. One example is a set of data entry columns where users enter relevant information to track a customer's previous orders together with specific requested reorder dates. | Form designer |
 | View      | Views define how a list of records for a specific table appears in your app. A view defines the columns shown, the width of each column, the sort behavior, and the default filters. | View designer |
 
-![Screenshot showing the details of the Form designer.](../media/updated-app-and-form-designers.png)
+> [!div class="mx-imgBorder"]
+> [![Screenshot showing the details of the Form designer.](../media/updated-app-and-form-designers.png)](../media/updated-app-and-form-designers.png#lightbox)
 
 ## Logic
+
 The logic components determine what business processes, rules, and automation the app will have. Microsoft Power Apps makers use a designer that's specific to the type of process or rule.
 
 | Type of logic         | Description | Designer |
@@ -33,6 +37,7 @@ The logic components determine what business processes, rules, and automation th
 | Flows                  | Power Automate is a cloud-based service that lets you create automated workflows between apps and services to get notifications, sync files, collect data, and more. | Power Automate |
 
 ## Visualization
+
 The visualization components determine what type of data and reporting the app will show.
 
 | Component                   | Description | Designer |
@@ -41,13 +46,17 @@ The visualization components determine what type of data and reporting the app w
 |Dashboard                    | Dashboards show one or more graphical visualizations that provide an overview of actionable business data. | Dashboard designer |
 | Embedded Microsoft Power BI | Power BI adds embedded Power BI tiles and dashboards to your app. Power BI is a cloud-based service that provides business intelligence (BI) insight. | A combination of chart designer, dashboard designer, and Power BI |
 
-![Screenshot example of visualization components with charts.](../media/updated-dashboard-designer2.png)
+> [!div class="mx-imgBorder"]
+> [![Screenshot example of visualization components with charts.](../media/updated-dashboard-designer2.png)](../media/updated-dashboard-designer2.png#lightbox)
 
 ## Advanced model-driven apps
+
 Solution Explorer is used to make advanced model-driven apps. By using the navigation pane on the left side of the tool, you can navigate a hierarchy that consists of all app components.
 
 To access the classic Solution Explorer, you must first select a Solution then select **Switch to classic**.
 
-![Screenshot of the Switch to Classic feature.](../media/switch-to-classic.png)
+> [!div class="mx-imgBorder"]
+> [![Screenshot of the Switch to Classic feature.](../media/switch-to-classic.png)](../media/switch-to-classic.png#lightbox)
 
-![Screenshot of the Class Solution Explorer.](../media/updated-solutionexplorer-entitiescollapsed.png)
+> [!div class="mx-imgBorder"]
+> [![Screenshot of the Class Solution Explorer.](../media/updated-solutionexplorer-entitiescollapsed.png)](../media/updated-solutionexplorer-entitiescollapsed.png#lightbox)
