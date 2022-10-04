@@ -24,14 +24,14 @@ The app must be shared so that the pet grooming staff can use it. To share the a
 
 ## Create or set up a security role
 
-The Power Apps environment includes predefined security roles. These roles reflect common user tasks, and the access levels that are defined follow the security best practice of providing access to the minimum amount of business data that's required to use the app.
+The Power Apps environment includes predefined security roles. These roles reflect common user tasks. The access levels that are defined follow the security best practice of providing access to the minimum amount of business data that's required to use the app.
 
-Remember that the Contoso pet grooming app is based on a custom table. Because the table is custom, privileges must be explicitly specified before users can work in it. To do this, you can use either of the following approaches:
+Remember that the Contoso pet grooming app is based on a custom table. Because the table is custom, privileges must be explicitly specified before users can work in it. To specify privileges, you can use either of the following approaches:
 
 - Expand an existing predefined security role so that it includes privileges on rows that are based on the custom table.
 - Create a custom security role to manage privileges for users of the app.
 
-Because the environment that will maintain the pet grooming rows is also used for other apps that the Contoso company runs, a custom security role that's specific to the pet grooming app will be created. Additionally, two different sets of access privileges are required:
+The environment that will maintain the pet grooming rows is also used for other apps that the Contoso company runs. Therefore, a custom security role that's specific to the pet grooming app will be created. Additionally, two different sets of access privileges are required:
 
 - Pet grooming technicians just need to read, update, and attach other rows. Therefore, their security role will have read, write, and append privileges.
 - Pet grooming schedulers need all the privileges that pet grooming technicians have. In addition, they must be able to create, append to, delete, and share rows. Therefore, their security role will have create, read, write, append, delete, assign, append to, and share privileges.
@@ -42,24 +42,36 @@ To learn more about access and the scope of the different privileges, see [Secur
 
 1. Sign in to [Power Apps](https://powerapps.microsoft.com/?azure-portal=true) by using your organizational account. If you don't already have an account, select **Get started free**.
 
-1. For your new app, select the **...** to the right of the name, and then click **Share**.
+1. For your new app, select the **...** to the right of the name, and then select **Share**.
+
 1. In the **Share** dialog box, select your app at the top left and then select the drop-down next to the environment on the right. Select **Manage security role**.
 
-   ![Screenshot of Share dialog box with manage security role selected.](../media/share-custom-security.png)
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of Share dialog box with manage security role selected.](../media/share-custom-security.png)](../media/share-custom-security.png#lightbox)
 
-1. On the **All Roles** page, click **New**.
+1. On the **All Roles** page, select **New**.
+
 1. In the **Role Name** box, enter *Pet Grooming Technicians*.
+
 1. In the Security Role designer, on the **Custom Tables** tab, find the **Pet** table.
-1. On the **Pet** row, click **Read**, **Write**, and **Append** four times, to set the scope for each to *organization* ![Screenshot of the Global organization scope green.](../media/organizational-scope-privilege.png) is selected:
 
-    ![Screenshot of the Read, Write, and Append with scope set green.](../media/updated-custom-security-role.png)
+1. On the **Pet** row, click **Read**, **Write**, and **Append** four times, to set the scope for each to *organization*.
 
-1. The pet grooming app also has a relationship with the account table. On the **Core Rows** tab, on the **Account** row select the **Read** privilege four times until it is set to *organization* scope ![Screenshot of global organization scope set to green.](../media/organizational-scope-privilege.png).
-1. Click **Save and Close**.
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Read, Write, and Append with scope set green.](../media/updated-custom-security-role.png)](../media/updated-custom-security-role.png#lightbox)
+
+1. The pet grooming app also has a relationship with the account table. On the **Core Rows** tab, on the **Account** row select the **Read** privilege four times until it's set to *organization* scope.
+
+1. Select **Save and Close**.
+
 1. In the Security Role designer, select **New** and then in the **Role Name** box, enter *Pet Grooming Schedulers*.
+
 1. On the **Custom Tables** tab, find the **Pet** table.
-1. On the **Pet** row, click each of the following privileges four times, until the *organization* scope ![Global organization green scope icon.](../media/organizational-scope-privilege.png) is selected: **Create**, **Read**, **Write**, **Delete**, **Append**, **Append To**, **Assign**, and **Share**.
-1. The pet grooming app also has a relationship with the account table, and schedulers must be able to create and change account rows. Therefore, on the **Core rows** tab, on the **Account** row, select each of the following privileges four times, until the *organization* scope ![Global organization scope green icon.](../media/organizational-scope-privilege.png) is selected: **Create**, **Read**, **Write**, **Delete**, **Append**, **Append To**, **Assign**, and **Share**.
+
+1. On the **Pet** row, click each of the following privileges four times, until the *organization* scope is selected: **Create**, **Read**, **Write**, **Delete**, **Append**, **Append To**, **Assign**, and **Share**.
+
+1. The pet grooming app also has a relationship with the account table, and schedulers must be able to create and change account rows. Therefore, on the **Core rows** tab, on the **Account** row, select each of the following privileges four times, until the *organization* scope is selected: **Create**, **Read**, **Write**, **Delete**, **Append**, **Append To**, **Assign**, and **Share**.
+
 1. Select **Save and Close**.
 
 ## Assign security roles to users
@@ -68,21 +80,28 @@ Security roles control a user's access to data through a set of access levels an
 
 ### Assign a security role to the pet grooming technicians
 
-1. Select the model-driven app you created in the previous unit and click **Share**.
-2. In the **Share** dialog box, select your app on the left and then select the drop-down next to the environment name on the right and then choose the **Pet Grooming Technicians** role.
+1. Select the model-driven app you created in the previous unit and select **Share**.
 
-    ![Screenshot of the Manage Security roles drop down.](../media/select-users-for-security-roles.png)
+1. In the **Share** dialog box, select your app on the left and then select the drop-down next to the environment name on the right and then choose the **Pet Grooming Technicians** role.
 
-3. In the list below the app, select a few of your users to be pet groomers.
-4. Select the drop-down next to the environment name and choose **Pet Grooming Technicians** security role to assign it to that user.
-5. Select **Share** at the bottom when finished.
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Manage Security roles drop down.](../media/select-users-for-security-roles.png)](../media/select-users-for-security-roles.png#lightbox)
+
+1. In the list below the app, select a few of your users to be pet groomers.
+
+1. Select the drop-down next to the environment name and choose **Pet Grooming Technicians** security role to assign it to that user.
+
+1. Select **Share** at the bottom when finished.
 
 ### Assign a security role to the pet grooming schedulers
 
 1. In the **Share** dialog box, select your app on the left and then select the drop-down next to the environment name on the right and then choose the **Pet Grooming Schedulers** role.
-2. In the list below the app, select a few of your users to be pet grooming schedulers.
-3. Select the drop-down next to the environment name and choose **Pet Grooming Schedulers** security role to assign it to that user.
-4. Select **Share** at the bottom when finished.
+
+1. In the list below the app, select a few of your users to be pet grooming schedulers.
+
+1. Select the drop-down next to the environment name and choose **Pet Grooming Schedulers** security role to assign it to that user.
+
+1. Select **Share** at the bottom when finished.
 
 ## About predefined security roles
 
@@ -90,7 +109,7 @@ The following predefined roles are available with a PowerApps environment. Unles
 
 | Security role            | Privileges | Description |
 |--------------------------|------------|-------------|
-| Environment Maker        | None | Users who have this role can create new resources that are associated with an environment, including apps, connections, custom application programming interfaces (APIs), gateways, and flows that use Microsoft Flow. But these users can't access the data in an environment. To learn more about environments, see [Announcing Power Apps environments](https://powerapps.microsoft.com/blog/powerapps-environments/?azure-portal=true). |
+| Environment Maker        | None | Users who have this role can create new resources that are associated with an environment. For example: apps, connections, custom application programming interfaces (APIs), gateways, and flows that use Microsoft Flow. But these users can't access the data in an environment. To learn more about environments, see [Announcing Power Apps environments](https://powerapps.microsoft.com/blog/powerapps-environments/?azure-portal=true). |
 | System Administrator     | Create, Read, Write, Delete, Customize | This role has full permission to customize or administer the environment, including creating, changing, and assigning security roles. Users who have this role can view all data in the environment. To learn more, see [Privileges required for customization](/power-apps/maker/model-driven-apps/privileges-required-customization?azure-portal=true). |
 | System Customizer        | Create (self), Read (self), Write (self), Delete (self), Customizations | This role has full permission to customize the environment. But users who have this role can view rows only for environment tables that they create. To learn more, see [Privileges required for customization](/power-apps/maker/model-driven-apps/privileges-required-customization?azure-portal=true). |
 | Basic User | Read, Create (self), write (self), delete (self) | Users who have this role can run an app in the environment and perform common tasks for the rows they own. |

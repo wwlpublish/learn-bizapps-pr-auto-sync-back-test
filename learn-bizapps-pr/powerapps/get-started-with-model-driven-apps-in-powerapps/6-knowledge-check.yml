@@ -2,33 +2,32 @@
 uid: learn-bizapps.powerapps-design-model-driven-apps.6-knowledge-check
 metadata:
   title: Check your knowledge
-  description: Answer the following questions to see what you've learned. 
-  ms.date: 07/08/2022 
+  description: Answer the following questions to see what you've learned.
+  ms.date: 10/04/2022
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial
-   
 title: Check your knowledge
 durationInMinutes: 6
 quiz:
-  title: Answer the following questions to see what you've learned. 
+  title: Answer the following questions to see what you've learned.
   questions:
-  - content: When building model-driven apps, which designer is used to define the navigation of your app?
-    choices: 
-    - content: App designer
+  - content: What components make up the building blocks of model-driven apps?
+    choices:
+    - content: Tables, Columns, Relationships, and Choice columns
       isCorrect: false
-      explanation: The site map is used to define the navigation of your app.
-    - content: View designer
+      explanation: Not quite, these components are part of your Data building block. The other building blocks include User Interface, Logic and Visualizations.
+    - content: Charts, Dashboards and Embedded Microsoft Power BI
       isCorrect: false
-      explanation: The site map is used to define the navigation of your app.
-    - content: Site map designer
-      isCorrect: true 
-      explanation: The site map is used to define the navigation of your app.
-    - content: Dashboard designer
+      explanation: These items are part of the Visualizations building block. The other building blocks include Data, User Interface and Logic.
+    - content: Data, User interface, Logic and Visualizations
+      isCorrect: true
+      explanation: Correct! The building blocks of model-driven apps include Data, User interface, Logic and Visualizations.
+    - content: Data and Visualizations
       isCorrect: false
-      explanation: The site map designer is used to define the navigation of your app.
+      explanation: Data and Visualizations are two of the building blocks, but you need to include User Interface and Logic.
   - content: If you wanted to create a standard procedure or process for handling service requests what type of logic would be best to implement?
-    choices: 
+    choices:
     - content: Business process flow
       isCorrect: true
       explanation: Business process flow logic should be used.
@@ -41,15 +40,15 @@ quiz:
     - content: Flow
       isCorrect: false
       explanation: Business process flow logic should be used.
-  - content: When sharing a model-driven app, which of the following statements is true?
-    choices: 
+  - content: When you share a model-driven app, which of the following statements is true?
+    choices:
     - content: Users just need to be added to a predefined security role.
       isCorrect: false
       explanation: To share a model-driven app, you need to add a user to a security role that is assigned to the app.
     - content: Users just need to be added to a custom security role.
       isCorrect: false
       explanation: To share a model-driven app, you need to add a user to a security role that is assigned to the app.
-    - content: Model-driven apps do not need to be shared, they are accessible to anyone with the app link.
+    - content: Model-driven apps don't need to be shared, they're accessible to anyone with the app link.
       isCorrect: false
       explanation: To share a model-driven app, you need to add a user to a security role that is assigned to the app.
     - content: Users need to be added to a predefined or custom security role and then you also need to assign one or more security roles to the app.
