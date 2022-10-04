@@ -16,7 +16,7 @@ Here's a quick look at the App Designer for an example Model-driven app called â
 When the app is put into Play Mode, it looks different.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of a model-driven app in play mode.](../media/fundraiser-app-in-play-mode.png)](../media/fundraiser-app-in-play-mode.png#lightbox)
+> ![Screenshot of a model-driven app in play mode.](../media/fundraiser-app-in-play-mode.png)
 
 ## Understand the needs of the user
 
@@ -46,7 +46,7 @@ These questions are important when designing a model-driven application because 
 You can view the app metadata by reviewing the table in the Dataverse.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of app metadata of table in the Dataverse.](../media/new-metadata-example.png)](../media/new-metadata-example.png#lightbox)
+> ![Screenshot of app metadata of table in the Dataverse.](../media/new-metadata-example.png)
 
 You can also view the app metadata by putting the app in Play mode.
 
@@ -92,7 +92,7 @@ With **Business Rules,** you'll define behaviors at the data layer. Business rul
 A common output need for apps is to visualize the data.  For this requirement, you can implement Dashboards with custom filters and visual graphics to tie all of this data together right in your app. When creating your Dashboards, make sure itâ€™s simple for your users to consume without overwhelming them with all the data. Provide high-level snapshots of your data and allow them to use filters to dive deeper into the data if needed.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of Fundraiser app in play mode to visualize data.](../media/fundraiser-app-in-play-mode.png)](../media/fundraiser-app-in-play-mode.png#lightbox)
+> ![Screenshot of Fundraiser app in play mode to visualize data.](../media/fundraiser-app-in-play-mode.png)
 
 ### More third-party solutions and app accelerators
 
