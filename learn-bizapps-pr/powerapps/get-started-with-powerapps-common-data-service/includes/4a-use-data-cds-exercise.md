@@ -35,7 +35,8 @@ customers for your app.
     - **Data Type**: Select *Choice* (and select *Choice* from the popup)
     - **Required**: Select *Business required*
 
-    ![Screenshot of New column pane showing entry fields](../media/new-column-pane.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of New column pane showing entry fields](../media/new-column-pane.png)
 
 1. Under **Sync this choice with**, select **New choice**. The *New choice* pane will appear. Enter the following information and select **Save**.
 
@@ -48,11 +49,12 @@ customers for your app.
         - **Lost**
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of new choice pane showing four choices entered.](../media/new-choice-pane.png)](../media/new-choice-pane.png#lightbox)
+    > ![Screenshot of new choice pane showing four choices entered.](../media/new-choice-pane.png)
 
 1. Once you've saved your *New choice*, select the dropdown under **Sync this choice with** and find/select **Prospect Stage**.
 
-    ![Screenshot of dropdown list showing Synch this choice with options and Prospect Stage highlighted.](../media/sync-with-prospect-stage.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of dropdown list showing Synch this choice with options and Prospect Stage highlighted.](../media/sync-with-prospect-stage.png)
 
 1. Under **Default choice** select *Lead*
 
@@ -82,7 +84,8 @@ customers for your app.
 
     ```crXXX_contractamount * (crXXX_probability / 100)```
 
-    ![Screenshot of the calculated field action entry point](../media/calculated-field-window.png)
+    > [!div class="mx-imgBorder"]
+    > ![Screenshot of the calculated field action entry point](../media/calculated-field-window.png)
 
 1. If it looks good, select the circled checkmark to save your changes. (You may need to scroll right to see the circled checkmark.)
 
@@ -133,7 +136,8 @@ customers for your app.
 
 1. Notice your new business rule has been added to the Business rules screen. Select **Prospects** to return to your table editing screen.
 
-    ![Business rules chart showing your new rule: Make Probability Required. The Prospects table name is highlighted.](../media/business-rule-list.png)
+    > [!div class="mx-imgBorder"]
+    > ![Business rules chart showing your new rule: Make Probability Required. The Prospects table name is highlighted.](../media/business-rule-list.png)
 
 ### Import data from an Excel file
 
@@ -177,6 +181,7 @@ exercise. Open this [link](https://github.com/MicrosoftDocs/mslearn-developer-to
 
 1. Ensure that the data has been successfully imported. Your columns and data should look similar to this:
 
-    ![Final look at columns showing imported data](/media/final-columns.png)
+    > [!div class="mx-imgBorder"]
+    > [![Final look at columns showing imported data](../media/final-columns.png)](../media/final-columns.png#lightbox)
 
 Congratulations! You've created a custom table with a business rule and imported from an Excel data source. Now you have an automated way to store your potential customers.
