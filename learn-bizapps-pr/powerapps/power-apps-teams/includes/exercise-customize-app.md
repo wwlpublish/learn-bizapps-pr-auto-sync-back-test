@@ -102,11 +102,11 @@ Now that the data model has been created in Dataverse, you can customize the app
 
 1. Map the source column to the destination column as shown below then select **Publish**.
 
-|     Source column    |     Destination column    |
-|----------------------|---------------------------|
-|     Image            |     Image                 |
-|     Asset Name       |     Name                  |
-|     Price            |     Price                 |
+	|     Source column    |     Destination column    |
+	|----------------------|---------------------------|
+	|     Image            |     Image                 |
+	|     Asset Name       |     Name                  |
+	|     Price            |     Price                 |
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the publish button.](../media/publish.png)](../media/publish.png#lightbox)
@@ -128,17 +128,17 @@ Now that the data model has been created in Dataverse, you can customize the app
 
 1. You'll need to populate the category column. Select the correct category for each of the assets.
 
-|     Asset Name                             |     Category     |
-|--------------------------------------------|------------------|
-|     Cappuccino Cup w/ Saucer               |     Accessory    |
-|     Contoso Logo Beanie                    |     Apparel      |
-|     Contoso Logo Cap                       |     Apparel      |
-|     Hope is brewing Long Sleeve (heart)    |     Apparel      |
-|     Hope is brewing Long Sleeve (logo)     |     Apparel      |
-|     Hope is brewing T-Shirt (heart)        |     Apparel      |
-|     Hope is brewing T-Shirt (logo)         |     Apparel      |
-|     Latte Glass                            |     Accessory    |
-|     Travel Mug                             |     Accessory    |
+	|     Asset Name                             |     Category     |
+	|--------------------------------------------|------------------|
+	|     Cappuccino Cup w/ Saucer               |     Accessory    |
+	|     Contoso Logo Beanie                    |     Apparel      |
+	|     Contoso Logo Cap                       |     Apparel      |
+	|     Hope is brewing Long Sleeve (heart)    |     Apparel      |
+	|     Hope is brewing Long Sleeve (logo)     |     Apparel      |
+	|     Hope is brewing T-Shirt (heart)        |     Apparel      |
+	|     Hope is brewing T-Shirt (logo)         |     Apparel      |
+	|     Latte Glass                            |     Accessory    |
+	|     Travel Mug                             |     Accessory    |
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the category list.](../media/category-list.png)](../media/category-list.png#lightbox)
@@ -171,25 +171,23 @@ Now that the data model has been created in Dataverse, you can customize the app
     
     Make your selections in the bottom half of the form first:
 
-    **Matching field:**
+    	**Matching field:**
 
-		**Assets**
+			**Assets**
 	
-	    **Category**
+	    	**Category**
 
     Then select values in the top half for Parent control.
 
-    **Parent control:**
+    	**Parent control:**
 
-	    **DataCardValue6** (\*see notes below)
+	   	 	**DataCardValue6** (\*see notes below)
 	
-	    **Name**
+	    	**Name**
 
-    Notes:
-
-	-   It's important to do the selections in this order - if you select the parent control first, when you select the Asset table in the Matching field, it resets your selections in the top half. If you do it in the wrong order, just change the Parent control back to what it should be so that it matches the screenshot below.
-	
-	-   \*You may have a different number for DataCardValue6 if you added your columns in a different order. There are only two options available to select here - in one, the only dropdown in the second option is "Value". Use the one, which allows you to select "Name" in the dropdown list.
+> [!NOTE]
+> It's important to do the selections in this order - if you select the parent control first, when you select the Asset table in the Matching field, it resets your selections in the top half. If you do it in the wrong order, just change the Parent control back to what it should be so that it matches the screenshot below.
+> \*You may have a different number for DataCardValue6 if you added your columns in a different order. There are only two options available to select here - in one, the only dropdown in the second option is "Value". Use the one, which allows you to select "Name" in the dropdown list.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the modified properties on Data Card Value.](../media/modify-properties.png)](../media/modify-properties.png#lightbox)
@@ -210,8 +208,8 @@ Your final formula will look like this, and the error and warning messages will 
 
 	`Filter(Assets, Category.Name = DataCardValue6.Selected.Name)`
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the final formula.](../media/final-formula.png)](../media/final-formula.png#lightbox)
+> [!div class="mx-imgBorder"]
+> [![Screenshot of the final formula.](../media/final-formula.png)](../media/final-formula.png#lightbox)
 
 ### Locale differences
 

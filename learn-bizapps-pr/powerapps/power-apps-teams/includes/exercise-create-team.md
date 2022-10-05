@@ -18,7 +18,7 @@ To begin, you'll set the Locale of Teams to US English to make it convenient for
 
 1.  If you made a change to the language setting in the previous step, you'll need to restart Teams to apply the setting. Close your Teams browser. Launch the browser again and navigate to [Teams](https://teams.microsoft.com/). Sign in with the account you're using for the labs.
 
-## Task: Create a new Team 
+## Task: Create a new team 
 
 1.  Select **Join or create a team**, located on the bottom left of the screen. You may need to select the **Teams** option from the left navigation menu to see this option.
 
@@ -36,7 +36,7 @@ To begin, you'll set the Locale of Teams to US English to make it convenient for
 1.  Set the team as **Public**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of creating Public team from scratch.]](../media/public.png)](../media/public.png#lightbox)
+	> [![Screenshot of creating Public team from scratch.](../media/public.png)](../media/public.png#lightbox)
 
 1.  Give your Team a unique name, such as **Office - \<your name\>**. Then, select **Create**.
 
@@ -95,7 +95,8 @@ One way to get started creating your data model in Dataverse is to begin by crea
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of name new app.](../media/name-app.png)](../media/name-app.png#lightbox)
 
-	**Note: If your app has been "Saving" for longer than 5 minutes, there may have been a problem in its creation**. To try again, refresh the page.
+	> [!NOTE]
+	> If your app has been "Saving" for longer than 5 minutes, there may have been a problem in its creation**. To try again, refresh the page.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of name saving.](../media/save-name.png)](../media/save-name.png#lightbox)
