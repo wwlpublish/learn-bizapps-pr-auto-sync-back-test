@@ -96,7 +96,7 @@ One way to get started creating your data model in Dataverse is to begin by crea
 	> [![Screenshot of name new app.](../media/name-app.png)](../media/name-app.png#lightbox)
 
 	> [!NOTE]
-	> If your app has been "Saving" for longer than 5 minutes, there may have been a problem in its creation**. To try again, refresh the page.
+	> If your app has been "Saving" for longer than 5 minutes, there may have been a problem in its creation. To try again, refresh the page.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of name saving.](../media/save-name.png)](../media/save-name.png#lightbox)
