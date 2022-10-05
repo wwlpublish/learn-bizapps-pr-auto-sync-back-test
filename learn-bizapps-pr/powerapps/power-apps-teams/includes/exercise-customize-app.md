@@ -171,23 +171,16 @@ Now that the data model has been created in Dataverse, you can customize the app
     
     Make your selections in the bottom half of the form first:
 
-    	**Matching field:**
-
-			**Assets**
-	
-	    	**Category**
+    **Matching field:** **Assets**, **Category**
 
     Then select values in the top half for Parent control.
 
-    	**Parent control:**
+    **Parent control:**	**DataCardValue6** (\*see notes below), **Name**
 
-	   	 	**DataCardValue6** (\*see notes below)
-	
-	    	**Name**
-
-> [!NOTE]
-> It's important to do the selections in this order - if you select the parent control first, when you select the Asset table in the Matching field, it resets your selections in the top half. If you do it in the wrong order, just change the Parent control back to what it should be so that it matches the screenshot below.
-> \*You may have a different number for DataCardValue6 if you added your columns in a different order. There are only two options available to select here - in one, the only dropdown in the second option is "Value". Use the one, which allows you to select "Name" in the dropdown list.
+    > [!NOTE]
+    > It's important to do the selections in this order - if you select the parent control first, when you select the Asset table in the Matching field, it resets your selections in the top half. If you do it in the wrong order, just change the Parent control back to what it should be so that it matches the screenshot below.
+    >
+    > You may have a different number for DataCardValue6 if you added your columns in a different order. There are only two options available to select here - in one, the only dropdown in the second option is "Value". Use the one, which allows you to select "Name" in the dropdown list.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the modified properties on Data Card Value.](../media/modify-properties.png)](../media/modify-properties.png#lightbox)
