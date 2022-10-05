@@ -3,7 +3,7 @@ uid: learn-bizapps.pva-voice.introduction
 title: Introduction
 metadata: 
   title: Introduction
-  description: Learn how Interactive Voice Response (IVR), an automated phone system technology allows incoming callers to access information via a voice response system of different pre-recorded messages without having to speak to an agent.
+  description: Introduction to setting up a Power Virtual Agents bot for voice
   ms.date: 09/28/2022 
   author: Heyrob 
   ms.author: Robde 
