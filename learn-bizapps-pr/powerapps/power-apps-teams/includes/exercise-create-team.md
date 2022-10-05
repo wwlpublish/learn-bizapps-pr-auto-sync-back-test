@@ -225,7 +225,7 @@ One way to get started creating your data model in Dataverse is to begin by crea
 1. Enter **Image** for Display name, select **Text** for Format, and expand the **Advanced options** section.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the column advanced options.](../media/column-advanced-options.png)](../media/column-advanced-options.png#lightbox)
+	> [![Screenshot of the column advanced section options.](../media/column-advanced-options.png)](../media/column-advanced-options.png#lightbox)
 
 1. Enter **200** for Maximum character count and select **Save**.
 
