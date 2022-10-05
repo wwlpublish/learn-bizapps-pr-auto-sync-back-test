@@ -24,7 +24,7 @@ The app is now ready to be published out to Teams. Once published, it will be av
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the expand tab button.](../media/expand-tab.png)](../media/expand-tab.png#lightbox)
 
-## Task: Interact with the app on Teams Mobile App (Optional)
+## Task: Interact with the app on Teams mobile app (Optional)
 
 The app you've published is also available to users via the Microsoft Teams mobile app.
 
