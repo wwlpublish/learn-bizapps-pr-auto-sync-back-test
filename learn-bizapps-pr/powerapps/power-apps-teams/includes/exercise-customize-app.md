@@ -175,7 +175,7 @@ Now that the data model has been created in Dataverse, you can customize the app
 
     Then select values in the top half for Parent control.
 
-    **Parent control:**	**DataCardValue6** (\*see notes below), **Name**
+    **Parent control:**	**DataCardValue6** (see note below), **Name**
 
     > [!NOTE]
     > It's important to do the selections in this order - if you select the parent control first, when you select the Asset table in the Matching field, it resets your selections in the top half. If you do it in the wrong order, just change the Parent control back to what it should be so that it matches the screenshot below.
