@@ -145,12 +145,12 @@ You can also create your own flows from blank and use them to connect with your 
 1. In the Table name box, select **Requests**, and in the Row ID, go to the dynamic content pane and search for requests. Select **Request** which has come from the When a row is added, modified or deleted step.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of creating a flow- Dataverse Update a row with row I D set to request.](../media/update-request.png)](../media/update-request.png#lightbox)
+    > [![Screenshot of creating a flow- Dataverse Update a row with update a row 2 I D set to request.](../media/update-request.png)](../media/update-request.png#lightbox)
 
 1. Select **Show advanced options** to see the rest of what you can update in this record. In the **Approval Status** box, select **Rejected**.
 
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of creating a flow- Dataverse Update a row.](../media/rejected.png)
+    > ![Screenshot of creating a flow- Dataverse Update a row with approval status set to rejected.](../media/rejected.png)
 
 1. Save your flow by selecting the **Save** button.
 

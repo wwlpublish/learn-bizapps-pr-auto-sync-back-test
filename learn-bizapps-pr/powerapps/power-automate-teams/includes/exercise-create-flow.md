@@ -85,7 +85,7 @@
 1. You'll be prompted with a question asking you when you'd like to be reminded. Select current date, for the time select time 30 minutes from the current time and select **Submit**.
 
     > [!div class="mx-imgBorder"]
-    > [![A screenshot of Teams- following up on a message posted in channel.](../media/date-time.png)](../media/date-time.png#lightbox)
+    > [![A screenshot of Teams- following up on a message posted in channel with date and time highlighted.](../media/date-time.png)](../media/date-time.png#lightbox)
 
 1. **You can move on to Exercise 2 and continue the rest of this lab while waiting for this flow to run.** In 30 minutes, you'll see a notification in the activity. Select the activity to view the message that you set as a trigger of your flow.
 
