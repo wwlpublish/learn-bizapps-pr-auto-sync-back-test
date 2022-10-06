@@ -20,7 +20,7 @@ prerequisites: |
     - Completion of prior module. If you didn't complete the prior exercises, follow the steps here to import the needed components before you start these exercises.
     - You'll need an environment with a licensed user to complete these exercises. Follow the sign-up [process](/microsoft-365/enterprise/office-365-e5) if you need a training environment. It isn't recommended to use your production (live environment for work or school) user/tenant for completing these exercises.
     - If you can't install Power BI desktop, you won't be able to complete this lab.
-    - For this lab, you'll need access to Microsoft Power BI Desktop on your device. If you don't already have Power BI Desktop installed, you'll need to download and install it using one of the following options. If you have Windows 10 or 11, use Microsoft App Store to download and install the Power BI Desktop app. Or, download and install [Microsoft Power BI Desktop](http://www.microsoft.com/en-us/download/details.aspx?id=45331).
+    - For this lab, you'll need access to Microsoft Power BI Desktop on your device. If you don't already have Power BI Desktop installed, you'll need to download and install it using one of the following options. If you have Windows 10 or 11, use Microsoft App Store to download and install the Power BI Desktop app. Or, download and install [Microsoft Power BI Desktop](https://www.microsoft.com/download/details.aspx?id=45331).
 iconUrl: /learn/achievements/power-bi-teams.svg  
 levels:  
 - beginner   
