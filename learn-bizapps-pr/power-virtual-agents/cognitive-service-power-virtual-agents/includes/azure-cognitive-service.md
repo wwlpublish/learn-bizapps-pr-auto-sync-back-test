@@ -4,7 +4,7 @@ These features can be one of the following types:
 
 - **Preconfigured** - These prebuilt AI models are intended for easier consumption, so they aren't customizable. You can send your data and use the feature's output in your applications.
 
-- **Customizable** - You will train an AI model by using the tools to fit your data specifically.
+- **Customizable** - You'll train an AI model by using the tools to fit your data specifically.
 
 With Azure Cognitive Services for Language, you can accomplish multiple tasks:
 
