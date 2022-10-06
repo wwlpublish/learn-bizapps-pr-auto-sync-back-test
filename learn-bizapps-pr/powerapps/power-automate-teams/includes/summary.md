@@ -1,0 +1,1 @@
+In this lab, you've explored the templated flows available for you to use quickly and easily with Power Automate embedded in Teams. You have also built your own flow from scratch, connected to your Dataverse for Teams table, to trigger an approval process, and to send a Teams message.
