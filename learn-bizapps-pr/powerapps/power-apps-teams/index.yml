@@ -2,7 +2,7 @@
 uid: learn-bizapps.power-apps-teams 
 metadata: 
  title: Create a Power Apps for Teams app for Contoso Coffee - bootcamp
- description: In this lab, you'll create an app for Microsoft Teams that allows employees to request Contoso Coffee swag.
+ description: In this lab, you'll create an app for Microsoft Teams that allows employees to request Contoso Coffee branded apparel and accessories.
  ms.date: 10/05/2022  
  author: DaveBeasley  
  ms.author: dbeasley  
@@ -10,13 +10,13 @@ metadata:
 title: Create a Power Apps for Teams app for Contoso Coffee - bootcamp
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  In this lab, you'll create an app for Microsoft Teams that allows employees to request Contoso Coffee swag (that is, branded apparel and accessories). Power Apps is a low-code/no-code tool used to build your own custom business applications using drag and drop functionality. You'll see how Microsoft Dataverse for Teams can be used to build out your own data model and store data. From the data model you create, you'll build an app using Power Apps, which gives users a front-end interface to perform a task and interact with data. You'll start by creating a Dataverse instance with tables relating to the swag ordering scenario. The tables will store details of the available assets for order, then you'll build an app which employees can use to submit their requests. 
+  In this lab, you'll create an app for Microsoft Teams that allows employees to request Contoso Coffee branded apparel and accessories. Power Apps is a low-code/no-code tool that you can use to build your own custom business applications by using drag and drop functionality. In this module, you'll discover how to use Microsoft Dataverse for Teams to build your own data model and store data. From the data model that you create, you'll build an app by using Power Apps, which gives users a front-end interface to perform a task and interact with data. You'll start by creating a Dataverse instance with tables that relate to the merchandise ordering scenario. The tables will store details of the available assets for order, and then you'll build an app that employees can use to submit their requests.
 abstract: |  
-    In this module, you will: 
-    - Create a Microsoft Dataverse instance
-    - Build a custom app
-    - Publish and share the app
-prerequisites: You'll need an environment with a licensed user to complete these exercises. Follow the sign-up [process](/microsoft-365/enterprise/office-365-e5) if you need a training environment. It isn't recommended to use your production (live environment for work or school) user/tenant for completing these exercises.
+    In this module, you'll: 
+    - Create a Microsoft Dataverse instance.
+    - Build a custom app.
+    - Publish and share the app.
+prerequisites: You'll need an environment with a licensed user to complete these exercises. Follow the sign-up [process](/microsoft-365/enterprise/office-365-e5) if you need a training environment. We don't recommend that you use your production (live environment for work or school) user/tenant for completing these exercises.
 iconUrl: /learn/achievements/power-apps-teams.svg  
 levels:  
 - beginner   
