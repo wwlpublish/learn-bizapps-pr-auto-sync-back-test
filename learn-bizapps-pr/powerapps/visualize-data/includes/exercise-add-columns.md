@@ -105,7 +105,7 @@ Now try a different method to add columns.
 
 Watch the following video for a demonstration of the steps that you completed in this exercise.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE58QOi]
 
 ## Next steps
 
