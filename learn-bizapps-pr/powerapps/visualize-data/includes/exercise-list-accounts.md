@@ -61,7 +61,7 @@ Go to a Dataverse environment where you can modify the tables, such as dedicated
 
 Watch the following video for a demonstration of the steps that you've completed for this exercise.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE59enu]
 
 ## Next steps
 
