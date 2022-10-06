@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
+### YamlMime:ModuleUnit
 uid: learn-bizapps.powerapps-common-data-service.3-create-a-cds-entity
 title: Exercise - Create a Microsoft Dataverse table
-metadata: 
+metadata:
   title: Exercise - Create a Microsoft Dataverse table
   description: Create a Dataverse table
-  ms.date: 08/01/2022  
+  ms.date: 10/04/2022
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.subservice: dataverse-developer
-durationInMinutes: 12 
-content: | 
+durationInMinutes: 12
+content: |
   [!include[](../includes/unit-banner.md)]
-  [!include[](includes/3-create-a-cds-entity.md)]  
+  [!include[](includes/3-create-a-cds-entity.md)]

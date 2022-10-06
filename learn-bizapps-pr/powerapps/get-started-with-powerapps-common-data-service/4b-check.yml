@@ -1,56 +1,56 @@
-### YamlMime:ModuleUnit 
+### YamlMime:ModuleUnit
 uid: learn-bizapps.powerapps-common-data-service.4b-check
-title: Check your knowledge 
-metadata: 
- title: Check your knowledge 
- description: Answer the following questions to see what you've learned. 
- ms.date: 10/01/2021 
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/04/2022
  author: jadaphillips
  ms.author: jadaphillips
- ms.topic: interactive-tutorial 
+ ms.topic: interactive-tutorial
  ms.subservice: dataverse-developer
-durationInMinutes: 6 
-quiz: 
-  title: Answer the following questions to see what you've learned. 
-  questions: 
-  - content: When creating a Table, what are the two types of relationships you can create?
-    choices: 
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: When you create a Table, what are the two types of relationships you can create?
+    choices:
     - content: One-to-many and One-to-one
-      isCorrect: false 
+      isCorrect: false
       explanation: The two types of relationships you can create are One-to-many and Many-to-many.
     - content: One-to-many and Many-to-many
-      isCorrect: true 
+      isCorrect: true
       explanation: The two types of relationships you can create are One-to-many and Many-to-many.
     - content: Many-to-one and Many-to-many
-      isCorrect: false 
+      isCorrect: false
       explanation: The two types of relationships you can create are One-to-many and Many-to-many.
     - content: One-to-one and Many-to-many
-      isCorrect: false 
+      isCorrect: false
       explanation: The two types of relationships you can create are One-to-many and Many-to-many.
   - content: How many apps can use the same Table?
-    choices: 
+    choices:
     - content: "1"
       isCorrect: false
       explanation: The same table can be used by an unlimited number of apps.
     - content: "20"
-      isCorrect: false 
+      isCorrect: false
       explanation: The same table can be used by an unlimited number of apps.
     - content: "100"
-      isCorrect: false 
+      isCorrect: false
       explanation: The same table can be used by an unlimited number of apps.
     - content: Unlimited
       isCorrect: true
       explanation: The same table can be used by an unlimited number of apps.
-  - content: When deploying role-based security in the Microsoft Dataverse, which of the following products allows you to control access to tables for different users?
-    choices: 
+  - content: When you deploy role-based security in the Microsoft Dataverse, which of the following products allows you to control access to tables for different users?
+    choices:
     - content: SQL Server
       isCorrect: false
       explanation: Dynamics 365 lets you control access to tables.
     - content: Azure portal
-      isCorrect: false 
+      isCorrect: false
       explanation: Dynamics 365 lets you control access to tables.
     - content: Dynamics 365
-      isCorrect: true 
+      isCorrect: true
       explanation: Dynamics 365 lets you control access to tables.
     - content: SharePoint
       isCorrect: false

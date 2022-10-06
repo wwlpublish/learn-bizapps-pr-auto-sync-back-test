@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
+### YamlMime:ModuleUnit
 uid: learn-bizapps.powerapps-common-data-service.4-import-data-into-your-database
-title: Import data into your Microsoft Dataverse database  
-metadata: 
+title: Import data into your Microsoft Dataverse database
+metadata:
   title: Import data into your database
   description: Import data into your database
-  ms.date: 08/01/2022
+  ms.date: 10/04/2022
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.subservice: dataverse-developer
 durationInMinutes: 10
-content: | 
+content: |
   [!include[](../includes/unit-banner.md)]
-  [!include[](includes/4-import-data-into-your-database.md)]  
+  [!include[](includes/4-import-data-into-your-database.md)]
