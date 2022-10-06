@@ -64,7 +64,7 @@ You can also create your own flows from blank and use them to connect with your 
     > For training purposes here, you are approving or rejecting your own requests. In a real world scenario, you would either enter the name of the approving manager here, or you would use the Office 365 Connector to dynamically retrieve the name of the manager of the person making the request.
 
     > [!div class="mx-imgBorder"]
-    > [![A screenshot of the start and wait for an approval with Assigned to highlighted.](../media/assigned.png)](../media/assigned.png#lightbox)
+    > ![A screenshot of the start and wait for an approval with Assigned to highlighted.](../media/assigned.png)
 
 1. In the Details box, type: **Swag requested:**
 
@@ -105,7 +105,7 @@ You can also create your own flows from blank and use them to connect with your 
 1. In the right-hand box, type: **Approve**.
 
     > [!div class="mx-imgBorder"]
-    > [![A screenshot of building a flow in Teams with outcome set to approve.](../media/outcome-approve.png)](../media/outcome-approve.png#lightbox)
+    > ![A screenshot of building a flow in Teams with outcome set to approve.](../media/outcome-approve.png)
 
 1. In the **If yes / If no** steps under the condition, you'll update the request in your Dataverse for Teams table as approved or rejected, depending on the outcome of the approval. In the **If yes** box, select **Add an action**.
 
@@ -181,7 +181,7 @@ You can also create your own flows from blank and use them to connect with your 
     > The approval connector can take up to 15 minutes to work the first time, because it installs a solution behind the scenes. If you don't see the email right away, have a break for 15 minutes here and come back to it. Once this first installation is done, any other approvals will come through almost instantly.
     >
     > [!div class="mx-imgBorder"]
-    > [![A screenshot of Outlook- approval email.](../media/approve-submit.png)](../media/approve-submit.png#lightbox)
+    > ![A screenshot of Outlook- approval email.](../media/approve-submit.png)
 
 1. Go back to Teams in the other browser tab. Refresh the app by selecting the reload tab button. You'll see the request has been updated to show that the Approval Status is now Approved.
 

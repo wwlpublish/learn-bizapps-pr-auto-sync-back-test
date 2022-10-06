@@ -17,7 +17,7 @@ You'll create a flow that will welcome new team members. In this flow, someone b
 1. Search for welcome and select the template called **Welcome new team members**.
 
     > [!div class="mx-imgBorder"]
-    > [![A screenshot of the templates in Power Automate for Teams.](../media/welcome.png)](../media/welcome.png#lightbox)
+    > ![A screenshot of the templates in Power Automate for Teams.](../media/welcome.png)
 
 1. This flow uses two connectors. You're already signed into both connectors, so now select **Continue**. If you aren't already signed to a connector, just select the Sign-in beside the connector. When you see the green check confirming sign-in, select **Continue**.
 
@@ -33,7 +33,7 @@ You'll create a flow that will welcome new team members. In this flow, someone b
     - You may edit the message. When you're done, select **Create**.
 
     > [!div class="mx-imgBorder"]
-    > [![A screenshot of creating a flow using a template in Teams.](../media/template-options.png)](../media/template-options.png#lightbox)
+    > ![A screenshot of creating a flow using a template in Teams.](../media/template-options.png)
 
 1. You'll see a confirmation message that your workflow has been created. Select **Got it**.
 

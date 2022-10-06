@@ -20,7 +20,7 @@ In this exercise, we'll extend the flow to send a Teams message to the user to l
 1. Select the **Condition** step to open it.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of flow with Condition highlighted.](../media/condition-step.png)](../media/condition-step.png#lightbox)
+    > ![Screenshot of flow with Condition highlighted.](../media/condition-step.png)
 
 1. In the **If yes** path, under the Update a row action, Select **Add an action**.
 
@@ -32,12 +32,12 @@ In this exercise, we'll extend the flow to send a Teams message to the user to l
 1. Select **Users** as the Table name. In the Row ID field, add the dynamic content **Owner (Value)** from the Dataverse When a row is added, modified or deleted action.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot editing Table name and Row ID in Get a row action card.](../media/owner.png)](../media/owner.png#lightbox)
+    > ![Screenshot editing Table name and Row ID in Get a row action card.](../media/owner.png)
 
 1. Add a new action underneath. Search for post a message, and select the action called **Post message in a chat or channel**. You may have to wait a moment for the connection with the Microsoft Teams connector to be established and for the sign-in process to complete.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of flow: add Teams action- Post a message in a chat or channel.](../media/post-message.png)](../media/post-message.png#lightbox)
+    > ![Screenshot of flow: add Teams action- Post a message in a chat or channel.](../media/post-message.png)
 
 1. Fill in the details as follows:
 
@@ -64,7 +64,7 @@ In this exercise, we'll extend the flow to send a Teams message to the user to l
         > Make note of the capitalized items in the message. These are the parts you'll replace with dynamic content. Follow the instructions below for each section.
         >
         > [!div class="mx-imgBorder"]
-        > [![A screenshot of Power Automate- Post message in a chat or channel Teams action.](../media/post-message-chat.png)](../media/post-message-chat.png#lightbox)
+        > ![A screenshot of Power Automate- Post message in a chat or channel Teams action.](../media/post-message-chat.png)
 
 1. Replace the capitalized text with the following dynamic content.
 
@@ -101,12 +101,12 @@ In this exercise, we'll extend the flow to send a Teams message to the user to l
 1. You can make changes to the formatting of the message. Highlight the word **APPROVED** indicated below. Change the font size to 16, bold the text and use the color picker to change the color to green.
 
     > [!div class="mx-imgBorder"]
-    > [![A screenshot of Power Automate- Post message in a chat or channel Teams action with formatting buttons highlighted.](../media/format.png)](../media/format.png#lightbox)
+    > ![A screenshot of Power Automate- Post message in a chat or channel Teams action with formatting buttons highlighted.](../media/format.png)
 
 1. Highlight the word **Details:** indicated below. Bold and underline the text.
 
     > [!div class="mx-imgBorder"]
-    > [![A screenshot of Power Automate- Post message in a chat or channel Teams action with Details highlighted.](../media/details-format.png)](../media/details-format.png#lightbox)
+    > ![A screenshot of Power Automate- Post message in a chat or channel Teams action with Details highlighted.](../media/details-format.png)
 
 1. **Save** the flow.
 
@@ -125,9 +125,9 @@ In this exercise, we'll extend the flow to send a Teams message to the user to l
 1. In a moment, you'll receive a Teams notification. Approve the request and add a comment. You can approve it from either the email or Teams.
 
     > [!div class="mx-imgBorder"]
-    > [![A screenshot of Microsoft Teams approval notification.](../media/approve-it.png)](../media/approve-it.png#lightbox)
+    > ![A screenshot of Microsoft Teams approval notification.](../media/approve-it.png)
 
 1. Once approved, you should see a notification in Teams chat. Open the chat to see your Teams message notification that your request has been approved.
 
     > [!div class="mx-imgBorder"]
-    > [![A screenshot of Microsoft Teams approval message.](../media/approved.png)](../media/approved.png#lightbox)
+    > ![A screenshot of Microsoft Teams approval message.](../media/approved.png)
