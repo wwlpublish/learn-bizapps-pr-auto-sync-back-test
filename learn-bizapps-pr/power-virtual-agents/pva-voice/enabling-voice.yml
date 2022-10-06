@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.pva-voice.enabling-voice 
-title: Configure for voice 
+title: Set up for voice 
 metadata: 
-  title: Configure for voice 
-  description: Learn how to configure the hand off to your preferred customer service application to configure the bot for voice.
+  title: Set up for voice 
+  description: Learn how to set up the bot for voice.
   ms.date: 09/28/2022 
   author: Heyrob 
   ms.author: Robde 
