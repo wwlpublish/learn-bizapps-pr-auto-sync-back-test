@@ -1,0 +1,1 @@
+In this lab, you explored the Issue Reporting sample app available in Microsoft Teams. You saw how you can install sample apps and how they can be configured and customized to suit your business needs.
