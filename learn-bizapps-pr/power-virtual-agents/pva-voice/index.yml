@@ -13,7 +13,7 @@ summary: |
   This module explores how to set up a Power Virtual Agents bot to use voice. 
 abstract: |  
   In this module, you’ll: 
-    - Explore the required setup for enabling a Power Virtual Agent bot for voice capabilities.
+    - Explore the required setup for enabling a Power Virtual Agents bot for voice capabilities.
     - Learn why you would enable a bot for voice.
     - Install the necessary extensions.
     - Set up the hand off with your voice provider.
