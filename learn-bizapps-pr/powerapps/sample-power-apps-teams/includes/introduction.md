@@ -48,4 +48,4 @@ This sample app provides a space for communication across the company. It can be
 
 ### Milestones
 
-The Milestones sample app allows managers to set up projects and assign work items to employees. Work item categories, priorities and status options can be configured. You can learn more about this app [here](/power-apps/teams/milestones).
+The Milestones sample app allows managers to set up projects and assign work items to employees. Work item categories, priorities and status options can be configured. To learn more about this app, see [Milestones sample app](/power-apps/teams/milestones/?azure-portal=true).
