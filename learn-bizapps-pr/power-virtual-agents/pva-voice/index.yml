@@ -16,7 +16,7 @@ abstract: |
     - Explore the required setup for enabling a Power Virtual Agents bot for voice capabilities.
     - Learn why you would enable a bot for voice.
     - Install the necessary extensions.
-    - Set up the hand off with your voice provider.
+    - Set up the handoff with your voice provider.
 prerequisites: None
 iconUrl: /learn/achievements/pva-voice.svg  
 levels:  
