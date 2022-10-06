@@ -7,3 +7,8 @@ This module has four exercises. The flows created in the first two exercises of 
 **Exercise - Create an approval flow** Build a flow connecting to Dataverse for Teams that will trigger an approval process when a new request for swag is submitted via the app you built in the previous lab.
 
 **Exercise - Create an approval notification** Extend the flow created in Exercise 3 to send a Teams message to the user to let them know whether their request has been approved or rejected.
+
+To complete the exercises, you'll need to use a few files. Download [Dataverse exercise file](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/in-a-day/dataverse/dataverse-teams-exercise-files.zip) for use in this module. There are file folders in this download:
+
+- **Completed modules with instructions** - package files to import the completed exercise steps. 
+- **Student materials** - files used in the exercises.
