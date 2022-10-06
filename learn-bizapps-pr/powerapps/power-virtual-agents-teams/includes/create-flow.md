@@ -76,7 +76,7 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
 
 3. You may see a screen here confirming your flow connections. Select **Continue**.
 
-4. you'll now see the flow template, with the Power Virtual Agents input and output steps. We aren't bringing any inputs from the chat into this flow, so we don’t need to do anything here in that first stage. **Add an action** between the input and output steps.
+4. You'll now see the flow template, with the Power Virtual Agents input and output steps. We aren't bringing any inputs from the chat into this flow, so we don’t need to do anything here in that first stage. **Add an action** between the input and output steps.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting Add an action button.](../media/add-action.png)](../media/add-action.png#lightbox)
@@ -112,12 +112,12 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to add expression in inputs.](../media/expression.png)](../media/expression.png#lightbox)
 
-11.	you'll see a formula in the Inputs box.
+11.	You'll see a formula in the Inputs box.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting formula in inputs box.](../media/compose-inputs.png)](../media/compose-inputs.png#lightbox)
 
-12.	we'll return the asset name and ID to the chatbot. Select the **Return value(s) to Power Virtual Agents** step and select **+Add an output**.
+12.	We'll return the asset name and ID to the chatbot. Select the **Return value(s) to Power Virtual Agents** step and select **+Add an output**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting Add an output button.](../media/add-output.png)](../media/add-output.png#lightbox)
@@ -133,7 +133,7 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
 
     `outputs('Compose')?['cra05_AssetId']`
 
-15. you'll see formulas in both output boxes.
+15. You'll see formulas in both output boxes.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting return value to Power virtual agents.](../media/compose-return-value.png)](../media/compose-return-value.png#lightbox)
