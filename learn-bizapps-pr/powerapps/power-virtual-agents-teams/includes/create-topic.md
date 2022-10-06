@@ -1,15 +1,15 @@
-In this task we will create a topic for the bot to answer common questions from employees about Contoso Coffee swag.
+In this task, we'll create a topic for the bot to answer common questions from employees about Contoso Coffee swag.
 
 ## Task 1: Switch off the lesson topics
 
-Let’s start by switching off the lesson topics, which are not needed as part of this chatbot.
+Let’s start by switching off the lesson topics, which aren't needed as part of this chatbot.
 
-1. In the list of existing topics, you will see topics named Lesson 1, Lesson 2, Lesson 3 and Lesson 4. Switch the **Status** toggle for each of these to the **off** position.
+1. In the list of existing topics, you'll see topics named Lesson 1, Lesson 2, Lesson 3 and Lesson 4. Switch the **Status** toggle for each of these topics to the **off** position.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting status toggle for each positions.](../media/status-toggle.png)](../media/status-toggle.png#lightbox)
  
-2. You will need to wait a few seconds each time while the topic is turned off. You’ll see a progress message and then a confirmation message at the top of the topics list.
+2. You'll need to wait a few seconds each time while the topic is turned off. You’ll see a progress message and then a confirmation message at the top of the topics list.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting confirmation message at top of topic list.](../media/confirmation-message.png)](../media/confirmation-message.png#lightbox)
@@ -24,7 +24,7 @@ Let’s start by switching off the lesson topics, which are not needed as part o
 2. By default, you can add trigger phrases upon creation. Add the following trigger phrases by typing them in and selecting the button after each one, until they all appear in the list.
 
     *Need information on swag*
-    *Can I get branded clothes*
+    *Can I get branded clothes.*
     *What swag is available?*
     *What branded Contoso Coffee things do we have?*
     *How do I get a Contoso Coffee beanie?*
@@ -37,12 +37,12 @@ Let’s start by switching off the lesson topics, which are not needed as part o
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting tp add details.](../media/details.png)](../media/details.png#lightbox)
 
-4. You can save your topic for now by selecting Save. There will be a pop up that asks you if you will save topic with errors, you can ignore it for now by selecting Save as it will be done in the steps that follows.
+4. You can save your topic for now by selecting Save. There will be a pop-up that asks you if you'll save topic with errors, you can ignore it for now by selecting Save as it will be done in the steps that follow.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to save trigger phrases and details.](../media/save-details.png)](../media/save-details.png#lightbox)
 
-5. Your topic is now saved and can be edited in the authoring canvas, with your trigger phrases at the top.  This is a drag and drop interface that you will use to build out your conversation. You will create a conversation tree with a series of messages, questions and conditional branches.
+5. Your topic is now saved and can be edited in the authoring canvas, with your trigger phrases at the top. This is a drag and drop interface that you'll use to build out your conversation. you'll create a conversation tree with a series of messages, questions and conditional branches.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting that topic is saved.](../media/topic-saved.png)](../media/topic-saved.png#lightbox)
@@ -59,7 +59,7 @@ Let’s start by switching off the lesson topics, which are not needed as part o
     > [![Screenshot highlighting to add a question.](../media/add-question.png)](../media/add-question.png#lightbox)
 
 
-7. Type the following in the question box:
+7. Type the following text in the question box:
     
     *What would you like to know about?*
  
@@ -71,7 +71,7 @@ Let’s start by switching off the lesson topics, which are not needed as part o
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to choose information to identify.](../media/choose-information.png)](../media/choose-information.png#lightbox)
 
-9. Add the following as **Multiple choice options**. You will see that the conditional branching is automatically created as you add each new option.
+9. Add the following as **Multiple choice options**. you'll see that the conditional branching is automatically created as you add each new option.
     
     *Apparel*
     *Accessories*
@@ -92,7 +92,7 @@ Let’s start by switching off the lesson topics, which are not needed as part o
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to save chatbot.](../media/save-variable.png)](../media/save-variable.png#lightbox)
 
-12.	We will add a message under each Asset Category, giving the user information about the category they choose. 
+12.	We'll add a message under each Asset Category, giving the user information about the category they choose. 
 
     Under the first conditional node (Apparel) select the **Add node** button and select **Show a message**:
  
@@ -110,7 +110,7 @@ Let’s start by switching off the lesson topics, which are not needed as part o
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting message added in text box.](../media/message.png)](../media/message.png#lightbox)
 
-13.	Add a node underneath the message to end the conversation with a survey. This will trigger the pre-built “End of Conversation” topic in Power Virtual Agents which asks the user if their question was answered, and then finish with a satisfaction survey question.  
+13.	Add a node underneath the message to end the conversation with a survey. This will trigger the pre-built “End of Conversation” topic in Power Virtual Agents, which asks the user if their question was answered, and then finish with a satisfaction survey question.  
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to end conversation by selecting End with survey.](../media/end-survey.png)](../media/end-survey.png#lightbox)
@@ -131,12 +131,12 @@ Let’s start by switching off the lesson topics, which are not needed as part o
     
 ## Task 3: Test your chatbot
 
-1. Toggle the “Track between topics” setting in the Test bot pane to on. This means that as you test your bot, you will see the tracking of the conversation flow across different topics.
+1. Toggle the “Track between topics” setting in the Test bot pane to on. This means that as you test your bot, you'll see the tracking of the conversation flow across different topics.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to Track between topics toggle.](../media/track-topic.png)](../media/track-topic.png#lightbox)
 
-2. Test your chatbot in the Test bot pane by typing in one of the trigger phrases (e.g., what swag is available?) and going through the conversation. You will see the path the bot has followed indicated with green ticks in the authoring canvas, and you will see it move from the topic you created to the built in End of Conversation topic.
+2. Test your chatbot in the Test bot pane by typing in one of the trigger phrases (for example, what swag is available?) and going through the conversation. you'll see the path the bot has followed indicated with green ticks in the authoring canvas, and you'll see it move from the topic you created to the built-in End of Conversation topic.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot showing to test your Test bot.](../media/home-page-virtual-agent.png)](../media/home-page-virtual-agent.png#lightbox)

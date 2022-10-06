@@ -1,16 +1,16 @@
 ## Task 1: Publish your bot and add it to the Team
 
-1. Now that you have finished editing and testing your bot, you are ready to publish it and test or use it yourself in Teams. Return to your Power Virtual Agents app via the left-hand navigation bar and open your chatbot for editing. Select the **Publish** icon in the left-hand Power Virtual Agents navigation menu.
+1. Now that you have finished editing and testing your bot, you're ready to publish it and test or use it yourself in Teams. Return to your Power Virtual Agents app via the left-hand navigation bar and open your chatbot for editing. Select the **Publish** icon in the left-hand Power Virtual Agents navigation menu.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting publish icon in left navigation menu.](../media/publish-icon.png)](../media/publish-icon.png#lightbox)
 
-2. Select the **Publish** button (and then confirm by selecting on the Publish button in the pop up prompt asking if you want to Publish latest content).
+2. Select the **Publish** button (and then confirm by selecting on the Publish button in the pop-up prompt asking if you want to Publish latest content).
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting pubish button.](../media/publish-button.png)](../media/publish-button.png#lightbox)
 
-3. When your bot is published, you will see a confirmation message.
+3. When your bot is published, you'll see a confirmation message.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to edit details of Bot preview.](../media/edit-details.png)](../media/edit-details.png#lightbox)
@@ -35,26 +35,26 @@
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting Add button.](../media/add-confirm.png)](../media/add-confirm.png#lightbox)
 
-8. In a moment, you will receive a chat notification from the bot in Teams. Select the … from the menu on the left side of Teams. You should see your Office Helper bot.  
+8. In a moment, you'll receive a chat notification from the bot in Teams. Select the … from the menu on the left side of Teams. You should see your Office Helper bot.  
 
 9. By default, the bot will be available like this to all members of your Team. Type in the trigger phrase “request swag” in the chat with the bot. Proceed to place the request.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to click on office helper bot and type message.](../media/office-helper.png)](../media/office-helper.png#lightbox)
 
-10.	Select **Chat**, and you will also see the bot conversation here.
+10.	Select **Chat**, and you'll also see the bot conversation here.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot showing chat of your bot.](../media/chat.png)](../media/chat.png#lightbox)
 
-11. Select Teams and go to the Team you have been working in for the labs. You will see a message that the bot has been added to the Team. This allows users to @mention the bot to talk to it directly in channel. You can begin the conversation with a bot in a new conversation or in the comments of an existing conversation. Every time you want to respond to the bot, you should @mention the bot’s name.
+11. Select Teams and go to the Team you have been working in for the labs. you'll see a message that the bot has been added to the Team. This allows users to @mention the bot to talk to it directly in channel. You can begin the conversation with a bot in a new conversation or in the comments of an existing conversation. Every time you want to respond to the bot, you should @mention the bot’s name.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot showing how to mention bot to respond.](../media/mention-user.png)](../media/mention-user.png#lightbox)
 
 ## Task 2: Share your chatbot with your organization 
 
-In this task we will submit the chatbot for admin approval to share with the whole organization. 
+In this task, we'll submit the chatbot for admin approval to share with the whole organization. 
 
 1. Go back to the Power Virtual Agents app in Teams. Select Chatbots and open your bot.
  
@@ -81,33 +81,33 @@ In this task we will submit the chatbot for admin approval to share with the who
     > [!div class="mx-imgBorder"]
     > [![Screenshot showing access permission for everyone.](../media/everyone-access.png)](../media/everyone-access.png#lightbox)
 
-6. When your bot has been submitted, you will get a submission status message. 
+6. When your bot has been submitted, you'll get a submission status message. 
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting submission status message.](../media/status-message.png)](../media/status-message.png#lightbox)
 
 ## Task 3: Approve the chatbot as admin 
 
-If you have the admin login for your tenant, you can play the role of the admin and approve your app. If you are working in a shared tenant read along but do not perform the steps.
+If you have the admin login for your tenant, you can play the role of the admin and approve your app. If, you're working in a shared tenant read along but don't perform the steps.
 
 1. Open a new browser tab and navigate to the Microsoft Teams admin center: https://admin.teams.microsoft.com/dashboard
 
-2. Go to Teams apps – Manage apps in the left hand navigation menu. You will see that there is 1 Submitted custom app pending approval.
+2. Go to Teams apps – Manage apps in the left hand navigation menu. you'll see that there's 1 Submitted custom app pending approval.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting pending approval.](../media/pending-approval.png)](../media/pending-approval.png#lightbox)
 
-3. Search for the name of the chatbot you submitted and then select to open it.
+3. Search for the name of the chatbot that you submitted and then select to open it.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to search name of submitted chatbot.](../media/open-chatbot.png)](../media/open-chatbot.png#lightbox)
 
-4. Select **Publish**, and then confirm in the pop up message that appears.
+4. Select **Publish**, and then confirm in the pop-up message that appears.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting Publish button.](../media/publish-final.png)](../media/publish-final.png#lightbox)
 
-5. You will see that your chatbot has been published.
+5. You'll see that your chatbot has been published.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting chatbot has been published.](../media/chatbot-published.png)](../media/chatbot-published.png#lightbox)

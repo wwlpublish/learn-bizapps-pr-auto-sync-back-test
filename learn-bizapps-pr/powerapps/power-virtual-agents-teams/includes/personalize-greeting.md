@@ -1,8 +1,8 @@
-There are two special user related variables available to help personalize your chatbot conversations, known as claim variables. These variables allow you to show the display name and user ID of the logged in user in your chatbot. 
+There are two special users related variables available to help personalize your chatbot conversations, known as claim variables. These variables allow you to show the display name and user ID of the logged in user in your chatbot. 
 
 ## Task 1: Edit and personalize the greeting topic
 
-In this task we will edit the greeting topic so that the chatbot greets the user in Teams by their name. We will also edit the standard greeting topic so that it explains to the user what it is designed to help with.
+In this task, we'll edit the greeting topic so that the chatbot greets the user in Teams by their name. We'll also edit the standard greeting topic so that it explains to the user what it's designed to help with.
 
 1. Select **Go to Topics**.
 
@@ -33,7 +33,7 @@ In this task we will edit the greeting topic so that the chatbot greets the user
 
 6. Test your bot by typing **hello** in the test bot pane. 
 
-7. You should see your chatbot use your new greeting, including your name in the test pane. You will also see green checks in the authoring canvas showing the successful path the chatbot has followed during your test.
+7. You should see your chatbot uses your new greeting, including your name in the test pane. You'll also see green checks in the authoring canvas showing the successful path the chatbot has followed during your test.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting new greeting message.](../media/new-greeting.png)](../media/new-greeting.png#lightbox)

@@ -106,7 +106,7 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
 
 10.	Select the **Inputs** box, in the action step and then select the **Expression** tab in the Dynamic content box that pops up. Type the following expression into the function box and select **OK**. This expression gets the value of the item: 
 
-    first(body('List_rows')?['value'])
+    `first(body('List_rows')?['value'])`
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to add expression in inputs.](../media/expression.png)](../media/expression.png#lightbox)
@@ -123,14 +123,14 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
 
 13.	Choose **Text** and enter the title: **Name**. In the **Enter a value to respond** box go to the Expression tab on the Dynamic content box, and enter the following formula – substitute schema name here for your own schema name (this is the word name below) for the **Asset Name** column in your table that you noted earlier. Yours will have a different prefix. Then select **OK**.
 
-    outputs('Compose')?['cra05_Name']
+    `outputs('Compose')?['cra05_Name']`
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to enter return value.](../media/return-value.png)](../media/return-value.png#lightbox)
 
 14.	Repeat the step above to add the ID to the outputs. Select **+Add an output** and choose **Text**. Enter the Title: ID. In the **Enter a value to respond** box go to the Expression tab on the Dynamic content box, and enter the following formula – substitute the highlighted schema name here for your own schema name for the **Asset** column in your table that you noted earlier. Yours will have a different prefix. Then select **OK**.
 
-    outputs('Compose')?['cra05_AssetId']
+    `outputs('Compose')?['cra05_AssetId']`
 
 15. You will see formulas in both output boxes.
  
@@ -248,7 +248,7 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
 
 20.	Select in the Asset (Asset) box, and enter the following expression (replace the prefix with the same prefix you found in your own schema names earlier). When we create the request and fill in the asset, we are connecting to the asset table as well, with the lookup column. The flow needs us to define the name of that connected table when creating this record.
 
-    cra05_assets()
+    `cra05_assets()`
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting row Asset.](../media/row-asset.png)](../media/row-asset.png#lightbox)
@@ -273,6 +273,7 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
 2. Now you need to map the variables you created in Power Virtual Agents to the inputs from the flow. Select your variables from the dropdowns as follows.
 
     *AssetID (text) gets value from*: **ID**
+    
     *Comments (text) gets value from*: **Comments**
  
     > [!div class="mx-imgBorder"]
