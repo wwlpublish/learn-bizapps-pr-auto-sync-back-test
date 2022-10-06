@@ -18,7 +18,7 @@ abstract: |
     - Create an approval flow
     - Create an approval flow notification
 prerequisites: |
-    - Completion of prior module. If you didn't complete the prior exercises, follow the steps here to import the needed components before you start these exercises.
+    - Completion of prior module. If you didn't complete the prior exercises, download [Dataverse exercises](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/in-a-day/dataverse/dataverse-teams-exercise-files.zip) to import the needed components before you start these exercises.
     - You'll need an environment with a licensed user to complete these exercises. Follow the sign-up process [here](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5/?azure-portal=true) if you need a training environment. It isn't recommended to use your production (live environment for work or school) user or tenant for completing these exercises.
 iconUrl: /learn/achievements/power-automate-teams.svg
 levels:
