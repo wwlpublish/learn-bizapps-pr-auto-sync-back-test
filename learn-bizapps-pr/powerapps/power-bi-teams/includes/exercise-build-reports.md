@@ -272,7 +272,7 @@ You'll add a table to the report. This table will show all requests.
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the select table icon.](../media/select-table.png)](../media/select-table.png#lightbox)
 
-1.  Select Request Name, Price Approval Status and Comment form the Request table.
+1.  Select Request Name, Price Approval Status and Comment from the Request table.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot showing the selected columns.](../media/columns.png)](../media/columns.png#lightbox)
