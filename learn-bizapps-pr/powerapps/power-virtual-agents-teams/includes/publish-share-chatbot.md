@@ -90,7 +90,7 @@ In this task, we'll submit the chatbot for admin approval to share with the whol
 
 If you have the admin login for your tenant, you can play the role of the admin and approve your app. If you're working in a shared tenant, read along but don't perform the steps.
 
-1. Open a new browser tab and navigate to the Microsoft Teams admin center: https://admin.teams.microsoft.com/dashboard/?azure-portal=true
+1. Open a new browser tab and navigate to the Microsoft Teams admin center: https://admin.teams.microsoft.com/dashboard
 
 2. Go to Teams apps – Manage apps in the left hand navigation menu. you'll see that there's 1 Submitted custom app pending approval.
  
