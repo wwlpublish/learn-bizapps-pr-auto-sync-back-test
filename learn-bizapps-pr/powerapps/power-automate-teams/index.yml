@@ -1,13 +1,13 @@
 ### YamlMime:Module
 uid: learn-bizapps.power-automate-teams
 metadata:
- title: Power Automate for Teams
+ title: Create an approval flow for Contoso Coffee bootcamp
  description: Learn to work with the Power Automate application for Microsoft Teams.
  ms.date: 10/12/2022
  author: DaveBeasley
  ms.author: dbeasley
  ms.topic: interactive-tutorial
-title: Power Automate for Teams
+title: Create an approval flow for Contoso Coffee bootcamp
 summary: |
   [!include[.](../includes/module-banner.md)]
   In this module you'll be working with the Power Automate app for Microsoft Teams, to automate approvals and notifications. Power Automate enables users to make their workday easier by automating routine tasks and processes, with trigger and action style flows. The Power Automate app for Teams provides an approachable and straightforward experience for creating flows in Teams, with over 50 templates provided to help you get started.
@@ -29,6 +29,7 @@ roles:
 products:
 - power-platform
 - power-apps
+- power-automate
 - common-data-service
 subjects:
 - business-applications
