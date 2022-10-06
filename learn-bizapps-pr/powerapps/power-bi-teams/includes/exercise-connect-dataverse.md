@@ -85,14 +85,14 @@ In this task, you'll be connecting to your Dataverse tables created in a prior l
 
 Now that you've connected to your Dataverse tables, the next step involves cleaning or "transforming" your data so that it's optimized for reporting. Transformations are done in Power BI using the Power Query Editor tool.
 
-1.  You should have Power Query Editor open in another window. From the Queries menu on the left side of the screen, double click on the *x\_*asset query. Rename the query to **Asset**.
+1.  You should have Power Query Editor open in another window. From the Queries menu on the left side of the screen, double click on the x\_asset query. Rename the query to **Asset**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the query renamed to asset.](../media/asset-query.png)](../media/asset-query.png#lightbox)
 
-1.  Rename *x\_*assetcategory query to **Asset Category**.
+1.  Rename x\_assetcategory query to **Asset Category**.
 
-1.  Rename *x\_*request query to **Request**. Your queries should now appear as the following.
+1.  Rename x\_request query to **Request**. Your queries should now appear as the following.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the query list with renamed queries.](../media/query-list.png)](../media/query-list.png#lightbox)
@@ -104,17 +104,17 @@ Now that you've connected to your Dataverse tables, the next step involves clean
 
 1.  Untick **(Select All Columns)** to clear all columns from selection. Select the following six columns to bring in:
 
-	*x\_*assetid *(this will be at the top of the list)*
+	x\_assetid *(this will be at the top of the list)*
 	
-	*x\_*name
+	x\_name
 	
-	*x\_*category
+	x\_category
 	
-	*x\_*categoryname
+	x\_categoryname
 	
-	*x\_*price
+	x\_price
 	
-	*x\_*image
+	x\_image
 
 	Select **OK**.
 
@@ -139,9 +139,9 @@ Now that you've connected to your Dataverse tables, the next step involves clean
 
 1.  Select the **Asset Category**, then select **Choose Columns** from the ribbon. You'll pick the columns you want displayed in the Asset Category query, as done previously in the Asset query. Untick **(Select All Columns)** to clear all columns from selection. Select the following two columns to bring in:
 
-	*x\_*assetcategoryid *(this will be at the top of the list)*
+	x\_assetcategoryid *(this will be at the top of the list)*
 	
-	*x\_*name
+	x\_name
 	
 	Select **OK**.
 
@@ -159,28 +159,28 @@ Now that you've connected to your Dataverse tables, the next step involves clean
 
 1.  Select the **Request query**, then select on **Choose Columns** from the ribbon. You'll pick the columns you want displayed in the Request query. Untick **(Select All Columns)** to clear all columns from selection. Select the following eight columns to bring in:
 
-	*x\_*requestid *(this will be at the top of the list)*
+	x\_requestid *(this will be at the top of the list)*
 	
-	*x\_*name
+	x\_name
 	
-	*x\_*requestnumber
+	x\_requestnumber
 	
-	*x\_*comment
+	x\_comment
 	
-	*x\_*approvalstatusname
+	x\_approvalstatusname
 	
-	*x\_*assetcategory
+	x\_assetcategory
 	
-	*x\_*asset
+	x\_asset
 	
-	*x\_*asset(*x\_*asset)
+	x\_asset(x\_asset)
 	
 	Select **OK**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the columns checked in list.](../media/columns-checked.png)](../media/columns-checked.png#lightbox)
 
-1. You'll need to bring the Price column from the Asset query into the Request query. In the Request query, go to the last column **x_asset(x_asset)** and select the **expand** button. Deselect all the columns by unticking **(Select All Columns)**. Find ***x\_*price** column to select it then select **OK**.
+1. You'll need to bring the Price column from the Asset query into the Request query. In the Request query, go to the last column **x_asset(x_asset)** and select the **expand** button. Deselect all the columns by unticking **(Select All Columns)**. Find **x\_price** column to select it then select **OK**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the price column.](../media/price.png)](../media/price.png#lightbox)
