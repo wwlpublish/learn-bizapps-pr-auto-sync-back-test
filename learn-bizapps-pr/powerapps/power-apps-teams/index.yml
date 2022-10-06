@@ -1,13 +1,13 @@
 ### YamlMime:Module 
 uid: learn-bizapps.power-apps-teams 
 metadata: 
- title: Power Apps for Teams
+ title: Create a Power Apps for Teams app for Contoso Coffee - bootcamp
  description: In this lab, you'll create an app for Microsoft Teams that allows employees to request Contoso Coffee swag.
  ms.date: 10/05/2022  
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
-title: Power Apps for Teams
+title: Create a Power Apps for Teams app for Contoso Coffee - bootcamp
 summary: |  
   [!include[](../includes/module-banner.md)] 
   In this lab, you'll create an app for Microsoft Teams that allows employees to request Contoso Coffee swag (that is, branded apparel and accessories). Power Apps is a low-code/no-code tool used to build your own custom business applications using drag and drop functionality. You can download your student materials here. You'll see how Microsoft Dataverse for Teams can be used to build out your own data model and store data. From the data model you create, you'll build an app using Power Apps, which gives users a front-end interface to perform a task and interact with data. You'll start by creating a Dataverse instance with tables relating to the swag ordering scenario. The tables will store details of the available assets for order, then you'll build an app which employees can use to submit their requests. 
