@@ -1,13 +1,13 @@
 ### YamlMime:Module 
 uid: learn-bizapps.power-bi-teams 
 metadata: 
- title: Use Power BI report for Contoso Coffee bootcamp
+ title: Use Power BI report for Contoso Coffee - bootcamp
  description: In this lab, you'll be using Power BI to connect to your Microsoft Dataverse tables, to build a report about the swag requests.
  ms.date: 10/06/2022  
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
-title: Use Power BI report for Contoso Coffee bootcamp
+title: Use Power BI report for Contoso Coffee - bootcamp
 summary: |  
   [!include[](../includes/module-banner.md)] 
   In this lab, you'll be using Power BI to connect to your Microsoft Dataverse tables, to build a report about the swag requests. Power BI is the tool that allows you get insights from your data by building interactive reports and dashboards. The Power BI app in Microsoft Teams allows team members to view and collaborate on reports and dashboards from within the Teams interface. The Power BI app contains the same features as Power BI Service. Power BI Service contains a basic range of tools for building and editing reports. For the full range of editing features, the report can be built using Power BI Desktop before publishing to Teams.
