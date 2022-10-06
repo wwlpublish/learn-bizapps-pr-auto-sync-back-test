@@ -5,3 +5,8 @@ This module has three exercises:
 **Exercise 2: Customize the App** You can customize the app that employees will use to submit their swag requests. Customizing the app in this exercise involves editing the fields available on the asset request submission form, and changing formatting, such as colors and font.
 
 **Exercise 3: Publishing and Sharing your App** Publish the app to Teams. It will be available for Team members to use within Microsoft Teams on desktop, web and mobile clients.
+
+To complete the exercises, you'll need to use a few files. Download [Dataverse exercise file](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/in-a-day/dataverse/dataverse-teams-exercise-files.zip) for use in this module. There are file folders in this download:
+
+- **Completed modules with instructions** - package files to import the completed exercise steps. 
+- **Student materials** - files used in the exercises.
