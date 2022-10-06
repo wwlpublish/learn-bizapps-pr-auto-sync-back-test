@@ -1,0 +1,1 @@
+In this lab, you've seen how you're able to connect Power BI to your Dataverse tables to gather insights on your data. You have used Power BI Desktop to transform your data, then have published it to Power BI app for Teams for collaboration on report building. The Power BI visualizations can be accessed by users via the Power BI app for Teams or embedded into a Teams channel.
