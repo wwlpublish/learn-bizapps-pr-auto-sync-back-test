@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.cognitive-service-power-virtual-agents.call-your-service
-title: Call your Azure Cognitive Service
+title: Call your service
 metadata:
-  title: Call your Azure Cognitive Service
-  description: Learn to use Power Automate to call your service in actions.
+  title: Call your service
+  description: Learn how to use Power Automate to call your Azure Cognitive Services for Language service in actions.
   ms.date: 09/28/2022
   author: heyrob
   ms.author: robde
