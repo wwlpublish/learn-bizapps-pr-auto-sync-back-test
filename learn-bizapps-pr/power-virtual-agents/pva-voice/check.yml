@@ -16,27 +16,27 @@ quiz:
     choices: 
     - content: Call an action
       isCorrect: false
-      explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. Conversations can also be escalated by selecting the Escalate system topic. Source- Configure Handoff.     
+      explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. You can also escalate conversations by selecting the Escalate system topic.    
     - content: End the conversation 
       isCorrect: true
-      explanation: Correct. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. Conversations can also be escalated by selecting the Escalate system topic. Source- Configure Handoff.      
+      explanation: Correct. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. You can also escalate conversations by selecting the Escalate system topic.      
     - content: Ask a question
       isCorrect: false 
-      explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. Conversations can also be escalated by selecting the Escalate system topic. Source- Configure Handoff.     
-    - content: Go to Topic
+      explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. You can also escalate conversations by selecting the Escalate system topic.     
+    - content: Go to topic
       isCorrect: false 
-      explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. Conversations can also be escalated by selecting the Escalate system topic. Source- Configure Handoff.     
-  - content: You're going to be developing a customer support bot that will be used across different voice channels.  You need to ensure that items like the phone number the customer engaged from can be inserted into bot conversations.  Which of the following extensions must you deploy into your environment? 
+      explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. You can also escalate conversations by selecting the Escalate system topic.     
+  - content: You plan to develop a customer support bot that will be used across different voice channels. You need to ensure that items, such as the phone number that the customer engaged from, can be entered into bot conversations. Which of the following extensions do you need to deploy into your environment? 
     choices: 
     - content: Omnichannel Power Virtual Agent extension
       isCorrect: false
-      explanation: Incorrect. The Power Virtual Agents telephony extension provides multiple capabilities to support voice enabled bots.  One of those capabilities is addition on several variables that can be used to do things such as insert the phone number the customer reached to your organization from. Source- Setup Extensions
+      explanation: Incorrect. The Power Virtual Agents telephony extension provides multiple capabilities to support voice-enabled bots. One capability is the addition of several variables that you can use to complete tasks, such as enter the phone number that the customer used to reach your organization.
     - content: Power Virtual Agents Omnichannel extension
       isCorrect: false 
-      explanation: Incorrect. The Power Virtual Agents telephony extension provides multiple capabilities to support voice enabled bots.  One of those capabilities is addition on several variables that can be used to do things such as insert the phone number the customer reached to your organization from. Source- Setup Extensions
+      explanation: Incorrect. The Power Virtual Agents telephony extension provides multiple capabilities to support voice-enabled bots. One capability is the addition of several variables that you can use to complete tasks, such as enter the phone number that the customer used to reach your organization.
     - content: Power Virtual Agents telephony extension 
       isCorrect: true
-      explanation: Correct. The Power Virtual Agents telephony extension provides multiple capabilities to support voice enabled bots.  One of those capabilities is addition on several variables that can be used to do things such as insert the phone number the customer reached to your organization from. Source- Setup Extensions
+      explanation: Correct. The Power Virtual Agents telephony extension provides multiple capabilities to support voice-enabled bots. One capability is the addition of several variables that you can use to complete tasks, such as enter the phone number that the customer used to reach your organization.
     - content: Omnichannel Voice Power Virtual Agent extension
       isCorrect: false 
-      explanation: Incorrect. The Power Virtual Agents telephony extension provides multiple capabilities to support voice enabled bots.  One of those capabilities is addition on several variables that can be used to do things such as insert the phone number the customer reached to your organization from. Source- Setup Extensions
+      explanation: Incorrect. The Power Virtual Agents telephony extension provides multiple capabilities to support voice-enabled bots. One capability is the addition of several variables that you can use to complete tasks, such as enter the phone number that the customer used to reach your organization.
