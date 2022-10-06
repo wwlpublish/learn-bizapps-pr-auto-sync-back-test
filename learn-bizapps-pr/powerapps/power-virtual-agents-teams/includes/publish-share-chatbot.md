@@ -88,7 +88,7 @@ In this task, we'll submit the chatbot for admin approval to share with the whol
 
 ## Task 3: Approve the chatbot as admin 
 
-If you have the admin login for your tenant, you can play the role of the admin and approve your app. If, you're working in a shared tenant read along but don't perform the steps.
+If you have the admin login for your tenant, you can play the role of the admin and approve your app. If you're working in a shared tenant, read along but don't perform the steps.
 
 1. Open a new browser tab and navigate to the Microsoft Teams admin center: https://admin.teams.microsoft.com/dashboard
 

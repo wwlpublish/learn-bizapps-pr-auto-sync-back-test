@@ -1,8 +1,8 @@
-In this part of the scenario, we will set up the chatbot to interact with the Dataverse for Teams tables we created in a prior lab in this learning path so that the user can submit a request for swag using the chatbot. To do this we will be using the embedded flow experience inside the Power Virtual Agents app in Teams.
+In this part of the scenario, we'll set up the chatbot to interact with the Dataverse for Teams tables we created in a prior lab in this learning path so that the user can submit a request for swag using the chatbot. To do this, we'll be using the embedded flow experience inside the Power Virtual Agents app in Teams.
 
 ## Task 1: Get the schema name for your Dataverse for Teams table
 
-1. When you created your Dataverse for Teams tables and columns, each component is given a technical or schema name behind the scenes. We will need to find that in order to use it in our flow. Navigate back to Power Apps using the icon on the Teams left hand navigation bar. Select the **Build** tab, and select the Team you have been working in. Then select the **Asset table** in the list of items created.
+1. When you created your Dataverse for Teams tables and columns, each component is given a technical or schema name behind the scenes. we'll need to find that in order to use it in our flow. Navigate back to Power Apps using the icon on the Teams left hand navigation bar. Select the **Build** tab, and select the Team you have been working in. Then select the **Asset table** in the list of items created.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting Build tab and asset table.](../media/build.png)](../media/build.png#lightbox)
@@ -12,14 +12,15 @@ In this part of the scenario, we will set up the chatbot to interact with the Da
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting Columns edit.](../media/columns.png)](../media/columns.png#lightbox)
 
-3. You will now see a behind the scenes view of your table and columns. Under the heading Name you will see schema names, in a format like **crao5_AssetId**. Your schema names may be slightly different – you will have your own unique prefix which is not the same as this example.
+3. You'll now see a behind the scenes view of your table and columns. Under the heading Name you'll see schema names, in a format like **crao5_AssetId**. Your schema names may be slightly different – you'll have your own unique prefix which isn't the same as this example.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting columns name.](../media/column-names.png)](../media/column-names.png#lightbox)
 
-4. Make a note of your schema names for the following columns. You will need these in this and the following tasks.
+4. Make a note of your schema names for the following columns. you'll need these in this and the following tasks.
     
     *Asset*
+
     *Asset Name*
 
     > [!div class="mx-imgBorder"]
@@ -42,7 +43,7 @@ In this part of the scenario, we will set up the chatbot to interact with the Da
     *Want to order swag*
     *I need to make a request for merch*
     *Can I put in a request?*
-    *Place an order for swag*
+    *Place an order for swag.*
     *How do I put in an order?*
 
 3. Select **Details** and give the topic a name by typing: **Request swag** in the Name box. Then close details pane.
@@ -61,7 +62,7 @@ In this part of the scenario, we will set up the chatbot to interact with the Da
 
 ## Task 3: Create a flow to get a row from a Dataverse for Teams table
 
-Power Virtual Agents in Teams comes with a built-in experience for Power Automate, with templates to make it easy for you to get your chatbot to call an action. In this task we will use Power Automate to look up the first item in our Assets table in Dataverse for Teams, and return that as a suggestion for the user to request that item. 
+Power Virtual Agents in Teams comes with a built-in experience for Power Automate, with templates to make it easy for you to get your chatbot to call an action. In this task, we'll use Power Automate to look up the first item in our Assets table in Dataverse for Teams, and return that as a suggestion for the user to request that item. 
 
 1. Add a node and select **Call an action**. Select **Create a flow**. This will launch Power Automate inside Microsoft Teams.
  
@@ -75,7 +76,7 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
 
 3. You may see a screen here confirming your flow connections. Select **Continue**.
 
-4. You will now see the flow template, with the Power Virtual Agents input and output steps. We are not bringing any inputs from the chat into this flow, so we don’t need to do anything here in that first stage. **Add an action** between the input and output steps.
+4. you'll now see the flow template, with the Power Virtual Agents input and output steps. We aren't bringing any inputs from the chat into this flow, so we don’t need to do anything here in that first stage. **Add an action** between the input and output steps.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting Add an action button.](../media/add-action.png)](../media/add-action.png#lightbox)
@@ -99,7 +100,7 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting row count.](../media/row-count.png)](../media/row-count.png#lightbox)
 
-9. We are going to compose a variable to store the information from the item we retrieved in the previous step, to make it easier to pass it back to the chatbot. Add an action underneath this one, search for **compose** and choose the **Compose (Data Operation)**.
+9. We're going to compose a variable to store the information from the item we retrieved in the previous step, to make it easier to pass it back to the chatbot. Add an action underneath this one, search for **compose** and choose the **Compose (Data Operation)**.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting Compose data operation action.](../media/compose.png)](../media/compose.png#lightbox)
@@ -111,12 +112,12 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to add expression in inputs.](../media/expression.png)](../media/expression.png#lightbox)
 
-11.	You will see a formula in the Inputs box.
+11.	you'll see a formula in the Inputs box.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting formula in inputs box.](../media/compose-inputs.png)](../media/compose-inputs.png#lightbox)
 
-12.	We will return the asset name and ID to the chatbot. Select the **Return value(s) to Power Virtual Agents** step and select **+Add an output**.
+12.	we'll return the asset name and ID to the chatbot. Select the **Return value(s) to Power Virtual Agents** step and select **+Add an output**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting Add an output button.](../media/add-output.png)](../media/add-output.png#lightbox)
@@ -132,7 +133,7 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
 
     `outputs('Compose')?['cra05_AssetId']`
 
-15. You will see formulas in both output boxes.
+15. you'll see formulas in both output boxes.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting return value to Power virtual agents.](../media/compose-return-value.png)](../media/compose-return-value.png#lightbox)
@@ -142,7 +143,7 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting save your asset.](../media/save-asset.png)](../media/save-asset.png#lightbox)
 
-17.	Once your flow is saved, select the blue arrow next to the name of your flow to return to Power Virtual Agents. In the next task you will connect this flow to your chatbot.
+17.	Once your flow is saved, select the blue arrow next to the name of your flow to return to Power Virtual Agents. In the next task, you'll connect this flow to your chatbot.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting blue arrow as return to Power Virtua Agent.](../media/return-flow.png)](../media/return-flow.png#lightbox)
@@ -246,7 +247,7 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to enter row comment.](../media/row-comment.png)](../media/row-comment.png#lightbox)
 
-20.	Select in the Asset (Asset) box, and enter the following expression (replace the prefix with the same prefix you found in your own schema names earlier). When we create the request and fill in the asset, we are connecting to the asset table as well, with the lookup column. The flow needs us to define the name of that connected table when creating this record.
+20.	Select in the Asset (Asset) box, and enter the following expression (replace the prefix with the same prefix you found in your own schema names earlier). When we create the request and fill in the asset, we're connecting to the asset table as well, with the lookup column. The flow needs us to define the name of that connected table when creating this record.
 
     `cra05_assets()`
 
@@ -274,14 +275,14 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
 
     *AssetID (text) gets value from*: **ID**
     
-    *Comments (text) gets value from*: **Comments**
+    *Comments (text) get value from*: **Comments**
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to select varianles from the dropdown.](../media/comment-text.png)](../media/comment-text.png#lightbox)
 
 3. Add a confirmation message so that the user can see that their request has been sent. Add a node underneath and select **Show a message**. Type the following in the message box.
 
-    *Thank you, your request for has been submitted*.
+    *Thank you, your request has been submitted*.
 
 4. Select after the word “for” and select the Name variable.
  
@@ -302,7 +303,7 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
 
 ## Task 7: Test your bot
 
-1. Switch on the **Track between topics** toggle at the top of the Test bot pane. Type one of your trigger phrases (e.g., I want to order swag) in the test bot pane. The bot should return a suggested item which is the first item in your asset table.
+1. Switch on the **Track between topics** toggles at the top of the Test bot pane. Type one of your trigger phrases (for example, I want to order swag) in the test bot pane. The bot should return a suggested item, which is the first item in your asset table.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to switch on the Track between topics.](../media/track-topic-toggle.png)](../media/track-topic-toggle.png#lightbox)
@@ -321,6 +322,6 @@ Power Virtual Agents in Teams comes with a built-in experience for Power Automat
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting submitted app in teams and channel.](../media/submitted.png)](../media/submitted.png#lightbox)
 
-    Congratulations! You have just built a bot which can answer questions, retrieve an asset from your Dataverse for Teams database, and submit a request on behalf of the user. 
+    Congratulations! You have just built a bot, which can answer questions, retrieve an asset from your Dataverse for Teams database, and submit a request on behalf of the user. 
 
-In the next exercise we will publish and share it and use it in Teams chat.
+In the next exercise, we'll publish and share it and use it in Teams chat.

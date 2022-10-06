@@ -74,6 +74,7 @@ Let’s start by switching off the lesson topics, which aren't needed as part of
 9. Add the following as **Multiple choice options**. you'll see that the conditional branching is automatically created as you add each new option.
     
     *Apparel*
+    
     *Accessories*
  
     > [!div class="mx-imgBorder"]
@@ -99,18 +100,18 @@ Let’s start by switching off the lesson topics, which aren't needed as part of
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to add node and select show a message.](../media/show-message.png)](../media/show-message.png#lightbox)
 
-12.	Add the following text to the message box: 
+13.	Add the following text to the message box: 
 
-*The Contoso Coffee apparel we have at the moment includes:*
-- *Caps*
-- *Beanies*
-- *T-shirts*
-- *Long sleeve shirts*
+    *The Contoso Coffee apparel we have at the moment includes:*
+    - *Caps*
+    - *Beanies*
+    - *T-shirts*
+    - *Long sleeve shirts*
 
-    > [!div class="mx-imgBorder"]
-    > [![Screenshot highlighting message added in text box.](../media/message.png)](../media/message.png#lightbox)
+        > [!div class="mx-imgBorder"]
+        > [![Screenshot highlighting message added in text box.](../media/message.png)](../media/message.png#lightbox)
 
-13.	Add a node underneath the message to end the conversation with a survey. This will trigger the pre-built “End of Conversation” topic in Power Virtual Agents, which asks the user if their question was answered, and then finish with a satisfaction survey question.  
+14.	Add a node underneath the message to end the conversation with a survey. This will trigger the pre-built “End of Conversation” topic in Power Virtual Agents, which asks the user if their question was answered, and then finish with a satisfaction survey question.  
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to end conversation by selecting End with survey.](../media/end-survey.png)](../media/end-survey.png#lightbox)
@@ -118,11 +119,11 @@ Let’s start by switching off the lesson topics, which aren't needed as part of
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting end of conversation.](../media/conversation-end.png)](../media/conversation-end.png#lightbox)
 
-14.	Under the **Accessories** node, add this **message**.
+15.	Under the **Accessories** node, add this **message**.
 
     The types of accessories we have available at the moment include Contoso Coffee-branded mugs and drinking glasses.
 
-15.	Add a node to **End with survey**.
+16.	Add a node to **End with survey**.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to add node to End with survey.](../media/add-node.png)](../media/add-node.png#lightbox)

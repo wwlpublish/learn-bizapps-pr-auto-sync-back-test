@@ -33,7 +33,7 @@ quiz:
       explanation: Incorrect. This option would allow multiple choices and not yes or no
     - content: Boolean
       isCorrect: false 
-      explanation: Incorrect. This option would allow boolens and not yes or no
+      explanation: Incorrect. This option would allow boolean and not yes or no
     - content: User's entire response
       isCorrect: false 
       explanation: Incorrect. This option would allow User's entire response and not yes or no

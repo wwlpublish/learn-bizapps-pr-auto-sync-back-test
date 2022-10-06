@@ -10,7 +10,7 @@
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting power virtual agent app.](../media/power-virtual-agent.png)](../media/power-virtual-agent.png#lightbox)
 
-3. You'll see a pop up with information about the Power Virtual Agents app for Microsoft Teams. Select the **Add** button.
+3. You'll see a pop-up with information about the Power Virtual Agents app for Microsoft Teams. Select the **Add** button.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting add button for power virtual agent.](../media/add-virtual-agent.png)](../media/add-virtual-agent.png#lightbox)
@@ -27,9 +27,9 @@
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting start now button.](../media/start-now.png)](../media/start-now.png#lightbox)
 
-    You'll be asked which team you want your bot to join. When you are adding a bot as an app in Teams, you can think of it as adding a new virtual member of your team. Select the dropdown and select the team you have used in the previous labs.
+    You'll be asked which team you want your bot to join. When you're adding a bot as an app in Teams, you can think of it as adding a new virtual member of your team. Select the dropdown and select the team you've used in the previous labs.
 
-2. Once you have selected your team, select **continue**.
+2. Once you've selected your team, select **continue**.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting to select admin and continue.](../media/continue-admin.png)](../media/continue-admin.png#lightbox)
@@ -41,7 +41,7 @@
     > [!div class="mx-imgBorder"]
     > [![Screenshot showing to create a chatbot by entering name of bot and selecting language.](../media/create-chatbot.png)](../media/create-chatbot.png#lightbox)
 
-5. You are now seeing the familiar Power Virtual Agents builder inside Microsoft Teams. Your main navigation menu is on the left.
+5. You're now seeing the familiar Power Virtual Agents builder inside Microsoft Teams. Your main navigation menu is on the left.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting main menu.](../media/virtual-agent-home.png)](../media/virtual-agent-home.png#lightbox)
