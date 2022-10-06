@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sample-power-apps-teams.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/12/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: interactive-tutorial
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Can the pre-built Power Apps sample apps for Teams be customized?
+    choices:
+    - content: Yes, it can.
+      isCorrect: true
+      explanation: Correct, you can customize the sample apps after you install them in a team.
+    - content: No, it can't.
+      isCorrect: false
+      explanation: Incorrect, you can make changes to the sample apps after you install them in a team.
+  - content: Which of these answers isn't a Power Apps sample app for Teams?
+    choices:
+    - content: Employee Ideas
+      isCorrect: false
+      explanation: Incorrect. Employee Ideas is a Power Apps sample app.
+    - content: Inspection
+      isCorrect: false
+      explanation: Incorrect. Inspection is a Power Apps sample app.
+    - content: Issue Reporting
+      isCorrect: false
+      explanation: Incorrect. Issue Reporting is a Power Apps sample app.
+    - content: Employee Performance Reviews
+      isCorrect: true
+      explanation: Correct. Employee Performance Reviews isn't a Power Apps sample app.
+  - content: You install the Power Apps sample apps for Teams from where?
+    choices:
+    - content: The Teams app store
+      isCorrect: true
+      explanation: Correct. You install the Power Apps sample apps for Teams from the Teams app store.
+    - content: AppSource
+      isCorrect: false
+      explanation: Incorrect. You don't install the Power Apps sample apps for Teams from AppSource.
+    - content: From your phone app store
+      isCorrect: false
+      explanation: Incorrect. You don't install the Power Apps sample apps for Teams from your phone app store.
+    - content: From a Power BI workspace
+      isCorrect: false
+      explanation: Incorrect. You don't install the Power Apps sample apps for Teams from a Power BI workspace.

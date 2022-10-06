@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sample-power-apps-teams.exercise-explore
+title: Exercise - Explore the Issue Reporting app
+metadata:
+  title: Exercise - Explore the Issue Reporting app
+  description: Follow the steps to explore the Manage Issues app and the Issue Reporting app.
+  ms.date: 10/12/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-explore.md)]
