@@ -11,3 +11,8 @@ In this exercise you'll, design your report and create visuals to display the da
 **Exercise 3: Using the report**
 
 Add the report to your Teams channel.
+
+To complete the exercises, you'll need to use a few files. Download [Dataverse exercise file](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/in-a-day/dataverse/dataverse-teams-exercise-files.zip) for use in this module. There are file folders in this download:
+
+- **Completed modules with instructions** - package files to import the completed exercise steps. 
+- **Student materials** - files used in the exercises.
