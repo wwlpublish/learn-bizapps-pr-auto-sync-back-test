@@ -1,0 +1,50 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-virtual-agents-teams 
+metadata: 
+ title: Power Virtual Agents for Teams
+ description: Learn how you can call flows from your chatbot topics, connecting your bot to other data sources, so that it can take action on behalf of the user.
+ ms.date: 10/06/2022  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: interactive-tutorial  
+title: Power Virtual Agents for Teams
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Power Virtual Agents empowers subject matter experts to build intelligent conversational bots, using a guided, no-code graphical interface. Leveraging Power Automate, you can call flows from your chatbot topics, connecting your bot to other data sources, so that it can take action on behalf of the user.
+  
+  Power Virtual Agents is available as an app in Microsoft Teams, enabling you to create an internal chatbot. This is an ideal solution if you want to create a chatbot to answer common internal questions posed by employees, particularly for areas like IT and human resources where there are a lot of frequently asked questions.
+  > [!NOTE]
+  > If you want to create a chatbot for customers, to deploy on your website or other channels, you can use the full version of Power Virtual Agents.
+abstract: |  
+    In this module, you'll: 
+    - Create a chatbot in Teams
+    -	Personalize the greeting
+    -	Create a topic
+    -	Automate with a flow
+    -	Publish and share the bot 
+prerequisites: |
+  - Completion of prior module. If you didn't complete the prior exercises, please follow the steps here to import the needed components before you start these exercises.
+  -	You'll need an environment with a licensed user to complete these exercises. Follow the sign-up process [here](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5/?azure-portal=true) if you need a training environment. It isn't recommended to use your production (live environment for work or school) user/tenant for completing these exercises.  
+iconUrl: /learn/achievements/power-virtual-agents-teams.svg  
+levels:  
+- beginner   
+roles:  
+- maker
+- business-user 
+products: 
+- power-platform
+- power-apps
+- common-data-service
+subjects: 
+- productivity 
+units: 
+- learn-bizapps.power-virtual-agents-teams.introduction 
+- learn-bizapps.power-virtual-agents-teams.create-chatbot 
+- learn-bizapps.power-virtual-agents-teams.personalize-greeting 
+- learn-bizapps.power-virtual-agents-teams.create-topic 
+- learn-bizapps.power-virtual-agents-teams.create-flow 
+- learn-bizapps.power-virtual-agents-teams.publish-share-chatbot 
+- learn-bizapps.power-virtual-agents-teams.check 
+- learn-bizapps.power-virtual-agents-teams.summary 
+badge: 
+  uid: learn-bizapps.power-virtual-agents-teams.badge 
