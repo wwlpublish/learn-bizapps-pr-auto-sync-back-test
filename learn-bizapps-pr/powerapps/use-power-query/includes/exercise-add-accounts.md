@@ -41,7 +41,7 @@ In a Dataverse environment where you can proceed with modifications to the table
 
 ## Prepare data
 
-A comma-separated values (CSV) file that contains accounts as potential franchise owners is available to download here: Provide a link to the **Potential Franchise Owners.csv** file here
+A comma-separated values (CSV) file that contains accounts as potential franchise owners is available to download.
 
 For this exercise, the file must be uploaded to a OneDrive for Business folder you have access to.
 
@@ -124,7 +124,7 @@ In a Dataverse environment where you can proceed without impacting others in you
 1. With the column mapping completed, select **Next** to proceed to the next step.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Power Query editor. Focus is on Next.](../media/next-button.png)](../media/next-button.png#lightbox)
+	> [![Screenshot of the Power Query editor. Focus is on Next button.](../media/next-button.png)](../media/next-button.png#lightbox)
 
 1. The last step is to configure the refresh settings. For the current scenario, which is a one-time event, select **Refresh manually**, and then select **Publish** to complete the creation of the dataflow.
 

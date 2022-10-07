@@ -40,7 +40,7 @@ In a Dataverse environment where you can proceed with modifications to the table
 
 ## Prepare data
 
-An Excel spreadsheet that contains a list of event attendees is available to download here: Provide a link to the **Conference Attendees.xlsx** file here
+An Excel spreadsheet that contains a list of event attendees is available to download.
 
 For this exercise, the file must be uploaded to a OneDrive for Business folder you have access to.
 

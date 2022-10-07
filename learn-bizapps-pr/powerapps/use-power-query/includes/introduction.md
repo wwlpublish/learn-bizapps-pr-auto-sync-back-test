@@ -33,8 +33,8 @@ To access Power Query Online from Microsoft Power Platform, follow these steps:
 
 The Power Query editor will be displayed.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Power Query editor in the Power Apps studio.](../media/editor.png)](../media/editor.png#lightbox)
+> [!div class="mx-imgBorder"]
+> [![Screenshot of the Power Query editor in the Power Apps studio.](../media/editor.png)](../media/editor.png#lightbox)
 
 Multiple possibilities are available to load and transform data by using Power Query. It's recommended to explore those different options via experimentation in a dedicated environment.
 
