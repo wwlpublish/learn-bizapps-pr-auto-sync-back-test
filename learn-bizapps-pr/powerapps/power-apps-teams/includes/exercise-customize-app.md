@@ -212,7 +212,7 @@ Your final formula will resemble the following example, and the error and warnin
 
 ### Locale differences
 
-If your computer has its regional settings set to use the comma ',' for its decimal separator (as is done in much of Europe), your formulas will use a semicolon ';' instead of a comma. Instead, your formula will appear as shown in the following example. If you're in the en-us locale, you can ignore this example.
+If your computer has its regional settings set to use the comma ',' for its decimal separator (as is done in much of Europe), your formulas will use a semicolon ';' instead of a comma. Instead, your formula will appear as shown in the following example. If you're in the en-us locale, you can ignore this directive.
 
 `Filter(Assets; Category.Name = DataCardValue6.Selected.Name)`
 
@@ -421,7 +421,7 @@ If your computer has its regional settings set to use the comma ',' for its deci
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the color set to purple and the Font weight property set to Bold.](../media/purple-bold.png)](../media/purple-bold.png#lightbox)
 
-1.  Repeat the formatting changes from the previous the step to the **DataCardKey** for the **Asset Category**, **Asset**, and **Comment** cards of the form.
+1.  Repeat the formatting changes from the previous step to the **DataCardKey** for the **Asset Category**, **Asset**, and **Comment** cards of the form.
 
 1.  On the Data Card Key of the **Approval Status** and **Request Number** cards, set the **Font size** to **12** and the font **Color** to **dark gray**. Resize the cards to ensure that the text is fully visible.
 
