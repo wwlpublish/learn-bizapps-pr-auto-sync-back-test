@@ -156,24 +156,22 @@ To import data, follow these steps:
 
 Your next task will be to set up the app form. In your form, you'll want the **Asset** field to be filtered based on the selected Asset category.
 
-1.   On your canvas, select the **Asset** field, and then select under the label again to select the **DataCardValue**.
-    
-    You'll know if you've selected correctly when the panel on the right displays a COMBO BOX for DataCardValueX. (You might have a different number if you added the columns to the form in a different order, which is acceptable.)
+1.   On your canvas, select the **Asset** field, and then select under the label again to select the **DataCardValue**. You'll know if you've selected correctly when the panel on the right displays a COMBO BOX for DataCardValueX. (You might have a different number if you added the columns to the form in a different order, which is acceptable.)
 
    > [!div class="mx-imgBorder"]
    > [![Screenshot of the Properties panel, showing the Combo Box with the Data Card Value.](../media/data-card-value.png)](../media/data-card-value.png#lightbox)
 
-1.  Select the **Advanced** tab and then select **Unlock to change properties**.
+2.  Select the **Advanced** tab and then select **Unlock to change properties**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Unlock to change properties button on the Advanced tab.](../media/unlock.png)](../media/unlock.png#lightbox)
 
-1.  Select the **Properties** tab and then select **Depends on**. This selection will allow you to set a formula that will apply a filter to the Asset choices based on the Asset category that you've chosen.
+3.  Select the **Properties** tab and then select **Depends on**. This selection will allow you to set a formula that will apply a filter to the Asset choices based on the Asset category that you've chosen.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Depends on button on the Properties tab.](../media/properties-dependency.png)](../media/properties-dependency.png#lightbox)
 
-1.  Select the following options:
+4.  Select the following options:
     
     Make your selections in the bottom half of the form first:
 
@@ -191,14 +189,14 @@ Your next task will be to set up the app form. In your form, you'll want the **A
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the modified properties on the Data Card Value.](../media/modify-properties.png)](../media/modify-properties.png#lightbox)
 
-1.  Select **Apply**.
+5.  Select **Apply**.
 
     A formula will appear in the formula bar, and you'll get a warning icon on your canvas and an error flag on your app checker. You'll need to manually add one more component to the formula to correct this issue. This component isn't something that you can choose from the **Depends on** selections.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the formula in the formula bar and the warning icon.](../media/warning.png)](../media/warning.png#lightbox)
 
-1.  Edit the formula. Select at the end of the word **Category**, type a dot (period/full stop) and then type the letter **N**. Select **Name** from the list of options that appears.
+6.  Edit the formula. Select at the end of the word **Category**, type a dot (period/full stop) and then type the letter **N**. Select **Name** from the list of options that appears.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Name selected from a list of options.](../media/name.png)](../media/name.png#lightbox)
