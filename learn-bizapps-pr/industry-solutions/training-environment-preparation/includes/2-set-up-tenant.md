@@ -1,10 +1,10 @@
 To deploy Microsoft Cloud for Financial Services in a Microsoft Dataverse environment, you need to create a tenant with the prerequisite licenses.
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aEl]
+
 ## Task 1: Create a Microsoft 365 tenant
 
 In this task, you'll learn how to create a trial tenant along with the required Microsoft Dynamics 365 and Microsoft 365 trial licenses. You can skip this task if you already have a tenant.
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aEl]
 
 1. Open an internet browser in In-Private or Incognito mode.
 
