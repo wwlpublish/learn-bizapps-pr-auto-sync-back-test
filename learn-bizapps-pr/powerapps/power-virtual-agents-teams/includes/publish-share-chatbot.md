@@ -92,7 +92,7 @@ If you have the admin login for your tenant, you can play the role of the admin 
 
 1. Open a new browser tab and navigate to the Microsoft Teams admin center: https://admin.teams.microsoft.com/dashboard
 
-2. Go to Teams apps – Manage apps in the left hand navigation menu. you'll see that there's 1 Submitted custom app pending approval.
+2. Go to Teams apps – Manage apps in the left hand navigation menu. you'll see that there's 1 submitted custom app pending approval.
  
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting pending approval.](../media/pending-approval.png)](../media/pending-approval.png#lightbox)
