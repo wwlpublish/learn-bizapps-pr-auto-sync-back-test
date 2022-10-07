@@ -4,6 +4,8 @@ The objective of this exercise is for you to learn how to embed a model-driven a
 
 ## Task 1: Create a new team in Microsoft Teams
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE58W6Y]
+
 Follow these steps to create a new team in Microsoft Teams:
 
 1. Open **Microsoft Teams** and select **Teams** in the left navigation bar.
