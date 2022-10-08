@@ -2,7 +2,7 @@ This module has four exercises. The flows that are created in the first two exer
 
 - **Exercise - Create a flow in Teams** - Explore the Power Automate app for Teams and create a flow by using a template. This flow allows you to follow up on a Teams message.
 
-- **Exercise - Collaboration** - Create a flow that will send a message to new team members that requests a bio. After the bios have been submitted, You'll post a message to a channel featuring your welcome message and their bio. In this flow, someone being added to your team is the trigger. You'll add other people from your lab group into your team during this exercise. You'll continue to collaborate in these teams throughout the later labs to get the experience of using Teams for collaboration with colleagues.
+- **Exercise - Collaboration** - Create a flow that will send a message to new team members that requests a bio. After the bios have been submitted, you'll post a message to a channel featuring your welcome message and their bio. In this flow, someone being added to your team is the trigger. You'll add other people from your lab group into your team during this exercise. You'll continue to collaborate in these teams throughout the later labs to get the experience of using Teams for collaboration with colleagues.
 
 - **Exercise - Create an approval flow** - Build a flow that connects to Microsoft Dataverse for Teams that will trigger an approval process when a new request for swag is submitted through the app that you built in the previous lab.
 
