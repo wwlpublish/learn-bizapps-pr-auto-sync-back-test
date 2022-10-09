@@ -166,10 +166,10 @@ To create a flow from blank, follow these steps:
     > [!div class="mx-imgBorder"]
     > [![Screenshot of saving the flow with the Teams icon highlighted.](../media/teams-flow.png)](../media/teams-flow.png#lightbox)
 
-1. Open your **Swag Requests** app in the tab and then submit a new request.
+1. Open your **Swag Request App** in the tab and then submit a new request.
 
     > [!div class="mx-imgBorder"]
-    > [![Screenshot of the Swag Request app in Teams where you'll submit a new request.](../media/swag-request.png)](../media/swag-request.png#lightbox)
+    > [![Screenshot of the Swag Request App in Teams where you'll submit a new request.](../media/swag-request.png)](../media/swag-request.png#lightbox)
 
 1. Open a new tab in your browser and go to [Outlook](https://outlook.office365.com/?azure-portal=true) to open Outlook for your lab user account. An email with the approval request will display. You'll also receive a Teams notification with the same request.
 
