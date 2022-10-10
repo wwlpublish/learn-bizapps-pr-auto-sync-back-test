@@ -1,110 +1,116 @@
+In this exercise, you'll learn how to connect to Microsoft Dataverse and transform data.
+
 ## Task: Discover and add the Power BI app to Teams
 
-1.  In Microsoft Teams, select the **Apps** icon on the left toolbar, and then search for Power BI.
+Your first task in this exercise is to search for and add the Microsoft Power BI app to Microsoft Teams.
+
+1.  In Microsoft Teams, select the **Apps** icon on the left toolbar and then search for Power BI.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Power BI Teams app.](../media/power-bi-teams-app.png)](../media/power-bi-teams-app.png#lightbox)
+	> [![Screenshot of the Apps screen in Teams, showing the Power BI for Teams app.](../media/power-bi-teams-app.png)](../media/power-bi-teams-app.png#lightbox)
 
 1.  Select the Power BI app when you find it in the search results.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of adding Power BI to Teams.](../media/power-bi.png)](../media/power-bi.png#lightbox)
+	> [![Screenshot of adding the Power BI app to Teams.](../media/power-bi.png)](../media/power-bi.png#lightbox)
 
-1.  You'll see a pop-up with information about the Power Apps app for Microsoft Teams. Select the **Add** button.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the add button.](../media/add.png)](../media/add.png#lightbox)
-
-1.  You'll now see the Power BI app in the left-hand navigation bar. Right select that icon and select **Pin**. This pins the app to the navigation bar, making it easier to return to it when you need to.
+1.  A pop-up window will appear with information about the Power BI app for Microsoft Teams. Select the **Add** button.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of pinning the app to the taskbar.](../media/pin.png)](../media/pin.png#lightbox)
+	> [![Screenshot of the Add button.](../media/add.png)](../media/add.png#lightbox)
+
+1.  The Power BI app will display in the left navigation bar. Right-click that icon and select **Pin**. Pinning the app to the navigation bar will help make it easier for you to return to it when necessary.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of pinning the Power BI app to the taskbar.](../media/pin.png)](../media/pin.png#lightbox)
 
 ## Task: Create a workspace
 
-1.  In the left navigation menu within the Power BI app, select the Workspaces icon shown below then select **Create a workspace**.
+In this task, you'll create a workspace by following these steps:
+
+1.  In the left navigation menu within the Power BI app, select the **Workspaces** icon and then select **Create a workspace**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the workspaces menu.](../media/workspaces.png)](../media/workspaces.png#lightbox)
+	> [![Screenshot of the Workspaces menu, highlighting the Create a workspace button.](../media/workspaces.png)](../media/workspaces.png#lightbox)
 
-1.  For the Workspace name, enter the name of the Team you have been using, for example, **Office -\<your name\>** then select **Save**.
+1.  In the **Workspace name** field, enter the name of the team that you've been using, such as **Office -\<your name\>**, and then select **Save**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the workspace name and save button.](../media/workspace-name.png)](../media/workspace-name.png#lightbox)
+	> [![Screenshot of the Workspace name field filled in and the Save button.](../media/workspace-name.png)](../media/workspace-name.png#lightbox)
 
 1.  In your new workspace, select **Access**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the access button.](../media/access.png)](../media/access.png#lightbox)
+	> [![Screenshot of the Access button.](../media/access.png)](../media/access.png#lightbox)
 
-1.  In the Enter email address field, start typing in the name of your Team, for example, Office-\<your name\>. You should see an email address appears using your Team name. Select that email. This will give all members of your Team access to the workspace, which will contain the Power BI report you'll be creating.
+1.  In the **Enter email address** field, start typing the name of your team, such as **Office-\<your name\>**. An email address should appear using your team name. Select that email. Now, all members of your team will have access to the workspace, which will contain the Power BI report that you'll create.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the access settings.](../media/access-settings.png)](../media/access-settings.png#lightbox)
 
-1.  Set the access level to **Viewer** then select **Add**. Select **Close**.
+1.  Set the access level to **Viewer** and then select **Add**. Select **Close**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the level set to viewer.](../media/viewer-level.png)](../media/viewer-level.png#lightbox)
+	> [![Screenshot of the access level set to Viewer.](../media/viewer-level.png)](../media/viewer-level.png#lightbox)
 
 ## Task: Connect to Dataverse
 
-In this task, you'll be connecting to your Dataverse tables created in a prior lab in this learning path.
+In this task, you'll connect to the Dataverse tables that you created in a previous lab in this learning path.
 
-1.  Launch Power BI Desktop on your computer. Sign in with the account you're using for the labs. If you're automatically signed in with your work account, select your username in the top right of the screen and select **Sign Out**.
+1.  Launch Microsoft Power BI Desktop on your computer. Sign in with the account that you're using for the labs. If you're automatically signed in with your work account, select your username in the upper-right corner of the screen and then select **Sign out**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the sign out button.](../media/sign-out.png)](../media/sign-out.png#lightbox)
 
-1.  Once signed in with your lab account, select **Dataverse** from the ribbon.
+1.  After you've signed in with your lab account, select **Dataverse** from the ribbon.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the dataverse button.](../media/dataverse.png)](../media/dataverse.png#lightbox)
+	> [![Screenshot of the Dataverse button.](../media/dataverse.png)](../media/dataverse.png#lightbox)
 
-1.  Select **Sign in**, and sign in with your lab account. Select **Connect**.
+1.  Select **Sign in** and then sign in with your lab account. Select **Connect**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the sign in button and the connect button.](../media/connect.png)](../media/connect.png#lightbox)
+	> [![Screenshot of the Sign in button and the Connect button.](../media/connect.png)](../media/connect.png#lightbox)
 
-1.  You should see your Team name in the list. Select the arrow to expand it.
+1.  Your team name should appear in the list. Select the arrow to expand it.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the expanded list.](../media/expand-list.png)](../media/expand-list.png#lightbox)
 
-1.  You'll be loading the three tables that you created earlier in Lab 1. Scroll down the list until you find the **Request**, **Asset** and **Asset Category** tables. Your table name will be in a format such as crf7d_asset. *Your tables will begin with a unique prefix (which you identified in the previous lab), which is likely not the same as this example. Mark the checkbox next to your 3 tables, then select **Transform Data**.* This will launch Power Query Editor in another window.
+1.  Load the three tables that you created in a previous lab. Scroll down the list until you find the Request, Asset, and Asset Category tables. Your table name will be in a format such as crf7d_asset. Your tables will begin with a unique prefix (which you identified in the previous lab), which is likely different than this example. Select the checkbox next to your three tables and then select **Transform Data**. This action will launch Power Query Editor in another window.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the transform data button.](../media/transform-data.png)](../media/transform-data.png#lightbox)
+	> [![Screenshot of the Transform Data button.](../media/transform-data.png)](../media/transform-data.png#lightbox)
 
-1.  In a moment, you'll get the following message. Select **DirectQuery** then select OK.
+1.  In a moment, you'll get the following message. Select **DirectQuery** then select **OK**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of direct query selected with ok button.](../media/direct-query.png)](../media/direct-query.png#lightbox)
+	> [![Screenshot of the Direct Query option selected and the O K button.](../media/direct-query.png)](../media/direct-query.png#lightbox)
 
 ## Task: Transform data
 
-Now that you've connected to your Dataverse tables, the next step involves cleaning or "transforming" your data so that it's optimized for reporting. Transformations are done in Power BI using the Power Query Editor tool.
+Now that you've connected to your Dataverse tables, the next step involves cleaning or *transforming* your data so that it's optimized for reporting. You can do these transformations in Power BI by using the Power Query Editor tool.
 
-1.  You should have Power Query Editor open in another window. From the Queries menu on the left side of the screen, double click on the x\_asset query. Rename the query to **Asset**.
+1.  You should have Power Query Editor open in another window. From the **Queries** menu on the left side of the screen, double-click the **x\_asset** query. Rename the query to **Asset**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the query renamed to asset.](../media/asset-query.png)](../media/asset-query.png#lightbox)
 
-1.  Rename x\_assetcategory query to **Asset Category**.
+1.  Rename the **x\_assetcategory** query to **Asset Category**.
 
-1.  Rename x\_request query to **Request**. Your queries should now appear as the following.
+1.  Rename the **x\_request** query to **Request**. Your queries should now appear as shown in the following image.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the query list with renamed queries.](../media/query-list.png)](../media/query-list.png#lightbox)
 
-1.  Select the Asset query, then select **Choose Columns** from the ribbon.
+1.  Select the **Asset** query and then select **Choose Columns** from the ribbon.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the choose columns menu.](../media/choose-columns.png)](../media/choose-columns.png#lightbox)
+	> [![Screenshot of the Choose Columns menu.](../media/choose-columns.png)](../media/choose-columns.png#lightbox)
 
-1.  Untick **(Select All Columns)** to clear all columns from selection. Select the following six columns to bring in:
+1.  Clear the **(Select All Columns)** option to remove all columns from selection. Select the following six columns to bring in:
 
-	x\_assetid *(this will be at the top of the list)*
+	x\_assetid *(this selection will be at the top of the list)*
 	
 	x\_name
 	
@@ -116,12 +122,12 @@ Now that you've connected to your Dataverse tables, the next step involves clean
 	
 	x\_image
 
-	Select **OK**.
+1.  Select **OK**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the columns selected.](../media/columns-selected.png)](../media/columns-selected.png#lightbox)
 
-1.  You'll rename the columns in the Asset query. To rename a column, double click on the column header. Alternatively, you can right click on the column header and select Rename. You'll rename each column to the following new name.
+1.  Rename the columns in the **Asset** query. To rename a column, double-click the column header. Alternatively, you can right-click the column header and then select **Rename**. Rename each column to the following new names
 
 	|     x_assetid              |     Asset ID         |
 	|----------------------------|----------------------|
@@ -132,23 +138,23 @@ Now that you've connected to your Dataverse tables, the next step involves clean
 	|     x_image                |     Image            |
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of rename in the menu.](../media/rename.png)](../media/rename.png#lightbox)
+	> [![Screenshot of the Rename option in the menu.](../media/rename.png)](../media/rename.png#lightbox)
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the renamed columns.](../media/renamed-columns.png)](../media/renamed-columns.png#lightbox)
 
-1.  Select the **Asset Category**, then select **Choose Columns** from the ribbon. You'll pick the columns you want displayed in the Asset Category query, as done previously in the Asset query. Untick **(Select All Columns)** to clear all columns from selection. Select the following two columns to bring in:
+1.  Select **Asset Category** and then select **Choose Columns** from the ribbon. Choose the columns that you want displayed in the **Asset Category** query, as you did previously in the **Asset** query. Clear the **(Select All Columns)** option to remove all columns from selection. Select the following two columns to bring in:
 
-	x\_assetcategoryid *(this will be at the top of the list)*
+	x\_assetcategoryid *(this column will be at the top of the list)*
 	
 	x\_name
 	
-	Select **OK**.
+1.  Select **OK**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the columns selected with ok button.](../media/columns-ok.png)](../media/columns-ok.png#lightbox)
+	> [![Screenshot of the columns selected with the O K button.](../media/columns-ok.png)](../media/columns-ok.png#lightbox)
 
-1.  Rename the columns in the **Asset Category** query. To rename a column, double click on the column header. Alternatively, you can right click on the column header and select Rename. You'll rename each column to the following new name.
+1.  Rename the columns in the **Asset Category** query. To rename a column, double-click the column header. Alternatively, you can right-click the column header and then select **Rename**. Rename each column to the following new names
 
 	|     x_assetcategoryid    |     Category ID      |
 	|--------------------------|----------------------|
@@ -157,9 +163,9 @@ Now that you've connected to your Dataverse tables, the next step involves clean
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the columns renamed.](../media/columns-renamed.png)](../media/columns-renamed.png#lightbox)
 
-1.  Select the **Request query**, then select on **Choose Columns** from the ribbon. You'll pick the columns you want displayed in the Request query. Untick **(Select All Columns)** to clear all columns from selection. Select the following eight columns to bring in:
+1.  Select **Request** query and then select **Choose Columns** from the ribbon. Choose the columns that you want displayed in the **Request** query. Clear the **(Select All Columns)** option to remove all columns from selection. Select the following eight columns to bring in:
 
-	x\_requestid *(this will be at the top of the list)*
+	x\_requestid *(this column will be at the top of the list)*
 	
 	x\_name
 	
@@ -178,14 +184,14 @@ Now that you've connected to your Dataverse tables, the next step involves clean
 	Select **OK**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the columns checked in list.](../media/columns-checked.png)](../media/columns-checked.png#lightbox)
+	> [![Screenshot of eight columns selected in the list.](../media/columns-checked.png)](../media/columns-checked.png#lightbox)
 
-1. You'll need to bring the Price column from the Asset query into the Request query. In the Request query, go to the last column **x_asset(x_asset)** and select the **expand** button. Deselect all the columns by unticking **(Select All Columns)**. Find **x\_price** column to select it then select **OK**.
+1. Bring the **Price** column from the **Asset** query into the **Request** query. In the **Request** query, go to the last column **x_asset(x_asset)** and then select the **expand** button. Clear the **(Select All Columns)** option to remove all columns from selection. Find the **x\_price** column to select it and then select **OK**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the price column.](../media/price.png)](../media/price.png#lightbox)
 
-1. In the Requests query, rename each column to the following new name.
+1. In the **Requests** query, rename each column to the following new name.
 
 	|     x_requestid             |     Request ID         |
 	|-----------------------------|------------------------|
@@ -197,40 +203,40 @@ Now that you've connected to your Dataverse tables, the next step involves clean
 	|     x_asset                 |     Asset ID           |
 	|     x_asset(x_asset)        |     Price              |
 
-1. You'll notice that the Approval Status column contains blank values if the request hasn't been approved or rejected. Select the Approval Status column to select it, then select Replace Values from the ribbon.
+1. The **Approval Status** column will contain blank values if the request hasn't been approved or rejected. Select the **Approval Status** column and then select **Replace Values** from the ribbon.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the approval status column.](../media/approval-status.png)](../media/approval-status.png#lightbox)
+	> [![Screenshot of the Approval Status column and Replace Values selected.](../media/approval-status.png)](../media/approval-status.png#lightbox)
 
 1. Enter the following details then select **OK**:
 
-	Value to find: null
+	**Value to find** - null
 
-	Replace with: Pending
+	**Replace with** - Pending
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the find and replace values.](../media/find-replace.png)](../media/find-replace.png#lightbox)
 
-1. Now that you've finished with the transformation steps, you can apply your changes. In the ribbon, select the **Home** tab, then select **Close and Apply**.
+1. Now that you've finished with the transformation steps, you can apply your changes. In the ribbon, select the **Home** tab and then select **Close & Apply**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the close and apply button.](../media/close-apply.png)](../media/close-apply.png#lightbox)
+	> [![Screenshot of the Close and Apply button.](../media/close-apply.png)](../media/close-apply.png#lightbox)
 
-1. Once it has finished applying, you'll be taken back to your Power BI Desktop window, and you can see your three tables in the fields pane on the right side of your screen.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the tables listed.](../media/tables.png)](../media/tables.png#lightbox)
-
-1. You can save your Power BI File. Select the **Save** icon in the top left of the screen. Name your file **Contoso Coffee Swag Request Report**, then save it in a location of your choice.
+1. After the changes have finished applying, you'll be returned to your Power BI Desktop window, where you can view your three tables in the **Fields** pane on the right side of your screen.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the save button.](../media/save.png)](../media/save.png#lightbox)
+	> [![Screenshot of the tables listed in the Fields pane.](../media/tables.png)](../media/tables.png#lightbox)
 
-## Task: Change report theme
+1. To save your Power BI file, select the **Save** icon in the upper-left corner of the screen. Name your file **Contoso Coffee Swag Request Report** and then save it in a location of your choice.
 
-You can customize the theme of your report to make designing easier. We'll customize the theme so that there's consistency across the colors used in the report.
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of the Save button.](../media/save.png)](../media/save.png#lightbox)
 
-1.  In your Power BI Desktop file, select the **View** tab of the ribbon. Select the **Themes** dropdown and select **Classic**.
+## Task: Change the report theme
+
+You can customize the theme of your report to make designing easier. In this task, you'll customize the theme to ensure consistency across the colors that are used in the report.
+
+1.  In your Power BI Desktop file, select the **View** tab of the ribbon. Select the **Themes** dropdown menu and then select **Classic**.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the change theme view.](../media/theme.png)](../media/theme.png#lightbox)
@@ -239,24 +245,24 @@ You can customize the theme of your report to make designing easier. We'll custo
 
 ## Task: Create an asset category hierarchy
 
-A hierarchy allows you to drill down into data in your report. We'll create a hierarchy in the Asset table, which will allow us to drill into asset names based on the asset category. This will be used for a visual later in the lab.
+A hierarchy allows you to drill down into data in your report. In this task, you'll create a hierarchy in the Asset table, which will allow you to drill into asset names based on the asset category. You'll use this hierarchy for a visual later in the lab.
 
-1.  From the Fields pane, expand the Asset table so that you can see the fields. Select More options **...** on **Category Name** field then select **Create hierarchy**.
+1.  From the **Fields** pane, expand the Asset table so that you can view the fields. Select the **More options** menu (**...**) on the **Category Name** field and then select **Create hierarchy**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the category name and create hierarchy.](../media/create-hierarchy.png)](../media/create-hierarchy.png#lightbox)
+	> [![Screenshot of Category Name more options menu and create hierarchy.](../media/create-hierarchy.png)](../media/create-hierarchy.png#lightbox)
 
-	*You can expand the size of the pane to better see the field names, if they're getting cut off. Just select the border of the pane to resize it.*
+	You can expand the size of the pane to view the field names better if they've been cut off. Select the border of the pane to resize it.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the expand menu.](../media/expand-menu.png)](../media/expand-menu.png#lightbox)
 
-1.  Select More options on **Name** field then select **Add to hierarchy**. Select the **Category Name hierarchy**.
+1.  Select the **More options** menu (**...**) on the **Name** field and then select **Add to hierarchy**. Select the **Category Name Hierarchy**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the name field with category name hierarchy.](../media/hierarchy.png)](../media/hierarchy.png#lightbox)
+	> [![Screenshot of the Name field with category name hierarchy.](../media/hierarchy.png)](../media/hierarchy.png#lightbox)
 
-1.  Your Category Hierarchy is now created.
+    Your Category Hierarchy is now created.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the hierarchy created.](../media/hierarchy-created.png)](../media/hierarchy-created.png#lightbox)
