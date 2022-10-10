@@ -1,51 +1,45 @@
-Sample apps allow you to get started quickly and can be customized and extended using any part of the Power Platform to suit your business requirements.
+Sample apps allow you to get started quickly, and you can customize and extend them by using any part of Microsoft Power Platform to suit your business requirements. This lab includes three exercises where you'll explore these sample apps and also install and customize an app.
 
-- **Exercise - Install the Issue Reporting sample app**
+- **Exercise - Install the Issue Reporting sample app** - Install the **Issue Reporting** app in your team and create an instance of Microsoft Tasks.
 
-Install the Issue Reporting app in your Team and create an instance of Microsoft Tasks.
+- **Exercise - Explore the Issue Reporting app** - Browse the **Issue Reporting** app and learn about its capabilities.
 
-- **Exercise - Explore the Issue Reporting app**
+- **Exercise - Customize the sample app** - Discover ways that you can customize the Issue Reporting app to meet your specific needs. You'll also discover how to edit the app in Microsoft Power Apps for further customization.
 
-Browse the Issue Reporting app and learn about the capabilities.
+Out of the box, several sample apps are available in Microsoft Teams. The following sections describe a few of these sample apps; however, for more information, see [Use sample apps from the Microsoft Teams store](/power-apps/teams/use-sample-apps-from-teams-store/?azure-portal=true).
 
-- **Exercise - Customize the sample app**
+### Employee ideas
 
-Discover ways the Issue Reporting app can be customized to meet your specific needs. You'll see how you can edit the app in Power Apps for further customization.
-
-Out of the box, there are several sample apps available in Microsoft Teams. Here are a few, but to learn about all of them, see [Use sample apps from the Microsoft Teams store](/power-apps/teams/use-sample-apps-from-teams-store/?azure-portal=true).
-
-### Employee Ideas
-
-This sample app enables team members to quickly generate and organize ideas by campaigns. It's an app for front line works to submit customer feedback, where you can crowdsource new ideas and easily review, manage, and act upon the ideas. To learn more about this app, see [Employee ideas sample app](/power-apps/teams/employee-ideas/?azure-portal=true).
+The **Employee ideas** sample app enables team members to quickly generate and organize ideas by campaigns. It's an app for frontline works to submit customer feedback, where you can crowdsource new ideas and review, manage, and act on the ideas. To learn more about this app, see [Employee ideas sample app](/power-apps/teams/employee-ideas/?azure-portal=true).
 
 Example extensibility use cases:
 
-- Managing ideas for hackathon projects
+- Manage ideas for hackathon projects.
 
-- Prioritizing workplace safety improvements
+- Prioritize workplace safety improvements.
 
-- Managing product backlog
+- Manage product backlog.
 
 ### Inspection
 
-This inspection app can be used to inspect things such as locations, assets, or equipment. Employees can use the app to complete a checklist of the required inspection, and log an issue when an issue is found during the inspection and assign it to the relevant person. Management can also use the app to view inspections, create and edit inspection forms and manage settings of the inspection app. To learn more about this app, see [Inspection sample apps](/power-apps/teams/inspection/?azure-portal=true).
+You can use the **Inspection** sample app to inspect locations, assets, or equipment. Employees can use the app to complete a checklist of the required inspection, and they can log an issue when it's found during the inspection and assign it to the relevant person. Management can also use the app to view inspections, create and edit inspection forms, and manage settings of the **Inspection** app. For more information, see [Inspection sample apps](/power-apps/teams/inspection/?azure-portal=true).
 
 Example extensibility use cases:
 
-- Establish a checklist for processes including machine maintenance and patient check-ins
+- Establish a checklist for processes, including machine maintenance and patient check-ins.
 
-- Inspect retail store to verify that store is ready to open for the day'
+- Inspect a retail store to verify that the store is ready to open for the day.
 
-- Asset checkout and check-in procedures
+- Review asset checkout and check-in procedures.
 
 ### Issue Reporting
 
-The issue report app allows employees on the front line to report on incidents and issues when they see them. Users can pick from a list of issue types, and issues are created via the Planner tool. Managers can create, review, and edit the issue template forms used to collect information when a user reports an issue. To learn more about this app, see [Issue reporting sample apps](/power-apps/teams/issue-reporting/?azure-portal=true).
+The **Issue reporting** sample app allows employees on the front line to report on incidents and issues when they encounter them. Users can choose from a list of issue types, and they can create issues by using the Planner tool. Managers can create, review, and edit the issue template forms that users fill out when collecting information to report an issue. For more information, see [Issue reporting sample apps](/power-apps/teams/issue-reporting/?azure-portal=true).
 
 ### Bulletins
 
-This sample app provides a space for communication across the company. It can be used to share broadcasts, memos, announcements, and company news. To learn more about this app, see [Bulletins sample app](/power-apps/teams/bulletins/?azure-portal=true).
+The **Bulletins** sample app provides a space for communication across the company. You can use it to share broadcasts, memos, announcements, and company news. For more information, see [Bulletins sample app](/power-apps/teams/bulletins/?azure-portal=true).
 
 ### Milestones
 
-The Milestones sample app allows managers to set up projects and assign work items to employees. Work item categories, priorities and status options can be configured. To learn more about this app, see [Milestones sample app](/power-apps/teams/milestones/?azure-portal=true).
+The **Milestones** sample app allows managers to set up projects and assign work items to employees. Additionally, they can set up work item categories, priorities, and status options. For more information, see [Milestones sample app](/power-apps/teams/milestones/?azure-portal=true).
