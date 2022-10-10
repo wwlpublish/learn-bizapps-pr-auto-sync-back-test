@@ -1,10 +1,10 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.sample-power-apps-teams.exercise-install
-title: Exercise - Install the Issue Reporting sample app
+title: Exercise - Install the Issue reporting sample app
 metadata:
-  title: Exercise - Install the Issue Reporting sample app
-  description: Follow the steps to install the Issue Reporting sample app.
-  ms.date: 10/12/2022
+  title: Exercise - Install the Issue reporting sample app
+  description: Follow the steps to install the Issue reporting sample app.
+  ms.date: 10/09/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
