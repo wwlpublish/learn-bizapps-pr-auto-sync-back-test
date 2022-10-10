@@ -1,10 +1,10 @@
 Sample apps allow you to get started quickly, and you can customize and extend them by using any part of Microsoft Power Platform to suit your business requirements. This lab includes three exercises where you'll explore these sample apps and also install and customize an app.
 
-- **Exercise - Install the Issue Reporting sample app** - Install the **Issue Reporting** app in your team and create an instance of Microsoft Tasks.
+- **Exercise - Install the Issue reporting sample app** - Install the **Issue reporting** app in your team and create an instance of Microsoft Tasks.
 
-- **Exercise - Explore the Issue Reporting app** - Browse the **Issue Reporting** app and learn about its capabilities.
+- **Exercise - Explore the Issue reporting app** - Browse the **Issue reporting** app and learn about its capabilities.
 
-- **Exercise - Customize the sample app** - Discover ways that you can customize the Issue Reporting app to meet your specific needs. You'll also discover how to edit the app in Microsoft Power Apps for further customization.
+- **Exercise - Customize the sample app** - Discover ways that you can customize the Issue reporting app to meet your specific needs. You'll also discover how to edit the app in Microsoft Power Apps for further customization.
 
 Out of the box, several sample apps are available in Microsoft Teams. The following sections describe a few of these sample apps; however, for more information, see [Use sample apps from the Microsoft Teams store](/power-apps/teams/use-sample-apps-from-teams-store/?azure-portal=true).
 
@@ -32,7 +32,7 @@ Example extensibility use cases:
 
 - Review asset checkout and check-in procedures.
 
-### Issue Reporting
+### Issue reporting
 
 The **Issue reporting** sample app allows employees on the front line to report on incidents and issues when they encounter them. Users can choose from a list of issue types, and they can create issues by using the Planner tool. Managers can create, review, and edit the issue template forms that users fill out when collecting information to report an issue. For more information, see [Issue reporting sample apps](/power-apps/teams/issue-reporting/?azure-portal=true).
 
