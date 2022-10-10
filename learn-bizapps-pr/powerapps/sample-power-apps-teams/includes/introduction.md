@@ -22,7 +22,7 @@ Example extensibility use cases:
 
 ### Inspection
 
-You can use the **Inspection** sample app to inspect locations, assets, or equipment. Employees can use the app to complete a checklist of the required inspection, and they can log an issue when it's found during the inspection and assign it to the relevant person. Management can also use the app to view inspections, create and edit inspection forms, and manage settings of the **Inspection** app. For more information, see [Inspection sample apps](/power-apps/teams/inspection/?azure-portal=true).
+You can use the **Inspection** sample app to inspect locations, assets, or equipment. Employees can use the app to complete a checklist of the required inspection. Additionally, they can log an issue when it's found during the inspection and then assign it to the relevant person. Management can also use the app to view inspections, create and edit inspection forms, and manage settings of the **Inspection** app. For more information, see [Inspection sample apps](/power-apps/teams/inspection/?azure-portal=true).
 
 Example extensibility use cases:
 
