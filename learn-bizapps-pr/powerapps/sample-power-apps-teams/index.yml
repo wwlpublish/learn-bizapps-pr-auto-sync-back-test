@@ -10,11 +10,11 @@ metadata:
 title: Explore sample Power Apps applications in the Teams store - bootcamp
 summary: |
   [!include[](../includes/module-banner.md)]
-  In this lab, you'll explore the sample apps from Power Apps that are available in Microsoft Teams. Also, you'll install and customize the Issue Reporting sample app. Sample apps are prebuilt for a particular use case and are available in the Teams store.
+  In this lab, you'll explore the sample apps from Power Apps that are available in Microsoft Teams. Also, you'll install and customize the Issue reporting sample app. Sample apps are prebuilt for a particular use case and are available in the Teams store.
 abstract: |
     In this module, you'll:
-    - Install and use the Issue Reporting app.
-    - Customize the Issue Reporting app.
+    - Install and use the Issue reporting app.
+    - Customize the Issue reporting app.
 prerequisites: |
     - Completion of prior module. If you didn't complete the prior exercises, download the [Dataverse exercises](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/in-a-day/dataverse/dataverse-teams-exercise-files.zip) to import the needed components before you start these exercises.
     - An environment with a licensed user to complete these exercises. Follow the sign-up process [Microsoft Office 365](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5) if you need a training environment. We don’t recommend that you use your production (live environment for work or school) user/tenant for completing these exercises.
