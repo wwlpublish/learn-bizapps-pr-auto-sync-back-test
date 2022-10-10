@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.pva-voice.configure-handoff 
-title: Configuring handoff to your customer service application
+title: Set up the handoff to your customer service application
 metadata: 
-  title: Configuring handoff to your customer service application
-  description: Learn how to configure handoff to your customer service application.
+  title: Set up the handoff to your customer service application
+  description: Learn how to set up the handoff to your customer service application.
   ms.date: 09/28/2022 
   author: Heyrob 
   ms.author: Robde 
