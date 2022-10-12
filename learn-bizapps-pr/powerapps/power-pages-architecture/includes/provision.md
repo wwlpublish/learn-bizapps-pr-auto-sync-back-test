@@ -3,7 +3,7 @@ A fully functional portal that is based on a template is provisioned in an envir
 A maker will first choose a particular portal template. Many website templates are available for environments without Dynamics 365, and additional portal templates are available for environments with Dynamics 365 apps installed.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the blank website selection.](../media/2-starter-portals-ssm.png)](../media/2-starter-portals-ssm.png#lightbox)
+> [![Screenshot of the blank website selection.](../media/2-starter-portals.png)](../media/2-starter-portals.png#lightbox)
 
 ### Portal solutions installation
 
@@ -25,12 +25,12 @@ An Azure web app will be configured for each portal that is provisioned in an en
 The provisioned portal will appear in the **Apps** list of type Portal. From this portal app, a maker will be able to edit (that is, open portals Studio), browse, share, go to settings, delete, or view details about the portal. 
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the Portal Apps with ellipsis drop down menu and type noted.](../media/2-portal-app-menu-ssm.png)](../media/2-portal-app-menu-ssm.png#lightbox)
+> [![Screenshot of the Portal Apps with ellipsis drop down menu and type noted.](../media/2-portal-app-menu.png)](../media/2-portal-app-menu.png#lightbox)
 
 A list of all portals in a Microsoft Power Platform tenant can be viewed from Microsoft Power Platform admin center. 
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of te Microsoft Power Platform Admin Center portals list.](../media/2-power-platform-admin-center-portals-ss.png)](../media/2-power-platform-admin-center-portals-ss.png#lightbox)
+> [![Screenshot of the Microsoft Power Platform Admin Center portals list.](../media/2-power-platform-admin-center-portals.png)](../media/2-power-platform-admin-center-portals.png#lightbox)
 
 The Portal Management app will also appear in the **Apps** list.
 

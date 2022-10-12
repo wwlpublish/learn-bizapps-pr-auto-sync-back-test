@@ -14,7 +14,7 @@ To access the studio:
 The studio is used for quickly defining a site structure with webpage management, creating page layouts, embedding forms and lists, applying themes, and editing page templates.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the Portal Studio with Components view.](../media/3-portal-studio-ss.png)](../media/3-portal-studio-ss.png#lightbox)
+> [![Screenshot of the Portal Studio with Components view.](../media/3-portal-studio.png)](../media/3-portal-studio.png#lightbox)
 
 ## Portal Management app
 
@@ -33,7 +33,7 @@ To access the Portal Management app:
 > The Portal Management app might be named Dynamics 365 Portals in existing Dynamics 365 environments.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the Portal Management App view.](../media/3-portals-management-app-ss.png)](../media/3-portals-management-app-ss.png#lightbox)
+> [![Screenshot of the Portal Management App view.](../media/3-portals-management-app.png)](../media/3-portals-management-app.png#lightbox)
 
 ## Portals admin center
 
@@ -51,9 +51,9 @@ To access the Power Apps Portals admin center:
 
 1. Select the **Administration** link under **Advanced options** in the **Portal settings** flyout panel.
 
-   ![How to access Power Apps Portals admin center](../media/access-portal-administration.png)
+   ![Screenshot of How to access Power Apps Portals admin center.](../media/access-portal-administration.png)
    
 1. Power Apps Portals admin center will open.
 
    > [!div class="mx-imgBorder"]
-   > [![Screenshot of the Portals admin center with Portal Actions view.](../media/3-portals-admin-center-ss.png)](../media/3-portals-admin-center-ss.png#lightbox)
+   > [![Screenshot of the Portals admin center with Portal Actions view.](../media/3-portals-admin-center.png)](../media/3-portals-admin-center.png#lightbox)

@@ -55,7 +55,7 @@ To create a new webpage, follow these steps:
 
 1. In the properties pane, enter **about-us** as the new partial URL, press the **Tab** key, the webpage will AutoSave, and the navigation menu item will say *About us*.
 
-   ![Screenshot of steps to rename page and its U R L (address).](../media/rename-page.png)
+   ![Screenshot of steps to rename page and its URL (address).](../media/rename-page.png)
 
 ### Add static content
 
@@ -99,7 +99,7 @@ To add static content, follow these steps:
 
 1. On the canvas, select the right column section.
 
-1. On the tool belt, select **Components** and then select **Image** from the **Site components** section.
+1. On the toolbelt, select **Components** and then select **Image** from the **Site components** section.
 
 1. On the properties pane, from the drop-down list, select any image available.
 
@@ -114,4 +114,4 @@ To view your new webpage, from the command bar, select **Browse website**.
 You should now see your new webpage on the portal. A link to your webpage is also on the main menu.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of the newly created webpage on the portal.](../media/4-first-web-page-ss.png)](../media/4-first-web-page-ss.png#lightbox)
+> [![Screenshot of the newly created webpage on the portal.](../media/4-first-web-page.png)](../media/4-first-web-page.png#lightbox)
