@@ -5,24 +5,20 @@ not use tables to store data.  
 
 ## Scenario
 
-Software developers at Tailwind Traders created an application to manage
-shipping and tracking products from their warehouses that uses CosmosDB,
-a NoSQL database, as the data repository.  This application uses Cosmos
-DB to store JSON documents, which are open standard file formats that
+Software developers at Tailwind Traders created an application to manage shipping and tracking products from their warehouses that uses Azure Cosmos DB, a NoSQL database, as the data repository.  This application uses Azure Cosmos DB to store JSON documents, which are open standard file formats that
 are primarily used to transmit data between a server and web
 application. You need to import this data into a Power BI data model for
 reporting.
 
 ### Connect to a NoSQL database (Azure Cosmos DB)
 
-In this scenario, you will use the **Get data** feature in Power BI Desktop. However, this time you will select the **More...** option to locate and connect to the type of database that you use. In this example, you will select the **Azure** category, select **Azure Cosmos DB,** and then select **Connect**.
+In this scenario, you will use the **Get data** feature in Power BI Desktop. However, this time you will select the **More...** option to locate and connect to the type of database that you use. In this example, you will select the **Azure** category, select **Azure Cosmos DB**, and then select **Connect**.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Get Data from Azure Cosmos D B option.](../media/4-get-data-cosmos-ssm.png)](../media/4-get-data-cosmos-ssm.png#lightbox)
 
 On the **Preview Connector** window, select **Continue** and then enter
-your database credentials. In this example, on the **Azure Cosmos
-DB** window, you can enter the database details. You can specify the
+your database credentials. In this example, on the **Azure Cosmos DB** window, you can enter the database details. You can specify the
 Azure Cosmos DB account endpoint URL that you want to get the data
 from (you can get the URL from the **Keys** blade of your Azure portal).
 Alternatively, you can enter the database name, collection name or use
@@ -67,6 +63,4 @@ then select **Close & Apply** to load the data into Power BI Desktop.
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Close and Apply step in Power Query.](../media/4-cosmos-results-ssm.png)](../media/4-cosmos-results-ssm.png#lightbox)
 
-The data now resembles a table with rows and columns. Data from Cosmos
-DB can now be related to data from other data sources and can eventually
-be used in a Power BI report.
+The data now resembles a table with rows and columns. Data from Azure Cosmos DB can now be related to data from other data sources and can eventually be used in a Power BI report.
