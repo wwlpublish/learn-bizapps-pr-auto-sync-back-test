@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-features
+metadata:
+ title: Discover Power Pages features
+ description: Power Pages provides a common set of core features to app makers to build powerful portal applications. Numerous Power Apps features map directly to Microsoft Dynamics 365 apps that are specific to particular business requirements and external audiences. Other Dynamics 365 applications, such as Marketing and Supply Chain Management, also use components of portals or alternate technologies.
+ ms.date: 10/12/2022
+ author: heyrob
+ ms.author: robde
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-pages
+title: Discover Power Pages features
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  Power Pages provides a common set of core features to app makers to build powerful portal applications. Numerous Power Apps features map directly to Microsoft Dynamics 365 apps that are specific to particular business requirements and external audiences. Other Dynamics 365 applications, such as Marketing and Supply Chain Management, also use components of portals or alternate technologies.
+abstract: |
+    In this module, you will:
+    - Identify the core features of Power Pages sites.
+    - Describe the specific portal features of Microsoft Dynamics 365 apps.
+    - Discover alternate portal technologies that are available on Power Platform.
+prerequisites: Basic understanding, use, and navigation of Microsoft Dynamics 365 applications and a basic understanding of how to navigate and customize Power Apps.
+iconUrl: /learn/achievements/power-pages-features.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+products:
+- power-apps
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-features.introduction
+- learn-bizapps.power-pages-features.dynamics-365-features
+- learn-bizapps.power-pages-features.alternate-applications
+- learn-bizapps.power-pages-features.check
+- learn-bizapps.power-pages-features.summary
+badge:
+  uid: learn-bizapps.power-pages-features.badge
