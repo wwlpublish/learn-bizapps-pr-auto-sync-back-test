@@ -28,7 +28,7 @@ The main feature of Power Pages sites is the ability to show and interact with r
 A Power Pages maker has the ability to apply their unique corporate branding and styling directly to a Power Pages site by using a dedicated CSS and Bootstrap toolkit.
 
 > [!div class="mx-imgBorder"]
-> [![Screenshot of customized Portals theme using a C S S and Bootstrap toolkit.](../media/1-custom-theme.png)](../media/1-custom-theme.png#lightbox)
+> [![Screenshot of customized Portals theme using a CSS and Bootstrap toolkit.](../media/1-custom-theme.png)](../media/1-custom-theme.png#lightbox)
 
 ## Global search
 
