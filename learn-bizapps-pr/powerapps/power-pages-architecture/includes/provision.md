@@ -1,17 +1,17 @@
-A fully functional portal that is based on a template is provisioned in an environment with Microsoft Dataverse enabled. This portal can be further configured to meet specific business requirements.
+A fully functional portal that is based on a template is provisioned in an environment with Microsoft Dataverse enabled. You can further configure this portal to meet specific business requirements.
 
-A maker will first choose a particular portal template. A number of website template is available for environments without Dynamics 365, and additional portal templates are available for environments with Dynamics 365 apps installed.
+A maker will first choose a particular portal template. Many website templates are available for environments without Dynamics 365, and additional portal templates are available for environments with Dynamics 365 apps installed.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the blank website selection.](../media/2-starter-portals-ssm.png)](../media/2-starter-portals-ssm.png#lightbox)
 
 ### Portal solutions installation
 
-The provisioning process first begins with the installation of a series of solutions in the environment. All portal implementations will contain base portal solutions with other functionality added in separate solutions, depending on the portal template chosen. The solutions contain tables, forms, views, processes, and a model-driven Portal Management app that you can use to manage the portal metadata.
+The provisioning process begins with the installation of a series of solutions in the environment. All portal implementations contain base portal solutions with other functionality added in separate solutions, depending on the portal template you choose. The solutions contain tables, forms, views, processes, and a model-driven Portal Management app that you can use to manage the portal metadata.
 
 ### Portal metadata
 
-After the portal solutions have been installed, the process will upload portal metadata records based on the specific portal template chosen. The portal metadata will define the initial configuration for the portal. Each template can be installed only once for each environment; however, multiple portal templates can be installed in a single environment. 
+After installing the portal solutions, the process will upload portal metadata records based on the specific portal template you choose. The portal metadata defines the initial configuration for the portal. Each template can be installed only once for each environment; however, multiple portal templates can be installed in a single environment. 
 
 > [!NOTE]
 > Currently, only environments with Dynamics 365 enabled may contain multiple portal types.
@@ -40,11 +40,11 @@ By default, a portal will be provisioned in Trial mode. A maker will have 30 day
 
 ### Delete portal
 
-If you delete a portal app, it will be removed from the list of apps and the portal web application will be deleted as well. However, neither the portal solutions nor portal metadata will be deleted from Dataverse.
+If you delete a portal app, it will be removed from the list of apps, and the portal web application will be deleted as well. However, the portal solutions or portal metadata will not be deleted from Dataverse.
 
 ### Existing website rows
 
-When a portal app is deleted or when a portal configuration is migrated from another environment, website rows are not bound to an active website. These rows can be used as a starting point to create a new portal that re-uses deleted or migrated portal configuration.
+When a portal app is deleted or when a portal configuration is migrated from another environment, website rows aren't bound to an active website. These rows can be used as a starting point to create a new portal that reuses deleted or migrated portal configuration.
 
 To create the portal using an existing website row, check the box **Use data from existing website record** during the provisioning process, and select the website row that you want to use.
 
