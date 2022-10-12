@@ -3,9 +3,9 @@ uid: learn-bizapps.power-pages-intro
 metadata:
  title: Core components of Power Pages
  description: Use Power Pages to create modern data-driven external-facing business websites. Extend Dataverse data to external and internal audiences such as customers, partners, and employees. Empower anyone inside or outside your organization to interact with the business by using Power Pages sites.
- ms.date: 07/11/2022
- author: DaveBeasley
- ms.author: dbeasley
+ ms.date: 10/12/2022
+ author: heyrob
+ ms.author: robde
  ms.topic: interactive-tutorial
  ms.prod: learning-power-pages
  ms.custom: intro-internal
