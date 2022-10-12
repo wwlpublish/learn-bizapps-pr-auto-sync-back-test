@@ -4,7 +4,7 @@ The **Set up** workspace allows you to configure key aspects of your Power Pages
 
 Setting up authentication is a core customization in any business web site. Simplified identity provider configuration in Power Pages **Set up** workspace provides in-app guidance for identity provider setup and removes setup complexities. 
 
-![Power Pages authentication provider setup](../media/6-power-pages-authentication.png)
+![Screenshot of Power Pages authentication provider setup.](../media/6-power-pages-authentication.png)
 
 Makers and administrators can configure the portal for supported identity providers by following steps that are documented at [Simplified authentication and identity provider configuration](/power-apps/maker/portals/configure/use-simplified-authentication-configuration/?azure-portal=true).
 
@@ -18,7 +18,7 @@ To access the table permissions page in Power Pages design studio, select **Set 
 
 Selecting individual table permissions row will open a new panel where table permissions can be managed, and have the web roles assigned to them.
 
-For more information about Table permissions, see [Configuring table permissions in Power Pages](/power-pages/security/table-permissions).
+For more information about Table permissions, see [Screenshot of Configuring table permissions in Power Pages.](/power-pages/security/table-permissions).
 
 ## Progressive web application
 
@@ -32,6 +32,6 @@ To configure the portal as a PWA select **Progressive web application** in **Set
 
 Once PWA properties are configured, the site will become an app installable from the browser and mobile app stores. 
 
-![Progressive web application installation prompt on macOS](../media/6-power-pages-pwa.png)
+![Screenshot of Progressive web application installation prompt on macOS.](../media/6-power-pages-pwa.png)
 
 For more information about building a Power Pages site as a PWA, see [Power Pages sites as progressive web apps (PWAs) overview](/power-pages/configure/progressive-web-apps).

@@ -5,11 +5,11 @@ To add a section, select any existing section on the page, select the plus sign 
 > [!TIP]
 > Section layout can be changed later, after the section has already been created.
 
-![Power Pages content editing](../media/3-power-pages-editing.png)
+![Screenshot of Power Pages content editing.](../media/3-power-pages-editing.png)
 
 To add a component, select either an empty section or an existing element where you'd like to place the component. Use the plus sign (**+**) or the overflow button (**...**) to display all available components, and then select a component to insert.
 
-![Insert a component](../media/3-power-pages-insert-component.png)
+![Screenshot of Insert a component.](../media/3-power-pages-insert-component.png)
 
 There are two types of the components.
 

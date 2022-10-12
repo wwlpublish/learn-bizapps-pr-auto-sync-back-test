@@ -6,7 +6,7 @@ You can visualize and manage business data for the site in Power Pages design st
 
 On the **Data** workspace , **Tables in this site** displays all tables used on the site. **Other tables** displays all Dataverse tables in the environment. You can also create a new table or open an existing one in the table designer to add new columns and rows on the **Table data** tab.
 
-![Data workspace in Power Pages design studio](../media/5-power-pages-tables.png)
+![Screenshot of Data workspace in Power Pages design studio.](../media/5-power-pages-tables.png)
 
 For more information, go to [Create and modify tables using Data Workspace](/power-pages/configure/data-workspace-tables).
 
@@ -14,7 +14,7 @@ For more information, go to [Create and modify tables using Data Workspace](/pow
 
 Using **Views** tab, can create a view to select specific table columns and rows that you want to display in a site. The **Views** tab displays views used in the site lists and all other views defined for the selected table. 
 
-![Table views functionality in Power Pages design studio](../media/5-power-pages-views.png)
+![Screenshot of Table views functionality in Power Pages design studio.](../media/5-power-pages-views.png)
 
 Selecting an existing view or creating a new one opens the Power Apps view designer, where you can define the view layout and filters. Views are a foundation of the list component that can be added to pages.
 

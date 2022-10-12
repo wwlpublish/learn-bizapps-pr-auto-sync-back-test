@@ -1,6 +1,6 @@
 Power Pages provides a unified intuitive experience for makers to create, customize, and manage modern data-driven business websites. Just sign in to [https://make.powerpages.microsoft.com/](https://make.powerpages.microsoft.com/) to get started.
 
-![Power Pages Home screenshot](../media/1-power-pages-home.png)
+![Screenshot of Power Pages Home.](../media/1-power-pages-home.png)
 
 **Power Pages Home** provides a single view of all your websites in an environment and allows you to create additional sites using the available templates.
 
@@ -14,7 +14,7 @@ To start with Power Pages design studio, sign in to [Power Pages Home](https://m
 
 The design studio is organized into workspaces that help makers focus on specific tasks.
 
-![Power Pages design studio screenshot](../media/1-power-pages-screenshot.png)
+![Screenshot of Power Pages design studio.](../media/1-power-pages-screenshot.png)
 
 * Design and build web pages in the **Pages workspace**, organize site navigation and add content in a low-code environment.
 * Create modern look and feel, apply corporate branding, and manage global site styles in the **Styling workspace**.

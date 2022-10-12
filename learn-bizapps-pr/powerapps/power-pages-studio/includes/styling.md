@@ -4,7 +4,7 @@ A pages theme describes the colors, fonts, section margins, and other design ele
 
 You can choose a theme from several available presets and then apply customizations in **Styling** workspace. Any customization is applied immediately to the page on canvas making it easy to work with the basic styling.
 
-![Using Styling workspace to select and modify a theme](../media/4-power-pages-theme.png)
+![Screenshot of Using Styling workspace to select and modify a theme.](../media/4-power-pages-theme.png)
 
 ## Custom CSS
 
@@ -20,7 +20,7 @@ For complex sites, standard layouts available in Power Pages design studio may n
 
 Because Power Pages is built on the foundation of Power Apps portals, it can use page templates created by makers and pro developers in Portal Management app. When a new Page Template is defined, it becomes available in the design studio as a custom layout.
 
-![Custom page template available as layout in Power Pages design studio](../media/4-power-pages-custom-layout.png)
+![Screenshot of Custom page template available as layout in Power Pages design studio.](../media/4-power-pages-custom-layout.png)
 
 For detailed information on how to create custom page templates, go to [Create and manage page templates](/power-apps/maker/portals/configure/page-templates) and [Store source content by using web templates](/power-apps/maker/portals/liquid/store-content-web-templates) in the Power Apps documentation.
 

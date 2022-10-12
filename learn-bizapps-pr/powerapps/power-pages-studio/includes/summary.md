@@ -1,4 +1,4 @@
-Power Pages design studio is a straightforward, no-code, low-code environment that allows makers to build and configure a powerful data-driven business sites.
+Power Pages design studio is a straightforward, no-code, low-code environment that allows makers to build and configure a powerful data-driven business site.
 
 To review, this module covered the following topics:
 
