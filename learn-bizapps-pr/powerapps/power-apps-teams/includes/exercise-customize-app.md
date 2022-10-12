@@ -243,7 +243,7 @@ You can add an image to the form by following these steps:
 1.  On the **Screens** tab, from the **EditForm1** dropdown menu, select **Asset_DataCard1**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screeshot of the Asset Data Card selected.](../media/asset-data-card.png)](../media/asset-data-card.png#lightbox)
+	> [![Screenshot of the Asset Data Card selected.](../media/asset-data-card.png)](../media/asset-data-card.png#lightbox)
 
 1. From the ribbon, select **Insert > Media > Image**, which will add a blank image inside **Asset_DataCard1**.
 
