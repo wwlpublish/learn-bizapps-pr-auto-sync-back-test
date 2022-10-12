@@ -1,5 +1,5 @@
 ### YamlMime:LearningPath
-uid: learn-bizapps.get-started-power-apps-portals
+uid: learn-bizapps.power-pages-get-started
 metadata:
   title: Get Started with Power Pages
   description: Get started creating websites with Power Pages
@@ -17,7 +17,7 @@ summary: |
 prerequisites: |
   - Power Apps trial subscription.
   - Basic understanding how to navigate a model-driven app. 
-iconUrl: /training/achievements/get-started-power-apps-portals.svg
+iconUrl: /training/achievements/power-pages-get-started.svg
 levels:
 - intermediate
 roles: 
@@ -35,4 +35,4 @@ modules:
 - learn-bizapps.power-pages-architecture
 - learn-bizapps.power-pages-studio
 trophy: 
-  uid: learn-bizapps.get-started-power-pages.trophy
+  uid: learn-bizapps.power-pages-get-started.trophy
