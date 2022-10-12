@@ -65,7 +65,7 @@ Makers without the custom connector would need to know the details of the servic
 
 One further option for accessing data is by using virtual tables. Consider the requirement to access data from an external data source and then combine it with data in Dataverse. Virtual tables allow you to create a virtual table in Dataverse, define an external data source, and then map the table and columns onto the external data source.
 
-An OData v4 Data Provider configuration is included with Dataverse that allows you to connect to an external OData v4 web service. A data provider for the SQL API of Microsoft Azure Cosmos DB is in preview.
+An OData v4 Data Provider configuration is included with Dataverse that allows you to connect to an external OData v4 web service. A data provider for Azure Cosmos DB for NoSQL is in preview.
 
 > [!NOTE]
 > Dataverse requires that all tables have an ID attribute. This ID is known as a unique identifier and the value must be a GUID. You can only map ID columns to external columns with the **Edm.Guid** data type. Hence, the external web service must use a GUID as its ID column.
@@ -90,7 +90,7 @@ Several choices are available for applying custom business logic in Dataverse, i
 
 All components that are created in Dataverse are held as metadata, meaning that the components are discoverable and that the properties for components are accessible to applications and tools. This metadata is used by Power Apps and Power Automate, reducing the effort that is required to create apps and flows. For example, the data type of a column and its range of possible values are held in metadata. In this example, Power Apps studio is able to access this metadata and automatically configure the control when a column is added to a form.
 
-The data that is held in Dataverse is abstracted from the underlying data storage mechanism. The data could be stored in the Elastic Database feature of SQL Database, Microsoft Azure Storage, Cosmos DB, or Azure Data Lake Storage. The maker doesn't have to concern themselves with the storage; they can access the data through the APIs that are provided by Dataverse. Microsoft decides how to store data differently, depending on type, for files, images, and text.
+The data that is held in Dataverse is abstracted from the underlying data storage mechanism. The data could be stored in the Elastic Database feature of Azure SQL Database, Azure Storage, Azure Cosmos DB, or Azure Data Lake Storage. The maker doesn't have to concern themselves with the storage; they can access the data through the APIs that are provided by Dataverse. Microsoft decides how to store data differently, depending on type, for files, images, and text.
 
 Dataverse provides an event model for integrating with other systems, and import and export data processing capabilities are provided.
 
@@ -123,7 +123,7 @@ Everything in Microsoft Dataverse is exposed as an API call. All tools and apps 
 
 ![Diagram of Microsoft Dataverse Extensibility.](../media/4-extensibility.png)
 
-Dataverse provides extension capabilities at every horizontal layer. As a solution architect, you need to understand the different types of extensibility paradigms. 
+Dataverse provides extension capabilities at every horizontal layer. As a solution architect, you need to understand the different types of extensibility paradigms.
 
 Dataverse has the following features:
 
