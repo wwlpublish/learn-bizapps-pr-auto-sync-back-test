@@ -40,7 +40,7 @@ In a Dataverse environment where you can proceed with modifications to the table
 
 ## Prepare data
 
-An Excel spreadsheet that contains a list of event attendees is available to download.
+An Excel spreadsheet that contains a list of event attendees is available to [download](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/blob/master/power-apps/visualize-import-export-Dataverse/Conference%20Attendees.xlsx).
 
 For this exercise, the file must be uploaded to a OneDrive for Business folder you have access to.
 
@@ -122,7 +122,7 @@ In a Dataverse environment where you can proceed without impacting others in you
 
 In the following video, you're taken through the steps for this exercise.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE59BmZ]  
 
 ## Next steps
 
