@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-intro.get-started
+title: Get started with Power Pages
+metadata:
+  title: Get started with Power Pages
+  description: Learn how to get started with Power Pages.
+  ms.date: 07/11/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-pages
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/get-started.md)]
