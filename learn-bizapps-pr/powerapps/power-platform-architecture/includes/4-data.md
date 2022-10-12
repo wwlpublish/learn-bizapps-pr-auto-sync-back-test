@@ -33,15 +33,15 @@ Microsoft Dataverse should be your data source of choice for new data stores or 
 
 In situations when a connector isn't present, but the service has a REST API, a custom connector can be created. Creating a custom connector is straightforward, with several different methods for defining the custom connector, including:
 
-- Importing the Open API definition to describe an existing API.
+- Importing the OpenAPI definition to describe an existing API.
 - Using Postman collection to describe an existing API.
 - Creating a Microsoft Azure Functions solution and then using Microsoft Azure API Management.
 - Creating a custom API to define your own actions.
 
 > [!NOTE]
-> Many other services will publish an Open API definition for their full API.
+> Many other services will publish an OpenAPI definition for their full API.
 
-Custom connectors support OAuth, (including Azure AD), API Key, and basic authorization.
+Custom connectors support OAuth (including Azure AD), API Key, and basic authorization.
 
 Custom connectors can be packaged and deployed with solutions.
 
