@@ -1,8 +1,8 @@
 ### YamlMime:Module
 uid: learn-bizapps.power-pages-explore
 metadata:
- title: Explore Power Apps portals
- description: Dynamics 365 starter portals are pre-configured portal solutions that are available to help accelerate deployment. Typical portal projects will have unique requirements, but a starter portal provides an environment that is immediately suitable for specific scenarios and audiences.
+ title: Explore Power Pages
+ description: Power Pages templates are pre-configured solutions that are available to help accelerate deployment. Site templates provide an environment that is immediately suitable for specific scenarios and audiences.
  ms.date: 10/12/2022
  author: heyrob
  ms.author: robde
@@ -12,10 +12,10 @@ title: Explore Power Apps portals
 summary: |
   [!include[](../includes/module-banner.md)]
   [!include[](../includes/power-pages-banner.md)]
-  Dynamics 365 starter portals are pre-configured portal solutions that are available to help accelerate deployment. Typical portal projects will have unique requirements, but a starter portal provides an environment that is immediately suitable for specific scenarios and audiences.
+  Power Pages templates are pre-configured solutions that are available to help accelerate deployment. Site templates provide an environment that is immediately suitable for specific scenarios and audiences.
 abstract: |
     In this module, you will:
-    - Identify the features of the Community portal.
+    - Identify the features of site templates
     - Discover the features of the Customer self-service portal.
     - Learn about the features of the Employee self-service portal.
     - Review the features of the Partner portal.
@@ -41,7 +41,6 @@ units:
 - learn-bizapps.power-pages-explore.customer
 - learn-bizapps.power-pages-explore.employee
 - learn-bizapps.power-pages-explore.partner
-- learn-bizapps.power-pages-explore.custom
 - learn-bizapps.power-pages-explore.modern-community
 - learn-bizapps.power-pages-explore.check
 - learn-bizapps.power-pages-explore.summary
