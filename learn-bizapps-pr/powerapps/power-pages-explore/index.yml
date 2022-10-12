@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-explore
+metadata:
+ title: Explore Power Apps portals
+ description: Dynamics 365 starter portals are pre-configured portal solutions that are available to help accelerate deployment. Typical portal projects will have unique requirements, but a starter portal provides an environment that is immediately suitable for specific scenarios and audiences.
+ ms.date: 10/12/2022
+ author: heyrob
+ ms.author: robde
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-pages
+title: Explore Power Apps portals
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  Dynamics 365 starter portals are pre-configured portal solutions that are available to help accelerate deployment. Typical portal projects will have unique requirements, but a starter portal provides an environment that is immediately suitable for specific scenarios and audiences.
+abstract: |
+    In this module, you will:
+    - Identify the features of the Community portal.
+    - Discover the features of the Customer self-service portal.
+    - Learn about the features of the Employee self-service portal.
+    - Review the features of the Partner portal.
+    - Identify the features of the Portal from blank.
+    - Learn about licensing requirements when portals are used by employees.
+    - Learn about the process to incorporate specific features from different starter portals to another portal type or the custom portal.
+prerequisites: Basic understanding of how to navigate and customize model-driven apps
+iconUrl: /learn/achievements/power-pages-explore.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+products:
+- power-apps
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-explore.introduction
+- learn-bizapps.power-pages-explore.community
+- learn-bizapps.power-pages-explore.customer
+- learn-bizapps.power-pages-explore.employee
+- learn-bizapps.power-pages-explore.partner
+- learn-bizapps.power-pages-explore.custom
+- learn-bizapps.power-pages-explore.modern-community
+- learn-bizapps.power-pages-explore.check
+- learn-bizapps.power-pages-explore.summary
+badge:
+  uid: learn-bizapps.power-pages-explore.badge

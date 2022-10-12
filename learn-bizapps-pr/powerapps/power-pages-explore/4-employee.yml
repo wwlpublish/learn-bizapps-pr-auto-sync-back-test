@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-explore.employee
+title: Employee self-service portal
+metadata:
+  title: Employee self-service portal
+  description: Learn about the Employee self-service portal.
+  ms.date: 10/12/2022
+  author: heyrob
+  ms.author: robde
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-pages
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/employee.md)]
