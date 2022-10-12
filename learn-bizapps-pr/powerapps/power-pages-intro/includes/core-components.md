@@ -11,15 +11,15 @@ Power Pages have several tools and core components that enable these scenarios.
 
 **Power Pages design studio** is the primary maker's tool that allows to quickly create and customize a website. **Pages**, **Styling**, **Data**, and **Set up** workspaces allow customization of many aspects of a website within a single interface.
 
-![Power Pages design studio with workspaces highlighted](../media/1-3-design-studio-workspaces.png)
+![Screenshot of Power Pages design studio with workspaces highlighted.](../media/1-3-design-studio-workspaces.png)
 
 Power Pages is evolution of Power Apps portals and for advanced configurations that aren't available in the Power Pages design studio, the [Portal Management app](/power-pages/configure/portal-management-app) is accessible from the overflow menu.
 
-![Portal Management access from Power Pages design studio](../media/1-3-portal-app-access.png)
+![Screenshot of Portal Management access from Power Pages design studio.](../media/1-3-portal-app-access.png)
 
 Administrators can use [Power Pages admin center](/power-apps/maker/portals/admin/admin-overview) to perform advanced administrative actions on portals such as network configuration, logging and troubleshooting, SharePoint and Power BI integration set-up, and more. Admin center can be accessed from Power Pages design studio by selecting **Set up**, then **Admin settings**, then **Go to the admin center**.
 
-![Access Power Pages admin center from Power Pages design studio](../media/1-3-admin-center-access.png)
+![Screenshot of ccess Power Pages admin center from Power Pages design studio.](../media/1-3-admin-center-access.png)
 
 ## Core components
 
@@ -43,7 +43,7 @@ When a web page is edited in Power Pages design studio, Lists and Forms can be a
 
 Lists define how the list of Dataverse records is displayed on portal pages. They're defined by one or more model-driven Power Apps views and include functionality like pagination, filtering, and sorting.
 
-![Add List component to a web page in Power Pages design studio](../media/1-3-add-list.png)
+![Screenshot of Add List component to a web page in Power Pages design studio.](../media/1-3-add-list.png)
 
 ### Forms
 
@@ -60,5 +60,5 @@ Forms add ability to interact with Dataverse data by using model-driven Power Ap
 
 There are two types of forms supported in Power Apps portals, **Forms**, and **Multistep forms**. Forms are used to generate a layout, capture the data, provide read-only access or full editing capabilities for a Dataverse table row. Multistep forms extend forms by allowing data collection or update process to be broken up over multiple steps.
 
-![Power Pages page with a form in Power Pages design studio ](../media/1-3-add-form.png)
+![Screenshot of Power Pages page with a form in Power Pages design studio ](../media/1-3-add-form.png)
 

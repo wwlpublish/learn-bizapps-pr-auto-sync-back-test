@@ -28,7 +28,7 @@ For more information, see [Create a custom page template](/power-apps/maker/port
 
 Makers and pro developers can use [the code editor](/power-pages/getting-started/code-editor) in Power Pages design studio to create and edit complex layouts by editing HTML source code. To view the source code of the page on the canvas, select the code editor icon </> in the command bar.
 
-![Edit page source code in Power Pages design studio](../media/1-5-source-code-edit.png)
+![Screenshot of Edit page source code in Power Pages design studio.](../media/1-5-source-code-edit.png)
 
 ### JavaScript
 
@@ -45,7 +45,7 @@ Makers can use Power Pages design studio **Styling** workspace to configure the 
 
 To access custom CSS files, select **Styling** workspace, select a theme, select **...** option and then select **Manage CSS**.   
 
-![Advanced CSS editing in Power Pages design studio](../media/1-5-advanced-css.png)
+![Screenshot of Advanced CSS editing in Power Pages design studio.](../media/1-5-advanced-css.png)
 
 For more information, see [Edit CSS for themes in Power Pages](/power-apps/maker/portals/edit-css/?azure-portal=true).
 

@@ -10,7 +10,7 @@ Power Pages has a robust security model to ensure that business information is p
 
 Portal Management app can be accessed either from the maker portal at https://make.powerapps.com or from the  overflow menu (...) in Power Pages design studio:
 
-![Portal Management access from Power Pages design studio](../media/1-4-portal-app-access.png)
+![Screenshot of Portal Management access from Power Pages design studio.](../media/1-4-portal-app-access.png)
 
 The Portal Management app provides access to the security components and has views and forms to manage security, view portal-specific contact information, and provide user registration and invitation functionality for the Power Pages website.
 

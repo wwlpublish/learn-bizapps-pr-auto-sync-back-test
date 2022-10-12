@@ -17,13 +17,13 @@ To provision a Power Pages website:
 1. Select **Create a site**.
 
 1. Select a template then select **Choose this template**.
-   ![Select Power Pages template](../media/1-2-pages-template.png)
+   ![Screenshot of Select Power Pages template.](../media/1-2-pages-template.png)
 
 1. Provide a site name and a unique web address.
 
 1. If your Dataverse environment has more than one language provisioned, expand **Show more details** section and select a site language.
 
-   ![Specify website details](../media/1-2-site-details.png)
+   ![Screenshot of Specify website details.](../media/1-2-site-details.png)
 
 1. Select **Done**.
 
@@ -31,13 +31,13 @@ To provision a Power Pages website:
    > It might take a few moments for your new site to be provisioned.You'll be able to modify the name and web address later.
 
 8. Once provisioning is complete, select **Preview** then select **Desktop** to preview your new website.
-   ![Select site preview](../media/1-2-site-preview.png)
+   ![Screenshot of Select site preview.](../media/1-2-site-preview.png)
 
 ## Portal templates
 
 Power Pages is evolution of [Power Apps portals](/power-apps/maker/portals/). It's built on the Power Apps portals platform used by thousands of customers today, providing the same robust capabilities and pro developer experiences. 
 
-[!VIDEO https://www.microsoft.com/videoplayer/embed/74205e30-2d82-4128-ae84-87d2fc7c9167]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/74205e30-2d82-4128-ae84-87d2fc7c9167]
 
 In an environment that contains customer engagement apps (Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing, or Dynamics 365 Project Service Automation) you can continue to use [portal templates](/power-apps/maker/portals/portal-templates) to accelerate development and deployment. These templates  target diverse audiences such as communities, customers, partners, and employees and can provide a preconfigured environment that is immediately suitable for a number of scenarios:
 
