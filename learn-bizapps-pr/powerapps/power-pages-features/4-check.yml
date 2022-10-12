@@ -1,0 +1,71 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-features.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/12/2022
+ author: heyrob
+ ms.author: robde
+ ms.topic: interactive-tutorial
+ ms.prod: learning-power-pages
+durationInMinutes: 4
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: You have provisioned a new Power Platform environment, without enabling any of the Dynamics 365 apps, and you have created a Power Pages site. What Power Pages feature is not available for you to enable on your site?
+    choices:
+    - content: Static content
+      isCorrect: false
+      explanation: Knowledge articles require the Knowledge Article features of Dynamics 365 Customer Service and are only available in the Customer self-service, Partner, Employee, and Community portal starter templates. Static content, embedded Power BI, and external authentication are core Power Pages features.
+    - content: Embedded Power BI
+      isCorrect: false
+      explanation: Knowledge articles require the Knowledge Article features of Dynamics 365 Customer Service and are only available in the Customer self-service, Partner, Employee, and Community portal starter templates. Static content, embedded Power BI, and external authentication are core Power Pages features.
+    - content: Knowledge articles
+      isCorrect: true
+      explanation: Knowledge articles require the Knowledge Article features of Dynamics 365 Customer Service and are only available in the Customer self-service, Partner, Employee, and Community portal starter templates. Static content, embedded Power BI, and external authentication are core Power Pages features.
+    - content: External authentication
+      isCorrect: false
+      explanation: Knowledge articles require the Knowledge Article features of Dynamics 365 Customer Service and are only available in the Customer self-service, Partner, Employee, and Community portal starter templates. Static content, embedded Power BI, and external authentication are core Power Pages features.
+  - content: What Power Pages feature is not available and must be created by using the extensibility features?
+    choices:
+    - content: Profile management
+      isCorrect: false
+      explanation: Power Pages provides the ability to show and interact with Microsoft Dataverse data by using web roles and table permissions, including the contact table (profile management). A Payment gateway would need to be developed separately.
+    - content: Dataverse security
+      isCorrect: false
+      explanation: Power Pages provides the ability to show and interact with Microsoft Dataverse data by using web roles and table permissions, including the contact table (profile management). A Payment gateway would need to be developed separately.
+    - content: Payment gateway
+      isCorrect: true
+      explanation: Power Pages provides the ability to show and interact with Microsoft Dataverse data by using web roles and table permissions, including the contact table (profile management). A Payment gateway would need to be developed separately.
+    - content: Create and Update Dataverse records
+      isCorrect: false
+      explanation: Power Pages provides the ability to show and interact with Microsoft Dataverse data by using web roles and table permissions, including the contact table (profile management). A Payment gateway would need to be developed separately.
+  - content: Where do you write new knowledge articles for the portal?
+    choices:
+    - content: Power Pages design studio
+      isCorrect: false
+      explanation: Knowledge articles cannot be written within the portal at all, only viewed. While knowledge articles are listed in the portal app, they can only be written in the Customer Service Hub app.
+    - content: Custom Power Pages site
+      isCorrect: false
+      explanation: Knowledge articles cannot be written within the portal at all, only viewed. While knowledge articles are listed in the portal app, they can only be written in the Customer Service Hub app.
+    - content: Dynamics 365 Customer Service Hub app
+      isCorrect: true
+      explanation: Knowledge articles cannot be written within the portal at all, only viewed. While knowledge articles are listed in the portal app, they can only be written in the Customer Service Hub app.
+    - content: Portal Management app
+      isCorrect: false
+      explanation: Knowledge articles cannot be written within the portal at all, only viewed. While knowledge articles are listed in the portal app, they can only be written in the Customer Service Hub app.
+  - content: Which feature is only available in the Community starter portal?
+    choices:
+    - content: Forums
+      isCorrect: false
+      explanation: The Forums and Knowledge Articles features are available in all Dynamics 365 portals. The Blogs feature is available only in the Community starter portal. Event Management is not a valid starter portal feature.
+    - content: Event Management
+      isCorrect: false
+      explanation: The Forums and Knowledge Articles features are available in all Dynamics 365 portals. The Blogs feature is available only in the Community starter portal. Event Management is not a valid starter portal feature.
+    - content: Knowledge articles
+      isCorrect: false
+      explanation: The Forums and Knowledge Articles features are available in all Dynamics 365 portals. The Blogs feature is available only in the Community starter portal. Event Management is not a valid starter portal feature.
+    - content: Blogs
+      isCorrect: true
+      explanation: The Forums and Knowledge Articles features are available in all Dynamics 365 portals. The Blogs feature is available only in the Community starter portal. Event Management is not a valid starter portal feature.
