@@ -41,7 +41,7 @@ In a Dataverse environment where you can proceed with modifications to the table
 
 ## Prepare data
 
-A comma-separated values (CSV) file that contains accounts as potential franchise owners is available to download.
+A comma-separated values (CSV) file that contains accounts as potential franchise owners is available to [download](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/blob/master/power-apps/visualize-import-export-Dataverse/Potential%20Franchise%20Owners.zip).
 
 For this exercise, the file must be uploaded to a OneDrive for Business folder you have access to.
 
@@ -150,7 +150,7 @@ In a Dataverse environment where you can proceed without impacting others in you
 
 In the following video, you're taken through the steps for this exercise.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE59os1]
 
 ## Next steps
 
