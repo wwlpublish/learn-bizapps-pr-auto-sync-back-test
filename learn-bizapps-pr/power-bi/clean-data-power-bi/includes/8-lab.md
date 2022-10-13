@@ -445,8 +445,8 @@ In this task, you will configure the **Sales** query.
 	
 	-   Cost
 
-	The fixed decimal number data type stores values with full precision,
-	and so requires more storage space than the decimal number. It's important
+	The decimal number data type stores values with full precision,
+	and so requires more storage space than the fixed decimal number. It's important
 	to use the fixed decimal number type for financial values, or rates
 	(like exchange rates).
 
