@@ -168,7 +168,7 @@ The third screen in the app is **EditScreen1**. Some of its controls include:
 ## Install the app on your device
 
 User leverage Power Apps on their mobile devices with the Power Apps mobile
-application. If you want experience what it looks like on a mobile device,
+application. If you want to experience what it looks like on a mobile device,
 install the Power Apps Mobile app on your phone.
 
 1.  Download Power Apps Mobile from the app store for the platform that you want
