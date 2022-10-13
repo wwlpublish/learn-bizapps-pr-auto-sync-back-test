@@ -8,6 +8,8 @@ Additionally, your care team can use Microsoft Teams internally to do the follow
 
 - Use Shifts to create, manage, and share schedules among your staff.
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aXY]
+
 ## Task 1: Install and set up Microsoft Teams integration
 
 By default, the Basic and Enhanced Microsoft Teams integration is disabled for customer engagement apps in Dynamics 365. In this Task, you'll enable Microsoft Teams in Dynamics 365.

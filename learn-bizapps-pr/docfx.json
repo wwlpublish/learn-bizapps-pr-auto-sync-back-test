@@ -334,7 +334,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/learn/breadcrumb/toc.json",
+      "breadcrumb_path": "/training/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "ms.suite": "office",
       "feedback_system": "None",

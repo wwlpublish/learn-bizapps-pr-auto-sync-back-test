@@ -46,6 +46,6 @@ quiz:
     - content: "https://dynamics.microsoft.com/roadmap/overview/"
       isCorrect: true
       explanation: "That's correct. This is the Microsoft Power Platform product roadmap."
-    - content: "https://docs.microsoft.com/power-bi/"
+    - content: "https://learn.microsoft.com/power-bi/"
       isCorrect: false
       explanation: "That's incorrect. Check the Microsoft Power Platform product roadmap."

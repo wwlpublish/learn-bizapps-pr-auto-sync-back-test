@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit 
 uid: learn-bizapps.extend-cloud-sustainability.exercise-custom-dashboard 
-title: Exercise - Add a custom dashboard for emission tracking
+title: Exercise - Add a custom dashboard for emissions tracking
 metadata: 
-  title: Exercise - Add a custom dashboard for emission tracking
-  description: Learn how you can create a custom dashboard by adding a custom Power BI report to Microsoft Sustainability Manager.
+  title: Exercise - Add a custom dashboard for emissions tracking
+  description: In this exercise, you'll create a custom dashboard by adding a custom Power BI report to Microsoft Sustainability Manager.
   ms.date: 07/07/2022 
   author: AshokSudhaMCRSOFT 
   ms.author: sudhaashok 

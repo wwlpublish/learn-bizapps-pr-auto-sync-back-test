@@ -3,7 +3,7 @@ uid: learn-bizapps.training-environment-preparation-healthcare
 metadata: 
  title: Microsoft Cloud for Healthcare training environment preparation
  description: This module explains the process of obtaining a training environment that you will use for all subsequent modules in this learning path.
- ms.date: 01/21/2022
+ ms.date: 09/19/2022
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
@@ -11,14 +11,17 @@ metadata:
 title: Microsoft Cloud for Healthcare training environment preparation
 summary: |  
   [!include[](../includes/module-banner.md)] 
-  This module will walk you through the process of obtaining a training environment to be used for the subsequent modules in this Learning Path. The Microsoft Cloud for Healthcare is a conflux of Microsoft Dynamics 365, Microsoft Azure, and Microsoft 365. To take full advantage of the Microsoft Cloud for Healthcare solution and this Learning Path, it is recommended to have access to all three clouds. If you already have a Microsoft 365 tenant and licenses for all [Microsoft Cloud for Healthcare apps](/industry/healthcare/configure-cloud-for-healthcare/?azure-portal=true), then you can skip this module and proceed to the next module in this Learning Path. 
+  This module will walk you through the process of obtaining prerequisite trial licenses to deploy Microsoft Cloud for Healthcare solutions. This lab will be used in the subsequent modules in this Learning Path. The Microsoft Cloud for Healthcare is a conflux of Microsoft Dynamics 365, Microsoft Azure, Microsoft 365, and Microsoft Power Platform. To take full advantage of the Microsoft Cloud for Healthcare solution and this Learning Path, it is recommended to have access to all three clouds. If you already have a Microsoft 365 tenant and licenses for all [Microsoft Cloud for Healthcare apps](/industry/healthcare/configure-cloud-for-healthcare/?azure-portal=true), then you can skip this module and proceed to the next module in this Learning Path.  
 abstract: |  
-    In this module, you will: 
-    - Learn which applications are required to deploy Microsoft Cloud for Healthcare.
-    - Learn how to obtain trial licenses for all Microsoft Cloud for Healthcare required applications.
-    - Learn how to set up a Microsoft Cloud for Healthcare training environment.
-prerequisites: You must possess a Global Administrator role in your Microsoft 365 tenant to complete the exercises in this module. This role should apply automatically if your user creates the tenant.
-iconUrl: /training/achievements/training-environment-preparation-healthcare.svg  
+  After completing this module, you'll be able to : 
+    - Describe the dependencies of Microsoft Cloud for Healthcare 
+    - Obtain trial licenses for dependent products
+    - Obtain trial licenses for Microsoft Cloud for Healthcare
+    - Configure environment to deploy Microsoft Cloud for Healthcare
+    - Assign security roles
+prerequisites: |  
+    You must have access to a user account with the Global Administrator role in your Microsoft 365 tenant to complete the lab exercises in this module. This role is applied automatically to your user account specified while creating the tenant.   
+iconUrl: /training/achievements/training-environment-preparation-healthcare.svg   
 levels:  
 - beginner   
 roles:  
@@ -33,8 +36,8 @@ units:
 - learn-bizapps.training-environment-preparation-healthcare.1-introduction 
 - learn-bizapps.training-environment-preparation-healthcare.2-tenant 
 - learn-bizapps.training-environment-preparation-healthcare.3-trial 
-- learn-bizapps.training-environment-preparation-healthcare.4-deploy 
 - learn-bizapps.training-environment-preparation-healthcare.4a-azure-trial 
+- learn-bizapps.training-environment-preparation-healthcare.4-deploy
 - learn-bizapps.training-environment-preparation-healthcare.5-check 
 - learn-bizapps.training-environment-preparation-healthcare.6-summary 
 badge: 

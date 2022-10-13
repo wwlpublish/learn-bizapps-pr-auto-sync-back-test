@@ -14,7 +14,7 @@ video:
   url: https://www.microsoft.com/videoplayer/embed/RWFMft
 summary: |
   [!include[](../../includes/lp-banner.md)]
-  Get started creating bots with Power Virtual Agents. This Learning Path starts with the creation of bots, enhancing the bots, and finishes with managing bots. 
+  Get started creating bots with Power Virtual Agents. This Learning Path starts with the creation of bots, enhancing and managing bots, and introduces the ability to interact with bots through voice. Finally, this path introduces Azure Cognitive Service for Language to help extract information from unstructured text.  
 prerequisites: Access to Power Virtual Agents.
 iconUrl: /training/achievements/work-power-virtual-agents.svg
 levels:
@@ -32,5 +32,7 @@ modules:
 - learn-bizapps.enhance-power-virtual-agent-bots
 - learn-bizapps.manage-power-virtual-agent-topics
 - learn-bizapps.implement-power-virtual-agents 
+- learn-bizapps.pva-voice
+- learn-bizapps.cognitive-service-power-virtual-agents
 trophy: 
   uid: learn-bizapps.work-power-virtual-agents.trophy

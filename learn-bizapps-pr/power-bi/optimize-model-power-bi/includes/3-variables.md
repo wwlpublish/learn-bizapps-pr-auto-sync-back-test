@@ -64,4 +64,4 @@ VAR SalesPriorYear% = DIVIDE(([Sales] - SalesPriorYear), SalesPriorYear)
 RETURN  SalesPriorYear%
 ```
 
-The RETURN expression will display the **SalesPriorYear** value only. This technique allows you to revert the expression when you have completed the debugging. It also makes calculations simpler to understand due to reduced complexity of the DAX code.
+The RETURN expression will display the **SalesPriorYear%** value only. This technique allows you to revert the expression when you have completed the debugging. It also makes calculations simpler to understand due to reduced complexity of the DAX code.

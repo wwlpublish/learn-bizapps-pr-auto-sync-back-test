@@ -1,0 +1,39 @@
+### YamlMime:Module 
+uid: learn-bizapps.pva-voice 
+metadata: 
+ title: Set up a Power Virtual Agents bot for voice
+ description: This module describes how to set up a Power Virtual Agents bot to use voice.
+ ms.date: 09/28/2022  
+ author: Heyrob  
+ ms.author: Robde  
+ ms.topic: interactive-tutorial  
+title: Set up a Power Virtual Agents bot for voice
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module explores how to set up a Power Virtual Agents bot to use voice. 
+abstract: |  
+  In this module, you’ll: 
+    - Explore the required setup for enabling a Power Virtual Agents bot for voice capabilities.
+    - Learn why you would enable a bot for voice.
+    - Install the necessary extensions.
+    - Set up the handoff with your voice provider.
+prerequisites: None
+iconUrl: /learn/achievements/pva-voice.svg  
+levels:  
+- intermediate   
+roles:  
+- developer  
+- functional-consultant 
+products: 
+-  power-virtual-agents
+subjects: 
+- chatbot 
+units: 
+- learn-bizapps.pva-voice.introduction 
+- learn-bizapps.pva-voice.setup-extensions 
+- learn-bizapps.pva-voice.configure-handoff 
+- learn-bizapps.pva-voice.enabling-voice 
+- learn-bizapps.pva-voice.check 
+- learn-bizapps.pva-voice.summary 
+badge: 
+  uid: learn-bizapps.pva-voice.badge 

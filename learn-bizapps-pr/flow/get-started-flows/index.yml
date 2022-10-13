@@ -19,6 +19,7 @@ abstract: |
 prerequisites: |
     - Signed up for Power Automate
     - Have a OneDrive for Business account
+    - Have or create a Mailchimp account
 iconUrl: /training/achievements/get-started-with-flow.svg
 levels:
 - beginner

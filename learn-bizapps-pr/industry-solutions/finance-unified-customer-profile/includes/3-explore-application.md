@@ -1,5 +1,7 @@
 In this exercise, you'll launch the Unified customer profile application and then navigate through the tabs and controls to learn about each component and how it connects to the data model.
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57y39]
+
 1. Go to [Microsoft Power Apps](http://make.powerapps.com/?azure-portal=true) in an In-Private or Incognito window.
 
 1. Select the proper **Environment** in the upper right.

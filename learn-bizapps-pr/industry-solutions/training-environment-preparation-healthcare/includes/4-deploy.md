@@ -1,124 +1,108 @@
-In this exercise, we will configure the prerequisite applications and then deploy Microsoft Cloud for Healthcare in our Microsoft 365 tenant.
+
+A security role defines how users, such as a clinician, field service agent, or knowledge base creator, can access different types of resources. To work with Microsoft Cloud for Healthcare solutions, make sure that you assign correct security roles to users. In this unit, you'll learn about the required security roles that you'll need to assign to a user and an Azure AD app. For more information, see [Security roles and privileges](/power-platform/admin/security-roles-privileges) in Microsoft Power Platform.
+
+| Security roles                   | Description                                                                                                                                                         |   
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Basic User                       | Allows the user to run an app within the Dataverse environment and perform common tasks for the records that they own.                                              |   
+| Field Service - Resource         | This role is designed for frontline workers who can read and update their assigned work orders.                                                                     |   
+| Knowledge Manager                | Allows the user to create/read/write/delete/append knowledge base records.                                                                                          |     |
+| Omnichannel agent                | Allows the user to perform agent tasks.                                                                                                                             |   
+| Productivity tools administrator | Required by administrators of Dynamics 365 productivity tools. Allows the administrator to create/read/write/append/delete agent script, script step, and workflow. |   
+| Productivity tools user          | Required by users of Dynamics 365 productivity tools. Allows the user to read agent script, script step, and workflow.                                              |   
+| System Administrator             | Grants full permission for the user to customize or administer a Dataverse environment.                                                                             |  
+| Customer service manager         | Allows a user to review customer service performance and enable the customer service process.                                                                       |   
+| Customer service representative  | Allows a user to document customer service events and respond to customer service inquiries.                                                                        |   
+
+## Task 1: Assign a security role to a global administrator
+
+In this task, you'll go through the steps to assign security roles to a global administrator account.
+
+1.  While signed in to your Microsoft 365 tenant, open a new tab and then go to [Power Platform admin center](https://admin.powerplatform.microsoft.com/).
+
+2.  On the left navigation, select **Environments**. In the right pane, select **Lamna Healthcare** environment. On the command bar, select **Settings**, as shown in the following screenshot.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of Environment page with Settings option highlighted.](../media/security-roles-users.png)](../media/security-roles-users.png#lightbox)
+
+3.  On the **Settings** page, select **Users + permissions \> Users**.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of User + Permissions page with this option highlighted.](../media/security-user-permission.png)](../media/security-user-permission.png#lightbox)
+
+4.  Select a user who you want to assign security roles to.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of Users page.](../media/security-users.png)](../media/security-users.png#lightbox)
+
+5.  Assign the following security roles:
+
+    -   Basic User
+
+    -   Field Service-Resource
+
+    -   Knowledge Manager
+
+    -   Omnichannel agent
+
+    -   Productivity tools administrator
+
+    -   Productivity tools user
+
+    -   System Administrator
+
+6.  When you're finished selecting security roles, select **Save**.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of Purchase services, with Add-ons and Details highlighted.](../media/security-manage-roles.png)](../media/security-manage-roles.png#lightbox)
+
+## Task 2: Assign a security role to an application user
+
+In this task, you'll go through the steps to assign security roles to the Lamna Health Bot app that you registered in Azure AD in the previous unit.
+
+1.  While signed in to your Microsoft 365 tenant, open a new tab and then go to [Power Platform admin center](https://admin.powerplatform.microsoft.com/).
+
+2.  On the left navigation, select **Environments**. In the right pane, select **Lamna Healthcare** environment. On the command bar, select **Settings**, as shown in the following screenshot.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of Environment page with Settings and Lamna Healthcare highlighted.](../media/security-roles-users.png)](../media/security-roles-users.png#lightbox)
+
+3.  On the **Settings** page, select **Users + permissions \> Application users**.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of Application users option highlighted.](../media/security-application-users.png)](../media/security-application-users.png#lightbox)
+
+4.  Before you can assign a security role to an application, you'll need to add it as an application user. On the **Application users** page, select **+New app user**.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of Application users page with New app user option highlighted.](../media/security-new-app-user.png)](../media/security-new-app-user.png#lightbox)
+
+5.  In the **Create a new app user** panel, select **+ Add an app**.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of Add an app option highlighted.](../media/security-add-application.png)](../media/security-add-application.png#lightbox)
+
+6.  In the **Add an app from Azure Active Directory** panel, select **Lamna Health Bot**, which you registered in Azure AD in the
+    previous task. Select **Add**.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of Add an app from Active Directory page.](../media/security-add-active-directory.png)](../media/security-add-active-directory.png#lightbox)
+
+7.  After adding the Azure AD app, you'll be redirected to the **Create a new app user** panel. From the **Business unit** dropdown menu, select **lamnahealth**. Select the **edit** icon beside the **Security roles** option.
+
+	> [!div class="mx-imgBorder"]
+	> [![Screenshot of Create a new app user page with Lamna health selected.](../media/security-create-new-application.png)](../media/security-create-new-application.png#lightbox)
 
 > [!NOTE]
-> Configuring Dynamics 365 Omnichannel for Customer Service and Power Apps Portals will each take several hours to complete (each estimated at 3-4 hours to complete). We recommend configuring both applications concurrently. All configuration steps must be finished before deploying Microsoft Cloud for Healthcare.
+> In the previous unit, you specified lamnahealth as part of the URL while creating the **Lamna Healthcare**  Dataverse environment.*
 
-## Task 1: Configure Omnichannel for Customer Service
-
-In this task, you will configure Omnichannel for Customer Service to deploy and use the Patient Service Center application.
-
-1.  Go to [Microsoft Power Platform admin center](https://admin.powerplatform.microsoft.com/?azure-portal=true).
-
-1.  Expand **Resources** on the left navigation bar and select **Dynamics 365 apps**.
+8.  In the **Add security roles** pane, select **Omnichannel agent** and then select **Save**.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Dynamics 365 apps under Resources in the left navigation.](../media/dynamics-365-apps.png)](../media/dynamics-365-apps.png#lightbox)
+	> [![Screenshot of Manage Security Roles page with roles selected.](../media/security-add-roles.png)](../media/security-add-roles.png#lightbox)
 
-1.  Search for **Omni**, select **Omnichannel for Customer Service**, select **Manage**, and then select **OK**.
-
-	> [!NOTE]
-	> If you do not see the application available, it may not yet be reflected after adding the digital messaging add-on trial license in the previous exercise. It may take up to 24 hours to become available in the Dynamics 365 apps list.
+9.  You'll be redirected to the **Create a new app user** panel, which should appear as shown in the following screenshot. Select **Create** to add Lamna Health Bot as an application user and assign it the Omnichannel agent security role.
 
 	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Manage button for Omnichannel for Customer Service.](../media/manage.png)](../media/manage.png#lightbox)
+	> [![Screenshot of Create a new app user page with Lamna health bot selected.](../media/security-create-new-app-user.png)](../media/security-create-new-app-user.png#lightbox)
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the OK button in the Manage Omnichannel for Customer Service window.](../media/ok-button.png)](../media/ok-button.png#lightbox)
-
-1.  In the new window, select **+ Add environment**, select your environment from the dropdown menu, and then select **Next**.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Add environment button.](../media/add-environment.png)](../media/add-environment.png#lightbox)
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Next button to move to the next step.](../media/next.png)](../media/next.png#lightbox)
-
-1.  Set the **Add chat** toggle switch to **Yes**. Select **Next** through to **Confirmation** and then select **Finish**. You only need to enable the chat channel for setup.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Add chat toggle switch and the Next button.](../media/chat.png)](../media/chat.png#lightbox)
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Finish button.](../media/finish.png)](../media/finish.png#lightbox)
-
-    The installation will take several hours to complete. Once finished, you may proceed to the next task
-
-## Task 2: Create a Power Apps portal
-
-In this task, you will create a Microsoft Power Apps portal that will be used as a Patient Access Portal by Microsoft Cloud for Healthcare.
-
-1.  While signed in to your Microsoft 365 tenant, open a new tab and go to [https://make.powerapps.com](https://make.powerapps.com/?azure-portal=true).
-
-1.  Change your **Environment** from the default to the trial environment that you created in the previous exercise, and then select **All templates**.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screesnhot of the All templates button in the trial environment.](../media/all-templates.png)](../media/all-templates.png#lightbox)
-
-1.  Scroll down and select **Customer self-service**.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Customer self-service portal.](../media/customer-self-service.png)](../media/customer-self-service.png#lightbox)
-
-1.  Enter a name for your portal, provide a valid URL, and then select **Create**. This portal will become the external website patients can use to access medical records and communicate with healthcare organizations.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the portal name and URL for the portal with the Create button.](../media/create.png)](../media/create.png#lightbox)
-
-    Your portal will now begin to provision.  You can track the progress of your portal under the Apps page.  This will take a few hours to complete. Once finished, you may proceed to the next task to deploy Microsoft Cloud for Healthcare.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the portal provisioning in progress window.](../media/provision-progress.png)](../media/provision-progress.png#lightbox)
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Power Apps portal apps page.](../media/apps-page.png)](../media/apps-page.png#lightbox)
-
-## Task 3: Deploy Microsoft Cloud for Healthcare
-
-In this task, you will deploy the necessary Microsoft Cloud for Healthcare solution modules for this training.
-
-Once you have completed all the previous tasks to install and configure the prerequisite licenses, you are ready to deploy Microsoft Cloud for Healthcare.
-
-1.  While signed in to your Microsoft 365 tenant, open a new tab and access [Microsoft Cloud Solution Center](https://solutions.microsoft.com/?azure-portal=true). Select the **Microsoft Cloud for Healthcare** button to begin the setup.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Microsoft Cloud for Healthcare button.](../media/cloud-for-healthcare.png)](../media/cloud-for-healthcare.png#lightbox)
-
-1.  Select any of the Microsoft Cloud for Healthcare capabilities.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Microsoft Cloud for Healthcare capabilities.](../media/capabilities.png)](../media/capabilities.png#lightbox)
-
-1.  Select **All** from the **Filter by capability** drop-down menu. Select the **Add all Healthcare solutions** checkbox to add all Microsoft Cloud for Healthcare capabilities that are required for this training.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Healthcare solutions filter by capability menu and solutions checkbox.](../media/healthcare-solutions.png)](../media/healthcare-solutions.png#lightbox)
-
-1.  Select the **Deploy** button in the upper right.
-
-	> [!NOTE]
-	> Patient insights is not a required Healthcare solution to complete any lab in this series. If you do want to deploy Patient insights, Sales Insights is a required license.
-
-1.  In Additional Components, select both **sample data** and **codeable concepts** to include them in installation. This is important as the lab content is based off this data. Select **Next**.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the additional components with sample data and codeable concepts selected.](../media/additional-components.png)](../media/additional-components.png#lightbox)
-
-1.  Select your **environment** from the drop-down menu, enter a **name** for the deployment, **accept** the Terms of service, and select **Next**.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the environment name, terms of service, and next button.](../media/deployment-accept-next.png)](../media/deployment-accept-next.png#lightbox)
-
-1.  You will now see that all pre-deployment dependencies are installed and configured. Select **Deploy** to complete the deployment process.
-
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the pre-deployment dependencies installed and configured.](../media/deployment-process.png)](../media/deployment-process.png#lightbox)
-
-Congratulations! Deployment is underway. The Microsoft Cloud for Healthcare deployment will take several hours to complete. You can monitor this screen to check the deployment status.
-
-> [!div class="mx-imgBorder"]
-> [![Screenshot of the deployment status.](../media/deployment-status.png)](../media/deployment-status.png#lightbox)
-
-Healthcare apps will also appear in the Apps page in [Power Apps](https://make.powerapps.com/?azure-portal=true) as they are deployed.
-
-> [!div class="mx-imgBorder"]
-> [![Screenshot of the healthcare apps listed in the apps page.](../media/healthcare-apps-page.png)](../media/healthcare-apps-page.png#lightbox)
+**Congratulations**, you've successfully assigned all security roles to the global administrator account and Azure AD app.

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-explore.summary
+title: Summary
+metadata:
+  title: Summary
+  description: Summary of the Explore Dynamics 365 portals in Power Pages module
+  ms.date: 10/12/2022
+  author: heyrob
+  ms.author: robde
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-pages
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/summary.md)]

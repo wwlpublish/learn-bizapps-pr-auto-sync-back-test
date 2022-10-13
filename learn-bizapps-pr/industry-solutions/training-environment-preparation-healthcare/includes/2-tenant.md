@@ -1,55 +1,72 @@
-To deploy Microsoft Cloud for Healthcare in a Microsoft Dataverse environment, you need to add a tenant and the prerequisite licenses. 
+To deploy Microsoft Cloud for Healthcare solutions in a Microsoft Dataverse environment, you need to have a tenant and the prerequisite licenses. 
 
-In this exercise, you will learn how to create a demo tenant. You can skip this exercise if you have already created a demo tenant and added the trial licenses.
+In this exercise, you'll learn how to create a Microsoft 365 trial tenant. You can skip this exercise if you've already created a trial tenant and have added the trial licenses.
 
-## Create a Microsoft 365 tenant 
+## Task 1: Create a Microsoft 365 tenant 
 
-In this task, you will learn how to create a trial tenant along with the required Microsoft Dynamics 365 and Microsoft 365 trial licenses. You can skip this task if you already have a tenant. 
+In this task, you'll learn how to create a Microsoft 365 trial tenant and obtain a Microsoft Office 365 E5 trial license. You can skip this task if you already have a tenant. 
 
-1.  Open an internet browser in In-Private or Incognito mode. 
+1.  Open a web browser in In-Private or Incognito mode. 
 
-1.  Go to [https://trials.dynamics.com](https://trials.dynamics.com/?azure-portal=true), scroll down, and select **Try for free** in the **Dynamics 365 Customer Service** card. 
+1.  Go to  [Office 365 E5 Trial](https://signup.microsoft.com/get-started/signup?products=101bde18-5ffb-4d79-a47b-f5b2c62525b3&culture=en-us&ali=1,) page. Enter a valid email ID and select **Next**.  
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of Get started with a Dynamics 365 free trial.](../media/trial.png)](../media/trial.png#lightbox)
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of the Try for free button in the Dynamics 365 Customer Service card.](../media/customer-service.png)](../media/customer-service.png#lightbox)
-
-1.  A pop-up window will appear, asking you to enter your email address to start the free trial. Leave the **Email ID** field blank and select **Start your free trial**. 
+1.  On the next page, select **Set up account.** 
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Start your free trial button.](../media/start-trial.png)](../media/start-trial.png#lightbox)
 
-1.  You will be shown an error asking to provide a valid work or school email ID with a link below to select and set up a new trial account instead. Select the link **Click here to set up a new trial account instead**. 
+1.  On the **About you** page, enter the required details and select **Next**. 
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the Click here to set up a new trial account message.](../media/click-here.png)](../media/click-here.png#lightbox)  
 
-1.  This will lead to a new account creation flow for Dynamics 365 Customer Engagement Plan. Get started by entering your email address. 
+1.  On the **About you** page, enter a valid phone number and then select **Send verification code**. You can select the **Text me** or **Call me** option to receive the verification code. 
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the email address field.](../media/email.png)](../media/email.png#lightbox)
 
-1.  If the email is already using other Microsoft Services, it will throw the following warning:
-"Looks like you're already using \[email\] with another Microsoft service. Sign in to use this account with this trial, or create a new account." Select \"**Create a new account instead**\".
+1.  After you receive the verification code, enter it in the **Enter your verification code** box, and then select **Verify.**
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the warning stating that the email address is already in use.](../media/warning.png)](../media/warning.png#lightbox) 
 
-1.  After selecting **Create a new account instead**, it will ask for more details. Provide the necessary information. Enter a valid phone number where you can receive text message to validate the sign-up process.  
+1.  After receiving successful verification, you'll be taken to the **Sign-in details** page. Enter your desired username, password, and domain name, and then select **Next** to create a Microsoft 365 trial tenant.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the window to create a new account.](../media/new-account.png)](../media/new-account.png#lightbox)   
 
-1.  Once the verification completes, request a valid domain name. Enter a username and password and select Next.
+1.  On successful creation of a trial tenant, the **Confirmation details** page will appear as in the following screenshot.
 
 	> [!div class="mx-imgBorder"]
 	> [![Screenshot of the valid domain name check availability window.](../media/domain.png)](../media/domain.png#lightbox)   
 
-Your Microsoft 365 tenant has been successfully created, along with the Dynamics 365 Customer Engagement Plan license that includes a Microsoft Power Apps license. 
+## Task 2: Update billing account details  
 
-> [!div class="mx-imgBorder"]
-> [![Screenshot of the successful sign-up message.](../media/success.png)](../media/success.png#lightbox)
+In this task, you'll update the billing account details for the trial tenant that you created in Task 1. 
 
-You have successfully set up your Dynamics 365 trial environment. In the next module, we will show you how to obtain the various trial licenses that are required to fully run the Microsoft Cloud for Healthcare.
+> [!IMPORTANT] 
+> Make sure that you update the billing account details so that you can obtain additional trial licenses.
+
+1.	In your existing browser session, open a new tab and go to [Microsoft 365 admin center.](https://admin.microsoft.com/AdminPortal/Home?#/BillingAccounts/billing-accounts) 
+
+2.	On the left navigation, go to **Billing** > **Billing Accounts**. 
+
+3. Select your billing account name in the right pane. 
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the billing details option and page.](../media/bill-details.png)](../media/bill-details.png#lightbox)
+
+4. On the **Billing account details** page, select **Edit**.
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the account details page.](../media/account-details.png)](../media/account-details.png#lightbox)
+
+5. On the **Edit sold-to address** page, enter the details and then select **Save.**
+
+    > [!div class="mx-imgBorder"]
+    > [![Screenshot of the Edit sold to address details page.](../media/billing-address.png)](../media/billing-address.png#lightbox)
+
+**Congratulations,** you've successfully created a Microsoft 365 tenant with a Microsoft Office 365 E5 trial license and have updated the billing account details so that you can obtain additional trial licenses.

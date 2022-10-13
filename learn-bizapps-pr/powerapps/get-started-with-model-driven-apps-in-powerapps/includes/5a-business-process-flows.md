@@ -1,6 +1,6 @@
 You can help ensure that people enter data consistently and follow the same steps every time they work with a customer by creating a business process flow.
 
-For example, you might want to create a business process flow to have everyone handle customer service requests the same way, or to require that people get approval for an invoice before submitting an order. Business process flows use the same underlying technology as other processes, but the capabilities that they provide are very different
+For example, you could create a business process flow to have everyone handle customer service requests the same way, or to require that people get approval for an invoice before submitting an order. Business process flows use the same underlying technology as other processes, but the capabilities that they provide are different
 from other features that use processes. To learn how to create or edit a business process flow, see [Create a business process flow](/power-automate/create-business-process-flow/?azure-portal=true).
 
 ## Use business process flows
@@ -25,8 +25,8 @@ The following business process flows can be found in Power Automate. To understa
 
 You can use a business process flow for a single table or to span multiple tables. For example, you may have a process that begins with an opportunity, then continues to a quote, an order, and then an invoice, before finally returning to close the opportunity.
 
-You can design business process flows that tie together the rows for up to five different tables into a single process so that people using the app can focus on the flow of their process rather than on which table they are working in. This way, they can easily navigate between related table rows.
+You can design business process flows that tie together the rows for up to five different tables into a single process. So people using the app can focus on the flow of their process rather than on which table they're working in. This way, they can easily navigate between related table rows.
 
 ### Multiple business process flows are available per table
 
-Not every user in an organization may follow the same process and different conditions may require that a different process be applied. You can have up to 10 active business process flows per table to provide appropriate processes for different situations.
+Not every user in an organization may follow the same process and different conditions may require that you apply a different process. You can have up to 10 active business process flows per table to provide appropriate processes for different situations.

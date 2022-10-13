@@ -3,11 +3,10 @@ uid: learn-bizapps.input-parameters
 metadata: 
  title: Define input and output parameters in Power Automate
  description: This module defines input and output parameters for desktop flows, which will allow your flows to be more comprehensive and useful.
- ms.date: 06/01/2022
- author: DaveBeasley  
- ms.author: dbeasley  
+ ms.date: 10/03/2022
+ author: jadaphillips 
+ ms.author: jadaphillips 
  ms.topic: interactive-tutorial  
- 
 title: Define input and output parameters in Power Automate
 summary: |  
   [!include[](../includes/module-banner.md)] 

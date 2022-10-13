@@ -1,15 +1,15 @@
-### YamlMime:ModuleUnit 
+### YamlMime:ModuleUnit
 uid: learn-bizapps.powerapps-common-data-service.2-learn-about-entities
-title: Table characteristics 
-metadata: 
+title: Table characteristics
+metadata:
   title: Table characteristics
   description: Learn about table characteristics
-  ms.date: 08/01/2022
+  ms.date: 10/04/2022
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.subservice: dataverse-developer
-durationInMinutes: 10 
+durationInMinutes: 10
 content: |
   [!include[](../includes/unit-banner.md)]
-  [!include[](includes/2-learn-about-entities.md)]  
+  [!include[](includes/2-learn-about-entities.md)]

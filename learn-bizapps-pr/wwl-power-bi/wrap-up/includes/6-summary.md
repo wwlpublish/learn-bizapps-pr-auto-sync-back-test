@@ -25,8 +25,7 @@ They will also allow you to provide additional information when you are explaini
 - [Power BI community](http://community.powerbi.com/)
 - [Power BI ideas](http://ideas.powerbi.com/)
 - [Power BI blog](https://blog.powerbi.com/)
-- [Power BI documentation](https://docs.microsoft.com/power-bi/)
-
+- [Power BI documentation](/power-bi/)
 
 > [!TIP]
 > Take a moment to visit these sites, review their content, and bookmark them for future use.

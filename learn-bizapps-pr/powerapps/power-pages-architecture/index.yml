@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-pages-architecture 
+metadata: 
+ title: Power Pages architecture
+ description: This module focuses on the Power Pages architecture, such as how the various components work together to build a site. Additionally, it explains how the components are installed and come to together in a working site. The module also describes the maker and configuration tools that you can use to build and customize Power Pages sites.
+ ms.date: 10/12/2022
+ author: heyrob
+ ms.author: robde
+ ms.topic: interactive-tutorial  
+ ms.prod: learning-power-pages  
+title: Power Pages architecture 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
+  This module focuses on the Power Pages architecture, such as how the various components work together to build a site. Additionally, it explains how the components are installed and come to together in a working site. The module also describes the maker and configuration tools that you can use to build and customize Power Pages sites. 
+abstract: |  
+    In this module, you will: 
+    - Identify the key components of the Power Pages architecture.
+    - Learn about the Power Pages site provisioning process.
+    - Differentiate the various maker tools, their purposes, and when to use each particular tool. 
+prerequisites: Basic understanding, use, and navigation of Microsoft Dynamics 365 applications and a basic understanding of how to navigate and customize model-driven Power Apps. 
+iconUrl: /learn/achievements/power-pages-architecture.svg  
+levels:  
+- intermediate   
+roles:  
+- maker
+- functional-consultant  
+products:  
+- power-pages
+- power-apps 
+- power-platform
+subjects:
+- custom-app-development
+- architecture
+units:
+- learn-bizapps.power-pages-architecture.introduction 
+- learn-bizapps.power-pages-architecture.provision 
+- learn-bizapps.power-pages-architecture.tools 
+- learn-bizapps.power-pages-architecture.exercise 
+- learn-bizapps.power-pages-architecture.check 
+- learn-bizapps.power-pages-architecture.summary 
+badge: 
+  uid: learn-bizapps.power-pages-architecture.badge

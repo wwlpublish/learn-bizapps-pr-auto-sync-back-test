@@ -4,6 +4,8 @@ In this exercise, you'll deploy Microsoft Cloud for Financial Services in your M
 
 In this task, you'll deploy all the Microsoft Cloud for Financial Services capabilities
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57aEp]
+
 1. While signed in to your Microsoft 365 tenant, open a new tab and then go to [https://aka.ms/solutioncenter](https://aka.ms/solutioncenter/?azure-portal=true) to access the Microsoft Cloud Solution Center. Select the **Microsoft Cloud for Financial Services** button to begin setup.
 
     > [!div class="mx-imgBorder"]
@@ -45,3 +47,4 @@ In this task, you'll deploy all the Microsoft Cloud for Financial Services capab
    > [![Screenshot of the deployment in progress screen.](../media/deployment-in-progress.png)](../media/deployment-in-progress.png#lightbox)
 
    You can monitor this screen to check the deployment status, or you can view the status of the apps by going to [https://aka.ms/ppac](https://aka.ms/ppac/?azure-portal=true).
+

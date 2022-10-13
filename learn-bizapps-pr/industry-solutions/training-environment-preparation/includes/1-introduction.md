@@ -12,3 +12,5 @@ This learning path will require the following features and license dependencies.
 
 > [!div class="mx-imgBorder"]
 > [![Table showing which licenses are required for which features.](../media/features.png)](../media/features.png#lightbox)
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE57q5A]
