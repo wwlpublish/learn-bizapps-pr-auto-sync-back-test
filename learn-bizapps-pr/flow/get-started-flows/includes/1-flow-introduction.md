@@ -79,9 +79,9 @@ Let's jump into Power Automate, and we'll show you around. We have tons of infor
 
 ![Screenshot of the start of the Power Automate tour.](../media/start-of-tour.png)
 
-When you sign in to Power Automate, you'll find these menus:
+When you sign in to Power Automate, you'll find these options:
 
-- **Action items**, where you can manage approvals and business process flows.
+- **Approvals**, where you can manage approvals and business process flows.
 - **My flows**, where your flows reside.
 - **Create**, where you start a new flow.
 - **Templates**, where you can take a look at some of the most popular templates. These should give you some great ideas for flows you want to try.
