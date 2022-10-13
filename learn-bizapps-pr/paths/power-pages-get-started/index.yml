@@ -13,10 +13,9 @@ title: Get Started with Power Pages
 summary: |
   [!include[](../../includes/lp-banner.md)]
   [!include[](../../includes/power-pages-banner.md)]
-  Power Pages provide a great way to allow internal and external audiences to view and interact with data from Microsoft Dataverse or Dynamics 365, and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Power Apps portals that can be quickly provisioned to serve a variety of different audiences and workloads. We also cover fundamentals of portal architecture, components, features, and tooling. 
+  Power Pages provide a great way to allow internal and external audiences to view and interact with data from Microsoft Dataverse or Dynamics 365, and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to Power Pages that can be quickly provisioned to serve a variety of different audiences and workloads. We also cover fundamentals of Power Pages architecture, components, features, and tooling. 
 prerequisites: |
-  - Power Apps trial subscription.
-  - Basic understanding how to navigate a model-driven app. 
+  - Power Pages trial [subscription](https://learn.microsoft.com/power-pages/getting-started/trial-signup).
 iconUrl: /training/achievements/power-pages-get-started.svg
 levels:
 - intermediate
