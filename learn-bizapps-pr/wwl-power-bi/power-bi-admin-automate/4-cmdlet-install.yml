@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-automate.4-cmdlet-install 
+title: Install and use the Power BI cmdlet
+metadata: 
+  title: Install and use the Power BI cmdlet
+  description: Learn about the installation and use of the Power BI cmdlet. 
+  ms.date: 04/30/2021 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/4-cmdlet-install.md)] 

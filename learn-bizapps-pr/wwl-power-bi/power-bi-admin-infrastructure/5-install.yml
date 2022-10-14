@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-infrastructure.5-install 
+title: Where to install gateway? 
+metadata: 
+  title: Where to install gateway?  
+  description: Learn where to install gateway. 
+  ms.date: 04/30/2021 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 2 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/5-install.md)] 
