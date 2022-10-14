@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-paginated-reports-power-bi.5-publish 
+title: Publish the report 
+metadata: 
+  title: Publish the report  
+  description: Learn how to publish the report.  
+  ms.date: 07/20/2021
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 2 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/5-publish.md)] 

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.data-driven-story-power-bi.6-advanced-interactions 
+title: Use advanced interactions and drill through
+metadata: 
+  title: Use advanced interactions and drill through
+  description: Learn how to use advanced interactions and drill through.  
+  ms.date: 07/08/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 7 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/6-advanced-interactions.md)] 

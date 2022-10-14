@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-reports.3-report-visuals 
+title: Select report visuals
+metadata: 
+  title: Select report visuals
+  description: Learn to select the most effective visual type.
+  ms.date: 10/11/2021 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 12
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/3-report-visuals.md)] 

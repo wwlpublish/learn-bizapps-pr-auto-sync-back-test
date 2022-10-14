@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.data-driven-story-power-bi.9-reports 
+title: Publish and export reports
+metadata: 
+  title: Publish and export reports 
+  description: Learn how to publish and export reports.   
+  ms.date: 07/08/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 2 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/9-reports.md)] 

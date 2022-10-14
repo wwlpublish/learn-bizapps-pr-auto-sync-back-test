@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.clean-data-power-bi.8-lab 
+title: Lab - Load data in Power BI Desktop
+metadata: 
+  title: Lab - Load data in Power BI Desktop 
+  description: In this lab, you will begin to apply transformations to each of the queries created in the previous lab. You will then apply the queries to load each as a table to the data model. 
+  ms.date: 03/28/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 45 
+labId: 72672
+labModal: true
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](../../power-bi/includes/access-lab.md)]
+ [!include[](includes/8-lab.md)] 

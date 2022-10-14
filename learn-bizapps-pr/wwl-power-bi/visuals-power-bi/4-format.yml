@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.visuals-power-bi.4-format 
+title: Format and configure visualizations
+metadata: 
+  title: Format and configure visualizations 
+  description: Learn about formatting and configuring visualizations. 
+  ms.date: 03/18/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 6 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/4-format.md)] 

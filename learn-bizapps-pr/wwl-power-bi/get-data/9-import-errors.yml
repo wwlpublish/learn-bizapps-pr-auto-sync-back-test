@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-data.9-import-errors 
+title: Resolve data import errors
+metadata: 
+  title: Resolve data import errors
+  description: Learn how to resolve data import errors.  
+  ms.date: 08/09/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 3 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/9-import-errors.md)] 
