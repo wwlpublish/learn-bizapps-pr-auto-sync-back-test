@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-measures-dax-power-bi.4-relationships 
+title: Use relationships effectively
+metadata: 
+  title: Use relationships effectively 
+  description: Learn about using relationships and how to do so effectively.  
+  ms.date: 04/15/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 12 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/4-relationships.md)] 

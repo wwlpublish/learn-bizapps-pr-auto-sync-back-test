@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.perform-analytics-power-bi.9-quick-insights 
+title: Review Quick insights
+metadata: 
+  title: Review Quick insights 
+  description: Learn about Quick insights. 
+  ms.date: 07/13/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 10 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/9-quick-insights.md)] 
