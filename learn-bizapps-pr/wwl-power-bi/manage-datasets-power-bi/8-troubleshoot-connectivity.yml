@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-datasets-power-bi.8-troubleshoot-connectivity 
+title: Troubleshoot service connectivity
+metadata: 
+  title: Troubleshoot service connectivity 
+  description: Learn how to troubleshoot service connectivity.  
+  ms.date: 04/30/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/8-troubleshoot-connectivity.md)] 

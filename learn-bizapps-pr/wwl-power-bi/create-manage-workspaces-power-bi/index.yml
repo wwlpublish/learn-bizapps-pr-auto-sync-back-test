@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.create-manage-workspaces-power-bi 
+metadata: 
+ title: Create and manage workspaces in Power BI 
+ description: This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI.
+ ms.date: 08/16/2022
+ author: heyrob  
+ ms.author: robde  
+ ms.topic: interactive-tutorial  
+ ms.service: powerbi  
+title: Create and manage workspaces in Power BI  
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI.
+abstract: |  
+    In this module, you will: 
+    - Distribute a report or dashboard.
+    - Monitor usage and performance.
+    - Recommend a development life cycle strategy.
+    - Troubleshoot data by viewing its lineage. 
+    - Configure data protection. 
+prerequisites: None 
+iconUrl: /training/achievements/create-manage-workspaces-power-bi.svg  
+levels:  
+- intermediate   
+roles:  
+- data-analyst  
+products:  
+- power-bi
+- power-platform 
+subjects:
+- collaboration
+units:
+- learn-bizapps.create-manage-workspaces-power-bi.1-introduction 
+- learn-bizapps.create-manage-workspaces-power-bi.2-distribute-report-dashboard 
+- learn-bizapps.create-manage-workspaces-power-bi.3-monitor-usage-performance 
+- learn-bizapps.create-manage-workspaces-power-bi.4-development-lifecycle-strategy 
+- learn-bizapps.create-manage-workspaces-power-bi.5-troubleshoot-data 
+- learn-bizapps.create-manage-workspaces-power-bi.6-data-protection 
+- learn-bizapps.create-manage-workspaces-power-bi.8-check 
+- learn-bizapps.create-manage-workspaces-power-bi.9-summary 
+badge: 
+  uid: learn-bizapps.create-manage-workspaces-power-bi.badge
