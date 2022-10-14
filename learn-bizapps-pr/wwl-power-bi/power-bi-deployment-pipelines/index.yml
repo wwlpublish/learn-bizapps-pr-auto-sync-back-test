@@ -10,7 +10,7 @@ metadata:
  ms.service: powerbi  
 title: Create and manage a Power BI deployment pipeline
 summary: |  
-  [!include[](../includes/module-banner.md)] 
+  [!include[](../../power-bi/includes/module-banner.md)] 
   Deployment pipelines enable creators to develop and test Power BI content in the Power BI service before the content is made available for consumption by users. It offers creators improved productivity, faster delivery of content updates, and reduced manual work and errors. The tool is designed as a pipeline with three stages: development, test, and production. 
 abstract: |  
     By the end of this module, you’ll be able to: 
