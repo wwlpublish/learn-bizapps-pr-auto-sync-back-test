@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-premium.4-bring-your-own-key 
+title: Bring your own key (BYOK)
+metadata: 
+  title: Bring your own key (BYOK) 
+  description: Learn about additional controls over how data is encrypted. 
+  ms.date: 04/30/2021 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 1
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/4-bring-your-own-key.md)] 
