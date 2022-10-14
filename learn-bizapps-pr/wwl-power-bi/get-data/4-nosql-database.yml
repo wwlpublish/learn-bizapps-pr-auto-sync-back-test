@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-data.4-nosql-database 
+title: Get data from a NoSQL database
+metadata: 
+  title: Get data from a NoSQL database 
+  description: Learn how to get data from a NoSQL database.  
+  ms.date: 08/09/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 3 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/4-nosql-database.md)] 

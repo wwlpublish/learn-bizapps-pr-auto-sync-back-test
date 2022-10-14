@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.data-driven-story-power-bi.8-slicer-filters-sort 
+title: Apply slicing, filtering, and sorting
+metadata: 
+  title: Apply slicing, filtering, and sorting 
+  description: Learn how to apply slicing, filtering, and sorting.  
+  ms.date: 07/08/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 6 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/8-slicer-filters-sort.md)] 

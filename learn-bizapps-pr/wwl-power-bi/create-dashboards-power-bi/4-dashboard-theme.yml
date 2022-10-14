@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-dashboards-power-bi.4-dashboard-theme 
+title: Add a dashboard theme
+metadata: 
+  title: Add a dashboard theme 
+  description: Learn how to add a dashboard theme.  
+  ms.date: 07/13/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/4-dashboard-theme.md)] 

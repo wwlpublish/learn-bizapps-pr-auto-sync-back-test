@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-dashboards-power-bi.8-set-mobile-view 
+title: Set mobile view
+metadata: 
+  title: Set mobile view 
+  description: Learn how to set mobile view.   
+  ms.date: 07/13/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 2 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/8-set-mobile-view.md)] 

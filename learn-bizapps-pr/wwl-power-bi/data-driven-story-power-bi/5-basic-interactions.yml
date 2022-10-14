@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.data-driven-story-power-bi.5-basic-interactions 
+title: Use basic interactions
+metadata: 
+  title: Use basic interactions 
+  description: Learn how to use basic interactions. 
+  ms.date: 07/08/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 4 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/5-basic-interactions.md)] 

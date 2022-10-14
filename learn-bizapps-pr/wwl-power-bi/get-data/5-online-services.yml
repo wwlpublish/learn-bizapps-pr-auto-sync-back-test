@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-data.5-online-services 
+title: Get data from online services
+metadata: 
+  title: Get data from online services 
+  description: Learn how to get data from online services.  
+  ms.date: 08/09/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 2 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/5-online-services.md)] 
