@@ -1,13 +1,13 @@
 ### YamlMime:Module 
 uid: learn-bizapps.power-bi-teams 
 metadata: 
- title: Use a Power BI report for Contoso Coffee online workshop
+ title: Use a Power BI report for Contoso Coffee - Online Workshop
  description: In this lab, you'll use Power BI to connect to your Microsoft Dataverse tables to build a report about the swag requests.
  ms.date: 10/06/2022  
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
-title: Use a Power BI report for Contoso Coffee online workshop
+title: Use a Power BI report for Contoso Coffee - Online Workshop
 summary: |  
   [!include[](../includes/module-banner.md)] 
   In this lab, you'll use Power BI to connect to your Microsoft Dataverse tables to build a report about the swag requests. With Power BI, you can get insights from your data by building interactive reports and dashboards. The Power BI app in Microsoft Teams allows team members to view and collaborate on reports and dashboards from within the Teams interface. The Power BI app includes the same features as Power BI Service, which contains a basic range of tools for building and editing reports. For the full range of editing features, you can build the report by using Power BI Desktop before publishing to Teams.
