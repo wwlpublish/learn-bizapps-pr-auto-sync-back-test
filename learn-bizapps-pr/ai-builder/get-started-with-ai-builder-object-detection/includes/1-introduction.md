@@ -1,4 +1,4 @@
-Before following this course, we recommend that you read the [Get Started with AI Builder]{.underline} module and read the [What is AI Builder?](/ai-builder/overview/?azure-portal=true) documentation.
+Before following this course, we recommend that you read the [Get Started with AI Builder](/training/modules/get-started-with-ai-builder/?azure-portal=true) module and read the [What is AI Builder?](/ai-builder/overview/?azure-portal=true) documentation.
 
 ## Introduction to AI Builder Object detection
 
