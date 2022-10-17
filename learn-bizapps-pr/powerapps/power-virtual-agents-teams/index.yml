@@ -1,13 +1,13 @@
 ### YamlMime:Module 
 uid: learn-bizapps.power-virtual-agents-teams 
 metadata: 
- title: Create a chatbot for Contoso Coffee online workshop
+ title: Create a chatbot for Contoso Coffee - Online Workshop
  description: Learn how you can call flows from your chatbot topics, connecting your bot to other data sources, so that it can take action on behalf of the user.
  ms.date: 10/06/2022  
  author: DaveBeasley  
  ms.author: dbeasley  
  ms.topic: interactive-tutorial  
-title: Create a chatbot for Contoso Coffee online workshop
+title: Create a chatbot for Contoso Coffee - Online Workshop
 summary: |  
   [!include[](../includes/module-banner.md)] 
   Power Virtual Agents empowers subject matter experts to build intelligent conversational bots, using a guided, no-code graphical interface. Leveraging Power Automate, you can call flows from your chatbot topics, connecting your bot to other data sources, so that it can take action on behalf of the user.
