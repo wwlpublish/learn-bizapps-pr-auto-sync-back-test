@@ -158,8 +158,8 @@ Your next task will be to set up the app form. In your form, you'll want the **A
 
 1.   On your canvas, select the **Asset** field, and then select under the label again to select the **DataCardValue**. You'll know if you've selected correctly when the panel on the right displays a COMBO BOX for DataCardValueX. (You might have a different number if you added the columns to the form in a different order, which is acceptable.)
 
-   > [!div class="mx-imgBorder"]
-   > [![Screenshot of the Properties panel, showing the Combo Box with the Data Card Value.](../media/data-card-value.png)](../media/data-card-value.png#lightbox)
+        > [!div class="mx-imgBorder"]
+        > [![Screenshot of the Properties panel, showing the Combo Box with the Data Card Value.](../media/data-card-value.png)](../media/data-card-value.png#lightbox)
 
 2.  Select the **Advanced** tab and then select **Unlock to change properties**.
 
