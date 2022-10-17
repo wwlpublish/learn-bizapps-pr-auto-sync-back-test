@@ -72,8 +72,6 @@ In this exercise, you'll create a flow that calculates how many overtime hours e
 
 1. Outside the loop, add a **Close Excel** action to save and close the file.
 
-    ![Screenshot of the Power Automate for desktop Close Excel action.](..\media\first-exercise-close-excel-action.png)
-
 1. Save the flow and then run it to test that every action works as expected.
 
     ![Screenshot of the Power Automate for desktop final flow and the save and run button.](..\media\first-exercise-final-flow.png)
