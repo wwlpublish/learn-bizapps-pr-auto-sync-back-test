@@ -58,7 +58,7 @@ Use these resources to discover more.
 
 - [From a Postman collection](/connectors/custom-connectors/define-postman-collection)
 
-- [Use custom connectors in a PowerApps canvas app](/training/modules/use-custom-connectors-in-powerapps-canvas-app/)
+- [Use custom connectors in a PowerApps canvas app](/learn/modules/use-custom-connectors-in-powerapps-canvas-app/)
 
 ### Get started with Power Virtual Agents
 - [Power Virtual Agents](https://powervirtualagents.microsoft.com/)
