@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.data-analytics-microsoft.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction 
+  description: Introduction to data analysis. 
+  ms.date: 06/09/2022 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 5 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

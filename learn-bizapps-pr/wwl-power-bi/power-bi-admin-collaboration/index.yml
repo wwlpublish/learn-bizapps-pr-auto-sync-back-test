@@ -1,0 +1,46 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-admin-collaboration 
+metadata: 
+ title: Facilitate collaboration and sharing in Power BI
+ description: Learn how to collaborate and share dashboards and reports with coworkers.
+ ms.date: 04/30/2021  
+ author: heyrob  
+ ms.author: robde  
+ ms.topic: interactive-tutorial  
+ ms.service: powerbi  
+title: Facilitate collaboration and sharing in Power BI
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  You've created dashboards and reports. Perhaps you want to collaborate on them with your coworkers. Or maybe you're ready to distribute them more widely. What's the best way to collaborate and share them? In this module, we compare your options.
+abstract: |  
+    In this module, you will: 
+    - Understand the differences between My workspace, workspaces, and apps
+    - Describe new workspace capabilities and how they improve the user experience
+    - Anticipate migration impact to Power BI users
+    - Share, publish to the web, embed links and secure Power BI reports, dashboards, and content
+prerequisites: We recommend completing the [Dashboard in a Day](https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x1728241abcd&azure-portal=true) learning path before beginning this module.
+iconUrl: /training/achievements/power-bi-admin-collaboration.svg  
+levels:  
+- intermediate   
+roles:  
+- administrator   
+products: 
+- power-platform
+- power-bi 
+subjects:
+- collaboration
+units:
+- learn-bizapps.power-bi-admin-collaboration.1-introduction 
+- learn-bizapps.power-bi-admin-collaboration.2-workspaces 
+- learn-bizapps.power-bi-admin-collaboration.3-impact 
+- learn-bizapps.power-bi-admin-collaboration.4-permissions 
+- learn-bizapps.power-bi-admin-collaboration.5-apps 
+- learn-bizapps.power-bi-admin-collaboration.6-sharing 
+- learn-bizapps.power-bi-admin-collaboration.7-publish 
+- learn-bizapps.power-bi-admin-collaboration.8-embed 
+- learn-bizapps.power-bi-admin-collaboration.9-sensitivity 
+- learn-bizapps.power-bi-admin-collaboration.10-privacy 
+- learn-bizapps.power-bi-admin-collaboration.11-check 
+- learn-bizapps.power-bi-admin-collaboration.12-summary 
+badge: 
+  uid: learn-bizapps.power-bi-admin-collaboration.badge

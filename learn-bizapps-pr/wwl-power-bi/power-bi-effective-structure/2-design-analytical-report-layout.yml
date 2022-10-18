@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-structure.2-design-analytical-report-layout 
+title: Design the analytical report layout
+metadata: 
+  title: Design the analytical report layout
+  description: Describes analytical report layouts that consider design principles.
+  ms.date: 10/11/2021 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 7 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/2-design-analytical-report-layout.md)] 

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-structure.3-produce-guided-experience 
+title: Produce a guided analytical experience
+metadata: 
+  title: Produce a guided analytical experience
+  description: The guided analytical experience allows navigation between high-level metrics, supporting visuals and details. 
+  ms.date: 10/11/2021 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 3 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/3-produce-guided-experience.md)] 

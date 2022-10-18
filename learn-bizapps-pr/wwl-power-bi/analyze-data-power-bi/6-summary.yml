@@ -1,0 +1,17 @@
+﻿### YamlMime:ModuleUnit 
+uid: learn-bizapps.analyze-explore-data-power-bi.6-summary 
+title: Summary
+metadata: 
+  title: Summary 
+  description: Summary 
+  ms.date: 08/12/2021
+  author: HeyRob
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+   
+durationInMinutes: 5 
+content: |
+  [!include[](../../power-bi/includes/unit-banner.md)]
+  [!include[](includes/6-summary.md)] 
+

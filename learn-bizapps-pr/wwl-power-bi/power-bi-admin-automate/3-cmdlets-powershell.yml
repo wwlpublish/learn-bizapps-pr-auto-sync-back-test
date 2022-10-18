@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-automate.3-cmdlets-powershell 
+title: Microsoft Power BI cmdlets for Windows PowerShell and PowerShell core
+metadata: 
+  title: Microsoft Power BI cmdlets for Windows PowerShell and PowerShell core 
+  description: Learn about Microsoft Power BI cmdlets for Windows PowerShell and PowerShell core. 
+  ms.date: 04/30/2021 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/3-cmdlets-powershell.md)] 

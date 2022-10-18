@@ -1,0 +1,46 @@
+### YamlMime:Module 
+uid: learn-bizapps.dax-power-bi-calculation-groups 
+metadata: 
+ title: Add DAX calculation groups to Power BI Desktop models
+ description: Learn how you can add many similar measures to your model.
+ ms.date: 07/11/2022  
+ author: Heyrob  
+ ms.author: Robde  
+ ms.topic: interactive-tutorial  
+ ms.service: powerbi  
+title: Add DAX calculation groups to Power BI Desktop models
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  Occasionally, you might need to add many similar measures to your model. For example, consider that your model includes measures for sales, cost, and profit. You then want to create a report that shows year-to-date (YTD) sales, YTD cost, and YTD profit, in addition to prior year (PY) sales, PY cost, and PY profit.
+  Adding numerous measures can be time-consuming and can clutter the Fields pane with an overwhelming number of fields. Instead of creating each YTD and PY measure, you can quickly add these measures to your model by creating a Data Analysis Expressions (DAX) calculation group. 
+abstract: |  
+    In this module, you will: 
+    - Set up Tabular Editor 2.
+    - Create calculations groups.
+    - Order calculation items.
+    - Set dynamic formatting.
+    - Set calculation precedence.
+    - Use calculation groups in report layouts.
+prerequisites: |
+  - Experience developing Power BI data models, reports, and dashboards
+  -	Experience creating calculated tables, calculated columns, and measures by using DAX
+iconUrl: /training/achievements/dax-power-bi-calculation-groups.svg  
+levels:  
+- intermediate   
+roles:  
+- maker  
+- data-analyst 
+products: 
+- power-bi
+- power-platform
+subjects: 
+- data-analytics 
+units: 
+- learn-bizapps.dax-power-bi-calculation-groups.introduction 
+- learn-bizapps.dax-power-bi-calculation-groups.tabular-editor 
+- learn-bizapps.dax-power-bi-calculation-groups.calculation-groups 
+- learn-bizapps.dax-power-bi-calculation-groups.work-other-concepts 
+- learn-bizapps.dax-power-bi-calculation-groups.check 
+- learn-bizapps.dax-power-bi-calculation-groups.summary 
+badge: 
+  uid: learn-bizapps.dax-power-bi-calculation-groups.badge 

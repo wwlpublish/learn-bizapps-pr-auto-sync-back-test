@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-datasets-power-bi.3-what-if-parameters 
+title: Create what-if parameters
+metadata: 
+  title: Create what-if parameters 
+  description: Learn how to create what-if parameters.  
+  ms.date: 04/30/2022 
+  author: heyrob
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 3 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/3-what-if-parameters.md)] 

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.design-model-power-bi.2-tables 
+title: Work with tables
+metadata: 
+  title: Work with tables 
+  description: Learn how to work with tables.  
+  ms.date: 07/04/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 3 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/2-tables.md)] 

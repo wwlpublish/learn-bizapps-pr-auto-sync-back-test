@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-collaboration.2-workspaces 
+title: Workspaces evolved
+metadata: 
+  title: Workspaces evolved
+  description: Learn about the differences between new and classic workspaces.
+  ms.date: 04/30/2021 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 6
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/2-workspaces.md)] 

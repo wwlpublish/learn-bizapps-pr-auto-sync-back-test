@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-filters.7-feedback-configuration 
+title: Case study - Configure report filters based on feedback
+metadata: 
+  title: Case study - Configure report filters based on feedback
+  description: Learn about configuring report filters based on feedback. 
+  ms.date: 10/11/2021 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 3 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/7-feedback-configuration.md)] 

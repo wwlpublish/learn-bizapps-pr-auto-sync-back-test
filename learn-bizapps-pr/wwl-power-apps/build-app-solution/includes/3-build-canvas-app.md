@@ -45,7 +45,7 @@ To connect to a data source, use the following procedure:
 
 3.  In the left pane, select **Create**.
 
-4.  In the **Start from data** section, select **Other data sources**.
+4.  In the **Start from data** section, select **Excel**.
 
 5.  Under Connections, choose **OneDrive for Business**. If you don't have the
     connection available, click **New connection** to create one.
@@ -168,7 +168,7 @@ The third screen in the app is **EditScreen1**. Some of its controls include:
 ## Install the app on your device
 
 User leverage Power Apps on their mobile devices with the Power Apps mobile
-application. If you want experience what it looks like on a mobile device,
+application. If you want to experience what it looks like on a mobile device,
 install the Power Apps Mobile app on your phone.
 
 1.  Download Power Apps Mobile from the app store for the platform that you want

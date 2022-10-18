@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.clean-data-power-bi.6-profile-data 
+title: Profile data in Power BI
+metadata: 
+  title: Profile data in Power BI 
+  description: Learn about profile data in Power BI.  
+  ms.date: 07/12/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 20
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/6-profile-data.md)] 

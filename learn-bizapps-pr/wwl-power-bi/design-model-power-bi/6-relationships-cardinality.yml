@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.design-model-power-bi.6-relationships-cardinality 
+title: Work with relationships and cardinality
+metadata: 
+  title: Work with relationships and cardinality 
+  description: Learn about working with relationships and cardinality.  
+  ms.date: 07/04/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 5 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/6-relationships-cardinality.md)] 

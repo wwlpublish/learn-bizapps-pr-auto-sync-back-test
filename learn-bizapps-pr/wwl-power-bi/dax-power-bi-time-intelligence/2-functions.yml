@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-time-intelligence.2-functions 
+title: Use DAX time intelligence functions
+metadata: 
+  title: Use DAX time intelligence functions 
+  description: Learn how to use DAX time intelligence functions.  
+  ms.date: 06/15/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 5 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/2-functions.md)] 
