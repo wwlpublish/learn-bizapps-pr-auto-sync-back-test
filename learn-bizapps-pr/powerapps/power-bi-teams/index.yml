@@ -18,7 +18,7 @@ abstract: |
     - Use the report that you built.
 prerequisites: |  
     - Completion of the prior module. If you didn't complete the prior exercises, download [Dataverse exercises](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/in-a-day/dataverse/dataverse-teams-exercise-files.zip) to import the needed components before you start these exercises.
-    - An environment with a licensed user to complete these exercises. Follow the sign-up [process](/microsoft-365/enterprise/office-365-e5) if you need a training environment. We don’t recommend that you use your production (live environment for work or school) user/tenant for completing these exercises.
+    - An environment with a licensed user to complete these exercises. Follow the sign-up [process](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5) if you need a training environment. We don’t recommend that you use your production (live environment for work or school) user/tenant for completing these exercises.
     - If you can't install Power BI Desktop, you won't be able to complete this lab.
     - Access to Microsoft Power BI Desktop on your device. If you don't already have Power BI Desktop installed, you'll need to download and install it. If you have Windows 10 or 11, use Microsoft App Store to download and install the Power BI Desktop app, or you can download and install by going to [Microsoft Power BI Desktop](https://www.microsoft.com/download/details.aspx?id=45331).
 iconUrl: /learn/achievements/power-bi-teams.svg  
