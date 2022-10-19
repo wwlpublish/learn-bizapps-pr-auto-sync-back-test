@@ -38,10 +38,10 @@ quiz:
   - content: What is the difference between Promotion and Certification when you are endorsing a dataset?
     choices: 
     - content: Promotion requires write access while Certification requires permission from the dataset owner to access to the dataset.
-      isCorrect: true 
+      isCorrect: false 
       explanation: Promotion does not need specific permissions while Certification requires permission from the dataset owner to access to the dataset.
     - content: Promotion is for broad usage while Certification needs permission granted on the Admin Tenant settings.
-      isCorrect: false 
+      isCorrect: true 
       explanation: Promotion does not need specific permissions while Certification requires permission from the dataset owner to access to the dataset.
     - content: Promotion is for specific users while Certification needs permission granted on the Admin Tenant settings.
       isCorrect: false 
