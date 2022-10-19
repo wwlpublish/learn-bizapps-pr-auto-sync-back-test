@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.clean-data-power-bi.2-shape-data 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.clean-data-power-bi.2-shape-data
 title: Shape the initial data
-metadata: 
-  title: Shape the initial data 
-  description: Learn how to shape the initial data.  
-  ms.date: 07/12/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
-durationInMinutes: 18 
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/2-shape-data.md)] 
+metadata:
+  title: Shape the initial data
+  description: "Learn how to shape the initial data."
+  ms.date: 10/19/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 18
+content: |
+  [!include[](includes/2-shape-data.md)]
