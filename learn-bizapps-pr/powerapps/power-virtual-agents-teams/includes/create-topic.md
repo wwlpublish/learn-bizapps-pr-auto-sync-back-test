@@ -78,7 +78,7 @@ To create a new topic for questions about Contoso Coffee’s swag, follow these 
     > [!div class="mx-imgBorder"]
     > [![Screenshot highlighting the Choose information to identify menu, showing the Multiple choice options selection.](../media/choose-information.png)](../media/choose-information.png#lightbox)
 
-1. Add the following as multiple choice options for the user. The conditional branching is automatically created as you add each new option.
+1. Add the following multiple choice options for the user. The conditional branching is automatically created as you add each new option.
     
     **Apparel**
     
