@@ -4,7 +4,7 @@ title: Exercise - Load data in Power BI Desktop
 metadata:
   title: Lab - Load data in Power BI Desktop
   description: "In this lab, you will begin to apply transformations to each of the queries created in the previous lab. You will then apply the queries to load each as a table to the data model."
-  ms.date: 10/19/2022
+  ms.date: 10/20/2022
   author: wwlpublish
   ms.author: anrudduc
   ms.topic: interactive-tutorial
