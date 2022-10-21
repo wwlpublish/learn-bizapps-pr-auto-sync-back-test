@@ -16,16 +16,16 @@ quiz:
     choices: 
     - content: The current.username variable
       isCorrect: false 
-      explanation: Incorrect. This variable is not the correct one to use for this scenario.
+      explanation: Incorrect. This variable isn't the correct one to use for this scenario.
     - content: The Office365.User.DisplayName variable
       isCorrect: false 
-      explanation: Incorrect. This variable is not the correct one to use for this scenario.
+      explanation: Incorrect. This variable isn't the correct one to use for this scenario.
     - content: The bot.userDisplayName variable
       isCorrect: true
       explanation: Correct. To get the current user name, use the variable bot.userDisplayName.
     - content: The Automation.User.DisplayName variable
       isCorrect: false 
-      explanation: Incorrect. This variable is not the correct one to use for this scenario.
+      explanation: Incorrect. This variable isn't the correct one to use for this scenario.
   - content: You've added an ask question step to your chatbot topic and want to provide the user with a yes or no action. What should you select for the Identify field?
     choices: 
     - content: Multiple choice options
@@ -47,10 +47,10 @@ quiz:
       explanation: Correct. Select the End conversation with survey action.
     - content: Conclude conversation and send survey action
       isCorrect: false 
-      explanation: Incorrect. This selection is not the correct action to add.
+      explanation: Incorrect. This selection isn't the correct action to add.
     - content: End conversation and send survey action
       isCorrect: false 
-      explanation: Incorrect. This selection is not the correct action to add.
+      explanation: Incorrect. This selection isn't the correct action to add.
     - content: Completed and survey user experience action
       isCorrect: false 
-      explanation: Incorrect. This selection is not the correct action to add.
+      explanation: Incorrect. This selection isn't the correct action to add.
