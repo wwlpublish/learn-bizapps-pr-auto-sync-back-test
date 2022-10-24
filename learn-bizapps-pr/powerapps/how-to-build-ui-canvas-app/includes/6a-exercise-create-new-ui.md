@@ -18,7 +18,7 @@ In this unit, you'll generate a new canvas app that you will customize with vari
 
 	![Screenshot of the new app named New UI App with Create button.](../media/exercise-2.png)
 
-1. In the new app, select the **Insert** tab and the **Icons** dropdown. Scroll close to the bottom of the dropdown options and choose **Rectangle**.
+1. In the new app, select the **Insert** tab and the **Shapes** dropdown. Scroll close to the bottom of the dropdown options and choose **Rectangle**.
 
 1. Move and resize the rectangle to cover the top of your app screen.
 
