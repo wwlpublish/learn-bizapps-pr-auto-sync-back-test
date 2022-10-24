@@ -12,45 +12,45 @@ durationInMinutes: 6
 quiz: 
   title: Answer the following questions to see what you've learned. 
   questions: 
-  - content: You're creating a chatbot and want to show a message that will show the current user’s display name, what variable will you use to show the current user’s display name?
+  - content: You're creating a chatbot and want to display a message that will show the current user’s display name. What variable should you use?
     choices: 
-    - content: The current.username variable.
+    - content: The current.username variable
       isCorrect: false 
-      explanation: Incorrect. To get the current user name, use the variable bot.userDisplayName.
-    - content: The Office365.User.DisplayName variable.
+      explanation: Incorrect. This variable isn't the correct one to use for this scenario.
+    - content: The Office365.User.DisplayName variable
       isCorrect: false 
-      explanation: Incorrect. To get the current user name, use the variable bot.userDisplayName.
-    - content: The bot.userDisplayName variable.
+      explanation: Incorrect. This variable isn't the correct one to use for this scenario.
+    - content: The bot.userDisplayName variable
       isCorrect: true
       explanation: Correct. To get the current user name, use the variable bot.userDisplayName.
     - content: The Automation.User.DisplayName variable
       isCorrect: false 
-      explanation: Incorrect. To get the current user name, use the variable bot.userDisplayName.
-  - content: You added an ask question step to your chatbot topic and want to provide the user yes or no action, what should you select for Identity?
+      explanation: Incorrect. This variable isn't the correct one to use for this scenario.
+  - content: You've added an ask question step to your chatbot topic and want to provide the user with a yes or no action. What should you select for the Identify field?
     choices: 
-    - content: Multi choice options
+    - content: Multiple choice options
       isCorrect: false
-      explanation: Incorrect. This option would allow multiple choices and not yes or no.
+      explanation: Incorrect. This option would allow multiple choices and not yes or no actions.
     - content: Boolean
       isCorrect: false 
-      explanation: Incorrect. This option would allow boolean and not yes or no.
+      explanation: Incorrect. This option would allow Boolean and not yes or no actions.
     - content: User's entire response
       isCorrect: false 
-      explanation: Incorrect. This option would allow User's entire response and not yes or no.
-    - content: Yes or No option.
+      explanation: Incorrect. This option would allow the user's entire response and not yes or no actions.
+    - content: Yes or No option
       isCorrect: true 
-      explanation: Correct. This option would allow yes or no.
-  - content: You want to conclude the chatbot conversation with survey, what action will you add?
+      explanation: Correct. This option would allow yes or no actions.
+  - content: You want to conclude the chatbot conversation with a survey. What action will you add?
     choices: 
-    - content: End conversation with survey action.
+    - content: End conversation with survey action
       isCorrect: true 
-      explanation: Correct. End conversation with survey action.
-    - content: Conclude conversation and send survey action.
+      explanation: Correct. Select the End conversation with survey action.
+    - content: Conclude conversation and send survey action
       isCorrect: false 
-      explanation: Incorrect. End conversation with survey action.
-    - content: End conversation and send survey action.
+      explanation: Incorrect. This selection isn't the correct action to add.
+    - content: End conversation and send survey action
       isCorrect: false 
-      explanation: Incorrect. End conversation with survey action.
-    - content: Completed and survey user experience action.
+      explanation: Incorrect. This selection isn't the correct action to add.
+    - content: Completed and survey user experience action
       isCorrect: false 
-      explanation: Incorrect. End conversation with survey action.
+      explanation: Incorrect. This selection isn't the correct action to add.
