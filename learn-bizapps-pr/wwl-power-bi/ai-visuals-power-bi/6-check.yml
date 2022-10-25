@@ -12,9 +12,8 @@ metadata:
 azureSandbox: false
 labModal: false
 durationInMinutes: 4
-content: |
-  [!include[](includes/6-check.md)]
 quiz:
+  title: "Answer the following questions to see what you've learned."
   questions:
   - content: "What does the AI splits feature do?"
     choices:
