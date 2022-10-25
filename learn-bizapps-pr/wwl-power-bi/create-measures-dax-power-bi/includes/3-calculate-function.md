@@ -1,5 +1,3 @@
-[!include[](../../../power-bi/includes/unit-banner.md)] 
-
 The CALCULATE function in DAX is one of the most important functions that a data analyst can learn. The function name does not adequately describe all it is intended to do.
 
 The CALCULATE function is your method of creating a DAX measure that will override certain portions of the context that are being used to express the correct result.

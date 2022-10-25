@@ -1,5 +1,3 @@
-[!include[](../../../power-bi/includes/unit-banner.md)] 
-
 Another DAX function that allows you to override the default behavior is USERELATIONSHIP.
 
 Consider the following data model example.

@@ -1,4 +1,3 @@
-[!include[](../../../power-bi/includes/unit-banner.md)]
 [!include[](../../../power-bi/includes/access-lab.md)]
 
 **The estimated time to complete the lab is 45 minutes.**
