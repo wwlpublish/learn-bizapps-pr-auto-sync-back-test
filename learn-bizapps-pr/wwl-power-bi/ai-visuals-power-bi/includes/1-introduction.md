@@ -10,10 +10,10 @@ Because the numbers don't tell you everything, you can use the AI features in Po
 
 For this module's scenario, you have been building reports for different teams in your organization. Now, you want to use the AI aspect of the advanced analytic capabilities of Power BI to enhance your reports in clever ways. You want to empower users to gain new insights in more interactive ways and receive direct answers to their questions.
 
-This module describes the AI capabilities of Power BI. By the end of this module, you will be able to: 
+This module describes the AI capabilities of Power BI. By the end of this module, you will be able to: 
 
-- Use the **Q&A** visual.  
+- Use the **Q&A** visual.  
 
 - Find important factors with the **Key influencers** visual.
 
-- Use the **Decomposition Tree** visual to break down a measure. 
+- Use the **Decomposition Tree** visual to break down a measure. 
