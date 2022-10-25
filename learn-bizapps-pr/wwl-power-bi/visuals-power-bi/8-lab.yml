@@ -1,18 +1,17 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.visuals-power-bi.8-lab 
-title: Lab - Design a report in Power BI desktop
-metadata: 
-  title: Lab - Design a report in Power BI desktop 
-  description: Learn how to design a report in Power BI desktop. 
-  ms.date: 03/18/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
-durationInMinutes: 45 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.visuals-power-bi.8-lab
+title: Exercise - Design a report in Power BI desktop
+metadata:
+  title: Lab - Design a report in Power BI desktop
+  description: "Learn how to design a report in Power BI desktop."
+  ms.date: 10/25/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
 labId: 72677
 labModal: true
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](../../power-bi/includes/access-lab.md)]
- [!include[](includes/8-lab.md)] 
+durationInMinutes: 45
+content: |
+  [!include[](includes/8-lab.md)]

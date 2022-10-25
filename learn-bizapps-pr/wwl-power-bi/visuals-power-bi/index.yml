@@ -1,45 +1,44 @@
-### YamlMime:Module 
-uid: learn-bizapps.visuals-power-bi 
-metadata: 
- title: Work with Power BI visuals
- description: Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs).
- ms.date: 03/18/2022
- author: heyrob  
- ms.author: robde  
- ms.topic: interactive-tutorial  
- ms.service: powerbi  
-title: Work with Power BI visuals 
-summary: |  
-  [!include[](../../power-bi/includes/module-banner.md)] 
-  Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs).
-abstract: |  
-    In this module, you will: 
-    - Add visualization items to reports. 
-    - Choose an effective visualization. 
-    - Format and configure visualizations. 
-    - Import a custom visual. 
-    - Add an R or Python visual. 
-prerequisites: None 
-iconUrl: /training/achievements/visuals-power-bi.svg  
-levels:  
-- intermediate   
-roles:  
-- data-analyst  
-products:   
-- power-bi 
+### YamlMime:Module
+uid: learn-bizapps.visuals-power-bi
+metadata:
+  title: Work with Power BI visuals
+  description: "Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs)."
+  ms.date: 10/25/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+title: Work with Power BI visuals
+summary: Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs).
+abstract: |
+  In this module, you will:
+  - Add visualization items to reports.
+  - Choose an effective visualization.
+  - Format and configure visualizations.
+  - Import a custom visual.
+  - Add an R or Python visual.
+prerequisites: |
+  None
+iconUrl: /training/achievements/visuals-power-bi.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
 - power-platform
 subjects:
 - data-visualization
 units:
-- learn-bizapps.visuals-power-bi.1-introduction 
-- learn-bizapps.visuals-power-bi.2-add-visualization 
-- learn-bizapps.visuals-power-bi.3-effective-visualization 
-- learn-bizapps.visuals-power-bi.4-format 
-- learn-bizapps.visuals-power-bi.5-custom 
-- learn-bizapps.visuals-power-bi.6-python-visual 
-- learn-bizapps.visuals-power-bi.7-key-performance-indicators 
-- learn-bizapps.visuals-power-bi.8-lab 
-- learn-bizapps.visuals-power-bi.9-check 
-- learn-bizapps.visuals-power-bi.10-summary 
-badge: 
+- learn-bizapps.visuals-power-bi.1-introduction
+- learn-bizapps.visuals-power-bi.2-add-visualization
+- learn-bizapps.visuals-power-bi.3-effective-visualization
+- learn-bizapps.visuals-power-bi.4-format
+- learn-bizapps.visuals-power-bi.5-custom
+- learn-bizapps.visuals-power-bi.6-python-visual
+- learn-bizapps.visuals-power-bi.7-key-performance-indicators
+- learn-bizapps.visuals-power-bi.8-lab
+- learn-bizapps.visuals-power-bi.9-check
+- learn-bizapps.visuals-power-bi.10-summary
+badge:
   uid: learn-bizapps.visuals-power-bi.badge
