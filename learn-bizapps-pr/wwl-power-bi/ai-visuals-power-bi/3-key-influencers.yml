@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.ai-visuals-power-bi.3-key-influencers 
-title: Find important factors with the Key influencers visual 
-metadata: 
-  title: Find important factors with the Key influencers visual  
-  description: Learn how to find important factors with the Key influencers visual.  
-  ms.date: 08/31/2021
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
-durationInMinutes: 2 
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/3-key-influencers.md)] 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.ai-visuals-power-bi.3-key-influencers
+title: Find important factors with the Key influencers visual
+metadata:
+  title: Find important factors with the Key influencers visual
+  description: "Learn how to find important factors with the Key influencers visual."
+  ms.date: 10/25/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 2
+content: |
+  [!include[](includes/3-key-influencers.md)]
