@@ -1,3 +1,1 @@
-[!include[](../../../power-bi/includes/unit-banner.md)]
-
 This module started you on a journey to understanding DAX. You learned about creating simple DAX columns and measures, how they work, and how to choose when to do one over the other. You learned about context and how to override it with the CALCULATE function, and you learned about time intelligence and semi-additive measures. Mastery of DAX will take effort and time, but this module has provided you with a great start.
