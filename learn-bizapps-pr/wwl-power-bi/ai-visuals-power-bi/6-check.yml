@@ -48,14 +48,3 @@ quiz:
     - content: "Searching for help topics about Power BI."
       isCorrect: true
       explanation: "Correct. Searching for help topics about Power BI is not a feature of the Q&A visual."
-  - content: "What does the decomposition tree NOT enable you to do?"
-    choices:
-    - content: "Conduct root cause analysis to understand a measure better."
-      isCorrect: false
-      explanation: "Incorrect. The decomposition tree does not conduct what-if analysis with built-in parameters."
-    - content: "Conduct what-if analysis with built-in parameters."
-      isCorrect: true
-      explanation: "Correct. The decomposition tree does not conduct what-if analysis with built-in parameters."
-    - content: "Searching for help topics about Power BI."
-      isCorrect: false
-      explanation: "Incorrect. Automatically analyze selected dimensions to find where a measure is highest or lowest."
