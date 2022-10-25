@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.design-model-power-bi.4-dimensions 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.design-model-power-bi.4-dimensions
 title: Work with dimensions
-metadata: 
+metadata:
   title: Work with dimensions
-  description: Learn how to work with dimensions.  
-  ms.date: 07/04/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
+  description: "Learn how to work with dimensions."
+  ms.date: 10/25/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
 durationInMinutes: 6
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/4-dimensions.md)] 
+content: |
+  [!include[](includes/4-dimensions.md)]
