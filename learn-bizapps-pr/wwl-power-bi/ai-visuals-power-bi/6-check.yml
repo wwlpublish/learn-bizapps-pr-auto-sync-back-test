@@ -1,59 +1,62 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.ai-visuals-power-bi.6-check 
-title: Check your knowledge 
-metadata: 
- title: Check your knowledge 
- description: Answer the following questions to see what you've learned. 
- ms.date: 08/31/2021
- author: heyrob 
- ms.author: robde 
- ms.topic: interactive-tutorial 
- ms.service: powerbi 
-durationInMinutes: 4 
-quiz: 
-  title: Answer the following questions to see what you've learned. 
-  questions: 
-  - content: What does the AI splits feature do?
-    choices: 
-    - content: AI splits work by considering all available fields and determining which one to drill into and will only return the highest or lowest value within your dataset.
+### YamlMime:ModuleUnit
+uid: learn-bizapps.ai-visuals-power-bi.6-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Answer the following questions to see what you've learned."
+  ms.date: 10/25/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 4
+content: |
+  [!include[](includes/6-check.md)]
+quiz:
+  questions:
+  - content: "What does the AI splits feature do?"
+    choices:
+    - content: "AI splits work by considering all available fields and determining which one to drill into and will only return the highest or lowest value within your dataset."
       isCorrect: false
-      explanation: AI splits work by considering all available fields and determining which one to drill into to get the highest/lowest value of the measure that is being analyzed.
-    - content: AI splits work by considering all available fields and determining which one to drill into to get the highest/lowest value of the measure that is being analyzed.
+      explanation: "Incorrect. AI splits work by considering all available fields and determining which one to drill into to get the highest/lowest value of the measure that is being analyzed."
+    - content: "AI splits work by considering all available fields and determining which one to drill into to get the highest/lowest value of the measure that is being analyzed."
       isCorrect: true
-      explanation: AI splits work by considering all available fields and determining which one to drill into to get the highest/lowest value of the measure that is being analyzed.
-    - content: AI splits only display the difference between highest and lowest value of the measure that is being analyzed.
-      isCorrect: false 
-      explanation: AI splits work by considering all available fields and determining which one to drill into to get the highest/lowest value of the measure that is being analyzed.
-  - content: Can you access the Q&A feature by using buttons?
-    choices: 
-    - content: No, to use the Q&A feature, you will need to add the Q&A visual to your reporting canvas.
+      explanation: "Correct. AI splits work by considering all available fields and determining which one to drill into to get the highest/lowest value of the measure that is being analyzed."
+    - content: "AI splits only display the difference between highest and lowest value of the measure that is being analyzed."
       isCorrect: false
-      explanation: Yes, you can access the Q&A feature by selecting the Q&A button type.
-    - content: Yes, you can access the Q&A feature by selecting Q&A button type.
-      isCorrect: true 
-      explanation: Yes, you can access the Q&A feature by selecting the Q&A button type.
-    - content: Yes, you can, but you will need to add the Q&A visual to your reporting canvas and then link your button with the visual that you have added.
-      isCorrect: false 
-      explanation: Yes, you can access the Q&A feature by selecting the Q&A button type.
-  - content: Which of the following selections are not features of the Q&A visual?
-    choices: 
-    - content: Adding new synonyms to fields through Q&A tooling.
+      explanation: "Incorrect. AI splits work by considering all available fields and determining which one to drill into to get the highest/lowest value of the measure that is being analyzed."
+  - content: "Can you access the Q&A feature by using buttons?"
+    choices:
+    - content: "No, to use the Q&A feature, you will need to add the Q&A visual to your reporting canvas."
       isCorrect: false
-      explanation: Searching for help topics about Power BI is not a feature of the Q&A visual. 
-    - content: Converting a Q&A answer into a visual inside your report.
-      isCorrect: false 
-      explanation: Searching for help topics about Power BI is not a feature of the Q&A visual. 
-    - content: Searching for help topics about Power BI.
+      explanation: "Incorrect. Yes, you can access the Q&A feature by selecting the Q&A button type."
+    - content: "Yes, you can access the Q&A feature by selecting Q&A button type."
       isCorrect: true
-      explanation: Searching for help topics about Power BI is not a feature of the Q&A visual. 
-  - content: What does the decomposition tree NOT enable you to do?
-    choices: 
-    - content: Conduct root cause analysis to understand a measure better.
+      explanation: "Correct. Yes, you can access the Q&A feature by selecting the Q&A button type."
+    - content: "Yes, you can, but you will need to add the Q&A visual to your reporting canvas and then link your button with the visual that you have added."
       isCorrect: false
-      explanation: The decomposition tree does not conduct what-if analysis with built-in parameters. 
-    - content: Conduct what-if analysis with built-in parameters.
+      explanation: "Incorrect. Yes, you can access the Q&A feature by selecting the Q&A button type."
+  - content: "Which of the following selections is a feature of the Q&A visual?"
+    choices:
+    - content: "Adding new synonyms to fields through Q&A tooling."
+      isCorrect: false
+      explanation: "Incorrect. Searching for help topics about Power BI is not a feature of the Q&A visual."
+    - content: "Converting a Q&A answer into a visual inside your report."
+      isCorrect: false
+      explanation: "Incorrect. Searching for help topics about Power BI is not a feature of the Q&A visual."
+    - content: "Searching for help topics about Power BI."
       isCorrect: true
-      explanation: The decomposition tree does not conduct what-if analysis with built-in parameters. 
-    - content: Automatically analyze selected dimensions to find where a measure is highest or lowest.
-      isCorrect: false 
-      explanation: The decomposition tree does not conduct what-if analysis with built-in parameters. 
+      explanation: "Correct. Searching for help topics about Power BI is not a feature of the Q&A visual."
+  - content: "What does the decomposition tree NOT enable you to do?"
+    choices:
+    - content: "Conduct root cause analysis to understand a measure better."
+      isCorrect: false
+      explanation: "Incorrect. The decomposition tree does not conduct what-if analysis with built-in parameters."
+    - content: "Conduct what-if analysis with built-in parameters."
+      isCorrect: true
+      explanation: "Correct. The decomposition tree does not conduct what-if analysis with built-in parameters."
+    - content: "Searching for help topics about Power BI."
+      isCorrect: false
+      explanation: "Incorrect. Automatically analyze selected dimensions to find where a measure is highest or lowest."
