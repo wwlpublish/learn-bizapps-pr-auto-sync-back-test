@@ -1,3 +1,6 @@
+[!include[](../../../power-bi/includes/unit-banner.md)]
+
+
 How context affects DAX measures is a difficult concept to comprehend. The ensuing visuals will demonstrate how context affects DAX measures so you can see how they interact together.
 
 The following three visuals use the exact same DAX measure: Total Sales.

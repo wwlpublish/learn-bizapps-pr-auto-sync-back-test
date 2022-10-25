@@ -1,3 +1,5 @@
+[!include[](../../../power-bi/includes/unit-banner.md)]
+
 All data analysts will have to deal with time. Dates are important, so we highly recommend that you create or import a dates table. This approach will help make date and time calculations much simpler in DAX.
 
 While some time calculations are simple to do in DAX, others are more difficult. For instance, the following screenshot shows what happens if you want to display a running total.

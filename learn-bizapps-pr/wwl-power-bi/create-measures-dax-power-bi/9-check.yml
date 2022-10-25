@@ -1,48 +1,51 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.create-measures-dax-power-bi.9-check 
-title: Check your knowledge 
-metadata: 
- title: Check your knowledge 
- description: Answer the following questions to see what you've learned. 
- ms.date: 04/15/2022
- author: heyrob 
- ms.author: robde 
- ms.topic: interactive-tutorial 
- ms.service: powerbi 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-measures-dax-power-bi.9-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Answer the following questions to see what you've learned."
+  ms.date: 10/25/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
 durationInMinutes: 5
-quiz: 
-  title: Answer the following questions to see what you've learned. 
-  questions: 
-  - content: Which two functions will help you compare dates to the previous month? 
-    choices: 
-    - content: CALCULATE and PREVIOUSMONTH
-      isCorrect: true 
-      explanation: CALCULATE and PREVIOUSMONTH help you compare dates to the previous month. 
-    - content: TOTALYTD and PREVIOUS MONTH
-      isCorrect: false 
-      explanation: CALCULATE and PREVIOUSMONTH help you compare dates to the previous month. 
-    - content: CALCULATE and TOTALTYD
-      isCorrect: false 
-      explanation: CALCULATE and PREVIOUSMONTH help you compare dates to the previous month. 
-  - content: Why would you want to override the default context?
-    choices: 
-    - content: To create measures that behave according to your intentions, regardless of what the user selects.
-      isCorrect: true 
-      explanation: You would want to override the default context to create measures that behave according to your intentions, regardless of what the user selects.
-    - content: To create measures that do not summarize or average.
-      isCorrect: false 
-      explanation: You would want to override the default context to create measures that behave according to your intentions, regardless of what the user selects.
-    - content: To create new relationships.
-      isCorrect: false 
-      explanation: You would want to override the default context to create measures that behave according to your intentions, regardless of what the user selects.
-  - content: How do you use an inactive relationship in a single measure?
-    choices: 
-    - content: Change the active relationship in the Modeling tab.
+content: |
+  [!include[](includes/9-check.md)]
+quiz:
+  questions:
+  - content: "Which two functions will help you compare dates to the previous month?"
+    choices:
+    - content: "CALCULATE and PREVIOUSMONTH"
+      isCorrect: true
+      explanation: "CALCULATE and PREVIOUSMONTH help you compare dates to the previous month."
+    - content: "TOTALYTD and PREVIOUS MONTH"
       isCorrect: false
-      explanation: This action will change how all measures work, not just one measure.
-    - content: Use the USERELATIONSHIP function.
-      isCorrect: true 
-      explanation: This function will change which relationship is used in a single measure.
-    - content: Delete one relationship.
-      isCorrect: false 
-      explanation: This action will change how all measures work, not just one measure.
+      explanation: "CALCULATE and PREVIOUSMONTH help you compare dates to the previous month."
+    - content: "CALCULATE and TOTALTYD"
+      isCorrect: false
+      explanation: "CALCULATE and PREVIOUSMONTH help you compare dates to the previous month."
+  - content: "Why would you want to override the default context?"
+    choices:
+    - content: "To create measures that behave according to your intentions, regardless of what the user selects."
+      isCorrect: true
+      explanation: "You would want to override the default context to create measures that behave according to your intentions, regardless of what the user selects."
+    - content: "To create measures that do not summarize or average."
+      isCorrect: false
+      explanation: "You would want to override the default context to create measures that behave according to your intentions, regardless of what the user selects."
+    - content: "To create new relationships."
+      isCorrect: false
+      explanation: "You would want to override the default context to create measures that behave according to your intentions, regardless of what the user selects."
+  - content: "How do you use an inactive relationship in a single measure?"
+    choices:
+    - content: "Change the active relationship in the Modeling tab."
+      isCorrect: false
+      explanation: "This action will change how all measures work, not just one measure."
+    - content: "Use the USERELATIONSHIP function."
+      isCorrect: true
+      explanation: "This function will change which relationship is used in a single measure."
+    - content: "Delete one relationship."
+      isCorrect: false
+      explanation: "This action will change how all measures work, not just one measure."

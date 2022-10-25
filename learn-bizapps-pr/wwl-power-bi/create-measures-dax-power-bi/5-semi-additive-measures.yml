@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.create-measures-dax-power-bi.5-semi-additive-measures 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-measures-dax-power-bi.5-semi-additive-measures
 title: Create semi-additive measures
-metadata: 
-  title: Create semi-additive measures 
-  description: Learn about creating semi-additive measures.   
-  ms.date: 04/15/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
+metadata:
+  title: Create semi-additive measures
+  description: "Learn about creating semi-additive measures."
+  ms.date: 10/25/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
 durationInMinutes: 10
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/5-semi-additive-measures.md)] 
+content: |
+  [!include[](includes/5-semi-additive-measures.md)]
