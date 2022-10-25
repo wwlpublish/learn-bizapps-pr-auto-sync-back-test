@@ -1,18 +1,17 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.create-dashboards-power-bi.9-lab 
-title: Lab - Create a Power BI dashboard
-metadata: 
-  title: Lab - Create a Power BI dashboard 
-  description: In this exercise, you will create the sales monitoring dashboard.
-  ms.date: 07/13/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
-durationInMinutes: 45 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-dashboards-power-bi.9-lab
+title: Exercise - Create a Power BI dashboard
+metadata:
+  title: Lab - Create a Power BI dashboard
+  description: "In this exercise, you will create the sales monitoring dashboard."
+  ms.date: 10/25/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
 labId: 72679
 labModal: true
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](../../power-bi/includes/access-lab.md)]
- [!include[](includes/9-lab.md)] 
+durationInMinutes: 45
+content: |
+  [!include[](includes/9-lab.md)]

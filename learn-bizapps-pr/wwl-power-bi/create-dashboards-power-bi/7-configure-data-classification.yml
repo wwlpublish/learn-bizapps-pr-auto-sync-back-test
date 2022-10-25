@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.create-dashboards-power-bi.7-configure-data-classification 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-dashboards-power-bi.7-configure-data-classification
 title: Configure data classification
-metadata: 
-  title: Configure data classification 
-  description: Learn how to configure data classification.  
-  ms.date: 07/13/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
-durationInMinutes: 2 
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/7-configure-data-classification.md)] 
+metadata:
+  title: Configure data classification
+  description: "Learn how to configure data classification."
+  ms.date: 10/25/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 2
+content: |
+  [!include[](includes/7-configure-data-classification.md)]
