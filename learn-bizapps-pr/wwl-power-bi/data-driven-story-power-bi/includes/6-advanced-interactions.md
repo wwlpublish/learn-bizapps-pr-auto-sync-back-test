@@ -43,7 +43,7 @@ You can access the query reduction settings by selecting **File > Options and se
 
 ## Drill through
 
-You can use the **Drill through** feature to create a page in your report that focuses on a specific entity, such as a product, category, or region. You can then access this page when you drill through from the related visuals that are on other pages in your report. The information that displays on the drillthrough page will be specific to the item that you select on the visual, as illustrated in the following image.
+You can use the **Drill through** feature to create a page in your report that focuses on a specific entity, such as a product, category, or region. You can then access this page when you drill through from the related visuals that are on other pages in your report. The information that displays on the drillthrough page will be specific to the item that you select on the visual, as illustrated in the following image.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot showing drill-through example.](../media/6-drill-through-example-ssm.png)
