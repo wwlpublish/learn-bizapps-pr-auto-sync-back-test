@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.ai-visuals-power-bi.1-introduction 
-title: Introduction to working with AI visuals 
-metadata: 
-  title: Introduction to working with AI visuals  
-  description: Learn about working with AI visuals. 
-  ms.date: 08/31/2021 
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
-durationInMinutes: 2 
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/1-introduction.md)] 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.ai-visuals-power-bi.1-introduction
+title: Introduction to working with AI visuals
+metadata:
+  title: Introduction to working with AI visuals
+  description: "Learn about working with AI visuals."
+  ms.date: 10/25/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 2
+content: |
+  [!include[](includes/1-introduction.md)]

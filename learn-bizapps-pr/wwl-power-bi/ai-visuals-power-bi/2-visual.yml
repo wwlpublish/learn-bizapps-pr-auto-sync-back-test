@@ -3,13 +3,14 @@ uid: learn-bizapps.ai-visuals-power-bi.2-visual
 title: Use the Q&A visual
 metadata:
   title: Use the Q&A visual
-  description: Learn about using the Q&A visual.
-  ms.date: 08/31/2021
-  author: heyrob
-  ms.author: robde
+  description: "Learn about using the Q&amp;A visual."
+  ms.date: 10/25/2022
+  author: wwlpublish
+  ms.author: anrudduc
   ms.topic: interactive-tutorial
   ms.service: powerbi
+azureSandbox: false
+labModal: false
 durationInMinutes: 5
 content: |
- [!include[](../../power-bi/includes/unit-banner.md)]
- [!include[](includes/2-visual.md)]
+  [!include[](includes/2-visual.md)]
