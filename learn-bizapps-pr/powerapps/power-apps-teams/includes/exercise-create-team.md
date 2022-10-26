@@ -244,9 +244,6 @@ To create tables in Dataverse for Teams, follow these steps:
 
 1. Add lookup fields into the Requests table. Select the **More actions** ellipsis (**...**) of the Requests table and then select **Edit table**.
 
-	> [!div class="mx-imgBorder"]
-	> [![Screenshot of Requests table and the Edit data button.](../media/edit-data.png)](../media/edit-data.png#lightbox)
-
 1. Select **+ New column**.
 
 1. Enter **Asset Category** in the **Display name** field, select **Lookup** from the **Date type** dropdown menu, select **Asset Category** from the **Related table** dropdown menu, and then select **Save**.
