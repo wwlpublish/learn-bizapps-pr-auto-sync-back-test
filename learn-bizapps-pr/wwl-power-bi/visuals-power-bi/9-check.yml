@@ -43,7 +43,7 @@ quiz:
     - content: "An icon that users can select to open Q&A tooling, which allows designers to configure the underlying natural language engine."
       isCorrect: false
       explanation: "Automatic creation of a custom tooltip isn't one of the four components in the Q&A visualization."
-  - content: "Do you need to import custom visuals each time you want to use them when you are developing a new report, not an existing report?"
+  - content: "Do you need to import custom visuals each time you want to use them when you're developing a new report, not an existing report?"
     choices:
     - content: "No, custom visuals are always available for selection under the Visualization pane."
       isCorrect: false
