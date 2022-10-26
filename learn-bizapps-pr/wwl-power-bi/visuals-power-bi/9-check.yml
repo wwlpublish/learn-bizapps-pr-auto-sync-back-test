@@ -26,23 +26,23 @@ quiz:
     - content: "To give users the ability to export data from the visual."
       isCorrect: false
       explanation: "The benefit of using a report tooltip is it provides additional detail that is specific to the context of the data that is being hovered over."
-  - content: "Which of the following options is not one of the four components in the Q&A visualization?"
+  - content: "Which of the following options isn't one of the four components in the Q&A visualization?"
     choices:
     - content: "The question box, where users enter their question and are shown suggestions to help them complete their question."
       isCorrect: false
-      explanation: "Automatic creation of a custom tooltip is not one of the four components in the Q&A visualization."
+      explanation: "Automatic creation of a custom tooltip isn't one of the four components in the Q&A visualization."
     - content: "A pre-populated list of suggested questions"
       isCorrect: false
-      explanation: "Automatic creation of a custom tooltip is not one of the four components in the Q&A visualization."
+      explanation: "Automatic creation of a custom tooltip isn't one of the four components in the Q&A visualization."
     - content: "Automatic creation of a custom tooltip"
       isCorrect: true
-      explanation: "Automatic creation of a custom tooltip is not one of the four components in the Q&A visualization."
+      explanation: "Automatic creation of a custom tooltip isn't one of the four components in the Q&A visualization."
     - content: "An icon that users can select to convert the Q&A visual into a standard visual."
       isCorrect: false
-      explanation: "Automatic creation of a custom tooltip is not one of the four components in the Q&A visualization."
+      explanation: "Automatic creation of a custom tooltip isn't one of the four components in the Q&A visualization."
     - content: "An icon that users can select to open Q&A tooling, which allows designers to configure the underlying natural language engine."
       isCorrect: false
-      explanation: "Automatic creation of a custom tooltip is not one of the four components in the Q&A visualization."
+      explanation: "Automatic creation of a custom tooltip isn't one of the four components in the Q&A visualization."
   - content: "Do you need to import custom visuals each time you want to use them when you are developing a new report, not an existing report?"
     choices:
     - content: "No, custom visuals are always available for selection under the Visualization pane."
