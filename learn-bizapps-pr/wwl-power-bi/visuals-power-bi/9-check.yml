@@ -1,54 +1,56 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.visuals-power-bi.9-check 
-title: Check your knowledge 
-metadata: 
- title: Check your knowledge 
- description: Answer the following questions to see what you've learned. 
- ms.date: 06/03/22
- author: heyrob 
- ms.author: robde 
- ms.topic: interactive-tutorial 
- ms.service: powerbi 
-durationInMinutes: 3 
-quiz: 
-  title: Answer the following questions to see what you've learned. 
-  questions: 
-  - content: What is the benefit of using a report tooltip?
-    choices: 
-    - content: To give users additional information about a report visual, such as the author and date/time it was created.
+### YamlMime:ModuleUnit
+uid: learn-bizapps.visuals-power-bi.9-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Answer the following questions to see what you've learned."
+  ms.date: 10/26/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+quiz:
+  title: "Answer the following questions to see what you've learned."
+  questions:
+  - content: "What is the benefit of using a report tooltip?"
+    choices:
+    - content: "To give users additional information about a report visual, such as the author and date/time it was created."
       isCorrect: false
-      explanation: The benefit of using a report tooltip is it provides additional detail that is specific to the context of the data that is being hovered over. 
-    - content: To provide additional detail that is specific to the context of the data that is being hovered over.
-      isCorrect: true 
-      explanation: The benefit of using a report tooltip is it provides additional detail that is specific to the context of the data that is being hovered over. 
-    - content: To give users the ability to export data from the visual.
-      isCorrect: false 
-      explanation: The benefit of using a report tooltip is it provides additional detail that is specific to the context of the data that is being hovered over. 
-  - content: Which of the following options is not one of the four components in the Q&A visualization?
-    choices: 
-    - content: The question box, where users enter their question and are shown suggestions to help them complete their question.
+      explanation: "The benefit of using a report tooltip is it provides additional detail that is specific to the context of the data that is being hovered over."
+    - content: "To provide additional detail that is specific to the context of the data that is being hovered over."
+      isCorrect: true
+      explanation: "The benefit of using a report tooltip is it provides additional detail that is specific to the context of the data that is being hovered over."
+    - content: "To give users the ability to export data from the visual."
       isCorrect: false
-      explanation: Automatic creation of a custom tooltip is not one of the four components in the Q&A visualization. 
-    - content: A pre-populated list of suggested questions
-      isCorrect: false 
-      explanation: Automatic creation of a custom tooltip is not one of the four components in the Q&A visualization. 
-    - content: Automatic creation of a custom tooltip
-      isCorrect: true 
-      explanation: Automatic creation of a custom tooltip is not one of the four components in the Q&A visualization. 
-    - content: An icon that users can select to convert the Q&A visual into a standard visual.
-      isCorrect: false 
-      explanation: Automatic creation of a custom tooltip is not one of the four components in the Q&A visualization. 
-    - content: An icon that users can select to open Q&A tooling, which allows designers to configure the underlying natural language engine.
-      isCorrect: false 
-      explanation: Automatic creation of a custom tooltip is not one of the four components in the Q&A visualization. 
-  - content: Do you need to import custom visuals each time you want to use them when you are developing a new report, not an existing report?
-    choices: 
-    - content: No, custom visuals are always available for selection under the Visualization pane.
+      explanation: "The benefit of using a report tooltip is it provides additional detail that is specific to the context of the data that is being hovered over."
+  - content: "Which of the following options isn't one of the four components in the Q&A visualization?"
+    choices:
+    - content: "The question box, where users enter their question and are shown suggestions to help them complete their question."
       isCorrect: false
-      explanation: Custom visuals must be imported each time you start developing a new report, but already imported visuals will be available next time you open the report.
-    - content: Yes, custom visuals must be imported from AppSource each time you start developing a new report.
-      isCorrect: true 
-      explanation: Custom visuals must be imported each time you start developing a new report. 
-    - content: No, custom visuals only need to be imported once and will always remain in Power BI for future use in a new report.
-      isCorrect: false 
-      explanation: Custom visuals must be imported each time you start developing a new report. 
+      explanation: "Automatic creation of a custom tooltip isn't one of the four components in the Q&A visualization."
+    - content: "A pre-populated list of suggested questions"
+      isCorrect: false
+      explanation: "Automatic creation of a custom tooltip isn't one of the four components in the Q&A visualization."
+    - content: "Automatic creation of a custom tooltip"
+      isCorrect: true
+      explanation: "Automatic creation of a custom tooltip isn't one of the four components in the Q&A visualization."
+    - content: "An icon that users can select to convert the Q&A visual into a standard visual."
+      isCorrect: false
+      explanation: "Automatic creation of a custom tooltip isn't one of the four components in the Q&A visualization."
+    - content: "An icon that users can select to open Q&A tooling, which allows designers to configure the underlying natural language engine."
+      isCorrect: false
+      explanation: "Automatic creation of a custom tooltip isn't one of the four components in the Q&A visualization."
+  - content: "Do you need to import custom visuals each time you want to use them when you're developing a new report, not an existing report?"
+    choices:
+    - content: "No, custom visuals are always available for selection under the Visualization pane."
+      isCorrect: false
+      explanation: "Custom visuals must be imported each time you start developing a new report, but already imported visuals will be available next time you open the report."
+    - content: "yes, custom visuals must be imported from AppSource each time you start developing a new report."
+      isCorrect: true
+      explanation: "Custom visuals must be imported each time you start developing a new report."
+    - content: "No, custom visuals only need to be imported once and will always remain in Power BI for future use in a new report."
+      isCorrect: false
+      explanation: "Custom visuals must be imported each time you start developing a new report."

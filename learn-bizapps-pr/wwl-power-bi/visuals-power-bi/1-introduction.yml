@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.visuals-power-bi.1-introduction 
-title: Introduction to work with Power BI visuals 
-metadata: 
-  title: Introduction to work with Power BI visuals  
-  description: Learn about working with Power BI visuals 
-  ms.date: 03/18/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.visuals-power-bi.1-introduction
+title: Introduction to work with Power BI visuals
+metadata:
+  title: Introduction to work with Power BI visuals
+  description: "Learn about working with Power BI visuals"
+  ms.date: 10/26/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
 durationInMinutes: 1
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/1-introduction.md)] 
+content: |
+  [!include[](includes/1-introduction.md)]

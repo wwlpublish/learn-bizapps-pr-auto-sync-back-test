@@ -4,7 +4,7 @@ After you've loaded and modeled your organization's data in Power BI Desktop, yo
 
 Consider a scenario where you work as a Power BI developer for Tailwind Traders. Your organization wants to transform the way that it presents its data to management and stakeholders. It wants to replace the current text and tabular report format with a more visual approach so that users will find the reports more interesting. Additionally, by using a visual approach, the company can provide users with quicker, easier access to the information that they need to make their business decisions. You are tasked with creating a Power BI report that is based on a combination of visuals that are customized to match your organization's branding and report presentation requirements.
 
-By the end of this module, you will be able to: 
+By the end of this module, you will be able to: 
 
 -   Add visualization items to reports.
 

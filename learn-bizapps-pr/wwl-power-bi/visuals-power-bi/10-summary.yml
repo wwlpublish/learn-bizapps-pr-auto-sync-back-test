@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.visuals-power-bi.10-summary 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.visuals-power-bi.10-summary
 title: Summary
-metadata: 
-  title: Summary 
-  description: Summary of visuals in Power BI.  
-  ms.date: 03/18/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
-durationInMinutes: 1 
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/10-summary.md)] 
+metadata:
+  title: Summary
+  description: "Summary of visuals in Power BI."
+  ms.date: 10/26/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 1
+content: |
+  [!include[](includes/10-summary.md)]
