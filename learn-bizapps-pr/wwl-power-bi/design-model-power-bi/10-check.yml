@@ -1,57 +1,59 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.design-model-power-bi.10-check 
-title: Check your knowledge 
-metadata: 
- title: Check your knowledge 
- description: Answer the following questions to see what you've learned. 
- ms.date: 07/04/2022
- author: heyrob 
- ms.author: robde 
- ms.topic: interactive-tutorial 
- ms.service: powerbi 
-durationInMinutes: 3 
-quiz: 
-  title: Answer the following questions to see what you've learned. 
-  questions: 
-  - content: What does data granularity mean?
-    choices: 
-    - content: Data granularity is the filter direction that is associated with the relationship between two columns.
+### YamlMime:ModuleUnit
+uid: learn-bizapps.design-model-power-bi.10-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Answer the following questions to see what you've learned."
+  ms.date: 10/26/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+quiz:
+  title: "Answer the following questions to see what you've learned."
+  questions:
+  - content: "What does data granularity mean?"
+    choices:
+    - content: "Data granularity is the filter direction that is associated with the relationship between two columns."
       isCorrect: false
-      explanation: Data granularity is the level of detail that is represented within the data.
-    - content: Data granularity is the level of detail that is represented in the data.
+      explanation: "Data granularity is the level of detail that is represented within the data."
+    - content: "Data granularity is the level of detail that is represented in the data."
       isCorrect: true
-      explanation: Data granularity indicates the level the detail within the data, so the higher the granularity, the more detail that is represented in the data.
-    - content: Data granularity is a many-to-many relationship.
-      isCorrect: false 
-      explanation: Data granularity is the level of the detail that is represented in the data.
-    - content: Data granularity is a type of schema design.
-      isCorrect: false 
-      explanation: Data granularity is the level of detail that is represented in the data.
-  - content: What is the difference between a fact table and a dimension table?
-    choices: 
-    - content: Fact tables contain observational data while dimension tables contain information about specific entities within the data.
-      isCorrect: true 
-      explanation: Fact tables contain observational data such as sales orders, employees, shipping dates, and so on, while dimension tables contain information about specific entities such as product IDs and dates.
-    - content: Fact tables contain information about specific entities while dimension tables contain information about observational data.
-      isCorrect: false 
-      explanation: Fact tables contain observational data such as sales orders, employees, shipping dates, and so on, while dimension tables contain information about specific entities such as product IDs and dates.
-    - content: There is no difference.
-      isCorrect: false 
-      explanation: Fact tables contain observational data such as sales orders, employees, shipping dates, and so on, while dimension tables contain information about specific entities such as product IDs and dates.
-    - content: Dimension tables tell you about specific roles in Power BI while fact tables tell you information about facts that are associated with those roles in Power BI.
-      isCorrect: false 
-      explanation: Fact tables contain observational data such as sales orders, employees, shipping dates, and so on, while dimension tables contain information about specific entities such as product IDs and dates.
-  - content: What is cardinality?
-    choices: 
-    - content: Cardinality is the measure of unique values in a table.
-      isCorrect: true 
-      explanation: An example of high cardinality would be a Sales table as it has a high number of unique values.
-    - content: Cardinality is the granularity of the data.
-      isCorrect: false 
-      explanation: Cardinality is the directionality that is associated with a relationship.
-    - content: Cardinality is how long it takes for the data to load.
-      isCorrect: false 
-      explanation: Cardinality is the directionality that is associated with a relationship.
-    - content: Cardinality is a type of visual element.
-      isCorrect: false 
-      explanation: Cardinality is the directionality that is associated with a relationship.
+      explanation: "Data granularity indicates the level the detail within the data, so the higher the granularity, the more detail that is represented in the data."
+    - content: "Data granularity is a many-to-many relationship."
+      isCorrect: false
+      explanation: "Data granularity is the level of the detail that is represented in the data."
+    - content: "Data granularity is a type of schema design."
+      isCorrect: false
+      explanation: "Data granularity is the level of detail that is represented in the data."
+  - content: "What is the difference between a fact table and a dimension table?"
+    choices:
+    - content: "Fact tables contain observational data while dimension tables contain information about specific entities within the data."
+      isCorrect: true
+      explanation: "Fact tables contain observational data such as sales orders, employees, shipping dates, and so on, while dimension tables contain information about specific entities such as product IDs and dates."
+    - content: "Fact tables contain information about specific entities while dimension tables contain information about observational data."
+      isCorrect: false
+      explanation: "Fact tables contain observational data such as sales orders, employees, shipping dates, and so on, while dimension tables contain information about specific entities such as product IDs and dates."
+    - content: "There is no difference."
+      isCorrect: false
+      explanation: "Fact tables contain observational data such as sales orders, employees, shipping dates, and so on, while dimension tables contain information about specific entities such as product IDs and dates."
+    - content: "Dimension tables tell you about specific roles in Power BI while fact tables tell you information about facts that are associated with those roles in Power BI."
+      isCorrect: false
+      explanation: "Fact tables contain observational data such as sales orders, employees, shipping dates, and so on, while dimension tables contain information about specific entities such as product IDs and dates."
+  - content: "What is cardinality?"
+    choices:
+    - content: "Cardinality is the measure of unique values in a table."
+      isCorrect: true
+      explanation: "An example of high cardinality would be a Sales table as it has a high number of unique values."
+    - content: "Cardinality is the granularity of the data."
+      isCorrect: false
+      explanation: "Cardinality is the directionality that is associated with a relationship."
+    - content: "Cardinality is how long it takes for the data to load."
+      isCorrect: false
+      explanation: "Cardinality is the directionality that is associated with a relationship."
+    - content: "Cardinality is a type of visual element."
+      isCorrect: false
+      explanation: "Cardinality is the directionality that is associated with a relationship."
