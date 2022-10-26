@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.design-model-power-bi.7-modeling-challenges 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.design-model-power-bi.7-modeling-challenges
 title: Resolve modeling challenges
-metadata: 
-  title: Resolve modeling challenges 
-  description: Learn how to resolve modeling challenges.  
-  ms.date: 07/04/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
-durationInMinutes: 2 
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/7-modeling-challenges.md)] 
+metadata:
+  title: Resolve modeling challenges
+  description: "Learn how to resolve modeling challenges."
+  ms.date: 10/26/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 2
+content: |
+  [!include[](includes/7-modeling-challenges.md)]

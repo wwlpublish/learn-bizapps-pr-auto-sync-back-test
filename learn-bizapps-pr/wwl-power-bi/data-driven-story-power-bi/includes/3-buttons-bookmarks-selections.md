@@ -24,9 +24,9 @@ When you add a bookmark, the following elements are saved with it:
 
 -   Drill location
 
--   Visibility of an object (by using the **Selection** pane)
+-   Visibility of an object (by using the **Selection** pane)
 
--   Focus or Spotlight modes of any visible object
+-   Focus or Spotlight modes of any visible object
 
 In this example, you want to add bookmarks to allow users to switch between two visuals on one page. First, you need to set up how you want the page to initially display.
 

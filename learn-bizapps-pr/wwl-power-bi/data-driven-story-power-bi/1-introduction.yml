@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.data-driven-story-power-bi.1-introduction 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-driven-story-power-bi.1-introduction
 title: Introduction to create a data-driven story with Power BI reports
-metadata: 
+metadata:
   title: Introduction to create a data-driven story with Power BI reports
-  description: Learn how to create a data-driven story with Power BI reports. 
-  ms.date: 07/08/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
-durationInMinutes: 2 
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/1-introduction.md)] 
+  description: "Learn how to create a data-driven story with Power BI reports."
+  ms.date: 10/26/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 2
+content: |
+  [!include[](includes/1-introduction.md)]

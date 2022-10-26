@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.data-driven-story-power-bi.4-report-navigation 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-driven-story-power-bi.4-report-navigation
 title: Design report navigation
-metadata: 
-  title: Design report navigation 
-  description: Learn how to design report navigation.  
-  ms.date: 07/08/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
+metadata:
+  title: Design report navigation
+  description: "Learn how to design report navigation."
+  ms.date: 10/26/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
 durationInMinutes: 3
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/4-report-navigation.md)] 
+content: |
+  [!include[](includes/4-report-navigation.md)]

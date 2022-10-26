@@ -1,56 +1,55 @@
-### YamlMime:Module 
-uid: learn-bizapps.data-driven-story-power-bi 
-metadata: 
- title: Create a data-driven story with Power BI reports
- description: Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.
- ms.date: 07/08/2022
- author: heyrob  
- ms.author: robde  
- ms.topic: interactive-tutorial  
- ms.service: powerbi  
-title: Create a data-driven story with Power BI reports 
-summary: |  
-  [!include[](../../power-bi/includes/module-banner.md)] 
-  Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports. 
-abstract: |  
-    In this module, you will: 
-    - Design a report layout.
-    - Add buttons, bookmarks, and selections.
-    - Design report navigation.
-    - Use basic interactions.
-    - Use advanced interactions and drillthrough.
-    - Configure conditional formatting. 
-    - Apply slicing, filtering, and sorting.
-    - Publish and export reports. 
-    - Comment on reports.
-    - Use Performance analyzer to tune reports. 
-    - Optimize reports for mobile use.
-prerequisites: None 
-iconUrl: /training/achievements/create-reports-with-power-bi-desktop.svg  
-levels:  
-- intermediate   
-roles:  
-- data-analyst  
-products:   
-- power-bi 
+### YamlMime:Module
+uid: learn-bizapps.data-driven-story-power-bi
+metadata:
+  title: Create a data-driven story with Power BI reports
+  description: "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports."
+  ms.date: 10/26/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+title: Create a data-driven story with Power BI reports
+summary: Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.
+abstract: |
+  In this module, you will:
+  - Design a report layout.
+  - Add buttons, bookmarks, and selections.
+  - Design report navigation.
+  - Use basic interactions.
+  - Use advanced interactions and drillthrough.
+  - Configure conditional formatting.
+  - Apply slicing, filtering, and sorting.
+  - Publish and export reports.
+  - Comment on reports.
+  - Use Performance analyzer to tune reports.
+  - Optimize reports for mobile use.
+prerequisites: |
+  None
+iconUrl: /training/achievements/create-reports-with-power-bi-desktop.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
 - power-platform
 subjects:
- - data-visualization
-units: 
-- learn-bizapps.data-driven-story-power-bi.1-introduction 
-- learn-bizapps.data-driven-story-power-bi.2-report-layout 
-- learn-bizapps.data-driven-story-power-bi.3-buttons-bookmarks-selections 
-- learn-bizapps.data-driven-story-power-bi.4-report-navigation 
-- learn-bizapps.data-driven-story-power-bi.5-basic-interactions 
-- learn-bizapps.data-driven-story-power-bi.6-advanced-interactions 
-- learn-bizapps.data-driven-story-power-bi.7-conditional-formatting 
-- learn-bizapps.data-driven-story-power-bi.8-slicer-filters-sort 
-- learn-bizapps.data-driven-story-power-bi.9-reports 
-- learn-bizapps.data-driven-story-power-bi.10-comment 
-- learn-bizapps.data-driven-story-power-bi.11-tune-reports 
-- learn-bizapps.data-driven-story-power-bi.12-reports-mobile 
-- learn-bizapps.data-driven-story-power-bi.13-lab 
-- learn-bizapps.data-driven-story-power-bi.14-check 
-- learn-bizapps.data-driven-story-power-bi.15-summary 
-badge: 
-  uid: learn-bizapps.data-driven-story-power-bi.badge 
+- data-visualization
+units:
+- learn-bizapps.data-driven-story-power-bi.1-introduction
+- learn-bizapps.data-driven-story-power-bi.2-report-layout
+- learn-bizapps.data-driven-story-power-bi.3-buttons-bookmarks-selections
+- learn-bizapps.data-driven-story-power-bi.4-report-navigation
+- learn-bizapps.data-driven-story-power-bi.5-basic-interactions
+- learn-bizapps.data-driven-story-power-bi.6-advanced-interactions
+- learn-bizapps.data-driven-story-power-bi.7-conditional-formatting
+- learn-bizapps.data-driven-story-power-bi.8-slicer-filters-sort
+- learn-bizapps.data-driven-story-power-bi.9-reports
+- learn-bizapps.data-driven-story-power-bi.10-comment
+- learn-bizapps.data-driven-story-power-bi.11-tune-reports
+- learn-bizapps.data-driven-story-power-bi.12-reports-mobile
+- learn-bizapps.data-driven-story-power-bi.13-lab
+- learn-bizapps.data-driven-story-power-bi.14-check
+- learn-bizapps.data-driven-story-power-bi.15-summary
+badge:
+  uid: learn-bizapps.data-driven-story-power-bi.badge
