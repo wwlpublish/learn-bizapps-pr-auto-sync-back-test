@@ -57,7 +57,7 @@ In the following screenshot, the source data in the csv file for SalesTarget (sa
 months, both of which are organized into columns. 
 
 > [!div class="mx-imgBorder"]
-> [![Original excel data](../media/02-identify-columns.ss.png)](../media/02-identify-columns.ss.png#lightbox)
+> [![Original excel data](../media/02-identify-columns-ss.png)](../media/02-identify-columns-ss.png#lightbox)
 
 However, you notice that the data did not import as expected.
 
