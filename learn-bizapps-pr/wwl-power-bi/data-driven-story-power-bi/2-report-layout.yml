@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-driven-story-power-bi.2-report-layout
+title: Design a report layout
+metadata:
+  title: Design a report layout
+  description: "Learn how to design a report layout."
+  ms.date: 10/26/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 13
+content: |
+  [!include[](includes/2-report-layout.md)]

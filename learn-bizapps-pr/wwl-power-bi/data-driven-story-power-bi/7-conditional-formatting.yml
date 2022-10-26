@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-driven-story-power-bi.7-conditional-formatting
+title: Configure conditional formatting
+metadata:
+  title: Configure conditional formatting
+  description: "Learn how to configure conditional formatting."
+  ms.date: 10/26/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 2
+content: |
+  [!include[](includes/7-conditional-formatting.md)]

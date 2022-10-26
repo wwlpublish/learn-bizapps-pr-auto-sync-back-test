@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.ai-visuals-power-bi.5-lab
+title: Exercise - Analyze data with AI visuals
+metadata:
+  title: Exercise - Analyze data with AI visuals
+  description: "In this lab, you will create the Sales Exploration report."
+  ms.date: 10/25/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labId: 72683
+labModal: true
+durationInMinutes: 45
+content: |
+  [!include[](includes/5-lab.md)]

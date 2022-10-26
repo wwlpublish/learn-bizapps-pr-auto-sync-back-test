@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-datasets-power-bi.5-dataset-refresh 
+title: Configure a dataset scheduled refresh
+metadata: 
+  title: Configure a dataset scheduled refresh 
+  description: Learn how to configure a scheduled refresh for a dataset.  
+  ms.date: 04/30/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 4 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/5-dataset-refresh.md)] 

@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-datasets-power-bi.10-check 
+title: Check your knowledge 
+metadata: 
+  title: Check your knowledge 
+  description: Answer the following questions to see what you've learned. 
+  ms.date: 04/30/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 3 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Where are dataset-scheduled refreshes configured?
+    choices: 
+    - content: Power BI service
+      isCorrect: true 
+      explanation: Dataset-scheduled refreshes are configured in Power BI service. 
+    - content: Power BI Desktop
+      isCorrect: false 
+      explanation: Dataset-scheduled refreshes are configured in Power BI service. 
+    - content: AppSource
+      isCorrect: false 
+      explanation: Dataset-scheduled refreshes are configured in Power BI service. 
+  - content: What reserved parameters configure the start and end of where Incremental refresh should occur?
+    choices: 
+    - content: Start and End parameters
+      isCorrect: false 
+      explanation: RangeStart and RangeEnd configure the start and end of where Incremental refresh should occur.
+    - content: StartRange and EndRange
+      isCorrect: false 
+      explanation: RangeStart and RangeEnd configure the start and end of where Incremental refresh should occur.
+    - content: RangeStart and RangeEnd
+      isCorrect: true 
+      explanation: RangeStart and RangeEnd configure the start and end of where Incremental refresh should occur.
+  - content: What is the difference between Promotion and Certification when you are endorsing a dataset?
+    choices: 
+    - content: Promotion requires write access while Certification requires permission from the dataset owner to access to the dataset.
+      isCorrect: false 
+      explanation: Promotion does not need specific permissions while Certification requires permission from the dataset owner to access to the dataset.
+    - content: Promotion is for broad usage while Certification needs permission granted on the Admin Tenant settings.
+      isCorrect: true 
+      explanation: Promotion does not need specific permissions while Certification requires permission from the dataset owner to access to the dataset.
+    - content: Promotion is for specific users while Certification needs permission granted on the Admin Tenant settings.
+      isCorrect: false 
+      explanation: Promotion does not need specific permissions while Certification requires permission from the dataset owner to access to the dataset.

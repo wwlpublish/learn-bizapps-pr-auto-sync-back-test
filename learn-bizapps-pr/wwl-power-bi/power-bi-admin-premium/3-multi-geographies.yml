@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-premium.3-multi-geographies 
+title: Supporting multi geographies
+metadata: 
+  title: Supporting multi geographies 
+  description: Learn about the multi geographies feature that helps multinational customers address requirements. 
+  ms.date: 04/30/2021 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/3-multi-geographies.md)] 

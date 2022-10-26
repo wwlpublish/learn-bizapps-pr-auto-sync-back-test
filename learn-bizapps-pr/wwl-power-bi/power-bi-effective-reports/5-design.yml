@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-reports.5-design 
+title: Explore visual selection and design
+metadata: 
+  title: Explore visual selection and design
+  description: Learn what to avoid through bad examples.
+  ms.date: 10/11/2021 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 10
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/5-design.md)] 

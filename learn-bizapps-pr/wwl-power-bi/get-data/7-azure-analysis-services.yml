@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-data.7-azure-analysis-services 
+title: Get data from Azure Analysis Services
+metadata: 
+  title: Get data from Azure Analysis Services 
+  description: Learn how to get data from Azure Analysis Services.  
+  ms.date: 08/09/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 2 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/7-azure-analysis-services.md)] 

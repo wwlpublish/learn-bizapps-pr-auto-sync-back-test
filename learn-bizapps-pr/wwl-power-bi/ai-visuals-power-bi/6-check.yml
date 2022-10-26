@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.ai-visuals-power-bi.6-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Answer the following questions to see what you've learned."
+  ms.date: 10/25/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 4
+quiz:
+  title: "Answer the following questions to see what you've learned."
+  questions:
+  - content: "What does the AI splits feature do?"
+    choices:
+    - content: "AI splits work by considering all available fields and determining which one to drill into and will only return the highest or lowest value within your dataset."
+      isCorrect: false
+      explanation: "Incorrect. AI splits work by considering all available fields and determining which one to drill into to get the highest/lowest value of the measure that is being analyzed."
+    - content: "AI splits work by considering all available fields and determining which one to drill into to get the highest/lowest value of the measure that is being analyzed."
+      isCorrect: true
+      explanation: "Correct. AI splits work by considering all available fields and determining which one to drill into to get the highest/lowest value of the measure that is being analyzed."
+    - content: "AI splits only display the difference between highest and lowest value of the measure that is being analyzed."
+      isCorrect: false
+      explanation: "Incorrect. AI splits work by considering all available fields and determining which one to drill into to get the highest/lowest value of the measure that is being analyzed."
+  - content: "Can you access the Q&A feature by using buttons?"
+    choices:
+    - content: "No, to use the Q&A feature, you will need to add the Q&A visual to your reporting canvas."
+      isCorrect: false
+      explanation: "Incorrect. Yes, you can access the Q&A feature by selecting the Q&A button type."
+    - content: "Yes, you can access the Q&A feature by selecting Q&A button type."
+      isCorrect: true
+      explanation: "Correct. Yes, you can access the Q&A feature by selecting the Q&A button type."
+    - content: "Yes, you can, but you will need to add the Q&A visual to your reporting canvas and then link your button with the visual that you have added."
+      isCorrect: false
+      explanation: "Incorrect. Yes, you can access the Q&A feature by selecting the Q&A button type."
+  - content: "Which of the following selections is a feature of the Q&A visual?"
+    choices:
+    - content: "Adding new synonyms to fields through Q&A tooling."
+      isCorrect: false
+      explanation: "Incorrect. Searching for help topics about Power BI is not a feature of the Q&A visual."
+    - content: "Converting a Q&A answer into a visual inside your report."
+      isCorrect: false
+      explanation: "Incorrect. Searching for help topics about Power BI is not a feature of the Q&A visual."
+    - content: "Searching for help topics about Power BI."
+      isCorrect: true
+      explanation: "Correct. Searching for help topics about Power BI is not a feature of the Q&A visual."

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-infrastructure.9-multiple-data-sources 
+title: Multiple data sources per gateway
+metadata: 
+  title: Multiple data sources per gateway 
+  description: Learn about multiple data sources per gateway.  
+  ms.date: 04/30/2021 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/9-multiple-data-sources.md)] 

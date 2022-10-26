@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-data.lab-prepare
+title: Lab - Prepare data in Power BI Desktop
+metadata: 
+  title: Lab - Prepare data in Power BI Desktop
+  description: In this lab, you connect to the classroom virtual machine and setup the environment. Before commencing this lab, you must have received an account and password. It’s important that you complete the labs by using the provided account.
+  ms.date: 08/09/2022
+  author: heyrob
+  ms.author: robde
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+durationInMinutes: 45
+labId: 72670
+labModal: true
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](../../power-bi/includes/access-lab.md)]
+ [!include[](includes/lab-prepare.md)] 

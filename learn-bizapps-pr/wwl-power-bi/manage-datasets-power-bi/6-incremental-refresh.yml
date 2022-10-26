@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-datasets-power-bi.6-incremental-refresh 
+title: Configure incremental refresh settings
+metadata: 
+  title: Configure incremental refresh settings 
+  description: Learn how to configure incremental refresh settings.  
+  ms.date: 04/30/2022
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 5 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/6-incremental-refresh.md)] 

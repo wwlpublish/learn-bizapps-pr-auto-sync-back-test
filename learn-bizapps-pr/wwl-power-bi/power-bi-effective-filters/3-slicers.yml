@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-filters.3-slicers 
+title: Apply filters with slicers
+metadata: 
+  title: Apply filters with slicers
+  description: Learn to apply filters with slicers.
+  ms.date: 10/11/2021 
+  author: heyrob 
+  ms.author: robde 
+  ms.topic: interactive-tutorial 
+  ms.service: powerbi 
+durationInMinutes: 5 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/3-slicers.md)] 

@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-driven-story-power-bi.13-lab
+title: Exercise - Enhance Power BI reports with slicers, interaction, and formatting
+metadata:
+  title: Lab - Enhance Power BI reports with slicers, interaction, and formatting
+  description: "In this lab, you'll create a three-page report named Sales Report. You'll then publish it to Power BI, whereupon you'll open and interact with the report."
+  ms.date: 10/26/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labId: 72678
+labModal: true
+durationInMinutes: 45
+content: |
+  [!include[](includes/13-lab.md)]

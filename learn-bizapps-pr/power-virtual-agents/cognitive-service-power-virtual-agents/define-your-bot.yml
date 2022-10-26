@@ -3,12 +3,11 @@ uid: learn-bizapps.cognitive-service-power-virtual-agents.define-your-bot
 title: Define your bot
 metadata:
   title: Define your bot
-  description: Learn to create and configure your bot.
+  description: Learn how to create and set up your bot.
   ms.date: 09/28/2022
   author: heyrob
   ms.author: robde
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-virtual-agents
 durationInMinutes: 4
 content: |
  [!include[](../includes/unit-banner.md)]

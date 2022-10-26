@@ -3,7 +3,7 @@ You can import data into your Microsoft Dataverse database in bulk from various 
 > [!NOTE]
 > The Pet table referred to here was created in the previous exercise.
 
-1. On [powerapps.com](https://make.powerapps.com/?azure-portal=true), in the left navigation pane, expand **Dataverse** and select **Tables**.
+1. On [make.powerapps.com](https://make.powerapps.com/?azure-portal=true), in the left navigation pane, expand **Dataverse** and select **Tables**.
 1. Select the **Pet** table, and then select **Import** and **Import data** from the menu at the top of the screen.
 
 	> [!div class="mx-imgBorder"]
