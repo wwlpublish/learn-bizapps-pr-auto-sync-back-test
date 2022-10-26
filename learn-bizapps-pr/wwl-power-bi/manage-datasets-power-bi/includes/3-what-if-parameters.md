@@ -1,6 +1,6 @@
 You can use *what-if* parameters to run scenarios and scenario-type analysis on your data. What-if parameters are powerful additions to your Power BI data models and reports because they enable you to look at historical data to analyze potential outcomes if a different scenario had occurred. Additionally, what-if parameters can help you look forward, to predict or forecast what could happen in the future.
 
-You can use what-if parameters in multiple situations, such as to determine the effect of increased sales to deeper discounts, or to let sales consultants see their compensation if they meet certain sales goals or percentages.
+You can use what-if parameters in multiple situations, such as to determine the effect of deeper discounts on increased sales, or to let sales consultants see their compensation if they meet certain sales goals or percentages.
 
 In the following example, you want to enable the Sales team to find out how much growth (percentage), from a sales perspective, that they need to make to earn USD 2 million gross sales each month.
 
