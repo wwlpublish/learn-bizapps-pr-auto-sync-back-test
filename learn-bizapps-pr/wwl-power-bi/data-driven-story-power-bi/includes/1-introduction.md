@@ -6,7 +6,7 @@ This module is instructional until you reach the interactive lab.  In this modul
 
 You have already begun adding and customizing visuals on the report. Now, you need to take the report to the next level to meet management's requirements.
 
-By the end of this module, you will be able to: 
+By the end of this module, you will be able to: 
 
 -   Design a report layout.
 
@@ -22,7 +22,7 @@ By the end of this module, you will be able to: 
 
 -   Apply slicing, filtering, and sorting.
 
--   Publish and export reports. 
+-   Publish and export reports. 
 
 -   Comment on reports.
 
