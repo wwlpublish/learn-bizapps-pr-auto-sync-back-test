@@ -1,10 +1,10 @@
-Data Analysis Expressions (DAX) is a programming language that is used throughout Microsoft Power BI for creating calculated columns, measures, and custom tables. It is a collection of functions, operators, and constants that can be used in a formula, or expression, to calculate and return one or more values. You can use DAX to solve a number of calculation and data analysis problems, which can help you create new information from data that is already in your model.
+Data Analysis Expressions (DAX) is a programming language that is used throughout Microsoft Power BI for creating calculated columns, measures, and custom tables. It is a collection of functions, operators, and constants that can be used in a formula, or expression, to calculate and return one or more values. You can use DAX to solve a number of calculation and data analysis problems, which can help you create new information from data that is already in your model.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWFLbx]
 
 In Power BI, you can use different calculation techniques and functions to create measures or calculated columns. Primarily, you will be able to achieve the same result by using these techniques; however, the key is to know how and when to apply them. By having a basic understanding of when and how to use which technique, you will be able to create robust and high-performance data models.
 
-By the end of this module, you'll be able to: 
+By the end of this module, you'll be able to: 
 
 -   Build quick measures.
 
@@ -25,7 +25,7 @@ DAX allows you to augment the data that you bring in from different data sources
 For example, assume that you are importing data from a database that contains sales transactions. Each individual sales transaction has the following columns: **Order ID**, **Product ID**, **Quantity**, and **Unit Price**. Notice that a column doesn't exist for the total sales amount for each order.
 
 > [!NOTE]
-> This module is not about data visualization, but it does show data visualization to demonstrate how DAX works. For more information, see the learning path, **Visualize data in Power BI**.  
+> This module is not about data visualization, but it does show data visualization to demonstrate how DAX works. For more information, see the learning path, **Visualize data in Power BI**.  
 
 The following figure shows how the initial shape of the data appears in a Power BI table visual.
 
@@ -103,14 +103,14 @@ Many available categories of calculations and ways to modify each calculation ex
 
 ## Create a quick measure
 
-To create a quick measure in Power BI Desktop, right-click or select the ellipsis (**...**) button next to any item in the **Fields** pane and then select **New quick measure** from the menu that appears. The **Quick measures** screen will appear.
+To create a quick measure in Power BI Desktop, right-click or select the ellipsis (**...**) button next to any item in the **Fields** pane and then select **New quick measure** from the menu that appears. The **Quick measures** screen will appear.
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Quick measures dialog box.](../media/02-quick-measure-ssm.png)](../media/02-quick-measure-ssm.png#lightbox)
 
 In the **Quick measures** window, you can select the calculation that you want and the fields to run the calculation against. For instance, you can select a calculation and the column that you want to operate over. Power BI creates the DAX measure for you and displays the DAX. This approach can be a helpful way to learn the DAX syntax.
 
-For more information, see the [Use quick measures for common calculations](/power-bi/desktop-quick-measures/?azure-portal=true) documentation.
+For more information, see the [Use quick measures for common calculations](/power-bi/desktop-quick-measures/?azure-portal=true) documentation.
 
 ## Create a measure
 

@@ -7,4 +7,4 @@
 
  *A limited number of concurrent sessions are available - if the hosted environment is unavailable, try again later.*
 
- Alternatively, you can use these [**setup instructions**](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/00-setup.html) to create your own lab environment, then follow these [**exercise instructions**](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/04-create-dax-calculations-in-power-bi-desktop.html).
+ Alternatively, you can use these [**setup instructions**](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/00-setup.html) to create your own lab environment, then follow these [**exercise instructions**](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/05-create-dax-calculations-in-power-bi-desktop-advanced.html).
