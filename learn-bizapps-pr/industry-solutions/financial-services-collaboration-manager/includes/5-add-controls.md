@@ -33,7 +33,7 @@ Before creating your customizations, you first need to create a solution to cont
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Add existing model-driven apps dialog with Collaboration Manager for Loans selected.](../media/add-model-driven.png)](../media/add-model-driven.png#lightbox)
 
-1. When the app shows in your solution, select it to open it.
+1. Select and open the app when it shows in your solution.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Solution editor.](../media/solution-edit.png)](../media/solution-edit.png#lightbox)
@@ -43,7 +43,7 @@ Before creating your customizations, you first need to create a solution to cont
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Form editor.](../media/form-edit.png)](../media/form-edit.png#lightbox)
 
-1. On the right side, select **+ Add** form and then select the **Loan tracker information form**.
+1. On the right side, select **+ Add form** and then select the **Loan tracker information form**.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Power Apps showing the app designer for Collaboration Manager for Loans with the options updated.](../media/form.png)](../media/form.png#lightbox)
