@@ -2,7 +2,7 @@
 uid: learn-bizapps.create-measures-dax-power-bi.8-lab
 title: Exercise - Time intelligence and measures in DAX
 metadata:
-  title: 'Lab - Time Intelligence and Measures in DAX '
+  title: 'Lab - Time intelligence and measures in DAX '
   description: "In this lab, you will create measures with DAX expressions involving filter context manipulation."
   ms.date: 10/27/2022
   author: wwlpublish
