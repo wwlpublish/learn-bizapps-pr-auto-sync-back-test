@@ -358,8 +358,8 @@ While you can create the **OTP** measure without these columns, the result is mo
 
 ```dax
 OTP = 
-VAR OperationalFlights = CALCULATE(COUNTROWS(Flight), NOT ISBLANK(Flight[DepartureTime]))
-VAR LateFlights = COUNTROWS(FILTER(Flight, DATEDIFF([ScheduledArrivalTime], [ArrivalTime], MINUTE) > 15))
+VAR OperationalFlights = CALCULATE(COUNTROWS(Flight), NOT ISBLANK(Flight[Actual Departure Time]))
+VAR LateFlights = COUNTROWS(FILTER(Flight, DATEDIFF([Scheduled Arrival Time], [Actual Arrival Time], MINUTE) > 15))
 RETURN
     DIVIDE(OperationalFlights - LateFlights, OperationalFlights)
 ```
