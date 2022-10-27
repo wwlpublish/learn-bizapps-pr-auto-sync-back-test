@@ -41,7 +41,7 @@ quiz:
     choices:
     - content: "Adding new synonyms to fields through Q&A tooling."
       isCorrect: false
-      explanation: "Incorrect. "Adding new synonyms to fields through Q&A tooling is a feature of the Q&A visual."
+      explanation: "Incorrect. Adding new synonyms to fields through Q&A tooling is a feature of the Q&A visual."
     - content: "Converting a Q&A answer into a visual inside your report."
       isCorrect: false
       explanation: "Incorrect. Converting a Q&A answer into a visual inside your report is a feature of the Q&A visual."
