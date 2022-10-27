@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-measures-dax-power-bi.8-lab
+title: Exercise - Time intelligence and measures in DAX
+metadata:
+  title: 'Lab - Time intelligence and measures in DAX '
+  description: "In this lab, you will create measures with DAX expressions involving filter context manipulation."
+  ms.date: 10/27/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labId: 72676
+labModal: true
+durationInMinutes: 45
+content: |
+  [!include[](includes/8-lab-advanced.md)]

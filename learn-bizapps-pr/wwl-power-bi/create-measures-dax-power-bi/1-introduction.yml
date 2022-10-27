@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.create-measures-dax-power-bi.1-introduction 
-title: Introduction to DAX 
-metadata: 
-  title: Introduction to DAX  
-  description: Learn about DAX.  
-  ms.date: 04/15/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-measures-dax-power-bi.1-introduction
+title: Introduction to DAX
+metadata:
+  title: 'Introduction to DAX '
+  description: "Learn about DAX."
+  ms.date: 10/27/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
 durationInMinutes: 10
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/1-introduction.md)] 
+content: |
+  [!include[](includes/1-introduction.md)]

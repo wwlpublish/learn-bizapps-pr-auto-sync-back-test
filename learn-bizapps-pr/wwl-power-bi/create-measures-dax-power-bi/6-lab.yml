@@ -1,18 +1,17 @@
-### YamlMime:ModuleUnit 
+### YamlMime:ModuleUnit
 uid: learn-bizapps.create-measures-dax-power-bi.6-lab
-title: Lab - Introduction to DAX in Power BI Desktop
-metadata: 
-  title: Lab - Introduction to DAX in Power BI Desktop  
-  description: In this lab, you will create calculated tables, calculated columns, and simple measures using Data Analysis Expressions (DAX). 
-  ms.date: 04/15/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
-durationInMinutes: 45
+title: Exercise - Introduction to DAX in Power BI Desktop
+metadata:
+  title: Lab - Introduction to DAX in Power BI Desktop
+  description: "In this lab, you will create calculated tables, calculated columns, and simple measures using Data Analysis Expressions (DAX)."
+  ms.date: 10/27/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
 labId: 72675
 labModal: true
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](../../power-bi/includes/access-lab.md)]
- [!include[](includes/6-lab.md)] 
+durationInMinutes: 45
+content: |
+  [!include[](includes/6-lab.md)]

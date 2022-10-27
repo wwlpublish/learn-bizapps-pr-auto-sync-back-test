@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.visuals-power-bi.2-add-visualization 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.visuals-power-bi.2-add-visualization
 title: Add visualization items to reports
-metadata: 
-  title: Add visualization items to reports 
-  description: Learn how to add visualization items to reports.  
-  ms.date: 03/18/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
-durationInMinutes: 1 
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/2-add-visualization.md)] 
+metadata:
+  title: Add visualization items to reports
+  description: "Learn how to add visualization items to reports."
+  ms.date: 10/26/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 1
+content: |
+  [!include[](includes/2-add-visualization.md)]

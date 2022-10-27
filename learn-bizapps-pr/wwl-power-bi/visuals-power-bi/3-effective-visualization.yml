@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.visuals-power-bi.3-effective-visualization 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.visuals-power-bi.3-effective-visualization
 title: Choose an effective visualization
-metadata: 
-  title: Choose an effective visualization 
-  description: Learn how to choose an effective visualization.  
-  ms.date: 03/18/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
-durationInMinutes: 10 
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/3-effective-visualization.md)] 
+metadata:
+  title: Choose an effective visualization
+  description: "Learn how to choose an effective visualization."
+  ms.date: 10/26/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
+durationInMinutes: 10
+content: |
+  [!include[](includes/3-effective-visualization.md)]

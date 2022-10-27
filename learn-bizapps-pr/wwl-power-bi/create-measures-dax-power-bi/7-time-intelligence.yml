@@ -1,15 +1,16 @@
-### YamlMime:ModuleUnit 
-uid: learn-bizapps.create-measures-dax-power-bi.7-time-intelligence 
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-measures-dax-power-bi.7-time-intelligence
 title: Work with time intelligence
-metadata: 
-  title: Work with time intelligence 
-  description: Learn about working with time intelligence.  
-  ms.date: 04/15/2022
-  author: heyrob 
-  ms.author: robde 
-  ms.topic: interactive-tutorial 
-  ms.service: powerbi 
+metadata:
+  title: Work with time intelligence
+  description: "Learn about working with time intelligence."
+  ms.date: 10/27/2022
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: interactive-tutorial
+  ms.service: powerbi
+azureSandbox: false
+labModal: false
 durationInMinutes: 10
-content: | 
- [!include[](../../power-bi/includes/unit-banner.md)] 
- [!include[](includes/7-time-intelligence.md)] 
+content: |
+  [!include[](includes/7-time-intelligence.md)]
