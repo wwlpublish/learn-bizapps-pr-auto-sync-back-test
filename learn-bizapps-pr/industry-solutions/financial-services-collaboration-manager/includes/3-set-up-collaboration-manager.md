@@ -2,6 +2,8 @@ In this exercise, you'll set up the Collaboration Manager for Loans settings so 
 
 The objective of this exercise is for you to learn how to embed a model-driven app like Collaboration Manager for Loans, in Teams as a Teams tab and as a personal app.
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE58W6Y]
+
 ## Task 1: Create a new team in Microsoft Teams
 
 Follow these steps to create a new team in Microsoft Teams:
