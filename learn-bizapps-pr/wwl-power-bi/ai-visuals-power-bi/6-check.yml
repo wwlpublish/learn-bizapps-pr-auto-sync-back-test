@@ -37,14 +37,14 @@ quiz:
     - content: "Yes, you can, but you will need to add the Q&A visual to your reporting canvas and then link your button with the visual that you have added."
       isCorrect: false
       explanation: "Incorrect. Yes, you can access the Q&A feature by selecting the Q&A button type."
-  - content: "Which of the following selections is a feature of the Q&A visual?"
+  - content: "Which of the following selections is NOT a feature of the Q&A visual?"
     choices:
     - content: "Adding new synonyms to fields through Q&A tooling."
       isCorrect: false
-      explanation: "Incorrect. Searching for help topics about Power BI is not a feature of the Q&A visual."
+      explanation: "Incorrect. "Adding new synonyms to fields through Q&A tooling is a feature of the Q&A visual."
     - content: "Converting a Q&A answer into a visual inside your report."
       isCorrect: false
-      explanation: "Incorrect. Searching for help topics about Power BI is not a feature of the Q&A visual."
+      explanation: "Incorrect. Converting a Q&A answer into a visual inside your report is a feature of the Q&A visual."
     - content: "Searching for help topics about Power BI."
       isCorrect: true
       explanation: "Correct. Searching for help topics about Power BI is not a feature of the Q&A visual."
