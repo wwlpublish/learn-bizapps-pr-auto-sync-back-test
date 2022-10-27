@@ -1,5 +1,7 @@
 In this exercise, you'll navigate Collaboration Manager for Loans and explore the collaborative features that it provides. In this case, you'll examine the home loan for Hayden Reyes to determine how a loan team could collaborate to ensure completion of the loan.
 
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE5aRmu]
+
 1. Open the Teams channel that you pinned your app to in the previous exercise. A dashboard page will open, showing graphs of the relevant data along with a list of loans that are currently active.
     > [!div class="mx-imgBorder"]
     > [![Screenshot of Microsoft Teams showing the team channel open to the tab for the loans app.](../media/loans.png)](../media/loans.png#lightbox)

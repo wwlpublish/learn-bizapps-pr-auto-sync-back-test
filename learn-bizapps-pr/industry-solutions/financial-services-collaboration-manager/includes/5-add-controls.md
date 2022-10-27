@@ -1,5 +1,7 @@
 In this exercise, you'll embed the **Loan Application** form from the Loan Tracker app so that your users can have access to more information within Collaboration Manager for Loans. All apps in Microsoft Cloud for Financial Services use the same data model, which allows you to mix and match the experiences for the various apps.
 
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE5aOOL]
+
 ## Task 1: Replace a default form within Collaboration Manager
 
 Before creating your customizations, you first need to create a solution to contain the changes. 
