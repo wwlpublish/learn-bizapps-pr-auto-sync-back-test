@@ -1,4 +1,6 @@
-In this exercise, you'll navigate Collaboration Manager for Loans and explore the collaborative features that it provides. In this case, you'll examine the home loan for Hayden Reyes to determine how a loan team could collaborate to ensure completion of the loan.
+In this exercise, you'll navigate Collaboration Manager for Loans and explore the collaborative features that it provides. You'll examine the home loan for Hayden Reyes to determine how a loan team could collaborate to ensure completion of the loan.
+
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE5aRmu]
 
 1. Open the Teams channel that you pinned your app to in the previous exercise. A dashboard page will open, showing graphs of the relevant data along with a list of loans that are currently active.
     > [!div class="mx-imgBorder"]
@@ -94,7 +96,7 @@ Follow these steps to create meetings in Collaboration Manager for Loans:
 
 1. To schedule an external meeting with the customer, select the arrow next to the **New Meeting** button and then select **Customer Booking**.
 
-1. In the **Customer Booking** dialog, the relevant customer is already prepopulated by using the information in the loan application. You can provide more information about the meeting before selecting **Save**. You can add more booking types by adding more services within your Bookings business.
+1. In the **Customer Booking** dialog, the relevant customer is already prepopulated by using the information in the loan application. You can provide more information about the meeting before selecting **Send**. You can add more booking types by adding more services within your Bookings business.
 
     > [!div class="mx-imgBorder"]
     > [![Screenshot of the Customer Booking dialog.](../media/booking.png)](../media/booking.png#lightbox)
