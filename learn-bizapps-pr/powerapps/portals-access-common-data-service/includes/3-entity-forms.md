@@ -106,7 +106,7 @@ More settings define other aspects of form behavior, such as styling, translatio
 
 **Geolocation** - A basic form can be configured to display a map control to display an existing location as a pin on a map or to provide a user with the ability to specify a location. For more information, see [Add Geolocation](/power-apps/maker/portals/configure/add-geolocation/?azure-portal=true).
 
-The form's map control requires other configuration to tell it what the various location columns are, to assign values to them, or retrieve values from them. For more information, see [Geolocation configuration for basic forms](/power-apps/maker/portals/configure/entity-forms.md?azure-portal=true#geolocation-configuration-for-entity-forms).
+The form's map control requires other configuration to tell it what the various location columns are, to assign values to them, or retrieve values from them. For more information, see [Geolocation configuration for basic forms](/power-apps/maker/portals/configure/add-geolocation/?azure-portal=true).
 
 > [!div class="mx-imgBorder"]
 > [![Screenshot of the Table form with geolocation enabled.](../media/3-entity-form-geolocation-ss.png)](../media/3-entity-form-geolocation-ss.png#lightbox)
