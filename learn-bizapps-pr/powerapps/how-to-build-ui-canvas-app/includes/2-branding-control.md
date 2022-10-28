@@ -29,7 +29,7 @@ Disabled properties
 -------------------
 
 These properties are in effect when the control is disabled. A control
-can be disabled if the **Disabled** property is set to **Disabled**.
+can be disabled if the **DisplayMode** property is set to **Disabled**.
 
 - DisabledColor - The color of text in a control if its **DisplayMode**
  property is set to **Disabled**.
