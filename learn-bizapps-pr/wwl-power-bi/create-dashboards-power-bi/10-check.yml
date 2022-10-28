@@ -35,13 +35,13 @@ quiz:
       isCorrect: false
       explanation: "Reports and dashboards have similar functionalities but are different."
     - content: "In reports, you can use the slicers and filter by selecting a data point on a visual; in dashboards, you cannot."
-      isCorrect: true
+      isCorrect: false
       explanation: "In both reports and dashboards, you can use the slicers and filter by selecting a data point."
     - content: "In reports, you can have multiple pages; in dashboards, you can have only one page."
       isCorrect: false
       explanation: "You can have only one-page dashboards, but you can have multiple page reports."
     - content: "You can only build reports and dashboards in Power BI service."
-      isCorrect: false
+      isCorrect: true
       explanation: "You can only build dashboards in Power BI service."
   - content: "Where can you configure and set data alerts?"
     choices:
