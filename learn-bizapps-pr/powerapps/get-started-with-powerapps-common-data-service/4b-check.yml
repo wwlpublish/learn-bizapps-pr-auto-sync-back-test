@@ -24,7 +24,7 @@ quiz:
     - content: Many-to-one and Many-to-many
       isCorrect: false
       explanation: The two types of relationships you can create are One-to-many and Many-to-many.
-    - content: One-to-one and Many-to-many
+    - content: One-to-one and Many-to-one
       isCorrect: false
       explanation: The two types of relationships you can create are One-to-many and Many-to-many.
   - content: How many apps can use the same Table?
